@@ -1,0 +1,1094 @@
+MINIREVIEW
+
+miRNAs and regulation of cell signaling
+Atsuhiko Ichimura, Yoshinao Ruike, Kazuya Terasawa and Gozoh Tsujimoto
+Department of Genomic Drug Discovery Science, Graduate School of Pharmaceutical Sciences, Kyoto University, Japan
+
+Keywords
+cell signaling; feedback regulation; miRNAs;
+regulatory network; signal cascades
+Correspondence
+G. Tsujimoto, Department of Genomic Drug
+Discovery Science, Graduate School of
+Pharmaceutical Sciences, Kyoto University,
+46–29 Yoshida Shimoadachi-cho, Sakyo-ku,
+Kyoto 606-8501, Japan
+Fax: +81 75 753 4544
+Tel: +81 75 753 4523
+E-mail: gtsuji@pharm.kyoto-u.ac.jp
+
+MicroRNAs (miRNAs) regulate gene expression post-transcriptionally by
+binding to target mRNAs in a sequence-speciﬁc manner. A large number
+of genes appear to be the target of miRNAs, and an essential role for
+miRNAs in the regulation of various conserved cell signaling cascades,
+such as mitogen-activated protein kinase, Notch and Hedgehog, is emerging. Extensive studies have also revealed the spatial and temporal regulation of miRNA expression by various cell signaling cascades. The insights
+gained in such studies support the idea that miRNAs are involved in the
+highly complex network of cell signaling pathways. In this minireview, we
+present an overview of these complex networks by providing examples of
+recent ﬁndings.
+
+(Received 10 November 2010, revised 6
+February 2011, accepted 1 March 2011)
+doi:10.1111/j.1742-4658.2011.08087.x
+
+Introduction
+In higher organisms, the regulation of the transcriptome is extremely complicated. Traditionally, regulation of the transcriptome referred mainly to the
+activation or repression of gene expression by transcription factors. However, gene expression in higher
+organisms is now known to be controlled by a multilayered regulatory network that includes epigenetic
+modiﬁcation of the genome and post-translational
+modiﬁcation of gene products. The discovery of
+microRNAs (miRNAs), which regulate gene expression
+post-transcriptionally, has added to the complexity of
+transcriptional regulation. At present, the expression of
+miRNAs can be proﬁled using various available platforms, which are based on microarrays, high-throughput sequencing or quantitative real-time PCR. Many
+studies have reported that miRNAs show speciﬁc spatiotemporal patterns of expression. Expression proﬁling
+
+studies have identiﬁed miRNAs that are speciﬁc to particular organs or cell lines and have revealed an inverse
+correlation between the expression of a miRNA and
+that of its target mRNAs [1]. Several previous studies
+have revealed that miRNAs play an important role in
+various cellular processes, including proliferation, differentiation, apoptosis and development [2]. The negative regulation of gene expression by miRNAs has been
+reported to contribute to the ﬁne regulation of important physiological and pathological responses, such as
+oligodendrocyte cell differentiation [3], epigenetic modiﬁcation [4] and DNA damage response [5], as well as
+embryonic stem cell function and fate [6]. Further studies have demonstrated that a large number of miRNAs
+are under the control of various important signal transduction cascades. These miRNAs appear to contribute
+to the regulation of different signaling pathways via the
+
+Abbreviations
+AP-1, activation protein 1; EcR, ecdysone receptor; EMT, epithelial–mesenchymal transition; ERa, estrogen receptor-a; ERK, extracellular
+signal-regulated kinase; GPC, granule cell progenitor; Hh, Hedgehog; MAPK, mitogen-activated protein kinase; MB, medulloblastoma;
+miRNA, microRNA; NF-jB, nuclear factor kappa B; R-smad, receptor-regulated SMAD; TGF, transforming growth factor.
+
+1610
+
+FEBS Journal 278 (2011) 1610–1618 ª 2011 The Authors Journal compilation ª 2011 FEBS
+
+A. Ichimura et al.
+
+repression of their target genes, which results in the regulation and modulation of signal transduction [7].
+However, the precise mechanisms that regulate miRNA
+expression remain unclear.
+In this minireview, we describe the role of miRNAs
+with respect to the complicated regulation of the transcriptome and signal transduction. Although miRNAs
+and well-established cell signaling pathways have been
+the subject of recent reviews [7–10], few have focused
+upon the role of miRNAs in regulatory network of
+various cell signaling pathways. We summarize the
+current knowledge of the interdependence of miRNA
+and cell signaling pathways, which results in highly
+complicated networks for the regulation of the transcriptome. Current ﬁndings on the role of miRNAs in
+cardiac diseases [11] and recent discoveries involving
+the miRNA–epigenetics regulatory network [12] are
+reviewed in the accompanying minireviews.
+
+miRNAs are involved in various signal
+cascades
+First, we focus on the roles of miRNAs in various conserved signaling pathways. Many miRNAs are induced
+by the action of conserved signaling pathways but, in
+turn, the induced miRNAs regulate these pathways by
+repressing the expression of components of the signaling pathways and, in some cases, components of other
+signaling pathways, thus forming a complex regulatory
+network (Fig. 1).
+The mitogen-activated protein kinase (MAPK) signaling pathway is a highly conserved module that is
+involved in various cellular functions, including cell
+proliferation, differentiation and migration [13].
+Recently, the mechanisms of transcription and the functional roles of miRNAs associated with MAPK signaling have been revealed. miR-21 is one of the most
+interesting examples of an miRNA that is associated
+with the MAPK signaling pathway. Thum et al. [14]
+reported that miR-21 regulates the extracellular signalregulated kinase (ERK) ⁄ MAPK signaling pathway in
+cardiac ﬁbroblasts [14]. The expression of miR-21 is
+increased selectively in ﬁbroblasts of the failing heart,
+which augments ERK ⁄ MAPK activity through the
+inhibition of sprouty homolog 1, a negative regulator
+of MAPK [15]. Furthermore, it has been reported that
+miR-21 is upregulated during cardiac hypertrophic
+growth and represses the expression of Sprouty 2
+(Spry2), which negatively regulates ERK1 ⁄ 2 [16].
+Hence, miR-21 increases the basal activity of ERK1 ⁄ 2
+by repressing Spry2. Recently, Huang et al. [17]
+reported that the expression of miR-21 is upregulated
+via the ERK1 ⁄ 2 pathway upon stimulation of
+
+miRNAs and cell signaling
+
+HER2 ⁄ neu signaling and that miR-21 suppresses the
+metastasis suppressor protein PDCD4 (programmed
+cell death 4) in breast cancer cells. The expression of
+miR-21 is also upregulated by overexpression of other
+ERK1 ⁄ 2 activators, such as RASV12 and ID-1, in
+HER2 ⁄ neu-negative breast cancer cells. Moreover, Fujita et al. [18] have reported the activation of miR-21
+expression by 4b-phorbol 12-myristate 13-acetate in
+HL60 cells [18]. The transcription factor activation protein 1 (AP-1) triggers the expression of miR-21 through
+binding to several AP-1 binding sites that are found in
+the promoter of the gene for miR-21. Taken together,
+these studies suggest that miR-21 acts as a positivefeedback regulator of the MAPK-ERK signaling pathway because miR-21 is both induced by the activation
+of ERK1 ⁄ 2 and enhances the activity of ERK1 ⁄ 2 by
+repressing negative regulators of the ERK ⁄ MAPK signaling pathway.
+Some other miRNAs are also reported to be induced
+by the MAPK signaling pathway. In the human B-cell
+line Ramos, miR-155 is induced by signaling by the
+B-cell receptor through the ERK and c-Jun N-terminal
+kinase pathways but not by the p38 pathway. The
+induction of miR-155 depends on a conserved AP-1
+site that is approximately 40 bp upstream from the site
+of initiation of miR-155 transcription [19]. We previously reported that simulation with nerve growth factor induced the expression of miR-221 and miR-222 in
+PC12 cells, and that this induction is dependent on
+sustained activation of the ERK1 ⁄ 2 pathway [20].
+Furthermore, the induction of miR-34a depends on the
+activation of ERK1 ⁄ 2 in K562 cells [21,22]. We have
+demonstrated that the activation of MEK ⁄ ERK signaling by 4b-phorbol 12-myristate 13-acetate induces the
+expression of miR-34a, which then inhibits MEK1
+expression, and leads to the repression of cell proliferation during megakaryocytic differentiation in K562
+cells [21]. In addition, miR-34c is induced under the
+control of both p53 and p38-MAPK, and prevents
+Myc-dependent DNA replication by targeting c-Myc
+[23]. Kawashima et al. [24] reported that brain-derived
+neurotrophic factor upregulates miR-132 expression
+via the ERK-MAPK pathway, which results in the
+upregulation of glutamate receptors in cultured cortical
+neurons. These studies indicate that many miRNAs
+are involved in the MAPK signaling pathway and
+these miRNAs have important roles in various cellular
+functions. Because a single miRNA usually targets
+many genes, the inﬂuence of miRNAs on the components of different signaling pathways could be complex. Many studies in various model organisms,
+including Drosophila and Caenorhabditis elegans, have
+provided evidence to support this scenario.
+
+FEBS Journal 278 (2011) 1610–1618 ª 2011 The Authors Journal compilation ª 2011 FEBS
+
+1611
+
+miRNAs and cell signaling
+
+A. Ichimura et al.
+
+A
+
+Signal
+
+MAPKKK
+5´...CUAGCCAGAGCCCUUCACUGCCA...
+||||
+|||||||
+3´ UUGUUGGUCGAUUCU-GUGACGGU
+
+MAP2K1 3´ UTR
+hsa-miR-34a
+
+ERK-MAPK signaling
+MEK
+
+miR-34a
+
+p53 Signaling
+
+ERK
+
+Spry1, 2
+
+miR-21
+
+SPRY1 3´ UTR 5´...CAUGUAAGUGCUUAAAUAAGCUA...
+|||
+|||||||
+mmu-miR-21 3´ AGUUGUAGUCAGAC---UAUUCGAU
+
+miR-221/222,
+miR-132
+miR-155
+
+SPRY2 3´ UTR 5´ ...GGAGACCCACAUUGCAUAAGCUA...
+||
+|||||||
+mmu-miR-21 3´
+AGUUGUAGUCAGAC-UAUUCGAU
+
+MAPK signaling pathway
+
+B
+
+E
+
+TGF- s/BMPs
+
+Three miRNA
+families
+
+Notch signaling
+
+R-smads
+GY-box: 5´ ...GUCUUCC...
+|||||||
+dme-miR-7 3´ UGUUGUUUUAGUGAUCAGAAGGU
+GY-box family miRNA
+
+p68
+Drosha
+DGCR8
+pri-miR-21,
+199a
+
+Brd-box: 5´ ...AGCUUUA...
+|||||||
+dme-miR-4 3´ AGUUACCAACAGAUCGAAAUA
+dme-miR-79 3´ UACGAACCAUUAGAUCGAAAUA
+Brd-box family miRNAs
+
+Target genes
+GY-box, Brd-box,
+K-box
+
+pre-miR-21,
+199a
+
+K-box: 5´ ...cUGUGAUa...
+||||||
+dme-miR-2a 3´ CGAGUAGUUUCGACCGACACUAU
+dme-miR-2b 3´ CGAGGAGUUUCGACCGACACUAU
+dme-miR-11 3´
+CGUUCUUGAGUCUGACACUAC
+K-box family miRNAs
+
+TGF- signaling
+
+LIN-12 signaling
+miR-200 family
+
+ZEB1
+
+miR-200a, 200b, 200c,
+141, 429
+Site 1:
+ZEB1 3´ UTR
+
+5´ ...AUUGUUUUAUCUUAUCAGUAUUA...
+|||
+|||||||
+AGUAGUAAUGGUCC-GUCAUAAU
+AGGUAGUAAUGGGCC-GUCAUAAU
+
+hsa-miR-200b 3´
+hsa-miR-200c 3´
+
+VAV-1
+
+miR-61
+vav-1 3´ UTR 5´
+cel-miR-61
+
+3´
+
+E-cadherin
+
+...CUGAGUGUGACAGCGCUAGUCA...
+||||| ||| | |||||||
+CUACUCA--UUGCCAAGAUCAGU
+
+site 2:
+ZEB1 3´ UTR
+
+5´ ...AUGCUAAAUCCGCUUCAGUAUUU...
+|||||||
+AGUAGUAAUGGUCCGUCAUAAU
+AGGUAGUAAUGGGCC-GUCAUAAU
+
+hsa-miR-200b 3´
+hsa-miR-200c 3´
+
+Notch signalling pathway
+
+C
+
+F
+Ecdyson
+Hh
+
+Smo 3´ UTR 5´
+hsa-miR-326 3´
+
+...CUAGGAUCCCGUCUUCCAGAGAA...
+|||
+|||||
+GACCUCCUUCCCGG----GUCUCC
+
+Smo 3´ UTR
+
+5´ ...GACAGGGCCCUGGAGCUCAGGGU...
+|||
+|||||||
+hsa-miR-125b 3´
+AGUGUUCAAUCCCA--GAGUCCCU
+
+Ptch
+
+EcR
+
+Smo 3´ UTR 5´
+
+miR-14
+Site 1:
+EcR 3´ UTR 5´ ...GGAAGAGAGAAGGAAUAAAGAUUGU...
+||||||||
+||| ||
+dme-miR-14 3´ AUCC-UCUCUCUUUU-----UCUGACU
+
+miR-125b, miR-324-5p,
+miR-326
+
+Gli
+Gli1 3´ UTR 5´
+
+site 2:
+EcR 3´ UTR 5´ ...AACACGCAAAACUUGGACUGAU...
+||||||
+AUCCUCUCUCUUUUUCUGACU
+
+...ACACCCAUUUAGUGGGGGAUGGG...
+|||| ||
+||||||| |
+UGUGGUUACGGGAUCCCCUACGC
+
+hsa-miR-324-5p 3´
+
+Smo
+
+...GCACAAGAUGCCCCA-GGGAUGGG...
+|||
+||||||
+|||||| |
+UGUGGU-UACGGGAUCCCCUACGC
+
+hsa-miR-324-5p 3´
+
+dme-miR-14 3´
+
+Hh signalling pathway
+
+site 2:
+EcR 3´ UTR 5´ ...AUAAUGAAAUGAAAGUGAUUGGA...
+||
+|||| || ||
+dme-miR-14 3´
+AUCCUCUCU-CUUUUUCUGACU
+
+EcR signalling pathway
+
+D
+
+Hippo signaling
+
+G
+Wnt
+
+Wntless
+
+miR-278
+bantam
+
+Energy homeostsis
+
+Cell growth
+Cell cycle
+Cell survival
+Site1:
+Expanded UTR 5´ ...AAAUGUAAACGAAAA-CCCACCGU...
+|||||
+|||||| |||||||
+dme-miR-278 3´
+UUUGCC--UGCUUUCAGGGUGGCU
+site2:
+Expanded UTR 5´ ...AGAUGGUAAAAUACACGAG----CCACUGA...
+||:|||
+|||||
+||||:||
+dme-miR-278 3´
+UUUGCC--------UGCUUUCAGGGUGGCU
+
+Hippo signalling pathway
+
+1612
+
+miR-8
+TCF
+Wntless 3´ UTR 5´ ...UAUGUAUGCGCCUCGGCAGUAUUAU...
+|::| | :||| |:||||||||
+3´
+CUGUAGUAAUGGA-CUGUCAUAAU
+
+dme-miR-8
+
+Wnt signaling pathway
+
+Fig. 1. Involvement of miRNAs in various
+signaling cascades. Many miRNAs are under
+the control of various conserved signaling
+pathways and in turn regulate components
+of these pathways, which results in the
+formation of complex regulatory networks.
+Model of regulatory networks in the (A)
+MAPK signaling pathway, (B) Notch signaling pathway, (C) EcR signaling pathway, (D)
+Hippo signaling pathway, (E) TGF-b signaling
+pathway, (F) Hh signaling pathway, and (G)
+Wnt signaling pathway.
+
+FEBS Journal 278 (2011) 1610–1618 ª 2011 The Authors Journal compilation ª 2011 FEBS
+
+A. Ichimura et al.
+
+The Notch signaling pathway plays an essential
+role in a variety of biological processes in multicellular organisms. In Drosophila, two large families of
+Notch target genes are clustered at two genomic locations. These families are named the bearded and
+enhancer of split complexes. These Notch target
+genes contain conserved motifs, which are named the
+GY-box, Brd-box and K-box, in their 3¢ UTR. The
+members of three different families of miRNAs
+(miR-2, miR-4, miR-7, miR-11 and miR-79) have
+been shown to regulate the Notch target genes, negatively, by binding to these motifs. This negative regulation prevents the aberrant activation of Notch
+signaling [25]. In C. elegans, miR-61 is a direct
+transcriptional target of lin-12 ⁄ Notch. In addition,
+miR-61 targets Vav-1, which is a negative regulator
+of LIN-12, and hence functions in a positive-feedback
+manner [26].
+A steroid receptor signaling pathway in ﬂies is also
+reported to be regulated by an miRNA. Ecdysone
+receptor (EcR) signaling constitutes an autoregulatory
+loop, in which the activation of EcR induces the
+expression of EcR itself. miR-14 targets EcR mRNA
+and modulates this loop. Interestingly, EcR signaling
+reciprocally regulates transcription of the genes for
+miR-14 and EcR. This prevents activation of the loop
+by transient transcriptional noise [27].
+The Hippo signaling pathway, which is involved in
+the control of tissue growth, has been studied extensively in Drosophila and recently emerged as an
+important contributor to turmorigenesis in vertebrates. The Drosophila miRNA bantam is a direct
+transcriptional target of the Hippo signaling pathway,
+and it has been shown to promote growth and inhibit
+apoptosis [28,29]. The Drosophila miR-278 plays
+a role in the control of energy homeostasis. This
+miRNA is also known to target and regulate a component of the Hippo signaling pathway [30,31]. However, no homologs of bantam or miR-278 are found
+in vertebrates and no functionally equivalent miRNAs
+have been found to date. In humans, miR-372 and
+miR-373, which have been implicated as oncogenes in
+tumors of testicular germ cells, have been reported to
+target and regulate LATS2, which is a homolog of a
+component of the Hippo signaling pathway [32].
+An interesting ﬁnding concerning the biogenesis of
+miRNAs has been reported with respect to signaling by
+members of the transforming growth factor b (TGF-b)
+family [33]. Receptor-regulated SMADs (R-smads) are
+involved in the processing of pri-miRNAs. Stimulation
+by an appropriate ligand causes the recruitment of
+R-smads to speciﬁc pri-miRNAs that are bound to
+the Drosha–DiGeorge syndrome critical region gene 8
+
+miRNAs and cell signaling
+
+complex and RNA helicase p68. The recruitment of
+the R-smads stimulates the production of these miRNAs and thus represses the expression of their target
+genes. TGF-b signaling is known to be involved in
+the epithelial–mesenchymal transition (EMT). The
+transcription factors ZEB1 and ZEB2 are downstream mediators of TGF-b signaling and negatively
+regulate the expression of E-cadherin. The miR-200
+family is reported to target ZEB1 and ZEB2, which
+results in the inhibition of EMT in vertebrate cell
+lines [34–36]. The miR-200 family is markedly
+decreased in cells that have undergone EMT as a
+result of stimulation with TGF-b [35]. Interestingly,
+ZEB1 reciprocally represses the expression of the
+miR-200 cluster and hence promotes EMT in a feedforward manner [37].
+The Hedgehog (Hh) signaling pathway has a pivotal
+role in animal development and functions as a master
+regulator of cerebellar granule cell progenitors (GPCs).
+Medulloblastoma (MB) is the most common pediatric
+brain malignancy and is caused by the disruption of
+Hh signaling. Microarray analysis of human MBs with
+high levels of Hh signaling identiﬁed miRNAs that
+had been downregulated. Some of these miRNAs
+(miR-125b, miR-326 and miR-324-5p) target activator
+components of the Hh signaling pathway and suppress
+Hh signaling, which suggests that these miRNAs are
+involved in MB. miR-324-5p also targets a downstream transcriptional regulator of Hh signaling and,
+interestingly, is located in a genomic region whose
+deletion is associated with MB. Moreover, the abovementioned miRNAs are upregulated during GPC differentiation, which suggests that they might function
+in vivo by inhibiting Hh activity during the differentiation of GPCs [38].
+With respect to the Wnt signaling pathway, a screening assay has identiﬁed miRNAs that modulate Wnt
+signaling [39]. In Drosophila, miR-8 negatively regulates Wnt signaling at multiple levels, targeting the
+downstream component T cell factor and two
+upstream positive components, including Wntless,
+which is required for the secretion of Wnt. Mammalian
+homologs of miR-8 were also shown to inhibit Wnt
+signaling in a cell culture model [39].
+Taken together, the results show that the transcriptional hierarchy downstream of various important signal cascades appears to include multiple miRNAs.
+miRNAs may mediate cross-talk between various signaling pathways via the repression of their target genes.
+Indeed, several examples of feedback regulation that
+involve miRNAs have been reported. Below, we attempt
+to summarize our recent understanding of feedback
+regulation of signal cascades that involve miRNAs.
+
+FEBS Journal 278 (2011) 1610–1618 ª 2011 The Authors Journal compilation ª 2011 FEBS
+
+1613
+
+miRNAs and cell signaling
+
+A. Ichimura et al.
+
+miRNAs act as feedback regulators of
+signal cascades
+miR-34a is one of the most interesting examples of an
+miRNA that is associated with a complicated regulatory mechanism of gene expression. Initially, miR-34a
+was identiﬁed as a putative tumor suppressor that regulates the E2F signaling pathway and induces apoptosis in neuroblastoma cells [40]. Moreover, it was
+reported that the direct transactivation of miR-34a
+contributes to p53-mediated apoptosis in various
+tumors [41–44]. Subsequently, SIRT1, which is a regulator of p53 activation, was reported to be a target of
+miR-34a, which suggests that miR-34a participates in
+a double-negative-feedback loop and contributes to the
+ﬁne-tuning of p53 activity [45,46]. miR-34a is also
+induced by a p53-independent pathway: ELK1, which
+is a member of the ETS family of transcription factors,
+mediates the induction of miR-34a during cell senescence caused by the constitutive activation of the
+kinase B-RAF [47]. In addition, both ourselves [21]
+and Navarro et al. [22] identiﬁed TPA-dependent
+transactivation of miR-34a during megakaryocytic
+differentiation of K562, which is a p53-null chronic
+myelocytic leukemia cell line. The ﬁnding that TPAinduced upregulation of miR-34a depends on the activation of the ERK signal cascade and that miR-34a
+downregulates MEK1, which is one of the main regulators of ERK signaling, indicates that miR-34a is
+involved in negative-feedback regulation of the ERK
+signal cascade. These studies indicate that a complicated regulatory network maintains the expression of
+the signaling molecules and miR-34a; at least three signalling pathways affect the expression of miR-34a and
+two of their components are negatively regulated by
+miR-34a (Fig. 2).
+Some other mutual regulatory relationships between
+miRNAs and various signaling pathways have been
+reported. Xu et al. [48] proposed the existence of a
+double-negative-feedback loop controlled by miR-145
+and three factors that regulate self-renewal and pluripotency: OCT4, SOX2 and KLF4. Castellano et al.
+[49] revealed that the expression of estrogen receptor-a
+(ERa) is autoregulated by miR-18a, -19b and -20b,
+which in turn are upregulated by the activation of
+ERa. This mechanism of regulation provides a wide
+range of coordinated cellular responses to estrogen
+[49]. In the self-renewal of neural stem cells, miR-9
+acts with the nuclear receptor TLX to provide a
+feedback regulatory loop that controls the balance
+between neural stem cell proliferation and differentiation [50]. miR-9 is induced by lipopolysaccharide via
+the activation of the receptor TLR4 and also is
+
+1614
+
+A
+Other targets
+MEK
+
+Other pathway
+
+ERK
+
+CDK4, 6
+Cyclin D1, E2
+
+?
+
+c-fos
+miR-34a
+Raf
+
+SIRT1
+
+Myc
+E2F3
+Bcl-2
+
+Growth arrest
+Cell differentiation
+Apoptosis
+Cell cycle arrest
+
+Elk1
+p53
+
+active p53
+
+B
+MAP2K1 3´ UTR 5´...CUAGCCAGAGCCCUUCACUGCCA...
+||||
+|||||||
+hsa-miR-34a 3´ UUGUUGGUCGAUUCU-GUGACGGU
+SIRT1 3´ UTR 5´ ...ACACCCAGCUAGGACCAUUACUGCCA...
+||| ||||||| ||
+|||||||
+UGUUGGUCGAUUCU----GUGACGGU
+hsa-miR-34a 3´
+BCL2 3´ UTR 5´ ...UCGAAUCAGCUAUUU-ACUGCCAA...
+||||||
+||||||
+hsa-miR-34a 3´
+UGUUGGUCGAUUCUGUGACGGU
+E2F3 3´ UTR 5´
+hsa-miR-34a 3´
+MYC 3´ UTR 5´
+hsa-miR-34a 3´
+
+...CAAUUAAUUUGUAAACACUGCCA...
+|||||||
+UGUUGGUCGAUUCUGUGACGGU
+...UUAGCCAUAAUGUAAACUGCCUC...
+||| |||
+||||
+UUGUUGGUCGAUU-CUG-UGACGG-U
+
+CDK4 3´ UTR 5´ ...AGUGAGCAAUGGAGUGGCUGCCA...
+|
+| ||
+||
+||||||
+UUGUUGGUCGAUUCUGUGACGGU
+hsa-miR-34a 3´
+CDK6 3´ UTR 5´
+hsa-miR-34a 3´
+CCND1 3´ UTR 5´
+hsa-miR-34a 3´
+CCNE2 3´ UTR 5´
+hsa-miR-34a 3´
+
+...GUACUUUCUGCCACACACUGCCU...
+|||||||
+UGUUGGUCGAUUCUGUGACGGU
+...UUUACAAUGUCAUAUACUGCCAU...
+||||||
+UGUUGGUCGAUUCUGUGACGGU
+...CCUAGCCAAUUCACAAGUUACACUGCCA...
+| ||| | |||
+|||||||||
+UUGUUGGUCGA--UUC---UGUGACGGU
+
+Fig. 2. miR-34a is regulated by three signaling pathways. The findings of nine studies are summarized in this model [21,22,41–47].
+(A) miR-34a is regulated by at least three signaling pathways. Two
+components of these pathways are negatively regulated by miR34a. miR-34a mediates several biological functions by repressing
+the indicated targets and presumably hundreds of other as yet
+unidentified targets. (B) miR-34a and the miR-34a-binding site in
+the 3¢ UTR of genes shown in (A).
+
+involved in the feedback control of nuclear factor
+kappa B (NF-jB)-dependent responses by inhibiting
+the expression of NFKB1 in human polymorphonuclear neutrophils [51].
+Feedback regulation by miRNAs in the context of
+cancer has also been reported. Aguda et al. [52]
+
+FEBS Journal 278 (2011) 1610–1618 ª 2011 The Authors Journal compilation ª 2011 FEBS
+
+A. Ichimura et al.
+
+miRNAs and cell signaling
+
+Table 1. miRNAs involved in the feedback regulation of signal cascades.
+
+miRNA(s)
+
+Gene targets
+
+Related signal cascade(s) and ⁄ or
+transcription factors
+
+Reference
+
+miR-34a
+miR-145
+miR-18a, 19b, 20b
+miR-9
+miR-17-92
+miR-200a, 200b, 429
+miR-17-5p ⁄ 20a
+miR-206
+miR-15a
+let-7
+miR-21
+miR-132
+miR-61
+
+MYC, SIRT1, MEK1, CDK4, CDK6
+Oct4, SOX2, KLF4
+ERa
+TLX, NFKB1
+E2F, Myc
+ZEB1 ⁄ deltaEF1, SIP1 ⁄ ZEB2
+Cyclin D1
+ERa
+c-Myb
+Dicer
+Spry1, Spry2, PDCD4, NFIB
+MeCP2
+VAV1
+
+p53, ELK1, ERK-MAPK
+Oct4
+ERa
+TLX, TLR4-NF-kappaB
+E2F, Myc
+ZEB1-SIP1
+cyclin D1
+ERa
+c-Myb
+miRNA processing cascade
+MAPK, AP-1, NFIB, RASV12, ID-1
+MeCP2
+LIN-12 ⁄ Notch
+
+[21,22,40–47]
+[48]
+[49]
+[50,51]
+[52]
+[53]
+[54]
+[55]
+[61]
+[62,63]
+[18,64]
+[65]
+[26]
+
+reported that members of a cluster of miRNAs, called
+miR-17-92, form a negative-feedback loop that is
+involved in cancer. The expression of miR-17-92 is
+induced by the transcription factors E2F and Myc but,
+in turn, miR-17-92 downregulates the expression of
+E2F and Myc [52]. In tumor progression, the transcription repressors ZEB1 and SIP1 and the miR-200
+family of miRNAs provide a double-negative-feedback
+loop that regulates the phenotype of cells [53]. Furthermore, in human breast tumors and cell lines, miR-175p and miR-20a are induced in a manner that depends
+on cyclin D1 and repress the expression of cyclin D1.
+Hence, miR-17-5p ⁄ 20a and cyclin D1 form a feedback
+loop and have a regulatory role in oncogenesis
+[54]. miR-206 and ERa repress the expression of each
+other reciprocally in the human breast cancer cell line
+MCF-7 in a double-negative-feedback loop [55].
+Various other examples of feedback regulation that
+involve miRNAs have been reported for several important biological processes. The miRNAs that are known
+to be involved in feedback regulation, their target
+genes and the signal cascades affected are summarized
+in Table 1. Such studies demonstrate the highly complex regulation of signal cascades and the physiological
+and pathological roles of miRNAs. Hence, further
+investigations aiming to elucidate the mechanisms
+and signal cascades that regulate the expression of
+miRNAs should reveal complicated and multilayered
+cell signaling networks.
+
+Conclusions
+Considering the broad range of miRNA targets, it is
+possible that regulatory networks for the control of
+gene transcription will become much more complex as
+
+additional research is carried out [56,57]. Yu et al. [58]
+investigated the cross-talk between miRNAs and transcription factors using mathematical modeling and
+revealed the existence of two classes of miRNAs with
+distinct network topological properties. Although this
+analysis demonstrated extensive interaction between
+miRNAs and transcription factors, biological validation of mathematical models is very challenging. However, recent advances with respect to high-throughput
+sequencing technologies have enabled, in combination
+with chromatin immunoprecipitation, the cost-effective
+functional genome-wide investigation of transcription
+factor binding sites [59]. Argonaute high-throughput
+sequencing of RNAs from in vivo cross-linking and
+immunoprecipitation also provides genome-wide interaction maps for miRNAs and mRNAs, which enables
+comprehensive identiﬁcation of miRNA targets [60].
+By integrating mRNA and miRNA sequence and
+expression data with these comparative genomic data,
+we will be able to gain global, and yet speciﬁc, insights
+into the function and evolution of a broad layer of
+post-transcriptional control. These comprehensive
+analyses will yield many additional examples of functionally relevant regulatory roles of miRNAs in cell
+signaling pathways. The elucidation of these examples
+will clarify novel functions and biological roles of
+miRNAs.
+
+Acknowledgements
+This work was supported in part by research grants
+from the Scientiﬁc Fund of the Ministry of Education,
+Science and Culture of Japan (G.T.); the Program for
+Promotion of Fundamental Studies in Health Sciences
+of the National Institute of Biomedical Innovation
+
+FEBS Journal 278 (2011) 1610–1618 ª 2011 The Authors Journal compilation ª 2011 FEBS
+
+1615
+
+miRNAs and cell signaling
+
+A. Ichimura et al.
+
+(NIBIO) (G.T.); and in part by KAKENHI, Grantin-Aid for Japan Society for the Promotion of Science
+(JSPS) Fellows, 213338 (A.I.).
+
+References
+1 Rudel S & Meister G (2008) Phosphorylation of Argonaute proteins: regulating gene regulators. Biochem J
+413, e7–e9.
+2 He L & Hannon GJ (2004) MicroRNAs: small RNAs
+with a big role in gene regulation. Nat Rev Genet 5,
+522–531.
+3 Emery B (2010) Regulation of oligodendrocyte differentiation and myelination. Science 330, 779–782.
+4 Berdasco M & Esteller M (2010) Aberrant epigenetic
+landscape in cancer: how cellular identity goes awry.
+Dev Cell 19, 698–711.
+5 Hu H & Gatti RA (2010) MicroRNAs: new players in
+the DNA damage response. J Mol Cell Biol
+doi: 10.1093 ⁄ jmcb ⁄ mjq042.
+6 Tiscornia G & Izpisua Belmonte JC (2010) MicroRNAs
+in embryonic stem cell function and fate. Genes Dev 24,
+2732–2741.
+7 Inui M, Martello G & Piccolo S (2010) MicroRNA
+control of signal transduction. Nat Rev Mol Cell Biol
+11, 252–263.
+8 Katoh Y & Katoh M (2008) Hedgehog signaling,
+epithelial-to-mesenchymal transition and miRNA
+(review). Int J Mol Med 22, 271–275.
+9 Wang Z, Li Y, Kong D, Ahmad A, Banerjee S &
+Sarkar FH (2010) Cross-talk between miRNA and
+Notch signaling pathways in tumor development and
+progression. Cancer Lett 292, 141–148.
+10 Hagen JW & Lai EC (2008) microRNA control of
+cell-cell signaling during development and disease. Cell
+Cycle 7, 2327–2332.
+11 Koh Ono YK & Jiahuai Han (2011) MicroRNAs and
+cardiovascular diseases. FEBS J 278, 1619–1633.
+12 Sato F, Tsuchiya S, Meltzer SJ & Shimizu K (2011)
+MicroRNAs and epigenetics. FEBS J 278, 1598–1609.
+13 Nishida E & Gotoh Y (1993) The MAP kinase cascade
+is essential for diverse signal transduction pathways.
+Trends Biochem Sci 18, 128–131.
+14 Thum T, Gross C, Fiedler J, Fischer T, Kissler S,
+Bussen M, Galuppo P, Just S, Rottbauer W, Frantz S
+et al. (2008) MicroRNA-21 contributes to myocardial
+disease by stimulating MAP kinase signalling in
+ﬁbroblasts. Nature 456, 980–984.
+15 Hanafusa H, Torii S, Yasunaga T & Nishida E (2002)
+Sprouty1 and Sprouty2 provide a control mechanism
+for the Ras ⁄ MAPK signalling pathway. Nat Cell Biol 4,
+850–858.
+16 Sayed D, Rane S, Lypowy J, He M, Chen IY,
+Vashistha H, Yan L, Malhotra A, Vatner D &
+Abdellatif M (2008) MicroRNA-21 targets Sprouty2
+
+1616
+
+and promotes cellular outgrowths. Mol Biol Cell 19,
+3272–3282.
+17 Huang TH, Wu F, Loeb GB, Hsu R, Heidersbach A,
+Brincat A, Horiuchi D, Lebbink RJ, Mo YY, Goga A
+et al. (2009) Up-regulation of miR-21 by HER2 ⁄ neu
+signaling promotes cell invasion. J Biol Chem 284,
+18515–18524.
+18 Fujita S, Ito T, Mizutani T, Minoguchi S, Yamamichi
+N, Sakurai K & Iba H (2008) miR-21 Gene expression
+triggered by AP-1 is sustained through a double-negative
+feedback mechanism. J Mol Biol 378, 492–504.
+19 Yin Q, Wang X, McBride J, Fewell C & Flemington E
+(2008) B-cell receptor activation induces BIC ⁄ miR-155
+expression through a conserved AP-1 element. J Biol
+Chem 283, 2654–2662.
+20 Terasawa K, Ichimura A, Sato F, Shimizu K &
+Tsujimoto G (2009) Sustained activation of ERK1 ⁄ 2 by
+NGF induces microRNA-221 and 222 in PC12 cells.
+FEBS J 276, 3269–3276.
+21 Ichimura A, Ruike Y, Terasawa K, Shimizu K &
+Tsujimoto G (2010) MicroRNA-34a inhibits cell
+proliferation by repressing mitogen-activated protein
+kinase kinase 1 during megakaryocytic differentiation of
+K562 cells. Mol Pharmacol 77, 1016–1024.
+22 Navarro F, Gutman D, Meire E, Caceres M, Rigoutsos
+I, Bentwich Z & Lieberman J (2009) miR-34a
+contributes to megakaryocytic differentiation of
+K562 cells independently of p53. Blood 114,
+2181–2192.
+23 Cannell IG, Kong YW, Johnston SJ, Chen ML,
+Collins HM, Dobbyn HC, Elia A, Kress TR, Dickens M,
+Clemens MJ et al. (2010) p38 MAPK ⁄ MK2-mediated
+induction of miR-34c following DNA damage prevents
+Myc-dependent DNA replication. Proc Natl Acad Sci
+USA 107, 5375–5380.
+24 Kawashima H, Numakawa T, Kumamaru E, Adachi
+N, Mizuno H, Ninomiya M, Kunugi H & Hashido K
+(2010) Glucocorticoid attenuates brain-derived neurotrophic factor-dependent upregulation of glutamate
+receptors via the suppression of microRNA-132 expression. Neuroscience 165, 1301–1311.
+25 Lai EC, Tam B & Rubin GM (2005) Pervasive regulation of Drosophila Notch target genes by GY-box-,
+Brd-box-, and K-box-class microRNAs. Genes Dev 19,
+1067–1080.
+26 Yoo AS & Greenwald I (2005) LIN-12 ⁄ Notch activation leads to microRNA-mediated down-regulation of
+Vav in C. elegans. Science 310, 1330–1333.
+27 Varghese J & Cohen SM (2007) MicroRNA miR-14
+acts to modulate a positive autoregulatory loop controlling steroid hormone signaling in Drosophila. Genes Dev
+21, 2277–2282.
+28 Nolo R, Morrison CM, Tao C, Zhang X & Halder G
+(2006) The bantam microRNA is a target of the hippo
+tumor-suppressor pathway. Curr Biol 16, 1895–1904.
+
+FEBS Journal 278 (2011) 1610–1618 ª 2011 The Authors Journal compilation ª 2011 FEBS
+
+A. Ichimura et al.
+
+29 Thompson BJ & Cohen SM (2006) The Hippo pathway
+regulates the bantam microRNA to control cell proliferation and apoptosis in Drosophila. Cell 126, 767–774.
+30 Nairz K, Rottig C, Rintelen F, Zdobnov E, Moser M
+& Hafen E (2006) Overgrowth caused by misexpression
+of a microRNA with dispensable wild-type function.
+Dev Biol 291, 314–324.
+31 Teleman AA, Maitra S & Cohen SM (2006) Drosophila
+lacking microRNA miR-278 are defective in energy
+homeostasis. Genes Dev 20, 417–422.
+32 Voorhoeve PM, le Sage C, Schrier M, Gillis AJ, Stoop
+H, Nagel R, Liu YP, van Duijse J, Drost J, Griekspoor
+A et al. (2006) A genetic screen implicates miRNA-372
+and miRNA-373 as oncogenes in testicular germ cell
+tumors. Cell 124, 1169–1181.
+33 Davis BN, Hilyard AC, Lagna G & Hata A (2008)
+SMAD proteins control DROSHA-mediated microRNA maturation. Nature 454, 56–61.
+34 Christoffersen NR, Silahtaroglu A, Orom UA,
+Kauppinen S & Lund AH (2007) miR-200b mediates
+post-transcriptional repression of ZFHX1B. RNA 13,
+1172–1178.
+35 Gregory PA, Bert AG, Paterson EL, Barry SC, Tsykin
+A, Farshid G, Vadas MA, Khew-Goodall Y & Goodall
+GJ (2008) The miR-200 family and miR-205 regulate
+epithelial to mesenchymal transition by targeting ZEB1
+and SIP1. Nat Cell Biol 10, 593–601.
+36 Hurteau GJ, Carlson JA, Spivack SD & Brock GJ
+(2007) Overexpression of the microRNA hsa-miR-200c
+leads to reduced expression of transcription factor 8
+and increased expression of E-cadherin. Cancer Res 67,
+7972–7976.
+37 Burk U, Schubert J, Wellner U, Schmalhofer O, Vincan
+E, Spaderna S & Brabletz T (2008) A reciprocal repression between ZEB1 and members of the miR-200 family
+promotes EMT and invasion in cancer cells. EMBO
+Rep 9, 582–589.
+38 Ferretti E, De Smaele E, Miele E, Laneve P, Po A,
+Pelloni M, Paganelli A, Di Marcotullio L, Caffarelli E,
+Screpanti I et al. (2008) Concerted microRNA control
+of Hedgehog signalling in cerebellar neuronal progenitor and tumour cells. EMBO J 27, 2616–2627.
+39 Kennell JA, Gerin I, MacDougald OA & Cadigan KM
+(2008) The microRNA miR-8 is a conserved negative
+regulator of Wnt signaling. Proc Natl Acad Sci USA
+105, 15417–15422.
+40 Welch C, Chen Y & Stallings RL (2007) MicroRNA34a functions as a potential tumor suppressor by
+inducing apoptosis in neuroblastoma cells. Oncogene 26,
+5017–5022.
+41 Chang TC, Wentzel EA, Kent OA, Ramachandran K,
+Mullendore M, Lee KH, Feldmann G, Yamakuchi M,
+Ferlito M, Lowenstein CJ et al. (2007) Transactivation
+of miR-34a by p53 broadly inﬂuences gene expression
+and promotes apoptosis. Mol Cell 26, 745–752.
+
+miRNAs and cell signaling
+
+42 He L, He X, Lim LP, de Stanchina E, Xuan Z, Liang
+Y, Xue W, Zender L, Magnus J, Ridzon D et al. (2007)
+A microRNA component of the p53 tumour suppressor
+network. Nature 447, 1130–1134.
+43 Raver-Shapira N, Marciano E, Meiri E, Spector Y,
+Rosenfeld N, Moskovits N, Bentwich Z & Oren M
+(2007) Transcriptional activation of miR-34a contributes
+to p53-mediated apoptosis. Mol Cell 26, 731–743.
+44 Tarasov V, Jung P, Verdoodt B, Lodygin D, Epanchintsev A, Menssen A, Meister G & Hermeking H (2007)
+Differential regulation of microRNAs by p53 revealed
+by massively parallel sequencing: miR-34a is a p53
+target that induces apoptosis and G1-arrest. Cell Cycle
+6, 1586–1593.
+45 Yamakuchi M, Ferlito M & Lowenstein CJ (2008)
+miR-34a repression of SIRT1 regulates apoptosis. Proc
+Natl Acad Sci USA 105, 13421–13426.
+46 Fujita Y, Kojima K, Hamada N, Ohhashi R, Akao Y,
+Nozawa Y, Deguchi T & Ito M (2008) Effects of
+miR-34a on cell growth and chemoresistance in prostate
+cancer PC3 cells. Biochem Biophys Res Commun 377,
+114–119.
+47 Christoffersen NR, Shalgi R, Frankel LB, Leucci E,
+Lees M, Klausen M, Pilpel Y, Nielsen FC, Oren M &
+Lund AH (2009) p53-independent upregulation of
+miR-34a during oncogene-induced senescence represses
+MYC. Cell Death Differ 17, 236–245.
+48 Xu N, Papagiannakopoulos T, Pan G, Thomson JA &
+Kosik KS (2009) MicroRNA-145 regulates OCT4,
+SOX2, and KLF4 and represses pluripotency in human
+embryonic stem cells. Cell 137, 647–658.
+49 Castellano L, Giamas G, Jacob J, Coombes RC,
+Lucchesi W, Thiruchelvam P, Barton G, Jiao LR,
+Wait R, Waxman J et al. (2009) The estrogen
+receptor-a-induced microRNA signature regulates itself
+and its transcriptional response. Proc Natl Acad
+Sci USA 106, 15732–15737.
+50 Zhao C, Sun G, Li S & Shi Y (2009) A feedback
+regulatory loop involving microRNA-9 and nuclear
+receptor TLX in neural stem cell fate determination.
+Nat Struct Mol Biol 16, 365–371.
+51 Bazzoni F, Rossato M, Fabbri M, Gaudiosi D, Mirolo
+M, Mori L, Tamassia N, Mantovani A, Cassatella MA
+& Locati M (2009) Induction and regulatory function
+of miR-9 in human monocytes and neutrophils exposed
+to proinﬂammatory signals. Proc Natl Acad Sci USA
+106, 5282–5287.
+52 Aguda BD, Kim Y, Piper-Hunter MG, Friedman A &
+Marsh CB (2008) MicroRNA regulation of a cancer
+network: consequences of the feedback loops involving
+miR-17-92, E2F, and Myc. Proc Natl Acad Sci USA
+105, 19678–19683.
+53 Bracken CP, Gregory PA, Kolesnikoff N, Bert AG,
+Wang J, Shannon MF & Goodall GJ (2008) A doublenegative feedback loop between ZEB1-SIP1 and the
+
+FEBS Journal 278 (2011) 1610–1618 ª 2011 The Authors Journal compilation ª 2011 FEBS
+
+1617
+
+miRNAs and cell signaling
+
+A. Ichimura et al.
+
+microRNA-200 family regulates epithelial-mesenchymal
+transition. Cancer Res 68, 7846–7854.
+54 Yu Z, Wang C, Wang M, Li Z, Casimiro MC, Liu M,
+Wu K, Whittle J, Ju X, Hyslop T et al. (2008) A cyclin
+D1 ⁄ microRNA 17 ⁄ 20 regulatory feedback loop in control of breast cancer cell proliferation. J Cell Biol 182,
+509–517.
+55 Adams BD, Furneaux H & White BA (2007) The
+micro-ribonucleic acid (miRNA) miR-206 targets the
+human estrogen receptor-alpha (ERalpha) and represses
+ERalpha messenger RNA and protein expression in
+breast cancer cell lines. Mol Endocrinol 21, 1132–1147.
+56 Rajewsky N (2006) microRNA target predictions in animals. Nat Genet 38(Suppl), S8–S13.
+57 Ruike Y, Imanaka Y, Sato F, Shimizu K & Tsujimoto
+G (2010) Genome-wide analysis of aberrant methylation
+in human breast cancer cells using methyl-DNA immunoprecipitation combined with high-throughput
+sequencing. BMC Genomics 11, 137.
+58 Yu X, Lin J, Zack DJ, Mendell JT & Qian J (2008)
+Analysis of regulatory network topology reveals functionally distinct classes of microRNAs. Nucleic Acids
+Res 36, 6494–6503.
+59 Robertson G, Hirst M, Bainbridge M, Bilenky M, Zhao
+Y, Zeng T, Euskirchen G, Bernier B, Varhol R,
+Delaney A et al. (2007) Genome-wide proﬁles of
+STAT1 DNA association using chromatin immuno-
+
+1618
+
+precipitation and massively parallel sequencing. Nat
+Methods 4, 651–657.
+60 Chi SW, Zang JB, Mele A & Darnell RB (2009) Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps. Nature 460, 479–486.
+61 Zhao H, Kalota A, Jin S & Gewirtz AM (2009) The cmyb proto-oncogene and microRNA-15a comprise an
+active autoregulatory feedback loop in human hematopoietic cells. Blood 113, 505–516.
+62 Forman JJ, Legesse-Miller A & Coller HA (2008) A
+search for conserved sequences in coding regions
+reveals that the let-7 microRNA targets Dicer within
+its coding sequence. Proc Natl Acad Sci USA 105,
+14879–14884.
+63 Tokumaru S, Suzuki M, Yamada H, Nagino M &
+Takahashi T (2008) let-7 regulates Dicer expression and
+constitutes a negative feedback loop. Carcinogenesis 29,
+2073–2077.
+64 Talotta F, Cimmino A, Matarazzo MR, Casalino L, De
+Vita G, D’Esposito M, Di Lauro R & Verde P (2009)
+An autoregulatory loop mediated by miR-21 and
+PDCD4 controls the AP-1 activity in RAS transformation. Oncogene 28, 73–84.
+65 Klein ME, Lioy DT, Ma L, Impey S, Mandel G &
+Goodman RH (2007) Homeostatic regulation of
+MeCP2 expression by a CREB-induced microRNA.
+Nat Neurosci 10, 1513–1514.
+
+FEBS Journal 278 (2011) 1610–1618 ª 2011 The Authors Journal compilation ª 2011 FEBS
+
+

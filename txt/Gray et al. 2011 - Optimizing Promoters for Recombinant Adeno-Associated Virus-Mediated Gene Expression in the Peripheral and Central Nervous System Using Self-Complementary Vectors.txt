@@ -1,0 +1,800 @@
+HUMAN GENE THERAPY 22:1143–1153 (September 2011)
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/hum.2010.245
+
+Methods
+
+Optimizing Promoters for Recombinant
+Adeno-Associated Virus-Mediated Gene Expression
+in the Peripheral and Central Nervous System
+Using Self-Complementary Vectors
+Steven J. Gray,1 Stacey B. Foti,1 Joel W. Schwartz,2,3 Lavanya Bachaboina,1 Bonnie Taylor-Blake,4
+Jennifer Coleman,4 Michael D. Ehlers,2 Mark J. Zylka,4 Thomas J. McCown,1,5,6 and R. Jude Samulski1,7
+
+Abstract
+
+With the increased use of small self-complementary adeno-associated viral (AAV) vectors, the design of compact
+promoters becomes critical for packaging and expressing larger transgenes under ubiquitous or cell-specific
+control. In a comparative study of commonly used 800-bp cytomegalovirus (CMV) and chicken b-actin (CBA)
+promoters, we report significant differences in the patterns of cell-specific gene expression in the central and
+peripheral nervous systems. The CMV promoter provides high initial neural expression that diminishes over
+time. The CBA promoter displayed mostly ubiquitous and high neural expression, but substantially lower
+expression in motor neurons (MNs). We report the creation of a novel hybrid form of the CBA promoter (CBh)
+that provides robust long-term expression in all cells observed with CMV or CBA, including MNs. To develop a
+short neuronal promoter to package larger transgenes into AAV vectors, we also found that a 229-bp fragment of
+the mouse methyl-CpG-binding protein-2 (MeCP2) promoter was able to drive neuron-specific expression
+within the CNS. Thus the 800-bp CBh promoter provides strong, long-term, and ubiquitous CNS expression
+whereas the MeCP2 promoter allows an extra 570-bp packaging capacity, with low and mostly neuronal expression within the CNS, similar to the MeCP2 transcription factor.
+
+Introduction
+
+A
+
+deno-associated viral (AAV) vectors have been used
+in research, preclinical, and clinical gene delivery studies
+primarily because these vectors transduce nondividing cells
+and confer long-term stable gene expression without associated inflammation or toxicity (Haberman et al., 1998; Bessis
+et al., 2004; Goncalves, 2005). AAV has a single-stranded 4.7kb genome, and after removal of 4.4 kb of the viral genome
+recombinant vectors can be packaged with a similar-sized
+foreign piece of DNA. A more recent advance in AAV vector
+technology has been the self-complementary (sc) vector, the
+genome of which is composed of complementary copies of the
+DNA insert linked in cis through a mutated AAV inverted
+
+terminal repeat (ITR). scAAV vectors have 10- to 100-fold
+higher transduction efficiency compared with traditional
+single-stranded AAV (ssAAV) vectors (McCarty et al., 2001,
+2003), facilitating more global applications, such as intravenous or intracerebrospinal fluid injection. However, a potential drawback of scAAV vectors for some genes is that the
+packaging capacity is cut in half, to approximately 2.2 kb of
+foreign DNA. Thus, a major challenge in effectively using
+scAAV vectors has been to combine minimal promoter, intron, and polyadenylation [poly(A)] elements in order to
+maximize the remaining space for the transgene-coding sequence (Wu et al., 2008). To simplify our descriptions and
+discussion of the regulatory elements including the enhancer,
+promoter, and 5¢ untranslated region (UTR), throughout this
+
+1
+
+Gene Therapy Center, University of North Carolina, Chapel Hill, NC 27599.
+Department of Neurobiology, Duke University Medical Center, Durham, NC 27710.
+David H. Murdock Research Institute, Kannapolis, NC 28081.
+4
+Department of Cell and Molecular Physiology, UNC Neuroscience Center, University of North Carolina, Chapel Hill, NC 27599.
+5
+Bowles Center Alcohol Studies, University of North Carolina, Chapel Hill, NC 27599.
+6
+Department of Psychiatry, University of North Carolina, Chapel Hill, NC 27599.
+7
+Department of Pharmacology, University of North Carolina, Chapel Hill, NC 27599.
+2
+3
+
+1143
+
+1144
+text these combined elements will often be referred to simply
+as the ‘‘promoter.’’
+The cytomegalovirus (CMV) early enhancer/promoter
+and the hybrid CMV enhancer/chicken b-actin (CBA)
+promoter are commonly used in gene transfer studies with
+both therapeutic and reporter genes. These promoters are
+typically used to provide robust, long-term expression in all
+cell types. The 800-bp CMV enhancer/promoter has often
+been used to achieve rapid and ubiquitous expression, with
+the caveat that it is prone to silencing over time in some
+tissues, specifically the hippocampus, striatum, and substantia nigra in the brain (McCown et al., 1996; Klein et al.,
+1998; Paterna et al., 2000; Tenenbaum et al., 2004). Although
+promoters such as the neuron-specific enolase (NSE) and
+neuron-specific human platelet-derived growth factor-b
+(PDGF-b) chain can provide strong and long-term expression, their larger sizes make them less preferable for scAAV
+vectors. The 1.6-kb hybrid promoter composed of the CMV
+immediate-early enhance, CBA promoter, and CBA intron
+1/exon 1 (commonly called the CAGGS promoter; Niwa
+et al., 1991) has been shown to provide ubiquitous and longterm expression in the brain (Klein et al., 2002). An 800-bp
+miniature version of this CMV enhancer/CBA promoter
+was made by replacing the CBA 5¢ (UTR) with a smaller
+simian virus 40 (SV40) intron (Wang et al., 2003). The
+smaller size of this promoter proved especially useful for
+scAAV vectors. However, we report that this shortened
+version of the CBA promoter does not support the same
+level of motor neuron (MN) gene expression as seen with
+the CMV promoter.
+Given this difference, the following studies sought to determine whether the shortened CBA promoter contributed to
+this differential tropism and how one might overcome this
+limited cellular expression. We found that the mini-CBA
+promoter was deficient for MN expression and that the CMV
+promoter, although giving robust initial MN expression, was
+silenced by 10 weeks in the spinal cord. Our studies resulted
+in the development of a novel version of the CBA promoter,
+called CBh, which provides long-term transgene expression
+in all cell types seen with the CBA or CMV promoter, at
+levels matching or exceeding each. In a separate effort to
+develop a smaller neural promoter to aid in packaging larger
+transgenes at lower regulated expression levels, we tested a
+truncated 229-bp promoter fragment from the murine
+methyl-CpG-binding protein-2 (MeCP2) gene that can drive
+neuronal expression. As a result of these studies, two novel
+promoters are now available to drive long-term neural expression: one with strong ubiquitous expression and one
+with an advantageous smaller size and weak neuronal expression.
+Materials and Methods
+
+GRAY ET AL.
+method in human embryonic kidney 293 (HEK293) cells as
+described (Grieger et al., 2006). All recombinant vectors packaged self-complementary genomes with enhanced GFP.
+Highly pure recombinant virus containing self-complementary
+genomes was recovered by passage through two sequential
+CsCl gradients, and then the peak fractions were dialyzed in
+phosphate-buffered saline (PBS) containing 5% d-sorbitol.
+Viral titers were determined by quantitative polymerase chain
+reaction (qPCR) (Gray et al., 2010).
+Analysis of promoters in cultured rat
+hippocampal slices
+Rat hippocampal slices were prepared as described by
+Fuller and Dailey (2007). Briefly, postnatal day 5 (P5) SpragueDawley rat pups were killed and the hippocampi were manually dissected. Harvested tissue was sliced into 250-lm-thick
+sections, using a McIlwain tissue chopper, and plated on
+PICM0RG50 0.4-lm membranes (Millipore, Bedford, MA)
+with full complement medium. Slices were cultured for 7 days
+before infection. Each viral vector was diluted to 1 · 107 vector
+genomes (VG)/ll in PBS and individual slices were infected
+with approximately 5 ll (5 · 107 VG) by direct application.
+Slices were incubated in 5% CO2 at 37C and imaged daily.
+Average fluorescence intensity from each slice was measured
+with a stereomicroscope (Lumar; Carl Zeiss, Oberkochen,
+Germany) with a 0.5 numerical aperture (NA) objective. The
+observed fluorescence was normalized to a control test strip
+(available upon request from Chroma Technology, Bellows
+Falls, VT). In addition, each image was scaled on the basis of
+exposure time, and detector linearity was measured each day.
+High-resolution images were obtained by two-photon nondescan detection microscopy on a Zeiss Axio Examiner with
+710 confocal scanning unit. All images were recorded with
+either a · 20 Apochromat 1.0 NA or · 63 Plan-Apochromat 0.8
+NA lens set for Nyquist sampling with a non-descan photomultiplier tube detector.
+To evaluate GFP levels per cell (see Fig. 2), high-resolution
+images of hippocampal neurons in organotypic configuration were examined. The images were collected as a threedimensional data set, and individual cells were manually
+selected by outlining the area for a cell on each plane within
+the z stack. The total intensity and thresholded area were
+calculated at each plane and summated to provide the total
+integrated intensity and summated area, respectively. Cell
+size is directly related to the summated area for the individual cell across the entire z stack. The integrated intensity/
+summated area is directly related to the GFP concentration.
+For data presentation (see Fig. 2), cells were sorted into exponentially larger bins based on cell size. Here we set a
+threshold that all bins must contain three individual cells to
+be considered significant and included in Fig. 2.
+
+Vector constructs
+
+Rodent injections
+
+All vectors used enhanced green fluorescent protein (GFP)
+as the packaged gene. The sources of enhancer, promoter,
+intron, and polyadenylation signal are provided in Table 1.
+
+All investigations were approved by the University of
+North Carolina (UNC)-Chapel Hill Institutional Animal Care
+and Use Committee (Chapel Hill, NC). All injections were
+done in 8- to 12-week-old female BALB/c mice weighing
+approximately 20 g, purchased from Jackson Laboratory (Bar
+Harbor, ME). For intravenous delivery, 200 ll of scAAV9
+vector (2 · 1011 total VG) was injected into the tail vein. Four
+or 14 weeks after vector injection, each mouse was killed and
+
+Recombinant AAV production
+Recombinant AAV (rAAV) vectors used the AAV serotype 9 capsid and were produced by a triple-transfection
+
+rAAV VECTOR CNS PROMOTERS
+
+1145
+Table 1. Constructs Packaged in AAV
+
+Construct
+CMV-GFP
+CBA-GFP
+CBh-GFP
+MeP-GFP
+
+Enhancer
+
+Promoter
+a
+
+CMV early
+CMV earlya
+CMV earlya
+NA
+
+CMV early
+chb-Actinf
+chb-Actinf
+mMeCP2k
+
+Intron
+b
+
+Poly(A)
+c
+
+d
+
+Chimeric hb-Globin /mIgG
+Truncated SV40 late 16Sg
+Chimeric chb-Actini/MVMj
+NA
+
+SV40 earlye
+BGHh
+BGHh
+Syntheticl
+
+NA, not applicable; for other abbreviations see text.
+a
+GenBank accession no. NC_006273.2, nt 175625–175294.
+b
+GenBank accession no. NC_006273.2, nt 175043–175294.
+c
+GenBank accession no. AC_000054.1, nt 5366740–5366826.
+d
+GenBank accession no. L26879.1, nt 678–705.
+e
+GenBank accession no. NC_001669.1, nt 2548–2774.
+f
+GenBank accession no. X00182.1, nt 280–540.
+g
+GenBank accession no. NC_001669.1, nt 502–561, 1410–1497.
+h
+Bovine growth hormone, GenBank accession no. EF592533.1, nt 1827–2034.
+i
+GenBank accession no. X00182.1, nt 544–676.
+j
+GenBank accession no. NC_001510.1, nt 2312–2403 (VP intron).
+k
+See Adachi et al. (2005), nt - 170 to + 53 from mapped transcription start.
+l
+Synthetic, based on Levitt et al. (1989).
+
+transcardially perfused with PBS containing heparin at 1 U/
+ml (Abraxis Pharmaceutical Products, Schaumburg, IL).
+For intrathecal delivery, 3.75 ll of scAAV9 vector
+(1.25 · 109 total VG) was mixed with 1.25 ll of 60% lidocaine
+(MPI Biomedicals, Solon, OH) in PBS, to make a vector solution containing 15% lidocaine in 1 · PBS plus 3.75% sorbitol. This 5-ll solution was then injected into the intrathecal
+space of the lower lumbar cord of a nonsedated mouse, as
+described in Hylden and Wilcox (1980). Needle penetration
+into the intrathecal space was indicated by a tail flick, and
+then successful injections were confirmed by transient (10–
+15 min) bilateral paralysis of the hind limbs, from the lidocaine. Mice were killed 3 or 10 weeks later, and then transcardially perfused with PBS.
+Tissue processing, immunohistochemistry,
+and immunofluorescence
+For all immunohistochemistry, samples were processed as
+follows. After 48 hr of fixation in freshly made PBS with 4%
+paraformaldehyde, the entire brain and lumbar spinal cord
+were sectioned at 40 lm, using a vibratome (Leica Microsystems, Wetzlar, Germany) at room temperature. To enhance the signal observed with GFP, every fifth section was
+processed for immunohistochemistry (IHC). Samples were
+incubated for 1 hr with shaking at room temperature in
+blocking solution (10% goat serum, 0.1% Triton X-100, 1 ·
+PBS), and then incubated for 48–72 hr at 4C in primary
+antibody solution (3% goat serum, 0.1% Triton X-100, 1 ·
+PBS, rabbit anti-GFP [AB3080, diluted 1:500; Millipore]).
+After washing three times in 1 · PBS, secondary amplification was performed with a VECTASTAIN Elite ABC kit
+(#PK-6101; Vector Laboratories) with 3,3¢-diaminobenzidine
+tetrahydrochloride (DAB) (04008; Polysciences, Warrington,
+PA) substrate and nickel–cobalt intensification of the reaction
+product.
+For the MeCP2 promoter (MeP)–GFP colocalization
+studies, blocking and primary antibody incubations were
+done as described previously, except that donkey serum was
+used for choline acetyltransferase (ChAT) labeling. After
+washing, the sections were incubated with shaking for 1 hr at
+room temperature in secondary antibody solution (3% goat
+
+or donkey serum, 0.1% Triton X-100, 1 · PBS, secondary
+antibodies), and then washed three more times in 1 · PBS.
+Primary antibodies were as follows: rabbit anti-GFP (AB3080,
+diluted 1:500; Millipore) with either mouse anti-neuronspecific nuclear protein (NeuN) (MAB377, diluted 1:500;
+Millipore) or goat anti-ChAT (AB144P, diluted 1:100; Millipore). Secondary antibodies were as appropriate, each at
+1:1000 dilution: goat anti-rabbit Alexa 488 (A11008; Invitrogen, Carlsbad, CA), Alexa Fluor 594-conjugated goat antimouse (A11032; Invitrogen), and Alexa Fluor 594-conjugated
+donkey anti-goat (A11058; Invitrogen). Confocal imaging
+was performed at the Michael Hooker Microscopy Center at
+UNC-Chapel Hill, using a Zeiss Axiovert LSM 510 laser
+confocal microscope. Images were processed with Zeiss LSM
+Image Browser software. Dual-label immunofluorescence
+images were reconstructed from at least five consecutive
+steps in a z series taken at 1.3-lm intervals through the
+section of interest, using a · 20 objective.
+To examine MeP-mediated GFP expression in peripheral
+organs, samples were prepared as for IHC described previously (48 hr of paraformaldehyde fixation, 40-lm vibratome
+sections), and incubated with or without rabbit anti-GFP as
+done for IHC brain samples. Both sets of tissue sections were
+then incubated with Alexa Fluor 488-conjugated goat antirabbit (A11008; Invitrogen), and then washed and mounted
+to slides. GFP fluorescence was visualized with a Leica
+DM IRB wide-field fluorescence microscope, using a · 20
+objective.
+For studies regarding the dorsal root ganglia (DRG) after
+intrathecal injection, lumbar levels L2 to L6 were removed
+from each animal and immersion-fixed for 4 hr in cold 4%
+paraformaldehyde in 0.1 M phosphate buffer, pH 7.4. After
+cryoprotection in 30% sucrose in 0.1 M phosphate buffer,
+ganglia were sectioned at a thickness of 20 lm and collected
+on SuperFrost Plus slides. Every fourth section was incubated overnight with a cocktail containing a chicken IgY to
+GFP (GFP-1020, diluted 1:600; Aves Labs, Tigard, OR) and a
+rabbit IgG to substance P (20064, diluted 1:600; ImmunoStar,
+Hudson, WI). After several buffer rinses, slides were incubated for 3 hr with a mixture containing a goat anti-chicken
+IgY coupled to Alexa Fluor 488 (A11039, diluted 1:200; Invitrogen), a goat anti-rabbit IgG coupled to Alexa Fluor 633
+
+1146
+(A21070, diluted 1:200; Invitrogen), and isolectin GS-IB4
+coupled to Alexa Fluor 568 (I21412, diluted 1:100; Invitrogen). After rinses, slides were coverslipped with Fluoro-Gel
+(17985-10; Electron Microscopy Sciences, Hatfield, PA).
+Images were obtained with the UNC Neuroscience Center’s
+Zeiss LSM 510 laser confocal microscope and collected as
+maximal projections.
+Results
+Construction of a modified mini-CBA promoter,
+termed CBh
+Discrepancies in the literature (Duque et al., 2009; Foust
+et al., 2009), our own preliminary observations, and those of
+our colleagues (Snyder et al., 2011), suggested that the miniature CBA promoter expressed poorly in MNs. The miniature CBA promoter has reduced expression relative to the
+full-length CAGGS promoter (data not shown), so we hypothesized that when the b-actin 5¢ UTR in the CAGGS
+promoter was replaced with the truncated SV40 intron, this
+resulted in reduced MN expression specifically, in addition
+to the overall reduced expression. To test whether a better
+version of the CBA promoter could be made, we replaced
+this intron with another sequence to produce an 800-bp
+modified CBA promoter with the potential for ubiquitous
+expression in the CNS. The minute virus of mice (MVM) VP
+intron was previously shown to provide enhanced liver expression compared with a panel of other small introns (Wu
+et al., 2008), and therefore it served as an initial candidate to
+replace the truncated SV40 intron. The construct resulting
+from these studies replaced the SV40 intron in the CBA
+promoter with a hybrid intron composed of a 5¢ donor splice
+site from the chicken b-actin 5¢ UTR and a 3¢ acceptor splice
+site from MVM. This new version of the chicken b-actin
+‘‘promoter’’ (enhancer, promoter, and 5¢ UTR) was termed
+‘‘CBh’’ for CBA hybrid intron (for construct compositions,
+see Table 1).
+CMV, CBA, and CBh promoters show different
+expression kinetics and cell-type specificity
+in cultured rat hippocampal slices
+To define a time course of early CNS expression comparing the CMV, CBA, and CBh promoters, an ex vivo assay
+was used to compare these AAV vectors in the rat hippocampus. Rat hippocampal organotypic slices were infected
+with AAV9 vectors using a CMV, CBA, or CBh promoter
+driving the expression of GFP. Promoter efficacy was monitored by evaluating GFP production daily over a 5-day time
+course. All three promoters demonstrated weak fluorescence
+24 hr after infection (Fig. 1P; signal-to-background ratio, 2:1).
+The CMV and CBh promoters provided a significant increase
+in fluorescence 48 hr after infection, and the CBA promoter
+was less effective at the equivalent time point (Fig. 1). Over
+the next 72 hr the CMV and CBh promoters demonstrated
+equivalent GFP expression, whereas the CBA promoter system was at a consistently lower level (Fig. 1). High-resolution
+images were collected on day 5 after infection to ascertain
+cell specificity of expression for each promoter. These data
+indicate that all three promoters (CMV, CBh, and CBA) did
+not demonstrate any selectivity for cellular subtypes within
+the hippocampus (data not shown). To gain better resolution
+
+GRAY ET AL.
+of individual cell morphology and to assess relative GFP
+concentration in individual cells, a 1:100 dilution of vector
+was applied to hippocampal organotypic slices and visualized for GFP expression after 5 days. Individual cells with
+each promoter treatment were randomly selected and the
+total GFP fluorescence intensity was plotted against the total
+three-dimensional area for each cell (Fig. 2A). By binning the
+cells according to size, the relative GFP concentration could
+be assessed in different cell types in an unbiased fashion, and
+for each promoter there was no more than a 2-fold variation
+in GFP concentration among bins of different sizes. These
+data indicate that the CBA, CMV, and CBh promoters express GFP at homogeneous levels within different cell types
+of the hippocampus. This analysis also recapitulated the
+findings in Fig. 1, that is, that the CBA promoter expresses at
+consistently lower levels than the CMV or CBh promoter. No
+apparent differences in cell specificity were observed by visual inspection, although the intensity of GFP expression was
+reduced in CBA compared with CMV and CBh (Fig. 2B–D).
+CMV, CBA, and CBh promoters differ in their in vivo
+cell-specific expression profiles
+To compare the CMV, CBA, and CBh promoters for cell
+type-specific expression in the CNS in vivo, mice received a
+tail vein injection of scAAV9/GFP vector (2 · 1011 VG), using
+each of the promoters to drive GFP expression. Four weeks
+later the mice were killed, and sections of the brain and
+spinal cord were assessed for GFP expression. We observed
+neuronal and glial expression throughout the CNS with all
+promoters, but the cell-specific expression and intensity of
+expression differed, in some cases substantially, on the basis
+of which promoter was used (Fig. 3). Compared with the
+CBA and CBh promoters, the CMV promoter showed reduced expression in hippocampal neurons 4 weeks postinjection, consistent with observations made by McCown and
+colleagues and Klein and colleagues that the CMV promoter
+is silenced over time in the hippocampus after direct intracranial injection (McCown et al., 1996; Klein et al., 1998). In
+the striatum, however, neuronal expression from the CMV,
+CBA, and CBh promoters was equivalent. In general,
+throughout the entire CNS, stronger GFP expression in astrocytes was observed with the CBA and CBh promoters
+than with the CMV promoter. A striking difference was seen
+in the ventral horn of the spinal cord. The CBA promoter
+showed a small number of GFP-positive cells with neuronal
+morphology, approximately two to four per 40-lm slice at
+this dose. In contrast, the same dose of vector using the CMV
+promoter resulted in 30–40 GFP-positive neuron-like cells
+per 40-lm slice. The CBh promoter also provided a large
+number of GFP-positive neuron-like cells, similar to that
+observed with the CMV promoter, but an accurate count was
+obscured by the large number of strongly GFP-positive astrocytes. On the basis of their morphology, large size, and
+location in the ventral horn, most of these neurons appeared
+to be motor neurons (MNs).
+The CMV promoter becomes silenced in spinal cord
+MNs and DRG, but the CBh promoter provides robust,
+long-term expression in these cells
+To specifically investigate short- and long-term expression
+in MNs and dorsal root ganglia (DRG) with the CBA, CMV,
+
+rAAV VECTOR CNS PROMOTERS
+
+1147
+
+FIG. 1. CMV, CBh, and CBA promoters demonstrate distinct kinetics in cultured rat hippocampal slices. Rat hippocampal
+slices were infected with 5 · 107 VG after 7 days in culture, and GFP expression was monitored for 5 days. The time course of
+GFP expression was examined for the CMV (A–E), CBh (F–J), and CBA (K–O) promoters at five time points. All images are
+mapped to the pseudo-color gray wedge depicted in (O). All images are set to equivalent scales with the scale bar in (O) set to
+600 lm. All three promoters demonstrated observable fluorescence 24 hr after infection and steadily increased during the 5day time course (P). The fluorescence intensity for each measurement was normalized to a fluorescent test strip recorded each
+day. The values are scaled to account for exposure time required for each image. Note: The exposure times were adjusted to
+ensure all images were acquired within the dynamic range of the detector, and the detector linearity was evaluate each day
+for the entire time course (P). Color images available online at www.liebertonline.com/hum
+
+and CBh promoters, we delivered scAAV9/GFP vectors intrathecally in mice. In the ventral horn of the lumbar spinal
+cord, mice killed 3 weeks postinjection showed a cell-type
+bias similar to that seen with intravenous vector administration. CMV expression was detected mostly in cells with
+neuronal morphology, CBA expression was detected mostly
+in cells with glial morphology, and CBh expression could be
+detected in both cell types (Fig. 4, row A). In the DRG, expression was observed in multiple cell types with all three
+promoters (Fig. 4, row C). At 10 weeks postinjection in the
+spinal cord and DRG, expression of GFP with the scAAV9/
+CMV vectors was significantly reduced, but the scAAV9/
+
+CBh vectors showed unchanged levels of expression (Fig. 4,
+rows B and D).
+Within the CNS, the 229-bp murine MeCP2 promoter
+preferentially expresses in neurons in vivo
+The CMV and miniature CBA enhancer/promoters are
+each approximately 800 bp long, making them amenable for
+high expression in scAAV vectors, which have a packaging
+constraint of approximately 2.2 kb of foreign DNA. Smaller
+neural promoters would have an advantage for certain CNS
+applications, when a larger transgene must be packed in
+
+1148
+
+GRAY ET AL.
+
+FIG. 2. GFP expression remains constant independent of cell size, and the CMV, CBA, and CBh promoters express in a broad
+range of cells. Rat hippocampal slices were infected with 5 · 105 VG after 7 days in culture, and GFP expression was monitored
+after 5 days. (A) Cell size was measured by summating the area for each cell throughout the three-dimensional data set.
+Individual cells were outlined manually, and the total intensity was measured for each plane. A relative GFP concentration
+was determined by dividing integrated intensity values by the summated area values. The individual cells were subsequently
+binned according to summated area to depict the size of these cells. Because of the large range of cell sizes, the individual bins
+increase in size based on an exponential scale. The CBA, CMV, and CBh promoters all demonstrate a homogeneous GFP
+concentration independent of the size of the cell. (B–D) Images are z-stack maximal projections of native GFP fluorescence.
+Representative images of greater than 10 fields are shown. (B) CBA, (C) CBh, (D) CMV. Scale bar (100 lm) is shown in (B).
+scAAV vectors. A promoter fragment from the murine
+MeCP2 gene has been characterized as having primarily
+neuronal expression, although low expression has also been
+documented in glial cells (Adachi et al., 2005; Rastegar et al.,
+2009). On the basis of the studies by Adachi and colleagues,
+we hypothesized that the core components of the murine
+MeCP2 promoter (MeP) were contained in a 229-bp fragment. An AAV construct was created to use this 229-bp
+fragment to drive GFP expression. A 49-bp synthetic poly(A)
+signal (Levitt et al., 1989) was also used, providing approximately 1.9 kb of space to package a foreign gene in place of
+GFP in scAAV. Transfection of constructs using this promoter in HEK293 cells showed low expression relative to the
+CBA and CMV promoters, indicating some potential for low
+nonneuronal expression (data not shown). When packaged
+into scAAV and injected intravenously into mice, the MeP
+promoter provided neuron-specific gene expression in the
+CNS (Fig. 5). Visualization of expression by native fluores-
+
+cence was not readily apparent (data not shown), but positive cells were apparent by IHC and immunofluorescence
+(IF), all with neuronal morphology. Co-IF with NeuN in the
+hippocampus confirmed that positive cells were neurons,
+and expression in spinal cord MNs was identified by colabeling with ChAT (Fig. 5). An identical expression profile
+with the MeP promoter was observed at 14 weeks postinjection, indicating that MeP provides long-term expression
+(Fig. 6). At 14 weeks postinjection, expression was also seen
+in the liver, heart, and kidney, but not the spleen, indicating
+that the promoter is not neuron specific outside of the CNS
+(Fig. 7).
+Discussion
+Consistent with published reports (McCown et al., 1996;
+Klein et al., 1998; Paterna et al., 2000; Tenenbaum et al., 2004),
+we conclude from our results that AAV vectors using the
+
+rAAV VECTOR CNS PROMOTERS
+
+1149
+
+FIG. 3. In vivo expression of
+CMV, CBA, and CBh promoters. Adult mice were injected with equal titers of
+scAAV9/GFP under the control of the CMV (A–C), CBA
+(D–F), or CBh (G–I) promoter,
+and then were killed 4 weeks
+postinjection to assess GFPpositive cells. (A), (D), and
+(G) show the hippocampus
+(bregma, - 2.0). (B), (E), and
+(H) show the striatum (bregma, - 2.0), with the insets
+showing an additional · 5
+magnification. (C), (F), and (I)
+show the ventral horn of the
+cervical spinal cord. Scale
+bars: 200 lm. All images are
+representative of at least three
+mice.
+
+CMV promoter provide rapid and strong transgene expression that is prone to diminish significantly over time in certain cell types. The CBA promoter, for most CNS
+applications, provides ubiquitous expression in a wide variety of cells. Relative to the CMV promoter, however, the
+800-bp CBA promoter used in our studies expressed poorly
+in MNs in the brainstem and spinal cord, resulting in an
+underestimate of the number of MNs targeted by AAV9.
+We genetically narrowed the cause for poor MN expression
+to the approximately 200-bp SV40 intron used to reduce the
+1.6-kb CAGGS promoter to 800 bp, and functionally replaced it with a hybrid intron from the chicken b-actin intron 1 and MVM VP intron. In the context of the same
+AAV2 ITRs, CMV enhancer, CBA promoter, and bovine
+growth hormone (BGH) poly(A), the hybrid CBA/MVM
+intron supported expression in MNs comparable to the
+CMV promoter and significantly better than the CBA promoter with the SV40 intron. Moreover, the CBh promoter
+provided stronger expression in ex vivo rat hippocampal
+slices compared with CBA. Overall, our results indicate that
+the CBh promoter is a strong and ubiquitous promoter for
+CNS applications, equal to or better than the CMV or CBA
+promoter in these regards. It is important to clarify that our
+studies used the 800-bp miniature CBA promoter, and we
+would not extrapolate the findings of this study to the fulllength 1.6-kb CBA (CAGGS; Niwa et al., 1991) promoter.
+Moreover, the cell-specific expression patterns observed in
+these studies were influenced by the route of administration, because intraparenchymal brain injection of AAV9
+leads to almost exclusive neuronal expression (Gray et al.,
+2010).
+Intravenous injection of scAAV9/GFP vectors leads to
+extensive AAV delivery to the brain and spinal cord (Duque
+et al., 2009; Foust et al., 2009). The differential promoter activity we observed in the spinal cord with CBA and CMV
+
+could explain the discrepancies in adult mouse MN transduction reported by Foust and colleagues and Duque and
+colleagues after intravenous injection (Duque et al., 2009;
+Foust et al., 2009). Foust and colleagues used the CBA promoter and reported only *5% of MNs transduced at a dose
+of 1 · 1014 VG/kg. Duque and colleagues used the CMV
+promoter at the same dose and reported 5–19% of motor
+neurons (MNs) transduced in adult mice. Our results suggest
+that the higher percentage of MN transduction reported by
+Duque and colleagues could be a reflection of the promoter
+choice. Both reported strong MN expression when neonatal
+mice were injected, which suggests that the developmental
+stage also might influence promoter regulation. Furthermore,
+studies with other AAV serotypes might have underestimated the extent of potential transduction. For example,
+Vulchanova and colleagues tested intrathecal injections of
+AAV5 and AAV8 vectors using the CBA promoter, and reported extensive transduction of DRG but only minimal
+transduction of neurons in the spinal cord ventral horn
+(Vulchanova et al., 2010).
+When using scAAV vectors, which package only
+*2.2 kb of foreign DNA, the choice of regulatory elements
+such as promoters and polyadenylation signals becomes
+limited. The CMV, miniature CBA, and CBh promoters
+described in this study are each approximately 800 bp, and
+with a 200-bp poly(A) sequence an scAAV vector will accommodate only approximately 1.2 kb of coding sequence.
+The neuron-specific synapsin and weak ubiquitous bglucuronidase (GUSB) promoters are smaller alternatives
+at 480 and 378 bp, respectively (Shipley et al., 1991; Kügler
+et al., 2003; Husain et al., 2009). The 229-bp murine MeCP2
+promoter in these studies offers additional packaging
+space as well as long-term, weak, and neuron-specific
+expression. MeCP2 is a transcriptional regulator expressed
+primarily in neurons in the CNS, although it is also
+
+1150
+
+GRAY ET AL.
+
+FIG. 4. Three- and 10-week
+expression profiles of the
+CBA, CMV, and CBh promoters in the spinal cord after intrathecal injection. Mice
+received a lumbar puncture
+injection of 1.25 · 109 VG of
+scAAV9/GFP, and then they
+were killed 3 or 10 weeks
+postinjection to assess GFPpositive cells. Rows A and B
+illustrate spinal cords subjected to anti-GFP immunohistochemistry. Rows C and
+D show representative confocal coimmunofluorescence
+(co-IF) images using anti-GFP
+(green), anti-substance P
+(blue), and anti-GS-IB4 (red).
+For each row, the left panel
+shows the CMV promoter,
+the middle panel shows the
+CBA promoter, and the right
+panel shows the CBh promoter. Row A, lumbar spinal
+cord at 3 weeks postinjection;
+row B, lumbar spinal cord at
+10 weeks postinjection (CBA
+was not tested at this time
+point); row C, lumbar DRG at
+3 weeks postinjection; row D,
+lumbar DRG at 10 weeks
+postinjection (CBA was not
+tested at this time point, and
+the 10-week CBh DRG image
+[bottom right] was not stained
+with anti-substance P). Scale
+bars: 200 lm. Images are
+representative of at least
+three mice for each variable.
+
+ubiquitously expressed in other tissues (Shahbazian et al.,
+2002). When incorporated into lentiviral vectors and tested
+in vitro and ex vivo, the full 700-bp MeCP2 promoter
+fragment expressed primarily in neurons with lower levels
+of expression also observed in astrocytes, as expected
+
+(Rastegar et al., 2009). Although we could not detect
+expression of GFP outside of neurons in the CNS, expression of GFP was readily apparent in the liver, heart, and
+kidney. By using the 229-bp MeP promoter and a 49-bp
+synthetic poly(A) sequence (Levitt et al., 1989), approxi-
+
+FIG. 5. In vivo expression of
+the MeP promoter at 4 weeks.
+Adult mice were injected intravenously with 2 · 1011 VG
+of scAAV9/MeP-GFP, and
+then killed 4 weeks postinjection to assess GFP-positive
+cells. (A–C) IHC using an
+anti-GFP antibody in the hippocampus (A), striatum (B),
+and spinal cord (C). The inset in (B) shows an additional · 5 magnification. Representative confocal images showing co-IF with
+the indicated antibodies in the hippocampus and spinal cord are provided as Supplemental Figure 1. Scale bars: 200 lm.
+
+rAAV VECTOR CNS PROMOTERS
+
+FIG. 6. In vivo expression of
+the MeP promoter at 14
+weeks in the CNS. Adult mice
+were injected intravenously
+with 2 · 1011 VG of scAAV9/
+MeP-GFP, and then killed 14
+weeks postinjection to assess
+GFP-positive cells in the CNS.
+(A–C) IHC using an anti-GFP
+antibody in the hippocampus
+(A), striatum (B), and spinal
+cord (C). The inset in (B)
+shows an additional · 5
+magnification. Rows D–F
+show alternate hippocampal
+(D), striatal (E), and spinal
+cord (F) sections prepared in
+parallel with no primary antibody. Rows G–I are representative confocal images
+showing co-IF with GFP and
+NeuN antibodies in the hippocampus, striatum, and spinal cord, respectively. Scale
+bars: 200 lm.
+
+FIG. 7. In vivo expression of
+the MeP promoter at 14 weeks
+in peripheral organs. Adult
+mice shown in Fig. 6 were also
+assessed for GFP expression
+in the liver (A and E), heart (B
+and F), kidney (C and G), and
+spleen (D and H). Panels A–D
+show IF using an anti-GFP
+antibody, and panels E–H
+show neighboring sections
+prepared in parallel with no
+primary antibody. Color
+images available online at
+www.liebertonline.com/hum
+
+1151
+
+1152
+mately 1.9 kb of genome capacity remained to package a
+transgene coding sequence in an scAAV vector. This extra
+packaging capacity could be critical for packaging therapeutic genes such as gigaxonin (1797 bp) for giant axonal
+neuropathy or tripeptidyl-peptidase I (1686 bp) for neuronal ceroid lipofuscinosis. Moreover, the low expression
+levels could be necessary when overexpression of the gene
+product could be deleterious, such as for Rett syndrome
+and fragile X syndrome (Peier et al., 2000; Collins et al.,
+2004).
+In summary, these studies demonstrate potential confounders that can arise from variable promoter tropisms. We
+conclude that the 800-bp CBh promoter we developed is a
+ubiquitous promoter that is advantageous overall, relative to
+the CMV and CBA promoters, in terms of the range of cell
+types transduced, the strength of expression, and the duration of expression. We further report that the 229-bp MeP
+promoter fragment, when used in AAV vectors in the CNS,
+displays primarily low-level neuronal expression along with
+an advantageous small size.
+Acknowledgments
+This work was supported by generous grants from the
+ALS Association to R.J.S., the International Rett Syndrome
+Foundation to S.J.G., Hannah’s Hope Fund to S.J.G., NINDS
+NS35633 to T.J.M., and grants to M.J.Z. from the NINDS
+(R01NS060725, R01NS067688). The authors thank Swati
+Yadav, Huijing Sun, and Isabella Bellon for technical assistance. The authors acknowledge Jim Wilson’s group at the
+University of Pennsylvania for the discovery of AAV9, and
+thank Xiao Xiao at UNC and the UNC Vector Core for
+providing the AAV9 helper plasmid.
+Author Disclosure Statement
+The authors report no conflicts of interest.
+References
+Adachi, M., Keefer, E.W., and Jones, F.S. (2005). A segment of
+the Mecp2 promoter is sufficient to drive expression in neurons. Hum. Mol. Genet 14, 3709–3722.
+Bessis, N., GarciaCozar, F.J., and Boissier, M.C. (2004). Immune
+responses to gene therapy vectors: Influence on vector function and effector mechanisms. Gene Ther. 11(Suppl. 1), S10–
+S17.
+Collins, A.L., Levenson, J.M., Vilaythong, A.P., et al. (2004). Mild
+overexpression of MeCP2 causes a progressive neurological
+disorder in mice. Hum. Mol. Genet 13, 2679–2689.
+Duque, S., Joussemet, B., Riviere, C., et al. (2009). Intravenous
+administration of self-complementary AAV9 enables transgene delivery to adult motor neurons. Mol. Ther. 17, 1187–
+1196.
+Foust, K.D., Nurre, E., Montgomery, C.L., et al. (2009). Intravascular AAV9 preferentially targets neonatal neurons and
+adult astrocytes. Nat. Biotechnol. 27, 59–65.
+Fuller, L., and Dailey, M.E. (2007). Preparation of rodent hippocampal slice cultures. CSH Protoc. doi:10.1101/pdb.prot
+4848.
+Goncalves, M.A. (2005). Adeno-associated virus: From defective
+virus to effective vector. Virol. J. 2, 43.
+Gray, S.J., Blake, B.L., Criswell, H.E., et al. (2010). Directed
+evolution of a novel adeno-associated virus (AAV) vector that
+
+GRAY ET AL.
+crosses the seizure-compromised blood–brain barrier (BBB).
+Mol. Ther. 18, 570–578.
+Grieger, J.C., Choi, V.W., and Samulski, R.J. (2006). Production
+and characterization of adeno-associated viral vectors. Nat.
+Protoc 1, 1412–1428.
+Haberman, R.P., McCown, T.J., and Samulski, R.J. (1998). Inducible long-term gene expression in brain with adenoassociated virus gene transfer. Gene Ther. 5, 1604–1611.
+Husain, T., Passini, M.A., Parente, M.K., et al. (2009). Long-term
+AAV vector gene and protein expression in mouse brain from
+a small pan-cellular promoter is similar to neural cell promoters. Gene Ther. 16, 927–932.
+Hylden, J.L., and Wilcox, G.L. (1980). Intrathecal morphine in
+mice: A new technique. Eur. J. Pharmacol. 67, 313–316.
+Klein, R.L., Meyer, E.M., Peel, A.L., et al. (1998). Neuron-specific
+transduction in the rat septohippocampal or nigrostriatal
+pathway by recombinant adeno-associated virus vectors. Exp.
+Neurol. 150, 183–194.
+Klein, R.L., Hamby, M.E., Gong, Y., et al. (2002). Dose and promoter effects of adeno-associated viral vector for green fluorescent protein expression in the rat brain. Exp. Neurol. 176, 66–74.
+Kügler, S., Lingor, P., Schöll, U., et al. (2003). Differential transgene
+expression in brain cells in vivo and in vitro from AAV-2 vectors
+with small transcriptional control units. Virology 311, 89–95.
+Levitt, N., Briggs, D., Gil, A., and Proudfoot, N.J. (1989). Definition of an efficient synthetic poly(A) site. Genes Dev. 3,
+1019–1025.
+McCarty, D.M., Monahan, P.E., and Samulski, R.J. (2001). Selfcomplementary recombinant adeno-associated virus (scAAV)
+vectors promote efficient transduction independently of DNA
+synthesis. Gene Ther. 8, 1248–1254.
+McCarty, D.M., Fu, H., Monahan, P.E., et al. (2003). Adenoassociated virus terminal repeat (TR) mutant generates selfcomplementary vectors to overcome the rate-limiting step to
+transduction in vivo. Gene Ther. 10, 2112–2118.
+McCown, T.J., Xiao, X., Li, J., et al. (1996). Differential and persistent expression patterns of CNS gene transfer by an adenoassociated virus (AAV) vector. Brain Res. 713, 99–107.
+Niwa, H., Yamamura, K., and Miyazaki, J. (1991). Efficient selection for high-expression transfectants with a novel eukaryotic vector. Gene 108, 193–199.
+Paterna, J.C., Moccetti, T., Mura, A., et al. (2000). Influence of
+promoter and WHV post-transcriptional regulatory element
+on AAV-mediated transgene expression in the rat brain. Gene
+Ther. 7, 1304–1311.
+Peier, A.M., McIlwain, K.L., Kenneson, A., et al. (2000). (Over)correction of FMR1 deficiency with YAC transgenics: Behavioral and
+physical features. Hum. Mol. Genet. 9, 1145–1159.
+Rastegar, M., Hotta, A., Pasceri, P., et al. (2009). MECP2 isoformspecific vectors with regulated expression for Rett syndrome
+gene therapy. PLoS One 4, e6810.
+Shahbazian, M.D., Antalffy, B., Armstrong, D.L., and Zoghbi,
+H.Y. (2002). Insight into Rett syndrome: MeCP2 levels display
+tissue- and cell-specific differences and correlate with neuronal maturation. Hum. Mol. Genet 11, 115–124.
+Shipley, J.M., Miller, R.D., Wu, B.M., et al. (1991). Analysis of the
+5¢ flanking region of the human b-glucuronidase gene.
+Genomics 10, 1009–1018.
+Snyder, B.R., Gray, S.J., Quach, E.T., et al. (2011). Comparison of
+adeno-associated viral vector serotypes for spinal cord and
+motor neuron gene delivery. Hum. Gene Ther. (in press).
+Tenenbaum, L., Chtarto, A., Lehtonen, E., et al. (2004). Recombinant AAV-mediated gene delivery to the central nervous system. J. Gene Med. 6(Suppl. 1), S212–S222.
+
+rAAV VECTOR CNS PROMOTERS
+Vulchanova, L., Schuster, D.J., Belur, L.R., et al. (2010). Differential adeno-associated virus mediated gene transfer to sensory neurons following intrathecal delivery by direct lumbar
+puncture. Mol. Pain 6, 31.
+Wang, Z., Ma, H.I., Li, J., et al. (2003). Rapid and highly
+efficient transduction by double-stranded adeno-associated
+virus vectors in vitro and in vivo. Gene Ther. 10, 2105–
+2111.
+Wu, Z., Sun, J., Zhang, T., et al. (2008). Optimization of selfcomplementary AAV vectors for liver-directed expression results in sustained correction of hemophilia B at low vector
+dose. Mol. Ther. 16, 280–289.
+
+1153
+Address correspondence to:
+Dr. R. Jude Samulski
+UNC Gene Therapy Center
+7119 Thurston Bowles, CB 7352
+Chapel Hill, NC 27599-7352
+E-mail: rjs@med.unc.edu
+Received for publication December 22, 2010;
+accepted after revision April 8, 2011.
+Published online: April 8, 2011.
+
+

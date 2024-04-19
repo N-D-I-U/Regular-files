@@ -1,0 +1,404 @@
+Biochemical and Biophysical Research Communications 392 (2010) 572–576
+
+Contents lists available at ScienceDirect
+
+Biochemical and Biophysical Research Communications
+journal homepage: www.elsevier.com/locate/ybbrc
+
+Self-complementary sequence context in mature miRNAs
+Mohitosh Maiti a, Koen Nauwelaerts a, Eveline Lescrinier a, Frans C. Schuit b, Piet Herdewijn a,*
+a
+b
+
+Laboratory of Medicinal Chemistry, Rega Institute for Medical Research, Katholieke Universiteit Leuven, Minderbroedersstraat 10, B-3000 Leuven, Belgium
+Gene Expression Unit, Department of Molecular Cell Biology, Katholieke Universiteit Leuven, Herestraat 49, B-3000 Leuven, Belgium
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 13 January 2010
+Available online 25 January 2010
+Keywords:
+MicroRNA
+Mature strand
+Self-complementarity
+Hairpin
+Homo-duplex
+NMR
+
+a b s t r a c t
+MicroRNAs (miRNAs) are a class of 19–25 nt long non-coding RNAs that regulate gene expression posttranscriptionally by binding with partially complementary sequences in the 30 -untranslated region (30 UTR) and inhibiting mRNA translation or by affecting mRNA stability. We have characterized the structures and the equilibrium between hairpin and homo-duplex form of the mature strand of hsa-mir-520h
+by various concentration and temperature dependent 1D, 2D NMR experiments and those structures correspond well with Mfold-folded and UNAFold-aligned secondary structures. A detailed folding and alignment analysis in physiological conditions of all mature miRNA strands from the complete database of
+known miRNAs (miRBase) was performed. The statistical analysis of the resulting folding and alignment
+data showed for the ﬁrst time the potential of a large number of mature miRNAs to form signiﬁcant hairpin and/or homo-duplex structures in solution. The self-complementarity of mature miRNAs can provide
+a mechanistic tuning and a regulatory sophistication to the process of miRNA mediated gene regulation.
+Ó 2010 Elsevier Inc. All rights reserved.
+
+Introduction
+MicroRNAs (miRNAs) are endogenous, short (19–25 nt) single
+stranded, non-coding RNAs found in numerous eukaryotic lineages, including plants, insects, vertebrates, and mammals [1–3].
+They are evolutionary conserved [4] and they function as regulator
+of post-transcriptional gene expression [5]. In this way, they control diverse biological processes in cells such as developmental
+timing [6], differentiation [7], cell proliferation [8], haematopoiesis
+[9] and apoptosis. There is a growing number of reports that link
+miRNAs to the regulation of pathways associated with diseases
+such as cancer [10,11], neurological diseases [12] and most recently also with viral [13] and metabolic [14] disease.
+Based on previous work, it is known that primary miRNAs (primiRNAs) are derived from the transcription of large, highly structured precursors encoded by cellular genes. Then Drosha cleaves
+pri-miRNAs into 70–100 nt miRNA precursors (pre-miRNAs)
+[15,16], which are transported from the nucleus into the cytoplasm
+by Exportin 5 [17,18]. Subsequently, Dicer processes these premiRNAs into siRNA-like miRNA–miRNA* duplexes [19,20]. These
+duplexes [21] unwind in the cytoplasm, after which the mature
+guide strands [22] are speciﬁcally loaded into microRNP complexes
+and the passenger strands are degraded [3]. Mature miRNAs reside
+in the microRNP, likely similar to the RNA-induced silencing complex (RISC) [23–25], which regulates mRNA by sequence speciﬁc
+base pairing with miRNA-complementary sequences in mRNA tar* Corresponding author. Fax: +32 16 337340.
+E-mail address: Piet.Herdewijn@rega.kuleuven.be (P. Herdewijn).
+0006-291X/$ - see front matter Ó 2010 Elsevier Inc. All rights reserved.
+doi:10.1016/j.bbrc.2010.01.072
+
+get [26,27]. It is observed that depending on the level of complementarity between miRNA and the target sequences, the mRNA
+can either be translationally repressed (if there is only partial
+alignment) or cleaved in case of full complementarity. Generally
+in animals translational repression [23,28] seems to be the key
+method while in plants mRNA degradation [29] is the most likely
+pathway, however, recently some exceptions have been reported
+[30].
+MicroRNAs are believed to control the expression of thousands
+of target mRNAs [31,32] and mRNAs are believed to be targeted by
+multiple miRNA [27]. In order to fully understand the biological
+functions of miRNAs, it requires knowledge of their mRNA targets.
+Many bioinformatics approaches have been used to predict mRNA
+targets [33], and to govern the principle of miRNA target binding
+[31]. Recently three in silico studies predicted the interaction of
+miRNA with other miRNA [34], and with genomic repetitive elements like Alu RNA [35–38] and suggested a regulatory role of
+those interactions on miRNA functions.
+When we tried to experimentally characterize such an interaction of hsa-miR-520h mature strand with Alu Jo-RNA by different
+solution phase biophysical and biochemical measurements, we
+were unsuccessful to diagnose such interactions. Contrarily, we observed that at higher oligo concentrations, the miRNA which was
+predicted to interact with Alu-RNA sequences, self-aggregated.
+This process, which occurs in solution, possibly prevented the mutual interaction between miRNA and Alu target. To study this phenomenon in detail, we studied the conformational feature of the
+mature strand of hsa-miR-520h by various NMR biophysical experiments, we observed that at low temperature and low concentra-
+
+M. Maiti et al. / Biochemical and Biophysical Research Communications 392 (2010) 572–576
+
+573
+
+tion a less stable hairpin structure is formed which, at higher oligo
+concentration, forms a stable homo-duplex by breaking the hairpin
+form. The folded hairpin (Mfold) and aligned homo-duplex (UNAFold) structures for this sequence correspond well with the NMR
+observations. A detailed folding and alignment analysis for all the
+mature miRNA strands from miRBase (database of miRNAs) was
+performed in physiological conditions. The statistical data analysis
+of the resulting folding and alignments showed the tendency of a
+large number of mature miRNAs to form signiﬁcant self-complementary hairpin and/or homo-duplex structures in solution.
+Materials and methods
+NMR samples. RP-HPLC puriﬁed 22 nt miRNA (mature strand of
+hsa-miR-520h) oligo was purchased from Eurogentec S.A., Belgium
+and used as such to prepare NMR sample solution. Samples were
+annealed prior to NMR experiments by brieﬂy heating at 70 °C
+and snap cooling on ice to promote hairpin formation. Samples
+were lyophilized and re-dissolved in 100% D2O or in a 90%/10%
+mixture of H2O/D2O. The pH was adjusted to 6.5 by adding few
+ll of NaOH solution (0.1 N) in D2O.
+NMR experiments. Proton NMR spectra were recorded in
+H2O:D2O (9:1) using different concentrations of miRNA and various experimental temperatures in Bruker Avance II 600 MHz spectrometer equipped with a 5 mm TXI HCN Z gradient cryoprobe
+(BioMacs). The water signal was suppressed by excitation sculpting
+with gradient pulse (Puls Program: zgesgp). A 2D NOESY spectrum
+was recorded in H2O:D2O (9:1) at 10 °C using WATERGATE watersuppression with a sweep width of 13,200 Hz in both dimensions,
+128 scans, 4 K data points in t2 and 512 FIDs in t1 dimension. The
+data were apodized with a shifted sine-bell square function in both
+dimensions. Proton spectra in D2O were also measured (with water
+pre-saturation) at different temperatures (5–70 °C) in a Bruker
+Avance II 500 MHz spectrometer equipped with 5 mm TXI HCP Z
+gradient probe to study non-exchangeable protons.
+Folding and alignment analysis. Sequences of all miRNA mature
+strands were obtained from the mirBase [39] (Release 11.0) – comprehensive miRNA database (http://microrna.sanger.ac.uk/sequences/). The sequences were classiﬁed into groups as Virus,
+Mouse, Human, Animal and Plant. Only unique mature miRNA sequences were considered in each category and the repetition of
+same sequences from different species within a group was deleted.
+Mfold [40] program version 3.2 (http://mfold.bioinfo.rpi.edu/) was
+used to compute the folding free energies at 37 °C temperature and
+1 M sodium ion concentration for all the sequences towards formation of hairpin structures. The free energies and estimated melting
+temperatures for all mature miRNA sequences to form homo-duplex structures were computed by UNAFold [41] program (Version
+3.5) at 37 °C temperature, 1 M sodium ion concentration, 5 lM
+RNA strand concentration. The folding free energies for hairpins
+and the melting temperatures for homo-duplexes were used to arrange the sequences in each category to ﬁnd out most probable and
+least probable sequences towards their ability to form self-complimentary structures. Histograms were created with the analyzed
+data for each group in order to get an idea about the distribution
+of different miRNA sequences towards the formation of self-complementary hairpin and homo-duplex structure.
+
+Fig. 1. Hairpin and homo-duplex form of hsa-miR-520h mature strand.
+
+(1) the appearance of two hydrogen bonded imino proton peaks in
+proton NMR spectra (H2O:D2O solvent) at chemical shifts (d) 10.9
+and 11.9 p.p.m which are the characteristics of the central GU wobble base pairs in the duplex form and (2) by a symmetric 2D NOESY
+imino-imino (hydrogen bonded) correlation (Fig. 2) which is a typical observation of this kind of symmetric duplex.
+Concentration dependency of self-aggregation
+The concentration dependency (Fig. S1) of the hydrogen bonded
+imino proton signals of the homo-duplex further gives evidence in
+favor of self-aggregation as inter-strand process. At 20 °C it was
+found that the self-aggregation occurred on or above 0.3 mM oligo
+concentration, as indicated by the appearance and the gradual increase in the imino peak intensity at chemical shifts (d) 13.9, 13.4,
+11.9 and 10.9. When the concentration was 0.88 mM or more, signals from additional hydrogen bonded imino protons appeared at d
+14.2, 13.6, 13.2, 12.4, 11.5, 10.4 and 10.1 p.p.m, which is most
+probably caused by the formation of higher ordered aggregates of
+the homo-duplex form by sticking of large single stranded ends. At
+concentration of 0.1 mM or less, there is no signiﬁcant structure
+formation at 20 °C as no imino peaks were observed.
+Thermal stability of the homo-duplex
+The temperature dependency (Fig. S2) of the hydrogen bonded
+imino proton signals at 1.7 mM oligo concentration indicated that
+
+Results
+NMR characterization of homo-duplex
+Formation of the stable self-aggregated homo-duplex structure
+of hsa-miR-520h mature strand (Fig. 1) in higher oligo concentrations was experimentally characterized by two main observations
+
+Fig. 2. Imino (Hydrogen bonded) region of the 1H–1H 2D NOESY spectra of 1.7 mM
+miRNA sample in H2O:D2O (9:1) solvent at 10 °C.
+
+574
+
+M. Maiti et al. / Biochemical and Biophysical Research Communications 392 (2010) 572–576
+
+the breaking of higher ordered aggregates occurs ﬁrst followed by
+melting of the duplex structure. Initial increase of temperature up
+to 25 °C increases the intensity and sharpness of the imino signals
+because of slower relaxation associated with the formation of lower effective molecular weight duplex species. Then further heating
+above 30 °C gradually melts the duplex form as indicated by broad
+imino signals and the subsequent disappearance of the imino
+peaks.
+NMR identiﬁcation of hairpin form and its thermal stability
+The 0.1 mM oligo sample at 20 °C did not show any imino
+peaks. However, when the sample was cooled to 5 °C and measured with higher number of scan, a distinct hydrogen bonded imino proton proﬁle appeared (Fig. S3) for the hairpin structure which
+has no GU base paired imino proton signals and which were different from the imino proton signals of the homo-duplex form
+(1.7 mM, 5 °C). At relatively low (0.1 mM) oligo concentration the
+temperature dependency (Fig. S4) of imino proton signals is rather
+simple and only the melting of hairpin form around 15–20 °C is
+observed.
+NMR biophysical experiments thus conﬁrm the structures
+(Fig. 1) of the mature hsa-mir-520h strand, which were predicted
+by Mfold and UNAFold. However, the signals of aromatic and sugar
+protons (proton spectra in D2O solvent) of miRNA were temperature dependent (Fig. S5). It was observed that, as we increased
+the sample temperature, the lines became more resolved, sharp
+and around 50 °C only the single stranded form is predominantly
+present. At low temperatures and high oligo concentrations, due
+to the formation of higher ordered aggregates which are having
+relatively lower relaxation time, due to the existence of single
+stranded and double stranded regions in the structures, the NMR
+spectra have severely overlapped and broad signals that are weak
+in intensity. The same sequence of mature strand is on interplay
+between hairpin and homo-duplex forms. The hairpin form exists
+at low oligo concentration, where NMR sensitivity is signiﬁcantly
+low and no further detailed assignment and structural investigation was possible for either the hairpin or the homo-duplex
+structure.
+Folding and alignment analysis showed many miRNA mature strands
+are self-complementary
+Mfold and UNAFold calculations for self-complementarity of all
+the mature miRNA sequences and subsequent statistical analysis
+result in the following main observations. (a) The percentages of
+mature miRNAs to fold into hairpin structures, which are having
+a negative folding free energies, are in the case of Virus 78.34%,
+Mouse 74.02%, Human 73.36%, Animal 70.49%, Plant 68.69%. (b)
+Similarly, the percentages of mature miRNAs to form self-aggregated homo-duplex structure, which are having melting temperature above 37 °C, are for Virus 66.24%, Mouse 59.18%, Human
+57.29%, Animal 55.25%, Plant 52.32%. (c) In each category, typical
+distribution plots (Figs. 3 and S6–S12) were obtained when the
+number of mature miRNAs were plotted with folding free energies
+and melting temperature of the homo-duplexes. (d) The most
+probable change in free energy (DG) value and melting temperature (Tm) of the folding and alignment distributions of all the categories of mature miRNAs are respectively within 0.8 to 1.6 kcal/
+mol and around 40 °C temperature. (e) It is also observed that 50%
+of mature miRNAs are moderately low to very low selfcomplementary.
+The structures generated by the programs showed that many
+sequences are highly self-complementary and potentially adopt
+hairpin and/or homo-duplex structures in solution at near physiological conditions. In many of the cases, the mature miRNA se-
+
+Fig. 3. Self-alignment distribution (Histogram) of mature strands of all human
+miRNAs.
+
+Fig. 4. The best self-complementary homo-duplex of all (1) Virus (Tm = 82.7 °C) (2)
+Animal (Tm = 100.5 °C) (3) Human (Tm = 83.1 °C) 4) Plant (Tm = 87.0 °C) miRNA
+mature strand homo-duplexes.
+
+quences which fold in hairpin forms at low oligo concentrations,
+form homo-duplexes at higher oligo concentrations. All the
+homo-duplexes are symmetric and can have some GU wobble base
+pairs. The homo-duplexes, in many cases, have a central internal
+loop or two internal loops at the two opposite ends of the duplex,
+and in some cases, are almost full or partly complementary without having internal loops. In some of the hairpin structures, bulged
+nucleobases or mismatched bases appear in the stem, while in
+majority of the hairpins, stems are highly complementary without
+bulges or mismatches. The best self-complementary homo-duplex
+and hairpin of the miRNA categories are depicted in Figs. 4 and S13,
+respectively. Some additional representative self-complementary
+mature human miRNA homo-duplexes and their corresponding
+hairpin forms are presented in the supporting information
+(Fig. S14).
+Discussion
+The mature miRNAs are generally being considered as single
+stranded, and to the best of our knowledge, there is no report demonstrating self-complementarity in mature miRNAs. With NMR
+biophysical studies we have characterized the self-complementary
+
+M. Maiti et al. / Biochemical and Biophysical Research Communications 392 (2010) 572–576
+
+secondary structures of the hsa-miR-520h mature strand, and with
+Folding-alignment analysis we have shown that the self-complementary sequence in more than 50% of mature miRNAs drives
+the formation of hairpin and/or homo-duplex structures in
+solution.
+Most of miRNA–mRNA interactions downregulate gene expression post-transcriptionally, even though there are some recent
+exceptional reports where miRNAs showed upregulation [42,43]
+of gene expression. A substantial variation in the degree of gene
+regulation (from less than 2-fold to greater than 10-fold) has been
+observed, depending on the speciﬁc miRNA–mRNA target combination. The determinants that deﬁne the different magnitudes of
+regulation remain to be deﬁned. Whether the degree of translation
+of such mRNAs is determined by the accessibility of mRNA target
+sites to miRNAs or by other factors like involvement of various proteins that speciﬁcally bind with UTR regions and thus alter the
+mRNA structure to modulate the interaction between miRNA and
+mRNA, is unknown. Recently a study [44] showed the role of messenger RNA structure in microRNA target recognition and suggested that binding of the RNA-induced silencing complex is
+largely controlled by the thermodynamics of RNA–RNA interactions [45,46].
+Our ﬁnding of mature miRNA secondary structures and the differential extent of self-complementarity can have a conformational
+role to modulate miRNA–mRNA interactions and thus can explain
+the different degree of genetic regulation for the speciﬁc miRNA involved in the regulation process. This can contribute to the mechanism by which nature selected sequences for some miRNAs to
+modulate its binding afﬁnity with their mRNA targets. The selfaggregation in certain numbers of miRNAs can be a way by which
+miRNA:miRNA* duplexes unwind easily and thus facilitate the
+loading of the mature miRNA strand in miRNA RISC. It can also provide speciﬁcity for the interaction of miRNAs with particular mRNA
+by preventing the possibility of binding of other miRNAs and complementary genomic RNAs with miRNAs. The high tendency for
+self-aggregation may also be a defense system for foreign miRNAs,
+and may suggest that there are no free miRNAs in a cell.
+Generally, it is observed that in some mature miRNA self-complementary hairpin and/or homo-duplex structures, the mRNA
+complimentary 50 -seed (7 nt) sequences are freely available for
+miRNA–mRNA interaction, while in others complimentary 50 -seeds
+are inaccessible as they are involved in the hydrogen bonding of
+hairpin and/or homo-duplex stem. It deserves more detailed further investigation to ﬁnd out how the self-complementarity of mature miRNA affects the mutual interaction of miRNA with mRNA
+targets and other RNAs, which can target mature miRNAs.
+Acknowledgments
+This work was supported by K.U. Leuven Grant (IDO/06/011) to
+PH & FCS and FWO Grant (G.0733.09) to FCS. Technical support and
+helpful discussions from Dr. Natalia Dyubankova and Dr. Mathy
+Froeyen (Laboratory of Medicinal Chemistry, Rega Institute for
+Medical Research, K.U. Leuven) are gratefully acknowledged. MM
+and KN are grateful for the fellowship from K.U. Leuven and FWO.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at doi:10.1016/j.bbrc.2010.01.072.
+References
+[1] R.C. Lee, R.L. Feinbaum, V. Ambros, The C. elegans heterochronic gene lin-4
+encodes small RNAs with antisense complementarity to lin-14, Cell 75 (1993)
+843–854.
+
+575
+
+[2] V. Ambros, The functions of animal microRNAs, Nature 431 (2004) 350–355.
+[3] D.P. Bartel, MicroRNAs: genomics, biogenesis, mechanism, and function, Cell
+116 (2004) 281–297.
+[4] T. Fukao, Y. Fukuda, K. Kiga, J. Sharif, K. Hino, Y. Enomoto, A. Kawamura, K.
+Nakamura, T. Takeuchi, M. Tanabe, An evolutionarily conserved mechanism for
+microRNA-223 expression revealed by microRNA gene proﬁling, Cell 129
+(2007) 617–631.
+[5] L. He, G.J. Hannon, MicroRNAs: small RNAs with a big role in gene regulation,
+Nat. Rev. Genet. 5 (2004) 522–531.
+[6] B.J. Reinhart, F.J. Slack, M. Basson, A.E. Pasquinelli, J.C. Bettinger, A.E. Rougvie,
+H.R. Horvitz, G. Ruvkun, The 21-nucleotide let-7 RNA regulates developmental
+timing in Caenorhabditis elegans, Nature 403 (2000) 901–906.
+[7] C. Esau, X. Kang, E. Peralta, E. Hanson, E.G. Marcusson, L.V. Ravichandran, Y.
+Sun, S. Koo, R.J. Perera, R. Jain, N.M. Dean, S.M. Freier, C.F. Bennett, B. Lollo, R.
+Griffey, MicroRNA-143 regulates adipocyte differentiation, J. Biol. Chem. 279
+(2004) 52361–52365.
+[8] J. Brennecke, D.R. Hipfner, A. Stark, R.B. Russell, S.M. Cohen, Bantam encodes a
+developmentally regulated microRNA that controls cell proliferation and
+regulates the proapoptotic gene hid in Drosophila, Cell 113 (2003) 25–36.
+[9] C.Z. Chen, L. Li, H.F. Lodish, D.P. Bartel, MicroRNAs modulate hematopoietic
+lineage differentiation, Science 303 (2004) 83–86.
+[10] R.I. Gregory, R. Shiekhattar, MicroRNA biogenesis and cancer, Cancer Res. 65
+(2005) 3509–3512.
+[11] E.A. Wiemer, The role of microRNAs in cancer: no small matter, Eur. J. Cancer
+43 (2007) 1529–1544.
+[12] J. Dostie, Z. Mourelatos, M. Yang, A. Sharma, G. Dreyfuss, Numerous microRNPs
+in neuronal cells containing novel microRNAs, RNA 9 (2003) 180–186.
+[13] S. Pfeffer, M. Zavolan, F.A. Grasser, M. Chien, J.J. Russo, J. Ju, B. John, A.J. Enright,
+D. Marks, C. Sander, T. Tuschl, Identiﬁcation of virus-encoded microRNAs,
+Science 304 (2004) 734–736.
+[14] M.N. Poy, L. Eliasson, J. Krutzfeldt, S. Kuwajima, X. Ma, P.E. Macdonald, S.
+Pfeffer, T. Tuschl, N. Rajewsky, P. Rorsman, M. Stoffel, A pancreatic isletspeciﬁc microRNA regulates insulin secretion, Nature 432 (2004) 226–230.
+[15] Y. Lee, C. Ahn, J. Han, H. Choi, J. Kim, J. Yim, J. Lee, P. Provost, O. Radmark, S.
+Kim, V.N. Kim, The nuclear RNase III Drosha initiates microRNA processing,
+Nature 425 (2003) 415–419.
+[16] J. Han, Y. Lee, K.H. Yeom, Y.K. Kim, H. Jin, V.N. Kim, The Drosha–DGCR8
+complex in primary microRNA processing, Genes Dev. 18 (2004) 3016–3027.
+[17] R. Yi, Y. Qin, I.G. Macara, B.R. Cullen, Exportin-5 mediates the nuclear export of
+pre-microRNAs and short hairpin RNAs, Genes Dev. 17 (2003) 3011–3016.
+[18] E. Lund, S. Guttinger, A. Calado, J.E. Dahlberg, U. Kutay, Nuclear export of
+microRNA precursors, Science 303 (2004) 95–98.
+[19] G. Hutvagner, J. McLachlan, A.E. Pasquinelli, E. Balint, T. Tuschl, P.D. Zamore, A
+cellular function for the RNA-interference enzyme Dicer in the maturation of
+the let-7 small temporal RNA, Science 293 (2001) 834–838.
+[20] V.N. Kim, MicroRNA biogenesis: coordinated cropping and dicing, Nat. Rev.
+Mol. Cell Biol. 6 (2005) 376–385.
+[21] S.M. Elbashir, W. Lendeckel, T. Tuschl, RNA interference is mediated by 21- and
+22-nucleotide RNAs, Genes Dev. 15 (2001) 188–200.
+[22] A. Khvorova, A. Reynolds, S.D. Jayasena, Functional siRNAs and miRNAs exhibit
+strand bias, Cell 115 (2003) 209–216.
+[23] J.J. Song, S.K. Smith, G.J. Hannon, L. Joshua-Tor, Crystal structure of Argonaute
+and its implications for RISC slicer activity, Science 305 (2004) 1434–1437.
+[24] G. Tang, SiRNA and miRNA: an insight into RISCs, Trends Biochem. Sci. 30
+(2005) 106–114.
+[25] T.M. Rana, Illuminating the silence: understanding the structure and function
+of small RNAs, Nat. Rev. Mol. Cell Biol. 8 (2007) 23–36.
+[26] I. Ha, B. Wightman, G. Ruvkun, A bulged lin-4/lin-14 RNA duplex is sufﬁcient
+for Caenorhabditis elegans lin-14 temporal gradient formation, Genes Dev. 10
+(1996) 3041–3050.
+[27] M.C. Vella, E.Y. Choi, S.Y. Lin, K. Reinert, F.J. Slack, The C. elegans microRNA let-7
+binds to imperfect let-7 complementary sites from the lin-41 30 UTR, Genes
+Dev. 18 (2004) 132–137.
+[28] G. Hutvagner, P.D. Zamore, A microRNA in a multiple-turnover RNAi enzyme
+complex, Science 297 (2002) 2056–2060.
+[29] M.W. Jones-Rhoades, D.P. Bartel, B. Bartel, MicroRNAS and their regulatory
+roles in plants, Annu. Rev. Plant Biol. 57 (2006) 19–53.
+[30] P. Brodersen, L. Sakvarelidze-Achard, M. Bruun-Rasmussen, P. Dunoyer, Y.Y.
+Yamamoto, L. Sieburth, O. Voinnet, Widespread translational inhibition by
+plant miRNAs and siRNAs, Science 320 (2008) 1185–1190.
+[31] B.P. Lewis, C.B. Burge, D.P. Bartel, Conserved seed pairing, often ﬂanked by
+adenosines, indicates that thousands of human genes are microRNA targets,
+Cell 120 (2005) 15–20.
+[32] L.P. Lim, N.C. Lau, P. Garrett-Engele, A. Grimson, J.M. Schelter, J. Castle, D.P.
+Bartel, P.S. Linsley, J.M. Johnson, Microarray analysis shows that some
+microRNAs downregulate large numbers of target mRNAs, Nature 433
+(2005) 769–773.
+[33] Z. Ghosh, J. Chakrabarti, B. Mallick, MiRNomics – The bioinformatics of
+microRNA genes, Biochem. Biophys. Res. Commun. 363 (2007) 6–11.
+[34] E.C. Lai, C. Wiel, G.M. Rubin, Complementary miRNA pairs suggest a regulatory
+role for miRNA:miRNA duplexes, RNA 10 (2004) 171–175.
+[35] E. Daskalova, V. Baev, V. Rusinov, I. Minkov, 30 UTR-located ALU elements:
+donors of potential miRNA target sites and mediators of network miRNAbased regulatory interactions, Evol. Bioinform. 2 (2006) 103–120.
+[36] N.R. Smalheiser, V.I. Torvik, Alu elements within human mRNAs are probable
+microRNA targets, Trends Genet. 22 (2006) 532–536.
+
+576
+
+M. Maiti et al. / Biochemical and Biophysical Research Communications 392 (2010) 572–576
+
+[37] J. Hasler, T. Samuelsson, K. Strub, Useful ‘junk’: Alu RNAs in the human
+transcriptome, Cell Mol. Life Sci. 64 (2007) 1793–1800.
+[38] S. Lehnert, P. Van Loo, P.J. Thilakarathne, P. Marynen, G. Verbeke, F.C. Schuit,
+Evidence for co-evolution between human microRNAs and Alu-repeats, PLoS
+One 4 (2009) e4456.
+[39] S. Grifﬁths-Jones, H.K. Saini, S. van Dongen, A.J. Enright, miRBase: tools for
+microRNA genomics, Nucleic Acids Res. 36 (2008) D154–D158.
+[40] M. Zuker, Mfold web server for nucleic acid folding and hybridization
+prediction, Nucleic Acids Res. 31 (2003) 3406–3415.
+[41] N.R. Markham, M. Zuker, DINAMelt web server for nucleic acid melting
+prediction, Nucleic Acids Res. 33 (2005) W577–W581.
+
+[42] S. Vasudevan, Y. Tong, J.A. Steitz, Switching from repression to activation:
+microRNAs can up-regulate translation, Science 318 (2007) 1931–1934.
+[43] J.R. Buchan, R. Parker, Molecular biology. The two faces of miRNA, Science 318
+(2007) 1877–1878.
+[44] M. Kertesz, N. Iovino, U. Unnerstall, U. Gaul, E. Segal, The role of site
+accessibility in microRNA target recognition, Nat. Genet. 39 (2007) 1278–
+1284.
+[45] U. Muckstein, H. Tafer, J. Hackermuller, S.H. Bernhart, P.F. Stadler, I.L. Hofacker,
+Thermodynamics of RNA–RNA binding, Bioinformatics 22 (2006) 1177–1182.
+[46] I.L. Hofacker, How microRNAs choose their targets, Nat. Genet. 39 (2007)
+1191–1192.
+
+

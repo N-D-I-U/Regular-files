@@ -1,0 +1,792 @@
+Europe PMC Funders Group
+Author Manuscript
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+Published in final edited form as:
+Neuroscience. 2009 January 12; 158(1): 334–343. doi:10.1016/j.neuroscience.2008.01.080.
+
+Europe PMC Funders Author Manuscripts
+
+In developing hippocampal neurons, NR2B-containing NMDA
+receptors can mediate signalling to neuronal survival and
+synaptic potentiation, as well as neuronal death
+Marc-André Martel, David J. A. Wyllie, and Giles E. Hardingham*
+Centre for Neuroscience Research, University of Edinburgh, Edinburgh EH8 9XD, UK
+
+Abstract
+It has been suggested that NR2B-containing NMDA receptors have a selective tendency to
+promote pro-death signalling and synaptic depression, compared to the survival promoting,
+synapse potentiating properties of NR2A-containing NMDA receptors. A preferential localization
+of NR2A-containing NMDA receptors at the synapse in maturing neurons could thus explain
+differences in synaptic vs. extrasynaptic NMDA receptor signalling.
+
+Europe PMC Funders Author Manuscripts
+
+We have investigated whether NMDA receptors can mediate signalling to survival, death, and
+synaptic potentiation, in neurons at a developmental stage prior to significant NR2A expression
+and subunit-specific differences between synaptic and extrasynaptic NMDA receptors. We show
+that in developing hippocampal neurons, the progressive reduction in sensitivity of NMDA
+receptor currents to the NR2B antagonist ifenprodil applies to both synaptic and extrasynaptic
+locations. However, the reduction is less acute in extrasynaptic currents, indicating that NR2A
+does partition preferentially, but not exclusively, into synaptic locations at DIV>12. We then
+studied NMDA receptor signalling at DIV10, when both synaptic and extrasynaptic NMDA
+receptors are both overwhelmingly and equally NR2B-dominated. To analyse pro-survival
+signalling we studied the influence of synaptic NMDA receptor activity on staurosporine-induced
+apoptosis. Blockade of spontaneous NMDAR activity with MK-801, or ifenprodil exacerbated the
+apoptotic insult. Furthermore, MK-801 and ifenprodil both antagonized neuroprotection promoted
+by enhancing synaptic activity. Pro-death signalling induced by a toxic dose of NMDA is also
+blocked by NR2B-specific antagonists. Using a cell culture model of synaptic NMDA receptordependent synaptic potentiation, we find that this is mediated exclusively by NR2B-containing
+NMDARs, as implicated by NR2B-specific antagonists and the use of selective vs. non-selective
+doses of the NR2A-preferring antagonist NVP-AAM077.
+Therefore, within a single neuron, NR2B-NMDA receptors are able to mediate both survival and
+death signalling, as well as model of NMDA receptor-dependent synaptic potentiation. In this
+instance, subunit differences cannot account for the dichotomous nature of NMDA receptor
+signalling.
+
+Keywords
+Apoptosis; necrosis; extrasynaptic; neuroprotection; NR2A
+
+*
+
+Correspondence to Giles.Hardingham@ed.ac.uk, Centre for Neuroscience Research, University of Edinburgh, Edinburgh, UK, EH8
+9XD. Tel +44 131 6507961, Fax +44 131 6506576..
+
+Martel et al.
+
+Page 2
+
+Introduction
+
+Europe PMC Funders Author Manuscripts
+
+NMDARs (N-methyl-D-aspartate (NMDA) receptors) are ionotropic receptors gated by the
+neurotransmitter glutamate, that play an important role in the physiology and
+pathophysiology of the central nervous system (CNS) (Waxman and Lynch, 2005). Most
+NMDARs in the mammalian CNS are comprised of two NR1 subunits and two NR2
+subunits. There are four types of NR2 subunit (NR2A-D) which contain the binding site for
+glutamate, confer on the NMDAR distinct biophysical and pharmacological properties and
+potentially their ability to interact with different intracellular signalling molecules (CullCandy and Leszkiewicz, 2004, Erreger et al., 2004, Chen and Wyllie, 2006, Kohr, 2006).
+
+Europe PMC Funders Author Manuscripts
+
+NMDAR activity has the potential to promote survival or death in CNS neurons (Papadia
+and Hardingham, 2007). The magnitude of activation, be it intensity or duration, is very
+important in determining the nature of the response to an episode of NMDAR activity. The
+classical bell-shaped curve model of the neuronal response to NMDA or glutamate contends
+that intermediate, physiological levels of NMDAR activity are necessary for neuroprotection
+whereas too little or too much NMDAR activity promotes cell death or vulnerability to
+trauma (Lipton and Nakanishi, 1999). Aside from stimulus intensity, the location of the
+NMDAR may also profoundly affect the signals that emanate from the NMDAR.
+Developing neurons have sizeable pools of NMDARs at extrasynaptic, as well as synaptic
+locations, which signal very differently. Ca2+ influx that is dependent on intense synaptic
+NMDAR activation is well tolerated by cells whereas activation of extrasynaptic NMDARs,
+either on their own or accompanied by synaptic NMDAR activation, causes a loss of
+mitochondrial membrane potential and cell death (Hardingham et al., 2002, Leveille et al.,
+2005, Zhang et al., 2007). Differential synaptic vs. extrasynaptic NMDAR effects also
+extend to other signal pathways. While synaptic NMDAR activity strongly induces CREBdependent gene expression, extrasynaptic NMDARs are coupled to a CREB shut-off
+pathway (Hardingham et al., 2002) in a developmentally regulated manner (Hardingham and
+Bading, 2002). It has also been shown that there is opposing regulation of the ERK1/2
+pathway by synaptic and extrasynaptic NMDARs in hippocampal neurons: Synaptic
+NMDARs activate the ERK pathway whereas extrasynaptic NMDARs evoke ERK
+inactivation (Ivanov et al., 2006). Extrasynaptic NMDARs have also been implicated
+specifically in promoting long term depression while synaptic NMDARs are responsible for
+long term potentiation (Massey et al., 2004).
+The differences in synaptic vs. extrasynaptic signalling could be conceivably down to three
+factors. Firstly, synaptic and extrasynaptic NMDARs could be coupled to different
+signalling pathways, either physically or functionally due to their location. Secondly,
+differences in signalling could be due to the way in which these distinct pools are activated:
+brief saturating activation by trans-synaptic glutamate release (synaptic NMDARs) vs.
+chronic low level activation by bath/ambient glutamate (extrasynaptic NMDARs). Thirdly,
+differences could be a by-product of differences in the location of NR2B vs. NR2Acontaining NMDARs (NR2A-NMDARs). NR2A expression in the rodent CNS begins 6-10
+days post-natally (Sheng et al., 1994, Zhong et al., 1994). NR2A becomes incorporated into
+synaptic NMDARs, by a mechanism involving the cytoplasmic C-terminus (Steigerwald et
+al., 2000), (but see (Thomas et al., 2006)). NR2A may thus become enriched at synapses
+compared to extrasynaptic locations. Liu et al. reported that NR2A-containing NMDARs
+promote survival and NR2B-NMDARs promote death independent of their location (Liu et
+al., 2007). Therefore, synaptic NMDARs may selectively promote survival due to the fact
+that they are enriched in NR2A-NMDARs. However, von Engelhardt et al. found that prodeath NMDAR signalling can be mediated by NR2A-NMDARs (von Engelhardt et al.,
+2007), indicating that the subunit is not important in determining excitotoxicity. Moreover,
+the concept that NR2A partitions near-exclusively into synaptic locations has been
+
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 3
+
+challenged recently by findings that NR2A can end up at extrasynaptic locations in cultured
+neurons (Thomas et al., 2006) and that the subunit compositions of synaptic and
+extrasynaptic NMDARs are similar in 3 week old acute hippocampal slices (Harris and
+Pettit, 2007).
+
+Europe PMC Funders Author Manuscripts
+
+The concept of NR2 subunit-specific signalling also an ongoing area of interest within the
+synaptic plasticity field. It has been proposed that NR2A-containing NMDARs are
+preferentially involved in potentiation of synapses, while NR2B-containing NMDARs play a
+role principally in depression (Liu et al., 2004, Massey et al., 2004, Bartlett et al., 2007).
+However, this is controversial: other studies have claimed that NR2A-containing NMDARs
+are not essential for induction of NMDAR-dependent LTP, and that NR2B-containing
+NMDARs can mediate it equally well (Berberich et al., 2005, Weitlauf et al., 2005, Zhao et
+al., 2005, Berberich et al., 2007, Le Roux et al., 2007).
+In this study we have assessed the capacity of the NMDAR to support dichotomous survival/
+death signalling as well as synaptic potentiation in hippocampal neurons at a developmental
+stage (DIV7-11) where NR2A expression is a very minor component of either synaptic or
+extrasynaptic NMDARs. We find that NR2B-NMDARs can mediate both excitotoxic effects
+as well as pro-survival synaptic NMDARs signalling. Moreover, NR2B-NMDARs mediate
+synaptic NMDAR-dependent changes in a model of synaptic potentiation. Thus, synaptic
+potentiation can be mediated solely by NR2B-NMDARs, and dichotomous NMDAR
+signalling to survival/death exists in hippocampal neurons at a developmental stage where
+subunit differences cannot offer an explanation.
+
+Experimental procedures
+Hippocampal cultures, stimulation, and the induction of apoptosis/necrosis
+
+Europe PMC Funders Author Manuscripts
+
+Hippocampal neurons were cultured as described (Bading and Greenberg, 1991) except that
+growth medium was supplemented with B27 (Invitrogen). All experiments were performed
+after a culturing period of >7 days during by which time hippocampal neurons have
+developed a rich network of processes, express functional NMDA-type and AMPA/kainatetype glutamate receptors, and form synaptic contacts (Hardingham et al., 2001, Hardingham
+and Bading, 2002, Hardingham et al., 2002). Prior to the stimulation of neurons or the
+addition of excitotoxic doses of NMDA or apoptosis inducers, neurons were placed in a nontrophic medium by transferring them from growth medium to a medium containing 10%
+MEM (Invitrogen), 90% Salt-Glucose-Glycine (SGG) medium ((Bading et al., 1993), SGG:
+114 mM NaCl, 0.219 % NaHCO3, 5.292 mM KCl, 1 mM MgCl2, 2 mM CaCl2, 10 mM
+HEPES, 1 mM glycine, 30 mM glucose, 0.5 mM sodium pyruvate, 0.1 % Phenol Red;
+osmolarity 325mosm/l). Bursts of action potential firing were induced by treatment of
+cultured hippocampal neurons with 50 μM bicuculline; bursts are associated with NMDARdependent intracellular Ca2+ transients (Hardingham et al., 2001). For inducing excitotoxic
+cell death, neurons were exposed to NMDA (50 μM) in our standard trophically deprived
+medium (see above) for 1 hr, after which neurons were washed once and returned to fresh
+medium. Neurons that die in response to exposure to excitotoxic levels of glutamate exhibit
+swollen cell bodies and pyknotic nuclei with small irregular chromatin clumps, a
+characteristic of necrotic cell death as opposed to apoptotic-like death ((Fujikawa et al.,
+2000), see (Hardingham et al., 2002) for example pictures). Cell death was determined 24 h
+later by counting the number of DAPI-stained pyknotic nuclei as a percentage of the total.
+Staurosporine exposure (24 h) was also used to induce apoptosis (50-100 nM).
+Morphologically, trophically-deprived and staurosporine-treated neurons show typical signs
+of apoptotic-like cell death (shrunken cell body and large round chromatin clumps).
+Staurosporine activates caspases and death is blocked by pan-caspase inhibitors
+(Hardingham, unpublished). Examples of pictures of apoptotic nuclei of trophically deprived
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 4
+
+and staurosporine-treated neurons are shown here and in previous studies (Hardingham et
+al., 2002, Papadia et al., 2005). Neurons were fixed and subjected to DAPI staining and cell
+death quantified by counting (blind) the number of apoptotic nuclei as a percentage of the
+total. MK-801 was from Tocris Bioscience, ifenprodil from Merck Biosciences. NVPAAM077 was a gift from Dr Y.P. Auberson (Novartis Institutes for Biomedical Research,
+Basel, Switzerland).
+
+Europe PMC Funders Author Manuscripts
+
+Electrophysiological recording and analysis
+Coverslips containing hippocampal neurons were transferred to a recording chamber
+perfused with an external recording solution composed of (in mM): 152 NaCl, 2.8 KCl, 10
+HEPES, 2 CaCl2, 10 glucose, 0.1 glycine and 0.02 strychnine, pH 7.3 (320-330 mOsm).
+Patch pipettes were made from thick-walled borosilicate glass (Harvard Apparatus, Kent,
+UK) and filled with a K-gluconate-based internal solution containing (in mM): 155 Kgluconate, 2 MgCl2, 10 Na-HEPES, 10 Na-PiCreatine, 2 Mg2-ATP and 0.3 Na3-GTP, pH
+7.3 (300 mOsm). Electrode tips were fire-polished for a final resistance ranging between
+5-10 MΩ. For experiments requiring a high signal-to-noise ratio, electrodes were coated with
+Sylgard 184 resin (Dow Corning, Midland, MI). Currents were recorded at room
+temperature (21 ± 2°C) using an Axopatch-1C amplifier (Molecular Device, Union City,
+CA) and stored on digital audio tape. Data was subsequently digitized and analyzed using
+WinEDR v6.1 software (John Dempster, University of Strathclyde, UK). Hippocampal
+neurons were voltage-clamped at -70 mV, and recordings were rejected if the holding
+current was greater than -100 pA or if the series resistance drifted by more than 20% of its
+initial value (<35 MΩ).
+
+Europe PMC Funders Author Manuscripts
+
+Whole-cell NMDAR-mediated currents were measured in external recording solution
+supplemented with 0.3 μM tetrodotoxin (TTX) and 50 μM picrotoxin (PTX, both from
+Tocris Bioscience, Bristol, UK), flowing in the recording chamber at a rate of 3-5 ml/min.
+NMDAR-mediated currents were elicited by switching from the external recording solution
+line to one containing 150 μM NMDA for 5-10 sec, until the current reached a steady-state,
+then back to the agonist-free solution. Because cells were difficult to maintain after too
+many agonist applications, each NMDA application was followed by at least 1 min washout
+and limited to 2-3 repeats. NMDAR antagonists NVP-AAM077 and ifenprodil (Tocris
+Bioscience or Merck) were bath-applied for 3 min before current measurements. All currents
+were normalized to their respective initial whole-cell agonist-elicited current and are shown
+in percentage of basal. Applying increasing concentrations of NVP-AAM077 to inhibit of
+glutamate (3 mM) evoked currents allowed us to determine an IC50 value for NVPAAM077 (Frizelle et al., 2006). For these experiments the external recording solution was
+supplemented with CNQX (10 mM) to block glutamate-evoked activation of AMPA and
+kainate receptors.
+Analysis of extrasynaptic NMDAR currents
+To block synaptically located NMDARs, we used a quantal activation-mediated blockade by
+MK-801 (Nakayama et al., 2005). In Mg2+-free external recording solution containing TTX,
+release of glutamate into the synaptic cleft can occur only via spontaneous (action potential
+independent) release of synaptic vesicles (packets) of glutamate. In the added presence of
+MK-801, an irreversible (in our experimental time-frame) open-channel blocker MK-801,
+only the NMDARs experiencing this localized release, therefore defined as “synaptic”, were
+antagonized by MK-801. Following MK-801 application to allow sufficient block of
+synaptic NMDARs and a 3 min washout of MK-801, only extrasynaptic NMDAR
+contributed to subsequent whole-cell NMDAR-mediated currents. When using ifenprodil,
+because of the difficult washout of the drug and the possibility that it might cause an
+underestimation of the NR2B-containing synaptic NMDAR population, the drug was never
+
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 5
+
+applied before the quantal block protocol. Thus, ifenprodil sensitivity of “whole-cell” and
+“extrasynaptic” fractions was compared in an unpaired manner. The extrasynaptic NMDA
+currents measured were normalized to their pre-MK-801 currents and are shown as
+percentage of basal.
+Model of NMDAR-dependent synaptic potentiation
+
+Europe PMC Funders Author Manuscripts
+
+To potentiate miniature excitatory postsynaptic currents (mEPSCs) frequency, 50 μM
+bicuculline was added to culture medium for 15 min, which was then replaced with drugfree medium for approximately 1 h before electrophysiological recordings. By adding
+GABAA receptor antagonist bicuculline, tonic inhibition on the neuronal network is
+relieved, inducing synchronous bursting of neurons which triggers a long-lasting increase in
+mEPSC frequency, likely due to conversion of silent synapses into functional ones (Arnold
+et al., 2005). Following the waiting period, hippocampal neurons were transferred into the
+recording chamber filled with an external recording solution composed of (in mM): 150
+NaCl, 2.8 KCl, 10 HEPES, 2 CaCl2, 1 MgCl2 and 10 glucose, pH 7.3 (320-330 mOsm)..
+mEPSCs were recorded for 5-10 min (minimum of 200 events) from neurons clamped at
+−70 mV. Data was analyzed offline with MiniAnalysis software (Synaptosoft, Fort Lee, NJ)
+as described (Baxter and Wyllie, 2006). mEPSCs were manually selected with a minimum
+amplitude threshold of 6 pA (approximately 2 times the baseline noise level). For the
+experiments using NMDAR antagonists, drugs were pre-applied 20 min before the
+bicuculline stimulation.
+
+Results
+DIV 12-18 hippocampal neurons contain a lower proportion of NR2B-NMDARs than DIV
+7-11 neurons
+
+Europe PMC Funders Author Manuscripts
+
+We first investigated the sensitivity of glutamate-evoked whole-cell NMDAR currents to the
+NR2B-selective antagonist ifenprodil (Williams, 1993) at different developmental stages. As
+expected, we observed a large increase in the magnitude of NMDAR currents as the neurons
+progress through in vitro development (data not shown). However, the sensitivity of this
+current to ifenprodil remains very high with currents being blocked by 74 ± 2 % (n=21) up
+to DIV11 (Fig. 1a,b). Ifenprodil is an incomplete antagonist: it blocks pure NR1/NR2B
+NMDARs by approximately 80 % (Williams, 1993, Tovar and Westbrook, 1999, Frizelle et
+al., 2006) and so the degree of blockade that we see here is indicative of a near-pure
+population of NR2B-NMDARs. To confirm this further we determined the sensitivity of our
+whole-cell currents to the competitive NMDAR antagonist NVP-AAM077 (Auberson et al.,
+2002, Liu et al., 2004). In recombinant NR2A- or NR2B-containing NMDARs this
+antagonist blocks glutamate-evoked currents with IC50 values of 31 nM and 215 nM
+respectively (Frizelle et al., 2006) when glutamate is used at its EC50 concentration for each
+NMDAR subtype (see (Wyllie and Chen, 2007) for a discussion of this point). We find that
+at DIV 7-11 NMDAR-mediated currents evoked by glutamate at its EC50 concentration (3
+mM) are blocked (Fig. 1c) in a manner that is consistent with a near pure NR2B-NMDAR
+population with the IC50 for NVP-AAM077 block being 203 nM (Fig. 1d). In agreement
+with previous studies (Kew et al., 1998, Tovar and Westbrook, 1999) ifenprodil sensitivity
+of NMDAR currents is lower in older neurons: sensitivity is only around 50% in DIV12-18
+neurons (Fig. 1a,b), indicative of increased expression of ifenprodil-insensitive NR2ANMDARs.
+Developmental loss of ifenprodil sensitivity of NMDAR currents is not solely restricted to
+synaptic locations
+We next sought to determine whether this loss of ifenprodil sensitivity applied equally to
+synaptic and extrasynaptic currents, or whether extrasynaptic currents remained essentially
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 6
+
+Europe PMC Funders Author Manuscripts
+
+NR2B-containing. This would tell us whether NR2A was partitioning selectively into
+synaptic locations. To analyze extrasynaptic NMDAR currents we used an established
+method for selectively and irreversibly blocking synaptic NMDARs (Nakayama et al., 2005)
+whereupon bath application of agonist is then used to activate extrasynaptic NMDARs.
+Following the measurement of whole-cell NMDAR currents, neurons were placed in TTX
+and Mg2+-free solution, in the presence of MK-801. Under these conditions, spontaneous
+release of quanta of glutamate activate synaptic NMDARs, which are then blocked by the
+open channel blocker MK-801. Comparing NMDAR currents before and after this treatment
+revealed that open-channel NMDAR blockade under spontaneous quantal neurotransmitter
+release is progressive, plateaus after 10 min and goes no further (Fig. 2a,b). This remaining
+current, undiminished by this protocol for blocking synaptic NMDARs, is extrasynaptic. To
+demonstrate conclusively that all synaptic NMDARs are blocked by this protocol we
+analyzed the shape of mEPSCs before and after MK-801 blockade of NMDARs that had
+been activated by spontaneous quantal neurotransmitter release (see methods). There is a
+clear change in the decay kinetics, indicative of a loss of the NMDAR component of the
+current (Fig. 2c,d). To confirm that this loss is complete, we compared the kinetics of these
+mEPSCs with those where all NMDARs are blocked by a high agonist application (100 μM
+NMDA) in the presence of MK-801. Under these conditions, the mEPSC kinetics are
+identical to those subjected to NMDAR blockade under spontaneous quantal release for 10
+min (Fig. 2c), showing that all synaptic NMDARs are indeed blocked.
+Not surprisingly we found that at DIV7-11, ifenprodil exerted a near-maximal block on
+extrasynaptic currents (77 ± 2 %, n=18), just as it did to whole-cell currents (Fig. 2e). At
+DIV12-18, however, the blockade of extrasynaptic NMDAR currents was significantly
+lower (65 ± 3 %, n=16, p < 0.01 Fig. 2e), indicating that some NR2A-NMDARs are
+incorporated into extrasynaptic sites, as has been shown previously (Thomas et al., 2006).
+Importantly, however, the ifenprodil sensitivity of extrasynaptic NMDAR currents was still
+significantly greater than the sensitivity of whole-cell currents (Fig. 2e), indicating that
+NR2A-NMDARs are preferentially incorporated into synaptic sites.
+NR2B-NMDARs can mediate both pro-death and pro-survival NMDAR signalling
+
+Europe PMC Funders Author Manuscripts
+
+Given that both synaptic and extrasynaptic NMDAR currents at DIV7-11 are essentially
+NR2B-NMDAR-mediated, we wanted to determine whether NR2B-NMDARs were able to
+mediate both survival and death signalling within a single neuronal type. Experiments were
+carried out at DIV8-11. We first looked at pro-death signalling from the NMDAR, induced
+by the bath application of a toxic dose of NMDA (50 μM). Both MK-801 and ifenprodil
+prevented excitotoxic cell death (Fig. 3a,b). Furthermore, we tested the effect of NR2Aantagonizing levels of NVP-AAM077 (30 nM) which inhibits approximately 70 % of
+NR2A-mediated currents and 10 % NR2B-mediated currents evoked by 50 μM NMDA
+(Frizelle et al., 2006). 30 nM NVP-AAM077 did not impact on cell death. However, a
+concentration that inhibits over 70 % of NR2B-mediated currents in addition to NR2Acontaining NMDARs (400 nM, (Frizelle et al., 2006)) was neuroprotective (Fig. 3a,b). We
+next sought to determine whether synaptic NMDAR-dependent neuroprotection is
+achievable in DIV9 hippocampal neurons, and whether it is mediated by NR2B--NMDARs.
+We then used the established model of staurosporine-induced apoptosis and assessed the
+influence of synaptic NMDAR activity on vulnerability to this insult. We found that
+blockade of spontaneous NMDAR activity with MK-801 and NR2B-NMDAR activity with
+ifenprodil exacerbated staurosporine-induced neuronal death (Fig. 4a). Thus, spontaneous
+NR2B-NMDAR activity is clearly exerting a protective effect in this model of cell death. In
+addition to inhibiting spontaneous NMDAR activity with antagonists, synaptic NMDAR
+activity can be enhanced by dis-inhibiting the neuronal network. Synaptic activity was
+initiated by treating rat cortical neurons with the GABAA receptor blocker bicuculline
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 7
+
+Europe PMC Funders Author Manuscripts
+
+(Hardingham et al., 2001). This stimulation protocol induces bursts of action potentials
+which are associated with NMDAR-dependent Ca2+ transients (Hardingham and Bading,
+2002). This enhanced activity promotes strong protection in the face of the apoptotic insult
+(Fig. 4b,c) and moreover both MK-801 and ifenprodil reduce the protection afforded. Note
+that bicuculline treatment still has a small protective effect in the presence of ifenprodil (Fig.
+4b), potentially due to the fact that it does not block NR2B-NMDARs completely. In
+conclusion, NR2B-NMDARs are able to signal to neuroprotection as well as neuronal death.
+NR2B-NMDARs can mediate synaptic activity-dependent potentiation of mEPSC frequency
+It has been suggested that NR2B-NMDARs couple selectively to synaptic depression, and
+not potentiation (Liu et al., 2004, Massey et al., 2004). We wanted to determine whether
+NMDAR-dependent synaptic potentiation was achievable in our cultures at this
+developmental stage. We employed a model of plasticity (Arnold et al., 2005) in which a
+brief period of bicuculline-induced bursting causes an NMDAR-dependent increase in
+mEPSC frequency, attributed to AMPA receptor insertion and unsilencing of synapses (Lu
+et al., 2001, Abegg et al., 2004, Baxter and Wyllie, 2006). We found that this model of
+potentiation is very robust in DIV 8-11 hippocampal neurons (Fig. 5a,b). Moreover,
+MK-801 and ifenprodil blocked the increase in mEPSC frequency, demonstrating that this
+potentiation process is NR2B-dependent (Fig. 5a,b). In addition, a concentration of NVPAAM077 (30 nM) predicted to impair activation of synaptic NR2A-NMDARs but not
+NR2B-NMDARs (Frizelle et al., 2006) failed to block potentiation, while a nondiscriminating concentration (400 nM) did block potentiation (Fig. 5a,b).
+
+Discussion
+We have shown that in developing hippocampal neurons, NR2B-NMDARs are capable of
+mediating antagonistic signalling to survival/death as well as synaptic potentiation,
+depending on the stimulus employed. This indicates that in immature hippocampal neurons
+at least, the subunit composition of the NMDAR cannot account for dichotomous NMDAR
+signalling.
+
+Europe PMC Funders Author Manuscripts
+
+Signalling to survival and death by the NMDAR
+Despite an overwhelming body of evidence from animal studies implicating NMDAR
+activity in neuronal loss following ischemia, the many clinical trials of different NMDAR
+antagonists for stroke have failed due to poor tolerance and efficacy (Ikonomidou and
+Turski, 2002, Muir, 2006). The fact that the NMDAR plays a central role in synaptic
+plasticity and transmission, and learning and cognition accounts for the undesired
+psychomimetic and CNS-adverse effects of antagonists (Muir, 2006). However, trial design
+may have been erring too far on the side of caution in seeking to avoid psychosis and other
+CNS-adverse effects, when these side-effects are on-target and not off-target effects. Other
+issues cloud a clear assessment of NMDAR antagonists, such as numbers of patients within
+the trials and time taken to administrate the drug. With many large pharmaceutical
+companies having shied away from NMDAR antagonists, these issues may not be resolved
+any time soon.
+Nevertheless, the growing body of evidence that physiological synaptic NMDAR activity
+exerts a neuroprotective effect (Ikonomidou and Turski, 2002, Hardingham and Bading,
+2003, Hetman and Kharebava, 2006) has led to suggestions that it may play a role in
+promoting recovery and preventing delayed neuronal loss in the penumbra (Albers et al.,
+2001, Ikonomidou and Turski, 2002). Thus, global NMDAR antagonists may block
+NMDAR-activated pro-death signals triggered in response to an ischemic challenge, but
+interfere with some recovery or preconditioning processes in the penumbra. The anti-
+
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 8
+
+excitotoxic effects of NMDAR antagonists have never been in question, but until relatively
+recently the pro-survival role of the NMDAR was not known and so antagonists were not
+tested in contexts that would expose their harmful effects. In treating disorders associated
+with pro-death NMDAR signalling, it may be desirable to block pro-death signalling,
+without affecting pro-survival signalling or synaptic plasticity.
+
+Europe PMC Funders Author Manuscripts
+Europe PMC Funders Author Manuscripts
+
+A specific role for NR2B-NMDARs in promoting cell death would enable this particular
+subtype of NMDAR to be targeted without impairing pro-survival signalling, using the
+highly selective antagonists available. However, our observations suggest that NR2BNMDARs are capable of promoting both survival and death signalling. Moreover, in more
+mature neurons (DIV21) NR2A-NMDARs were recently shown to be capable of mediating
+excitotoxicity as well as protective signalling (von Engelhardt et al., 2007). Taken together,
+these studies indicate that NR2B-NMDARs and NR2A-NMDARs are both capable of
+mediating survival and death signalling. Thus, the specific ability of NR2B-NMDARs and
+NR2A-NMDARs to promote death and survival respectively as described recently (Liu et
+al., 2007) may not apply in all neuronal types at all developmental stages, and so NR2Bspecific antagonism may not be an optimal anti-excitotoxic strategy. Furthermore, the recent
+observation that synaptic and extrasynaptic NMDARs have similar NR2B components in 3
+week old acute hippocampal slices (Harris and Pettit, 2007) suggests that NR2B-selective
+antagonists may not be successful even in selectively targetting extrasynaptic NMDARs in
+vivo. An added complication is the fact that ifenprodil and related NR2B antagonists
+actually potentiate NR2B-NMDAR currents when agonist concentrations are low, and so
+may boost extrasynaptic currents under conditions of low-to-modest ambient glutamate
+(Neyton and Paoletti, 2006). Another pharmacological approach to sparing trans-synaptic
+NMDAR signalling while blocking the effects of excitotoxic doses of elevated glutamate in
+the extracellular medium could involve low-affinity uncompetitive antagonists such as
+memantine. Its uncompetitive nature results in very effective blockade of excessive chronic
+NMDAR activity caused by high ambient levels of glutamate or NMDA (Chen and Lipton,
+2006). However, due to its fast off rate, memantine will not substantially interfere with
+normal synaptic NMDAR activity by accumulating in the channel (Chen et al., 1998, Chen
+and Lipton, 2006, Wrighton et al., 2007), in contrast to MK-801, which is a uncompetitive
+antagonist/open channel blocker with an extremely slow off-rate. As a drug that antagonizes
+the NMDAR preferentially under pathological rather than physiological scenarios, it has the
+advantage of potentially protecting all neurons regardless of the subunit composition of their
+NMDARs.
+Subunit-dependence of the directionality of synaptic plasticity?
+The NR2 composition of the NMDAR may play an important role in the directionality of
+synaptic plasticity. It has been proposed that NR2A-containing NMDARs are preferentially
+involved in potentiation of synapses, while NR2B-containing NMDARs play a role mainly
+in depression (Liu et al., 2004, Massey et al., 2004, Bartlett et al., 2007). However, other
+studies have claimed that NR2A-containing NMDARs are not essential for induction of
+NMDAR-dependent LTP, and that NR2B-containing NMDARs can mediate it equally well
+(Berberich et al., 2005, Weitlauf et al., 2005, Zhao et al., 2005, Berberich et al., 2007, Le
+Roux et al., 2007).
+One potential reason for this controversy lies in the use of NVP-AAM077 which has been
+reported to selectively block NR2A-NMDARs (Auberson et al., 2002) and which has
+resulted in it being used to implicate NR2A-NMDARs in various processes. However, later
+studies have shown this antagonist to be less select than originally thought (Berberich et al.,
+2005, Frizelle et al., 2006, Neyton and Paoletti, 2006). Moreover NVP-AAM077 was shown
+to inhibit NMDAR-dependent LTP even in NR2A -/- mice and attenuate NMDAR currents
+mediated by NR2B-containing receptors in neurons (Weitlauf et al., 2005). Indeed at the
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 9
+
+Europe PMC Funders Author Manuscripts
+
+concentrations most commonly used (300 – 400 nM) NVP-AAM077 will block,
+substantially, synaptic activation of both NR2A- and NR2B containing NMDARs since its
+slow dissociation rate constant will mean that on a synaptic timescale glutamate and NVPAAM077 binding cannot reach equilibrium (Frizelle et al., 2006, Wyllie and Chen, 2007).
+Nevertheless, application of low concentrations (30 nM or less) can be used to provide some
+NR2A-selective antagonism and implicate NR2A specifically in synaptic potentiation
+(Frizelle et al., 2006, Bartlett et al., 2007).
+Another potential reason for disagreement lies in the fact that the expression of NR2A is
+developmentally regulated, starting around P6-P10 (Sheng et al., 1994, Zhong et al., 1994).
+NR2A subunits contribute increasingly to synaptic NMDAR currents (Stocca and Vicini,
+1998, Tovar and Westbrook, 1999) and so the developmental stage could have a significant
+bearing on the involvement of NR2A- vs. NR2B-NMDARs in a process (e.g. LTP)
+independently of any subunit-specific signalling requirements (e.g. see (Le Roux et al.,
+2007)). Our studies indicate that in immature hippocampal cultures, NR2B-NMDARs are
+capable of mediating activity-dependent potentiation of synaptic connections, as measured
+by analysing mEPSC frequency.
+Pattern of NMDA receptor activity vs subtype of NMDA receptor?
+
+Europe PMC Funders Author Manuscripts
+
+In this study we show that when bicuculline-induced AP bursting activates NR2B-NMDARs
+trans-synaptically, neuroprotective signalling is induced, as is synaptic potentiation. In
+contrast, extended bath-activation of all (synaptic and extrasynaptic) NMDARs promotes
+cell death, also via NR2B-NMDAR activation. Furthermore, we find that brief bath
+application of NMDA triggers synaptic depression: spontaneous mEPSC frequency is
+lowered 30 min after brief NMDA exposure (30 μM for 4 min, Martel, Wyllie and
+Hardingham, unpublished observations). The opposing effects of bath activating all
+(synaptic and extrasynaptic) NMDARs and trans-synaptically activating synaptic NMDARs
+is evident in neurons expressing essentially only NR2B-NMDARs. This demonstrates that in
+this particular instance, consequences of NMDAR signalling is determined by the type of
+stimulus, and not the subunit composition. Quite what it is about the stimuli which trigger
+the different effects is not addressed here, but previous work has demonstrated a dominant
+effect of extrasynaptic NMDARs in promoting neuronal death (Hardingham et al., 2002)
+and synaptic depression (Massey et al., 2004), which would explain the observations in this
+study. It will be interesting to see how synaptic and extrasynaptic NMDARs are coupled to
+different signalling pathways. It could be that they are coupled differently (either physically/
+functionally) as a result of their differing location. Another contributing factor could be the
+way in which these distinct pools are activated: brief saturating activation in the case of
+trans-synaptic activation of synaptic NMDARs vs. chronic low level activation of
+extrasynaptic NMDARs by bath/ambient glutamate. Differences in the properties of
+intracellular Ca2+ transients evoked by these different stimuli could differentially affect
+signalling, even if the overall Ca2+ load were similar.
+
+Acknowledgments
+We are grateful to Dr Y.P. Auberson (Novartis Institutes for Biomedical Research, Basel, Switzerland) for the kind
+gift if NVP-AAM077. This work is supported by the Royal Society, the Wellcome Trust and the European
+Commission.
+
+References
+Abegg MH, Savic N, Ehrengruber MU, McKinney RA, Gahwiler BH. Epileptiform activity in rat
+hippocampus strengthens excitatory synapses. J Physiol. 2004; 554:439–448. [PubMed: 14594985]
+
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 10
+
+Europe PMC Funders Author Manuscripts
+Europe PMC Funders Author Manuscripts
+
+Albers GW, Goldstein LB, Hall D, Lesko LM. Aptiganel hydrochloride in acute ischemic stroke: a
+randomized controlled trial. Jama. 2001; 286:2673–2682. [PubMed: 11730442]
+Arnold FJ, Hofmann F, Bengtson CP, Wittmann M, Vanhoutte P, Bading H. Microelectrode array
+recordings of cultured hippocampal networks reveal a simple model for transcription and protein
+synthesis-dependent plasticity. J Physiol. 2005; 564:3–19. [PubMed: 15618268]
+Auberson YP, Allgeier H, Bischoff S, Lingenhoehl K, Moretti R, Schmutz M. 5Phosphonomethylquinoxalinediones as competitive NMDA receptor antagonists with a preference
+for the human 1A/2A, rather than 1A/2B receptor composition. Bioorg Med Chem Lett. 2002;
+12:1099–1102. [PubMed: 11909726]
+Bading H, Ginty DD, Greenberg ME. Regulation of gene expression in hippocampal neurons by
+distinct calcium signaling pathways. Science. 1993; 260:181–186. [PubMed: 8097060]
+Bading H, Greenberg ME. Stimulation of protein tyrosine phosphorylation by NMDA receptor
+activation. Science. 1991; 253:912–914. [PubMed: 1715095]
+Bartlett TE, Bannister NJ, Collett VJ, Dargan SL, Massey PV, Bortolotto ZA, Fitzjohn SM, Bashir ZI,
+Collingridge GL, Lodge D. Differential roles of NR2A and NR2B-containing NMDA receptors in
+LTP and LTD in the CA1 region of two-week old rat hippocampus. Neuropharmacology. 2007;
+52:60–70. [PubMed: 16904707]
+Baxter AW, Wyllie DJ. Phosphatidylinositol 3 kinase activation and AMPA receptor subunit
+trafficking underlie the potentiation of miniature EPSC amplitudes triggered by the activation of Ltype calcium channels. J Neurosci. 2006; 26:5456–5469. [PubMed: 16707798]
+Berberich S, Jensen V, Hvalby O, Seeburg PH, Kohr G. The role of NMDAR subtypes and charge
+transfer during hippocampal LTP induction. Neuropharmacology. 2007; 52:77–86. [PubMed:
+16901514]
+Berberich S, Punnakkal P, Jensen V, Pawlak V, Seeburg PH, Hvalby O, Kohr G. Lack of NMDA
+receptor subtype selectivity for hippocampal long-term potentiation. J Neurosci. 2005; 25:6907–
+6910. [PubMed: 16033900]
+Chen HS, Lipton SA. The chemical biology of clinically tolerated NMDA receptor antagonists. J
+Neurochem. 2006; 97:1611–1626. [PubMed: 16805772]
+Chen HS, Wang YF, Rayudu PV, Edgecomb P, Neill JC, Segal MM, Lipton SA, Jensen FE.
+Neuroprotective concentrations of the N-methyl-D-aspartate open-channel blocker memantine are
+effective without cytoplasmic vacuolation following post-ischemic administration and do not
+block maze learning or long-term potentiation. Neuroscience. 1998; 86:1121–1132. [PubMed:
+9697119]
+Chen PE, Wyllie DJ. Pharmacological insights obtained from structure-function studies of ionotropic
+glutamate receptors. Br J Pharmacol. 2006; 147:839–853. [PubMed: 16474411]
+Cull-Candy SG, Leszkiewicz DN. Role of distinct NMDA receptor subtypes at central synapses. Sci
+STKE. 2004; 2004:re16. [PubMed: 15494561]
+Erreger K, Chen PE, Wyllie DJ, Traynelis SF. Glutamate receptor gating. Crit Rev Neurobiol. 2004;
+16:187–224. [PubMed: 15701057]
+Frizelle PA, Chen PE, Wyllie DJA. Equilibrium constants for NVP-AAM077 acting at recombinant
+NR1/NR2A and NR1/NR2B NMDA receptors: implications for studies of synaptic transmission.
+Mol Pharmacol. 2006; 70:1022–1032. [PubMed: 16778008]
+Fujikawa DG, Shinmei SS, Cai B. Kainic acid-induced seizures produce necrotic, not apoptotic,
+neurons with internucleosomal DNA cleavage: implications for programmed cell death
+mechanisms. Neuroscience. 2000; 98:41–53. [PubMed: 10858610]
+Hardingham GE, Arnold FJ, Bading H. Nuclear calcium signaling controls CREB-mediated gene
+expression triggered by synaptic activity. Nat Neurosci. 2001; 4:261–267. [PubMed: 11224542]
+Hardingham GE, Bading H. Coupling of extrasynaptic NMDA receptors to a CREB shut-off pathway
+is developmentally regulated. Biochim Biophys Acta. 2002; 1600:148–153. [PubMed: 12445470]
+Hardingham GE, Bading H. The Yin and Yang of NMDA receptor signalling. Trends Neurosci. 2003;
+26:81–89. [PubMed: 12536131]
+Hardingham GE, Fukunaga Y, Bading H. Extrasynaptic NMDARs oppose synaptic NMDARs by
+triggering CREB shut-off and cell death pathways. Nat Neurosci. 2002; 5:405–414. [PubMed:
+11953750]
+
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 11
+
+Europe PMC Funders Author Manuscripts
+Europe PMC Funders Author Manuscripts
+
+Harris AZ, Pettit DL. Extrasynaptic and synaptic NMDA receptors form stable and uniform pools in
+rat hippocampal slices. J Physiol. 2007; 584:509–519. [PubMed: 17717018]
+Hetman M, Kharebava G. Survival signaling pathways activated by NMDA receptors. Curr Top Med
+Chem. 2006; 6:787–799. [PubMed: 16719817]
+Ikonomidou C, Turski L. Why did NMDA receptor antagonists fail clinical trials for stroke and
+traumatic brain injury? The Lancet Neurology. 2002; 1:383–386.
+Ivanov A, Pellegrino C, Rama S, Dumalska I, Salyha Y, Ben-Ari Y, Medina I. Opposing role of
+synaptic and extrasynaptic NMDA receptors in regulation of the ERK activity in cultured rat
+hippocampal neurons. J Physiol. 2006; 572(3):789–798. [PubMed: 16513670]
+Kew JN, Richards JG, Mutel V, Kemp JA. Developmental changes in NMDA receptor glycine affinity
+and ifenprodil sensitivity reveal three distinct populations of NMDA receptors in individual rat
+cortical neurons. J Neurosci. 1998; 18:1935–1943. [PubMed: 9482779]
+Kohr G. NMDA receptor function: subunit composition versus spatial distribution. Cell Tissue Res.
+2006; 326:439–446. [PubMed: 16862427]
+Le Roux N, Amar M, Moreau A, Fossier P. Involvement of NR2A- or NR2B-containing N-methyl-Daspartate receptors in the potentiation of cortical layer 5 pyramidal neurone inputs depends on the
+developmental stage. Eur J Neurosci. 2007; 26:289–301. [PubMed: 17650107]
+Leveille, F.; Nicole, O.; Buisson, A. Abstract Viewer/Itinerary Planner. Society for Neuroscience;
+Washington, DC: 2005. Cellular location of NMDA receptors influences their implication in
+excitotoxic injury. Online Program No. 946.2.2005
+Lipton SA, Nakanishi N. Shakespeare in Love - with NMDA receptors? Nature Medicine. 1999;
+5:270–271.
+Liu L, Wong TP, Pozza MF, Lingenhoehl K, Wang Y, Sheng M, Auberson YP, Wang YT. Role of
+NMDA receptor subtypes in governing the direction of hippocampal synaptic plasticity. Science.
+2004; 304:1021–1024. [PubMed: 15143284]
+Liu Y, Wong TP, Aarts M, Rooyakkers A, Liu L, Lai TW, Wu DC, Lu J, Tymianski M, Craig AM,
+Wang YT. NMDA receptor subunits have differential roles in mediating excitotoxic neuronal
+death both in vitro and in vivo. J Neurosci. 2007; 27:2846–2857. [PubMed: 17360906]
+Lu W, Man H, Ju W, Trimble WS, MacDonald JF, Wang YT. Activation of synaptic NMDA receptors
+induces membrane insertion of new AMPA receptors and LTP in cultured hippocampal neurons.
+Neuron. 2001; 29:243–254. [PubMed: 11182095]
+Massey PV, Johnson BE, Moult PR, Auberson YP, Brown MW, Molnar E, Collingridge GL, Bashir
+ZI. Differential roles of NR2A and NR2B-containing NMDA receptors in cortical long-term
+potentiation and long-term depression. J Neurosci. 2004; 24:7821–7828. [PubMed: 15356193]
+Muir KW. Glutamate-based therapeutic approaches: clinical trials with NMDA antagonists. Curr Opin
+Pharmacol. 2006; 6:53–60. [PubMed: 16359918]
+Nakayama K, Kiyosue K, Taguchi T. Diminished neuronal activity increases neuron-neuron
+connectivity underlying silent synapse formation and the rapid conversion of silent to functional
+synapses. J Neurosci. 2005; 25:4040–4051. [PubMed: 15843606]
+Neyton J, Paoletti P. Relating NMDA receptor function to receptor subunit composition: limitations of
+the pharmacological approach. J Neurosci. 2006; 26:1331–1333. [PubMed: 16452656]
+Papadia S, Hardingham GE. The Dichotomy of NMDA Receptor Signaling. Neuroscientist. 2007
+Papadia S, Stevenson P, Hardingham NR, Bading H, Hardingham GE. Nuclear Ca2+ and the cAMP
+response element-binding protein family mediate a late phase of activity-dependent
+neuroprotection. J Neurosci. 2005; 25:4279–4287. [PubMed: 15858054]
+Sheng M, Cummings J, Roldan LA, Jan YN, Jan LY. Changing subunit composition of heteromeric
+NMDA receptors during development of rat cortex. Nature. 1994; 368:144–147. [PubMed:
+8139656]
+Steigerwald F, Schulz TW, Schenker LT, Kennedy MB, Seeburg PH, Kohr G. C-Terminal truncation
+of NR2A subunits impairs synaptic but not extrasynaptic localization of NMDA receptors. J
+Neurosci. 2000; 20:4573–4581. [PubMed: 10844027]
+Stocca G, Vicini S. Increased contribution of NR2A subunit to synaptic NMDA receptors in
+developing rat cortical neurons. J Physiol. 1998; 507(Pt 1):13–24. [PubMed: 9490809]
+
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 12
+
+Europe PMC Funders Author Manuscripts
+
+Thomas CG, Miller AJ, Westbrook GL. Synaptic and extrasynaptic NMDA receptor NR2 subunits in
+cultured hippocampal neurons. J Neurophysiol. 2006; 95:1727–1734. [PubMed: 16319212]
+Tovar KR, Westbrook GL. The incorporation of NMDA receptors with a distinct subunit composition
+at nascent hippocampal synapses in vitro. The Journal of Neuroscience. 1999; 19:4180–4188.
+[PubMed: 10234045]
+von Engelhardt J, Coserea I, Pawlak V, Fuchs EC, Kohr G, Seeburg PH, Monyer H. Excitotoxicity in
+vitro by NR2A- and NR2B-containing NMDA receptors. Neuropharmacology. 2007; 53:10–17.
+[PubMed: 17570444]
+Waxman EA, Lynch DR. N-methyl-D-aspartate receptor subtypes: multiple roles in excitotoxicity and
+neurological disease. Neuroscientist. 2005; 11:37–49. [PubMed: 15632277]
+Weitlauf C, Honse Y, Auberson YP, Mishina M, Lovinger DM, Winder DG. Activation of NR2Acontaining NMDA receptors is not obligatory for NMDA receptor-dependent long-term
+potentiation. J Neurosci. 2005; 25:8386–8390. [PubMed: 16162920]
+Williams K. Ifenprodil discriminates subtypes of the N-methyl-D-aspartate receptor: selectivity and
+mechanisms at recombinant heteromeric receptors. Mol Pharmacol. 1993; 44:851–859. [PubMed:
+7901753]
+Wrighton D, Baker E, Chen P, Wyllie D. Mg2+ and memantine block of rat recombinant NMDA
+receptors containing chimaeric NR2A/2D subunits expressed in Xenopus laevis oocytes. J Physiol.
+DOI 10.1113/jphysiol.2007.143164.2007.
+Wyllie DJ, Chen PE. Taking the time to study competitive antagonism. Br J Pharmacol. 2007;
+150:541–551. [PubMed: 17245371]
+Zhang SJ, Steijaert MN, Lau D, Schutz G, Delucinge-Vivier C, Descombes P, Bading H. Decoding
+NMDA Receptor Signaling: Identification of Genomic Programs Specifying Neuronal Survival
+and Death. Neuron. 2007; 53:549–562. [PubMed: 17296556]
+Zhao MG, Toyoda H, Lee YS, Wu LJ, Ko SW, Zhang XH, Jia Y, Shum F, Xu H, Li BM, Kaang BK,
+Zhuo M. Roles of NMDA NR2B subtype receptor in prefrontal long-term potentiation and
+contextual fear memory. Neuron. 2005; 47:859–872. [PubMed: 16157280]
+Zhong J, Russell SL, Pritchett DB, Molinoff PB, Williams K. Expression of mRNAs encoding
+subunits of the N-methyl-D-aspartate receptor in cultured cortical neurons. Mol Pharmacol. 1994;
+45:846–853. [PubMed: 8190101]
+
+Europe PMC Funders Author Manuscripts
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 13
+
+Europe PMC Funders Author Manuscripts
+Europe PMC Funders Author Manuscripts
+
+Fig. 1. DIV 12-18 hippocampal neurons contain a lower proportion of NR2B-NMDARs than DIV
+7-11 neurons
+
+A) Comparison of ifenprodil sensitivity of whole-cell NMDAR currents (evoked by 150 μM
+NMDA) in DIV 7-11 neurons (n =21) with DIV 12-18 neurons (n=19). B) Examples of
+traces used to generate the data in (A). C) example NMDAR-mediated whole-cell currents
+recorded from a DIV 9 neuron in the absence and presence of NVP-AAM077. D) Mean
+inhibition curve used to determine the IC50 of NVP-AAM077 acting at NMDAR currents of
+DIV 7-11 neurons. The value obtained (203 nM) is consistent with a near-pure NR2BNMDAR population. For each data point measurements were made from 3-7 cells (DIV
+7-11). * p<0.001 2-tailed unpaired T-test.
+
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 14
+
+Europe PMC Funders Author Manuscripts
+Europe PMC Funders Author Manuscripts
+
+Fig. 2. Developmental loss of ifenprodil sensitivity of NMDAR currents is not solely restricted to
+synaptic locations
+
+A) Loss of whole-cell current due to MK-801 exposure under quantal transmission plateaus
+after 10 min (n=3). Neurons were placed under voltage clamp and whole-cell NMDARmediated currents were measured. Neurons were then placed in Mg2+-free external
+recording solution containing TTX and MK-801 for the indicated times, to allow openchannel blockade of synaptic NMDARs following their activation by quantal release of
+glutamate. B) Example of a whole-cell current trace (DIV 9) before and after 10 min
+application of MK-801 when NMDARs are activated only by spontaneous release of
+glutamate (denoted as “quantal block”). C,D) Confirmation that all synaptic NMDARs are
+blocked by this procedure. C) Examples of mEPSC shape before and after 10 min of
+MK-801 block of NMDARs activated by spontaneous transmitter release. Also for
+comparison is a mEPSC recorded at the end of the experiment where all NMDARs were
+blocked by addition of a high concentration of agonist in the presence of MK-801. D)
+Example of a cumulative distribution curve of the decay constant of mEPSCs recorded from
+a cell before (n=185) and after (n=157) 10 min of “quantal block” to illustrate the change in
+decay kinetics. E) Comparison of the developmental loss of ifenprodil (3 μM) sensitivity of
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 15
+
+whole cell and extrasynaptic NMDAR currents. Whole cell currents of DIV 7-11 neurons
+(n=21) and DIV 12-18 neurons (n=19) analysed. Extrasynaptic currents of DIV 7-11
+neurons (n=21) and DIV 12-18 neurons (n=17) analysed. * p<0.05 2-tailed unpaired T-test.
+
+Europe PMC Funders Author Manuscripts
+Europe PMC Funders Author Manuscripts
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 16
+
+Europe PMC Funders Author Manuscripts
+Fig. 3. NR2B-NMDARs can mediate pro-death NMDAR signalling
+
+A,B) A) Neurons were pre-treated with the indicated antagonists prior to exposure to 50 μM
+NMDA for 1 h. Neurons were then returned to NMDA-free medium and death assessed after
+24 h. MK-801 (10 μM), ifenprodil (3 μM), NVP-AAM077 (30 nM and 400 nM). B)
+Example pictures (scale bar 20 μm). * p<0.05 2-tailed paired T-test.
+
+Europe PMC Funders Author Manuscripts
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 17
+
+Europe PMC Funders Author Manuscripts
+Fig. 4. NR2B-NMDARs can mediate pro-survival NMDAR signalling
+
+Europe PMC Funders Author Manuscripts
+
+A) Blockade of spontaneous NR2B-NMDAR activity exacerbates staurosporine-induced
+apoptosis. Neurons treated with MK-801 (10 μM) or ifenprodil (3 μM) for 16 h prior to
+exposure to staurosporine (50 nM) for 24 h. B) Neurons treated where indicated with
+bicuculline (50 μM) in the presence or absence of the indicated antagonists for 16 h prior to
+exposure to staurosporine (100 nM) for 24 h. C) Example pictures from (B) * p<0.05 2tailed paired T-test.
+
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+Martel et al.
+
+Page 18
+
+Europe PMC Funders Author Manuscripts
+
+Fig. 5. NR2B-NMDARs mediate activity-dependent potentiation of mEPSC frequency
+
+A) Neurons pre-treated with antagonists as indicated and in the presence of these
+compounds were treated with medium ± bicuculline for 15 min, then allowed to settle for 30
+min. mEPSCs were then recorded for 5-10 min (minimum 300 events) and the frequency
+calculated (n=8-10 for each condition). MK-801 (10 μM), ifenprodil (3 μM), NVPAAM077 (30 nM and 400 nM) B) Examples of traces used to generate the data shown in
+(A).
+
+Europe PMC Funders Author Manuscripts
+Neuroscience. Author manuscript; available in PMC 2009 July 12.
+
+

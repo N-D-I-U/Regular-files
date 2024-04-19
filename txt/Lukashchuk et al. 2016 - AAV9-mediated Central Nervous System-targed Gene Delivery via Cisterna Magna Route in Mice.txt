@@ -1,0 +1,1339 @@
+Citation: Molecular Therapy — Methods & Clinical Development (2016) 3, 15055; doi:10.1038/mtm.2015.55
+Official journal of the American Society of Gene & Cell Therapy All rights reserved 2329-0501/16
+www.nature.com/mtm
+
+Article
+
+AAV9-mediated central nervous system–targeted gene delivery
+via cisterna magna route in mice
+Vera Lukashchuk1, Katherine E Lewis1, Ian Coldicott1, Andrew J Grierson1 and Mimoun Azzouz1,2
+
+Current barriers to the use of adeno-associated virus serotype 9 (AAV9) in clinical trials for treating neurological disorders are its
+high expression in many off-target tissues such as liver and heart, and lack of cell specificity within the central nervous system
+(CNS) when using ubiquitous promoters such as human cytomegalovirus (CMV) or chicken-β-actin hybrid (CAG). To enhance
+targeting the transgene expression in CNS cells, self-complementary (sc) AAV9 vectors, scAAV9-GFP vectors carrying neuronal Hb9
+and synapsin 1, and nonspecific CMV and CAG promoters were constructed. We demonstrate that synapsin 1 and Hb9 promoters
+exclusively targeted neurons in vitro, although their strengths were up to 10-fold lower than that of CMV. In vivo analyses of mouse
+tissue after scAAV9-GFP vector delivery via the cisterna magna revealed a significant advantage of synapsin 1 promoter over both
+Hb9 variants in targeting neurons throughout the brain, since Hb9 promoters were driving gene expression mainly within the
+motor-related areas of the brain stem. In summary, this study demonstrates that cisterna magna administration is a safe alternative
+to intracranial or intracerebroventricular vector delivery route using scAAV9, and introduces a novel utility of the Hb9 promoter for
+the targeted gene expression for both in vivo and in vitro applications.
+Molecular Therapy — Methods & Clinical Development (2016) 3, 15055; doi:10.1038/mtm.2015.55; published online 17 February 2016
+
+INTRODUCTION
+Gene therapy research relies on the use and optimization of safe
+nonreplicating viral vectors. The choice of the viral vector depends
+on the tropism of the virus and its ability to allow sustained therapeutic gene expression in the target cells. A key challenge to be
+overcome when designing an efficient gene therapy approach for
+treating neurodegenerative disorders is access to the central nervous system (CNS), which must be mediated by either crossing the
+blood–brain barrier or by direct administration into the CNS. Adenoassociated virus of serotype 9 (AAV9) has become a preferred vector
+for CNS delivery, due to its increased ability to cross the blood–brain
+barrier compared to other AAV serotypes.1,2 Indeed, several studies
+have demonstrated successful reversal of the disease phenotype
+and prolonged survival in mouse models of spinal muscular atrophy and amyotrophic lateral sclerosis upon intravenous AAV9 delivery.3–5 However, complications from systemic delivery of AAV9 and
+its expression in non-CNS tissues such as liver and heart are likely
+barriers to their success in patient clinical trials.6–9 Delivery into the
+cerebrospinal fluid via intracerebroventricular route provides some
+protection against diffusion of the AAV9 vector to peripheral organs
+and more efficiently targets neurons and glia.10 Similarly, cisterna
+magna route of injection has been recently adopted as an alternative method for delivery into cerebrospinal fluid (CSF) which results
+in wide-spread gene delivery throughout the CNS11–16; however, the
+data regarding the therapeutic efficacy using this administration
+route in mouse models is sparse. The findings reported here aim to
+
+improve the therapeutic potential of the AAV vectors when targeting to the motor neurons and motor pathways within CNS.
+We previously demonstrated that the delivery of scAAV9 expressing survival motor neuron (SMN, causative gene for spinal muscular atrophy) driven by human cytomegalovirus (CMV) promoter
+into neonatal mice fully rescues early lethality in mice.5 Using selfcomplementary (sc) AAV9 ensures a faster rate of gene transcription onset due to the double-stranded conformation of the genome
+unlike conventional recombinant AAVs.17 The CMV promoter is
+known to drive high levels of gene expression across both CNS
+and non-CNS tissues when used in AAV vectors, and is therefore
+not necessarily an ideal promoter to use for restricted CNS transduction.10,18,19 Several neuronal promoter sequences, including
+­synapsin 1, CamkII, MeCP2, and Hb9 have been previously used to
+restrict gene expression to the spinal cord and brain using viral vectors.20–26 Efficient gene expression in the motor neurons of lumbar
+spinal cord was achieved after intracerebroventricular injection of
+mice using AAV9 driven by synapsin 1.10,20 Hb9 is a motor neuronspecific promoter whose activity has been well-established in the
+developing and postnatal spinal cord.27,28 In addition to motor neurons, a subset of Hb9-positive spinal cord interneurons has also
+been reported.29 Two short regulatory sequences within the distal
+region of Hb9 promoter with a size of 313 and 125 base pairs have
+been identified as sufficient for targeting gene expression exclusively to spinal cord in transgenic embryonic mice.30 While lentiviral
+vectors expressing Hb9 enhancer-driven green fluorescent protein
+
+Sheffield Institute for Translational Neuroscience, Department of Neuroscience, University of Sheffield, Sheffield, UK; 2Faculty of Applied Medical Sciences, King Abdulaziz
+University, Jeddah, Saudi Arabia. Correspondence: M Azzouz (m.azzouz@sheffield.ac.uk)
+Received 30 July 2015; accepted 9 December 2015
+1
+
+Gene delivery to CNS via cisterna magna using AAV9
+V Lukashchuk et al.
+
+2
+(GFP) resulted in moderate gene transfer efficiencies after intraparenchymal injection directly into the ventral horn of the lumbar spinal cord,26 expression data from AAV vectors driven by Hb9 have not
+been reported.
+In the present study, we sought to assess the neuron-targeting
+properties and transduction efficiencies of scAAV9-GFP vectors carrying the Hb9 promoter enhancer elements and synapsin 1 (SYN1)
+promoter after delivery of the virus into neonatal mice via the cisterna magna by comparing them to the ubiquitous promoters
+CMV and chicken-β-actin fused to CMV enhancer (CAG). Our results
+demonstrate the first account on the use of promoters of varying strengths and specificities in scAAV9-mediated reporter GFP
+expression after intra-CSF delivery via cisterna magna in mice. In
+addition, they highlight the novel applicability of the promoter Hb9
+in therapeutic gene transfer to areas of the brain stem.
+
+a
+
+RESULTS
+Characterization of scAAV9-GFP vectors carrying neuronal
+promoters in spinal cord neurons in vitro
+One of the challenges associated with constructing a transgene
+within scAAV genomes is their small cloning capacity. Despite this,
+several studies have demonstrated efficient neuronal targeting
+using a short ~400 bp SYN1 promoter sequence20,22,25 while Hb9
+promoter enhancer elements30 have never previously been tested
+in AAV delivery systems. In this study, we assessed the activities of
+SYN1 and Hb9 hybrid promoters in a side-by-side comparison to
+conventionally used CAG and CMV promoters, which are known
+for their high-level ubiquitous expression properties. Five scAAV9GFP virus stocks carrying different promoter elements including
+CMV, CAG, Hb9 enhancer composed of two minimal Hb9 promoter
+sequences (Hb9e), Hb9 enhancer fused to CMV minimal promoter
+(Hb9cmv) and SYN1 (Figure 1) were produced to high titers (up to
+3 × 1013 vg/ml). Spinal cord cultures purified from embryonic day 13
+(E13) mouse embryos, containing motor neurons and interneurons
+as well as glia, were transduced on day in vitro 2 and analyzed after
+7 days. Representative image fields of the transduced cells used
+in quantification analyses are shown in Figure 2a. Promoter activities were determined by two principal measures: (i) the percentage of GFP-positive cells (transduction efficiency; Figure 2b) and
+(ii) the fluorescence intensity of the GFP-positive cells (promoter
+strength; Figure 2c). Cells transduced with CMV and CAG viral vectors resulted in the majority of the cells expressing GFP (97 and 82%,
+respectively), while the transduction with the viral vectors encoding
+neuronal promoter constructs Hb9cmv, SYN1, and Hb9e resulted in
+a lower proportion of GFP-positive cells (59, 58, and 19%, respectively; Figure 2b). The Hb9e vector resulted in significantly lower
+(P < 0.0001) transduction levels than those with other promoters.
+Analysis of the GFP intensity signal in the transduced cells revealed
+that despite similarities between CAG and CMV promoters in celltargeting efficiencies, CAG promoter strength was almost threefold
+lower than that of CMV (Figure 2c). It was evident that in the case of
+Hb9, the short CMV minimal promoter significantly enhanced gene
+expression (P < 0.01). Interestingly, in this in vitro assay, SYN1 had
+a comparably low strength to Hb9e construct (~50 intensity units;
+Figure 2c), despite having achieved 58% average gene transfer efficiency as demonstrated in Figure 2b.
+
+b
+
+Both synapsin 1 and Hb9 target neurons, but not astrocytes, in vitro
+In order to confirm the specificity of the promoter elements constructed
+in this study, the cell types targeted by SYN1 and Hb9 promoters were
+
+Molecular Therapy — Methods & Clinical Development (2016) 15055
+
+Kb
+
+0
+
+Mlul
+
+CMV
+CAG
+
+SYN1
+
+Hb9cmv
+
+200
+
+400
+
+600
+
+Full CMV promoter
+CMV enh
+
+800
+
+1,000
+
+1,200
+
+1,400
+
+GFP
+
+EcoRl
+
+mp
+
+Mlul
+
+EcoRl
+
+Chicken β-actin
+Mlul
+
+EcoRl
+
+Mlul
+
+BgIll
+
+Agel EcoRl
+
+Mlul
+
+BgIll
+
+EcoRl
+
+Hb9e
+Left ITR 1..140
+CMV promoter 253..909
+
+ColE1 origin 3566..4248
+scAAV-CMV-GFP
+466.1 bp
+
+EGFP 960..1679
+AmpR 2809..3468
+PolyA 1683..1828
+Right ITR 1850..1989
+
+Figure 1 Construction of scAAV-GFP plasmids with neuronal promoter/
+enhancer elements. Schematic representation of the scAAV9 vectors
+utilized in this study. Promoter elements were polymerase chain reactionamplified from corresponding plasmids (see Materials and Methods),
+introducing appropriate restriction sites depicted in (a). The entire
+promoter fragments were cloned between MluI and EcoRI restriction
+sites and inserted into scAAV-GFP plasmid (b). A representative vector
+containing full CMV promoter is shown in (b).
+
+analyzed by immunocytochemistry using cell-type specific markers.
+scAAV9-CMV and scAAV9-CAG transduction resulted in high transduction efficiency within both neurons and astrocytes, visualized
+by staining with the pan-neuronal marker MAP2 and the astrocytic
+marker glial fibrillary acidic protein (GFAP), respectively (Figure 3a–d).
+Consistent with their neuronal origin, SYN1, Hb9cmv and Hb9e promoters were driving strictly neuronal gene expression (Figure 3e–j),
+as determined by distinctive neuronal morphology and a lack of
+double-GFP/GFAP-positive cells. Surprisingly, transduction with
+Hb9cmv vector did not result in GFP expression in GFAP-positive or
+MAP2-negative cells, despite the presence of the CMV minimal promoter normally associated with ubiquitous expression (Figure 3g–h).
+Immunostaining for motor neuron marker Islet-1 (Supplementary
+Figure S1) revealed that motor neurons were efficiently targeted by
+all promoter constructs, suggesting the utility of these vectors in in
+vitro applications when neuronal tropism is required.
+Synapsin 1 promoter, but not Hb9, results in low to moderate
+targeting of gene expression to motor neurons of the spinal cord
+In order to assess in vivo gene transfer applicability of SYN1 and Hb9
+promoters in comparison with the conventionally used CMV and
+CAG in scAAV9 vectors in vivo, postnatal day 1 wild-type mice (n =
+3 per group) were injected via the cisterna magna with 1 × 1010 viral
+genomes of five titer-matched scAAV9-GFP vectors harboring CMV,
+CAG, SYN1, Hb9cmv, and Hb9e promoter sequences. CNS tissue
+was paraformadehyde (PFA)-perfused and harvested for immunohistochemistry analyses at 3 weeks postinjection. Immunostaining
+
+Official journal of the American Society of Gene & Cell Therapy
+
+Gene delivery to CNS via cisterna magna using AAV9
+V Lukashchuk et al.
+
+3
+
+a
+
+CAG
+
+b
+
+SYN1
+
+c
+
+Proportion of GFP-positive cells
+CMV
+CAG
+
+80
+
+SYN1
+60
+
+Hb9cmv
+Hb9e
+
+40
+
+****
+
+20
+
+Hb9e
+
+GFP intensity
+1,000
+
+CMV
+CAG
+
+800
+
+SYN1
+600
+
+Hb9cmv
+Hb9e
+
+400
+
+*
+
+200
+
+e
+H
+
+H
+
+b9
+
+b9
+
+v
+cm
+
+1
+N
+SY
+
+AG
+C
+
+M
+
+e
+H
+
+H
+
+b9
+
+b9
+
+v
+cm
+
+1
+N
+SY
+
+AG
+C
+
+V
+M
+C
+
+V
+
+0
+
+0
+
+C
+
+% GFP positive
+
+100
+
+Hb9cmv
+
+Average intensity units
+
+CMV
+
+Figure 2 Activity of the promoter constructs in scAAV9-GFP in embryonic mouse spinal cord culture. Mixed spinal cord culture was established from
+E13 wild-type mouse spinal cords. Cells were transduced with indicated virus at 2 days in vitro and fixed at 7 days post-transduction. GFP-positive cell
+numbers and the fluorescence levels were quantified using automated InCell Developer software. For establishing statistical significance, one-way
+analysis of variance test was used with Tukey’s multiple comparison test; *P < 0.01, ****P < 0.0001. (a) Representative images used in quantification by
+InCell Developer software. (b) In vitro transduction efficiency of scAAV9-GFP constructs measured as a proportion of the GFP-positive cells/nuclei of
+the total Hoechst-positive nuclei. (c) Promoter activities were determined as fluorescence intensities. Y axis represents average grey levels measured
+in each GFP-positive cell normalized to background. Bar graphs represent mean ± SD (n = 3). Scale bar = 100 µm.
+
+of the spinal cord sections with anti-NeuN antibody has demonstrated efficient CNS-targeting capacities of CMV, CAG, and SYN1
+but not Hb9cmv or Hb9e promoters when used at the same dose
+(Supplementary Figure S2; Figure 4). In the spinal cord, scAAV9-CMVGFP transduction resulted in the highest GFP-positive cell numbers
+and most intense fluorescence levels in both the lumbar and cervical regions (Figure 4a,i), while CAG and SYN1 were noticeably weaker
+promoters (Figure 4c,e—lumbar cord; k,m—cervical cord). Moreover,
+unlike CMV (Figure 4b,j), SYN1 targeted CGRP-positive motor neurons within the lumbar spinal cord with lower efficiency (Figure 4f,h).
+Surprisingly, none of the ventral horn neurons of the animals treated
+with scAAV9-Hb9cmv and scAAV9-Hb9e expressed GFP (data not
+shown), although several GFP-positive interneurons (up to 10 per
+area) were detected within the dorsal horns of the lumbar spinal cord
+(Figure 4g).
+Quantification of the GFP-positive cells in each region, from
+three spinal cord sections located approximately 250–300 µm apart
+(Figure 4o), revealed that indeed CMV promoter-driven expression
+resulted in significantly higher (P < 0.0001) relative GFP-positive
+numbers of cells within cervical spinal cord, but not within lumbar spinal cord, when compared to CAG and SYN1. Analysis of the
+CGRP-positive motor neurons within the cervical and lumbar spinal cord (Figure 4p) determined a transduction efficiency of about
+80% for motor neurons in CMV-treated animals. Transduction with
+both scAAV9-CAG and scAAV9-SYN1 across the spinal cord resulted
+in a significantly lower proportions of GFP-positive/CGRP-positive
+motor neurons than with CMV. These findings demonstrate that the
+CMV promoter has a distinct advantage for spinal cord gene transfer, particularly to motor neurons, over both SYN1 and CAG promoters when the vectors are delivered intracisternally.
+Official journal of the American Society of Gene & Cell Therapy
+
+Cisterna magna delivery of scAAV9 virus allows efficient
+transduction throughout the mouse brain
+Determining the areas of the brain targeted by various promoters
+can identify therapeutically relevant promoters for gene delivery
+to treat neurological disorders. Here, we analyzed four principal
+areas of the brain after transduction with CMV, CAG, SYN1, Hb9cmv,
+and Hb9e promoter-bearing scAAV9-GFP viral vectors delivered
+through cisterna magna: cerebellum, motor cortex, motor-related
+areas of the brain stem, and hippocampus (Figure 5; Supplementary
+Figure S3). Merged-view representative images of the brain sections
+immunostained with anti-NeuN and anti-GFP antibodies provided
+qualitative information about the overall distribution and the levels of transgene expression. As expected, CMV and CAG were
+very efficient at targeting gene expression throughout the brain.
+SYN1 showed a uniform distribution of the GFP-positive neurons
+throughout the brain (Figure 5 and Supplementary Figure S3).
+Interestingly, Hb9cmv and Hb9e promoter constructs were driving
+GFP expression in the brain stem, with majority of the GFP-positive
+cells detected around the motor and sensory areas of the midbrain
+(Figure 5b). Upon a closer inspection, the areas positive for GFP in
+Hb9cmv-treated animals were identified as motor-related areas of
+pons such as tegmental reticular nucleus and midbrain reticular
+nucleus. We also observed high frequency of GFP-positive cells in
+sensory areas of midbrain including superior and inferior colliculi.
+Unlike Hb9cmv, Hb9e did not mediate expression in the sensory
+areas, but still showed expression predominantly within the periaqueductal gray and tegmental areas, as seen in the ­low-magnification
+image in the Supplementary Figure S3. All promoters except Hb9e
+were capable of driving GFP expression within the cerebellum, predominantly within the Purkinje cell layer (Figure 5a). Purkinje cells
+Molecular Therapy — Methods & Clinical Development (2016) 15055
+
+Gene delivery to CNS via cisterna magna using AAV9
+V Lukashchuk et al.
+
+4
+MAP2
+
+GFP
+
+Merged/Hoechst
+
+GFAP
+
+GFP
+
+Merged/Hoechst
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+i
+
+j
+
+Figure 3 scAAV9-GFP carrying neuronal promoters transduce spinal cord neurons in vitro. Mixed spinal cord culture was established from E13 mouse
+embryos. Transduced spinal cord cells were fixed at 7 days post-transduction and processed for immunocytochemistry using antibodies against
+neuronal tubulin marker MAP2 (a, c, e, g, i) and astrocytic marker GFAP (b, d, f, h, j). GFP signal was autofluorescence. (a,b) CMV, (c,d) CAG, (e,f) SYN1,
+(g,h) Hb9cmv, (i,j) Hb9e. Insets in (a–c) correspond to cells indicated by a yellow arrow head. White arrow heads indicate GFP-negative GFAP-positive
+astrocytes. Scale bar = 20 µm.
+
+were identified by a distinct branched morphology, with their cell
+bodies located at the edge of granular cell layer. Hippocampus (particularly neurons of the polymorph layer within the dentate gyrus)
+and cerebral cortices were efficiently transduced with scAAV9 vectors carrying CMV, CAG, and SYN1 promoters, but were less efficiently transduced by Hb9cmv and Hb9e (Figure 5c,d); however,
+several detected GFP-positive cells suggested these Hb9 promoter
+constructs may have gene expression capabilities in these areas
+when delivered at higher doses.
+Quantification of the GFP-positive cells within the chosen brain
+regions revealed similarities between the targeting properties of
+CMV, CAG, and SYN1 promoters across all four areas (Figure 5e–h).
+Hb9cmv and Hb9e promoters were significantly less efficient in
+transduction across cortex, hippocampus, and cerebellum, when
+normalized and compared to CMV. However, their transduction
+efficiencies within the brain stem (motor-related areas of midbrain; Figure 5g) were similar to those observed in the CMV-treated
+animals.
+
+Molecular Therapy — Methods & Clinical Development (2016) 15055
+
+In order to account for the cell-type differences between the two
+conventionally-used promoters CMV and CAG, proportions of glial
+cells positive for GFP were determined, as a percentages of the total
+GFP-positive cell numbers represented (Supplementary Figure S4).
+Interestingly, we noticed that the number of transduced glia
+increased with the further location of the CNS areas from the injection site, with the highest proportions of GFP-positive cells located
+within lumbar cord region in animals injected with CMV or CAG vectors. GFP-positive glial cells were detected within the midbrain of
+Hb9cmv and Hb9e treated animals (Figure 5b, yellow arrow) and
+equaled 2.2 and 7.5%, respectively, and 8% within the motor cortex
+of Hb9cmv-treated animals, but were not included in the analysis
+presented in Supplementary Figure S4.
+In summary, our study demonstrated that CMV, CAG and SYN1
+have a significant advantage over Hb9cmv and Hb9e promoter activities when used in scAAV9-GFP vector system for transducing CNS in
+all of the regions tested, apart from the brain stem. Importantly, we
+have identified selective specificity of Hb9 enhancer for the brain
+
+Official journal of the American Society of Gene & Cell Therapy
+
+Gene delivery to CNS via cisterna magna using AAV9
+V Lukashchuk et al.
+
+5
+Merged/Hoechst
+
+GFP
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+i
+
+j
+
+k
+
+l
+
+m
+
+n
+
+o
+Relative GFP+ cell numbers
+
+NeuN
+
+1.5
+
+1.0
+
+p
+
+Relative GFP transfer efficiency
+CMV
+CAG
+SYN1
+
+****
+
+0.5
+
+0.0
+Cervical
+
+Lumbar
+
+% GFP+/CGRP+ motor neurons
+
+GFP
+
+CGRP
+
+100
+
+Merged/Hoechst
+
+GFP-positive motor neurons
+CMV
+CAG
+SYN1
+
+80
+60
+
+**
+***
+
+40
+20
+
+****
+
+****
+
+0
+Cervical
+
+Lumbar
+
+Figure 4 Intracerebrospinal fluid delivery via cisterna magna of scAAV9-GFP results in differential gene delivery efficiencies in the mouse spinal cord
+depending on the use of the promoter. Wild-type mice at postnatal day 1 were injected with different scAAV9 viral vectors at equal doses of 1 × 1010
+vg/g and sacrificed after 21 days post-transduction. Lumbar spinal cord (a–h) and cervical spinal cord (i–n) 25 μm sections were immunostained
+with anti-GFP and anti-NeuN (left set of panels) or anti-CGRP antibodies (right set of panels), as indicated. (a,b), (i,j)—CMV; (c,d), (k,l)—CAG; (e,f), (h),
+(m,n)—SYN1; (g)—Hb9cmv. For SYN1-transduced ventral horn, a representative field with GFP-negative CGRP-positive motor neurons (f, arrow) as well
+as a less frequently occurring GFP-positive CGRP-positive motor neuron (h; a higher magnification image of the GFP-positive motor neuron denoted
+by an arrowhead in panel f) are shown. (g) Representative image of Hb9cmv-treated animal demonstrates GFP-positive lumbar cord dorsal horn
+interneurons. Scale bar = 50 µm. In vivo transduction efficiency (o) was determined based on the total numbers of GFP-positive cells within three ventral
+horns of cervical and lumbar regions, and normalized to the average CMV numbers in the cervical spinal cord region. Percentage of the motor neurons
+double-positive for CGRP/GFP (p) demonstrate the efficiency of the motor neuron targeting within the spinal cord regions. Hb9cmv and Hb9e were
+omitted from the graphs (o,p) due to the lack of detectable GFP-positive fluorescence. The results were analyzed using two-way analysis of variance
+followed by Tukey’s test for multiple comparisons. **P < 0.01; ***P < 0.001; ****P < 0.0001. Bar graphs represent mean ± SD (n = 3).
+
+Official journal of the American Society of Gene & Cell Therapy
+
+Molecular Therapy — Methods & Clinical Development (2016) 15055
+
+Gene delivery to CNS via cisterna magna using AAV9
+V Lukashchuk et al.
+
+6
+CMV
+
+CAG
+
+SYN1
+
+Hb9cmv
+
+Hb9e
+
+a
+
+b
+
+c
+
+0.5
+
+**
+
+e
+
+v
+
+1
+
+b9
+H
+
+H
+
+SYN1
+Hb9cmv
+
+1.0
+
+Hb9e
+
+*
+
+0.5
+
+**
+e
+H
+
+b9
+
+v
+b9
+
+cm
+
+1
+H
+
+SY
+N
+
+AG
+
+0.0
+
+C
+
+e
+H
+
+b9
+
+v
+b9
+
+cm
+
+1
+H
+
+SY
+N
+
+C
+
+M
+
+AG
+
+0.0
+
+CAG
+
+V
+
+0.5
+
+CMV
+
+1.5
+
+M
+
+1.0
+
+Cerebellum
+
+C
+
+1.5
+
+C
+
+cm
+
+V
+M
+
+b9
+H
+
+h
+
+Brain stem
+
+V
+
+g
+
+***
+
+0.0
+
+e
+
+v
+
+1
+
+cm
+
+N
+
+Hb9e
+
+H
+
+b9
+
+AG
+
+SY
+
+C
+
+V
+M
+C
+
+2.0
+
+Hb9cmv
+
+1.0
+
+N
+
+***
+
+SYN1
+
+b9
+
+***
+
+0.0
+
+CAG
+
+1.5
+
+C
+
+0.5
+
+CMV
+
+**
+
+2.0
+
+AG
+
+1.0
+
+Hippocampus
+
+SY
+
+1.5
+
+2.5
+
+C
+
+2.0
+
+f
+
+Cortex
+
+Relative GFP+ cell numbers
+
+2.0
+
+Relative GFP+ cell numbers
+
+Relative GFP+ cell numbers
+
+e
+
+Relative GFP+ cell numbers
+
+d
+
+Figure 5 GFP expression in the brain following cisterna magna delivery of scAAV9-GFP vectors with different promoters. 40-µm brain sections of
+3-week-old transduced and PFA-perfused mice were immunostained with anti-GFP and anti-NeuN antibodies (b–d), or with anti-GFP antibodies
+alone (a) for NeuN-negative Purkinje neurons of the cerebellum (Hb9e treatment shown with anti-GFP antibody staining only, to avoid masking the
+weak GFP signal). Representative images were captured on the sections of cerebellum (a), brain stem (midbrain, motor-related; b), hippocampus
+(dentate gyrus—polymorph layer; c), and motor cortex (d). Yellow arrow heads point to NeuN-negative glial cells used in quantification (determined
+by morphology). Scale bar = 50 µm. Efficiency of transduction in the brain was determined by counting GFP-positive cells in 1 mm2 area of each brain
+section and normalizing the resulting numbers to the average number of CMV treatment for each brain region (e—cortex; f—hippocampus; g—brain
+stem; h—cerebellum). The bar graphs represent relative mean ± SD. Statistical significance was determined using one-way analysis of variance with
+Bonferroni test for multiple comparisons normalized to a control CMV. *P < 0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001.
+
+Molecular Therapy — Methods & Clinical Development (2016) 15055
+
+Official journal of the American Society of Gene & Cell Therapy
+
+Gene delivery to CNS via cisterna magna using AAV9
+V Lukashchuk et al.
+
+7
+stem region, particularly those areas involved in the motor control
+pathways, when scAAV9-Hb9-GFP vectors were delivered via cisterna magna.
+DISCUSSION
+Previous reports have demonstrated the ability of scAAV9 vectors
+to cross the blood–brain barrier when delivered intravenously.2,31
+Direct administration of scAAV9 to the CSF, coupled with the use of
+a specific promoter, can further target desired cell types within the
+CNS and is of particular interest to neurodegeneration therapeutics,
+where cell-specific expression of a transgene may be required. In
+this study, we examined transduction efficiency of cisterna magnadelivered scAAV9 expressing GFP under the control of neuronspecific SYN1, Hb9 enhancer (Hb9e), or Hb9cmv fusion promoters,
+and compared this to the ubiquitous CMV and CAG promoters. We
+have achieved widespread gene delivery throughout the brain and
+spinal cord by delivering scAAV9-GFP into cisterna magna of neonatal mice. We have demonstrated that the level of gene expression
+was dependent on the choice of the promoter. The current study
+revealed that Hb9 promoter regulatory sequences derived from
+the promoter of a motor neuron-specific gene were able to target
+expression to the areas of the brain stem, but not the spinal cord,
+while SYN1 promoter offered a uniform neuron-specific transduction throughout the CNS. The latter finding was consistent with previous studies using alternative AAV delivery routes.10,20 Moreover,
+we demonstrate the novel applicability of the short Hb9 promoter
+elements for in vitro applications using AAV9 in primary neuron cultures for specific neuronal targeting, where moderate gene expression levels may be required.
+Intracerebrospinal fluid delivery of AAV vectors via cisterna
+magna is a relatively recently established route of delivery in gene
+transfer studies, which has been gaining preference particularly in
+preclinical studies using large animals.11–14 Major advantages of this
+delivery route include: (i) substantially smaller quantity of the vector required compared to systemic delivery of AAV vectors, which
+directly impacts standard laboratory production of multiple vector
+constructs and large-scale clinical-grade production of the virus;
+and (ii) reduction of viral particles reaching peripheral organs such
+as liver.13,16 Recently published evidence suggests that AAV9, but
+not AAV1 or -5, expressing GFP under the control of the CMV promoter and delivered via cisterna magna leads to the most abundant
+transduction within the cervical and lumbar spinal cord regions of
+mice.11 Consistent with these previous findings, here we observed
+efficient gene transfer in the brain and spinal cord of young mice,
+covering cerebellum, brain stem, hippocampus, and cortices using
+CMV, CAG, and SYN1 promoters. These data show that delivery of
+scAAV9 into the cisterna magna of neonatal mice is an efficient
+delivery route for widespread transduction of CNS regions.
+Despite bypassing the blood–brain barrier, cisterna magna route
+of delivery does not offer neuron-specific gene expression due
+to the ability of AAV9 to infect a wide range of cells, an observation supported by our study and previous reports.11,15,16 Given the
+implication of astrocytes in the pathology of neurodegenerative
+diseases, such as Alzheimer’s disease, spinal muscular atrophy and
+amyotrophic lateral sclerosis,32–35 the high level of non-neuronal cell
+transduction with CMV and CAG promoters, demonstrated in this
+study (Supplementary Figure S4), may be advantageous for those
+disease models. However, when there is a risk of disseminated
+expression of a protein with a potentially toxic function in off-target cell types and organs, neuron-specific promoters are preferred.
+Hb9cmv and Hb9e promoters, in addition to the well-characterized
+Official journal of the American Society of Gene & Cell Therapy
+
+SYN1 promoter,10,20–22 may provide such utility for the AAV9mediated therapy targeting neurological diseases, as they confer
+minimal non-neuronal gene expression when used with scAAV9
+background.
+Hb9 protein is a transcription factor whose functions have been
+largely attributed to the spinal cord and, in particular, motor neurons.28 Hb9 protein is a known motor neuron marker for neurons
+differentiated from induced pluripotent stem cells36,37; however,
+its role in the brain is not clearly defined. Our results provide novel
+information regarding the activity of the distal enhancer elements
+of Hb9 promoter within the brain stem of postnatal animals, suggesting that scAAV9-Hb9 could be a useful vector for directing gene
+expression selectively to brain stem neurons. However, the virtual
+lack of transduction by the Hb9 distal enhancer elements (Hb9e) at
+other CNS sites suggests that this selectivity would be gained at the
+expense of lower overall expression. While we cannot yet speculate
+about the complete lack of activity of these Hb9 enhancers in adult
+animals, given their weak expression in vitro (Figure 2), Hb9-driven
+GFP expression in living mice may also be below detection thresholds due to the vector doses used in our studies. The presence of
+GFP in the spinal cord driven by other promoters suggests that the
+absence of transduction with the Hb9 promoters in the spinal cord
+(Figure 4) was not due to inadequate delivery following cisterna
+magna administration. Interestingly, Peviani et al.26, have previously
+reported astrocytic and other non-neuronal cell targeting using
+the same Hb9 enhancer sequences in the lentiviral vector platform
+after intraparenchymal delivery directly to the lumbar spinal cord.
+Similarly, we also observed some scattered non-neuronal cell targeting within the brain using both Hb9cmv and Hb9e promoters
+in scAAV9 system, suggesting that this was not exclusively due to
+the presence of the CMVmp sequence. A 1.6 kb pair distal promoter
+region, comprising the two enhancers targeted exclusively neurons
+when delivered via a lentiviral vector into the spinal cord.26 These
+data would suggest that additional sequence elements within the
+distal promoter may also contribute to neuronal specificity; however, due to the transgene packaging capacity limitation in scAAV
+vectors, using larger promoter fragments would result in inefficient
+gene transfer irrespective of the delivery route. Additional transcriptionally conserved regions within the proximal part of the Hb9 promoter have been identified27 but their applicability in gene therapy
+vectorology is yet to be established. A more comprehensive analysis of Hb9 promoter activity and its expression in diseased neurons
+may be required to be able to speculate whether therapeutic gene
+delivery using Hb9 promoter would be appropriate for neurodegenerative conditions.
+In summary, despite the cell-type specificity conferred by a neuronal promoter, gene therapy studies may need to take into account
+the desired levels of therapeutic protein expression, the route of
+delivery and the amount of virus being used. Several clinical trials
+are currently focusing on the surgical delivery of the vectors for neurodegenerative disease, such as anti-Batten’s disease therapy using
+intracranial routes for AAV2-CLN2 administration; whereas intravenous delivery is now being adopted as the route of administering AAV9-SMN vector for spinal muscular atrophy treatment in the
+phase 1/2 trial, with the outcome of this study currently pending.38
+Through the intracisternal route of delivery it is possible to achieve
+a high level of therapeutic gene delivery throughout CNS without
+highly invasive surgical intervention. In addition, cisterna magna
+delivery offers an attractive advantage for viral vector administration due to substantial reduction of the disseminated gene
+transfer to the peripheral organs and evasion of the host immune
+
+Molecular Therapy — Methods & Clinical Development (2016) 15055
+
+Gene delivery to CNS via cisterna magna using AAV9
+V Lukashchuk et al.
+
+8
+response.13 Combining this approach with sufficient viral genomes
+and targeted promoter constructs will achieve desired specificity tailored to a particular therapeutic gene target. In this way, our
+study represents another step forward towards a targeted design of
+a gene delivery strategy using AAV9 vectors.
+MATERIALS AND METHODS
+Plasmid constructs
+Plasmid scAAV-CMV-GFP was received from St. Jude Children’s Research
+Hospital (Memphis, TN). To construct the scAAV-GFP transgene plasmid vectors carrying different promoters (Figure 1), the promoter elements were
+amplified as described below and depicted on Figure 1, using the primers
+specified in Table 1, and cloned into scAAV-CMV-GFP cassette replacing
+the original CMV promoter. To generate Hb9 enhancer (Hb9e) and Hb9cmv
+hybrid promoter fused to CMV minimal promoter (mp), Hb9 regulatory elements of 313 and 120 bp long30 were amplified from pHb9-EGFP expression vector (Addgene plasmid 16275 (ref. 29); Addgene, Cambridge, MA)
+containing the full Hb9 promoter sequence and cloned between restriction
+sites as indicated in Figure 1a. Full CMV promoter and CMVmp were derived
+from pAAV-MCS (Stratagene, Stockport, UK). Human synapsin 1 promoter
+was amplified from pAAV-SYN1-RFP, a gift from Edward Callaway (Addgene
+plasmid 22907).21 CAG promoter, composed of chicken β-actin promoter
+and CMV enhancer, was amplified from pCAGGS plasmid obtained from the
+Belgian Coordinated Collection of Microorganisms.39 Standard cloning procedures for DNA extraction and production of the large-scale plasmids were
+followed using QIAGEN kits following the manufacturer’s instructions.
+
+Large-scale production of scAAV9
+Stocks of scAAV9-GFP were produced by transfecting human embryonic kidney HEK293T cells and purifying using iodixanol gradient purification method.
+Briefly, HEK293T cells in 15 cm dishes were transfected with packaging plasmids pHelper (Stratagene; Stockport, UK), pAAV2/9 (kindly provided by
+J.Wilson, University of Pennsylvania) and one of the transgene plasmids scAAVGFP at 2:1:1 ratio, respectively, using polyethylenimine (1 mg/ml) in serum-free
+Dulbecco’s modified Eagle’s medium. At 4 days post-transfection, supernatant
+containing cell-released virus was harvested, treated with benzonase (10
+unit/ml; Sigma, Poole, UK) for 2 hours at 37 °C and concentrated to equal to
+approximately 24 ml using Amicon Ultra-15 Centrifugal 100K Filters (Millipore,
+Watford, UK). Iodixanol gradient containing 15, 25, 40, and 54% iodixanol solution in phosphate-buffered saline (PBS)/1 mmol/l MgCl2/2.5 mmol/l KCl and
+virus solution was loaded and centrifuged at 69,000 revolutions per minute for
+90 minutes at 18 °C. After ultracentifugation, the virus fractions were visualized
+on a 10% polyacrylamide gel, stained using SYPRO Ruby (Life Technologies,
+
+Table 1
+
+Paisley, UK) according to the manufacturer’s guidelines. The highest purity
+fractions (identified by the presence of the three bands corresponding to VP1,
+VP2, and VP3) were pooled and concentrated further in the final formulation
+buffer consisting of PBS supplemented with an additional 35 mmol/l NaCl40
+using Amicon Ultra-15 Centrifugal 100K filters. Viral titers were determined by
+quantitative PCR assays using primers directed against GFP and a linearized
+scAAV-CMV-GFP vector as a standard curve.
+
+In vitro AAV transduction of the embryonic mouse spinal cord
+neurons
+A pregnant female wild-type C57bl/6 mouse was sacrificed at 13 days of gestation (E13) using Schedule 1 method in accordance with Home Office UK
+regulations. Embryos were removed, and the spinal cords were dissected out.
+The cells were dissociated by trypsinization and trituration, pooled together
+and plated onto 10 mm glass coverslips precoated with 50 µg/ml poly-Dornithine hydrobromide and 2.5 µg/ml laminin (Sigma, Poole, UK) at a density of 60,000 cells per coverslip. Cells were maintained in Neurobasal media
+supplemented with 0.5% penicillin/streptomycin, 2 mmol/l L-glutamine, 2%
+horse serum, and 2% B27 supplement. 50% media was changed every 48
+hours. Transduction with scAAV9-GFP vectors was carried out at 40–48 hours
+after initial plating (2 days in vitro) by applying up to 5 × 109 vg per cell monolayer for 7 days before fixing in 4% paraformaldehyde. Cells were monitored
+on a daily basis, as GFP fluorescence was developed.
+
+Immunocytochemistry
+Transduced or mock-treated cells were fixed in 4% paraformaldehyde, permeabilized in 0.2% Triton X-100/PBS (PBS-Tx), blocked with 10% normal
+goat serum (NGS) in PBS-Tx and then incubated with primary antibodies
+in a single antibody staining assay against neuronal tubulin marker MAP2
+(1:1,000; Sigma), motor neuron markers Islet-1 (1:1,000; Abcam, Cambridge,
+UK) or astrocyte marker GFAP (1:1,000; Sigma) diluted in 2% NGS/PBS-Tx
+overnight at 4 °C. The following day the cells were counter-stained with secondary Alexa-Fluor conjugated antibodies for 1 hour at room temperature,
+and washed in PBS between the incubations. Finally, coverslips were stained
+with Hoechst stain (1:2,000; Sigma) to visualize the nuclei and mounted
+onto a slide using FluoroMount media (Sigma). The images were captured
+on Leica confocal laser-scanning microscope using 63× oil lens and appropriate optical zoom, and processed using LAS AF Lite and ImageJ softwares.
+
+Quantification of in vitro GFP fluorescence and statistical analysis
+To quantify GFP-positive cells and intensity of GFP fluorescence, images were
+captured on InCell imager (GE Healthcare, Chalfont St Giles, UK) using 20×
+magnification. For determining transduction efficiencies using automated
+
+Primers used in construction of scAAV-GFP plasmids with different promoter elements
+
+Primer name
+
+Sequence
+
+Promoter construct
+
+Hb9A-Mlu For
+
+GCGGCGGACGCGTTGAATAAATTTAAGCAGG
+
+Hb9cmv and Hb9e
+
+Hb9A-Bgl Rev
+
+GTATGCAGATCTAGCCCCATCCCCCTTCAAT
+
+Hb9cmv and Hb9e
+
+Hb9B-Bgl For
+
+GCGCGGAGATCTAGAGTGGTTAGCTGATGAAT
+
+Hb9cmv and Hb9e
+
+Hb9B-Age Rev
+
+CGTCTTACCGGTTCTAATCAG CCTGCCTAGCT
+
+Hb9cmv
+
+Hb9B-Eco Rev
+
+CGTCTTGAATTCTCTAATCAG CCT GCCTAGCT
+
+Hb9e
+
+CMVmp-Age For
+
+GTAATGAACCGGTTAGGCGTGTACGGTGGGA
+
+Hb9cmv
+
+CMV Mlu For
+
+GGCCGGACGCGTGGA GCTAGTTATTAATAG
+
+CMV
+
+CMV-Eco Rev
+
+ATTCGTGAA TTCAGG CTGGATCGGTCCCGGT
+
+Hb9cmv and CMV
+
+SYN1-Mlu For
+
+ACAATGACGCGTCTGCAGAGGGCCCTGCGTATG
+
+SYN1
+
+SYN1-Eco Rev
+
+ATCATAGAATTCGCCGCAGCGCAGATGGTCGCG
+
+SYN1
+
+CAG Mlu For
+
+ATTGGCACGCGTGACATTGATTATTGACTA
+
+CAG
+
+CAG Eco Rev
+
+ATTATTGAATTCCGCCCGCCGCGCGCTTCG
+
+CAG
+
+Primer hybridization sites are underlined. Sequences are demonstrated as 5′→3′. Restriction sites are highlighted in bold. Hb9A and B refer to 313 and 125 bp
+fragments, respectively. For, forward primer; Rev, reverse primer.
+
+Molecular Therapy — Methods & Clinical Development (2016) 15055
+
+Official journal of the American Society of Gene & Cell Therapy
+
+Gene delivery to CNS via cisterna magna using AAV9
+V Lukashchuk et al.
+
+9
+InCell Developer Software (GE Healthcare) with a gray level range of
+0-65535, up to 3,000 cells were counted. Background GFP fluorescence was
+determined on cell-free area of each treatment or mock-treated cells, and
+the GFP-positive cell numbers were normalized to above the background
+values. In order to determine and compare GFP expression intensities for
+each treatment, the gray values in the GFP-positive cells above the background were averaged. The collected data represent mean values based on
+triplicate treatments. Statistical analysis of in vitro AAV transduction data was
+performed by one-way analysis of variance in GraphPad Prism (version 6.05)
+with each promoter representing a separate group. Multiple comparisons
+between the means were done using Tukey’s multiple comparison test with
+95% confidence interval.
+
+In vivo scAAV9 transduction of wild-type neonatal mice
+All experiments involving mice were conducted according to the Animal
+(Scientific Procedures) Act 1986, under Project License 40/3739 and
+approved by the University of Sheffield Ethical Review Sub-Committee, and
+the UK Animal Procedures Committee (London, UK). The UK Home Office
+code of practice for the housing and care of animals used in scientific procedures was followed according to Animal (Scientific Procedures) Act 1986.
+Animals were maintained in a controlled facility in a 12-hour dark/12-hour
+light cycle, a standardized room temperature of 21 °C, with free access to
+food and water.
+For scAAV9 delivery into the CSF via cisterna magna, 15 wild-type C57BL/6
+mice (n = 3 per group) at postnatal day 1 were anesthetized in an induction chamber using 5% isoflurane and oxygen at 3 l/minute before being
+placed on a red transilluminator (Philips Healthcare “Wee Sight”—product
+no. 1017920) with their head tilted slightly forward and nose attached to
+an anesthetic supply. Anesthesia was maintained with 2% isoflurane and
+oxygen at 0.3 l/minute. A 33-gauge needle attached to a Hamilton syringe
+and peristaltic pump was lowered approximately 1 mm into the cisterna
+magna area using stereotaxic apparatus at an angle of 45 degrees, and 1 µl
+of viral solution (1 × 1010 vg/µl) was injected at a rate of 1 µl/minute. An equal
+volume of PBS/35 mmol/l NaCl was used as a control solution. Three weeks
+after virus injection, the animals were terminally anesthetized with an intraperitoneal injection of an overdose of sodium pentobarbital, and perfused
+transcardially with PBS/heparin solution, followed by 4% paraformaldehyde
+(PFA) in PBS. Brains and spinal cords were postfixed in 4% PFA overnight at
+4 °C, and then subjected to two rounds of cryoprotection by incubating the
+tissue in 30% sucrose/PBS solution for 24–48 hours at 4 °C.
+
+Immunohistochemistry of CNS tissue
+For immunohistochemistry analysis, the tissues were embedded in O.C.T.
+embedding matrix, and 40-µm-thick brain sections and 25-µm-thick spinal
+cord sections were cut on a cryostat at −22 °C free-floating or onto a slide,
+respectively. Brain sections or spinal cord sections were washed twice with
+PBS, permeabilized in PBS/0.3% Triton X-100, blocked with 10% NGS in
+PBS/0.3% Triton X-100 solution for up to 3 hours, and incubated with primary
+antibodies diluted in 2% NGS in PBS/0.15% Triton X-100 overnight. Primary
+antibodies were a combination of rabbit anti-GFP (1:500; Life Technologies)
+with either of the following mouse antibodies: anti-NeuN (1:300; Millipore,
+Watford, UK) or anti-Calcitonin gene related peptide (CGRP) (1:500; Sigma).
+The following day, the sections were washed in PBS four times for up to 2 hours
+and incubated with secondary antibodies Alexa-Fluor anti-mouse 568 or antirabbit 488 (Life Technologies) diluted in 5% NGS/PBS for 1 hour. For visualizing
+nuclei, 1:2500 Hoechst stain (Sigma) in PBS was used. Images were captured
+on Leica confocal microscope using 40× oil lens and optical zoom, and were
+processed using LAS AF Lite software and ImageJ. Low-magnification images
+of the spinal cord sections were captured on Leica confocal microscope using
+10× dry lens and 488 nm wavelength (FITC channel) only. Low-magnification
+images of the brain sections were captured using 2× and 4× lens on a Nikon
+fluorescent microscope.
+
+Quantification of in vivo gene transfer and statistical analysis
+For quantification of GFP-positive cells in the ventral horns of lumbar and
+cervical spinal cord sections, a Nikon fluorescent microscope with 20×
+lens was used to capture an image of the ventral horn from three sections
+(approximately 300 µm apart) of lumbar and cervical spinal cord per animal.
+The sum of GFP-positive cells in the three ventral horns per animal was used
+for analysis. The data was normalized to the CMV promoter in the cervical
+group region. Statistical analysis on the spinal cord counts was performed
+
+Official journal of the American Society of Gene & Cell Therapy
+
+by two-way analysis of variance using GraphPad prism, with region and
+promoter as the two independent variables. For spinal cord data set, simple
+effects of promoters (CMV, CAG, and SYN1 only) were compared within each
+region (cervical or lumbar) using Tukey’s multiple comparisons test to a control group CMV.
+For quantification of the brain sections, wide-field fluorescence images
+were captured using a 10× lens. In each of the four chosen brain areas (cerebellum, hippocampal formation, midbrain, and motor cortex), one image
+per region per animal (representing a region of 1 mm2) was captured and
+used for counting. The numbers of GFP-positive cells were counted manually
+with the assistance of ImageJ software (Cell Counter plug-in), by an observer
+blinded to vector treatment. The cell counts were normalized to the average
+of scAAV9-CMV-GFP-treated group for each brain region. Statistical analysis
+for the brain counts was performed using one-way analysis of variance with
+Bonferroni’s multiple comparison test to CMV control.
+
+ACKNOWLEDGMENTS
+This work was supported by the European Research Council grant (GTNCTV – 294745).
+V.L. and M.A. designed the study and wrote the manuscript. V.L. performed the experimental work including plasmid design and cloning, viral vector preparation, and
+characterisation, all in vitro and in vivo analyses. K.E.L. provided assistance with tissue
+processing, analysis of the results, and editing of the manuscript; I.C. performed cisterna magna injections and assisted in animal perfusion and dissection. A.J.G. provided
+advice in the preliminary in vivo work design and Individual Study Plan preparation. The
+authors thank Jayanth Chandran for the useful comments on the manuscript, Pádraig
+Mulcahy and Bartosz Muszynski for the help in establishing scAAV9-production protocol, Ellen Bennett for animal work technical support, and Richard Mead for assistance
+with the InCell analysis software. The authors declare no conflict of interest.
+
+References
+1. Dayton, RD, Wang, DB and Klein, RL (2012). The advent of AAV9 expands applications for
+brain and spinal cord gene delivery. Expert Opin Biol Ther 12: 757–766.
+2. Foust, KD, Nurre, E, Montgomery, CL, Hernandez, A, Chan, CM and Kaspar, BK (2009).
+Intravascular AAV9 preferentially targets neonatal neurons and adult astrocytes. Nat
+Biotechnol 27: 59–65.
+3. Foust, KD, Salazar, DL, Likhite, S, Ferraiuolo, L, Ditsworth, D, Ilieva, H et al. (2013).
+Therapeutic AAV9-mediated suppression of mutant SOD1 slows disease progression
+and extends survival in models of inherited ALS. Mol Ther 21: 2148–2159.
+4. Foust, KD, Wang, X, McGovern, VL, Braun, L, Bevan, AK, Haidet, AM et al. (2010). Rescue of
+the spinal muscular atrophy phenotype in a mouse model by early postnatal delivery of
+SMN. Nat Biotechnol 28: 271–274.
+5. Valori, CF, Ning, K, Wyles, M, Mead, RJ, Grierson, AJ, Shaw, PJ et al. (2010). Systemic
+delivery of scAAV9 expressing SMN prolongs survival in a model of spinal muscular
+atrophy. Sci Transl Med 2: 35ra42.
+6. Fu, H, Muenzer, J, Samulski, RJ, Breese, G, Sifford, J, Zeng, X et al. (2003). Selfcomplementary adeno-associated virus serotype 2 vector: global distribution and broad
+dispersion of AAV-mediated transgene expression in mouse brain. Mol Ther 8: 911–917.
+7. Gao, G, Vandenberghe, LH, Alvira, MR, Lu, Y, Calcedo, R, Zhou, X et al. (2004). Clades
+of Adeno-associated viruses are widely disseminated in human tissues. J Virol 78:
+6381–6388.
+8. Gray, SJ, Matagne, V, Bachaboina, L, Yadav, S, Ojeda, SR and Samulski, RJ (2011).
+Preclinical differences of intravascular AAV9 delivery to neurons and glia: a comparative
+study of adult mice and nonhuman primates. Mol Ther 19: 1058–1069.
+9. Inagaki, K, Fuess, S, Storm, TA, Gibson, GA, Mctiernan, CF, Kay, MA et al. (2006). Robust
+systemic transduction with AAV9 vectors in mice: efficient global cardiac gene transfer
+superior to that of AAV8. Mol Ther 14: 45–53.
+10. Gholizadeh, S, Tharmalingam, S, Macaldaz, ME and Hampson, DR (2013). Transduction of
+the central nervous system after intracerebroventricular injection of adeno-associated
+viral vectors in neonatal and juvenile mice. Hum Gene Ther Methods 24: 205–213.
+11. Ayers, JI, Fromholt, S, Sinyavskaya, O, Siemienski, Z, Rosario, AM, Li, A et al. (2015).
+Widespread and efficient transduction of spinal cord and brain following neonatal AAV
+injection and potential disease modifying effect in ALS mice. Mol Ther 23: 53–62.
+12. Bucher, T, Colle, MA, Wakeling, E, Dubreil, L, Fyfe, J, Briot-Nivard, D et al. (2013). scAAV9
+intracisternal delivery results in efficient gene transfer to the central nervous system of a
+feline model of motor neuron disease. Hum Gene Ther 24: 670–682.
+13. Gray, SJ, Nagabhushan Kalburgi, S, McCown, TJ and Jude Samulski, R (2013). Global
+CNS gene delivery and evasion of anti-AAV-neutralizing antibodies by intrathecal AAV
+administration in non-human primates. Gene Ther 20: 450–459.
+14. Samaranch, L, Salegio, EA, San Sebastian, W, Kells, AP, Bringas, JR, Forsayeth, J et al. (2013).
+Strong cortical and spinal cord transduction after AAV7 and AAV9 delivery into the
+cerebrospinal fluid of nonhuman primates. Hum Gene Ther 24: 526–532.
+
+Molecular Therapy — Methods & Clinical Development (2016) 15055
+
+Gene delivery to CNS via cisterna magna using AAV9
+V Lukashchuk et al.
+
+10
+15. Samaranch, L, Salegio, EA, San Sebastian, W, Kells, AP, Foust, KD, Bringas, JR et al. (2012).
+Adeno-associated virus serotype 9 transduction in the central nervous system of
+nonhuman primates. Hum Gene Ther 23: 382–389.
+16. Hinderer, C, Bell, P, Vite, CH, Louboutin, JP, Grant, R, Bote, E et al. (2014). Widespread gene
+transfer in the central nervous system of cynomolgus macaques following delivery of
+AAV9 into the cisterna magna. Mol Ther Methods Clin Dev 1: 14051.
+17. McCarty, DM, Fu, H, Monahan, PE, Toulson, CE, Naik, P and Samulski, RJ (2003). Adenoassociated virus terminal repeat (TR) mutant generates self-complementary vectors to
+overcome the rate-limiting step to transduction in vivo. Gene Ther 10: 2112–2118.
+18. Gray, SJ, Foti, SB, Schwartz, JW, Bachaboina, L, Taylor-Blake, B, Coleman, J et al. (2011).
+Optimizing promoters for recombinant adeno-associated virus-mediated gene
+expression in the peripheral and central nervous system using self-complementary
+vectors. Hum Gene Ther 22: 1143–1153.
+19. Zincarelli, C, Soltys, S, Rengo, G and Rabinowitz, JE (2008). Analysis of AAV serotypes 1-9
+mediated gene expression and tropism in mice after systemic injection. Mol Ther 16:
+1073–1080.
+20. McLean, JR, Smith, GA, Rocha, EM, Hayes, MA, Beagan, JA, Hallett, PJ et al. (2014).
+Widespread neuron-specific transgene expression in brain and spinal cord following
+synapsin promoter-driven AAV9 neonatal intracerebroventricular injection. Neurosci
+Lett 576: 73–78.
+21. Nathanson, JL, Yanagawa, Y, Obata, K and Callaway, EM (2009). Preferential labeling of
+inhibitory and excitatory cortical neurons by endogenous tropism of adeno-associated
+virus and lentivirus vectors. Neuroscience 161: 441–450.
+22. Kügler, S, Lingor, P, Schöll, U, Zolotukhin, S and Bähr, M (2003). Differential transgene
+expression in brain cells in vivo and in vitro from AAV-2 vectors with small transcriptional
+control units. Virology 311: 89–95.
+23. Kügler, S, Meyn, L, Holzmüller, H, Gerhardt, E, Isenmann, S, Schulz, JB et al. (2001).
+Neuron-specific expression of therapeutic proteins: evaluation of different cellular
+promoters in recombinant adenoviral vectors. Mol Cell Neurosci 17: 78–96.
+24. Garg, SK, Lioy, DT, Cheval, H, McGann, JC, Bissonnette, JM, Murtha, MJ et al. (2013).
+Systemic delivery of MeCP2 rescues behavioral and cellular deficits in female mouse
+models of Rett syndrome. J Neurosci 33: 13612–13620.
+25. Hioki, H, Kameda, H, Nakamura, H, Okunomiya, T, Ohira, K, Nakamura, K et al. (2007).
+Efficient gene transduction of neurons by lentivirus with enhanced neuron-specific
+promoters. Gene Ther 14: 872–882.
+26. Peviani, M, Kurosaki, M, Terao, M, Lidonnici, D, Gensano, F, Battaglia, E et al. (2012).
+Lentiviral vectors carrying enhancer elements of Hb9 promoter drive selective transgene
+expression in mouse spinal cord motor neurons. J Neurosci Methods 205: 139–147.
+27. Lee, SK, Jurata, LW, Funahashi, J, Ruiz, EC and Pfaff, SL (2004). Analysis of embryonic
+motoneuron gene regulation: derepression of general activators function in concert
+with enhancer factors. Development 131: 3295–3306.
+28. Arber, S, Han, B, Mendelsohn, M, Smith, M, Jessell, TM and Sockanathan, S (1999).
+Requirement for the homeobox gene Hb9 in the consolidation of motor neuron identity.
+Neuron 23: 659–674.
+
+29. Wilson, JM, Hartley, R, Maxwell, DJ, Todd, AJ, Lieberam, I, Kaltschmidt, JA et al. (2005).
+Conditional rhythmicity of ventral spinal interneurons defined by expression of the Hb9
+homeodomain protein. J Neurosci 25: 5710–5719.
+30. Nakano, T, Windrem, M, Zappavigna, V and Goldman, SA (2005). Identification of a
+conserved 125 base-pair Hb9 enhancer that specifies gene expression to spinal motor
+neurons. Dev Biol 283: 474–485.
+31. Schuster, DJ, Dykstra, JA, Riedl, MS, Kitto, KF, Belur, LR, Mclvor, RS et al. (2014).
+Biodistribution of adeno-associated virus serotype 9 (AAV9) vector after intrathecal and
+intravenous delivery in mouse. Front Neuroanat 8: 42.
+32. Haidet-Phillips, AM, Hester, ME, Miranda, CJ, Meyer, K, Braun, L, Frakes, A et al. (2011).
+Astrocytes from familial and sporadic ALS patients are toxic to motor neurons. Nat
+Biotechnol 29: 824–828.
+33. Rindt, H, Feng, Z, Mazzasette, C, Glascock, JJ, Valdivia, D, Pyles, N et al. (2015). Astrocytes
+influence the severity of spinal muscular atrophy. Hum Mol Genet 24: 4094–4102.
+34. McGivern, JV, Patitucci, TN, Nord, JA, Barabas, ME, Stucky, CL and Ebert, AD (2013). Spinal
+muscular atrophy astrocytes exhibit abnormal calcium regulation and reduced growth
+factor production. Glia 61: 1418–1428.
+35. Peters, O, Schipke, CG, Philipps, A, Haas, B, Pannasch, U, Wang, LP et al. (2009). Astrocyte
+function is modified by Alzheimer’s disease-like pathology in aged mice. J Alzheimers Dis
+18: 177–189.
+36. Karumbayaram, S, Novitch, BG, Patterson, M, Umbach, JA, Richter, L, Lindgren, A et al.
+(2009). Directed differentiation of human-induced pluripotent stem cells generates
+active motor neurons. Stem Cells 27: 806–811.
+37. Singh Roy, N, Nakano, T, Xuing, L, Kang, J, Nedergaard, M and Goldman, SA (2005).
+Enhancer-specified GFP-based FACS purification of human spinal motor neurons from
+embryonic stem cells. Exp Neurol 196: 224–234.
+38. Mingozzi, F and High, KA (2011). Therapeutic in vivo gene transfer for genetic disease
+using AAV: progress and challenges. Nat Rev Genet 12: 341–355.
+39. Niwa, H, Yamamura, K and Miyazaki, J (1991). Efficient selection for high-expression
+transfectants with a novel eukaryotic vector. Gene 108: 193–199.
+40. Lock, M, Alvira, M, Vandenberghe, LH, Samanta, A, Toelen, J, Debyser, Z et al. (2010).
+Rapid, simple, and versatile manufacturing of recombinant adeno-associated viral
+vectors at scale. Hum Gene Ther 21: 1259–1271.
+
+This work is licensed under a Creative Commons AttributionNonCommercial-ShareAlike 4.0 International License. The images or
+other third party material in this article are included in the article’s Creative Commons
+license, unless indicated otherwise in the credit line; if the material is not included under the
+Creative Commons license, users will need to obtain permission from the license holder to
+reproduce the material. To view a copy of this license, visit http://creativecommons.org/
+licenses/by-nc-sa/4.0/
+
+Supplementary Information accompanies this paper on the Molecular Therapy—Methods & Clinical Development website (http://www.nature.com/mtm)
+
+Molecular Therapy — Methods & Clinical Development (2016) 15055
+
+Official journal of the American Society of Gene & Cell Therapy
+
+

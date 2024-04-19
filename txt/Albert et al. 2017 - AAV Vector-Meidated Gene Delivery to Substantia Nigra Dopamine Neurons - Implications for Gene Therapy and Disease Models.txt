@@ -1,0 +1,1427 @@
+G C A T
+T A C G
+G C A T
+
+genes
+
+Review
+
+AAV Vector-Mediated Gene Delivery to Substantia
+Nigra Dopamine Neurons: Implications for Gene
+Therapy and Disease Models
+Katrina Albert, Merja H. Voutilainen, Andrii Domanskyi and Mikko Airavaara *
+Institute of Biotechnology, University of Helsinki, Helsinki 00014, Finland; katrina.albert@helsinki.fi (K.A.);
+merja.h.voutilainen@helsinki.fi (M.H.V.); andrii.domanskyi@helsinki.fi (A.D.)
+* Correspondence: mikko.airavaara@helsinki.fi
+Academic Editor: Selvarangan Ponnazhagan
+Received: 18 November 2016; Accepted: 3 February 2017; Published: 8 February 2017
+
+Abstract: Gene delivery using adeno-associated virus (AAV) vectors is a widely used method to
+transduce neurons in the brain, especially due to its safety, efficacy, and long-lasting expression.
+In addition, by varying AAV serotype, promotor, and titer, it is possible to affect the cell specificity of
+expression or the expression levels of the protein of interest. Dopamine neurons in the substantia
+nigra projecting to the striatum, comprising the nigrostriatal pathway, are involved in movement
+control and degenerate in Parkinson’s disease. AAV-based gene targeting to the projection area of
+these neurons in the striatum has been studied extensively to induce the production of neurotrophic
+factors for disease-modifying therapies for Parkinson’s disease. Much less emphasis has been put
+on AAV-based gene therapy targeting dopamine neurons in substantia nigra. We will review the
+literature related to targeting striatum and/or substantia nigra dopamine neurons using AAVs in
+order to express neuroprotective and neurorestorative molecules, as well as produce animal disease
+models of Parkinson’s disease. We discuss difficulties in targeting substantia nigra dopamine neurons
+and their vulnerability to stress in general. Therefore, choosing a proper control for experimental
+work is not trivial. Since the axons along the nigrostriatal tract are the first to degenerate in
+Parkinson’s disease, the location to deliver the therapy must be carefully considered. We also review
+studies using AAV-α-synuclein (α-syn) to target substantia nigra dopamine neurons to produce an
+α-syn overexpression disease model in rats. Though these studies are able to produce mild dopamine
+system degeneration in the striatum and substantia nigra and some behavioural effects, there are
+studies pointing to the toxicity of AAV-carrying green fluorescent protein (GFP), which is often used
+as a control. Therefore, we discuss the potential difficulties in overexpressing proteins in general in
+the substantia nigra.
+Keywords: adeno-associated virus; alpha-synuclein; Parkinson’s disease; substantia nigra; dopamine;
+neurotrophic factors; GDNF; striatum; gene therapy; GFP
+
+1. Introduction
+Our goal is to review adeno-associated virus (AAV) vector-based gene therapy approaches to
+overexpress neurotrophic proteins in the striatum or substantia nigra and discuss the use of AAVs as
+tools to produce Parkinson’s disease models in animals. AAV vector has several characteristics that
+favour its use for gene therapy in humans. The main advantage is that it is a non-replicating vector that
+rarely integrates into the host genome, and, indeed, a wild-type (WT) AAV is not known to cause any
+disease in humans, making it one of the safest viral vectors of choice for gene delivery to the brain [1].
+In addition to safety, AAV is able to efficiently transduce various cell types and confer long-term
+expression in post-mitotic cells in the brain [2]. However, it is possible to insert only a limited size
+Genes 2017, 8, 63; doi:10.3390/genes8020063
+
+www.mdpi.com/journal/genes
+
+Genes 2017, 8, 63
+
+2 of 15
+
+of transgenic DNA, up to 4.7 kb, slightly restricting the applicability [3]. Different combinations of
+AAV serotypes and promoters can mediate the transduction of different neuron types with varying
+transgene expression levels in the brain. AAV serotype-2 (AAV2) has been most commonly studied in
+the rodent brain [4–6] and used in clinical trials, though there has been evidence that AAV5 may diffuse
+better in the brain parenchyma and transduce neurons more efficiently [6]. Additionally, serotypes
+may be combined together in different ratios to change expression and transduction [7]. With many
+AAV options available (serotype, promoter, titer, volume), as well as with consideration of how the
+protein of interest will interact with the target cells, outcomes can vary [3].
+Among degenerative brain diseases, Parkinson’s disease has been the focus for gene therapy [3],
+and as such there are currently seven ongoing clinical trials for Parkinson’s disease using AAVs [8].
+In Parkinson’s disease, the nigrostriatal dopamine neurons that project from substantia nigra to
+the striatum [9,10] degenerate during disease progression [11]. The death of dopamine neurons in
+the substantia nigra results in the cardinal motor symptoms of the disease such as tremor, rigidity,
+bradykinesia, and postural instability [12]. A number of factors contribute to the neurodegeneration,
+including disturbances in mitochondrial respiration [13], environmental risk to certain toxins [14],
+chronic endoplasmic reticulum stress, and gene mutations [15]. Though the etiology of sporadic
+Parkinson’s disease (85%–90% of cases [16]) is currently unknown, it seems that the substantia nigra
+dopamine neurons are particularly vulnerable to stress and protein aggregation [10]. This population of
+neurons has higher intrinsic levels of metabolic stress and also mitochondrial dysfunction, partially due
+to the oxidation of dopamine [17]. Additionally, increased intrinsic stress vulnerability of substantia
+nigra dopamine neurons, as compared to ventral tegmental area dopamine neurons, could be due to
+their distinct autonomous rhythmic activity at a low frequency with broad action potentials [18].
+Regarding the genetic causes of Parkinson’s disease, some of the familial forms are related to
+mitochondria dysfunction or α-synuclein (α-syn) mutations and duplications or triplications of the
+α-syn locus [19,20]. Interestingly, the pathological hallmark of both sporadic and genetic forms of
+Parkinson’s disease are the Lewy bodies, inclusions containing α-syn and many other proteins [21].
+Moreover, Lewy pathology is also observed in non-dopaminergic neurons during Parkinson’s disease
+progression [22].
+Results from various studies suggest that the neuroprotective and neurorestorative properties
+of neurotrophic factors have great potential as a new disease modifying therapy for Parkinson’s
+disease [23]. A seminal study showed that long-term overexpression of the glial cell line-derived
+neurotrophic factor (GDNF) protein using recombinant AAV-GDNF driven by the MD (a combination
+of CMV (cytomegalovirus) enhancer and part of human β-globin) promoter in the rat striatum before
+a 6-hydroxydopamine (6-OHDA) lesion led to protection of the nigrostriatal system [24]. AAV-GDNF
+under control of the CMV promoter injected after the 6-OHDA lesion into the rat striatum also
+showed functional recovery of the nigrostriatal system [25]. Both of these studies showed behavioural
+recovery on drug-induced rotations and cylinder test assays, two tests often used to measure the
+severity of a unilateral lesion in rat Parkinson’s disease models. AAV-GDNF has been effective in
+promoting functional recovery not only in rat models but also in primate models of Parkinson’s
+disease [26,27] and is currently in a clinical trial coordinated by the NIH Clinical Center [28,29].
+Another AAV-based neurotrophic factor therapy for human Parkinson’s disease patients has been
+neurturin (NRTN), a protein in the same family as GDNF [30]. AAV-NRTN has been shown to be safe
+as well as efficacious for targeting the substantia nigra in rats and primates, and it was effective in
+improving the outcomes of a rat 6-OHDA model [31]. However, when AAV2-NRTN was given to
+the putamen (striatum in rodents) [32] or simultaneously to the putamen and substantia nigra [33]
+in a double-blind, randomized, controlled trial in parkinsonian patients, it did not show clinically
+significant benefits over sham surgery. Though interestingly, secondary analysis of a double-blind
+controlled Phase 2b clinical study of AAV-NRTN identified a more robust response to AAV-NRTN in
+Parkinson’s disease patients diagnosed within five years prior to treatment, relative to those diagnosed
+ten years prior or more [34]. In addition, a recent study has identified NRTN variants that may be
+
+Genes 2017, 8, 63
+
+3 of 15
+
+more effective [35]. Considering gene therapy for Parkinson’s disease patients other than neurotrophic
+factors, AAV carrying glutamic acid decarboxylase (AAV2-GAD) was administered to the subthalamic
+nucleus and showed a significant benefit over sham surgery [36]. AAV-AADC (aromatic L-amino
+decarboxylase, the enzyme that converts levodopa to dopamine) has also shown clinical promise on
+motor symptoms in particular [37] and is currently in clinical trials [38]. There have also been studies
+in animals with AAV-TH (tyrosine hydroxylase) or AAV-TH combined with AAV-AADC [39] and with
+AAV-TH combined with GTP cyclohydrolase I [40] that have shown success. These studies also clearly
+demonstrated the safety of AAV as a vehicle for protein expression.
+The trials described above bring up an important aspect of human gene therapy when targeting
+dopamine neurons for restoration purposes: whether to target the striatum/putamen or the substantia
+nigra. This is especially relevant since in Parkinson’s disease the axons along the nigrostriatal tract
+are degenerating before the dopamine neuron bodies in the substantia nigra [41], and it is not clear
+how axonopathy impacts the efficacy of functional restoration after striatum/putamen administration.
+Also, it is likely that the optimal location, striatum/putamen or substantia nigra, as anatomical target
+for AAV injection is different depending on the therapeutic protein [23].
+2. Delivering Neurotrophic Factor-Encoding Genes Carried by AAV to the Striatum
+Targeting the striatum in gene therapy has been a common approach with neurotrophic factors.
+Though as with any AAV, there is the issue of specificity and spreading. For example, in a previous
+clinical trial, the spreading of AAV2-NRTN was limited when injected to the putamen and particularly
+so when injected to the substantia nigra [42]. However, vectors carrying neurotrophic factor genes
+that were injected into the striatum can be transported retrogradely to the substantia nigra. For
+example, in the primate brain, AAV9-carrying green fluorescent protein (GFP) injected to the putamen
+has been shown to be transported in the anterograde and retrograde directions [43]. This has also
+been particularly true for AAV2-GDNF [44]. GDNF gene therapy targeting the striatum has restored
+nigral neurons after 6-OHDA injections in rats, but how AAV retrograde transport to the substantia
+nigra affects the therapeutic efficacy is unknown [24,45–47]. The results of limited efficacy for the
+AAV-NRTN trial when injected into putamen, together with findings that four to five years after
+diagnosis of Parkinson’s disease there are few tyrosine hydroxylase (TH) fibres left in the putamen [48],
+led to clinical trials targeting the substantia nigra [31]. This brings up the question of whether striatally
+injected AAVs can restore dopamine neurocircuitry only when there are dopamine fibres that can
+transport neurotrophic factors from the striatum to the substantia nigra. However, in the absence of
+functional nigrostriatal fibres, GDNF expressed in striatal medium spiny projection neurons can be
+anterogradely transported to the substantia nigra pars reticulata and may thus signal locally in the
+substantia nigra on the nearby substantia nigra pars compacta dopamine neurons [49]. Moreover,
+there is a large body of experimental evidence indicating that striatal AAV delivery may be better than
+delivery into the substantia nigra. A neuroprotective study in mice with striatal AAV-GDNF injection
+against MPTP (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine)-induced experimental parkinsonism
+showed preserved synaptic plasticity and protected against the loss of dopamine; however its transport
+was not measured here [50]. AAV-GDNF in the 6-OHDA model of Parkinson’s disease has shown
+efficacy in both neuroprotective and neurorestorative studies in rats. When AAV-GDNF was injected
+before the 6-OHDA to striatum, in both cases it was able to protect substantia nigra dopamine
+neurons [24,51]; perhaps unsurprisingly since the tract likely remained intact. Only the striatal
+delivery led to the functional recovery of the rats, whereas substantia nigra delivery in the same study
+resulted in substantia nigra dopamine neurons remaining protected but no recovery of behaviour [24].
+More importantly, when AAV-GDNF was infused to the striatum after the 6-OHDA, this also led to
+behavioural recovery as well as the restoration of dopamine neurons due to retrograde transport to
+the substantia nigra [25]. AAV-GDNF can also be expressed in monkey substantia nigra via axonal
+transport when delivered to the putamen [27]. Similar to AAV-GDNF, AAV2-NRTN delivered to rat
+striatum before 6-OHDA showed neuroprotection in the substantia nigra dopamine neurons [51].
+
+Genes 2017, 8, 63
+
+4 of 15
+
+AAV2-NRTN striatal delivery in monkeys led to its expression in both the striatum and substantia
+nigra, as well as increased levels of TH in the nigrostriatal system [52,53]; though again this is not
+surprising but does demonstrate the ability of AAV2 carrying NRTN to also transport to the substantia
+nigra after striatal injection. As in rats, AAV2-NRTN injected to both the striatum and substantia nigra
+has been shown to be neurorestorative in the monkey MPTP model [54], indicating its ability to be
+transported after the toxin damage and result in neuronal recovery. There is also evidence of recovery
+with another neurotrophic factor: CDNF (cerebral dopamine neurotrophic factor) carried by AAV2.
+When AAV2-CDNF was injected before [55] and after [56] the 6-OHDA to the striatum, it showed the
+recovery of striatal fibres as well as nigral neurons in addition to behavioural recovery, and CDNF
+protein was present in both structures.
+In general, while the dopamine nerve terminals are destroyed in the striatum/putamen after toxin
+administration, transport of neurotrophic molecules to the substantia nigra may still be possible
+retrogradely, as described above, or anterogradely via medium spiny projection neurons, thus
+demonstrating that striatal injection of AAV carrying neurotrophic factors is a viable therapy for
+Parkinson’s disease. Although, the anterograde transport of GDNF to the substantia nigra may not be
+as effective on functional restoration as compared with retrograde transport, it may be beneficial not to
+overexpress proteins in stressed substantia nigra dopamine neurons in patients.
+3. AAV to Target Substantia Nigra
+Taking into consideration the special characteristics of substantia nigra dopaminergic cells
+(see above), targeting these neurons with AAV vectors can be challenging. For example, if a promoter
+driving a gene of interest is giving exceptionally high expression levels, this can naturally cause
+excessive protein accumulation and lead to further stress on the cells [23]. Safe transduction of the
+dopamine neurons in the substantia nigra is an important aspect in therapeutic approaches, and there
+have been several studies testing AAV preparations to target substantia nigra dopamine neurons.
+It has been demonstrated that injection of AAV-GFP to the substantia nigra of rats showed long lasting
+expression in both the nigral areas (up to 25 months) and striatum (up to 18 months) [57]. Similar
+results have been obtained in mice, with various vector serotypes able to label the whole substantia
+nigra, ventral tegmental area, as well as the striatum [58]. In regards to AAV-GFP and dopamine
+neurons in the substantia nigra, studies in rats have shown that several different vector preparations
+carrying GFP are able to transduce TH-positive neurons effectively in the substantia nigra as well as in
+fibres of the striatum [59,60]. Transduction efficiency of AAVs in substantia nigra neurons has also
+been tested successfully in monkeys, a relevant model when considering the clinical implication of
+viruses since the size differences between the rodent, primate, and human brain need to be taken into
+account, particularly concerning spreading. As such, studies have shown that injecting AAV-GFP to
+the substantia nigra of monkeys results in efficient transduction of the neuronal [61] and dopaminergic
+cells [62] of the substantia nigra. It is clear that choosing the virus serotype is dependent on the species
+and the areas or neurons that need to be transduced; therefore, selecting the correct preparation for
+one0 s experiment will depend on these factors. It is also evident that it is possible to transduce TH
+neurons in the substantia nigra with AAVs successfully.
+In relation to neurotrophic factors, though they are usually given to the striatum, a study compared
+striatal and nigral delivery in rats where the AAV-NRTN was given simultaneously with the 6-OHDA
+lesion. This was performed with an idea that enhancing the survival of the substantia nigra neurons by
+nigral AAV-NRTN injection may induce greater protection of the connecting striatal fibres. Indeed, the
+results showed that targeting both the striatum and substantia nigra was the most effective strategy [63].
+However, in the case of therapeutic proteins, the overall detrimental effects of overexpression of
+transgene or RNA can be ‘hidden’ by the positive effect of the therapy itself. Specifically, using only a
+non-AAV control may not show the damaging effects. Moreover, caution should be exercised when
+trying to overexpress any proteins in dopamine neurons, as this can induce stress response pathways
+affecting their functions and survival, as in [64] and [65]. As a way to overcome the detrimental effect
+
+Genes 2017, 8, 63
+
+5 of 15
+
+of constitutive protein overexpression or to regulate signalling of neurotrophic factors that are known
+to be very potent, regulated vectors have been developed. A destabilizing domain that can be regulated
+with trimethoprim has been effectively used with AAVs carrying GDNF [66]. A single AAV vector for
+tetracycline-regulated expression with rtTA (reverse tetracycline transactivator) has also been used for
+GDNF transgene expression in Parkinson’s disease models [67]. Mifepristone-controlled vectors have
+also been shown to restore motor function in the 6-OHDA rat model of Parkinson’s disease [47,68].
+The mifepristone-regulated vectors are based on binding to a human progesterone receptor, fused
+to a human p65 transactivation domain and a yeast Gal4 DNA-binding domain. As endogenous
+neurotrophic factors are biologically active at very low doses, these regulated approaches could
+be used for neurotrophic factor therapies and may be safer options for targeting substantia nigra
+dopamine neurons. However, similar to the regulated vectors that express any other foreign protein,
+there is caution to be considered since there are indications of astrocyte expression–mediated toxicity
+and a widespread inflammatory response caused by non-self transgenic protein overexpression [69].
+4. AAV-α-syn Animal Models of Parkinson’s Disease
+Transducing substantia nigra dopamine neurons with genes related to human Parkinson’s disease
+has been explored to provide valuable animal models of the disease. AAV carrying cDNA of human
+WT α-syn injected to the substantia nigra induces slowly progressing neurodegeneration and the
+presence of α-syn inclusions [70,71]. These models have been used in mice [72–74] and rats. A study
+using both human WT or mutant A53T α-syn carried in recombinant AAV-CBA (chicken β-actin)
+injected into the substantia nigra of rats showed a loss of striatal TH fibre density and dopamine and
+degeneration of TH-positive cells in the substantia nigra. Furthermore, in animals with a significant
+loss of TH in the nigral area, severe behavioural deficits developed at 24–27 weeks post-injection, as
+compared with GFP controls [75]. Studies using WT human α-syn with AAV6 [76], AAV5 [77], and
+AAV9 [78] injected to the nigra have shown TH loss in the nigrostriatal system and motor deficits.
+In addition, recombinant AAV human WT α-syn injection to rats has resulted in the phosphorylation
+of endogenous α-syn in the substantia nigra area [79]. However, in [80], the authors observed that
+α-syn phosphorylated at Ser129 is not necessary for pathology in the dopamine system and deficits
+in motor behaviour and therefore, WT human α-syn is enough to cause dysfunction. For the mutant
+forms, AAV5-S129D and S129A [80], AAV2-A53T [81], and AAV6-A30P [82] have been tested in rats
+and compared to the WT form. A large study compared the model in mice, rats, and monkeys, wherein
+AAV9 human mutant A53T α-syn was injected into the substantia nigra, and found that there was
+degeneration in the nigrostriatal areas in all species and motor deficits in rats, but interestingly aging
+did not exacerbate the loss or symptoms [83]. A long-term study was performed with a variety of
+pathology and behavioural measures, in which the authors used AAV7 carrying human WT or mutant
+(A53T) α-syn and injected it into the substantia nigra [84]. The results showed that this mutant form
+was able to induce behavioural deficits on rotarod and cylinder tests, induce dopamine cell death in the
+substantia nigra, decrease dopamine release in the striatum, and also form insoluble aggregates [84].
+A recent study in rats using human WT α-syn with four and eight week time points did not show
+TH loss in the striatum at 4 weeks, but did show a mild loss of TH-positive neurons in the substantia
+nigra and decreased dopamine content at eight weeks after vector injections [85]. While most of these
+studies do show some loss of TH and robust α-syn expression, which are important in modelling the
+disease, in some cases, AAV carrying GFP or other control results were not shown as a comparison.
+Additionally, many of these studies use enhancers for the transgene expression levels. It should also
+be noted that it is a mutant form of human α-syn in certain studies, not the WT, which demonstrates
+TH loss and motor deficits in the animals. In Table 1 we have summarized these studies, in which a
+GFP control was most often used as a comparison to the AAV-α-syn.
+
+Genes 2017, 8, 63
+
+6 of 15
+
+Table 1. Summary of articles with human adeno-associated virus (AAV)-α-synuclein unilaterally injected to the substantia nigra of animals where outcomes are
+compared to AAV-green fluorescent protein (GFP). Animal and strain are listed, along with serotype, promoter, and if any enhancers are used. The total duration of
+each experiment is listed, though earlier time points may have also been measured. Striatum tyrosine hydroxylase (TH) fibre density is defined as the TH optical
+density as a percentage of the control side, TH+ cell loss refers to either total cells or a percent of the control side, striatum dopamine content is measured by HPLC,
+and behaviour refers generally to any behavioural assays that were performed in the experiments.
+Laboratory Animal
+
+Insert
+
+C57BL/6 mice
+
+WTA53T
+
+C57BL/6 mice
+
+WT
+
+Sprague Dawley rats
+
+WT
+
+Sprague Dawley rats
+
+WT
+
+Duration
+
+STR TH Fibre
+Density
+
+SN TH+ Cells
+
+STR Dopamine
+
+Behaviour
+
+Ref.
+
+AAV7/CMV (w/WPRE)
+
+8 weeks
+
+N/A
+
+↓
+
+N/A
+
+WT: motor deficits
+
+[72]
+
+rAAV/CMV (w/WPRE and IRES)
+
+24 weeks
+
+N/A
+
+↓
+
+N/A
+
+N/A
+
+[73]
+
+rAAV/CBA (w/CMV elements)
+
+27 weeks
+
+↓
+
+↓
+
+↓
+
+No motor deficits *
+
+[75]
+
+AAV6/CBA (w/and w/out WPRE)
+
+16 weeks
+
+↓
+
+↓
+
+↓
+
+Motor deficits
+
+[76]
+[77]
+
+Serotype/Promoter
+
+Sprague Dawley rats
+
+WT
+
+AAV5/CBA/CMV
+
+8 weeks
+
+N/A
+
+↓
+
+N/A
+
+Some motor and
+non-motor deficits
+
+Fisher 344 rats
+
+WT
+
+AAV9/CBA
+
+12 weeks
+
+N/A
+
+↓
+
+N/A
+
+Motor deficits
+
+[78]
+
+Sprague Dawley rats
+
+WT
+
+rAAV/CMV
+
+13 weeks
+
+N/A
+
+↓
+
+↔
+
+No motor deficits
+
+[79]
+
+Sprague Dawley rats
+
+WTS129AS129D
+
+AAV5/CMV/CBA
+
+15 weeks
+
+↓
+
+↓
+
+N/A
+
+Some motor deficit
+
+[80]
+
+A53T
+
+AAV1/2/CBA/CMV
+(w/WPRE and bGH-polyA)
+
+6 weeks
+
+↓
+
+↓
+
+↓
+
+Some motor deficit
+
+[81]
+
+Sprague Dawley rats
+
+WTA30P
+
+AAV6/CMV (w/WPRE)
+
+16 weeks
+
+↓•
+
+↓•
+
+↓•
+
+Some motor deficit
+
+[82]
+
+Wistar rats
+
+WTA53T
+
+AAV7/CMV/synapsin
+
+29 days
+
+N/A
+
+A53T: ↓
+
+A53T: ↓
+
+A53T: Some motor deficit
+
+[84]
+
+Sprague Dawley rats
+
+WT
+
+AAV5/human U6
+
+8 weeks
+
+N/A
+
+↓
+
+↓
+
+No motor deficit
+
+[85]
+
+Sprague Dawley rats
+
+N/A refers to the fact that an outcome measure was not included in the article; ↓ A decrease in the parameter was shown; ↔ No change in the parameter was shown; * With TH enzyme
+blocker on stepping test; • Not compared to GFP; STR: striatum; SN: substantia nigra; TH: tyrosine hydroxylase; CBA: chicken β-actin; CMV: cytomegalovirus; WT: wild-type; WPRE:
+woodchuck hepatitis virus posttranscriptional regulatory element; IRES: internal ribosome entry site; bGH-polyA: bovine growth hormone polyadenylation sequence.
+
+Genes 2017, 8, 63
+
+7 of 15
+
+In general, though some of the previous studies were able to recapitulate the disease, there is still
+large variability between and within studies, including our own findings [65]. Additionally, without a
+control for a comparison of dopamine neuron loss in the substantia nigra, it is difficult to conclude that
+it is specifically the α-syn overexpression causing the damage. By optimizing the volumes, particle
+number and injection needle parameters to be similar as described in, for example, [75], there is no
+reason why the number of successfully lesioned rats with AAV-α-syn could not be increased. However,
+proper controls need to be used for comparison and it is clear that caution should be applied when
+setting up the model.
+5. Challenges in Control AAV Vectors for Targeting Substantia Nigra Dopamine Neurons
+To study the AAV-α-syn-mediated mechanisms, it is important to use appropriate controls to
+ensure that the degeneration is not due to protein or RNA overexpression in general. It is also
+valuable to study whether the control proteins, RNA, or empty vectors are toxic to the dopamine
+neurons. As mentioned, substantia nigra dopamine neurons are particularly vulnerable to stress and
+therefore can be easily damaged. Although AAV vectors produce a minimal immune response in the
+brain [86], the extent of the cellular antiviral defence response in substantia nigra dopamine neurons
+after AAV vector injections is not known and not well studied. Innate immune responses triggered
+by pattern recognition receptors in relation to AAV capsids or by DNA are not known; for example,
+there have been no studies conducted on the relationship of Toll-like receptors and AAV vectors [87].
+However, an important study was performed in which the authors observed that AAV9 mediated
+the overexpression of GFP, a protein from jellyfish, which resulted in an astrocyte-mediated immune
+response when injected to the nonhuman primate brain, as opposed to AAV carrying a non-foreign
+protein, which did not end in a toxic response [69]. Additionally, while increasing the titer of an
+AAV will naturally increase the amount of positive cells and protein expressed, it can also lead to
+neurodegeneration. In a study in which AAV8 carrying GFP was injected into the substantia nigra of
+rats, the high dose used caused a 41% loss of dopamine neurons compared to the non-injected side,
+however the lower dose showed no neurotoxicity [88]. When a chimeric AAV1/2-GFP was used at the
+same titer as AAV1/2 carrying A53T α-syn, it also caused neuron death in the substantia nigra of rats,
+but when the titer was lowered to 1:3 or 1:10, no toxicity was observed with GFP [81]. A recent study
+compared the titers of AAV-α-syn and AAV-GFP and demonstrated that, at a titer of 2 x 1014 gc/mL
+and higher, GFP resulted in approximately a 62% loss of TH positive cells in the substantia nigra [64].
+These studies clearly demonstrate that overexpression-induced dopamine neurodegeneration is not
+specific to α-syn and careful testing and caution needs to be taken with regard to how much virus is
+used in the control condition, particularly with neurodegeneration studies. And indeed, it has been
+previously reported that AAV5-eGFP can cause a significant lesion to the dopamine system as the
+corresponding AAV5-α-syn vector [89]. In addition, immune responses to non-self proteins need to be
+taken into consideration. We have found that not only the overexpression of GFP via AAV but also
+the overexpression of RNA that did not translate to any protein, led to degeneration of dopamine
+neurons in Parkinson’s disease models [65]. Neuronal loss after AAV-mediated transduction is most
+likely caused by the increased sensitivity of dopamine substantia nigra neurons to stress, due to
+their properties [10], and the results clearly suggest that it is not only protein overexpression that
+can be detrimental but also RNA overexpression. Indeed, excessive RNA and/or protein synthesis
+after AAV-mediated transduction of nigral dopamine neurons can impair proteosome and autophagy
+pathways, promote formation of stress granules, activate endoplasmic reticulum, and unfolded protein
+response pathways, collectively leading to synaptic dysfunctions and impaired neuronal activity
+(Figure 1). The results described above suggest that such overloading of substantia nigra dopamine
+neurons with either RNA or protein can be caused by the overexpression of WT, mutant α-syn, GFP,
+untranslated RNA, or perhaps by any non-specific sequence. Therefore, intranigral injections of AAV
+vectors for dopamine neuron transduction may not be the best method in neurodegeneration studies.
+
+Genes 2017, 8, 63
+
+8 of 15
+
+Genes 2017, 8, 63
+
+8 of 14
+
+Figure
+substantia nigra
+Figure 1.
+1. Schematic
+Schematic diagram
+diagram of
+of protein
+protein overexpression
+overexpression via
+via AAV
+AAV in
+in the
+the substantia
+nigra dopamine
+dopamine
+neurons.
+When
+an
+AAV
+carrying
+protein
+or
+RNA
+is
+expressed
+in
+the
+brain,
+particularly
+in the
+neurons. When an AAV carrying protein or RNA is expressed in the brain, particularly in the substantia
+substantia
+nigra
+where
+dopamine
+neurons
+are
+vulnerable
+to
+stress,
+the
+consequences
+of
+excessive
+nigra where dopamine neurons are vulnerable to stress, the consequences of excessive overexpression
+overexpression
+may result
+in a number
+of events
+to cell
+survival.
+These include
+the
+may result in a number
+of events
+detrimental
+to cell detrimental
+survival. These
+include
+the increased
+formation
+increased
+formation
+of stress
+granules,
+increasedreticulum
+levels of (ER)
+endoplasmic
+reticulum
+(ER)
+stress,
+of stress granules,
+increased
+levels
+of endoplasmic
+stress, activation
+of the
+unfolded
+activation
+of
+the
+unfolded
+protein
+response
+(UPR),
+and
+impairment
+of
+the
+proteasome
+function
+and
+protein response (UPR), and impairment of the proteasome function and autophagy. This could further
+autophagy.
+This
+could
+further
+result
+in
+impairments
+in
+vesicle
+fusion
+at
+the
+synapse
+and
+difficulties
+result in impairments in vesicle fusion at the synapse and difficulties in the dopamine release and
+in
+the dopamine
+releaseofand
+functions
+of the neuron.
+This would
+culminate
+in and
+reduced
+pacemaking
+functions
+thepacemaking
+neuron. This
+would culminate
+in reduced
+neuronal
+activity
+may
+neuronal
+activity
+may
+result in
+theBinding
+death ofimmunoglobulin
+the neuron. (BIP:protein).
+Binding immunoglobulin protein).
+result in the
+deathand
+of the
+neuron.
+(BIP:
+
+6. Conclusions
+As far as recommending a control for neurodegeneration research, the optimal control for α-syn
+AAV
+a vehicle Using
+to deliver
+both
+therapeutic
+proteins
+and
+toxic orviral
+pathogenic
+should
+be as
+considered.
+similar
+titers
+or particle
+numbers
+of potentially
+α-syn and control
+vectors
+proteins
+been widely
+usedα-syn
+and high
+protein
+is found inofthe
+brain even
+after long
+would behas
+essential
+to evaluate
+specificity
+on expression
+causing degeneration
+dopamine
+neurons.
+GFP
+periods
+of time,
+making
+it a powerful
+tool in therapy
+models.
+of whether
+and similar
+proteins
+are often
+used as controls,
+but, asand
+theydisease
+themselves
+canConsideration
+cause neurodegeneration
+to
+inject
+AAV responses,
+into the striatum
+or really
+the substantia
+dueintoall
+thecases?
+intrinsic
+the substantia
+and
+immune
+are they
+the best nigra
+controls
+Weproperties
+would alsoofconsider
+using
+nigra
+dopamine
+neurons
+is an
+in neurotrophic
+therapy.
+There
+also evidence
+of
+mammalian
+proteins
+instead
+of important
+commonlyaspect
+used fluorescent
+proteins
+derived
+fromismarine
+organisms.
+unspecific
+immune
+responsesconsidering
+or cell death
+due to protein
+overexpression
+in are
+the not
+substantia
+in
+It would also
+be worthwhile
+a protein
+that forms
+oligomers that
+known nigra
+to cause
+general,
+therefore
+using foreign
+proteins
+ininneurodegeneration
+should
+be aggregation
+considered
+neuronaland
+pathology.
+Endogenous
+α-syn
+likely is
+soluble oligomericstudies
+form [90],
+and its
+closely.
+After
+reviewing
+literatureinon
+previously
+published
+studies
+and
+performing
+a
+and fibril
+forms
+may bethe
+important
+disease
+pathology
+due AAV-α-syn
+to their toxicity
+[91].
+Thus,
+it would
+series
+of experiments,
+it is clear
+that,
+while non-toxic
+it is possible
+to achieve
+mild degeneration
+this model,
+be important
+to use proteins
+that
+produce
+oligomers
+to compare
+the in vivoineffects
+in the
+caution needs to be taken in selecting appropriate control vectors when targeting the substantia nigra
+in order to avoid proteinopathy or RNA toxicity [65].
+
+Genes 2017, 8, 63
+
+9 of 15
+
+substantia nigra of animals. Examples of these proteins are mostly cytoskeletal components such as
+actin or collagen.
+6. Conclusions
+AAV as a vehicle to deliver both therapeutic proteins and potentially toxic or pathogenic proteins
+has been widely used and high protein expression is found in the brain even after long periods of time,
+making it a powerful tool in therapy and disease models. Consideration of whether to inject AAV into
+the striatum or the substantia nigra due to the intrinsic properties of the substantia nigra dopamine
+neurons is an important aspect in neurotrophic therapy. There is also evidence of unspecific immune
+responses or cell death due to protein overexpression in the substantia nigra in general, and therefore
+using foreign proteins in neurodegeneration studies should be considered closely. After reviewing
+the literature on previously published AAV-α-syn studies and performing a series of experiments,
+it is clear that, while it is possible to achieve mild degeneration in this model, caution needs to be
+taken in selecting appropriate control vectors when targeting the substantia nigra in order to avoid
+proteinopathy or RNA toxicity [65].
+Acknowledgments: We acknowledge Mart Saarma, Raimo Tuominen, and Brandon K. Harvey for their excellent
+input and valuable insight throughout the manuscript preparation. The materials and Katrina Albert’s salary were
+funded by the Michael J. Fox Foundation for Parkinson’s Research; Katrina Albert’s salary was also funded by the
+Finnish Parkinson’s Foundation, the Finnish Cultural Foundation, and the Ella and Georg Ehrnrooth Foundation.
+Mikko Airavaara was funded by Academy of Finland grant #250275. Andrii Domanskyi was funded by Academy
+of Finland grant #293392. Merja H. Voutilainen was funded by the Michael J. Fox Foundation for Parkinson’s
+Research and by Academy of Finland grant #277910.
+Author Contributions: Katrina Albert together with Mikko Airavaara, Andrii Domanskyi and Merja H. Voutilainen
+wrote the paper. All authors commented on the manuscript.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+Abbreviations
+The following abbreviations are used in this manuscript:
+6-OHDA
+α-syn
+AADC
+AAV
+BIP
+bGH-polyA
+CBA
+cDNA
+CDNF
+CMV
+DIO
+EF1a
+GAD
+GFP
+GDNF
+HPLC
+IRES
+iRFP
+MPTP
+NRTN
+NSE
+rtTA
+SEM
+SPECT/CT
+TH
+WPRE
+WT
+
+6-hydroxydopamine
+alpha-synuclein
+aromatic L-amino decarboxylase
+adeno-associated virus
+binding immunoglobulin protein
+bovine growth hormone polyadenylation sequence
+chicken β-actin
+complementary deoxyribonucleic acid
+cerebral dopamine neurotrophic factor
+cytomegalovirus
+double-floxed inverse ORF
+elongation factor 1 alpha
+glutamic acid decarboxylase
+green fluorescent protein
+glial cell line-derived neurotrophic factor
+high performance liquid chromatography
+internal ribosome entry site
+infrared fluorescent protein
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+neurturin
+neuron-specific enolaseRNA: ribonucleic acid
+reverse tetracycline transactivator
+standard error of the mean
+single-photon emission computed tomography/computed tomography
+tyrosine hydroxylase
+woodchuck hepatitis virus posttranscriptional regulatory element
+wild-type
+
+Genes 2017, 8, 63
+
+10 of 15
+
+References
+1.
+
+2.
+3.
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+9.
+10.
+
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+Kaplitt, M.G.; Leone, P.; Samulski, R.J.; Xiao, X.; Pfaff, D.W.; O0 Malley, K.L.; During, M.J. Long-term
+gene expression and phenotypic correction using adeno-associated virus vectors in the mammalian brain.
+Nat. Genet. 1994, 8, 148–154. [CrossRef] [PubMed]
+Wu, Z.; Asokan, A.; Samulski, R.J. Adeno-associated virus serotypes: Vector toolkit for human gene therapy.
+Mol. Ther. 2006, 14, 316–327. [CrossRef] [PubMed]
+Lim, S.T.; Airavaara, M.; Harvey, B.K. Viral vectors for neurotrophic factor delivery: A gene therapy approach
+for neurodegenerative diseases of the CNS. Pharmacol. Res. 2010, 61, 14–26. [CrossRef] [PubMed]
+Cearley, C.N.; Vandenberghe, L.H.; Parente, M.K.; Carnish, E.R.; Wilson, J.M.; Wolfe, J.H. Expanded repertoire
+of AAV vector serotypes mediate unique patterns of transduction in mouse brain. Mol. Ther. 2008, 16,
+1710–1718. [CrossRef] [PubMed]
+Burger, C.; Gorbatyuk, O.S.; Velardo, M.J.; Peden, C.S.; Williams, P.; Zolotukhin, S.; Reier, P.J.; Mandel, R.J.;
+Muzyczka, N. Recombinant AAV viral vectors pseudotyped with viral capsids from serotypes 1, 2, and
+5 display differential efficiency and cell tropism after delivery to different regions of the central nervous
+system. Mol. Ther. 2004, 10, 302–317. [CrossRef] [PubMed]
+Shevtsova, Z.; Malik, J.M.; Michel, U.; Bahr, M.; Kugler, S. Promoters and serotypes: targeting of
+adeno-associated virus vectors for gene transfer in the rat central nervous system in vitro and in vivo.
+Exp. Physiol. 2005, 90, 53–59. [CrossRef] [PubMed]
+Kwon, I.; Schaffer, D.V. Designer gene delivery vectors: Molecular engineering and evolution of
+adeno-associated viral vectors for enhanced gene transfer. Pharm. Res. 2008, 25, 489–499. [CrossRef]
+[PubMed]
+Kirik, D.; Cederfjall, E.; Halliday, G.; Petersen, A. Gene therapy for Parkinson’s disease: Disease modification
+by GDNF family of ligands. Neurobiol. Dis. 2016, 97, 179–188. [CrossRef] [PubMed]
+Bjorklund, A.; Dunnett, S.B. Dopamine neuron systems in the brain: An update. Trends Neurosci. 2007, 30,
+194–202. [CrossRef] [PubMed]
+Duda, J.; Potschke, C.; Liss, B. Converging roles of ion channels, calcium, metabolic stress, and
+activity-pattern of substantia nigra dopaminergic neurons in health and Parkinson’s disease. J. Neurochem.
+2016, 139, 156–178. [CrossRef] [PubMed]
+Kalia, L.V.; Lang, A.E. Parkinson’s disease. Lancet 2015, 386, 896–912. [CrossRef]
+Braak, H.; Ghebremedhin, E.; Rub, U.; Bratzke, H.; Del Tredici, K. Stages in the development of Parkinson’s
+disease-related pathology. Cell Tissue Res. 2004, 318, 121–134. [CrossRef] [PubMed]
+Henchcliffe, C.; Beal, M.F. Mitochondrial biology and oxidative stress in Parkinson disease pathogenesis.
+Nat. Clin. Pract. Neurol. 2008, 4, 600–609. [CrossRef] [PubMed]
+Betarbet, R.; Sherer, T.B.; Greenamyre, J.T. Animal models of Parkinson’s disease. Bioessays 2002, 24, 308–318.
+[CrossRef] [PubMed]
+Lees, A.J.; Hardy, J.; Revesz, T. Parkinson’s disease. Lancet 2009, 373, 2055–2066. [CrossRef]
+Foundation, N.P. Genetics and Parkinson’s Disease. Available online: http://www.parkinson.org/
+understanding-parkinsons/what-is-parkinsons/Genetics-and-Parkinsons-Disease (accessed on 7 November 2016).
+Berman, S.B.; Hastings, T.G. Dopamine oxidation alters mitochondrial respiration and induces permeability
+transition in brain mitochondria: Implications for Parkinson’s disease. J. Neurochem. 1999, 73, 1127–1137.
+[CrossRef] [PubMed]
+Guzman, J.N.; Sanchez-Padilla, J.; Wokosin, D.; Kondapalli, J.; Ilijic, E.; Schumacker, P.T.; Surmeier, D.J.
+Oxidant stress evoked by pacemaking in dopaminergic neurons is attenuated by DJ-1. Nature 2010, 468,
+696–700. [CrossRef] [PubMed]
+Singleton, A.B.; Farrer, M.; Johnson, J.; Singleton, A.; Hague, S.; Kachergus, J.; Hulihan, M.; Peuralinna, T.;
+Dutra, A.; Nussbaum, R.; et al. alpha-Synuclein locus triplication causes Parkinson’s disease. Science 2003.
+[CrossRef] [PubMed]
+Chartier-Harlin, M.C.; Kachergus, J.; Roumier, C.; Mouroux, V.; Douay, X.; Lincoln, S.; Levecque, C.; Larvor, L.;
+Andrieux, J.; Hulihan, M.; et al. Alpha-synuclein locus duplication as a cause of familial Parkinson’s disease.
+Lancet 2004, 364, 1167–1169. [CrossRef]
+Spillantini, M.G.; Schmidt, M.L.; Lee, V.M.; Trojanowski, J.Q.; Jakes, R.; Goedert, M. Alpha-synuclein in Lewy
+bodies. Nature 1997, 388, 839–840. [CrossRef] [PubMed]
+
+Genes 2017, 8, 63
+
+22.
+23.
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+29.
+30.
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+39.
+
+11 of 15
+
+Braak, H.; Del Tredici, K. Cortico-basal ganglia-cortical circuitry in Parkinson’s disease reconsidered.
+Exp. Neurol. 2008, 212, 226–229. [CrossRef] [PubMed]
+Domanskyi, A.; Saarma, M.; Airavaara, M. Prospects of neurotrophic factors for Parkinson’s disease:
+Comparison of protein and gene therapy. Hum. Gene Ther. 2015, 26, 550–559. [CrossRef] [PubMed]
+Kirik, D.; Rosenblad, C.; Bjorklund, A.; Mandel, R.J. Long-term rAAV-mediated gene transfer of GDNF in
+the rat Parkinson’s model: Intrastriatal but not intranigral transduction promotes functional regeneration in
+the lesioned nigrostriatal system. J. Neurosci. 2000, 20, 4686–4700. [PubMed]
+Wang, L.; Muramatsu, S.; Lu, Y.; Ikeguchi, K.; Fujimoto, K.; Okada, T.; Mizukami, H.; Hanazono, Y.; Kume, A.;
+Urano, F.; et al. Delayed delivery of AAV-GDNF prevents nigral neurodegeneration and promotes functional
+recovery in a rat model of Parkinson’s disease. Gene Ther. 2002, 9, 381–389. [CrossRef] [PubMed]
+Bjorklund, A.; Kirik, D.; Rosenblad, C.; Georgievska, B.; Lundberg, C.; Mandel, R.J. Towards a
+neuroprotective gene therapy for Parkinson0 s disease: Use of adenovirus, AAV and lentivirus vectors
+for gene transfer of GDNF to the nigrostriatal system in the rat Parkinson model. Brain Res. 2000, 886, 82–98.
+[CrossRef]
+Johnston, L.C.; Eberling, J.; Pivirotto, P.; Hadaczek, P.; Federoff, H.J.; Forsayeth, J.; Bankiewicz, K.S. Clinically
+relevant effects of convection-enhanced delivery of AAV2-GDNF on the dopaminergic nigrostriatal pathway
+in aged rhesus monkeys. Hum. Gene Ther. 2009, 20, 497–510. [CrossRef] [PubMed]
+Kalia, L.V.; Kalia, S.K.; Lang, A.E. Disease-modifying strategies for Parkinson’s disease. Mov. Disord. 2015,
+30, 1442–1450. [CrossRef] [PubMed]
+AAV2-GDNF for Advanced Parkinson’s Disease. Available online: https://foxtrialfinder.michaeljfox.org/
+trial/3121/ (accessed on 4 October 2016).
+Airaksinen, M.S.; Saarma, M. The GDNF family: Signalling, biological functions and therapeutic value.
+Nat. Rev. Neurosci. 2002, 3, 383–394. [CrossRef] [PubMed]
+Bartus, R.T.; Brown, L.; Wilson, A.; Kruegel, B.; Siffert, J.; Johnson, E.M., Jr.; Kordower, J.H.; Herzog, C.D.
+Properly scaled and targeted AAV2-NRTN (neurturin) to the substantia nigra is safe, effective and causes no
+weight loss: Support for nigral targeting in Parkinson’s disease. Neurobiol. Dis. 2011, 44, 38–52. [CrossRef]
+[PubMed]
+Marks, W.J., Jr.; Bartus, R.T.; Siffert, J.; Davis, C.S.; Lozano, A.; Boulis, N.; Vitek, J.; Stacy, M.; Turner, D.;
+Verhagen, L.; et al. Gene delivery of AAV2-neurturin for Parkinson’s disease: A double-blind, randomised,
+controlled trial. Lancet Neurol. 2010, 9, 1164–1172. [CrossRef]
+Warren Olanow, C.; Bartus, R.T.; Baumann, T.L.; Factor, S.; Boulis, N.; Stacy, M.; Turner, D.A.; Marks, W.;
+Larson, P.; Starr, P.A.; et al. Gene delivery of neurturin to putamen and substantia nigra in Parkinson disease:
+A double-blind, randomized, controlled trial. Ann. Neurol. 2015, 78, 248–257. [CrossRef] [PubMed]
+Bartus, R.T.; Johnson, E.M., Jr. Clinical tests of neurotrophic factors for human neurodegenerative diseases,
+part 2: Where do we stand and where must we go next? Neurobiol. Dis. 2017, 97, 169–178. [CrossRef]
+[PubMed]
+Runeberg-Roos, P.; Piccinini, E.; Penttinen, A.M.; Matlik, K.; Heikkinen, H.; Kuure, S.; Bespalov, M.M.;
+Peranen, J.; Garea-Rodriguez, E.; Fuchs, E.; et al. Developing therapeutically more efficient Neurturin
+variants for treatment of Parkinson’s disease. Neurobiol. Dis. 2016. [CrossRef] [PubMed]
+LeWitt, P.A.; Rezai, A.R.; Leehey, M.A.; Ojemann, S.G.; Flaherty, A.W.; Eskandar, E.N.; Kostyk, S.K.;
+Thomas, K.; Sarkar, A.; Siddiqui, M.S.; et al. AAV2-GAD gene therapy for advanced Parkinson’s disease:
+A double-blind, sham-surgery controlled, randomised trial. Lancet Neurol. 2011, 10, 309–319. [CrossRef]
+Christine, C.W.; Starr, P.A.; Larson, P.S.; Eberling, J.L.; Jagust, W.J.; Hawkins, R.A.; VanBrocklin, H.F.;
+Wright, J.F.; Bankiewicz, K.S.; Aminoff, M.J. Safety and tolerability of putaminal AADC gene therapy for
+Parkinson disease. Neurology 2009, 73, 1662–1669. [CrossRef] [PubMed]
+AADC Gene Therapy for Parkinson’s Disease (AADC). Available online: https://clinicaltrials.gov/ct2/
+show/NCT01973543 (accessed on 7 November 2016).
+Fan, D.S.; Ogawa, M.; Fujimoto, K.I.; Ikeguchi, K.; Ogasawara, Y.; Urabe, M.; Nishizawa, M.; Nakano, I.;
+Yoshida, M.; Nagatsu, I.; et al. Behavioral recovery in 6-hydroxydopamine-lesioned rats by cotransduction
+of striatum with tyrosine hydroxylase and aromatic L-amino acid decarboxylase genes using two separate
+adeno-associated virus vectors. Hum. Gene Ther. 1998, 9, 2527–2535. [CrossRef] [PubMed]
+
+Genes 2017, 8, 63
+
+40.
+
+41.
+42.
+
+43.
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+12 of 15
+
+Cederfjall, E.; Sahin, G.; Kirik, D.; Bjorklund, T. Design of a single AAV vector for coexpression of TH and
+GCH1 to establish continuous DOPA synthesis in a rat model of Parkinson’s disease. Mol. Ther. 2012, 20,
+1315–1326. [CrossRef] [PubMed]
+Cheng, H.C.; Ulane, C.M.; Burke, R.E. Clinical progression in Parkinson disease and the neurobiology of
+axons. Ann. Neurol. 2010, 67, 715–725. [CrossRef] [PubMed]
+Bartus, R.T.; Kordower, J.H.; Johnson, E.M., Jr.; Brown, L.; Kruegel, B.R.; Chu, Y.; Baumann, T.L.; Lang, A.E.;
+Olanow, C.W.; Herzog, C.D. Post-mortem assessment of the short and long-term effects of the trophic factor
+neurturin in patients with alpha-synucleinopathies. Neurobiol. Dis. 2015, 78, 162–171. [CrossRef] [PubMed]
+Green, F.; Samaranch, L.; Zhang, H.S.; Manning-Bog, A.; Meyer, K.; Forsayeth, J.; Bankiewicz, K.S. Axonal
+transport of AAV9 in nonhuman primate brain. Gene Ther. 2016, 23, 520–526. [CrossRef] [PubMed]
+Kells, A.P.; Forsayeth, J.; Bankiewicz, K.S. Glial-derived neurotrophic factor gene transfer for Parkinson’s
+disease: Anterograde distribution of AAV2 vectors in the primate brain. Neurobiol. Dis. 2012, 48, 228–235.
+[CrossRef] [PubMed]
+Barroso-Chinea, P.; Cruz-Muros, I.; Afonso-Oramas, D.; Castro-Hernandez, J.; Salas-Hernandez, J.;
+Chtarto, A.; Luis-Ravelo, D.; Humbert-Claude, M.; Tenenbaum, L.; Gonzalez-Hernandez, T. Long-term
+controlled GDNF over-expression reduces dopamine transporter activity without affecting tyrosine
+hydroxylase expression in the rat mesostriatal system. Neurobiol. Dis. 2016, 88, 44–54. [CrossRef] [PubMed]
+Georgievska, B.; Kirik, D.; Bjorklund, A. Aberrant sprouting and downregulation of tyrosine hydroxylase in
+lesioned nigrostriatal dopamine neurons induced by long-lasting overexpression of glial cell line derived
+neurotrophic factor in the striatum by lentiviral gene transfer. Exp. Neurol. 2002, 177, 461–474. [CrossRef]
+[PubMed]
+Tereshchenko, J.; Maddalena, A.; Bahr, M.; Kugler, S. Pharmacologically controlled, discontinuous GDNF
+gene therapy restores motor function in a rat model of Parkinson’s disease. Neurobiol. Dis. 2014, 65, 35–42.
+[CrossRef] [PubMed]
+Kordower, J.H.; Olanow, C.W.; Dodiya, H.B.; Chu, Y.; Beach, T.G.; Adler, C.H.; Halliday, G.M.; Bartus, R.T.
+Disease duration and the integrity of the nigrostriatal system in Parkinson’s disease. Brain 2013, 136,
+2419–2431. [CrossRef] [PubMed]
+Kells, A.P.; Eberling, J.; Su, X.; Pivirotto, P.; Bringas, J.; Hadaczek, P.; Narrow, W.C.; Bowers, W.J.; Federoff, H.J.;
+Forsayeth, J.; et al. Regeneration of the MPTP-lesioned dopaminergic system after convection-enhanced
+delivery of AAV2-GDNF. J. Neurosci. 2010, 30, 9567–9577. [CrossRef] [PubMed]
+Chen, Y.H.; Harvey, B.K.; Hoffman, A.F.; Wang, Y.; Chiang, Y.H.; Lupica, C.R. MPTP-induced deficits in
+striatal synaptic plasticity are prevented by glial cell line-derived neurotrophic factor expressed via an
+adeno-associated viral vector. FASEB J. 2008, 22, 261–275. [CrossRef] [PubMed]
+Gasmi, M.; Herzog, C.D.; Brandon, E.P.; Cunningham, J.J.; Ramirez, G.A.; Ketchum, E.T.; Bartus, R.T. Striatal
+delivery of neurturin by CERE-120, an AAV2 vector for the treatment of dopaminergic neuron degeneration
+in Parkinson0 s disease. Mol. Ther. 2007, 15, 62–68. [CrossRef] [PubMed]
+Herzog, C.D.; Dass, B.; Holden, J.E.; Stansell, J., 3rd; Gasmi, M.; Tuszynski, M.H.; Bartus, R.T.; Kordower, J.H.
+Striatal delivery of CERE-120, an AAV2 vector encoding human neurturin, enhances activity of the
+dopaminergic nigrostriatal system in aged monkeys. Mov. Disord. 2007, 22, 1124–1132. [CrossRef] [PubMed]
+Herzog, C.D.; Dass, B.; Gasmi, M.; Bakay, R.; Stansell, J.E.; Tuszynski, M.; Bankiewicz, K.; Chen, E.Y.; Chu, Y.;
+Bishop, K.; et al. Transgene expression, bioactivity, and safety of CERE-120 (AAV2-neurturin) following
+delivery to the monkey striatum. Mol. Ther. 2008, 16, 1737–1744. [CrossRef] [PubMed]
+Kordower, J.H.; Herzog, C.D.; Dass, B.; Bakay, R.A.; Stansell, J., 3rd; Gasmi, M.; Bartus, R.T. Delivery of
+neurturin by AAV2 (CERE-120)-mediated gene transfer provides structural and functional neuroprotection
+and neurorestoration in MPTP-treated monkeys. Ann. Neurol. 2006, 60, 706–715. [CrossRef] [PubMed]
+Back, S.; Peranen, J.; Galli, E.; Pulkkila, P.; Lonka-Nevalaita, L.; Tamminen, T.; Voutilainen, M.H.; Raasmaja, A.;
+Saarma, M.; Mannisto, P.T.; et al. Gene therapy with AAV2-CDNF provides functional benefits in a rat model
+of Parkinson’s disease. Brain Behav. 2013, 3, 75–88. [CrossRef] [PubMed]
+Ren, X.; Zhang, T.; Gong, X.; Hu, G.; Ding, W.; Wang, X. AAV2-mediated striatum delivery of human CDNF
+prevents the deterioration of midbrain dopamine neurons in a 6-hydroxydopamine induced parkinsonian
+rat model. Exp. Neurol. 2013, 248, 148–156. [CrossRef] [PubMed]
+
+Genes 2017, 8, 63
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+62.
+
+63.
+
+64.
+65.
+
+66.
+
+67.
+
+68.
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+13 of 15
+
+Klein, R.L.; Hamby, M.E.; Gong, Y.; Hirko, A.C.; Wang, S.; Hughes, J.A.; King, M.A.; Meyer, E.M. Dose and
+Promoter Effects of Adeno-Associated Viral Vector for Green Fluorescent Protein Expression in the Rat Brain.
+Exp. Neurol. 2002, 176, 66–74. [CrossRef] [PubMed]
+Taymans, J.M.; Vandenberghe, L.H.; Haute, C.V.; Thiry, I.; Deroose, C.M.; Mortelmans, L.; Wilson, J.M.;
+Debyser, Z.; Baekelandt, V. Comparative analysis of adeno-associated viral vector serotypes 1, 2, 5, 7, and 8
+in mouse brain. Hum. Gene Ther. 2007, 18, 195–206. [CrossRef] [PubMed]
+Low, K.; Aebischer, P.; Schneider, B.L. Direct and retrograde transduction of nigral neurons with AAV6,
+8, and 9 and intraneuronal persistence of viral particles. Hum. Gene Ther. 2013, 24, 613–629. [CrossRef]
+[PubMed]
+McFarland, N.R.; Lee, J.S.; Hyman, B.T.; McLean, P.J. Comparison of transduction efficiency of recombinant
+AAV serotypes 1, 2, 5, and 8 in the rat nigrostriatal system. J. Neurochem. 2009, 109, 838–845. [CrossRef]
+[PubMed]
+Masamizu, Y.; Okada, T.; Ishibashi, H.; Takeda, S.; Yuasa, S.; Nakahara, K. Efficient gene transfer into neurons
+in monkey brain by adeno-associated virus 8. Neuroreport 2010, 21, 447–451. [CrossRef] [PubMed]
+Markakis, E.A.; Vives, K.P.; Bober, J.; Leichtle, S.; Leranth, C.; Beecham, J.; Elsworth, J.D.; Roth, R.H.;
+Samulski, R.J.; Redmond, D.E., Jr. Comparative transduction efficiency of AAV vector serotypes 1–6 in the
+substantia nigra and striatum of the primate brain. Mol. Ther. 2010, 18, 588–593. [CrossRef] [PubMed]
+Herzog, C.D.; Brown, L.; Kruegel, B.R.; Wilson, A.; Tansey, M.G.; Gage, F.H.; Johnson, E.M., Jr.; Bartus, R.T.
+Enhanced neurotrophic distribution, cell signaling and neuroprotection following substantia nigral versus
+striatal delivery of AAV2-NRTN (CERE-120). Neurobiol. Dis. 2013, 58, 38–48. [CrossRef] [PubMed]
+Landeck, N.; Buck, K.; Kirik, D. Toxic effects of human and rodent variants of alpha-synuclein in vivo.
+Eur. J. Neurosci. 2016. [CrossRef] [PubMed]
+Albert, K.; Voutilainen, M.H.; Domanskyi, A.; Ahola, S.; Piepponen, T.P.; Tuominen, R.K.; Harvey, B.K.;
+Airavaara, M.; University of Helsinki, Helsinki, Finland. AAV mediated overexpression of alpha-synuclein
+protein and foreign RNA in the substantia nigra: Dissociation between dopamine damage and motor
+impairment. Unpublished work. 2017.
+Quintino, L.; Manfre, G.; Wettergren, E.E.; Namislo, A.; Isaksson, C.; Lundberg, C. Functional neuroprotection
+and efficient regulation of GDNF using destabilizing domains in a rodent model of Parkinson’s disease.
+Mol. Ther. 2013, 21, 2169–2180. [CrossRef] [PubMed]
+Chtarto, A.; Humbert-Claude, M.; Bockstael, O.; Das, A.T.; Boutry, S.; Breger, L.S.; Klaver, B.; Melas, C.;
+Barroso-Chinea, P.; Gonzalez-Hernandez, T.; et al. A regulatable AAV vector mediating GDNF biological
+effects at clinically-approved sub-antimicrobial doxycycline doses. Mol. Ther. Methods Clin. Dev. 2016.
+[CrossRef] [PubMed]
+Maddalena, A.; Tereshchenko, J.; Bahr, M.; Kugler, S. Adeno-associated virus-mediated, mifepristoneregulated transgene expression in the brain. Mol. Ther. Nucleic Acids 2013. [CrossRef] [PubMed]
+Samaranch, L.; San Sebastian, W.; Kells, A.P.; Salegio, E.A.; Heller, G.; Bringas, J.R.; Pivirotto, P.; DeArmond, S.;
+Forsayeth, J.; Bankiewicz, K.S. AAV9-mediated expression of a non-self protein in nonhuman primate central
+nervous system triggers widespread neuroinflammation driven by antigen-presenting cell transduction.
+Mol. Ther. 2014, 22, 329–337. [CrossRef] [PubMed]
+Lindgren, H.S.; Lelos, M.J.; Dunnett, S.B. Do alpha-synuclein vector injections provide a better model of
+Parkinson’s disease than the classic 6-hydroxydopamine model? Exp. Neurol. 2012, 237, 36–42. [CrossRef]
+[PubMed]
+Decressac, M.; Mattsson, B.; Bjorklund, A. Comparison of the behavioural and histological characteristics
+of the 6-OHDA and alpha-synuclein rat models of Parkinson’s disease. Exp. Neurol. 2012, 235, 306–315.
+[CrossRef] [PubMed]
+Oliveras-Salva, M.; Van der Perren, A.; Casadei, N.; Stroobants, S.; Nuber, S.; D0 Hooge, R.; Van den Haute, C.;
+Baekelandt, V. rAAV2/7 vector-mediated overexpression of alpha-synuclein in mouse substantia nigra
+induces protein aggregation and progressive dose-dependent neurodegeneration. Mol. Neurodegener. 2013.
+[CrossRef] [PubMed]
+St Martin, J.L.; Klucken, J.; Outeiro, T.F.; Nguyen, P.; Keller-McGandy, C.; Cantuti-Castelvetri, I.;
+Grammatopoulos, T.N.; Standaert, D.G.; Hyman, B.T.; McLean, P.J. Dopaminergic neuron loss and
+up-regulation of chaperone protein mRNA induced by targeted over-expression of alpha-synuclein in
+mouse substantia nigra. J. Neurochem. 2007, 100, 1449–1457. [CrossRef] [PubMed]
+
+Genes 2017, 8, 63
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+88.
+
+89.
+
+14 of 15
+
+Svarcbahs, R.; Julku, U.H.; Myohanen, T.T. Inhibition of prolyl oligopeptidase restores spontaneous
+motor behavior in the alpha-synuclein virus vector-based Parkinson’s disease mouse model by decreasing
+alpha-synuclein oligomeric species in mouse brain. J. Neurosci. 2016, 36, 12485–12497. [CrossRef] [PubMed]
+Kirik, D.; Rosenblad, C.; Burger, C.; Lundberg, C.; Johansen, T.E.; Muzyczka, N.; Mandel, R.J.; Bjorklund, A.
+Parkinson-like neurodegeneration induced by targeted overexpression of alpha-synuclein in the nigrostriatal
+system. J. Neurosci. 2002, 22, 2780–2791. [PubMed]
+Decressac, M.; Mattsson, B.; Lundblad, M.; Weikop, P.; Bjorklund, A. Progressive neurodegenerative and
+behavioural changes induced by AAV-mediated overexpression of alpha-synuclein in midbrain dopamine
+neurons. Neurobiol. Dis. 2012, 45, 939–953. [CrossRef] [PubMed]
+Gombash, S.E.; Manfredsson, F.P.; Kemp, C.J.; Kuhn, N.C.; Fleming, S.M.; Egan, A.E.; Grant, L.M.;
+Ciucci, M.R.; MacKeigan, J.P.; Sortwell, C.E. Morphological and behavioral impact of AAV2/5-mediated
+overexpression of human wildtype alpha-synuclein in the rat nigrostriatal system. PLoS ONE 2013, 8, e81426.
+[CrossRef] [PubMed]
+Shahaduzzaman, M.; Nash, K.; Hudson, C.; Sharif, M.; Grimmig, B.; Lin, X.; Bai, G.; Liu, H.; Ugen, K.E.;
+Cao, C.; et al. Anti-human alpha-synuclein N-terminal peptide antibody protects against dopaminergic
+cell death and ameliorates behavioral deficits in an AAV-alpha-synuclein rat model of Parkinson’s disease.
+PLoS ONE 2015, 10, e0116841. [CrossRef] [PubMed]
+Yamada, M.; Iwatsubo, T.; Mizuno, Y.; Mochizuki, H. Overexpression of alpha-synuclein in rat substantia
+nigra results in loss of dopaminergic neurons, phosphorylation of alpha-synuclein and activation of caspase-9:
+Resemblance to pathogenetic changes in Parkinson’s disease. J. Neurochem. 2004, 91, 451–461. [CrossRef]
+[PubMed]
+Febbraro, F.; Sahin, G.; Farran, A.; Soares, S.; Jensen, P.H.; Kirik, D.; Romero-Ramos, M. Ser129D mutant
+alpha-synuclein induces earlier motor dysfunction while S129A results in distinctive pathology in a rat
+model of Parkinson’s disease. Neurobiol. Dis. 2013, 56, 47–58. [CrossRef] [PubMed]
+Koprich, J.B.; Johnston, T.H.; Huot, P.; Reyes, M.G.; Espinosa, M.; Brotchie, J.M. Progressive
+neurodegeneration or endogenous compensation in an animal model of Parkinson’s disease produced
+by decreasing doses of alpha-synuclein. PLoS ONE 2011, 6, e17698. [CrossRef] [PubMed]
+Gaugler, M.N.; Genc, O.; Bobela, W.; Mohanna, S.; Ardah, M.T.; El-Agnaf, O.M.; Cantoni, M.; Bensadoun, J.C.;
+Schneggenburger, R.; Knott, G.W.; et al. Nigrostriatal overabundance of alpha-synuclein leads to decreased
+vesicle density and deficits in dopamine release that correlate with reduced motor activity. Acta Neuropathol.
+2012, 123, 653–669. [CrossRef] [PubMed]
+Bourdenx, M.; Dovero, S.; Engeln, M.; Bido, S.; Bastide, M.F.; Dutheil, N.; Vollenweider, I.; Baud, L.;
+Piron, C.; Grouthier, V.; et al. Lack of additive role of ageing in nigrostriatal neurodegeneration triggered by
+alpha-synuclein overexpression. Acta Neuropathol. Commun. 2015. [CrossRef] [PubMed]
+Van der Perren, A.; Toelen, J.; Casteels, C.; Macchi, F.; Van Rompuy, A.S.; Sarre, S.; Casadei, N.; Nuber, S.;
+Himmelreich, U.; Osorio Garcia, M.I.; et al. Longitudinal follow-up and characterization of a robust rat
+model for Parkinson’s disease based on overexpression of alpha-synuclein with adeno-associated viral
+vectors. Neurobiol. Aging 2015, 36, 1543–1558. [CrossRef] [PubMed]
+Gully, J.C.; Sergeyev, V.G.; Bhootada, Y.; Mendez-Gomez, H.; Meyers, C.A.; Zolotukhin, S.; Gorbatyuk, M.S.;
+Gorbatyuk, O.S. Up-regulation of activating transcription factor 4 induces severe loss of dopamine nigral
+neurons in a rat model of Parkinson’s disease. Neurosci. Lett. 2016, 627, 36–41. [CrossRef] [PubMed]
+Lo, W.D.; Qu, G.; Sferra, T.J.; Clark, R.; Chen, R.; Johnson, P.R. Adeno-associated virus-mediated gene
+transfer to the brain: Duration and modulation of expression. Hum. Gene Ther. 1999, 10, 201–213. [CrossRef]
+[PubMed]
+Hensley, S.E.; Amalfitano, A. Toll-like receptors impact on safety and efficacy of gene transfer vectors.
+Mol. Ther. 2007, 15, 1417–1422. [CrossRef] [PubMed]
+Klein, R.L.; Dayton, R.D.; Leidenheimer, N.J.; Jansen, K.; Golde, T.E.; Zweig, R.M. Efficient neuronal gene
+transfer with AAV8 leads to neurotoxic levels of tau or green fluorescent proteins. Mol. Ther. 2006, 13,
+517–527. [CrossRef] [PubMed]
+Update Regarding MJFF & UNC-Generated AAV Viral Vectors. Available online: https://www.med.unc.
+edu/genetherapy/vectorcore/files/updateregardingmjffviralvectors-final (accessed on 4 November 2016).
+
+Genes 2017, 8, 63
+
+90.
+91.
+
+15 of 15
+
+Bartels, T.; Choi, J.G.; Selkoe, D.J. alpha-Synuclein occurs physiologically as a helically folded tetramer that
+resists aggregation. Nature 2011, 477, 107–110. [CrossRef] [PubMed]
+Winner, B.; Jappelli, R.; Maji, S.K.; Desplats, P.A.; Boyer, L.; Aigner, S.; Hetzer, C.; Loher, T.; Vilar, M.;
+Campioni, S.; et al. In vivo demonstration that alpha-synuclein oligomers are toxic. Proc. Natl. Acad. Sci.
+USA 2011, 108, 4194–4199. [CrossRef] [PubMed]
+© 2017 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

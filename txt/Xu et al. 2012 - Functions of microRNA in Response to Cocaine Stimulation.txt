@@ -1,0 +1,486 @@
+Functions of microRNA in response to
+cocaine stimulation
+L.-F. Xu, J. Wang, F.B. Lv and Q. Song
+Department of Anesthesiology, Jinan Military General Hospital,
+Jinan, Shandong Province, China
+Corresponding author: J. Wang
+E-mail: wenhaow2000@hotmail.com
+Genet. Mol. Res. 12 (4): 6160-6167 (2013)
+Received September 5, 2012
+Accepted April 29, 2013
+Published December 4, 2013
+DOI http://dx.doi.org/10.4238/2013.December.4.2
+
+ABSTRACT. MicroRNAs (miRNAs) are a type of non-protein-coding
+single-stranded RNA, which are typically 20-25 nt in length. miRNAs play
+important roles in various biological processes, including development,
+cell proliferation, differentiation, and apoptosis. We aimed to detect the
+miRNA response to cocaine stimulations and their target genes. Using the
+miRNA expression data GSE21901 downloaded from the Gene Expression
+Omnibus database, we screened out the differentially expressed miRNA
+after short-term (1 h) and longer-term (6 h) cocaine stimulations based on
+the fold change >1.2. Target genes of differentially expressed miRNAs were
+retrieved from TargetScan database with the context score -0.3. Functional
+annotation enrichment analysis was performed for all the target genes with
+DAVID. A total of 121 differentially expressed miRNAs between the 1-h
+treatment and the control samples, 58 between the 6-h treatment and the
+control samples, and 69 between the 1-h and the 6-h treatment samples.
+Among them, miR-212 results of particular interest, since its expression
+level was constantly elevated responding to cocaine treatment. After
+functional and pathway annotations of target genes, we proved that miR212 was a critical element in cocaine-addiction, because of its involvement
+in regulating several important cell cycle events. The results may pave
+the way for further understanding the regulatory mechanisms of cocaineGenetics and Molecular Research 12 (4): 6160-6167 (2013)
+
+©FUNPEC-RP www.funpecrp.com.br
+
+6161
+
+Study of MicroRNA functions
+
+response in human bodies.
+Key words: miRNAs; Target genes; miR-212; Overexpression
+
+INTRODUCTION
+The study of the post-transcriptional gene regulation was scarce until a few years ago.
+Since the let-7 was first found in Caenorhadbitis elegans (Vella et al., 2004), the study of miRNAs
+in general, and of their functions in particular, has gained attention and is moving quickly forward.
+Over the past few years, we have found that miRNAs play important roles not only in the normal organism, such as embryonic development, angiogenesis and inflammation (Brennecke et al.,
+2003; Chen, 2005), but also in a number of major diseases (Calin et al., 2004; Zhang et al., 2007;
+Zhang and Farwell, 2008). miRNAs are also used as therapeutic drugs in clinical practice (Chan et
+al., 2005; Eis et al., 2005).
+miRNAs are a class of very short non-coding regulatory small molecules, which are single-stranded RNAs, approximately 20~25 nt (in some cases, less than 20 nt). They are generated
+from the single-stranded RNA precursors (pre-miRNAs) whose lengths are between 70~80 nt after
+shearing (Bartel, 2004). miRNAs inhibit the translation of their target mRNAs by complementarily
+binding to the 3'-untranslated region (3' UTR). In a few cases, the binding areas are in the 5'-UTR or
+coding region (Brennecke et al., 2003). The vast majority of miRNAs is located in the intergenic regions, and can exist as either single copy, multiple copies or appear as gene clusters or other forms
+(Lim et al., 2003; Rodriguez et al., 2004). miRNAs play a variety of regulatory roles in the metabolic processes in the body and their transcription is independent of the other gene, and will not
+be translated into proteins (Carthew, 2006; Kloosterman and Plasterk, 2006). miRNAs are highly
+conserved across species, and their stem areas are generally more conservative and more mutation
+sites may exist in the loop parts. About 3% of human genes encode miRNAs, and more than 30%
+of the coding genes are regulated by miRNAs (Lewis et al., 2005; Lim et al., 2005). miRNAs play
+important roles in various biological processes, including development, cell proliferation, differentiation and apoptosis (Miska, 2005). However, their abnormal expression may lead to the some
+diseases (Kloosterman and Plasterk, 2006).
+All identified miRNAs are registered in the “miRBase” database (Griffiths-Jones et al.,
+2006, 2008; Kozomara and Griffiths-Jones, 2011). New miRNAs may be discovered through
+bioinformatic methods in genome-wide scan of conservative stem-loop structures. Experimental
+methods can be also utilized by cloning the small RNA library for sequencing. Northern blot, microarray, real time RT-PCR and other techniques can be used for quantitative detection of miRNAs
+in a specific time and tissue. However, each approach has its own advantages and disadvantages: 1)
+Northern blot is highly accurate, but it requires high quantity and quality of samples, 2) microarray
+has the advantage of high throughput, but the data need further experimental verification, implicating high cost (Huang et al., 2007) and making it more useful for initial mass screening, 3) RT-PCR
+detection is highly sensitive, with wide range of applications and relatively lower cost, but with
+high false positive rate that generally requires re-validation by northern blot.
+The functional study of miRNAs started by focusing on specific miRNAs or miRNA families and determined the possible functions by loss-of-function mutations. Subsequently, the invention of the oligo-nucleotide complementary translation method, gave rise to a very effective way to
+silence miRNAs in part of the cell lines. In addition, knocking out the Dicer enzyme has also been
+Genetics and Molecular Research 12 (4): 6160-6167 (2013)
+
+©FUNPEC-RP www.funpecrp.com.br
+
+6162
+
+L.-F. Xu et al.
+
+proved effective for miRNA silencing.
+The screening of target genes is usually carried out using a combination of experimental
+and bioinformatic methods. According to the miRNAs known functions, related functional genes
+can be screened out to and further experimentally validated (i.e., experiments coupled with a luciferase reporter system).
+In this study, we used two sets of miRNA expression data, one from cocaine-treated samples, and the other one from controls (not treated), to identify the miRNAs which may play regulatory roles in cocaine-addictive rats. Additionally, we also conducted miRNA interference experiments. Based on the gene expression data obtained, we annotated the miRNA target genes using
+functional and pathway information to illustrate the regulatory mechanisms of miRNAs in human
+responding to cocaine.
+
+MATERIAL AND METHODS
+Expression profiles of the miRNAs in the cocaine-treated samples and miRNA
+interference
+Using rat as the animal model, we obtained the miRNA expression data GSE21901
+(Hollander et al., 2010) in cocaine-treated rat dorsal striatum samples from the GEO (Gene
+Expression Omnibus, http://www.ncbi.nlm.nih.gov/geo/) database (Edgar et al., 2002;
+Barrett et al., 2007, 2011) to study the post-transcriptional regulatory mechanisms upon
+cocaine stimulation in vivo. Based on the NCode miRNAs microarray 474, data included
+three types of samples: 1) miRNA expression data collected 1 h after 0.5 mg/kg intravenous
+cocaine injection (restricted), 2) miRNA expression data collected 6 h after 0.5 mg/kg
+intravenous cocaine injection (extended), and 3) control group (not treated). Each type of
+data was in triplicate.
+We first obtained the sequence of rno-miR-212 from the miRBase database, and its
+homologous human counterpart hsa-miR-212 using the BLAT algorithm in the UCSC database
+(Kent et al., 2002). The mRNA expression data were obtained from miR-212 overexpression in
+the human HEK 293 cell line (Hollander et al., 2010), using the HG-U133_Plus_2 (Affymetrix
+Human Genome U133 Plus 2.0 Array) platform.
+
+Pre-treatment of the expression data
+For the miRNA and mRNA expression data sets, we first mapped the probes to the
+miRNA names and the Entrez Gene IDs in the miRBase, respectively. If a number of probes
+matched to an miRNA or a gene, we considered the average value as the expression level for
+this miRNA or gene. The log2 ratio for the expression data was then calculated.
+
+Differential expression analysis
+The differentially expressed miRNAs between restricted samples, extended samples, and controls or the differentially expressed genes between the overexpressed samples
+of miR-212 in HEK 293 cell lines and the control samples were identified by using a filter
+based on a fold change of 1.2.
+Genetics and Molecular Research 12 (4): 6160-6167 (2013)
+
+©FUNPEC-RP www.funpecrp.com.br
+
+6163
+
+Study of MicroRNA functions
+
+miRNAs target genes
+The conservative miRNAs target genes between rat and human were retrieved from
+the TargetScan database (Grimson et al., 2007) with the context score -0.3.
+
+Functional and pathway annotations
+To recognize the biological functions of these differentially expressed miRNAs, we
+performed the functional and pathway enrichment analysis on the target genes of the miRNAs
+based on GO (Gene Ontology) and KEGG (Kyoto Encyclopedia of Genes and Genomes). In
+addition, GO and KEGG analysis was performed on the differentially expressed target genes
+caused by overexpression of miR-212, to uncover regulatory mechanism of the highly expressed miR-212 in response to the cocaine stimulation and its impact on the cocaine addiction.
+DAVID (database for annotation, visualization, and integrated discovery, Huang et al., 2009),
+a clustering tool based on the hypergeometric distribution, was chosen in our study to fulfill
+this analysis. False discovery rate (FDR) corrected P value less than 0.05 was set as the cutoff.
+
+RESULTS
+Differentially expressed miRNAs
+Based on the fold change of 1.2, we identified 121 differentially expressed miRNAs between the restricted and the control samples, 58 between the extended and the control samples, and
+69 between the restricted and the extended samples. We found that the expression levels of large
+amount of miRNAs changed after cocaine-treatment for 1 h (restricted), but some of them returned
+to normal level after 6-h treatment (extended). However, comparing the restricted with the extended
+samples, we found that different miRNAs were activated in response to cocaine stimulation at different time points. More interestingly, we found that miR-212 showed high expression level in all
+three groups in the differential analysis, and its expression kept increasing as cocaine was absorbed,
+thereby suggesting a key role for miR-212 in the response to cocaine consumption in the body.
+
+Functional annotation of the target genes of differentially expressed miRNAs
+miRNAs exert important regulative role by post-transcriptionally controlling their target
+genes or directly degrading their target mRNAs. To illustrate the functions of the miRNAs in
+response to cocaine stimulation, we applied the algorithm TargetScan, used for miRNAs target genes
+prediction. For the comparison restricted vs control, extended vs control, and restricted vs extended,
+11,980, 12,008, and 11,892 miRNA target genes were, respectively, predicted based on the context
+score of -0.3. Notably, three compared groups shared 11,411 target genes, suggesting that in different
+cocaine treatment, different miRNAs are activated, and regulate the same or similar target genes to
+complete a common stimulated response. We performed the GO and KEGG annotations to show the
+functional categories and metabolic pathways these miRNA target genes belonged to, with the FDR
+threshold set to 0.05. For the comparison restricted vs control, extended vs control, and restricted vs
+extended, the target genes of differentially expressed miRNAs were mapped to 162, 167, and 164
+functions or pathways, respectively. Like sharing highly conserved target genes, the three compared
+Genetics and Molecular Research 12 (4): 6160-6167 (2013)
+
+©FUNPEC-RP www.funpecrp.com.br
+
+6164
+
+L.-F. Xu et al.
+
+groups resulted to be involved in 152 similar biological functions or metabolic pathways. Thus,
+the differentially expressed miRNAs may have similar functions in response to cocaine, and may
+interact with different target genes at different response stages.
+
+Functional annotation of the target genes of miR-212
+We found that the expression level of miR-212 was constantly elevated in both time
+points after cocaine stimulation, suggesting that miR-212 may play a key role in regulating
+the body’s response to cocaine treatment. The identification of the downstream functions or
+pathways of the overexpressed miR-212 are important to find out the molecular mechanism
+underlying this regulation in response to cocaine stimulation. Therefore, miR-212 overexpressed microarray expression profile was obtained.
+We identified 1760 differentially expressed genes in the miR-212 overexpressed human HEK 293 cell-line and the control sample based fold change >1.2. Using the TargetScan
+database, we obtained 2426 conserved target genes of has-miR-212 (context score <-0.3), 120
+of which were differentially expressed. A total of 39 biological process (P < 0.001) and 6 metabolic pathways (P < 0.05) were found by function and pathway enrichment analysis in 120
+highly conserved target genes of miR-212 combining GO and KEGG database (Tables 1 and 2).
+Table 1. GO annotation of the 120 target genes affected by overexpression of miR-212.
+BPID
+
+P value
+
+Term
+
+GO:0031399
+GO:0001932
+GO:0042325
+GO:0006464
+GO:0019220
+GO:0051174
+GO:0032268
+GO:0044267
+GO:0043412
+GO:0031323
+GO:0006468
+GO:0006793
+GO:0006796
+GO:0045859
+GO:0080090
+GO:0019222
+GO:0016310
+GO:0051246
+GO:0043549
+GO:0051338
+GO:0009966
+GO:0001558
+GO:0060255
+GO:0034086
+GO:0034088
+GO:0050790
+GO:0044237
+GO:0019538
+GO:0009968
+GO:0001821
+GO:0055089
+GO:0061351
+GO:0044260
+GO:0003156
+GO:0051345
+GO:0051608
+GO:0071168
+GO:0031128
+GO:0045168
+
+2.86E-06
+2.92E-06
+7.09E-06
+9.43E-06
+1.16E-05
+1.16E-05
+1.79E-05
+2.19E-05
+2.22E-05
+2.94E-05
+4.34E-05
+4.47E-05
+4.47E-05
+5.65E-05
+5.79E-05
+6.06E-05
+7.62E-05
+8.18E-05
+8.61E-05
+1.13E-04
+1.52E-04
+2.15E-04
+2.24E-04
+2.36E-04
+2.36E-04
+2.50E-04
+2.78E-04
+4.29E-04
+5.54E-04
+5.84E-04
+5.84E-04
+5.95E-04
+5.95E-04
+7.16E-04
+7.85E-04
+8.15E-04
+8.15E-04
+8.79E-04
+9.69E-04
+
+Regulation of protein modification process
+Regulation of protein phosphorylation
+Regulation of phosphorylation
+Protein modification process
+Regulation of phosphate metabolic process
+Regulation of phosphorus metabolic process
+Regulation of cellular protein metabolic process
+Cellular protein metabolic process
+Macromolecule modification
+Regulation of cellular metabolic process
+Protein phosphorylation
+Phosphorus metabolic process
+Phosphate metabolic process
+Regulation of protein kinase activity
+Regulation of primary metabolic process
+Regulation of metabolic process
+Phosphorylation
+Regulation of protein metabolic process
+Regulation of kinase activity
+Regulation of transferase activity
+Regulation of signal transduction
+Regulation of cell growth
+Regulation of macromolecule metabolic process
+Maintenance of sister chromatid cohesion
+Maintenance of mitotic sister chromatid cohesion
+Regulation of catalytic activity
+Cellular metabolic process
+Protein metabolic process
+Negative regulation of signal transduction
+Histamine secretion
+Fatty acid homeostasis
+Neural precursor cell proliferation
+Cellular macromolecule metabolic process
+Regulation of organ formation
+Positive regulation of hydrolase activity
+Histamine transport
+Protein localization to chromatin
+Developmental induction
+Cell-cell signaling involved in cell fate commitment
+
+Genetics and Molecular Research 12 (4): 6160-6167 (2013)
+
+©FUNPEC-RP www.funpecrp.com.br
+
+6165
+
+Study of MicroRNA functions
+Table 2. KEGG pathway annotation of the 120 target genes affected by overexpression of miR-212.
+PATHWAY
+
+MAPP name
+
+Adjusted P
+
+Pathway: 04962
+Pathway: 00531
+Pathway: 04110
+Pathway: 00564
+Pathway: 03420
+Pathway: 00561
+
+Vasopressin-regulated water reabsorption
+Glycosaminoglycan degradation
+Cell cycle
+Glycerophospholipid metabolism
+Nucleotide excision repair
+Glycerolipid metabolism
+
+0.003678
+0.00791
+0.011422
+0.019102
+0.03911
+0.049307
+
+Most of these genes were involved in the regulations of metabolic processes such as, regulation of protein modification process, regulation of protein phosphorylation. The most affected
+pathways included vasopressin-regulated water reabsorption, glycosaminoglycan degradation, cell
+cycle, glycerophospholipid metabolism, nucleotide excision repair, and glycerolipid metabolism.
+
+DISCUSSION
+Cocaine is one of the common drugs, which may cause addiction. Cocaine addiction
+is known to be a kind of neural-generative disease, meaning that cumulative cocaine assumption may cause structural or functional damage in the cerebral limbic system. As an important
+type of molecules for gene regulation, miRNAs can control the gene expression by binding to
+the 3' UTR region of mRNAs and cause its degradation or block its translation. Studies have
+shown that such gene regulation can post-transcriptionally alter the expression of downstream
+genes, which in turn may be significant in events such as neuron-formation, brain development and cocaine-induced functional change (Eipper-Mains et al., 2011). In this research, we
+used the rat miRNA expression data after cocaine treatment, and identified 121 differentially
+expressed miRNAs between the restricted and the control samples, 58 between the extended
+and the control samples, and 69 between the restricted and the extended samples during the
+response period against the cocaine stimulation. Among them, the expression level of miR-212
+was found to be highly expressed after cocaine treatment, proving its key role in the regulatory
+mechanism for cocaine addiction. These results were also in accordance with previous studies
+(Robison and Nestler, 2011; Jonkman and Kenny, 2013).
+To further identify its molecular mechanism of miR-212, the expression profile of
+overexpressed miR-212 in the human HEK 293 cell line was downloaded, and its target genes
+were identified. The functional annotation of these target genes indicated that, overexpressed
+miR-212 may change the protein phosphorylation in human bodies. Mattson et al. (2005)
+show that cocaine may induce the phosphorylation activity of the transcription factor cAMP
+response element binding protein (CREB) by enhancing the functions of several downstream
+signal-related inter-cellular kinases. Striatal miR-212 decreases responsiveness to the motivational properties of cocaine by markedly amplifying the stimulatory effects of the drug on
+CREB signaling (Hollander et al., 2010). Acute exposure to cocaine singifcantly increases
+endothelin receptor type A (EDNRA) within 6-12 h (Pradhan et al., 2008). Coinfusion of cocaine with the endothelin receptor antagonist PD145065 prevented the cocaine induced spasm
+(Fandino et al., 2003). Our resuts suggested EDNRA was the target gene of miR-212 which
+may exert the same role as the antagonist. Furthermore, Di Francesco et al. (1990) points out
+that cocaine may be able to inhibit the proliferation process of the rat fibroblasts by regulating
+Genetics and Molecular Research 12 (4): 6160-6167 (2013)
+
+©FUNPEC-RP www.funpecrp.com.br
+
+L.-F. Xu et al.
+
+6166
+
+the synthesis of DNA and proteins, providing an evidence that cocaine may play a role during
+the cell cycles. The rat experiment model (Dominguez-Escribà et al., 2006) also shows that
+short- or long-term exposure to cocaine may slower cell proliferations. In our study, the functional and pathway annotations of the miR-212 target genes also proved their involvement in
+mediating the cell cycle regulations, such as Rb1, which is widely regarded as the molecular
+“brake” that controls transition from G1 into S phase of cellular growth (Cozar-Castellano et
+al., 2006). Overexpressed miR-212 is also reported targeting the retinoblastoma tumor suppressor, Rb1 (Park et al., 2011).
+In conclusion, using the toxicological genomics microarray technology, we identified the differentially expressed miRNAs after short-term (1 h) and longer-term (6 h) cocaine
+stimulations and their target genes. Among them, miR-212 is of particular interest, since its
+expression level is constantly elevated responding to cocaine treatment. Moreover, functional
+and pathway annotations of its target genes prove that miR-212 is a key element in cocaineaddiction due to its involvement in regulating several important cell cycle events. This result
+may pave the way for further understanding the regulatory mechanisms of cocaine-response
+in human bodies and provide a more effective method to suppress cocaine-addiction, using
+specific molecular interference therapy.
+
+Conflicts of interest
+The authors declared no conflict of interest.
+
+REFERENCES
+Barrett T, Troup DB, Wilhite SE, Ledoux P, et al. (2007). NCBI GEO: mining tens of millions of expression profiles database and tools update. Nucleic Acids Res. 35: D760-D765.
+Barrett T, Troup DB, Wilhite SE, Ledoux P, et al. (2011). NCBI GEO: archive for functional genomics data sets - 10 years
+on. Nucleic Acids Res. 39: D1005-D1010.
+Bartel DP (2004). MicroRNAs: genomics, biogenesis, mechanism, and function. Cell 116: 281-297.
+Brennecke J, Hipfner DR, Stark A, Russell RB, et al. (2003). Bantam encodes a developmentally regulated microRNA that
+controls cell proliferation and regulates the proapoptotic gene hid in Drosophila. Cell 113: 25-36.
+Calin GA, Sevignani C, Dumitru CD, Hyslop T, et al. (2004). Human microRNA genes are frequently located at fragile
+sites and genomic regions involved in cancers. Proc. Natl. Acad. Sci. U. S. A. 101: 2999-3004.
+Carthew RW (2006). Gene regulation by microRNAs. Curr. Opin. Genet. Dev. 16: 203-208.
+Chan JA, Krichevsky AM and Kosik KS (2005). MicroRNA-21 is an antiapoptotic factor in human glioblastoma cells.
+Cancer Res. 65: 6029-6033.
+Chen X (2005). MicroRNA biogenesis and function in plants. FEBS Lett. 579: 5923-5931.
+Cozar-Castellano I, Fiaschi-Taesch N, Bigatel TA, Takane KK, et al. (2006). Molecular control of cell cycle progression
+in the pancreatic β-cell. Endocr. Rev. 27: 356-370.
+Di Francesco P, Pica F, Favalli C, Tubaro E, et al. (1990). Inhibition of rat fibroblast cell proliferation at specific cell cycle
+stages by cocaine. Cell Biol. Int. Rep. 14: 549-558.
+Domínguez-Escribà L, Hernández-Rabaza V, Soriano-Navarro M, Barcia JA, et al. (2006). Chronic cocaine exposure
+impairs progenitor proliferation but spares survival and maturation of neural precursors in adult rat dentate gyrus.
+Eur. J. Neurosci. 24: 586-594.
+Edgar R, Domrachev M and Lash AE (2002). Gene Expression Omnibus: NCBI gene expression and hybridization array
+data repository. Nucleic Acids Res. 30: 207-210.
+Eipper-Mains JE, Kiraly DD, Palakodeti D, Mains RE, et al. (2011). microRNA-Seq reveals cocaine-regulated expression
+of striatal microRNAs. RNA 17: 1529-1543.
+Eis PS, Tam W, Sun L, Chadburn A, et al. (2005). Accumulation of miR-155 and BIC RNA in human B cell lymphomas.
+Proc. Natl. Acad. Sci. U. S. A. 102: 3627-3632.
+
+Genetics and Molecular Research 12 (4): 6160-6167 (2013)
+
+©FUNPEC-RP www.funpecrp.com.br
+
+Study of MicroRNA functions
+
+6167
+
+Fandino J, Sherman JD, Zuccarello M and Rapoport RM (2003). Cocaine-induced endothelin-1-dependent spasm in rabbit
+basilar artery in vivo. J. Cardiovasc. Pharmacol. 41: 158-161.
+Griffiths-Jones S, Grocock RJ, van Dongen S, Bateman A, et al. (2006). miRBase: microRNA sequences, targets and gene
+nomenclature. Nucleic Acids Res. 34: D140-D144.
+Griffiths-Jones S, Saini HK, van Dongen S and Enright AJ (2008). miRBase: tools for microRNA genomics. Nucleic Acids
+Res. 36: D154-D158.
+Grimson A, Farh KK, Johnston WK, Garrett-Engele P, et al. (2007). MicroRNA targeting specificity in mammals:
+determinants beyond seed pairing. Mol. Cell 27: 91-105.
+Hollander JA, Im HI, Amelio AL, Kocerha J, et al. (2010). Striatal microRNA controls cocaine intake through CREB
+signalling. Nature 466: 197-202.
+Huang JC, Babak T, Corson TW, Chua G, et al. (2007). Using expression profiling data to identify human microRNA
+targets. Nat. Methods 4: 1045-1049.
+Huang da W, Sherman BT and Lempicki RA (2009). Systematic and integrative analysis of large gene lists using DAVID
+bioinformatics resources. Nat. Protoc. 4: 44-57.
+Jonkman S and Kenny PJ (2013). Molecular, cellular, and structural mechanisms of cocaine addiction: a key role for
+microRNAs. Neuropsychopharmacology 38: 198-211.
+Kent WJ, Sugnet CW, Furey TS, Roskin KM, et al. (2002). The human genome browser at UCSC. Genome Res. 12: 9961006.
+Kloosterman WP and Plasterk RH (2006). The diverse functions of microRNAs in animal development and disease. Dev.
+Cell 11: 441-450.
+Kozomara A and Griffiths-Jones S (2011). miRBase: integrating microRNA annotation and deep-sequencing data. Nucleic
+Acids Res. 39: D152-D157.
+Lewis BP, Burge CB and Bartel DP (2005). Conserved seed pairing, often flanked by adenosines, indicates that thousands
+of human genes are microRNA targets. Cell 120: 15-20.
+Lim LP, Lau NC, Weinstein EG, Abdelhakim A, et al. (2003). The microRNAs of Caenorhabditis elegans. Genes Dev.
+17: 991-1008.
+Lim LP, Lau NC, Garrett-Engele P, Grimson A, et al. (2005). Microarray analysis shows that some microRNAs
+downregulate large numbers of target mRNAs. Nature 433: 769-773.
+Mattson BJ, Bossert JM, Simmons DE, Nozaki N, et al. (2005). Cocaine-induced CREB phosphorylation in nucleus
+accumbens of cocaine-sensitized rats is enabled by enhanced activation of extracellular signal-related kinase, but not
+protein kinase A. J. Neurochem. 95: 1481-1494.
+Miska EA (2005). How microRNAs control cell division, differentiation and death. Curr. Opin. Genet. Dev. 15: 563-568.
+Park JK, Henry JC, Jiang J, Esau C, et al. (2011). miR-132 and miR-212 are increased in pancreatic cancer and target the
+retinoblastoma tumor suppressor. Biochem. Biophys. Res. Commun. 406: 518-523.
+Pradhan L, Mondal D, Chandra S, Ali M, et al. (2008). Molecular analysis of cocaine-induced endothelial dysfunction:
+role of endothelin-1 and nitric oxide. Cardiovasc. Toxicol. 8: 161-171.
+Robison AJ and Nestler EJ (2011). Transcriptional and epigenetic mechanisms of addiction. Nat. Rev. Neurosci. 12: 623637.
+Rodriguez A, Griffiths-Jones S, Ashurst JL and Bradley A (2004). Identification of mammalian microRNA host genes and
+transcription units. Genome Res. 14: 1902-1910.
+Vella MC, Choi EY, Lin SY, Reinert K, et al. (2004). The C. elegans microRNA let-7 binds to imperfect let-7
+complementary sites from the lin-41 3’UTR. Genes Dev. 18: 132-137.
+Zhang B and Farwell MA (2008). microRNAs: a new emerging class of players for disease diagnostics and gene therapy.
+J. Cell Mol. Med. 12: 3-21.
+Zhang B, Pan X, Cobb GP and Anderson TA (2007). microRNAs as oncogenes and tumor suppressors. Dev. Biol. 302:
+1-12.
+
+Genetics and Molecular Research 12 (4): 6160-6167 (2013)
+
+©FUNPEC-RP www.funpecrp.com.br
+
+

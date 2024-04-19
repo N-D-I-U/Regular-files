@@ -1,0 +1,2394 @@
+3528
+
+Send Orders for Reprints to reprints@benthamscience.ae
+Current Medicinal Chemistry, 2016, 23, 3528-3546
+
+REVIEW ARTICLE
+eISSN: 1875-533X
+
+Impact
+Factor:
+3.45
+
+MicroRNAs: Key Players in Microglia and Astrocyte Mediated
+Inflammation in CNS Pathologies
+
+ISSN: 0929-8673
+
+Current
+Medicinal
+Chemistry
+The
+International
+Journal for
+Timely In-depth
+Reviews
+in Medicinal
+Chemistry
+
+BENTHAM
+SCIENCE
+
+Aparna Karthikeyan, Radhika Patnala, Shweta P. Jadhav, Ling Eng-Ang and
+S. Thameem Dheen*
+
+ 
+
+  
+
+Department of Anatomy, Yong Loo Lin School of Medicine, National University of Singapore, Singapore
+
+ARTICLE HISTORY
+Received: January 21, 2016
+Revised: June 21, 2016
+Accepted: August 04, 2016
+DOI: 10.2174/092986732366616081
+4001040
+
+Abstract: The significance of microglia and astrocytes in neural development, in maintaining synaptic connections and homeostasis in the healthy
+brain is well established. Microglia are dynamic immune cells of the brain
+that elicit an immune response during brain damage and also participate in
+tissue repair and regeneration, while astrocytes contribute to the local inflammatory response by producing proinflammatory cytokines and resolving
+neuronal damage through production of anti-inflammatory cytokines and
+neurotrophic factors. Recent efforts have focused on elucidating the epigenetic mechanisms which regulate glial cell behavior in normal and pathologic
+states. An important class of epigenetic regulators is microRNAs (miRNAs)
+which are small non-coding RNA molecules that regulate gene expression posttranscriptionally. Certain dysregulated miRNAs contribute to chronic microglial inflammation in the brain, thereby leading to progression of neurological diseases like Alzheimer’s
+disease, traumatic injury, amyotrophic lateral sclerosis and stroke. Further, several miRNAs
+are differentially expressed in astrocytes after ischemia and spinal cord injury. Despite
+knowledge about miRNAs in neuroinflammation, little is known about effective delivery
+routes and pharmacokinetic data for miRNA based therapeutics. This review summarizes the
+current research on the role of miRNAs in promoting and inhibiting inflammatory response of
+microglia and astrocytes in a disease-specific manner. In addition, miRNA delivery as a
+therapeutic strategy to treat neuroinflammation is discussed.
+
+Keywords: Neuroinflammation, microglia, astrocytes, microRNAs, CNS pathologies, neurodegenerative disorders.
+INTRODUCTION
+Microglia and astrocytes are the predominant glial
+cells of the central nervous system (CNS) that perform
+seminal roles in the healthy brain and during CNS pathologies [1-3]. Ramified microglia in the adult brain
+are dynamic cells that constantly survey the brain parenchyma by extending and retracting their ramifications and are activated during injury and insult [4]. Further, microglia are involved in pruning excessive synapses during brain development [2], and participating
+in postnatal synaptic remodeling in adulthood [5]. As*Address correspondence to this author at the Department of Anatomy, Yong Loo Lin School of Medicine, National University of
+Singapore, MD10, 4 Medical Drive, Singapore 117594;
+Tel: (65) 65163217; Fax: (65) 6778 7643
+E-mail: antstd@nus.edu.sg
+1875-533X/16 $58.00+.00
+
+trocytes display complex structural and physiological
+functions, providing metabolic support to neuronal
+cells and structural stability to the blood brain barrier
+(BBB). They also respond to neuronal signaling by
+changes in their internal calcium ion concentrations [6].
+Along with neurons, microglia and astrocytes are postulated to form the quad partite synapse, thus actively
+engaging in information processing [7]. In addition,
+there exists crosstalk between astrocytes and microglia
+through secretion of several cytokines and growth factors such as Transforming Growth Factor-beta (TGF-β)
+[8] and Tumor Necrosis Factor-α (TNF-α) [9], chemokine ligand-receptor interactions [10], complement factor activation [11] and release of neurotransmitters, i.e.,
+adenosine triphosphate (ATP) [12]. Thus, in the
+healthy brain, astrocytes and microglia actively interact
+© 2016 Bentham Science Publishers
+
+MicroRNAs: Key Players in Microglia and Astrocyte
+
+with each other and with neurons to maintain brain
+homeostasis.
+During CNS pathologies, microglia and astrocytes
+elicit an inflammatory response which involves the release of proinflammatory cytokines and chemokines, as
+well as growth factors that aid in tissue regeneration
+and repair [13, 14]. Upon stimulation in pathological
+conditions, microglia are activated; they become hypertrophic, migrate to the site of injury, release a number
+of proinflammatory cytokines, chemokines, cytotoxic
+molecules such as nitric oxide (NO) and reactive oxygen species (ROS), and also express major histocompatibility complex (MHC) and costimulatory receptors
+on their cell surface [15]. Activated microglia are also
+capable of phagocytosing dead or dying neurons
+thereby clearing neuronal debris. However, in a number of CNS pathologies, including neurodegenerative
+diseases and injury, microglia are seen to be chronically activated, exacerbating inflammatory response
+that contributes to tissue damage and disease progression [16, 17]. In addition, chronic activation of microglia results in an excessive release of proinflammatory
+cytokines such as TNF-α, Interleukin-1β (IL-1β), Interleukin-6 (IL-6), ROS and NO, thereby worsening neuronal cell death [18].
+The hallmark of astrocytic response to CNS injury
+is astrogliosis which involves rapid proliferation at the
+site of neuronal injury, and major cellular and morphological changes, that include hypertrophy of cells and
+increased expression of the intermediate filament Glial
+Fibrillary Acidic Protein (GFAP) [13]. During chronic
+inflammation, the proliferating astrocytes surround the
+site of injury or lesion or the amyloid beta (Aβ) plaques
+in the case of Alzheimers’ Disease (AD) brain, forming
+an astroglial scar, which isolates the damaged tissue
+from the healthy tissue and preventing the spread of
+neuroinflammation to healthy region [19]. On the other
+hand, chronic astrogliosis appears to be detrimental as
+it has been found to inhibit neuronal regeneration [2022]. Taken together, reactive astrocytes and activated
+microglia are first responders to insult or injury in the
+CNS and prolonged activation can contribute to substantial neuronal damage by negating the tissue reparative processes during recovery in CNS pathologies.
+Hence there is an immediate need to understand the
+mechanisms involved in glia-mediated inflammation
+towards developing potential therapies to treat neurodegenerative diseases.
+The activation of glial cells in neuropathological
+conditions involves epigenetic mechanisms. The major
+epigenetic events include modifications of histone pro-
+
+Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+3529
+
+teins, such as methylation and acetylation, DNA methylation, and regulation of small non-coding RNAs that
+modulate expression of genes. MicroRNAs (miRNAs)
+have recently emerged as important epigenetic modulators of gene expression and there is much evidence to
+suggest that miRNAs are involved in inflammatory and
+immune processes in neuropathogenesis. MiRNAs
+regulates gene expression by binding to the 3’ untranslated region (UTR) of target mRNA sequences, thereby
+promoting mRNA degradation or preventing protein
+translation [23]. The seed region of miRNAs, a sequence of 7-8 nucleotides, show affinity for hundreds
+of mRNA sequences and likewise, the 3’UTR of an
+mRNA may be targeted by more than one miRNA.
+Another striking feature of how miRNA exert their
+functions is that one miRNA may target signaling
+molecules at different levels of the same signaling cascade [24].
+MiRNAs serve an important role in regulating gene
+expression in the healthy brain. Surveying or “resting”
+microglia express receptors that respond to neurotransmitters like Glutamate and ATP and show lowered
+expression of antigen presentation molecules as compared to activated microglia found during pathology
+[25]. This surveying state of microglia in the healthy
+brain is attributed to a miRNA, miR-124 which targets
+CCAAT enhancer-binding proteins (C/EBP-α) and
+PU.1 that regulates expression of genes involved in
+microglial activation [26]. Further to its role in mediating the functions of ramified microglia, miR-124 controls fate specification of neural stem cells into astrocytes and neurons by regulating levels of a histone
+methyltransferase, Ezh2 [27], emphasizing its role in
+glial development and functions. In addition to diverse
+roles of miRNAs in the brain, spatial difference in
+miRNA expression in human astrocytes, specifically, a
+higher expression of pro-inflammatory miRNAs was
+observed in white matter astrocytes as compared to
+grey matter [28], which is crucial to understanding astrogliosis associated with pathologies such as stroke,
+traumatic injury and tumors. Astrocyte-specific deletion of Dicer-1, the endoribonuclease required for the
+processing of mature miRNA transcripts, resulted in
+neurological decline and premature death of the mutant
+mice. This was ascribed to an immature/reactive-like
+state of astrocytes with impaired functions leading to
+death of cerebellar Purkinje neurons [29]. Further studies show that astrocyte specific deletion of Dicer resulted in decreased number of spinal cord white matter
+astrocytes, without affecting the progenitor pool of
+cells, underlining the importance of miRNA biogenesis
+in development and maturation of astrocytes [30].
+
+3530 Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+Given that miRNAs fine tune gene expression during
+various cellular processes in a healthy brain, miRNAs
+involvement in causing dysregulated gene expression
+has been observed in various CNS pathologies. This
+review discusses in detail the dysregulated miRNAs in
+microglia and astrocytes (Fig. 1) in different CNS pathologies and how they contribute to disease maintenance and progression. The roles of specific miRNAs
+in mediating astrocyte and microglia inflammatory signaling cascades are summarized. Finally, the prospect
+of miRNAs as therapeutic agents and possible means
+for miRNA delivery to the brain is evaluated.
+MiRNAs IN CNS PATHOLOGY
+Viral and Prion Infection
+During insult and injury in the brain, several signaling pathways are activated in microglia and astrocytes,
+contributing to a state of inflammatory response. For
+instance, Human Immunodeficiency Virus (HIV) infection is accompanied by infected macrophages carrying
+viral particles into the CNS through the blood brain
+barrier (BBB), where viral regulatory proteins like
+HIV-Tat are released into the brain parenchyma [31,
+32]. During the HIV infection, activated microglia participate in production of ROS through membraneassociated NADPH oxidases (NOX) which leads to
+neuroinflammation. HIV-Tat treatment in microglial
+
+Karthikeyan et al.
+
+cells increased the intracellular ROS generation by
+modulating the expression levels of miR-17, NOX-2
+and NOX-4, leading to neuroinflammation [33]. Furthermore, miR-32 is seen to be upregulated in microglial cells in response to HIV-Tat proteins with a concomitant decrease in cellular TNF Receptor Associated
+Factor-3 (TRAF-3) levels, a key signaling mediator
+involved in suppression of immune functions mediated
+by the Interferon Regulatory Factors (IRF) IRF3 and
+IRF7 [34]. Significantly, HIV-Tat proteins have been
+shown to inhibit a subset of miRNAs including miR181 and let-7i that regulate the Wnt-β catenin signaling
+pathway in astrocytes [35], signifying an RNA interference mechanism by which HIV-Tat proteins induce
+neuroinflammation [36]. Additionally, during a prion
+infection, miR-146a is upregulated in activated microglia and involved in regulating microglial morphology
+and phagocytic response by suppressing Nuclear Factor-kB (NFkB) and Janus kinase-Signal Transducer and
+Activator of Transcription (JAK-STAT) pathway [37,
+38]. The Japanese Encephalitis Virus (JEV) infection in
+humans induces neuroinflammation, resulting in longterm neurologic and psychiatric complications as well
+as motor dysfunction [39]. MiR-15b and miR-19b-3p
+positively regulate glial cell-mediated neuroinflammation in the JEV by suppressing Ring Finger Protein-125
+(RNF-125) and RNF-11, respectively, thereby enhancing production of inflammatory cytokines [40, 41]. In
+
+Fig. (1). MiRNAs involved in microglia- and astrocyte-mediated neuroinflammation in various CNS pathologies.
+
+MicroRNAs: Key Players in Microglia and Astrocyte
+
+JEV infection, the proinflammatory miRNA-29b is
+seen to promote microglial activation by targeting tumor necrosis factor alpha-induced protein 3 (TNFAIP3), a negative regulator of NFkB signaling pathway
+[42]. Thus, these studies [43] have identified potential
+candidate miRNAs that can be inhibited to mitigate
+JEV induced- neuroinflammation, thereby attenuating
+the infection-induced neurological sequelae.
+Alzheimers’ Disease
+AD is a well characterized neurodegenerative disease that is associated with memory loss and behavioral
+changes. Classified within the spectrum of dementia,
+the main pathological feature of AD is the presence of
+extracellular Aβ plaques and intracellular Tau protein
+aggregates in neurons [44]. AD is accompanied by loss
+of synapses and death of neurons, with a chronic inflammatory response of microglia and astrocytes [45].
+Numerous studies have evaluated the miRNA profiles
+of brain tissue [46, 47], blood monocytes and macrophages [48] and body fluids such as cerebrospinal fluid
+(CSF) and blood [49, 50], underlining a crucial role of
+dysregulated miRNAs in the progression of the AD
+[51-53]. Certain miRNAs that regulate immune responses such as miR-146a, miR-155, miR-125a and
+miR-9 show altered expression, suggesting that disruptions in miRNA expression result in chronic activation
+of glial cell during AD pathogenesis [54]. Upon exposure to Aβ peptides, glial cell-mediated immune responses in the brain occur through inflammatory signaling cascades such as NFkB and JAK-STAT signaling by activation of the Toll-Like Receptors-4 and -6
+(TLRs) [55, 56]. Studies involving Aβ-treated microglia and astrocytes indicate that a prolonged expression
+of proinflammatory cytokines is supported by increased
+levels of miR-155 in microglia and astrocytes, through
+targeting Suppressor of Cytokine Signaling-1 (SOCS1), a negative regulator of inflammatory gene response
+[57].
+One of the striking features of AD pathology is the
+aggregation of Aβ plaques in the brain parenchyma as a
+result of defective phagocytosis by microglia [58]. The
+proinflammatory miRNA-34a, which is an NF-kBregulated transcript is found to be significantly increased in activated microglia and its increased levels
+downregulate its target Trem-2, an innate immune receptor involved in phagocytosis, subsequently leading
+to impaired phagocytosis and Aβ accumulation as observed in AD [59]. Impaired phagocytosis and an exaggerated inflammatory response by microglia in AD is
+also attributed to decreased levels of presenilin, a cata-
+
+Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+3531
+
+lytic component of the γ-secretase complex that is responsible for Aβ peptide processing [60]. Studies indicate that microglia from presenilin knock-out mice
+show decreased expression level of miR-146a and increased expression levels of interleukin-1 receptorassociated kinase-1 (IRAK-1) and increased NFκB
+transcriptional activity. This provides evidence that
+presenilin epigenetically regulates proinflammatory
+function of microglia in AD brains through modulation
+of miR-146a [61].
+Astrogliosis as a result of exposure to Aβ plaques
+during AD progression includes proliferation and hypertrophy of astrocytes, expression of chemokines and
+cytokines, increased glial GFAP expression and cytoskeletal rearrangement [62]. Increased GFAP and
+decreased cyclin-dependent kinase (CDK2N) are found
+to be correlated with high levels of miR-125b in AD
+brains. Moreover, inhibiting miR-125b decreased astroglial proliferation, supporting the possibility of targeting miR-125b as a therapeutic strategy [63]. In human astrocytes exposed to Aβ, increased levels of miR146a was reported, coupled with decreased levels of
+IRAK-1 levels and increased IRAK-2 levels, both genes
+being important mediators of the inflammatory TLR
+signaling [64, 65]. This confirms that AD progression
+is characterized by distinct events of neuroinflammation involving dysregulated expression of miRNAs in
+glial cells. Targeting such events might be identified as
+a potential therapeutic strategy to treat AD progression.
+Epilepsy
+Epilepsy is a neurological condition characterized
+by recurrent spontaneous seizures that occur due to hyperexcitability and hypersynchrony of neurons in the
+brain [66]. Recent studies implicate glia in the pathophysiology of epilepsy and suggest a direct relationship
+between dysfunctional glia and epileptogenesis [67].
+Epilepsy is associated with chronic accumulation, activation and proliferation of astrocytes and microglia
+promoting hyperexcitability of neurons. In recent years,
+epigenetic mechanisms that contribute to epileptogenesis have been widely reported. Several studies have
+assessed the miRNA profiles of animal models of epilepsy and a set of miRNAs such as miR-146a, miR146b, miR-142 and miR-27a have been implicated in
+epileptogenesis [68-70]. In rat models of status epilepticus (SE), miR-146a is upregulated in reactive astrocytes which are in close proximity with dying neurons.
+It is postulated that miR-146a is involved in expression
+of proinflammatory cytokines by astrocytes during epileptogenesis by targeting members of the NFkB path-
+
+3532 Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+way [71, 72]. Furthermore, the brain enriched miR-124
+was found to exhibit pro- and anti-epileptogenic roles
+in SE, wherein it was found to regulate both neuronal
+signaling and microglial activation, thereby emphasizing the cell-type specific roles of miRNAs during disease development and progression [73-75]. Recently, a
+genome wide miRNA profile of human mesial temporal lobe epilepsy (mTLE) identified a number of deregulated miRNA such as miR-92b, miR-637, or miR665 to be significantly mislocalized in the nucleus of
+astrocytes of mTLE brain samples compared with cytoplasmic expression in control samples, raising speculation that mislocalization of miRNAs are responsible
+for impaired regulation of molecular mechanisms in
+glial cells [76]. MiR-221 and miR-222 are found to be
+downregulated in astrocytes in mTLE samples corresponding to an increased expression of their target protein, intercellular adhesion molecule-1 (ICAM-1),
+which is involved in various aspects of inflammation
+[77]. The differential expression of miRNAs in mTLE
+tissue samples underscores the complex role of miRNAs in disease progression.
+Spinal Cord Injury
+Spinal cord injury (SCI) is caused by mechanical
+disruption of spinal cord tissue by external blunt force,
+causing neuronal damage and death, an event exacerbated by microglia- and astrocyte-mediated inflammatory response [78, 79]. A number of miRNAs have
+been implicated in influencing glial cell behavior post
+traumatic injury. Astrogliosis at the site of SCI involves the increased proliferation and hypertrophy of
+astrocytes, resulting in the formation of a glial scar that
+has both beneficial and detrimental effects [80]. The
+hypertrophic astrocytes show upregulation of GFAP
+expression and reduced levels of miR-145 which is
+predicted to target Gfap [81]. Furthermore, miR-21 is
+found to be upregulated in astrocytes during astrogliosis post SCI. Inhibition of miR-21 is found to enhance
+axonal regeneration by attenuating hypertrophy and
+glial scar progression, thereby identifying miR-21 as a
+therapeutic target for mitigating astrogliosis during
+brain injury [82].
+Recent studies show that the miRNA function is vital to injury-induced proliferation of astrocytes. It is
+reported that conditional deletion of Dicer-1 gene,
+which is essential for mature miRNA generation, impairs activation and proliferation of astrocytes during
+injury. Moreover, overexpression of miR-17-5p in
+Dicer-1-null astrocytes rescues the Dicer-1 deletioninduced inhibition of astrocytic proliferation during
+
+Karthikeyan et al.
+
+SCI [83]. This study underlined the importance of the
+miRNA processing machinery in regulating key cellular processes such as astroglial proliferation during
+neuroinflammation.
+Ischemic Stroke
+Stroke is a cerebrovascular infarction caused by loss
+of oxygenated blood to the brain tissue [84]. Stroke can
+be of two types: ischemic (due to lack of blood supply)
+and hemorrhagic (due to vascular bleeding) [85].
+Ischemic stroke leads to rapid neuronal cell damage
+and death, resulting in an inflammatory response by
+microglia and astrocytes that proliferate and invade the
+penumbra zone. Massive influx of activated microglia
+and hypertrophic astrocytes (reactive astrogliosis) is
+evident in the infarct zone after ischemic stroke.
+Restoration of oxygenated blood supply to the
+ischemic tissue ironically causes additional neuronal
+damage by initiating an inflammatory response [86].
+Inflammation that occurs post-ischemic stroke is both
+deleterious and beneficial, a feature that reflects the
+multifaceted response of glial cells in CNS pathology.
+In this context, some studies have shed light on miRNA
+changes in activated microglia and astrocytes upon
+reperfusion following an ischemic injury. Certain brainspecific and inflammation-specific miRNAs such as
+miR-146a and miR-21 are found to be differentially
+expressed in microglia after oxygen-glucose deprivation (OGD) conditioning [87]. Additionally, several
+miRNAs including miR-21, miR-29b and miR-30b are
+upregulated in astrocytes exposed to normoxic conditioning (reperfusion) after an in vitro model of stroke.
+It has been speculated that miR-29b plays a role in inducing apoptosis in neurons and astrocytes and this
+could be a new avenue for investigating cellular apoptosis machinery in ischemia [88]. Further, it has been
+shown that miR-21 promotes neurotoxicity by activating the TLR7 signaling pathway in neuropathogenesis
+[89]. In both astrocytes and microglia, miR-21 is significantly upregulated in in vitro studies of stroke possibly playing a role in neuroinflammation. This suggests that certain miRNAs have overlapping functions
+in both microglia and astrocytes during neuroinflammation in CNS pathology.
+Some members of the let-7 miRNA family play
+critical roles in modulating microglial and astrocyte
+activation. The expression levels of let-7c-5p, a
+miRNA involved in promoting alternative activation of
+microglia, and miR-424 which inhibits microglial activation by arresting microglial proliferation and decreasing the secretion of proinflammatory cytokine,
+
+MicroRNAs: Key Players in Microglia and Astrocyte
+
+TNF-α, are found to be downregulated in plasma samples of patients and mice after ischemic stroke [90-92].
+After reperfusion in Middle Cerebral Artery Occlusion
+(MCAO) mouse models, overexpression of let-7c-5p
+suppressed neuroinflammation by decreasing expression of proinflammatory markers and apoptotic marker
+such as cleaved Caspase-3. Inhibition of let-7f after
+ischemic stroke conferred neuroprotection in vivo via
+increase in insulin like growth factor-1 (IGF-1) in microglial cells [93]. Moreover, differential expression
+levels of let-7f and its target, IL-6 cytokine was discovered in the sera of ischemic stroke patients with and
+without hemorrhagic complications, implicating the
+role of let-7f in inflammation during massive cerebral
+infarction [94]. These studies highlight the varied roles
+of let-7 family in inflammation and stress the importance of understanding the roles of different miRNAs
+within a family in order to develop effective therapeutic strategies to counteract stroke pathology.
+Multiple Sclerosis
+Multiple sclerosis (MS) is a neurodegenerative disease involving demyelination of neurons, resulting in
+the formation of plaques that consist of astrocytes, microglia, peripheral macrophages and T-cells [95]. An
+inflammatory response mounted by microglia and astrocytes in response to demyelination is paradoxically
+both neuroprotective [96, 97] and neurotoxic [98]. One
+of the salient miRNAs involved in microglial activation
+during MS is miR-124. Intravenous administration of
+miR-124 decreased the disease progression by deactivating peripheral macrophages and restoring the “resting” state of microglia [26]. The crucial role of miR124 in regulating microglial activation in several disease pathologies, thus, makes it an attractive target for
+neurotherapeutics. Furthermore, the pro-inflammatory
+response of astrocytes was diminished by miR-873 inhibition in experimental autoimmune encephalomyelitis (EAE) which is the commonly used mouse model
+for the MS [99]. The suppression of EAE progression
+upon miR-873 inhibition is promising and further studies may focus on the effect of miR-873 on microglial
+activation in the progression of MS. A comprehensive
+miRNA profiling of MS lesions has identified dysregulated miRNAs in astrocytes and immune cells and specifically, expression of several miRNAs such as miR155, miR-326 and miR-34a were shown to regulate
+CD47 [100], a crucial membrane receptor involved in
+the process of phagocytosis in MS [101]. The proinflammatory role of miR-155 was validated in EAE,
+wherein inhibition of miR-155 resulted in decreased Thelper cells [102] and reduced expression of pro-
+
+Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+3533
+
+inflammatory cytokines in microglia and macrophages
+[103]. Other differentially expressed miRNAs in MS
+lesions include immune miRNAs-146a, -146b, -21and 142 and future studies could focus on understanding
+their roles in glial cell activation in MS and evaluate
+their potential in mitigating MS disease conditions.
+Amyotrophic Lateral Sclerosis
+Amyotrophic lateral sclerosis (ALS) is a motor neuron degenerative disorder that results in progressive
+paralysis and death due to respiratory failure [104].
+ALS pathology in the brain is characterized by reactive
+astrocytosis which is implicated in inefficient clearance
+of the excitotoxic neurotransmitter glutamate and impaired secretion of neurotrophic factors, along with
+microgliosis which contributes to neuroinflammation
+[105]. Recently, dysregulated miRNAs in microglia
+have been shown to modulate genes involved in neuroinflammation, contributing to neuroinflammatory
+diseases such as ALS. About 20% of familial ALS
+cases are shown to be caused by superoxide dismutase
+1 (SOD1) mutations [106]. In mutated SOD1 overexpressed transgenic mice which develop symptoms like
+ALS pathology, a number of immune related miRNAs
+such as miR-21, miR-155, let 7a/b and miR-146b are
+seen to be upregulated in microglia [107]. In addition,
+miR-365 and miR-125b directly target the IL-6/STAT3
+pathway in ALS associated microglia, which was reported to enhance the proinflammatory state of microglia [107]. Interestingly, inhibition of miR-155 in ALS
+mice reduced the proinflammatory signaling response
+in microglia [108], and improved disease condition and
+survival of ALS mice significantly [109], thereby
+showing promise as a potential therapeutic target.
+These studies provide additional evidence to the role of
+these miRNAs in modulating microglial activation in
+different brain disorders.
+Role of miRNAs in Regulating Inflammatory Gene
+Response in Glia
+The first miRNAs to be linked to microglial activation was miR-155, which is induced upon lipopolysaccharide (LPS) challenge and is found to target Socs-1, a
+negative regulator of the inflammatory response, thus
+regulating microglial inflammatory response by increasing the secretion of proinflammatory cytokines
+and NO [110]. In Interferon-γ (IFNγ) challenged astrocytes, overexpression of IRF-3 transgene is found to
+downregulate miR-155, leading to a phenotypic switch
+from a proinflammatory state to an anti-inflammatory
+state [111]. More recently, miR-9 was seen to play a
+similar role in promoting proinflammatory response of
+
+3534 Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+activated microglial cells by targeting the monocyte
+chemotactic protein-induced protein 1 (MCPIP1), an
+RNase that brings about degradation of Il-1β and Il-6
+mRNAs [112]. In addition, miR-200b has been identified as a novel inflammatory mediator in microglia by
+interfering with the cJun/MAP Kinase pathway, a signaling cascade that is crucial to the proinflammatory
+activation state of microglia [113]. These results form
+the basis of new therapeutic strategies for the treatment
+of microglia-mediated neuroinflammation using a
+panel of miRNA regulators.
+Certain miRNAs play a role in resolving a state of
+neuroinflammation. Recently, miR-146a overexpression in microglial cells was shown to increase Il-10
+expression which is essential in resolving a proinflammatory state of activation [37]. In IL-1β treated astrocytes, miR-146a overexpression was found to downregulate inflammatory factors like IL-6 and COX-2 by
+directly targeting IRAK-1 and TRAF-6 genes, which are
+key regulatory components of the NFkB pathway.
+These studies indicate the induction of miR-146a as a
+negative-feedback regulator during glial cell activation
+[114].
+Another widely studied miRNA in the context of inflammation in microglia and astrocytes is the miR-181
+family of miRNAs [115, 116]. In astrocytes treated
+with LPS, miR-181 was found to be downregulated,
+leading to an increased production of proinflammatory
+cytokines such as IL-6, IL-1β and TNF-α. Similar to
+the role of miR-146a in activated microglia, overexpression of miR-181 led to an increase in IL-10,
+thereby, helping to resolve a proinflammatory state of
+activation [117]. In microglia, miR-181c appears to be
+neuroprotective as it has been shown to control the microglia-mediated neuroinflammation and apoptosis by
+targeting the proinflammatory cytokine, Tnf-α [118].
+A number of diseases are associated with immune
+cells existing in varied state of alternative or classical
+activation. The functional distinctions of classical and
+alternative activation states have been established depending on the stimulus used in vitro for activation and
+have emerged as an important tool for studying glial
+cell activation in CNS disease progression. M1 (classical activation) phenotype is induced by proinflammatory factors like LPS and IFNγ [119-121] and
+is observed in chronic pathological conditions such as
+ischemic stroke and traumatic injury [122-124]. The
+tissue reparative functions of glial cells are carried out
+by M2 polarized cells, which are induced in vitro by
+multiple stimuli such as IL-13 and IL-4 [125, 126] and
+have been shown to enhance remyelination of neurons
+
+Karthikeyan et al.
+
+by promoting oligodendrocyte differentiation [96].
+MiRNA profiling studies have determined certain
+miRNAs that are crucial for the M1-M2 phenotypic
+switch. In astrocytes challenged with LPS/IFNγ, miR351 and miR-125b were identified to target the TNF-α
+signaling pathway by direct binding to the 3’ UTR of
+Tnf-α during astrocyte activation [121]. In addition,
+miR-125b targets members of the STAT signaling
+pathway in ALS associated microglia and is known to
+regulate astrogliosis during AD progression, underlining its importance in regulating immune functions. In
+an attempt to map the miRNA profile of polarized microglia, murine microglia were exposed to LPS (classically activated) and IL-4 (alternatively activated). Low
+levels of miR-124 and miR-689 were associated with
+the classical activation of microglia while induction of
+miR-145 and miR-214 was associated with the alternative activated phenotype of microglia, shedding light
+on miRNA profiles in microglia during disease conditions displaying instances of microglial polarization
+[127].
+In chronic neuropathic pain, an imbalance in the
+M1/M2 ratio of spinal microglia during hyperalgesia
+was found to be correlated to decreased levels of miR124. Intrathecal injection of miR-124 mitigated persistent hyperalgesia by increasing expression of antiinflammatory TGFβ in spinal microglia, suggesting
+that miR-124 is crucial in the M1-M2 polarization phenomenon [128]. In contrast to the M1/M2 functional
+states, macrophages within glioblastomas have been
+identified as unpolarized M0 phenotype, showing a
+distinctive molecular signature that supports glioma
+progression [129]. A number of miRNAs including
+miR-146, miR-125a-5p, miR-142 and miR-155 were
+found to be differentially expressed in glioblastoma
+infiltrating immune cells, thereby providing potential
+candidates for designing therapeutics for glioma therapy. These studies [129, 130] signal a shift in our understanding the role of immune cells within gliomas, as
+glioma infiltrating microglia were previously thought
+of as alternative activated cells [131-133]. The functional polarization states thereby serve as in vitro experimental paradigms to study neuroinflammation during CNS pathologies. These studies have identified
+several dysregulated miRNAs (Table 1, Fig. 2) underlying common inflammatory signaling pathways in activated microglia and astrocytes in different CNS pathologies.
+MiRNAs as Diagnostic and Prognostic Markers
+Currently, diagnosis of neuropathologies and monitoring their progression is hindered by the absence of
+
+MicroRNAs: Key Players in Microglia and Astrocyte
+
+Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+3535
+
+Table 1. Important miRNAs and their targets that are involved in regulating astrocyte and microglia mediated neuroinflammation during CNS pathology.
+
+CNS Pathology
+
+Cell Type
+
+MicroRNA
+implicated
+
+Targets
+(mRNA)
+
+Role in inflammation
+
+References
+
+HIV infection
+
+Microglia
+
+miR-32 ↑
+
+TRAF-3
+
+Promotes proinflammatory response
+
+[34]
+
+Microglia
+
+miR-17 ↑
+
+NOX-2, NOX-4
+
+Results in increased intracellular ROS
+generation
+
+[33]
+
+Astrocytes
+
+miR-29b
+
+Pdgf-b
+
+Release of miRNA through exosomes
+subsequently taken up by neurons
+
+[32]
+
+Prion infection
+
+Microglia
+
+miR-146a↑
+
+-
+
+Suppresses NFkB and JAK-STAT signaling pathways
+
+[37, 38]
+
+JEV infection
+
+Microglia
+
+miR-29b ↑
+
+Tnfaip-3
+
+Promotes proinflammatory response
+
+[42]
+
+Astrocytes
+and microglia
+
+miR-15b and
+miR-19b-3p↑
+
+Rnf-125 and
+
+Positively regulates of inflammatory
+signaling
+
+[40, 41]
+
+Microglia
+and astrocytes
+
+miR-155 ↑
+
+Socs-1
+
+Promotes production of proinflammatory cytokines
+
+[57]
+
+Microglia
+
+miR-34a ↑
+
+Trem-2
+
+Impairs phagocytosis of Aβ peptides
+
+[59]
+
+Microglia
+from Presenilin KO mice
+
+miR-146a ↓
+
+Irak-1
+
+Exaggerated NFkB response
+
+[61]
+
+Astrocytes
+
+miR-146a ↑
+
+IRAK-1
+
+Promotes proinflammatory response
+
+[64]
+
+Astrocytes
+
+miR-125b ↑
+
+Cdkn2a
+
+Promotes astrogliosis
+
+[63]
+
+Astrocytes
+
+miR-135a ↑
+
+Thrombospondin-1
+
+Suppresses angiogenic response
+
+[54]
+
+Astrocytes
+
+miR-146a ↑
+
+Irak-4, Irak-6, Traf-6
+
+Negatively regulates inflammatory response
+
+[64, 71]
+
+ICAM-1
+
+-
+
+[77]
+
+Alzheimer’s
+Disease
+
+Epilepsy
+
+Rnf-11
+
+miR-221
+Astrocytes
+miR-222 ↓
+Spinal Cord
+Injury
+
+Ischemic stroke
+
+Multiple Sclerosis
+
+Astrocytes
+
+miR-145↓
+
+Gfap
+
+Promotes proliferation and hypertrophy
+of astrocytes
+
+[81]
+
+Astrocytes
+
+miR-21 ↑
+
+-
+
+Suppresses beneficial response of astrocytes
+
+[82]
+
+Astrocytes
+
+miR-17-5p↑
+
+-
+
+Regulates astroglial proliferation
+
+[83]
+
+Microglia
+
+miR-124
+
+-
+
+Reduces microglial activation
+
+[128]
+
+Astrocytes
+
+miR-29b ↑
+
+-
+
+Possible role in regulation of apoptosis
+
+[88]
+
+Astrocytes
+and microglia
+
+miR-21↑
+
+-
+
+Possible role in inflammation induced
+apoptosis
+
+[87]
+
+Microglia
+
+let-7c in plasma
+samples ↓
+
+Casp-3
+
+Suppresses expression of proinflammatory molecules
+
+[91]
+
+Microglia
+
+miR-424 in
+plasma samples ↓
+
+Tnf-α
+
+Inhibits microglial activation
+
+[92]
+
+Microglia
+
+let-7f
+
+Igf-1
+
+Promotes expression of antiinflammatory factor IGF-1
+
+[93]
+
+Microglia
+
+miR-124 ↓
+
+Cebp-α
+
+Suppresses microglial activation
+
+[26]
+
+3536 Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+Karthikeyan et al.
+
+(Table 1) contd….
+
+CNS Pathology
+
+Amyotrophic
+Lateral Sclerosis
+
+Cell Type
+
+MicroRNA
+implicated
+
+Targets
+(mRNA)
+
+Role in inflammation
+
+References
+
+Microglia
+and astrocytes
+
+miR-155, miR326 and miR-34a
+↑
+
+CD47
+
+Regulates glial cell mediated phagocytosis
+
+[100]
+
+Microglia
+
+miR-155 ↑
+
+-
+
+Promotes production of proinflammatory cytokines
+
+[103]
+
+Microglia
+
+miR-125b and
+miR-365 ↑
+
+Stat-3 and Il-6 respectively
+
+Promotes microglial activation
+
+[107]
+
+Microglia
+
+miR-155 ↑
+
+-
+
+Promotes proinflammatory response
+
+[108]
+
+Fig. (2). The schematic diagram represents the key immune related miRNAs that target important genes in inflammatory signaling pathways. The cell type of the miRNA-mRNA pairing is designated by dashed box (microglia), thick box (astrocytes)
+and thin box outlines (both astrocytes and microglia). [A] The TLR receptors are activated by pro-inflammatory cytokines such
+as TNF-α and are mediated downstream by the IRAK and TRAF proteins, which are targeted by miR-146a. Transcription factors such as NFκB-p65 and IRF proteins are involved in the transcription of several pro-inflammatory signals that are regulated
+by miRNAs as represented in the figure. [B] The CREB1 and C/EPB-α transcription factors are regulated at the mRNA level by
+miR-124, which is vital for maintaining microglial homeostasis in the healthy brain. [C] ROS generation during neuroinflammation is mediated by transmembrane NADPH oxidases NOX-2 and NOX-4. [D] JAK-STAT signaling pathway is negatively
+regulated by SOCS-1, the mRNA of which is targeted by miR-155. Phosphorylated STAT proteins dimerize and translocated to
+the nucleus, wherein they transcribe genes such as Gfap and Bcl-2, which are targeted by miR-125b, miR-145 and miR-181a.
+[E] mRNA levels of membrane receptors CD47 and Trem-2, essential components of phagocytic activity of glial cells are regulated by miRNAs like miR-34a and miR-155.
+
+non-invasive diagnostic procedures. The discovery of
+exosome-mediated miRNA exchange between mammalian cells represents an intricate system of gene network regulation yet to be used for therapeutic advan-
+
+tage. The presence of miRNA exosomes in extracellular body fluids such as blood and CSF gives rise to the
+possibility of developing miRNA based biomarkers to
+track disease progression [134]. With the advent of
+
+MicroRNAs: Key Players in Microglia and Astrocyte
+
+high throughput screening and next generation sequencing, extensive research has been focused on identifying robust miRNA candidates in brain tissue and
+body fluids that can be developed as biomarkers for
+diagnostic and prognostic value in CNS pathologies
+like AD [135-138], ischemic stroke [139-141], Huntington’s disease [142, 143], neuropsychiatric ailments
+[144, 145], MS [146, 147], ALS [148, 149] and Parkinsons’ Disease [150]. In CNS pathologies associated
+with significant neuroinflammation, certain immunerelated miRNAs have been observed in blood serum,
+plasma and CSF of patients and animal models of disease. The let-7 family of miRNAs has been shown to
+mediate crucial aspects of glial cell activation in different pathologies including stroke, and brain injury and
+its expression levels have been documented in circulating body fluids such as plasma, CSF and blood. Given
+the therapeutic efficiency of let-7 in animal models of
+stroke [93, 94, 151], further studies are required to understand its role in microglial and astrocyte activation
+during traumatic brain injury [152]. Furthermore, the
+miR-124 has emerged as a critical brain-enriched
+miRNA that plays important roles in neuronal physiology during stroke, traumatic injury and AD and regulates inflammatory signaling pathways in activated microglia and astrocytes. In addition, this miRNA has
+been observed in patient serum and plasma in brain
+injury, MS and stroke and thus, may serve as a potential biomarker to evaluate disease progression. MiR146a is upregulated in activated glial cells [153, 154]
+and differential levels of miR-146a have been documented in the plasma and CSF of AD patients [155,
+156]. Recent studies have established that miRNA profiles accurately differentiate tumors of different origins
+and predict neoplastic changes within tumors, thereby
+serving as diagnostic and predictive markers for cancer
+[157, 158]. The miRNA expression profile of CSF
+samples from glioblastoma multiforme patients revealed the increased expression levels of miR-10b,
+miR-200b and miR-21 as compared to control subjects,
+highlighting a miRNA signature that can be used to
+distinguish between different brain tumors [159]. However, such results must be treated with caution as there
+are number of challenges associated with miRNA
+based biomarker discovery. For example, miR-523-3p
+found in the CSF of stroke patients is completely absent in the blood of patients and in control subjects
+[140]. It is likely that altered miRNA expression in the
+CSF during CNS disease progression may not represent
+the glial and neuronal miRNA expression levels always. It has also been suggested that efforts to identify
+miRNAs as biomarkers may be confounded by vari-
+
+Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+3537
+
+ables such as blood contamination in the CSF which
+could influence the expression of miRNAs [160]. Furthermore, there is increasing evidence that miRNA profiles vary between different racial populations, complicating the process of biomarker development. There is
+a pressing need for studies with larger cohorts that span
+multi-racial populations to identify miRNA biomarker
+for CNS pathology.
+Developing miRNA Based Therapeutics to Treat
+Neuroinflammation
+The possibility of treating neurological disorders
+with miRNA based strategies is an exciting avenue.
+Modulation of miRNA levels in vitro has been
+achieved by miRNA antagonists which inhibit endogenous miRNAs, and miRNA mimics which reintroduce
+or overexpress specific miRNA [161]. Currently,
+miRNA inhibition is possible by chemically modified
+oligonucleotide sequences that pair with the mature
+miRNA and prevent binding to the target gene.
+MiRNA “sponges” or “erasers” have been developed to
+scavenge the miRNAs continuously in cell cultures.
+MiRNA sponges, containing multiple complementary
+binding sites to a miRNA of interest are transfected
+into cells, and behave as competitive inhibitors of the
+endogenous miRNA within the cell [162]. On the other
+hand, miRNA mimics or overexpression vectors are
+used to rescue expression levels of repressed endogenous miRNA within the cell. Effective viral based vectors have been developed for a robust and continued
+expression of miRNAs and the use of tissue specific
+promoters allow for greater specificity of the miRNA
+mimic vector [163, 164]. Such transgenic methods
+have become potential tools to examine the miRNA
+functions in various cell types and may also be developed as therapeutic agents in the future. A similar
+miRNA replacement therapy involving the use of mimics of tumor suppressor miRNAs have already been
+demonstrated in treatment of lung and liver cancer
+lending promise to the therapeutic efficacy of this technology [165-167].
+In order to effectively use miRNAs as therapeutics,
+several chemical modifications (Fig. 3) have been
+developed to enhance stability and half-life of the
+miRNA in vivo. As a potential drug, salient features
+such as biodistribution and pharmacokinetic properties
+are improved by chemical modifications to miRNA
+molecule. Chemical modifications may also improve
+potency of the miRNA-mRNA binding by increased
+loading of the miRNA into the miRNA-induced
+silencing complex. The most commonly used
+modification is Locked-Nucleic-Acid (LNA) modi-
+
+3538 Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+Karthikeyan et al.
+
+Nucleic-Acid (LNA) modification wherein a 2’ 4’
+Methylene bridge is added across the ribose group that
+provides greater durability against nucleases [168].
+Other modifications that alter the ribose group include
+the 2’-O-Methyl (2’ OMe) modification that shows
+lesser resistance to serum nucleases [169]. Both LNA
+and 2’-O-Methyl modified anti-miR-21 showed effective inhibition of miR-21 in glioblastoma cells leading
+to induction of apoptotic signaling [170]. The phosphorothioate or phosphodiester linkage increases stability against serum exonucleases while the 2’-Fluoro and
+the 2’-O-methyoxyethyl are other modifications that
+offer enhanced stability for in vivo [171, 172].
+LNA
+
+RNA
+
+H
+O
+
+H
+H
+
+H
+
+P
+
+HO
+
+OH
+
+P
+
+2' Methoxyethyl
+Base
+
+O
+
+OH
+
+HO
+
+O
+
+H
+
+H
+
+H
+
+O
+
+P
+
+O
+
+O
+
+O
+
+OH
+
+HO
+
+O
+
+Base
+
+O
+H
+
+H
+
+H
+
+O
+
+Base
+
+OH
+
+H
+
+P
+
+S
+
+OH
+
+Base
+
+H
+O
+
+F
+
+P
+
+O
+
+OH
+
+Base
+O
+
+O
+
+H
+
+H
+
+H
+
+P
+O
+
+O
+
+F
+OH
+
+H
+
+H
+
+H
+O
+
+HO
+
+OH
+
+Phosphorothioate
+
+O
+
+F
+
+P
+
+F
+
+O
+
+Phosphodiester
+
+O
+
+H
+
+H
+
+O
+
+H
+
+O
+
+H
+
+H
+
+OH
+
+Base
+
+OH
+
+O
+
+H
+
+P
+
+2' Fluoro
+Base
+
+OH
+
+O
+
+H
+
+HO
+
+OH
+
+O
+
+2' O-Me
+
+O
+
+O
+
+O
+
+OH
+
+O
+
+OH
+
+Base
+O
+
+O
+
+H
+
+HO
+
+OH
+
+Base
+
+OH
+
+HO
+
+P
+
+in astrocytes and microglia. However, miRNA based
+therapy for neuropathology has not been well established despite significant advancements in understanding the miRNA roles in neuroinflammation. A number
+of hurdles are associated with administering miRNA
+therapeutics to the brain. Intracerebral infusions of
+miRNA therapeutics are highly invasive procedures
+wherein the risks outweigh the benefits. The presence
+of a vascular barrier such as the BBB complicates the
+process of delivery as it restricts the entry of therapeutic molecules. Several studies currently focus on developing synthetic agents for miRNA delivery to the
+brain. Polymer based routes of delivery to the brain
+depend on ionic interactions between the cationic
+polymer and the anionic backbone of the RNA strand
+which aid in the endocytosis of the complex into the
+cell [174]. In this context, cationic polymer polyethylenimines (PEI) are well characterized delivery vehicles that are endocytosed within the cell and release
+DNA or RNAi molecules to regulate gene expression
+[175]. Recently, miR-124a was successfully administered to the brain using modified PEI nanocarriers
+[176].
+
+F
+OH
+
+O
+
+Fig. (3). Modifications to the nucleic acid backbone to enhance stability include the Locked Nucleic Acid (LNA)
+structure and presence of a Methyl group (2’-OMe), Methyoxyethyl (2’ Methyoxyethyl) and fluoro (2’ Fluoro) modification at the 2’ position of the ribose moiety. Sulphur substitution of the oxygen atom in the phosphate linkage gives rise
+to the Phosphorothioate modification.
+
+For the last 10 years, miRNAs have been established as important regulators in various human diseases and miRNA based therapeutics have entered preclinical and clinical trials [173]. Considerable developments have been made in determining the roles of
+miRNAs in regulating inflammatory signaling cascades
+
+Dendrimers are a type of synthetic polymers with a
+well-defined architecture [177]. Poly (amidoamine)
+(PAMAM) dendrimers used to administer miR-21 and
+5-fluorouracil to glioblastoma cells, dramatically induced apoptosis and inhibited migration of glioma
+cells, indicating dendrimer based miRNA delivery as a
+viable delivery system [178]. In rodent models, intracerebroventricular infusion of antagomirs and mimics
+were carried out to modulate miRNA levels in astrocytes and microglia [93, 179]. In a mouse orthotopic
+xenograft model of neuroblastoma, silver nanoparticles
+conjugated to GD2 (cell surface antigen disialoganglioside) antibody targeted the pro-apoptotic miR-34a in
+the tumor, bringing about reduced tumor growth and
+increased apoptosis [180]. It is acknowledged that absence of cell specific delivery vehicles would mean that
+the miRNAs are taken up by more than one cell type
+and may lead to off target effects. Moreover, most of
+these in vivo studies fail to address critical questions
+regarding bioavailability of the miRNA and pharmacokinetic data regarding half-life of the miRNA complexes within the body. To study therapeutic efficiency
+of a miRNA in the brain, a number of studies utilize
+intracerebroventricular injections of miRNA mimics or
+inhibitors. However, such routes of delivery are highly
+invasive and given the delicate nature of the brain tissue, other routes like intranasal and intravenous injections must be explored for miRNA delivery to the
+brain.
+
+MicroRNAs: Key Players in Microglia and Astrocyte
+
+Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+3539
+
+Table 2. Summary of miRNAs used as therapeutic targets through different routes of delivery in animal models of
+CNS pathologies.
+MiRNAs
+deregulated
+
+Disease
+
+In vivo model
+
+Route of delivery
+
+Target
+(mRNA)
+
+Expression in
+body fluids
+
+miR-155
+
+stroke
+
+distal MCAO
+
+Intravenous injection [182]
+
+Rheb
+
+-
+
+MS
+
+EAE
+
+Tail vein injection- nanoparticle delivery
+system [102]
+
+SOD1G93A
+ALS
+Transgenic mice
+
+Sera
+
+Intraventricular osmotic pumps- inhibitors with phosphorothioate backbone
+and alternating 2′-MOE and 2′fluoro
+sugar modifications [109]
+
+Ship1
+
+-
+
+let-7f
+
+stroke
+
+MCAO
+
+Intracerebroventricular injection- LNA
+modified antagomirs [93]
+
+Igf-1
+
+serum and CSF
+[151]
+
+let-7c
+
+stroke
+
+MCAO
+
+Intracerebroventricular injection [91]
+
+Caspase-3
+
+Blood
+
+miR-124
+
+stroke
+
+MCAO
+
+Intracerebroventricular injection
+
+Plasma [183, 184]
+
+Chronic
+pain
+
+Spared nerve injury
+
+Intrathecal administration [128]
+
+-
+
+Multiple
+sclerosis
+
+Experimental
+autoencephalomyelitis
+
+Administration using liposome complexes of the mimics and inhibitors [26]
+
+Cebp-α
+
+Sera [185]
+
+Epilepsy
+
+Pilocarpine induced
+status epilepticus
+
+Intrahippocampal injections using cholesterol conjugated 2′-OMe phosphoramidites [75]
+
+Creb-1
+
+-
+
+Traumatic
+injury
+
+Spinal cord injury
+by transection of the
+C3 spinal cord segment and intraperitoneal injections
+
+Chitosan/miR-124 polyplex particles
+[186]
+
+stroke
+
+Rice–Vannucci
+hypoxia-ischemia
+model
+
+Intracranial and intravenous
+
+miR-210
+
+miR-203
+
+Epilepsy
+
+intracerebroventricular injection,
+
+Mouse chronic epilepsy
+
+CONCLUSIONS AND FUTURE DIRECTIONS
+The role of miRNAs in regulating astrocyte and microglia mediated neuroinflammation during neuropathologies has been summarized in this review. It has
+been well established that miRNAs regulate expression
+of genes involved in various signaling pathways in glial
+cells contributing to neuroinflammation. Disrupting
+these signaling cascades can be achieved by overexpression or inhibition of miRNAs (Table 2), thereby
+directing glial cells to a neuroprotective phenotype engaged in repair and restoration of CNS. In recent years,
+several studies focused on the interaction of miRNAs
+with their target transcriptome to understand the molecular mechanism of disease progression.
+
+intranasal [188]
+Intranasal [189]
+
+Plasma [187]
+
+Glucocorticoid receptor
+
+-
+
+Glycine receptor-β
+(Glrb)
+
+[76, 190]
+
+There is ample evidence that miRNAs have an intricate role during neurodevelopment, healthy brain function and in neuropathologies. In particular, several
+mRNAs have been shown to regulate key inflammatory
+pathways in both microglia and astrocytes, thereby
+proving to be ideal targets for miRNA centered therapeutics and biomarker discovery for neuroinflammatory diseases. Profiling miRNAs in body fluids such as
+blood and CSF will establish a biomarker catalogue
+that may help diagnosis and prognosis of CNS disorders. Although miRNA therapy holds great promise,
+ensuring cell specific delivery of miRNAs in the brain
+in vivo remains challenging. Unlike gene therapy,
+which appears to be a better therapeutic option as it
+
+3540 Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+allows targeted expression of transgene in a specific
+cell type, miRNA-centered therapy is complex as one
+signaling pathway is targeted by many miRNAs. The
+advantage is that the miRNA–based therapy is reversible as both inhibitors and mimics can be characterized,
+some even being in clinical trials for the treatment of
+cancer [181]. Developing therapies involving miRNA
+cocktails and combinatory miRNA-gene therapy will
+have immense potential and would open new avenues
+to personalized medicine for the treatment of neurological diseases. It is of clinical importance for future
+studies to address this gap in knowledge in order to use
+miRNAs as therapeutic strategies.
+
+Karthikeyan et al.
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+CONFLICT OF INTEREST
+
+[14]
+
+The authors confirm that this article content has no
+conflict of interest.
+
+[15]
+[16]
+
+ACKNOWLEDGEMENTS
+The first author, Ms. Aparna Karthikeyan is supported by the NUS Research scholarship and the
+authors would like to acknowledge the funding provided by Ministry of Education (MOE) Academic Research Fund (AcRF) Tier-1 Grant (WBS No: R-181000-153-112).
+REFERENCES
+[1]
+[2]
+
+[3]
+
+[4]
+
+[5]
+[6]
+[7]
+[8]
+[9]
+
+Halassa, M.M.; Fellin, T.; Haydon, P.G. The tripartite synapse: roles for gliotransmission in health and disease.
+Trends Mol. Med., 2007, 13(2), 54-63.
+Paolicelli, R.C.; Bolasco, G.; Pagani, F.; Maggi, L.;
+Scianni, M.; Panzanelli, P.; Giustetto, M.; Ferreira, T.A.;
+Guiducci, E.; Dumas, L.; Ragozzino, D.; Gross, C.T. Synaptic pruning by microglia is necessary for normal brain
+development. Science, 2011, 333(6048), 1456-1458.
+Schafer, D.P.; Lehrman, E.K.; Kautzman, A.G.; Koyama,
+R.; Mardinly, A.R.; Yamasaki, R.; Ransohoff, R.M.;
+Greenberg, M.E.; Barres, B.A.; Stevens, B. Microglia sculpt
+postnatal neural circuits in an activity and complementdependent manner. Neuron, 2012, 74(4), 691-705.
+Wake, H.; Moorhouse, A.J.; Jinno, S.; Kohsaka, S.; Nabekura, J. Resting microglia directly monitor the functional
+state of synapses in vivo and determine the fate of ischemic
+terminals. J. Neurosci., 2009, 29(13), 3974-3980.
+Tremblay, M-E.; Stevens, B.; Sierra, A.; Wake, H.; Bessis,
+A.; Nimmerjahn, A. The role of microglia in the healthy
+brain. J. Neurosci., 2011, 31(45), 16064-16069.
+Perea, G.; Araque, A. Glial calcium signaling and neuronglia communication. Cell Calcium, 2005, 38(3-4), 375-382.
+Schafer, D.P.; Lehrman, E.K.; Stevens, B. The “quadpartite” synapse: microglia-synapse interactions in the developing and mature CNS. Glia, 2013, 61(1), 24-36.
+Norden, D.M.; Fenn, A.M.; Dugan, A.; Godbout, J.P. TGFβ
+produced by IL-10 redirected astrocytes attenuates microglial activation. Glia, 2014, 62(6), 881-895.
+Bezzi, P.; Domercq, M.; Brambilla, L.; Galli, R.; Schols,
+D.; De Clercq, E.; Vescovi, A.; Bagetta, G.; Kollias, G.;
+Meldolesi, J.; Volterra, A. CXCR4-activated astrocyte glu-
+
+[17]
+[18]
+[19]
+[20]
+
+[21]
+
+[22]
+
+[23]
+[24]
+[25]
+
+[26]
+
+[27]
+
+tamate release via TNFalpha: amplification by microglia
+triggers neurotoxicity. Nat. Neurosci., 2001, 4(7), 702-710.
+Luo, X.; Tai, W.L.; Sun, L.; Pan, Z.; Xia, Z.; Chung, S.K.;
+Cheung, C.W. Crosstalk between astrocytic CXCL12 and
+microglial CXCR4 contributes to the development of neuropathic pain. Mol. Pain, 2016, 12, 12.
+Lian, H.; Litvinchuk, A.; Chiang, A.C.; Aithmitti, N.;
+Jankowsky, J.L.; Zheng, H. Astrocyte-microglia cross talk
+through complement activation modulates amyloid pathology in mouse models of Alzheimer’s disease. J. Neurosci.,
+2016, 36(2), 577-589.
+Shinozaki, Y.; Nomura, M.; Iwatsuki, K.; Moriyama, Y.;
+Gachet, C.; Koizumi, S. Microglia trigger astrocytemediated neuroprotection via purinergic gliotransmission.
+Sci. Rep., 2014, 4, 4329.
+Farina, C.; Aloisi, F.; Meinl, E. Astrocytes are active players in cerebral innate immunity. Trends Immunol., 2007,
+28(3), 138-145.
+Rivest, S. Regulation of innate immune responses in the
+brain. Nat. Rev. Immunol., 2009, 9(6), 429-439.
+Aloisi, F. Immune function of microglia. Glia, 2001, 36(2),
+165-179.
+Eikelenboom, P.; Veerhuis, R.; Scheper, W.; Rozemuller,
+A.J.; van Gool, W.A.; Hoozemans, J.J. The significance of
+neuroinflammation in understanding Alzheimer’s disease. J
+Neural Transm (Vienna), 2006, 113(11), 1685-1695.
+Frank-Cannon, T.C.; Alto, L.T.; McAlpine, F.E.; Tansey,
+M.G. Does neuroinflammation fan the flame in neurodegenerative diseases? Mol. Neurodegener., 2009, 4, 47.
+Dheen, S.T.; Kaur, C.; Ling, E-A. Microglial activation and
+its implications in the brain diseases. Curr. Med. Chem.,
+2007, 14(11), 1189-1197.
+Sofroniew, M.V. Molecular dissection of reactive astrogliosis and glial scar formation. Trends Neurosci., 2009, 32(12),
+638-647.
+Shih, C.H.; Lacagnina, M.; Leuer-Bisciotti, K.; Pröschel, C.
+Astroglial-derived periostin promotes axonal regeneration
+after spinal cord injury. J. Neurosci., 2014, 34(7), 24382443.
+Deng, L.X.; Hu, J.; Liu, N.; Wang, X.; Smith, G.M.; Wen,
+X.; Xu, X.M. GDNF modifies reactive astrogliosis allowing
+robust axonal regeneration through Schwann cell-seeded
+guidance channels after spinal cord injury. Exp. Neurol.,
+2011, 229(2), 238-250.
+Anderson, M.A.; Burda, J.E.; Ren, Y.; Ao, Y.; O’Shea,
+T.M.; Kawaguchi, R.; Coppola, G.; Khakh, B.S.; Deming,
+T.J.; Sofroniew, M.V. Astrocyte scar formation aids central
+nervous system axon regeneration. Nature, 2016,
+532(7598), 195-200.
+Bartel, D.P. MicroRNAs: target recognition and regulatory
+functions. Cell, 2009, 136(2), 215-233.
+O’Neill, L.A.; Sheedy, F.J.; McCoy, C.E. MicroRNAs: the
+fine-tuners of Toll-like receptor signalling. Nat. Rev. Immunol., 2011, 11(3), 163-175.
+Ponomarev, E.D.; Shriver, L.P.; Maresz, K.; Dittel, B.N.
+Microglial cell activation and proliferation precedes the onset of CNS autoimmunity. J. Neurosci. Res., 2005, 81(3),
+374-389.
+Ponomarev, E.D.; Veremeyko, T.; Barteneva, N.;
+Krichevsky, A.M.; Weiner, H.L. MicroRNA-124 promotes
+microglia quiescence and suppresses EAE by deactivating
+macrophages via the C/EBP-α-PU.1 pathway. Nat. Med.,
+2011, 17(1), 64-70.
+Neo, W.H.; Yap, K.; Lee, S.H.; Looi, L.S.; Khandelia, P.;
+Neo, S.X.; Makeyev, E.V.; Su, I.H. MicroRNA miR-124
+controls the choice between neuronal and astrocyte differentiation by fine-tuning Ezh2 expression. J. Biol. Chem.,
+2014, 289(30), 20788-20801.
+
+MicroRNAs: Key Players in Microglia and Astrocyte
+[28]
+
+[29]
+
+[30]
+
+[31]
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+[37]
+
+[38]
+[39]
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+Rao, V.T.; Ludwin, S.K.; Fuh, S.C.; Sawaya, R.; Moore,
+C.S.; Ho, M.K.; Bedell, B.J.; Sarnat, H.B.; Bar-Or, A.; Antel, J.P. MicroRNA expression patterns in human astrocytes
+in relation to anatomical location and age. J. Neuropathol.
+Exp. Neurol., 2016, 75(2), 156-166.
+Tao, J.; Wu, H.; Lin, Q.; Wei, W.; Lu, X-H.; Cantle, J.P.;
+Ao, Y.; Olsen, R.W.; Yang, X.W.; Mody, I.; Sofroniew,
+M.V.; Sun, Y.E. Deletion of astroglial Dicer causes noncell-autonomous neuronal dysfunction and degeneration. J.
+Neurosci., 2011, 31(22), 8306-8319.
+Li, X.; Chen, Y.; Chi, Q.; Hu, X.; Xu, X.; Zhang, Z.; Qiu,
+M.; Zheng, K. miRNAs are required for the terminal differentiation of white matter astrocytes in the developing CNS.
+Neuroscience, 2016, 312, 99-107.
+Li, W.; Li, G.; Steiner, J.; Nath, A. Role of Tat protein in
+HIV neuropathogenesis. Neurotox. Res., 2009, 16(3), 205220.
+Hu, G.; Yao, H.; Chaudhuri, A.D.; Duan, M.; Yelamanchili,
+S.V.; Wen, H.; Cheney, P.D.; Fox, H.S.; Buch, S. Exosomemediated shuttling of microRNA-29 regulates HIV Tat and
+morphine-mediated neuronal dysfunction. Cell Death Dis.,
+2012, 3, e381.
+Jadhav, V.S.; Krause, K-H.; Singh, S.K. HIV-1 Tat C
+modulates NOX2 and NOX4 expressions through miR-17
+in a human microglial cell line. J. Neurochem., 2014,
+131(6), 803-815.
+Mishra, R.; Chhatbar, C.; Singh, S.K. HIV-1 Tat Cmediated regulation of tumor necrosis factor receptorassociated factor-3 by microRNA 32 in human microglia. J.
+Neuroinflammation, 2012, 9, 131.
+Sardo, L.; Vakil, P.R.; Elbezanti, W.; El-Sayed, A.; Klase,
+Z. The inhibition of microRNAs by HIV-1 Tat suppresses
+beta catenin activity in astrocytes. Retrovirology, 2016, 13,
+25.
+Bennasser, Y.; Jeang, K.T. HIV-1 Tat interaction with
+Dicer: requirement for RNA. Retrovirology, 2006, 3, 95.
+Saba, R.; Gushue, S.; Huzarewich, R.L.; Manguiat, K.;
+Medina, S.; Robertson, C.; Booth, S.A. MicroRNA 146a
+(miR-146a) is over-expressed during prion disease and
+modulates the innate immune response and the microglial
+activation state. PLoS One, 2012, 7(2), e30832.
+Saba, R.; Sorensen, D.L.; Booth, S.A. MicroRNA-146a: A
+dominant, negative regulator of the innate immune response. Front. Immunol., 2014, 5, 578.
+Ghosh, D.; Basu, A. Japanese encephalitis-a pathological
+and clinical perspective. PLoS Negl. Trop. Dis., 2009, 3(9),
+e437.
+Ashraf, U.; Zhu, B.; Ye, J.; Wan, S.; Nie, Y.; Chen, Z.; Cui,
+M.; Wang, C.; Duan, X.; Zhang, H.; Chen, H.; Cao, S. MicroRNA-19b-3p modulates japanese encephalitis virusmediated inflammation via targeting RNF11. J. Virol.,
+2016, 90(9), 4780-4795.
+Zhu, B.; Ye, J.; Nie, Y.; Ashraf, U.; Zohaib, A.; Duan, X.;
+Fu, Z.F.; Song, Y.; Chen, H.; Cao, S. MicroRNA-15b
+modulates japanese encephalitis virus-mediated inflammation via targeting RNF125. J. Immunol., 2015, 195(5),
+2251-2262.
+Thounaojam, M.C.; Kaushik, D.K.; Kundu, K.; Basu, A.
+MicroRNA-29b modulates Japanese encephalitis virusinduced microglia activation by targeting tumor necrosis
+factor alpha-induced protein 3. J. Neurochem., 2014,
+129(1), 143-154.
+Thounaojam, M.C.; Kundu, K.; Kaushik, D.K.; Swaroop,
+S.; Mahadevan, A.; Shankar, S.K.; Basu, A. MicroRNA 155
+regulates Japanese encephalitis virus-induced inflammatory
+response by targeting Src homology 2-containing inositol
+phosphatase 1. J. Virol., 2014, 88(9), 4798-4810.
+
+Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+[44]
+[45]
+[46]
+
+[47]
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+3541
+
+Ittner, L.M.; Götz, J. Amyloid-β and tau--a toxic pas de
+deux in Alzheimer’s disease. Nat. Rev. Neurosci., 2011,
+12(2), 65-72.
+Heppner, F.L.; Ransohoff, R.M.; Becher, B. Immune attack:
+the role of inflammation in Alzheimer disease. Nat. Rev.
+Neurosci., 2015, 16(6), 358-372.
+Cogswell, J.P.; Ward, J.; Taylor, I.A.; Waters, M.; Shi, Y.;
+Cannon, B.; Kelnar, K.; Kemppainen, J.; Brown, D.; Chen,
+C.; Prinjha, R.K.; Richardson, J.C.; Saunders, A.M.; Roses,
+A.D.; Richards, C.A. Identification of miRNA changes in
+Alzheimer’s disease brain and CSF yields putative biomarkers and insights into disease pathways. J. Alzheimers
+Dis., 2008, 14(1), 27-41.
+Lukiw, W.J. Micro-RNA speciation in fetal, adult and Alzheimer’s disease hippocampus. Neuroreport, 2007, 18(3),
+297-300.
+Sørensen, S.S.; Nygaard, A.B.; Christensen, T. miRNA
+expression profiles in cerebrospinal fluid and blood of patients with Alzheimer’s disease and other types of dementia
+- an exploratory study. Transl. Neurodegener., 2016, 5, 6.
+Guedes, J.R.; Santana, I.; Cunha, C.; Duro, D.; Almeida,
+M.R.; Cardoso, A.M.; de Lima, M.C.; Cardoso, A.L. MicroRNA deregulation and chemotaxis and phagocytosis impairment in Alzheimer’s disease. Alzheimers Dement
+(Amst), 2016, 3, 7-17.
+Alexandrov, P.N.; Dua, P.; Hill, J.M.; Bhattacharjee, S.;
+Zhao, Y.; Lukiw, W.J. microRNA (miRNA) speciation in
+Alzheimer’s disease (AD) cerebrospinal fluid (CSF) and extracellular fluid (ECF). Int. J. Biochem. Mol. Biol., 2012,
+3(4), 365-373.
+Wang, W.X.; Rajeev, B.W.; Stromberg, A.J.; Ren, N.;
+Tang, G.; Huang, Q.; Rigoutsos, I.; Nelson, P.T. The expression of microRNA miR-107 decreases early in Alzheimer’s disease and may accelerate disease progression
+through regulation of beta-site amyloid precursor proteincleaving enzyme 1. J. Neurosci., 2008, 28(5), 1213-1223.
+Wang, W.X.; Huang, Q.; Hu, Y.; Stromberg, A.J.; Nelson,
+P.T. Patterns of microRNA expression in normal and early
+Alzheimer’s disease human temporal cortex: white matter
+versus gray matter. Acta Neuropathol., 2011, 121(2), 193205.
+Lau, P.; Bossers, K.; Janky, R.; Salta, E.; Frigerio, C.S.;
+Barbash, S.; Rothman, R.; Sierksma, A.S.; Thathiah, A.;
+Greenberg, D.; Papadopoulou, A.S.; Achsel, T.; Ayoubi, T.;
+Soreq, H.; Verhaagen, J.; Swaab, D.F.; Aerts, S.; De
+Strooper, B. Alteration of the microRNA network during
+the progression of Alzheimer’s disease. EMBO Mol. Med.,
+2013, 5(10), 1613-1634.
+Ko, C-Y.; Chu, Y-Y.; Narumiya, S.; Chi, J-Y.; Furuyashiki,
+T.; Aoki, T.; Wang, S-M.; Chang, W-C.; Wang, J-M.
+CCAAT/enhancer-binding protein delta/miR135a/thrombospondin 1 axis mediates PGE2-induced angiogenesis in
+Alzheimer’s disease. Neurobiol. Aging, 2015, 36(3), 13561368.
+Gorina, R.; Font-Nieves, M.; Márquez-Kisinousky, L.; Santalucia, T.; Planas, A.M. Astrocyte TLR4 activation induces
+a proinflammatory environment through the interplay between MyD88-dependent NFκB signaling, MAPK, and
+Jak1/Stat1 pathways. Glia, 2011, 59(2), 242-255.
+Kitamura, Y.; Shimohama, S.; Ota, T.; Matsuoka, Y.; Nomura, Y.; Taniguchi, T. Alteration of transcription factors
+NF-kappaB and STAT1 in Alzheimer’s disease brains.
+Neurosci. Lett., 1997, 237(1), 17-20.
+Guedes, J.R.; Custódia, C.M.; Silva, R.J.; de Almeida, L.P.;
+Pedroso de Lima, M.C.; Cardoso, A.L. Early miR-155
+upregulation contributes to neuroinflammation in Alzheimer’s disease triple transgenic mouse model. Hum. Mol.
+Genet., 2014, 23(23), 6286-6301.
+
+3542 Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+
+Hickman, S.E.; Allison, E.K.; El Khoury, J. Microglial
+dysfunction and defective beta-amyloid clearance pathways
+in aging Alzheimer’s disease mice. J. Neurosci., 2008,
+28(33), 8354-8360.
+Zhao, Y.; Bhattacharjee, S.; Jones, B.M.; Dua, P.; Alexandrov, P.N.; Hill, J.M.; Lukiw, W.J. Regulation of TREM2
+expression by an NF-кB-sensitive miRNA-34a. Neuroreport, 2013, 24(6), 318-323.
+Farfara, D.; Trudler, D.; Segev-Amzaleg, N.; Galron, R.;
+Stein, R.; Frenkel, D. γ-Secretase component presenilin is
+important for microglia β-amyloid clearance. Ann. Neurol.,
+2011, 69(1), 170-180.
+Jayadev, S.; Case, A.; Alajajian, B.; Eastman, A.J.; Möller,
+T.; Garden, G.A. Presenilin 2 influences miR146 level and
+activity in microglia. J. Neurochem., 2013, 127(5), 592599.
+Li, C.; Zhao, R.; Gao, K.; Wei, Z.; Yin, M.Y.; Lau, L.T.;
+Chui, D.; Yu, A.C. Astrocytes: implications for neuroinflammatory pathogenesis of Alzheimer’s disease. Curr.
+Alzheimer Res., 2011, 8(1), 67-80.
+Pogue, A.I.; Cui, J.G.; Li, Y.Y.; Zhao, Y.; Culicchia, F.;
+Lukiw, W.J. Micro RNA-125b (miRNA-125b) function in
+astrogliosis and glial cell proliferation. Neurosci. Lett.,
+2010, 476(1), 18-22.
+Cui, J.G.; Li, Y.Y.; Zhao, Y.; Bhattacharjee, S.; Lukiw,
+W.J. Differential regulation of interleukin-1 receptorassociated kinase-1 (IRAK-1) and IRAK-2 by microRNA146a and NF-kappaB in stressed human astroglial cells and
+in Alzheimer disease. J. Biol. Chem., 2010, 285(50), 3895138960.
+Ringwood, L.; Li, L. The involvement of the interleukin-1
+receptor-associated kinases (IRAKs) in cellular signaling
+networks controlling inflammation. Cytokine, 2008, 42(1),
+1-7.
+Devinsky, O.; Vezzani, A.; Najjar, S.; De Lanerolle, N.C.;
+Rogawski, M.A. Glia and epilepsy: excitability and inflammation. Trends Neurosci., 2013, 36(3), 174-184.
+Foresti, M.L.; Arisi, G.M.; Shapiro, L.A. Role of glia in
+epilepsy-associated neuropathology, neuroinflammation and
+neurogenesis. Brain Res. Brain Res. Rev., 2011, 66(1-2),
+115-122.
+Kretschmann, A.; Danis, B.; Andonovic, L.; Abnaof, K.;
+van Rikxoort, M.; Siegel, F.; Mazzuferi, M.; Godard, P.;
+Hanon, E.; Fröhlich, H.; Kaminski, R.M.; Foerch, P.;
+Pfeifer, A. Different microRNA profiles in chronic epilepsy
+versus acute seizure mouse models. J. Mol. Neurosci.,
+2015, 55(2), 466-479.
+Jimenez-Mateos, E.M.; Bray, I.; Sanz-Rodriguez, A.; Engel,
+T.; McKiernan, R.C.; Mouri, G.; Tanaka, K.; Sano, T.;
+Saugstad, J.A.; Simon, R.P.; Stallings, R.L.; Henshall, D.C.
+miRNA Expression profile after status epilepticus and hippocampal neuroprotection by targeting miR-132. Am. J.
+Pathol., 2011, 179(5), 2519-2532.
+Gorter, J.A.; Iyer, A.; White, I.; Colzi, A.; van Vliet, E.A.;
+Sisodiya, S.; Aronica, E. Hippocampal subregion-specific
+microRNA expression during epileptogenesis in experimental temporal lobe epilepsy. Neurobiol. Dis., 2014, 62, 508520.
+Aronica, E.; Fluiter, K.; Iyer, A.; Zurolo, E.; Vreijling, J.;
+van Vliet, E.A.; Baayen, J.C.; Gorter, J.A. Expression pattern of miR-146a, an inflammation-associated microRNA,
+in experimental and human temporal lobe epilepsy. Eur. J.
+Neurosci., 2010, 31(6), 1100-1107.
+Omran, A.; Peng, J.; Zhang, C.; Xiang, Q.L.; Xue, J.; Gan,
+N.; Kong, H.; Yin, F. Interleukin-1β and microRNA-146a
+in an immature rat model and children with mesial temporal
+lobe epilepsy. Epilepsia, 2012, 53(7), 1215-1224.
+
+Karthikeyan et al.
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77]
+[78]
+[79]
+[80]
+[81]
+[82]
+
+[83]
+
+[84]
+[85]
+[86]
+
+[87]
+
+[88]
+
+[89]
+
+Peng, J.; Omran, A.; Ashhab, M.U.; Kong, H.; Gan, N.; He,
+F.; Yin, F. Expression patterns of miR-124, miR-134, miR132, and miR-21 in an immature rat model and children
+with mesial temporal lobe epilepsy. J. Mol. Neurosci.,
+2013, 50(2), 291-297.
+Brennan, G.P.; Dey, D.; Chen, Y.; Patterson, K.P.; Magnetta, E.J.; Hall, A.M.; Dube, C.M.; Mei, Y.T.; Baram, T.Z.
+Dual and opposing roles of microrna-124 in epilepsy are
+mediated through inflammatory and NRSF-dependent gene
+networks. Cell Reports, 2016, 14(10), 2402-2412.
+Wang, W.; Wang, X.; Chen, L.; Zhang, Y.; Xu, Z.; Liu, J.;
+Jiang, G.; Li, J.; Zhang, X.; Wang, K.; Wang, J.; Chen, G.;
+Luo, J. The microRNA miR-124 suppresses seizure activity
+and regulates CREB1 activity. Expert Rev. Mol. Med.,
+2016, 18, e4.
+Kan, A.A.; van Erp, S.; Derijck, A.A.; de Wit, M.; Hessel,
+E.V.; O’Duibhir, E.; de Jager, W.; Van Rijen, P.C.; Gosselaar, P.H.; de Graan, P.N.; Pasterkamp, R.J. Genome-wide
+microRNA profiling of human temporal lobe epilepsy identifies modulators of the immune response. Cell. Mol. Life
+Sci., 2012, 69(18), 3127-3145.
+Dietrich, J.B. The adhesion molecule ICAM-1 and its regulation in relation with the blood-brain barrier. J. Neuroimmunol., 2002, 128(1-2), 58-68.
+Sadowsky, C.; Volshteyn, O.; Schultz, L.; McDonald, J.W.
+Spinal cord injury. Disabil. Rehabil., 2002, 24(13), 680687.
+Karve, I.P.; Taylor, J.M.; Crack, P.J. The contribution of
+astrocytes and microglia to traumatic brain injury. Br. J.
+Pharmacol., 2015.
+Karimi-Abdolrezaee, S.; Billakanti, R. Reactive astrogliosis
+after spinal cord injury-beneficial and detrimental effects.
+Mol. Neurobiol., 2012, 46(2), 251-264.
+Wang, C-Y.; Yang, S-H.; Tzeng, S-F. MicroRNA-145 as
+one negative regulator of astrogliosis. Glia, 2015, 63(2),
+194-205.
+Bhalala, O.G.; Pan, L.; Sahni, V.; McGuire, T.L.; Gruner,
+K.; Tourtellotte, W.G.; Kessler, J.A. microRNA-21 regulates astrocytic response following spinal cord injury. J.
+Neurosci., 2012, 32(50), 17935-17947.
+Hong, P.; Jiang, M.; Li, H. Functional requirement of dicer1
+and miR-17-5p in reactive astrocyte proliferation after spinal cord injury in the mouse. Glia, 2014, 62(12), 20442060.
+Poungvarin, N. Stroke in the developing world. Lancet,
+1998, 352(Suppl SIII), 19-122.
+Hinkle, J.L.; Guanci, M.M. Acute ischemic stroke review.
+J. Neurosci. Nurs., 2007, 39(5), 285-293, 310.
+Berti, R.; Williams, A.J.; Moffett, J.R.; Hale, S.L.; Velarde,
+L.C.; Elliott, P.J.; Yao, C.; Dave, J.R.; Tortella, F.C. Quantitative real-time RT-PCR analysis of inflammatory gene
+expression associated with ischemia-reperfusion brain injury. J. Cereb. Blood Flow Metab., 2002, 22, 1068-1079.
+Kong, H.; Omran, A.; Ashhab, M.U.; Gan, N.; Peng, J.; He,
+F.; Wu, L.; Deng, X.; Yin, F. Changes in microglial inflammation-related and brain-enriched MicroRNAs expressions in response to in vitro oxygen-glucose deprivation.
+Neurochem. Res., 2014, 39(2), 233-243.
+Ziu, M.; Fletcher, L.; Rana, S.; Jimenez, D.F.; Digicaylioglu, M. Temporal differences in microRNA expression patterns in astrocytes and neurons after ischemic injury. PLoS
+One, 2011, 6(2), e14724.
+Yelamanchili, S.V.; Lamberty, B.G.; Rennard, D.A.;
+Morsey, B.M.; Hochfelder, C.G.; Meays, B.M.; Levy, E.;
+Fox, H.S. MiR-21 in Extracellular vesicles leads to neurotoxicity via TLR7 signaling in SIV neurological disease.
+PLoS Pathog., 2015, 11(7), e1005032.
+
+MicroRNAs: Key Players in Microglia and Astrocyte
+[90]
+
+[91]
+
+[92]
+
+[93]
+[94]
+
+[95]
+[96]
+
+[97]
+
+[98]
+
+[99]
+
+[100]
+
+[101]
+
+[102]
+
+[103]
+
+[104]
+[105]
+
+Banerjee, S.; Xie, N.; Cui, H.; Tan, Z.; Yang, S.; Icyuz, M.;
+Abraham, E.; Liu, G. MicroRNA let-7c regulates macrophage polarization. J. Immunol.. (Baltimore, Md. : 1950),
+2013, 190, 6542-6549.
+Ni, J.; Wang, X.; Chen, S.; Liu, H.; Wang, Y.; Xu, X.;
+Cheng, J.; Jia, J.; Zhen, X. MicroRNA let-7c-5p protects
+against cerebral ischemia injury via mechanisms involving
+the inhibition of microglia activation. Brain Behav. Immun.,
+2015, 49, 75-85.
+Zhao, H.; Wang, J.; Gao, L.; Wang, R.; Liu, X.; Gao, Z.;
+Tao, Z.; Xu, C.; Song, J.; Ji, X.; Luo, Y. MiRNA-424 protects against permanent focal cerebral ischemia injury in
+mice involving suppressing microglia activation. Stroke,
+2013, 44(6), 1706-1713.
+Selvamani, A.; Sathyan, P.; Miranda, R.C.; Sohrabji, F. An
+antagomir to microRNA Let7f promotes neuroprotection in
+an ischemic stroke model. PLoS One, 2012, 7(2), e32662.
+Gong, Z.; Zhao, S.; Zhang, J.; Xu, X.; Guan, W.; Jing, L.;
+Liu, P.; Lu, J.; Teng, J.; Peng, T.; Jia, Y. Initial research on
+the relationship between let-7 family members in the serum
+and massive cerebral infarction. J. Neurol. Sci., 2016, 361,
+150-157.
+Wingerchuk, D.M.; Lucchinetti, C.F.; Noseworthy, J.H.
+Multiple sclerosis: current pathophysiological concepts.
+Lab. Invest., 2001, 81(3), 263-281.
+Miron, V.E.; Boyd, A.; Zhao, J-W.; Yuen, T.J.; Ruckh,
+J.M.; Shadrach, J.L.; van Wijngaarden, P.; Wagers, A.J.;
+Williams, A.; Franklin, R.J.; ffrench-Constant, C. M2 microglia and macrophages drive oligodendrocyte differentiation during CNS remyelination. Nat. Neurosci., 2013, 16(9),
+1211-1218.
+Kotter, M.R.; Zhao, C.; van Rooijen, N.; Franklin, R.J.
+Macrophage-depletion induced impairment of experimental
+CNS remyelination is associated with a reduced oligodendrocyte progenitor cell response and altered growth factor
+expression. Neurobiol. Dis., 2005, 18(1), 166-175.
+Singh, S.; Metz, I.; Amor, S.; van der Valk, P.; Stadelmann,
+C.; Brück, W. Microglial nodules in early multiple sclerosis
+white matter are associated with degenerating axons. Acta
+Neuropathol., 2013, 125(4), 595-608.
+Liu, X.; He, F.; Pang, R.; Zhao, D.; Qiu, W.; Shan, K.;
+Zhang, J.; Lu, Y.; Li, Y.; Wang, Y. Interleukin-17 (IL-17)induced microRNA 873 (miR-873) contributes to the
+pathogenesis of experimental autoimmune encephalomyelitis by targeting A20 ubiquitin-editing enzyme. J. Biol.
+Chem., 2014, 289(42), 28971-28986.
+Junker, A.; Krumbholz, M.; Eisele, S.; Mohan, H.; Augstein, F.; Bittner, R.; Lassmann, H.; Wekerle, H.; Hohlfeld,
+R.; Meinl, E. MicroRNA profiling of multiple sclerosis lesions identifies modulators of the regulatory protein CD47.
+Brain, 2009, 132(Pt 12), 3342-3352.
+Jones, R.S.; Minogue, A.M.; Connor, T.J.; Lynch, M.A.
+Amyloid-β-induced astrocytic phagocytosis is mediated by
+CD36, CD47 and RAGE. J. Neuroimmune Pharmacol.,
+2013, 8(1), 301-311.
+Zhang, J.; Cheng, Y.; Cui, W.; Li, M.; Li, B.; Guo, L. MicroRNA-155 modulates Th1 and Th17 cell differentiation
+and is associated with multiple sclerosis and experimental
+autoimmune encephalomyelitis. J. Neuroimmunol., 2014,
+266(1-2), 56-63.
+Moore, C.S.; Rao, V.T.; Durafourt, B.A.; Bedell, B.J.;
+Ludwin, S.K.; Bar-Or, A.; Antel, J.P. miR-155 as a multiple
+sclerosis-relevant regulator of myeloid cell polarization.
+Ann. Neurol., 2013, 74(5), 709-720.
+Rowland, L.P.; Shneider, N.A. Amyotrophic lateral sclerosis. N. Engl. J. Med., 2001, 344(22), 1688-1700.
+Lasiene, J.; Yamanaka, K. Glial cells in amyotrophic lateral
+sclerosis. Neurol. Res. Int., 2011, 2011, 718987.
+
+Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+3543
+
+[106] Rosen, D.R.; Siddique, T.; Patterson, D.; Figlewicz, D.A.;
+Sapp, P.; Hentati, A.; Donaldson, D.; Goto, J.; O’Regan,
+J.P.; Deng, H.X. Mutations in Cu/Zn superoxide dismutase
+gene are associated with familial amyotrophic lateral sclerosis. Nature, 1993, 362(6415), 59-62.
+[107] Parisi, C.; Arisi, I.; D’Ambrosi, N.; Storti, A.E.; Brandi, R.;
+D’Onofrio, M.; Volonté, C. Dysregulated microRNAs in
+amyotrophic lateral sclerosis microglia modulate genes
+linked to neuroinflammation. Cell Death Dis., 2013, 4,
+e959.
+[108] Butovsky, O.; Jedrychowski, M.P.; Cialic, R.; Krasemann,
+S.; Murugaiyan, G.; Fanek, Z.; Greco, D.J.; Wu, P.M.;
+Doykan, C.E.; Kiner, O.; Lawson, R.J.; Frosch, M.P.; Pochet, N.; Fatimy, R.E.; Krichevsky, A.M.; Gygi, S.P.;
+Lassmann, H.; Berry, J.; Cudkowicz, M.E.; Weiner, H.L.
+Targeting miR-155 restores abnormal microglia and attenuates disease in SOD1 mice. Ann. Neurol., 2015, 77(1), 7599.
+[109] Koval, E.D.; Shaner, C.; Zhang, P.; du Maine, X.; Fischer,
+K.; Tay, J.; Chau, B.N.; Wu, G.F.; Miller, T.M. Method for
+widespread microRNA-155 inhibition prolongs survival in
+ALS-model mice. Hum. Mol. Genet., 2013, 22(20), 41274135.
+[110] Cardoso, A.L.; Guedes, J.R.; Pereira de Almeida, L.;
+Pedroso de Lima, M.C. miR-155 modulates microgliamediated immune response by down-regulating SOCS-1
+and promoting cytokine and nitric oxide production. Immunology, 2012, 135(1), 73-88.
+[111] Tarassishin, L.; Loudig, O.; Bauman, A.; Shafit-Zagardo,
+B.; Suh, H.S.; Lee, S.C. Interferon regulatory factor 3 inhibits astrocyte inflammatory gene expression through suppression of the proinflammatory miR-155 and miR-155.
+Glia, 2011, 59(12), 1911-1922.
+[112] Yao, H.; Ma, R.; Yang, L.; Hu, G.; Chen, X.; Duan, M.;
+Kook, Y.; Niu, F.; Liao, K.; Fu, M.; Hu, G.; Kolattukudy,
+P.; Buch, S. MiR-9 promotes microglial activation by targeting MCPIP1. Nat. Commun., 2014, 5, 4386.
+[113] Jadhav, S.P.; Kamath, S.P.; Choolani, M.; Lu, J.; Dheen,
+S.T. microRNA-200b modulates microglia-mediated neuroinflammation via the cJun/MAPK pathway. J. Neurochem., 2014, 130(3), 388-401.
+[114] Iyer, A.; Zurolo, E.; Prabowo, A.; Fluiter, K.; Spliet, W.G.;
+van Rijen, P.C.; Gorter, J.A.; Aronica, E. MicroRNA-146a:
+a key regulator of astrocyte-mediated inflammatory response. PLoS One, 2012, 7(9), e44789.
+[115] Ouyang, Y.B.; Lu, Y.; Yue, S.; Giffard, R.G. miR-181 targets multiple Bcl-2 family members and influences apoptosis and mitochondrial function in astrocytes. Mitochondrion, 2012, 12(2), 213-219.
+[116] Zhang, L.; Li, Y.J.; Wu, X.Y.; Hong, Z.; Wei, W.S. MicroRNA-181c negatively regulates the inflammatory response in oxygen-glucose-deprived microglia by targeting
+Toll-like receptor 4. J. Neurochem., 2015, 132(6), 713-723.
+[117] Hutchison, E.R.; Kawamoto, E.M.; Taub, D.D.; Lal, A.;
+Abdelmohsen, K.; Zhang, Y.; Wood, W.H., III; Lehrmann,
+E.; Camandola, S.; Becker, K.G.; Gorospe, M.; Mattson,
+M.P. Evidence for miR-181 involvement in neuroinflammatory responses of astrocytes. Glia, 2013, 61(7), 1018-1028.
+[118] Zhang, L.; Dong, L-Y.; Li, Y-J.; Hong, Z.; Wei, W-S. The
+microRNA miR-181c controls microglia-mediated neuronal
+apoptosis by suppressing tumor necrosis factor. J. Neuroinflammation, 2012, 9, 211.
+[119] Kobayashi, K.; Imagama, S.; Ohgomori, T.; Hirano, K.;
+Uchimura, K.; Sakamoto, K.; Hirakawa, A.; Takeuchi, H.;
+Suzumura, A.; Ishiguro, N.; Kadomatsu, K. Minocycline selectively inhibits M1 polarization of microglia. Cell Death
+Dis., 2013, 4, e525.
+
+3544 Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+[120] Jang, E.; Kim, J.H.; Lee, S.; Kim, J.H.; Seo, J.W.; Jin, M.;
+Lee, M.G.; Jang, I.S.; Lee, W.H.; Suk, K. Phenotypic polarization of activated astrocytes: the critical role of
+lipocalin-2 in the classical inflammatory activation of astrocytes. J. Immunol., 2013, 191(10), 5204-5219.
+[121] Mor, E.; Cabilly, Y.; Goldshmit, Y.; Zalts, H.; Modai, S.;
+Edry, L.; Elroy-Stein, O.; Shomron, N. Species-specific microRNA roles elucidated following astrocyte activation.
+Nucleic Acids Res., 2011, 39(9), 3710-3723.
+[122] Kroner, A.; Greenhalgh, A.D.; Zarruk, J.G.; Passos Dos
+Santos, R.; Gaestel, M.; David, S. TNF and increased intracellular iron alter macrophage polarization to a detrimental
+M1 phenotype in the injured spinal cord. Neuron, 2014,
+83(5), 1098-1116.
+[123] Xu, Y.; Qian, L.; Zong, G.; Ma, K.; Zhu, X.; Zhang, H.; Li,
+N.; Yang, Q.; Bai, H.; Ben, J.; Li, X.; Xu, Y.; Chen, Q.
+Class A scavenger receptor promotes cerebral ischemic injury by pivoting microglia/macrophage polarization. Neuroscience, 2012, 218, 35-48.
+[124] Tang, Z.; Gan, Y.; Liu, Q.; Yin, J-X.; Liu, Q.; Shi, J.; Shi,
+F-D. CX3CR1 deficiency suppresses activation and neurotoxicity of microglia/macrophage in experimental ischemic
+stroke. J. Neuroinflammation, 2014, 11(1), 26.
+[125] Zhao, X.; Wang, H.; Sun, G.; Zhang, J.; Edwards, N.J.;
+Aronowski, J. Neuronal interleukin-4 as a modulator of microglial pathways and ischemic brain damage. J. Neurosci.,
+2015, 35(32), 11281-11291.
+[126] Zhou, X.; Spittau, B.; Krieglstein, K. TGFβ signalling plays
+an important role in IL4-induced alternative activation of
+microglia. J. Neuroinflammation, 2012, 9(1), 210.
+[127] Freilich, R.W.; Woodbury, M.E.; Ikezu, T. Integrated expression profiles of mRNA and miRNA in polarized primary murine microglia. PLoS One, 2013, 8(11), e79416.
+[128] Willemen, H.L.; Huo, X-J.; Mao-Ying, Q-L.; Zijlstra, J.;
+Heijnen, C.J.; Kavelaars, A. MicroRNA-124 as a novel
+treatment for persistent hyperalgesia. J. Neuroinflammation,
+2012, 9, 143.
+[129] Gabrusiewicz, K.; Rodriguez, B.; Wei, J.; Hashimoto, Y.;
+Healy, L.M.; Maiti, S.N.; Thomas, G.; Zhou, S.; Wang, Q.;
+Elakkad, A.; Liebelt, B.D.; Yaghi, N.K.; Ezhilarasan, R.;
+Huang, N.; Weinberg, J.S.; Prabhu, S.S.; Rao, G.; Sawaya,
+R.; Langford, L.A.; Bruner, J.M.; Fuller, G.N.; Bar-Or, A.;
+Li, W.; Colen, R.R.; Curran, M.A.; Bhat, K.P.; Antel, J.P.;
+Cooper, L.J.; Sulman, E.P.; Heimberger, A.B. Glioblastoma-infiltrated innate immune cells resemble M0 macrophage phenotype. JCI Insight, 2016, 1(2), pii: e85841.
+[130] Szulzewsky, F.; Pelz, A.; Feng, X.; Synowitz, M.; Markovic, D.; Langmann, T.; Holtman, I.R.; Wang, X.; Eggen,
+B.J.; Boddeke, H.W.; Hambardzumyan, D.; Wolf, S.A.;
+Kettenmann, H. Glioma-associated microglia/macrophages
+display an expression profile different from M1 and M2 polarization and highly express Gpnmb and Spp1. PLoS One,
+2015, 10(2), e0116644.
+[131] Komohara, Y.; Ohnishi, K.; Kuratsu, J.; Takeya, M. Possible involvement of the M2 anti-inflammatory macrophage
+phenotype in growth of human gliomas. J. Pathol., 2008,
+216(1), 15-24.
+[132] Ellert-Miklaszewska, A.; Dabrowski, M.; Lipko, M.; Sliwa,
+M.; Maleszewska, M.; Kaminska, B. Molecular definition
+of the pro-tumorigenic phenotype of glioma-activated microglia. Glia, 2013, 61(7), 1178-1190.
+[133] Gabrusiewicz, K.; Ellert-Miklaszewska, A.; Lipko, M.;
+Sielska, M.; Frankowska, M.; Kaminska, B. Characteristics
+of the alternative phenotype of microglia/macrophages and
+its modulation in experimental gliomas. PLoS One, 2011,
+6(8), e23902.
+[134] Valadi, H.; Ekström, K.; Bossios, A.; Sjöstrand, M.; Lee,
+J.J.; Lötvall, J.O. Exosome-mediated transfer of mRNAs
+
+Karthikeyan et al.
+
+[135]
+[136]
+
+[137]
+[138]
+
+[139]
+
+[140]
+
+[141]
+
+[142]
+
+[143]
+
+[144]
+
+[145]
+
+[146]
+
+[147]
+
+[148]
+
+and microRNAs is a novel mechanism of genetic exchange
+between cells. Nat. Cell Biol., 2007, 9(6), 654-659.
+Zhao, Y.; Alexandrov, P.N.; Lukiw, W.J. Anti-microRNAs
+as novel therapeutic agents in the clinical management of
+Alzheimer’s disease. Front. Neurosci., 2016, 10, 59.
+Cheng, L.; Doecke, J.D.; Sharples, R.A.; Villemagne, V.L.;
+Fowler, C.J.; Rembach, A.; Martins, R.N.; Rowe, C.C.;
+Macaulay, S.L.; Masters, C.L.; Hill, A.F. Prognostic serum
+miRNA biomarkers associated with Alzheimer’s disease
+shows concordance with neuropsychological and neuroimaging assessment. Mol. Psychiatry, 2015, 20(10), 11881196.
+Geekiyanage, H.; Jicha, G.A.; Nelson, P.T.; Chan, C. Blood
+serum miRNA: non-invasive biomarkers for Alzheimer’s
+disease. Exp. Neurol., 2012, 235(2), 491-496.
+Tan, L.; Yu, J.T.; Tan, M.S.; Liu, Q.Y.; Wang, H.F.; Zhang,
+W.; Jiang, T.; Tan, L. Genome-wide serum microRNA expression profiling identifies serum biomarkers for Alzheimer’s disease. J. Alzheimers Dis., 2014, 40(4), 10171027.
+Liu, Y.; Zhang, J.; Han, R.; Liu, H.; Sun, D.; Liu, X. Downregulation of serum brain specific microRNA is associated
+with inflammation and infarct volume in acute ischemic
+stroke. J. Clin. Neurosci., 2015, 22(2), 291-295.
+Sørensen, S.S.; Nygaard, A-B.; Nielsen, M-Y.; Jensen, K.;
+Christensen, T. miRNA expression profiles in cerebrospinal
+fluid and blood of patients with acute ischemic stroke.
+Transl. Stroke Res., 2014, 5(6), 711-718.
+Li, P.; Teng, F.; Gao, F.; Zhang, M.; Wu, J.; Zhang, C.
+Identification of circulating microRNAs as potential biomarkers for detecting acute ischemic stroke. Cell. Mol.
+Neurobiol., 2015, 35(3), 433-447.
+Hoss, A.G.; Lagomarsino, V.N.; Frank, S.; Hadzi, T.C.;
+Myers, R.H.; Latourelle, J.C. Study of plasma-derived
+miRNAs mimic differences in Huntington’s disease brain.
+Mov. Disord., 2015, 30(14), 1961-1964.
+Díez-Planelles, C.; Sánchez-Lozano, P.; Crespo, M.C.; GilZamorano, J.; Ribacoba, R.; González, N.; Suárez, E.;
+Martínez-Descals, A.; Martínez-Camblor, P.; Álvarez, V.;
+Martín-Hernández, R.; Huerta-Ruíz, I.; González-García, I.;
+Cosgaya, J.M.; Visioli, F.; Dávalos, A.; Iglesias-Gutiérrez,
+E.; Tomás-Zapico, C. Circulating microRNAs in
+Huntington’s disease: Emerging mediators in metabolic impairment. Pharmacol. Res., 2016, 108, 102-110.
+Sun, X.Y.; Zhang, J.; Niu, W.; Guo, W.; Song, H.T.; Li,
+H.Y.; Fan, H.M.; Zhao, L.; Zhong, A.F.; Dai, Y.H.; Guo,
+Z.M.; Zhang, L.Y.; Lu, J.; Zhang, Q.L. A preliminary
+analysis of microRNA as potential clinical biomarker for
+schizophrenia. Am. J. Med. Genet. B. Neuropsychiatr.
+Genet., 2015, 168B(3), 170-178.
+Zhang, Y.; Cheng, L.; Chen, Y.; Yang, G.Y.; Liu, J.; Zeng,
+L. Clinical predictor and circulating microRNA profile expression in patients with early onset post-stroke depression.
+J. Affect. Disord., 2016, 193, 51-58.
+Gandhi, R.; Healy, B.; Gholipour, T.; Egorova, S.; Musallam, A.; Hussain, M.S.; Nejad, P.; Patel, B.; Hei, H.;
+Khoury, S.; Quintana, F.; Kivisakk, P.; Chitnis, T.; Weiner,
+H.L. Circulating microRNAs as biomarkers for disease
+staging in multiple sclerosis. Ann. Neurol., 2013, 73(6),
+729-740.
+Guerau-de-Arellano, M.; Alder, H.; Ozer, H.G.; LovettRacke, A.; Racke, M.K. miRNA profiling for biomarker
+discovery in multiple sclerosis: from microarray to deep sequencing. J. Neuroimmunol., 2012, 248(1-2), 32-39.
+Benigni, M.; Ricci, C.; Jones, A.R.; Giannini, F.; AlChalabi, A.; Battistini, S. Identification of miRNAs as potential biomarkers in cerebrospinal fluid from amyotrophic
+lateral sclerosis patients. Neuromolecular Med., 2016.
+
+MicroRNAs: Key Players in Microglia and Astrocyte
+
+Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+[149] Takahashi, I.; Hama, Y.; Matsushima, M.; Hirotani, M.;
+Kano, T.; Hohzen, H.; Yabe, I.; Utsumi, J.; Sasaki, H. Identification of plasma microRNAs as a biomarker of sporadic
+Amyotrophic Lateral Sclerosis. Mol. Brain, 2015, 8(1), 67.
+[150] Khoo, S.K.; Petillo, D.; Kang, U.J.; Resau, J.H.; Berryhill,
+B.; Linder, J.; Forsgren, L.; Neuman, L.A.; Tan, A.C.
+Plasma-based circulating MicroRNA biomarkers for Parkinson’s disease. J. Parkinsons Dis., 2012, 2(4), 321-331.
+[151] Peng, G.; Yuan, Y.; Wu, S.; He, F.; Hu, Y.; Luo, B. MicroRNA let-7e is a potential circulating biomarker of acute
+stage ischemic stroke. Transl. Stroke Res., 2015, 6(6), 437445.
+[152] Balakathiresan, N.; Bhomia, M.; Chandran, R.; Chavko, M.;
+McCarron, R.M.; Maheshwari, R.K. MicroRNA let-7i is a
+promising serum biomarker for blast-induced traumatic
+brain injury. J. Neurotrauma, 2012, 29(7), 1379-1387.
+[153] Li, Y.Y.; Cui, J.G.; Dua, P.; Pogue, A.I.; Bhattacharjee, S.;
+Lukiw, W.J. Differential expression of miRNA-146aregulated inflammatory genes in human primary neural, astroglial and microglial cells. Neurosci. Lett., 2011, 499(2),
+109-113.
+[154] Lukiw, W.J.; Zhao, Y.; Cui, J.G. An NF-kappaB-sensitive
+micro RNA-146a-mediated inflammatory circuit in Alzheimer disease and in stressed human brain cells. J. Biol.
+Chem., 2008, 283(46), 31315-31322.
+[155] Denk, J.; Boelmans, K.; Siegismund, C.; Lassner, D.; Arlt,
+S.; Jahn, H. MicroRNA profiling of CSF reveals potential
+biomarkers to detect alzheimer‘s disease. PLoS One, 2015,
+10(5), e0126423.
+[156] Kiko, T.; Nakagawa, K.; Tsuduki, T.; Furukawa, K.; Arai,
+H.; Miyazawa, T. MicroRNAs in plasma and cerebrospinal
+fluid as potential markers for Alzheimer’s disease. J. Alzheimers Dis., 2014, 39(2), 253-259.
+[157] Lu, J.; Getz, G.; Miska, E.A.; Alvarez-Saavedra, E.; Lamb,
+J.; Peck, D.; Sweet-Cordero, A.; Ebert, B.L.; Mak, R.H.;
+Ferrando, A.A.; Downing, J.R.; Jacks, T.; Horvitz, H.R.;
+Golub, T.R. MicroRNA expression profiles classify human
+cancers. Nature, 2005, 435(7043), 834-838.
+[158] du Rieu, M.C.; Torrisani, J.; Selves, J.; Al Saati, T.; Souque, A.; Dufresne, M.; Tsongalis, G.J.; Suriawinata, A.A.;
+Carrère, N.; Buscail, L.; Cordelier, P. MicroRNA-21 is induced early in pancreatic ductal adenocarcinoma precursor
+lesions. Clin. Chem., 2010, 56(4), 603-612.
+[159] Teplyuk, N.M.; Mollenhauer, B.; Gabriely, G.; Giese, A.;
+Kim, E.; Smolsky, M.; Kim, R.Y.; Saria, M.G.; Pastorino,
+S.; Kesari, S.; Krichevsky, A.M. MicroRNAs in cerebrospinal fluid identify glioblastoma and metastatic brain cancers
+and reflect disease activity. Neuro-oncol., 2012, 14(6), 689700.
+[160] Müller, M.; Jäkel, L.; Bruinsma, I.B.; Claassen, J.A.; Kuiperij, H.B.; Verbeek, M.M. microRNA-29a is a candidate
+biomarker for Alzheimer’s disease in cell-free cerebrospinal
+fluid. Mol. Neurobiol., 2016, 53(5), 2894-2899.
+[161] van Rooij, E.; Marshall, W.S.; Olson, E.N. Toward microRNA-based therapeutics for heart disease: the sense in
+antisense. Circ. Res., 2008, 103(9), 919-928.
+[162] Ebert, M.S.; Neilson, J.R.; Sharp, P.A. MicroRNA sponges:
+competitive inhibitors of small RNAs in mammalian cells.
+Nat. Methods, 2007, 4(9), 721-726.
+[163] Kota, J.; Chivukula, R.R.; Donnell, K.a.O.; Wentzel, E.a.;
+Chrystal, L.; Hwang, H.-W.; Chang, T.-C.; Vivekanandan,
+P.; Clark, K.R.; Mendell, J.R.; Mendell, J.T. Therapeutic
+delivery of miR-26a inhibits cancer cell proliferation and
+induces tumor-specific apoptosis. 2010, 137, 1005-1017.
+[164] Moshiri, F.; Callegari, E.; D’Abundo, L.; Corrà, F.; Lupini,
+L.; Sabbioni, S.; Negrini, M. Inhibiting the oncogenic mir221 by microRNA sponge: toward microRNA-based thera-
+
+peutics for hepatocellular carcinoma. Gastroenterol. Hepatol. Bed Bench, 2014, 7(1), 43-54.
+Bader, A.G.; Brown, D.; Winkler, M. The promise of microRNA replacement therapy. Cancer Res., 2010, 70(18),
+7027-7030.
+Esquela-Kerscher, A.; Trang, P.; Wiggins, J.F.; Patrawala,
+L.; Cheng, A.; Ford, L.; Weidhaas, J.B.; Brown, D.; Bader,
+A.G.; Slack, F.J. The let-7 microRNA reduces tumor
+growth in mouse models of lung cancer. Cell Cycle, 2008,
+7(6), 759-764.
+Trang, P.; Wiggins, J.F.; Daige, C.L.; Cho, C.; Omotola,
+M.; Brown, D.; Weidhaas, J.B.; Bader, A.G.; Slack, F.J.
+Systemic delivery of tumor suppressor microRNA mimics
+using a neutral lipid emulsion inhibits lung tumors in mice.
+Mol. Ther., 2011, 19(6), 1116-1122.
+Elmén, J.; Thonberg, H.; Ljungberg, K.; Frieden, M.;
+Westergaard, M.; Xu, Y.; Wahren, B.; Liang, Z.; Ørum, H.;
+Koch, T.; Wahlestedt, C. Locked nucleic acid (LNA) mediated improvements in siRNA stability and functionality.
+Nucleic Acids Res., 2005, 33(1), 439-447.
+Lennox, K.A.; Behlke, M.A. A direct comparison of antimicroRNA oligonucleotide potency. Pharm. Res., 2010,
+27(9), 1788-1799.
+Chan, J.A.; Krichevsky, A.M.; Kosik, K.S. MicroRNA-21
+is an antiapoptotic factor in human glioblastoma cells. Cancer Res., 2005, 65(14), 6029-6033.
+Krützfeldt, J.; Rajewsky, N.; Braich, R.; Rajeev, K.G.;
+Tuschl, T.; Manoharan, M.; Stoffel, M. Silencing of microRNAs in vivo with ‘antagomirs’. Nature, 2005,
+438(7068), 685-689.
+Czauderna, F.; Fechtner, M.; Dames, S.; Aygün, H.; Klippel, A.; Pronk, G.J.; Giese, K.; Kaufmann, J. Structural
+variations and stabilising modifications of synthetic siRNAs
+in mammalian cells. Nucleic Acids Res., 2003, 31(11),
+2705-2716.
+Broderick, J.A.; Zamore, P.D. MicroRNA therapeutics.
+Gene Ther., 2011, 18(12), 1104-1110.
+Molinaro, R.; Wolfram, J.; Federico, C.; Cilurzo, F.; Di
+Marzio, L.; Ventura, C.A.; Carafa, M.; Celia, C.; Fresta, M.
+Polyethylenimine and chitosan carriers for the delivery of
+RNA interference effectors. Expert Opin. Drug Deliv.,
+2013, 10(12), 1653-1668.
+Schäfer, J.; Höbel, S.; Bakowsky, U.; Aigner, A. Liposomepolyethylenimine complexes for enhanced DNA and siRNA
+delivery. Biomaterials, 2010, 31(26), 6892-6900.
+Hwang, D.W.; Son, S.; Jang, J.; Youn, H.; Lee, S.; Lee, D.;
+Lee, Y.S.; Jeong, J.M.; Kim, W.J.; Lee, D.S. A braintargeted rabies virus glycoprotein-disulfide linked PEI
+nanocarrier for delivery of neurogenic microRNA. Biomaterials, 2011, 32(21), 4968-4975.
+Liu, X.; Liu, C.; Catapano, C.V.; Peng, L.; Zhou, J.; Rocchi, P. Structurally flexible triethanolamine-core poly(amidoamine) dendrimers as effective nanovectors to deliver
+RNAi-based therapeutics. Biotechnol. Adv., 2014, 32(4),
+844-852.
+Ren, Y.; Kang, C.S.; Yuan, X.B.; Zhou, X.; Xu, P.; Han, L.;
+Wang, G.X.; Jia, Z.; Zhong, Y.; Yu, S.; Sheng, J.; Pu, P.Y.
+Co-delivery of as-miR-21 and 5-FU by poly(amidoamine)
+dendrimer attenuates human glioma cell growth in vitro. J.
+Biomater. Sci. Polym. Ed., 2010, 21(3), 303-314.
+Ouyang, Y-B.; Lu, Y.; Yue, S.; Xu, L-J.; Xiong, X-X.;
+White, R.E.; Sun, X.; Giffard, R.G. miR-181 regulates
+GRP78 and influences outcome from cerebral ischemia in
+vitro and in vivo. Neurobiol. Dis., 2012, 45(1), 555-563.
+Tivnan, A.; Orr, W.S.; Gubala, V.; Nooney, R.; Williams,
+D.E.; McDonagh, C.; Prenter, S.; Harvey, H.; DomingoFernández, R.; Bray, I.M.; Piskareva, O.; Ng, C.Y.; Lode,
+H.N.; Davidoff, A.M.; Stallings, R.L. Inhibition of neuro-
+
+[165]
+[166]
+
+[167]
+
+[168]
+
+[169]
+[170]
+[171]
+
+[172]
+
+[173]
+[174]
+
+[175]
+[176]
+
+[177]
+
+[178]
+
+[179]
+
+[180]
+
+3545
+
+3546 Current Medicinal Chemistry, 2016, Vol. 23, No. 30
+
+[181]
+[182]
+
+[183]
+
+[184]
+
+[185]
+[186]
+
+blastoma tumor growth by targeted delivery of microRNA34a using anti-disialoganglioside GD2 coated nanoparticles.
+PLoS One, 2012, 7(5), e38129.
+Bader, A.G. miR-34 - a microRNA replacement therapy is
+headed to the clinic. Front. Genet., 2012, 3, 120.
+Caballero-Garrido, E.; Pena-Philippides, J.C.; Lordkipanidze, T.; Bragin, D.; Yang, Y.; Erhardt, E.B.; Roitbak,
+T. In Vivo Inhibition of miR-155 Promotes Recovery after
+Experimental Mouse Stroke. J. Neurosci., 2015, 35(36),
+12446-12464.
+Jeyaseelan, K.; Lim, K.Y.; Armugam, A. MicroRNA expression in the blood and brain of rats subjected to transient
+focal ischemia by middle cerebral artery occlusion. Stroke,
+2008, 39(3), 959-966.
+Rainer, T.H.; Leung, L.Y.; Chan, C.P.; Leung, Y.K.;
+Abrigo, J.M.; Wang, D.; Graham, C.A. Plasma miR-124-3p
+and miR-16 concentrations as prognostic markers in acute
+stroke. Clin. Biochem., 2016, 49(9), 663-668.
+Vistbakka, J.; Elovaara, I.; Lehtimäki, T.; Hagman, S. Circulating microRNAs as biomarkers in progressive multiple
+sclerosis; Mult. Scler. J., 2016, p. 1352458516651141.
+Louw, A.M.; Kolar, M.K.; Novikova, L.N.; Kingham, P.J.;
+Wiberg, M.; Kjems, J.; Novikov, L.N. Chitosan polyplex
+mediated delivery of miRNA-124 reduces activation of mi-
+
+Karthikeyan et al.
+
+[187]
+
+[188]
+
+[189]
+
+[190]
+
+croglial cells in vitro and in rat models of spinal cord injury.
+Nanomedicine (Lond.), 2016, 12(3), 643-653.
+Laterza, O.F.; Lim, L.; Garrett-Engele, P.W.; Vlasakova,
+K.; Muniappa, N.; Tanaka, W.K.; Johnson, J.M.; Sina, J.F.;
+Fare, T.L.; Sistare, F.D.; Glaab, W.E. Plasma MicroRNAs
+as sensitive and specific biomarkers of tissue injury. Clin.
+Chem., 2009, 55(11), 1977-1983.
+Ma, Q.; Dasgupta, C.; Li, Y.; Bajwa, N.M.; Xiong, F.;
+Harding, B.; Hartman, R.; Zhang, L. Inhibition of microRNA-210 provides neuroprotection in hypoxic-ischemic
+brain injury in neonatal rats. Neurobiol. Dis., 2016, 89, 202212.
+Lee, S.T.; Jeon, D.; Chu, K.; Jung, K.H.; Moon, J.; Sunwoo,
+J.; Park, D.K.; Yang, H.; Park, J-H.; Kim, M.; Roh, J.K.;
+Lee, S.K. Inhibition of miR-203 reduces spontaneous recurrent seizures in mice. Mol. Neurobiol., 2016, [Epub ahead
+of print].
+Hu, K.; Xie, Y.Y.; Zhang, C.; Ouyang, D.S.; Long, H.Y.;
+Sun, D.N.; Long, L.L.; Feng, L.; Li, Y.; Xiao, B. MicroRNA expression profile of the hippocampus in a rat
+model of temporal lobe epilepsy and miR-34a-targeted neuroprotection against hippocampal neurone cell apoptosis
+post-status epilepticus. BMC Neurosci., 2012, 13(1), 115.
+
+

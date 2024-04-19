@@ -1,0 +1,893 @@
+Neurochemistry International 97 (2016) 26e33
+
+Contents lists available at ScienceDirect
+
+Neurochemistry International
+journal homepage: www.elsevier.com/locate/nci
+
+Negative regulation of microRNA-132 in expression of synaptic
+proteins in neuronal differentiation of embryonic neural stem cells
+Aya Yoshimura a, b, Tadahiro Numakawa a, c, *, Haruki Odaka a, d, Naoki Adachi a, e,
+Yoshitaka Tamai b, Hiroshi Kunugi a
+a
+
+Department of Mental Disorder Research, National Institute of Neuroscience, National Center of Neurology and Psychiatry (NCNP), Tokyo, Japan
+Division of Laboratory Animals Resources, National Institute of Neuroscience, NCNP, Tokyo, Japan
+Department of Cell Modulation, Institute of Molecular Embryology and Genetics, Kumamoto University, Kumamoto, Japan
+d
+Department of Life Science and Medical Bioscience, School of Advanced Science and Engineering, Waseda University, Tokyo, Japan
+e
+Department of Biomedical Chemistry, Kwansei Gakuin University, Sanda, Japan
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 19 November 2015
+Received in revised form
+7 April 2016
+Accepted 26 April 2016
+Available online 27 April 2016
+
+MicroRNAs (miRs) play important roles in neuronal differentiation, maturation, and synaptic function in
+the central nervous system. They have also been suggested to be implicated in the pathogenesis of
+neurodegenerative and psychiatric diseases. Although miR-132 is one of the well-studied brain-speciﬁc
+miRs, which regulates synaptic structure and function in the postnatal brain, its function in the prenatal
+brain is still unclear. Here, we investigated miR-132 function during differentiation of rat embryonic
+neural stem cells (eNSCs). We found that miR-132 expression signiﬁcantly increased during the fetal rat
+brain development and neural differentiation of eNSCs in vitro. Furthermore, miR-132 expression was
+increased during differentiation through MAPK/ERK1/2 pathway. Inhibition of ERK1/2 activation resulted
+in increased levels of synaptic proteins including PSD-95, GluR1 and synapsin I. Silencing of miR-132 also
+increased PSD-95 and GluR1. Considering that miR-132 increases synaptic proteins in differentiated
+cortical neurons, our result shows a novel function of miR-132 as a negative regulator for synaptic
+maturation in the neuronal differentiation of eNSCs.
+© 2016 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Embryonic neural stem cells
+Differentiation
+MAPK/ERK
+MicroRNA
+miR-132
+Synaptic proteins
+
+1. Introduction
+Neural stem cells (NSCs) have the ability of self-renewing and
+differentiating into neurons and glial cells (astrocytes and oligodendrocytes) in the developing and adult brain. MicroRNAs (miRs)
+are small (~22 nt) non-coding RNAs that act as post-translational
+regulators through target mRNA degradation and/or translational
+repression by binding to the 3’ untranslated region of mRNAs
+(Bartel, 2004). miRs are essential for developmental and physiological processes including cell apoptosis, differentiation and
+metabolism in animals and plants (Carrington and Ambros, 2003).
+The miRs studies in the developing brain and differentiating
+cultured embryonic NSCs (eNSCs) have demonstrated that brainenriched miRs are important regulators for neuronal
+
+* Corresponding author. Department of Mental Disorder Research, National
+Institute of Neuroscience, National Center of Neurology and Psychiatry (NCNP), 4-11 Ogawa-Higashi, Kodaira, Tokyo, 187-8502, Japan.
+E-mail address: numakawa.yyrmk@gmail.com (T. Numakawa).
+http://dx.doi.org/10.1016/j.neuint.2016.04.013
+0197-0186/© 2016 Elsevier Ltd. All rights reserved.
+
+differentiation (Krichevsky et al., 2003; Sempere et al., 2004; Miska
+et al., 2004; Smith et al., 2010; Kawahara et al., 2012; Meza-Sosa
+et al., 2014). Moreover miRs offer novel insights into brain-related
+disease research. Recently, the crucial roles of miRs are increasingly reported in the pathogenesis of neurodegenerative and psychiatric diseases (Im and Kenny, 2012; Rao et al., 2013).
+As a single microRNA can repress several targeting mRNAs,
+multiple functions of a miR has been shown, depending not only on
+cell types but also on spatial and temporal factors. For example, our
+group recently reported that glial miR-134 enhanced by bFGF
+positively regulated astroglial cell maturation (Numakawa et al.,
+2015). On the other hand, it was demonstrated that miR-134 targets Chordin-like 1 (Chrdl-1) and Doublecortin (Dcx) in the
+developing brain, and it has important roles in the stage-speciﬁc
+modulation of eNSC proliferation, neuron migration and neuronal
+differentiation via interacting with Chrdl-1 and Dcx (Gaughwin
+et al., 2011).
+In this study, to investigate further functions of miRs speciﬁcally
+expressed during fetal neurodevelopment, we investigated miRs
+
+A. Yoshimura et al. / Neurochemistry International 97 (2016) 26e33
+
+expression during differentiation of rat eNSCs in vitro. Among
+examined miRs, miR-132 showed the most dramatic increase during the differentiation into neuron from eNSCs. miR-132 is a wellstudied miR in the central nervous system (CNS). It functions in
+neurotrophin signaling pathway including brain-derived neurotrophic factor (BDNF) and enhances neurite outgrowth (Wanet
+et al., 2012). Interestingly, miR-132 has been implicated in
+depression disorder (Li et al., 2013) in addition to neurodegenerative disorders such as Alzheimer's disease (AD) (Wong et al., 2013)
+and Parkinson's disease (PD) (Lungu et al., 2013). Methyl-CpGbinding protein 2 (MeCP2), a transcriptional repressor, was reported as a target of miR-132 (Klein et al., 2007). Mutation in
+MeCP2 causes progressive neurological disorder Rett syndrome
+(RTT) in female as a result of deﬁcits in synaptic maturation.
+Whereas functions of miR-132 associated with postnatal CNS have
+been well studied, its role in the prenatal brain still uncertain. Here
+we examined the function and the induction mechanism of miR132 during neuronal differentiation of eNSCs in vitro. Our results
+suggested that miR-132 negatively regulated the expression of
+synaptic proteins in the neuronal maturation of eNSCs.
+2. Materials and methods
+2.1. Animals
+All animals used in this study were Wistar rats, and were treated
+according to the guidelines of the Animal Ethics Committee for the
+care and use of animals in the National Institute of Neuroscience,
+National Center of Neurology and Psychiatry, Japan. Brain samples
+for the quantitative PCR were harvested from embryonic stage day
+14.5 and 19.5 (E14.5 and E19.5) rats (CLEA JAPAN, Tokyo, Japan). The
+tissues were frozen in liquid nitrogen quickly and stored at 125  C
+until RNA extraction.
+2.2. Neural stem cell culture, differentiation, and transfection
+eNSCs were obtained from telencephalon tissues of E14.5 rats
+(Japan SLC, Shizuoka, Japan). Isolated eNSCs were maintained as
+neurospheres in proliferation medium, KBM neural stem cell
+(KOHJIN BIO, Saitama, Japan) with 0.2% KBM supplement containing EGF and bFGF (KOHJIN BIO), at 37  C in 5% CO2. After 4 days,
+these neurospheres were dissociated by trypsin (SigmaeAldrich,
+MO, USA), and cells were subsequently seeded onto tissue culture
+dishes pre-coated with 0.2% polyethyleneimine (PEI) (Wako, Osaka,
+Japan), with differentiation medium, KBM containing 2% B-27
+serum-free supplement containing vitamin A (Life technologies,
+CA, USA). Dissociated cells were plated at the density of
+6  105 cells/35 mm culture dish (Becton Dickinson, NJ, USA). For
+immunocytochemistry, 9.375  104 cells/0.2 mL were re-seeded on
+glass region of pre-coated glass-bottom dish (Matsunami, Osaka,
+Japan). The culture medium was changed at 3 days in vitro (DIV3).
+The differentiated eNSCs were treated with 10 mM U0126 (Millipore, MA, USA) at DIV3 to DIV7 to inhibit MAPK/ERK signaling
+pathway. To activate TrkB signaling pathways, 100 ng/mL BDNF
+(kindly gifted from Takeda Chemical Industries, Ltd., and Dainippon
+Sumitomo Pharma Co. Ltd.) was applied to the cells at DIV4 and 6,
+and 1 mg/mL TrkB-Fc chimeric protein (R&D Systems, MN, USA) was
+added daily during DIV3-7 to block endogenous BDNF/TrkBmediated signalings. The eNSCs differentiation was observed using an inverted microscope (IX71, OLYMPUS, Tokyo, Japan) with a
+microscope digital camera (DP21, OLYMPUS).
+miRNA mimics (50 nM) (ID: MC10166, Life technologies), or
+miRNA inhibitors (25 nM) (ID: MH10166, Life technologies) for
+miR-132 or each negative controls (NC) (Life technologies) were
+transfected into differentiating eNSCs at DIV3 using Lipofectamine
+
+27
+
+2000 or Lipofectamine RNAiMAX (Life technologies). After 6 h, the
+transfection medium was replaced with fresh differentiation medium to reduce cellular toxicity of the reagent, and the transfected
+cells were collected at DIV7.
+2.3. Rat primary cortical culture
+Primary cortical neurons were prepared from the cerebral cortex of postnatal 1e2 old (P1-2) rats (Japan SLC) as described previously (Numakawa et al., 2009). Primary neurons were maintained
+in DMEM/F12 (Life technologies) containing 5% fetal bovine serum,
+5% horse serum, and penicillin-streptomycin at 37  C in 5% CO2.
+U0126 (10 mM) treatment in the neuronal cell cultures was performed at DIV3 to DIV7.
+2.4. Immunocytochemistry
+eNSCs undergoing differentiation were ﬁxed with 4% paraformaldehyde in PBS for 20 min at room temperature. The ﬁxed
+cells were incubated with primary antibodies in blocking solution
+containing 0.2% Triton X-100 (SigmaeAldrich) and 10% FBS in PBS,
+overnight at 4  C. Triple staining was performed to estimate the
+degree of differentiation to neuron. Anti-nestin monoclonal antibody (1:1000, Millipore) was used as neural stem cell marker. The
+differentiation to neurons or glial cells was conﬁrmed by neuronal
+marker, anti-MAP2 monoclonal antibody (1:500, SigmaeAldrich),
+or astrocyte marker, anti-GFAP polyclonal antibody (1:1000,
+Abcam, Cambridge, UK). After three times wash by PBS, the cells
+were incubated with following secondary antibodies for 1 h at
+room temperature: Alexa Fluor 647 mouse IgG2A (1:200, Life
+technologies), Alexa Fluor 546 mouse IgG1 (1:2000, Life technologies) and Alexa Fluor 488 rabbit IgG (1:200, Life technologies).
+Furthermore, to conﬁrm the developmental maturation of the
+synapse during the cell differentiation, the cells at DIV7 were
+incubated with anti-PSD-95 monoclonal (1:500, Thermo Fisher
+Scientiﬁc, CA, USA), anti-synapsin I monoclonal (1:500, Synaptic
+Systems, Goettingen, Germany) and anti-bIII-tubulin (TUJ1) polyclonal (1:1000, SigmaeAldrich) antibodies followed by the incubation with secondary antibodies, Alexa Fluor 647 rabbit IgG
+(1:200, Life technologies), Alexa Fluor 546 mouse IgG1 (1:2000, Life
+technologies) and Alexa Fluor 488 mouse IgG2a (1:200, Life technologies). DAPI was also used to stain cell nuclei. The images were
+obtained using a ﬂuorescence microscopy (Axiovert 200, Carl Zeiss,
+Oberkochen, Germany).
+2.5. Immunoblotting
+For total protein extraction, cultured cells were lysed using sodium dodecyl sulfate (SDS) lysis buffer (1% SDS, 10 mM TriseHCl pH
+7.5, 5 mM EDTA, 10 mM Sodium Pyrophosphate, 10 mM NaF, 1 mM
+PMSF and 2 mM Na3VO4). The cell lysates were heated at 100  C for
+5 min and sonicated, then, the lysates were centrifuged and the
+supernatants were collected. Protein concentration was measured
+using Pierce BCA Protein Assay Kit (Life technologies).
+Total proteins were separated in 8% sodium dodecyl sulfate
+polyacrylamide gel electrophoresis (SDS-PAGE), and then transferred to Immobilon-P transfer membranes (Millipore). After
+blocking in 5% skim milk, membranes were incubated with primary
+mouse monoclonal antibodies for syntaxin (1:1000, SigmaeAldrich), TrkB (1:500, BD), TUJ1 (1:1000, Berkekey Antibody
+Company, CA, USA), and b-actin (1:5000, SigmaeAldrich) or primary rabbit polyclonal antibodies for DCX (1:2000, Cell Signaling
+Technology, MA, USA), GFAP (1:1000, Millipore), GluR1 (1:500,
+Millipore), PSD-95 (1:1000, Cell Signaling Technology), SOX1
+(1:1000, Cell Signaling Technology), SOX2 (1:1000, Abcam),
+
+28
+
+A. Yoshimura et al. / Neurochemistry International 97 (2016) 26e33
+
+synapsin I (1:1000, Millipore), anti-phospho-MAPK/ERK (1:1000,
+Cell Signaling Technology), anti-MAPK/ERK (1:1000, Cell Signaling
+Technology) and GAPDH (1:1000, Cell Signaling Technology).
+Membranes were subsequently incubated with peroxidaseconjugated anti-mouse IgG (1:1000, Jackson Immuno Research,
+PA, USA) or rabbit IgG secondary antibody (1:1000, Rockland, PA,
+USA) for 1 h at room temperature. The relative intensities of bands
+were quantiﬁed using Lane and Spot Analyzer soft ware (ATTO
+Corporation, Tokyo, Japan).
+2.6. RNA isolation and real-time quantitative PCR (qPCR)
+Total RNAs including mRNAs and small RNAs from brain tissues
+and cultured cells were extracted by mirVana™ miRNA Isolation Kit
+(Ambion, TX, USA). Complementary DNA (cDNA) for miRNAs was
+generated using TaqMan microRNA Reverse Transcription (RT) kit
+(Applied Biosystems, MA, USA) and SuperScript VILO cDNA synthesis kit (Life technologies) for mRNAs. The cDNA was subjected to
+StepOnePlus Real Time PCR System (Applied Biosystems) with
+TaqMan® MicroRNA Assays or TaqMan® Gene Expression Assays;
+miR-9 (ID: 000583, Life technologies), miR-124a (ID: 001182), miR132 (ID: 000457), miR-134 (ID: 001186), miR-206 (ID: 000510), and
+BDNF mRNA (ID: Rn02531976). The relative expression levels of
+RNAs were calculated by the DDCt method. MicroRNAs and BDNF
+mRNA levels were normalized to miR-16 (ID: 000391) and GAPDH
+(ID: 4352338E) levels, respectively.
+2.7. Statistical analysis
+The statistical differences were compared by the Student's t-test
+or one-way ANOVA with Bonferroni's post-hoc test in SPSS (SPSS
+Japan, Tokyo, Japan). A P-value of <0.05 was considered signiﬁcant.
+3. Results
+3.1. The expression of miRs in the developing fetal brain
+To investigate changes in miRs expression levels, we analyzed
+ﬁve miRs (miR-9, -124a, -132, -134 and -206) in the developing fetal
+brains by real-time qPCR. These miRs are suggested to be involved
+in psychiatric and/or neurological disorders (Mouillet-Richard
+et al., 2012; Lee et al., 2012; Rao et al., 2013). Total RNAs were
+isolated from the rat telencephalon (TE) at E14.5, cerebral cortex
+(CTX) and hippocampus (HIP) at E19.5. BDNF mRNA expression
+levels was increased, especially in HIP, with the growth of the fetal
+brain (P < 0.01) (Sup. Fig. 1A). miR-132 levels in CTX and HIP at
+E19.5 showed dramatic increase (nearly twentyfold) compared
+with TE at E14.5 (P < 0.05) (Fig. 1).
+3.2. eNSC in vitro and differentiation to neurons
+To investigate the mechanisms underlying the miRs expression
+changes observed in the fetal brain, we established an in vitro
+model for eNSCs differentiation. eNSCs obtained from E14.5 rat TE
+formed neurospheres in the presence of EGF and bFGF. Dissociated
+neurospheres were re-seeded and differentiated in EGF- and bFGFfree medium. After 7-days differentiation, the eNSCs developed
+neuronal morphology with long and branched neurites (Fig. 2A).
+The differentiated eNSCs showed decreased expression of nestin, a
+neural stem cell marker, and most cells differentiated into neuron
+(MAP2 only, 77.23%) while little population became astrocyte
+(GFAP only, 1.98%) (Fig. 2B and D). Synapses were observed by
+immunostaining with post- (PSD-95) and presynaptic (synapsin I)
+markers at DIV7 (Fig. 2C). Western blot analysis conﬁrmed
+decreasing expression of neural stem cell markers SOX1 and SOX2,
+
+and upregulation of neuron speciﬁc proteins DCX and TUJ1, presynaptic proteins (synapsin I and syntaxin), and postsynaptic proteins (GluR1 and PSD-95) during in vitro differentiation (Fig. 2E).
+3.3. Increased miR-132 expression required activation of MAPK/ERK
+pathway
+Using in vitro differentiation model for eNSCs, we examined the
+expression of ﬁve miRs (miR-9, -124a, -132, -134 and -206) by realtime qPCR. While miR-9 (data not shown) and miR-134 levels
+showed no signiﬁcant changes during the differentiation, ~30-fold
+elevated expression level of miR-132 was conﬁrmed (P < 0.001)
+(Fig. 2F). Both miR-124 and miR-206, showed a tendency to increase the expression at DIV4 and DIV3 to DIV7, respectively (data
+not shown).
+We previously reported that exogenous BDNF stimulated miR132 expression via MAPK/ERK1/2 pathway and subsequently
+upregulated synaptic proteins in cultured cortical neurons
+(Kawashima et al., 2010; Numakawa et al., 2011). To determine
+whether BDNF and MAPK/ERK pathway were involved in the
+upregulation of miR-132 and synaptic proteins in differentiating
+eNSCs, the relationships among BDNF, ERK1/2, and miR-132 were
+investigated. Interestingly, BDNF mRNA showed a similar expression pattern to miR-132 (Sup. Fig. 1B). BDNF receptor TrkB, leading
+to the activation of MAPK/ERK signaling, was increased from DIV4
+to 7 (Sup. Fig. 1C). ERK1/2 activity was transiently reduced at DIV3
+and increased again after DIV4 (Fig. 3A). When spontaneous ERK1/2
+activity was suppressed by 10 mM U0126 (an inhibitor of MAPK/ERK
+kinase) during DIV3-7 (Fig. 3B), miR-132 expression was dramatically reduced at DIV7 (Fig. 3C) and synaptic proteins including PSD95 (P < 0.05), GluR1 (P < 0.05) and synapsin I (P < 0.01) were
+signiﬁcantly increased (Fig. 3D). Immunostaining analysis with
+synaptic markers (PSD-95 and synapsin I), however, did not show a
+signiﬁcant difference in the number of synaptic sites after U0126
+treatment because of the variation in the number of synaptic
+puncta among neurites even in the same neuron (Fig. 3E). On the
+other hand, primary cortical neurons (already differentiated) did
+not show any miR-132 increase during neuronal maturation
+without exogenous BDNF (Sup. Fig. 2A), despite upregulation in
+ERK1/2 activation and synaptic proteins (PSD-95, synapsin I, and
+syntaxin) after DIV5 (Sup. Fig. 2B and C). In contrast to eNSCs,
+U0126 slightly reduced synaptic proteins such as PSD-95
+(P < 0.001) and synapsin I (P < 0.05) in cultured cortical neuron
+(Sup. Fig. 2D, E and F). To examine whether the elevation of miR132 during the eNSCs differentiation was regulated through
+MAPK/ERK1/2 activation by “endogenous” BDNF, a BDNF scavenger
+TrkB-Fc chimeric protein was used. Although TrkB-Fc treatment
+from DIV3 to 7 reduced ERK1/2 activation (Sup. Fig. 3A), it had no
+effect on the expression of miR-132 (Sup. Fig. 3B). Exogenous BDNF
+application also did not have a signiﬁcant effect on the miR-132
+expression although it signiﬁcantly induced ERK1/2 activation
+(Sup. Fig. 3C and D). These results suggested different regulatory
+systems for miR-132 expression in differentiating and differentiated neurons, and indicated that miR-132 in eNSCs negatively
+regulated synaptic proteins expression.
+3.4. Downregulation of synaptic proteins by miR-132 during
+differentiation of eNSCs
+We next determined miR-132 function in synaptic maturation of
+eNSCs. Transfection of miR-132 mimic at DIV3 decreased expression levels of synaptic proteins compared with negative controls, by
+13e20% in presynaptic proteins, synapsin I (P < 0.05) and syntaxin
+(P < 0.01), and 22e28% in postsynaptic proteins, PSD-95 (P < 0.05)
+and GluR1 (P < 0.01) (Fig. 4A). Cytoskeleton-associated proteins
+
+*
+
+Relative miR-206
+expression
+
+*
+
+Relative miR-134
+expression
+
+Relative miR-9
+expression
+Relative miR-132
+expression
+
+29
+
+Relative miR-124a
+expression
+
+A. Yoshimura et al. / Neurochemistry International 97 (2016) 26e33
+
+Fig. 1. Quantitative PCR analysis of miRs including miR-9, -124a, -132, -134 and -206 during rat prenatal brain development. The RNA samples were harvested from the telencephalon (TE) at embryonic stage day 14.5 (E14.5), cerebral cortex (CTX) and hippocampus (HIP) at E19.5 (n ¼ 3). Relative expression of each miR is normalized to miR-16, and error
+bars present SD. *P < 0.05 versus TE at E14.5 (t-test).
+
+(TUJ1 and b-actin) also showed a decreased expression while
+GAPDH, a house keeping gene, was unchanged. Conversely, miR132 inhibitor upregulated postsynaptic proteins PSD-95 and
+GluR1 (P < 0.05) while it did not change levels of presynaptic
+proteins including synapsin I, syntaxin, SNAP25, and synaptotagmin (Fig. 4B and C, and data not shown). These results supported
+that miR-132 played a suppressive role in synaptic maturation of
+eNSCs.
+4. Discussion
+Previous studies have reported positive effects of miR-132 on
+neuronal functions including synaptic plasticity, dendrite
+outgrowth, and cell survival (Edbauer et al., 2010; Magill et al.,
+2010; Luikart et al., 2011; Wanet et al., 2012; Remenyi et al.,
+2013; Hwang et al., 2014). Down-regulation of miR-132 has also
+been implicated in several neurological disorders such as AD (Wong
+et al., 2013), PD (Lungu et al., 2013), schizophrenia (Miller et al.,
+2012) and depression (Li et al., 2013). Most of the studies, however, focused on the miR-132 functions in differentiated neurons.
+Here we found a novel function of miR-132 during neuronal differentiation of eNSCs to negatively regulate expression of synaptic
+proteins. We also showed that miR-132 signiﬁcantly increased
+during both prenatal brain development and differentiation of
+eNSCs into neurons while it showed little change during maturation of cultured cortical neurons. Furthermore, ERK1/2 activation
+during DIV3-7 suppressed the upregulation of synaptic proteins in
+eNSCs via elevating miR-132 expression.
+Because miR-132 expression was increased through MAPK/
+ERK1/2 signaling pathway activated by exogenous BDNF in differentiated cortical neurons (Kawashima et al., 2010; Numakawa et al.,
+2011) and BDNF mRNA and TrkB were elevated in parallel with the
+miR-132 increase during the neuronal differentiation observed in
+this study, we had expected that miR-132 was also upregulated in
+eNSCs by endogenous BDNF via ERK1/2 activation. Although miR132 expression was almost completely dependent on ERK1/2 activity during DIV4-7, both activating and inhibiting of endogenous
+
+BDNF/TrkB signaling by exogenous application of BDNF and TrkBFc, respectively, did not cause a signiﬁcant effect on miR-132
+expression. Considering that miR-132 was reported to be induced
+by neuronal activity (Wayman et al., 2008) and ERK1/2 activity in
+eNSCs was also partially suppressed by TrkB-Fc, the ERK signalingdependent miR-132 expression in eNSCs would be regulated by
+other activity-dependent factors than BDNF/TrkB signaling, or the
+other signaling pathways which repress the miR-132 expression
+might be stimulated simultaneously after TrkB activation.
+MAPK/ERK1/2 pathway is one of the key regulators of neuronal
+differentiation and neurite outgrowth in the developing CNS (Li
+et al., 2006). In the in vitro neuronal differentiation model used
+here, an intriguing activation pattern of ERK1/2 was observed.
+Strong ERK1/2 activation immediate after plating the dissociated
+neurospheres was transiently reduced at DIV3 and the activity was
+recovered during DIV4-7. It was reported that miR-34, a repressor
+for neuronal differentiation of eNSC, was increased after several
+hours of differentiation induction, and decreased at DIV1, then,
+remained low expression levels throughout neuronal differentiation and maturation until DIV12 (Morgado et al., 2014). Furthermore, blockade of ERK1/2 signaling immediate after the induction
+of differentiation lead to reduce the number of NeuN-positive cells
+and expression of presynaptic protein synaptophysin (Li et al.,
+2006). Based upon these results, the ﬁrst ERK1/2 activation might
+be required for the initiation of the eNSCs differentiation and the
+second activation (after DIV4) would be responsible for further
+enhancement of neuronal differentiation and/or maturation.
+Reduced ERK1/2 activation with U0126 during DIV3-7 promoted
+the expression of synaptic proteins (PSD-95, GluR1 and synapsin I)
+in eNSCs. Similar results were obtained in the silencing of miR-132,
+in which postsynaptic proteins (PSD-95 and GluR1) were increased,
+suggesting a negative regulation of ERK1/2 on these synaptic protein expression via inducing miR-132 expression. Interestingly,
+miR-132 inhibitor treatment increased only postsynaptic proteins
+without affecting presynaptic proteins. Our previous study reported that antisense for miR-132 changed the levels of postsynaptic proteins (NR2A, NR2B and GluR1) but not presynaptic
+
+30
+
+A. Yoshimura et al. / Neurochemistry International 97 (2016) 26e33
+
+A
+
+B
+
+DIV0
+
+Nestin
+
+MAP2
+
+GFAP
+
+Merge/DAPI
+
+DIV0
+
+DIV1
+
+50 μm
+
+Nestin
+
+DIV3
+
+DIV7
+
+MAP2
+
+GFAP
+
+Merge/DAPI
+
+DIV7
+
+50 μm
+
+C
+
+Merge/TUJ1
+
+PSD-95
+
+synapsin I
+
+DIV7
+
+E
+
+DIV
+
+SOX1
+SOX2
+DCX
+TUJ1
+
+0
+
+1
+
+3
+
+4
+
+7
+
+F
+
+***
+
+GFAP
+PSD-95
+GluR1
+synapsin I
+syntaxin
+β -actin
+
+Relative miR-134
+expression
+
+Percentage of cells (%)
+
+D
+
+10 μm
+
+Relative miR-132
+expression
+
+50 μm
+
+Fig. 2. Neuronal differentiation of eNSCs obtained from the rat embryonic telencephalon (E14.5) in vitro. eNSCs were initially cultured in the proliferation medium for 4 days, and
+then the cells were cultured with the differentiation medium for 7 days. (A) Microscopic images were taken 7 days after the differentiation initiation. Scale bar ¼ 100 mm. (B) At
+0 day in vitro (DIV0) and DIV7, the cells were immunostained with antibodies against nestin (cyan), MAP2 (red), GFAP (green) and DAPI (blue). Scale bars ¼ 50 mm. (C) Immunostaining with antibodies against TUJ1 (purple), PSD-95 (green) and synapsin I (red) at DIV7 revealed developmental synapse formation in differentiated neurons. Nuclei were
+visualized by DAPI (blue). Magniﬁed images of the white square region are shown in the right panels. Arrows indicate co-localization of presynaptic terminals and postsynaptic sites.
+Scale bars ¼ 50 mm and 10 mm. (D) Quantiﬁcation of the percentage of MAP2-positive differentiated neuronal cells, GFAP-positive astrocytes, or nestin-positive undifferentiated
+cells. The others include nestin/MAP2-positive or nestin/GFAP-positive cells (n ¼ 89 at DIV0, n ¼ 101 at DIV7). (E) Protein expression proﬁles during differentiation of eNSCs.
+Markers for neurons (DCX and TUJ1), astrocytes (GFAP), neural stem cells (SOX1 and SOX2), presynaptic proteins (synapsin I and syntaxin), and postsynaptic proteins (GluR1 and
+PSD-95) were examined. (F) Quantitative PCR analysis of miR-132 and -134 expression during neuronal differentiation of eNSCs (n ¼ 3e4). Relative expression of miRs were
+normalized to miR-16, and error bars present SD. ***P < 0.001 versus DIV0 (one-way ANOVA with Bonferroni's post-hoc test).
+
+pERK1
+pERK2
+ERK1
+ERK2
+
+-
+
+U0126
+
+D
+
+Relative miR-132
+expression
+
+**
+
+PSD-95
+GluR1
+synapsin I
+syntaxin
+
+***
+
+*
+
+**
+
++
+
+PSD-95
+
+synapsin I
+
+U0126
+
+Control
+
+PSD-95
+
+-
+
+Relative GFAP
+expression
+
+Merge/TUJ1/DAPI
+
+β -actin
+
+U0126
+
+Merge/TUJ1/DAPI
+
+synapsin I
+
+GFAP
+
++ U0126
+
+DIV7
+
+Relative TUJ1
+expression
+
+-
+
+Relative syntaxin
+expression
+
+TUJ1
+DIV4
+
+E
+
+*
+
+Relative PSD-95
+expression
+
+C
+
++
+
+***
+
+Relative synapsin I
+expression
+
+pERK1
+pERK2
+ERK1
+ERK2
+β -actin
+
+DIV0 DIV1 DIV3 DIV4 DIV7
+
+Relative GluR1
+expression
+
+B
+
+Relative pERK-1
+expression
+
+A
+
+31
+
+Relative pERK-2
+expression
+
+A. Yoshimura et al. / Neurochemistry International 97 (2016) 26e33
+
+50 μm
+
+50 μm
+
+Fig. 3. Activity of MAPK/ERK signaling pathway induced miR-132 and suppressed synaptic proteins expression. U0126 (10 mM), a MAPK/ERK kinase inhibitor, was administered
+during neuronal differentiation of eNSCs. (A) Western blotting of phosphorylation levels of ERK1/2 (pERK1/2) in differentiating eNSCs. (B) U0126 almost completely diminished
+phospho-ERK1/2 levels in eNSCs (n ¼ 5). (C) Quantitative PCR measurement of miR-132 in differentiating eNSCs in the presence or absence of U0126 (n ¼ 4). Relative expression of
+miR-132 is normalized to miR-16. (D) Increased levels of PSD-95, GluR1 and synapsin I after the U0126 treatment were observed. Data are obtained from two independent cultures
+(n ¼ 5). Error bars present SD. *P < 0.05, **P < 0.01 and ***P < 0.001 versus control (t-test). (E) The cells after U0126 treatment were immunostained with antibodies against PSD-95
+(green), synapsin I (red) and TUJ1 (purple). Nuclei were stained with DAPI (blue). Scale bars ¼ 50 mm.
+
+proteins (SNAP25 and synapsin I) in differentiated cortical neurons
+(Kawashima et al., 2010). These results suggested that miR-132
+tends to play a regulatory role in postsynaptic proteins in neural
+cells. It is possible that miR-132 regulates indirectly expression
+levels of these synaptic proteins because they have not been listed
+as the targets of miR-132 in miRs’ target databases. There is a report
+about a miR-132-dependent negative regulation for differentiation
+of dopaminergic neurons developed from embryonic stem cells,
+where miR-132 was endogenously increased after DIV6 of differentiation (Yang et al., 2012). As mentioned above, our previous
+study demonstrated a miR-132-dependent positive regulation in
+the expression of synaptic proteins in differentiated cortical neurons (Kawashima et al., 2010). Although the exact reason why miR132 regulations for synaptic proteins in eNSCs and differentiated
+neurons were different has remained unclear, the main target of
+miR-132 might be changed, depending on the developmental
+stages of neural cells.
+The miR-132 overexpression in this study caused a reduced level
+of b-actin as well as synaptic proteins. b-actin, a cytoskeletal protein, is essential for dendritic spine structure and its synthesis in
+
+dendrites is stimulated by local synaptic activity (Buxbaum et al.,
+2014). The inhibitor for miR-132 had little inﬂuence on the
+expression of b-actin compared to its reduction induced by miR132 overexpression, suggesting that an excess amount of b-actin
+would be expressed in eNSCs and b-actin levels was reduced only
+when miR-132 was overexpressed. PSD-95, which was also sensitive to miR-132, is a member of postsynaptic scaffolding proteins
+and associates with glutamate receptors (AMPA and NMDA receptors) and cytoskeletal proteins, supporting postsynaptic structure (Chen et al., 2011). Moreover, PSD-95 plays a role to regulate
+for surface expression of glutamate receptors at postsynaptic sites
+(Ehrlich and Malinow, 2004). Using immature neurons, it was reported that excess expression of PSD-95 caused aberrant spine
+formation (Mizui et al., 2005). These results indicate that miR-132
+might have a modulating role in appropriate postsynaptic formation during neuronal differentiation of eNSCs.
+Recent studies have revealed the important relationship between miRs and brain-related diseases. Zucchi and colleagues reported that prenatal stress modulated an epigenetic regulation of
+expression of miRs associated with psychiatric/neurological
+
+GluR1
+synapsin I
+syntaxin
+
+***
+
+*
+
+*
+
+Relative syntaxin
+expression
+
+Relative syntaxin
+expression
+
+Relative miR-132
+expression
+
+PSD-95
+
+*
+
+**
+
+Relative GAPDH
+expression
+
+C
+
+B
+
+Relative GFAP
+expression
+
+NC miR-132
+
+TUJ1
+GFAP
+β -actin
+GAPDH
+NC miR-132i
+
+Relative TUJ1
+expression
+
+GAPDH
+
+**
+
+Relative PSD-95
+expression
+
+Relative TUJ1
+expression
+
+β -actin
+
+Relative β -actin
+expression
+
+TUJ1
+GFAP
+
+*
+
+Relative GAPDH
+expression
+
+syntaxin
+
+**
+
+Relative synapsin I
+expression
+
+synapsin I
+
+*
+
+Relative β -actin
+expression
+
+GluR1
+
+Relative GFAP
+expression
+
+PSD-95
+
+Relative GluR1
+expression
+
+Relative PSD-95
+expression
+
+A
+
+Relative synapsin I
+expression
+
+A. Yoshimura et al. / Neurochemistry International 97 (2016) 26e33
+
+Relative GluR1
+expression
+
+32
+
+Fig. 4. Effect of increased/decreased miR-132 levels on expression of synaptic proteins. (A) The miR-132 mimic was transfected at DIV3. Decreased postsynaptic proteins (PSD-95
+and GluR1), presynaptic proteins (synapsin I and syntaxin) and cytoskeleton-associated proteins (TUJ1 and b-actin) at DIV7 (n ¼ 4). GAPDH was used as a loading control. (B)
+Quantitative PCR measurement of miR-132 in differentiating eNSCs in the presence or absence of miR-132 inhibitor (n ¼ 5). Relative expression of miR-132 is normalized to miR-16.
+(C) An inhibitor for miR-132 was treated during DIV3-7. Increased PSD-95 and GluR1 levels were observed (n ¼ 4). Samples for miR-132 mimic and inhibitor data were collected one
+time from a sister culture. Error bars present SD. *P < 0.05, **P < 0.01 and ***P < 0.001 versus control (t-test).
+
+disorders in the offspring (Zucchi et al., 2013). Moreover, miRs
+levels in the prenatal brain would also be affected by maternallymediated exposure to drug and alcohol (Ignacio et al., 2014). Our
+previous study showed a stress-related hormone (glucocorticoid)induced reduction in BDNF-stimulated miR-132 expression in
+cortical neurons (Kawashima et al., 2010). These ﬁndings indicate
+the importance of miR functions for normal synapse formation in
+the developing brain and of the future research focusing on miR
+functions in stress-related brain disorders.
+
+Acknowledgements
+This work was supported by grants from Takeda Science Foundation (T.N.), from the Grant-in-Aid for Challenging Exploratory
+Research (Grant number: 25640019) (T.N.), the Grant-in-Aid for
+Scientiﬁc Research (B) (24300139) (T.N.) and the Grant-in-Aid for
+Young Scientists (B) (26830061) (A.Y.) in the Ministry of Education,
+Culture, Sports, Science and Technology of Japan, and from the
+Health and Labor Sciences Research Grants (H.K.), Intramural
+Research Grant for Neurological and Psychiatric Disorders of NCNP
+(H.K.) and CREST, Japan Science and Technology Agency (JST) (T.N.,
+N.A. and H.K.).
+
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.neuint.2016.04.013.
+
+References
+Bartel, D.P., 2004. MicroRNAs: genomics, biogenesis, mechanism, and function. Cell
+116, 281e297.
+Buxbaum, A.R., Wu, B., Singer, R.H., 2014. Single b-actin mRNA detection in neurons
+reveals a mechanism for regulating its translatability. Science 343, 419e422.
+Carrington, J.C., Ambros, V., 2003. Role of microRNAs in plant and animal development. Science 301, 336e338.
+Chen, X., Nelson, C.D., Li, X., Winters, C.A., Azzam, R., Sousa, A.A., Leapman, R.D.,
+Gainer, H., Sheng, M., Reese, T.S., 2011. PSD-95 required to sustain the molecular
+organization of the postsynaptic density. J. Neurosci. 31, 6329e6338.
+Edbauer, D., Neilson, J.R., Foster, K.A., Wang, C.F., Seeburg, D.P., Batterton, M.N.,
+Tada, T., Dolan, B.M., Sharp, P.A., Sheng, M., 2010. Regulation of synaptic
+structure and function by FMRP-associated microRNAs miR-125b and miR-132.
+Neuron 65, 373e384.
+Ehrlich, I., Malinow, R., 2004. Postsynaptic density 95 controls AMPA receptor
+incorporation during long-term potentiation and experience-driven synaptic
+plasticity. J. Neurosci. 24, 916e927.
+Gaughwin, P., Ciesla, M., Yang, H., Lim, B., Brundin, P., 2011. Stage-speciﬁc modulation of cortical neuronal development by Mmu-miR-134. Cereb. Cortex 21,
+1857e1869.
+Hwang, J.Y., Kaneko, N., Noh, K.M., Pontarelli, F., Zukin, R.S., 2014. The gene silencing
+transcription factor REST represses miR-132 expression in hippocampal neurons destined to die. J. Mol. Biol. 426, 3454e3466.
+Ignacio, C., Mooney, S.M., Middleton, F.A., 2014. Effects of acute prenatal exposure to
+ethanol on microRNA expression are ameliorated by social enrichment. Front.
+Pediatr. 2, 103.
+Im, H.I., Kenny, P.J., 2012. MicroRNAs in neuronal function and dysfunction. Trends
+Neurosci. 35, 325e334.
+Kawahara, H., Imai, T., Okano, H., 2012. MicroRNAs in neural stem cells and neurogenesis. Front. Neurosci. 6, 30.
+Kawashima, H., Numakawa, T., Kumamaru, E., Adachi, N., Mizuno, H., Ninomiya, M.,
+Kunugi, H., Hashido, K., 2010. Glucocorticoid attenuates brain-derived neurotrophic factor-dependent upregulation of glutamate receptors via the suppression of microRNA-132 expression. Neuroscience 165, 1301e1311.
+Klein, M.E., Lioy, D.T., Ma, L., Impey, S., Mandel, G., Goodman, R.H., 2007. Homeostatic regulation of MeCP2 expression by a CREB-induced microRNA. Nat.
+Neurosci. 10, 1513e1514.
+
+A. Yoshimura et al. / Neurochemistry International 97 (2016) 26e33
+Krichevsky, A.M., King, K.S., Donahue, C.P., Khrapko, K., Kosik, K.S., 2003.
+A microRNA array reveals extensive regulation of microRNAs during brain
+development. RNA 9, 1274e1281.
+Lee, S.T., Chu, K., Jung, K.H., Kim, J.H., Huh, J.Y., Yoon, H., Park, D.K., Lim, J.Y., Kim, J.M.,
+Jeon, D., Ryu, H., Lee, S.K., Kim, M., Roh, J.K., 2012. miR-206 regulates brainderived neurotrophic factor in Alzheimer disease model. Ann. Neurol. 72,
+269e277.
+Li, Z., Theus, M.H., Wei, L., 2006. Role of ERK1/2 signaling in neuronal differentiation
+of cultured embryonic stem cells. Dev. Growth Differ. 48, 513e523.
+Li, Y.J., Xu, M., Gao, Z.H., Wang, Y.Q., Yue, Z., Zhang, Y.X., Li, X.X., Zhang, C., Xie, S.Y.,
+Wang, P.Y., 2013. Alterations of serum levels of BDNF-related miRNAs in patients with depression. PLoS One 8, e63648.
+Luikart, B.W., Bensen, A.L., Washburn, E.K., Perederiy, J.V., Su, K.G., Li, Y., Kernie, S.G.,
+Parada, L.F., Westbrook, G.L., 2011. miR-132 mediates the integration of
+newborn neurons into the adult dentate gyrus. PLoS One 6, e19077.
+Lungu, G., Stoica, G., Ambrus, A., 2013. MicroRNA proﬁling and the role of
+microRNA-132 in neurodegeneration using a rat model. Neurosci. Lett. 553,
+153e158.
+Magill, S.T., Cambronne, X.A., Luikart, B.W., Lioy, D.T., Leighton, B.H., Westbrook, G.L.,
+Mandel, G., Goodman, R.H., 2010. microRNA-132 regulates dendritic growth and
+arborization of newborn neurons in the adult hippocampus. Proc. Natl. Acad.
+Sci. U. S. A. 107, 20382e20387.
+rez-Martínez, L., 2014. microRNAs: key triggers
+Meza-Sosa, K.F., Pedraza-Alva, G., Pe
+of neuronal cell fate. Front. Cell Neurosci. 8, 175.
+Miller, B.H., Zeier, Z., Xi, L., Lanz, T.A., Deng, S., Strathmann, J., Willoughby, D.,
+Kenny, P.J., Elsworth, J.D., Lawrence, M.S., Roth, R.H., Edbauer, D., Kleiman, R.J.,
+Wahlestedt, C., 2012. MicroRNA-132 dysregulation in schizophrenia has implications for both neurodevelopment and adult brain function. Proc. Natl.
+Acad. Sci. U. S. A. 109, 3125e3130.
+
+Miska, E.A., Alvarez-Saavedra, E., Townsend, M., Yoshii, A., Sestan,
+N., Rakic, P.,
+Constantine-Paton, M., Horvitz, H.R., 2004. Microarray analysis of microRNA
+expression in the developing mammalian brain. Genome Biol. 5, R68.
+Mizui, T., Takahashi, H., Sekino, Y., Shirao, T., 2005. Overexpression of drebrin A in
+immature neurons induces the accumulation of F-actin and PSD-95 into dendritic ﬁlopodia, and the formation of large abnormal protrusions. Mol. Cell
+Neurosci. 30, 149e157.
+Morgado, A.L., Xavier, J.M., Dionísio, P.A., Ribeiro, M.F.C., Dias, R.B., Sebasti~
+ao, A.M.,
+Sol
+a, S., Rodrigues, C.M.P., 2014. MicroRNA-34a modulates neural stem cell
+differentiation by regulating expression of synaptic and autophagic proteins.
+Mol. Neurobiol. 51, 1168e1183.
+Mouillet-Richard, S., Baudry, A., Launay, J.M., Kellermann, O., 2012. MicroRNAs and
+
+33
+
+depression. Neurobiol. Dis. 46, 272e278.
+Numakawa, T., Kumamaru, E., Adachi, N., Yagasaki, Y., Izumi, A., Kunugi, H., 2009.
+Glucocorticoid receptor interaction with TrkB promotes BDNF-triggered PLCgamma signaling for glutamate release via a glutamate transporter. Proc. Natl.
+Acad. Sci. U. S. A. 106, 647e652.
+Numakawa, T., Richards, M., Adachi, N., Kishi, S., Kunugi, H., Hashido, K., 2011.
+MicroRNA function and neurotrophin BDNF. Neurochem. Int. 59, 551e558.
+Numakawa, T., Nakajima, S., Yamamoto, N., Ooshima, Y., Odaka, H., Hashido, K.,
+Adachi, N., Kunigi, H., 2015. Basic ﬁbroblast growth factor induces miR-134
+upregulation in astrocyte for cell maturation. Biochem. Biophys. Res. Commun. 456, 465e470.
+Rao, P., Benito, E., Fischer, A., 2013. MicroRNAs as biomarkers for CNS disease. Front.
+Mol. Neurosci. 6, 39.
+Remenyi, J., van den Bosch, M.W.M., Palygin, O., Mistry, R.B., McKenzie, C.,
+Macdonald, A., Hutvagner, G., Arthur, J.S.C., Frenguelli, B.G., Pankratov, Y., 2013.
+miR-132/212 knockout mice reveal roles for these miRNAs in regulating cortical
+synaptic transmission and plasticity. PLoS One 8, e62509.
+Sempere, L.F., Freemantle, S., Pitha-Rowe, I., Moss, E., Dmitrovsky, E., Ambros, V.,
+2004. Expression proﬁling of mammalian microRNAs uncovers a subset of
+brain-expressed microRNAs with possible roles in murine and human neuronal
+differentiation. Genome Biol. 5, R13.
+Smith, B., Treadwell, J., Zhang, D., Ly, D., McKinnell, I., Walker, P.R., Sikorska, M.,
+2010. Large-scale expression analysis reveals distinct microRNA proﬁles at
+different stages of human neurodevelopment. PLoS One 5, e11109.
+Wanet, A., Tacheny, A., Arnould, T., Renard, P., 2012. miR-212/132 expression and
+functions: within and beyond the neuronal compartment. Nucleic Acids Res. 40
+(11).
+Wayman, G.A., Davare, M., Ando, H., Fortin, D., Varlamova, O., Cheng, H.Y., Marks, D.,
+Obrietan, K., Soderling, T.R., Goodman, R.H., Impey, S., 2008. An activityregulated microRNA controls dendritic plasticity by down-regulating
+p250GAP. Proc. Natl. Acad. Sci. U. S. A. 105, 9093e9098.
+Wong, H.K.A., Veremeyko, T., Patel, N., Lemere, C.A., Walsh, D.M., Esau, C.,
+Vanderburg, C., Krichevsky, A.M., 2013. De-repression of FOXO3a death axis by
+microRNA-132 and -212 causes neuronal apoptosis in Alzheimer's disease.
+Hum. Mol. Genet. 22, 3077e3092.
+Yang, D., Li, T., Wang, Y., Tang, Y., Cui, H., Tang, Y., Zhang, X., Chen, D., Shen, N., Le, W.,
+2012. miR-132 regulates the differentiation of dopamine neurons by directly
+targeting Nurr1 expression. J. Cell Sci. 125, 1673e1682.
+Zucchi, F.C.R., Yao, Y., Ward, I.D., Ilnytskyy, Y., Olson, D.M., Benzies, K., Kovalchuk, I.,
+Kovalchuk, O., Metz, G.A.S., 2013. Maternal stress induces epigenetic signatures
+of psychiatric and neurological diseases in the offspring. PLoS One 8, e56967.
+
+

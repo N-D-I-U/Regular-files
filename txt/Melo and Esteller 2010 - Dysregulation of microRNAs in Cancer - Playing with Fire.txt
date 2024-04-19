@@ -1,0 +1,1421 @@
+FEBS Letters 585 (2011) 2087–2099
+
+journal homepage: www.FEBSLetters.org
+
+Review
+
+Dysregulation of microRNAs in cancer: Playing with ﬁre
+Sonia A. Melo a,b, Manel Esteller a,c,*
+a
+b
+c
+
+Cancer Epigenetics and Biology Program (PEBC), Bellvitge Biomedical Research Institute (IDIBELL), 08907 L’Hospitalet, Barcelona, Catalonia, Spain
+Porto Medical University (FMUP), 4200-319 Porto, Portugal
+Institucio Catalana de Recerca i Estudis Avançats (ICREA), 08010 Barcelona, Catalonia, Spain
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 15 July 2010
+Revised 3 August 2010
+Accepted 5 August 2010
+Available online 11 August 2010
+Edited by Jean-Pierre Issa and Wilhelm Just
+Keywords:
+MicroRNA
+Epigenetics
+DNA methylation
+Cancer
+
+a b s t r a c t
+MicroRNAs [1] have emerged as key post-transcriptional regulators of gene expression, involved in
+various physiological and pathological processes. It was found that several miRNAs are directly
+involved in human cancers, including lung, breast, brain, liver, colon cancer and leukemia. In addition, some miRNAs may function as oncogenes or tumor suppressors in tumor development. Furthermore, a widespread down-regulation of miRNAs is commonly observed in human cancers and
+promotes cellular transformation and tumorigenesis [2–5]. More than 50% of miRNA genes are
+located in cancer-associated genomic regions or in fragile sites, frequently ampliﬁed or deleted in
+human cancer, suggesting an important role in malignant transformation. A better understanding
+of the miRNA regulation and misexpression in cancer may ultimately yield further insight into
+the molecular mechanisms of tumorigenesis and new therapeutic strategies may arise against cancer. Here, we discuss the occurrence of the deregulated expression of miRNAs in human cancers and
+their importance in the tumorigenic process.
+Ó 2010 Federation of European Biochemical Societies. Published by Elsevier B.V.
+Open access under CC BY-NC-ND license.
+
+1. Introduction
+For the past two and a half decades it has been thought that
+cancer is caused by genetic and/or epigenetic alterations to oncogenes or tumor-suppressor genes. Various regulatory factors control the expression of these genes, allowing for the correct
+execution of processes such as division, differentiation, and apoptosis. In cancer, however, a deregulation of these genes causes
+these processes to become uncontrolled, resulting in tumor formation. Recent research has unraveled molecular mechanisms and
+damaged genes involved in cancer. One such example is the discovery of microRNAs [6], that ended up in a escalation in research
+on these RNA molecules as key players in cancer biology. Smaller
+than protein-coding genes, miRNAs can regulate the translation
+of hundreds of genes through sequence-speciﬁc binding to mRNA
+[7], and depending on the degree of complementarity will result
+in the inhibition of translation and/or enhanced mRNA decay
+[7,8]. In mammals, miRNAs are predicted to control the activity
+of more than 60% of all protein-coding genes [9] and participate
+in the regulation of almost every cellular process investigated to
+date (reviewed in References [10–12]).
+
+* Corresponding author at: Cancer Epigenetics and Biology Program (PEBC),
+Bellvitge Biomedical Research Institute (IDIBELL), 08907 L’Hospitalet, Barcelona,
+Catalonia, Spain.
+E-mail addresses: mesteller@iconcologia.net, smalmeida@iconcologia.net
+(M. Esteller).
+
+In 1998, Fire and Mello established dsRNA as the silencing trigger
+in Caenorhabditis elegans [13]. The ﬁrst miRNA to be discovered, lin4, was identiﬁed in C. elegans in a screen for genes that are required
+for post-embryonic development [14]. The lin-4 locus produces a 22
+nucleotide RNA that is partially complementary to sequences in the
+30 UTR of its regulatory target, the lin-14 mRNA [15]. Structurally
+miRNAs are small non-coding regulatory RNAs ranging in size from
+19 to 24 nucleotides (see miRBase, http://microrna.sanger.ac.uk/),
+that potentially target up to one-third of human coding genes making their role in cellular biology even more apparent [16]. These
+small RNAs post-transcriptionally repress gene expression by recognizing complementary target sites most often in the 30 untranslated
+region (UTR) of target messenger RNAs (mRNAs) [17–19]. However,
+animal miRNAs may also target 50 UTR and coding regions of mRNAs,
+as documented by experiments involving both artiﬁcial and natural
+mRNAs and also by bioinformatic predictions [20–22]. MicroRNAs
+silence the expression of the target mRNAs, either by mRNA cleavage
+or by translation repression. Nevertheless, it has been described that
+miRNAs can also increase the expression of a target mRNA [23]. Each
+miRNA may target several different mRNAs and, conversely, a single
+mRNA can be targeted by several miRNAs. Furthermore, it was
+shown that miRNAs can target not only messenger RNA but also
+DNA; MiR-373 was found to target promoter sequences and induce
+gene expression [24]. More recently it was described that miRNAs
+can also target proteins. Eiring et al. reported a novel function of
+miRNAs called ‘‘decoy activity”. MiR-328 interacts with a heterogeneous ribonucleoprotein, hnRNP-E2, to regulate RNA-binding protein function [25].
+
+0014-5793 Ó 2010 Federation of European Biochemical Societies. Published by Elsevier B.V. Open access under CC BY-NC-ND license.
+doi:10.1016/j.febslet.2010.08.009
+
+2088
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+In this review, we brieﬂy describe miRNA biogenesis and regulation of miRNAs at transcriptional and post-transcriptional levels.
+Then we focus on miRNAs deregulation in cancers by outlining
+their roles as oncogenes or tumor-suppressors, their control of
+multiple cancer-related biological pathways and their epigenetic
+transcriptional control in human cancers. Finally, we ﬁnish this review with a discussion of the potential application of miRNAs as
+biomarkers, diagnosis, and potential therapeutic tools for human
+cancers.
+2. Biogenesis and maturation of microRNAs
+Biogenesis of a miRNA begins with the synthesis by Pol II of a
+long transcript known as pri-miRNA (Fig. 1). Also Pol III was initially believed to mediate the transcription of miRNAs because it
+produces some of the other shorter non-coding RNAs: tRNAs, 5S
+ribosomal RNA and U6 snRNA. Several evidences seem to indicate
+that pri-miRNAs with their own promoters must be Pol II products
+[26–30]. However, other pathways generate a minor set of miRNAs,
+especially from genomic repeats. For example, RNA polymerase III
+is responsible for transcription of miRNAs in Alu repeats [31].
+The ﬁrst step of miRNA maturation is enzymatic cleavage by the
+RNase III Drosha which releases a small hairpin that is termed a
+pre-miRNA of 70 nucleotides. The RNase Drosha works together
+with its interacting partner DGCR8 (DiGeorge syndrome critical
+region gene 8) [32–34]. Drosha belongs to a family of double
+stranded RNA speciﬁc ribonucleases. The dsRNA-binding protein
+DGCR8 recognizes the stem and the ﬂanking single-stranded RNA
+(ssRNA) and serves as a ruler for Drosha to cut the stem releasing
+the hairpin pre-miRNA [35]. Interestingly, the DGCR8 gene is one
+of the few genes located in a region (chromosome 22) deleted in
+
+a genetic disease termed DiGeorge syndrome [34]. This pri-miRNA
+processing complex of Drosha and DGCR8 is called the Microprocessor [33,34]. Pre-miRNAs have a two-nucleotide overhang at
+their 30 ends and a 50 phosphate group, which are indicative of their
+production by an RNase III [32,36]. All the components of this
+microprocessor are needed for pri-miRNA processing in vivo, as a
+reduction on the level of either Drosha or DGCR8 by RNAi led to
+the reduction of both pre-miRNAs and mature miRNAs [33,34]. A
+few pre-miRNAs are produced by the nuclear pre-mRNA splicing
+pathway instead of through processing by Drosha. These pre-miRNA-like introns, termed mirtons, are spliced out of mRNA precursors. This class of miRNAs bypass Drosha requirement by taking
+an alternative biogenesis pathway [37–39].
+The nuclear export protein Exportin 5 carries the pre-miRNA to
+the cytoplasm bound to Ran, a GTPase that moves RNA and proteins through the nuclear pore [40,41]. Yi et al. (2003) demonstrated that the nuclear export is dependent on the exportin-5
+nuclear export factor which is a member of the karyopherin family
+of nucleocytoplasmic transport factors. As with other nuclear
+transport receptors, XPO5 binds cooperatively to its cargo and
+the GTP-bound form of the cofactor Ran in the nucleus, and releases the cargo following the hydrolysis of GTP in the cytoplasm
+(Fig. 1) [40,41]. Pre-miRNAs transported to the cytoplasm are subsequently converted to mature duplex miRNA by another RNase III
+enzyme, DICER1 [42]. DICER1 is a highly conserved protein with
+one homologue in the yeast Schizosaccharomyces pombe (Dcr),
+one in human, one in nematode worm (DCR-1), two in Drosophila
+(DCR-1 and DCR-2), and four in Arabidopsis (DCL1, DCL2, DCL3,
+DCL4; [43,44]. Dicer cleavage generates a duplex containing two
+strands, termed miRNA and miRNA*, corresponding to the two
+sides of the base of the stem [45,46]. DICER1 knock-out (Dcr/)
+
+Fig. 1. Depiction of the microRNA processing machinery.
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+mice and cells are not viable, indicating a major role for this protein during development and normal cell function [47]. In human
+cells, the dsRBP that associates with DICER1 is the Trans-activator
+RNA (tar)-binding protein, TRBP. This protein is required for RNAi
+function mediated by both siRNAs and miRNAs [48–50], where it
+acts as a biosensor selecting the dsRNA to be loaded into the RISC
+[51,52].
+Following DICER1/TRBP cleavage, the resulting 22-nt RNA duplex is loaded onto an Ago protein so as to generate the effector
+complex, RISC [48]. One strand of the 22-nt duplex remains in
+Ago as a mature miRNA (the guide strand or miRNA), whereas
+the other strand (the passenger strand or miRNA*) is degraded.
+Nucleotides 2–7 of the mature miRNA sequence create the ‘‘seed
+region” [53–56] that primarily speciﬁes the target mRNA that the
+miRNA will bind to.
+Although it has been recognized and predicted before that
+genes can be targeted by multiple miRNAs [57,58], this problem
+has not be tackled experimentally. A new study by Wu et al.
+(2010) represents the ﬁrst deﬁned example wherein multiple miRNAs target the same gene [59]. In this study, Wu et al. experimentally demonstrate through a high-throughput luciferase reporter
+screen that p21Cip1/Waf1 can be directly targeted by nearly 28
+microRNAs (miRNAs).
+
+3. Transcription and post-transcriptional regulation
+of microRNAs
+Transcription is a major point of regulation in miRNA biogenesis. Almost 50% of miRNA genes are located in the introns of protein-coding genes or long non-coding RNAs transcripts, whereas
+the remainder are independent transcription units with speciﬁc
+core promoter elements and polyadenylation signals reviewed in
+[60]. Approximately 50% of mammalian microRNA loci are in close
+proximity with other miRNAs. These clustered miRNAs are transcribed as polycistronic messages in single transcript units or are
+overlapped in the host transcripts, within exons or introns,
+depending on the splicing patterns of the host gene. Numerous
+Pol II-associated transcription factors are involved in transcriptional control of miRNA genes. For instance, myogenic transcription factors, such as myogenin and myoblast determination 1
+(MYOD1), bind upstream of miR-1 and miR-133 loci and induce
+the transcription of these miRNAs during myogenesis [61–63]. Another clear example is the activation of miRNAs transcription by
+the tumor suppressor p53. P53 activates the miR-34 family of miRNAs, whereas the oncogenic protein MYC transactivates or represses a number of miRNAs that are involved in the cell cycle
+and apoptosis [4,64]. Epigenetic control also contributes to miRNA
+gene regulation [65–67].
+Drosha processing constitutes another important point of regulation. It was proposed that SMAD proteins activated by BMP/TGFb
+interact with Drosha and DDX5 (also known as p68) to stimulate
+Drosha processing, although the detailed mechanism for this remains unclear [68]. Drosha processing of pri-miR-18a is dependent
+on the heterogeneous ribonucleoprotein particle A1 [69]. The number of these regulatory factors is unknown, but it is plausible that
+nuclear RNA-binding proteins inﬂuence miRNA processing through
+speciﬁc interactions with a subset of pri-miRNAs.
+The let-7 miRNAs also show interesting expression patterns
+[70]. The primary transcript of let-7 (pri-let-7) is expressed in both
+undifferentiated and differentiated ES cells, whereas mature let-7
+is detected only in differentiated cells, indicating that let-7a might
+be post-transcriptionally controlled [71]. Similar post-transcriptional inhibition of let-7 also takes place in tumor cells [72]. Recent
+studies have shown that an RNA-binding protein, LIN28, is responsible for the suppression of let-7 processing [73–75]. Several differ-
+
+2089
+
+ent mechanisms of LIN28 activation have been proposed: blockage
+of Drosha processing [73], interference with DICER1 processing
+[75], and terminal uridylation of pre-let-7. Given the cytoplasmic
+localization of LIN28, and its strong interaction with pre-let-7
+(but not with pri-let-7), LIN28 is likely to function mainly in the
+cytoplasm by interfering with pre-let-7 processing and/or by
+inducing terminal uridylation of pre-let-7. The U tail that is added
+to the 30 end of pre-let-7 blocks DICER1 processing and facilitates
+the decay of pre-let-7.
+Turnover of miRNAs is a largely unexplored area. RNA decay enzymes might target not only mature miRNAs but also the precursors (pri-miRNAs and pre-miRNAs). Once bound to Ago proteins,
+mature miRNAs seem to be more stable than average mRNAs;
+the half-life of most miRNAs is greater than 14 h [76].
+RNA editing is another possible way of regulating miRNA biogenesis [77,78]. The alteration of adenine to inosines, a reaction
+that is mediated by adenine deaminases (ADARs), has been observed in miR-142 and miR-151 [79,80]. Because the modiﬁed
+pri-miRNAs or pre-miRNAs become poor substrates of RNase III
+proteins, editing of the precursor can interfere with miRNA processing. Editing can also change the target speciﬁcity of the miRNA
+if it occurs in miRNA sequences [80].
+An increasing number of miRNAs are controlled at the
+post-transcriptional level [77]. MiR-138 is speciﬁcally expressed
+in neuronal cells, while its expression is suppressed at the DICER1
+processing step in non-neuronal cells [81]. Human miR-31,
+miR-128 and miR-105, however, might be controlled at the nuclear
+export step because the precursors are retained in the nucleus
+without producing mature miRNA in certain cell types. Mature
+miR-7, miR-143 and miR-145 show reduced expression in cancer
+cells compared with normal tissue, although the precursor levels
+are similar between the tumor and normal tissues, which suggests
+that post-transcriptional deregulation occurs in cancer cells.
+Thomson et al. (2006), has described the lack of correlation between pri-miRNA and mature expression in the tumor samples,
+while the normal tissue samples had positive correlation. This
+demonstrates that the miRNA alterations that occur in tumors
+are not due to deregulated transcription but can be, in part, due
+to post-transcriptional regulation of miRNAs [72]. This data suggest a multistep model for the control of miRNA expression. Transcription of the pri-miRNA can be regulated, as has been
+demonstrated for tissue-speciﬁc miRNAs [61,82–84]. Processing
+at the Dicer step can be delayed or inhibited [42,81].
+All together, these observations indicate that the miRNAs can be
+regulated at various levels, from stability, processing, sequence
+identity and binding to target mRNAs. Therefore, these regulatory
+pathways are susceptible of being altered in cancer cells.
+
+4. MicroRNA deregulation in cancer
+Like transcription factors, miRNAs regulate diverse cellular
+pathways and are widely believed to regulate most biological processes. Recent studies have reported the involvement of both genetic and epigenetic mechanisms in miRNA deregulation that can
+potentially lead to cancer development [85]. Genetic mechanisms
+are usually chromosomal abnormalities that can lead to the deletion, ampliﬁcation, or translocation of miRNAs. In addition, approximately 50% of all annotated human miRNA genes are located at
+fragile sites or areas of the genome that are associated with cancer
+which are prone to breakage and rearrangement in cancer cells
+[86–88]. For example, miR-15a and miR-16-1, two tumor-suppressor microRNAs, are severely down-regulated in 70% of patients
+with chronic lymphocytic leukemia (CLL) due to chromosomal
+deletions or mutations at the 13q13.4 loci where they are situated
+[86].
+
+2090
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+In addition to genomic and epigenetic alterations [87,89,90],
+miRNA deregulation in cancer might be attributable to the impairment of microRNA-processing steps [5,72,91,92], like the described
+mutations in the TARBP2 gene that lead to DICER1 destabilization
+and therefore to a global down-regulation of miRNAs [5]. In accordance with these results a widespread decrease in mature miRNAs
+is often observed in various human malignancies [2,89,93,94].
+From these observations a new pathway could be emerging for
+colorectal tumorigenesis, in addition to the classical mutator or
+chromosomal instable (CIN) categories, standing for a subset of
+microsatellite instable colorectal tumors bearing mutations in the
+microRNA machinery genes – mutated microRNA machinery phenotype (MMMP). This molecular subgroup of tumors claims to group
+up colorectal cancers with MSI and is characterized for exhibiting
+concordant tumor-speciﬁc gene mutations in microRNA machinery
+genes, in this way deregulating the cells miRNAome. Even though
+larger prospective studies will be required to fully characterize and
+validate this feature as a classiﬁcatory criterion, the conductive
+molecular events have been functionally characterized, and it is
+likely that patients suffering from this mutated microRNA machinery phenotype (MMMP) subset of colorectal tumors would beneﬁt
+from a broader miRNAome modifying approach.
+Transcription factors may induce miRNAs by activating the
+transcription of pri-miRNAs. Given the wide impact of transcription factors on fundamental cellular processes, it is not surprising
+that many oncogenes or tumor suppressors function as transcription factors. Many miRNA-transcription factor connections have
+been discovered in cancer [95]. P53, c-Myc and E2F are further discussed below.
+The steady-state level of mature miRNA is determined not only
+by the transcription rate of the pri-miRNA but also by the processing
+efﬁciency of its precursors and by its stability. MiRNAs often exhibit
+a discrepancy in expression of the mature form, relative to that of the
+precursor [81,96–100]. Although miRNAs in a genomic cluster are
+usually expressed from a common pri-miRNA, the levels of individual miRNAs in the cluster are not necessarily the same [101,102]. A
+time-course experiment, after induction of pri-miR-21, revealed delayed kinetics in accumulation of mature miR-21 [103]. Collectively,
+these observations indicate that miRNA processing and stability are
+important factors that determine miRNA expression level.
+The expression levels of DICER1 or Drosha are altered in a number of cancers [3104–107]. Drosha up-regulation is seen in more
+than half of cervical squamous cell carcinoma (SCC) specimens,
+and is likely due to the copy number gain at chromosome 5p,
+where the Drosha gene is located [106]. Hierarchical clustering of
+miRNA expression data successfully classiﬁed cervical SCC samples
+into two groups according to Drosha overexpression. Notably, some
+miRNAs were reduced upon Drosha overexpression, indicating that
+individual miRNAs respond differently to an overexpression of the
+miRNA processing machinery. Interestingly, Drosha was reported
+to interact with an oncogenic fusion protein derived from a chromosomal translocation in some leukemias [108]. This interaction
+affects pri-miRNA selection of Drosha and, as a result, inﬂuences
+miRNA expression patterns. Moreover, frequent hemizygous deletion of DICER1 occurs with a high incidence rate in breast tumors
+[109].
+Findings from two mouse models strongly suggest that alterations in miRNA expression alone can cause a cell to become neoplastic. The miR-155 developed acute lymphoblastic/high-grade
+lymphoma [110], while the knock-out model of the tumor-suppressor cluster miR-15/16 developed chronic lymphocytic leukemia [111].
+Recognition of miRNAs that are differentially expressed between tumor tissues and normal tissues may help to identify those
+miRNAs that are involved in human cancers and further establish
+the key role of miRNAs in the tumorigenic process.
+
+5. Epigenetic control of microRNAs expression
+Three main epigenetic events regulate tumor-associated genes:
+the aberrant hypermethylation of tumor suppressor genes, global
+DNA hypomethylation and post-translational modiﬁcations of histones [67,112–114]. An extensive analysis of genomic sequences of
+microRNA genes has shown that approximately half of them are
+associated with CpG islands [115,116]. Therefore these epigenetic
+events can also affect miRNA expression. In addition, some miRNAs
+are up-regulated (a) upon the exposure of cells to the agent 5-aza20 -deoxycytidine [116], (b) upon mutation of methyltransferases
+(DNMTs)[90], or (c) upon histone deacetylase inhibitor treatment
+[117]. These studies have identiﬁed some miRNAs that are repressed by CpG island hypermethylation in cancers relative to normal tissue. Representative examples include miR-9-1 in breast
+cancer [116] and miR-124a in colorectal tumors [90]. The miR203 locus also frequently undergoes DNA methylation in T-cell
+lymphoma but not in normal T lymphocytes [118]. In the case of
+miR-124a, hypermethylation is tumor type speciﬁc, as no methylation is seen in neuroblastoma. Moreover, epigenetic silencing of a
+miRNA may be a reﬂection of tissue speciﬁcity. For example,
+miR-124a is normally highly expressed in neuronal tissues, so its
+epigenetic repression in colorectal tumors is not surprising [90].
+Saito and colleagues have shown that DNA methylation status
+and chromatin structure around miRNA genes differ between bladder cancer cells and normal human ﬁbroblasts [119]. They further
+demonstrate that inhibition of DNA methylation and histone
+deacetylation induce the expression of miR-127 only in cancer cells
+[119]. The methylation of miR-127 and miR-124a genes inﬂuences
+the expression of two oncogenic proteins (BCL6 and CDK6, respectively), which are not normally regulated by methylation.
+Epigenetic silencing of several miRNAs is a frequent and early
+event in breast cancer [116,120], and although the let-7 family is
+globally down-regulated in lung cancer [121,122] there is evidence
+of let-7a-3 hypomethylation [123]; this is perhaps another example of how miRNAs can have bivalent roles in malignancy.
+MiRNAs can also counteract CpG methylation. For example,
+miR-29 directly targets DNMT-3A and -3B [124]. In agreement
+with this observation, ectopic expression of miR-29 results in a
+global reduction of DNA methylation, subsequently leading to a
+depression of tumor-suppressor genes that had been silenced by
+promoter methylation in cancer cells [124].
+In conclusion, epigenetic changes complemented by genetic
+inactivation due to mutation or deletion are also a possible mechanism that partially account for miRNA deregulation in cancer
+cells.
+6. Consequences of aberrant microRNA expression in cancers
+If we compare global gene expression proﬁles in cancer and
+normal tissues, we ﬁnd that many miRNAs and mRNAs are deregulated. Therefore, it is plausible that tumorigenesis and/or malignant progression results from changes in the entire miRNAome,
+rather than from the change of a single miRNA that regulates an
+oncogenic (or tumor-suppressive) target gene.
+MiRNAs regulate the expression of their targets, so over- or
+underexpression of miRNAs is expected to result in down- or up
+regulation, respectively, of the protein product of the target
+mRNAs. It is not difﬁcult to associate a miRNA with cancer if a direct target of a miRNA is an oncogene or a tumor-suppressor gene.
+For example, mir-15 and miR-16 are severely down-regulated in
+70% of patients with chronic lymphocytic leukemia (CLL) and induce apoptosis by targeting antiapoptotic gene B cell lymphoma
+2 (BCL2) mRNA [125], which is a key player in many types of human cancers including leukemias, lymphomas, and carcinomas
+[126]. Moreover, emerging evidence suggests that miRNA let-7
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+may play a critical role in lung cancer development. Takamizawa
+et al. (2004) observed that the expression levels of let-7 were frequently reduced in both in vitro and in vivo lung cancer studies; reduced let-7 expression was signiﬁcantly associated with shortened
+postoperative survival, independently of disease state [121]. Johnson et al. (2005) also showed that lung tumor tissues display significantly reduced levels of let-7 and signiﬁcantly increased levels of
+RAS protein relative to normal lung tissue, suggesting let-7 regulation of RAS as a mechanism for lung oncogenesis. Since the demonstration that let-7 miRNA directly regulates RAS and MYC oncogenes
+[127] a number of other miRNA target pairs have been studied.
+Breast cancer also presents a deregulated pattern of expression
+of miRNAs between normal and neoplastic breast tissues. Iorio
+et al. (2005) found miR-125b, miR-145, miR-21 and miR-155 were
+signiﬁcantly reduced in breast cancer tissues. Most importantly,
+they also observed that expression patterns of miRNAs were correlated with tumor stage, proliferation index, estrogen and progesterone receptor expression and vascular invasion [128]. The
+differentiation program epithelial to mesenchymal transition
+(EMT) involves changes in a number of miRNAs. Some of these
+miRNAs have been shown to control cellular plasticity through
+the suppression of EMT-inducers or to inﬂuence cellular phenotype
+through the suppression of genes involved in deﬁning the epithelial and mesenchymal cell states. MiR-200 family of miRNAs are
+profoundly involved in this process and are deregulated in breast
+cancers [129]. Also miR-10b is highly expressed in metastatic
+breast cancer cells and positively regulates cell migration and invasion [130].
+Colorectal neoplasia is also characterized by alterations in miRNAs expression. MiR-145 and miR-143 are frequently reduced at
+the adenomatous and cancer stages of colorectal neoplasia [100].
+However, it was also described that the levels of pre-miR-143
+and pre-miR-145 are not altered in precancerous and neoplastic
+colorectal tissue, suggesting that post-transcriptional control is
+the cause for the reduced mature miRNA levels [100].
+A reduced expression of miR-26a is observed in hepatocellular
+carcinoma (HCC) cells, a miRNA that is normally expressed at high
+levels in diverse tissues. Expression of this miRNA in liver cancer
+cells in vitro induces cell cycle arrest associated with direct targeting of cyclins D1 and D2. The administration of miR-26a in a mouse
+model of HCC results in inhibition of cancer cell proliferation,
+induction of tumor-speciﬁc apoptosis, and dramatic protection
+from disease progression [131]. In a recent cohort study published
+by Ji et al. (2009) tumors had reduced levels of miR-26 expression,
+as compared with paired non-cancerous tissues, which indicated
+that the level of miR-26 expression was also associated with hepatocellular carcinoma. Furthermore patients whose tumors had low
+miR-26 expression had shorter overall survival but a better response to interferon therapy than did patients whose tumors had
+high expression of the microRNA [132].
+In human testicular germ cell tumors two miRNAs were reported to be oncogenic, miR-372 and miR-373 [133]. miR-372
+and miR-373 inhibit p53-mediated CDK inhibition through direct
+inhibition of the Large Tumor Suppressor Homolog 2 (LATS2),
+and permitted the proliferation and tumorigenesis of primary human cells which have both oncogenic RAS and active wild-type
+p53 [133].
+As mentioned before, in several types of lymphomas, including
+Burkitt’s lymphoma, the expression of miR-155 is increased
+compared to normal cells [134]. Mir-155 is located in the
+conserved region of the BIC gene and expression of BIC/miR-155 is
+elevated in Hodgkin and Burkitt lymphoma [134]. Furthermore,
+miR-155 has been shown experimentally to be a bona ﬁde oncogene,
+as is ectopic expression accelerates tumor development [64,135].
+Some miRNAs appear to be deregulated in cancers much more
+frequently than others. These miRNAs may play key roles during
+
+2091
+
+tumorigenesis. For example, the miR-17-92 cluster is frequently
+ampliﬁed in lymphoma and plays a role as an oncogene, possibly
+by targeting apoptotic factors activated in response to MYC
+overexpression [64,83]. The miR-17-92 cluster was also found
+overexpressed in lung cancer, especially in small-cell lung cancer
+[136].
+7. Aberrant action of microRNAs with no alteration of their
+expression levels
+The function of protein-coding genes is altered by point mutations, which either transform proto-oncogenes to oncogenes or
+abrogate functions of tumor-suppressor genes. In theory, the same
+mechanism of activation/inactivation may apply to miRNAs. However, mutation in mature miRNA seed sequence seems to be a rare
+event [88,137–139].
+In contrast, sequence variation in miRNA target sites may occur
+and play a role in cancer. In silico analyses of expressed sequence
+tag and single nucleotide polymorphism (SNP) databases indicate
+different allele frequencies of miRNA-binding sites in cancers versus normal tissues [140]. Several experiments have shown that
+SNPs in miRNA target sites affect miRNA interaction with its target
+mRNA and are implicated in disease [138,141–143]. An interesting
+exempliﬁcation of this mechanism is found in let-7 and its target
+oncogene, HMGA2 [144,145]. Chromosomal rearrangements at
+the HMGA2 locus in several tumors separate the open reading
+frame [104] from the 3’UTR that contains let-7 target sites. As a result, HMGA2 escapes from let-7 regulation, is overexpressed, and
+promotes tumorigenesis [144].
+An alternative splicing event may result in a different 30 UTR
+that displays different miRNA recognition sites, as exempliﬁed in
+the targeting of Tropomyosin-related kinase C by miR-9, 125a,
+and 125b. One mRNA isoform encodes a truncated ORF that is
+dominant negative to the intact protein. In this isoform, the 30 UTR
+contains the target sites of these miRNAs. In contrast, the target
+sites are absent in another isoform encoding the intact ORF; only
+the former isoform was repressed by the miRNAs [146]. Although
+the stop codon is usually located in the last exon, generation of different 30 UTRs by multiple polyadenylation sites or alternative
+splicing has been known to occur in a small but signiﬁcant fraction
+of genes [147]. Thus, variation of the 30 UTR and of attended miRNA
+target sites is expected to be a mechanism for oncogene activation
+or tumor-suppressor inactivation.
+Recently, Kedde and colleagues demonstrated that the expression of dead end 1 protein (Dnd1), an evolutionary conserved
+RNA-binding protein, counteracts the function of several miRNAs
+in human cells and in primordial germ cells of zebraﬁsh by binding
+mRNAs and prohibiting miRNAs from associating with their target
+sites. These effects of Dnd1 are mediated through uridine-rich regions present in the miRNA-targeted mRNAs [148].
+Recently, Steitz and colleagues [23] reported that miRNAs activate the translation of the target mRNA in cells arrested at the G0/
+G1 stage. In addition to the aberrant miRNA expression, the switch
+from repression to activation should be considered in studying the
+role of miRNAs in differentiation and tumorigenesis, as the same
+miRNA may exert opposite effects in quiescent cells and proliferating cancer cells in a given tissue.
+8. Oncogenic or tumor-suppressive microRNAs
+Having in mind their broad effects, miRNAs have been proposed
+to function as oncogenes or tumor-suppressor genes given their
+inhibition of a variety of tumor-suppressive and oncogenic mRNAs,
+respectively [85,149]. In particular, three distinct mechanisms
+have been proposed. First, oncogenic miRNAs can undergo a gain
+
+2092
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+of function in tumors due to genomic ampliﬁcations. This has been
+clearly demonstrated for the miR-192 cluster, whose ampliﬁcation
+in B-cell lymphomas promotes their development [64,150,151]. Furthermore, tumor-suppressive miRNAs could undergo loss of function in tumors due to chromosomal rearrangements, deletions or
+mutations. This has been shown for several miRNAs, including the
+let-7 family, whose expression can impair tumorigenesis through
+inhibition of oncogenes like the RAS family and HMGA2 [152,153].
+In particular, let-7 family members are in sites of frequent deletion
+in human tumors, and their processing is inhibited by the oncogenic
+Lin28 proteins [73,74,154]. Finally, and on the side of the mRNA targets, oncogenes can acquire mutations to remove miRNA-binding
+sites in tumors. This has been described for HMGA2, whose translocation promotes lipoma development by releasing the transcript
+from let-7-mediated tumor-suppression [145].
+There are a number of miRNAs that are overexpressed in one
+type of cancer and down-regulated in another. For example, miR205 is up-regulated in lung [122], bladder [155], and pancreatic
+cancers [156]. Contrarily, it is signiﬁcantly down-regulated in prostate [157], breast cancers [158] and esophageal squamous cell carcinoma [159].
+As mentioned before, Eiring et al. has shown that miR-328 can
+act as a decoy by binding to a regulatory RNA binding protein
+(hnRNP E2) and preventing it from blocking translation of mRNAs.
+Thus, miR-328 has a dual role in the regulation of gene expression
+[25]. These ﬁndings are intriguing because a miRNA-mediated regulatory function associated with RNA binding proteins has never
+been described before.
+Therefore, it should it is noteworthy that some miRNAs can
+have dual oncogenic and tumor-suppressive roles in cancer
+depending on the cell type and pattern of gene expression [160].
+
+9. Regulation of cell cycle factors by microRNAs in human
+cancer
+Cell cycle regulators frequently act as oncogenes or tumor
+suppressors. The cell cycle inhibitor p27(Kip1) is one of the best
+examples. P27(Kip1) is a tumor suppressor that when mutated
+predisposes cells to tumorigenesis upon exposure to carcinogens
+[161]. P27(Kip1) binds to Cdk2-cyclin E and prevents G1-to-S transition [162]. P27(Kip1) mRNA transcript is a direct target of miR221 and -222 in glioblastomas [163,164] and prostate cancer cells
+[165]. In these types of cancer, p27(Kip1) expression is inversely
+correlated with that of miR-221 and -222. MiR-221 and -222 are
+overexpressed in other cancers, suggesting that they play a role
+in a wide range of tumors [166]. MiRNAs also regulate other cell
+cycle proteins including Cdk6, Cdc25A, Ccnd2 (cyclin D2) [167],
+Cdk4 [168], a Rb-family protein [101], and p180 subunit of DNA
+polymerase a [62]. It has been described perturbation of the cell
+cycle by overexpression or inhibition of some miRNAs [3,62,163,
+168–171]. Nonetheless, it has not been reported alterations of miRNAs expression during normal cell cycle.
+The retinoblastoma (pRB) pathway s one of the major cell cycle
+pathways and is altered in almost every human cancer [172]. pRB
+is a transcriptionally represses cell cycle transcription factors of the
+E2F family resulting in a proliferative arrest. This is relieved by pRB
+phosphorylation by the cyclin-dependent kinases (CDKs), complexes formed by a cyclin and a kinase that trigger progression
+throughout the different phases of the cell cycle. CDKs are, in addition, negatively regulated by cell cycle inhibitors of the INK4 (such
+as p16INK4a) or Cip/Kip families (such as p21Cip1 or p27Kip1) [172].
+pRB itself is abnormally down-regulated by the overexpression of
+the miR-106a in different human cancers [173]. P130/RBL2, another member of the pRB family, is controlled by the miR-290 cluster, which regulates the expression of DNA methyltransferases in a
+
+p130-dependent manner affecting telomere-length homeostasis
+[174]. P130/RBL2 is also targeted by the oncogenic miR-17-92 cluster resulting in a clonal expansion required for the proper differentiation of adipocytes [175]. The positive regulators of the cell cycle,
+cyclins and CDKs, are also targeted by miRNAs. The protein levels
+of cyclin D1/CCND1 and CDK6 are down-regulated by miR-34a
+inducing signiﬁcant G1 cell cycle arrest in the A549 cell line
+[176]. The miR-34 family of miRNAs are directly induced by p53
+and participate in DNA damage response and oncogenic stress induced by this tumor suppressor [177]. miR-34 is also able to promote cell cycle arrest by decreasing CDK4 and Cyclin E/CCNE2
+protein levels [168]. CDK6 is also targeted by miR-124 or miR137, two miRNAs silenced by hypermethylation in tumor cells of
+different origins [90,178]. Most of these miRNAs function as tumor
+suppressors in several malignancies and it is conceivable that they
+exert their function through multiple targets. Thus, the let-7 family
+may control multiple regulators of cell proliferation such as cyclin
+A2, cyclin B1, cyclin E2 and CDK8 among other cell cycle targets
+[167]. Some other oncogenic miRNAs may exert their function
+through the inhibition of cell cycle inhibitors such as members of
+the INK4 or Cip/Kip families. p16INK4a, a CDK4/6 speciﬁc inhibitor,
+is controlled by miR-24, a miRNA that is down-regulated during
+replicative senescence [179]. p21Cip1, a p53-target of the Cip/Kip
+family of cell cycle inhibitors, is a direct target of miR-106b, which
+is overexpressed in multiple tumor types and plays a critical role in
+cell proliferation by regulating the G1-to-S cell cycle transition
+[180]. The p27Kip1 protein, a second member of the Cip/Kip family
+with a relevant role as tumor suppressor in human cancer, is
+mostly controlled at the post-transcriptional level [163]. miR-221
+and miR-222 can function as oncogenes in human tumors by binding to target sites in the 30 UTR of p27Kip1 inhibiting its translation
+[163]. The physiological up-regulation of miR-221 and miR-222
+coordinates competency for initiation of S phase with growth factor signaling pathways that stimulate cell proliferation [181].
+Therefore, disruption of miRNAs expression that target cell cycle proteins, could ultimately lead to the progression of the malignant phenotype in human tumors.
+
+10. MicroRNAs, p53 and programmed cell death
+P53, a well known transcription factor, is described as the
+guardian of the genome owing to its critical role in regulation of
+the cell cycle and apoptosis upon DNA damage. p53 is the most
+extensively studied tumor suppressor and its importance is underscored by mutation of p53 in almost 50% of human cancers.
+MiRNA proﬁling after p53 induction pointed at miR-34a, -34b
+and -34c as the most up-regulated miRNAs [168,169,182,183].
+These miRNAs are induced after genotoxic stress in a p53-dependent manner in vitro and in vivo [168,183]. Transcription of primiRNAs -34a, -34b and -34c from both loci is directly activated
+by p53. These miRNAs promote cell cycle arrest, apoptosis, and
+senescence [168,169,182–185]. These effects are explained by the
+repression of several direct targets of the miR-34s such as Bcl-2
+[185], Cdk4, and Hepatocyte growth factor receptor [168]. In addition
+to the miR-34s, other miRNAs may be important in the p53 pathway. MiR-30c, -103, -26a, -107, and -182 were clearly induced, albeit less robustly, upon DNA damage in a p53-dependent manner
+[182]. miR-26a expression was also shown to be dependent on
+p53 [186]. MiR-504 acts as a negative regulator of human p53
+through its direct binding to two sites in the p53 30 untranslated
+region [187].
+The tumor suppressor protein p53 was also described to modulate miRNA processing through association with p68 and Drosha
+[188]. Under conditions of DNA damage, several miRNAs, including
+miR-143 and miR-16, are post-transcriptionally up-regulated [188].
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+Co-immunoprecipitation studies indicate that p53 is present in a
+complex with both Drosha and p68, and addition of p53 to in vitro
+processing assays could enhance Drosha processing [188]. Interestingly, several p53 mutants that have been previously linked to oncogenic progression suppressed miRNA expression [188]. These
+results indicate that the association of p68/Drosha with accessory
+factors, such as p53, may be particularly important for the rapid
+induction of miRNAs in response to extracellular stimuli.
+Apoptosis or programmed cell death is an active process controlled by a gene expression program that varies depending on the
+biological context. Because a balance between proliferation and
+apoptosis is essential for tissue homeostasis and proper differentiation, deregulation of apoptosis may give rise to cancer. MiRNAs
+participate in tumorigenesis by directly targeting antiapoptotic
+genes. Representative examples include the repression of antiapoptotic genes Mcl-1 and Bcl2 by miR-29b [97] and by miR-34s [185],
+-15a, and -16 [125], respectively. The loss of these miRNAs due to
+mutation of p53 or deletion of chromosome 13q14 leads to an increase in the antiapoptotic gene expression and persistence of tumor
+cells that would have normally undergone apoptosis. It is very likely
+that miRNAs target other genes in the apoptotic pathway, as transfection or expression of a number of miRNAs is associated with
+apoptosis [189–191].
+
+11. The role of miRNAs in invasion and metastasis
+Features of malignant tumors, distinct from benign tumors, include invasion and metastasis. Malignant tumors are fatal, mostly
+due to their capacity to invade neighboring tissues and metastasize
+through the bloodstream to distant organs. About 90% of cancer-related deaths are caused by the development of malignant tumors
+distant from the primary site lesions as a result of metastasis
+[192]. Recent studies have suggested an important role for miRNAs
+in metastasis formation. We can classify these miRNAs in two main
+categories: metastatic inducers and metastatic suppressors. Metastatic inducers include miR-10b, miR-21, miR-127, miR-199a, miR210, miR-373 and miR-520c. Mir-10b down-regulated in a number
+of cancers [128,193], is unexpectedly found to be up-regulated in
+about 50% of metastatic breast cancers. Ectopic expression of
+miR-10b promotes invasion, intravasation and metastasis in otherwise non-invasive or non-metastatic breast cancer cell lines [130].
+Moreover, miR-10b directly targets HOXD10, whose reduction induces the expression of a well-characterized pro-metastatic gene,
+RhoC [130]. Further, this miRNAs have the ability to promote
+migration, invasion, and metastasis of non-invasive breast cancer
+cells in vitro and in vivo [130].
+Several miRNAs seem to be metastatic suppressors: let-7 family, miR-100, miR-126, miR-218, miR-335. Reduced levels of miR126 and miR-335 were found in breast cancer characterized by
+poor metastatic-free survival [194], while signiﬁcantly decreased
+expression of miR-let7c, miR-100 and miR-218 are differentially
+expressed between metastatic prostate cancer from high grade
+localized prostate cancer [195]. Moreover ectopic expression of
+miR-125 impairs cell motility and invasion in a breast cancer cell
+line [196], and reduction of global miRNA expression enhances
+migration of cells [3].
+Interestingly, of the metastatic inducers miRNAs only miR-21 is
+a miRNA with established oncogenic properties. MiR-21, one of the
+most frequently up-regulated miRNAs in cancer, promotes cell
+motility and invasion by directly targeting PTEN (phosphatase and
+tensin homolog), a tumor suppressor known to inhibit cell invasion
+by blocking the expression of several matrix metalloproteases
+[197]. Another pathway was recently reported in colorectal cancers, where miR-21 promotes invasion, intravasation, and metastasis by downregulating Pdcd4 [198]. Alternatively, the majority of
+
+2093
+
+metastatic suppressor miRNAs found to date are also considered
+tumor suppressor miRNAs. These observations suggest that either
+metastatic inducers miRNAs uniquely regulate key sets of genes involved in invasion and migration, or that these inducers miRNAs
+may also have other, yet unknown, tumorigenic properties.
+12. The role of microRNAs in angiogenesis
+Angiogenesis is the process by which new blood vessels form
+through the growth of existing blood vessels, and involves the proliferation, sprouting, and migration of endothelial cells, followed
+by pruning and remodeling of the vascular network. Major promoters of angiogenesis include vascular endothelial growth factor
+(VEGF) and basic ﬁbroblast growth factor (bFGF), which activate
+several downstream pathways, including the mitogen-activated
+protein kinase (MAPK) and phosphinositide 3-kinase (PI3 K) pathways, to regulate cell motility, proliferation, and survival [199].
+MicroRNAs are emerging as important modulators of angiogenesis.
+Additionally, dynamic changes in microRNA expression in response to growth factor stimulation [200,201] [202] or hypoxia
+[203] imply that microRNAs are an integral component of the
+angiogenic program.
+The stimulation of neovascularization by c-Myc involves a
+down-regulation of antiangiogenic factor Tsp-1. C-Myc represses
+Tsp-1 and a related protein, Connective tissue growth factor (CTGF)
+by activating the miR-17-92 cluster [204]. Tsp-1 and CTGF appear
+to be direct targets of miR-19 and -18, respectively. In fact, ectopic
+expression of the miR-17-92 cluster is sufﬁcient for promoting
+angiogenesis [204]. A recent observation indicates that other miRNAs, miR-378 and -27a, may play a role in angiogenesis [171,205].
+Viral miRNAs may also play a role in angiogenesis, as Tsp-1 has
+been shown to be a direct target of KSHV miRNAs [206]. Furthermore, miR-126 promotes angiogenesis by repressing spred1 and
+pik3r2, which normally inhibit VEGF signaling [207,208].
+Thus, targeting the expression of microRNAs may be a novel
+therapeutic approach for diseases involving excess or insufﬁcient
+vasculature.
+13. MicroRNAs as diagnostic tools
+Many miRNAs are uniquely and differentially expressed in certain tissues as compared with normal adjacent tissues. These small
+RNA molecules can have diagnostic or prognostic value, as miRNA
+expression proﬁles reﬂect tumor origin, stage, and other pathological factors. For example, the expression of miRNA let-7 is downregulated in lung cancer but not in other cancers, such as breast
+or colon cancer [121,127,209]. MiRNA expression proﬁles indicate
+that miRNAs are a better indicator for distinguishing cancer tissues
+from normal tissues, and can successfully classify even poorly differentiated tumors [2]. These observations suggest that miRNAs
+can be used as biomarkers and diagnostic tools for cancer detection. Moreover miRNAs can function as accurate molecular markers also because they are relatively stable and resistant to RNase
+degradation-probably due to their small size [210–212]. They are
+highly stable in tissue sections and in blood. Thus their relatively
+easy and reproducible detection makes them good candidates for
+biomarkers of cancer.
+MiRNAs can be isolated and quantiﬁed from formalin-ﬁxed parafﬁn-embedded (FFPE) specimens. qRT-PCR and microarray data
+were reliable and reproducibly obtained from FFPE samples that
+had been routinely processed and stored frozen for 10 years. The
+data from FFPE samples are consistent with those from frozen samples [213,214]. The development of qRT-PCR methods has improved
+the sensitivity of miRNA detection down to a few nanograms of total
+RNA. This amount can easily be obtained by ﬁne-needle aspiration
+
+2094
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+biopsies (FNABs); in fact there has been a report of successful miRNA
+measurement by qRT-PCR on FNAB samples [215].
+MiRNA markers that could be used for cancer diagnosis are
+becoming available. For example, miR-196a is high in pancreatic
+ductal adenocarcinoma (PDAC) but low in normal tissues and
+chronic pancreatitis [215]. miR-217 exhibits the opposite expression pattern [215]. Thus, the ratio between miR-196a to miR-217,
+calculated by qRT-PCR measurement of the two miRNAs from a
+tiny amount of total RNA, indicates whether the samples contains
+PDAC [216]. Once reliable indicator miRNAs are chosen, they will
+likely yield easy and accurate tools for cancer diagnosis.
+
+14. MicroRNAs as cancer therapeutic tools
+For the past two and half decades it has been though that cancer
+is caused by genetic and/or epigenetic alterations in protein-coding
+oncogenes and tumor suppressor genes. These ﬁndings have informed the development of novel (targeted) therapies that are
+based on speciﬁc genetic alterations involved in cancer pathogenesis. Nonetheless, with the advent of miRNAs era it was discovered
+that a number of miRNAs affect the growth of cancer cells in vitro
+and in vivo when overexpressed or inhibited. Because miRNAs
+function as oncogenes or tumor suppressors, it might be possible
+to regulate miRNA expression and/or use artiﬁcial miRNAs to regulate cancer formation.
+Overexpression or inhibition of miRNAs can be achieved in several ways. Synthetic miRNA mimics include siRNA-like oligoribonucleotide duplex [217] and chemically modiﬁed oligoribonucleotide
+[218]. Conversely, miRNAs can be inhibited by various modiﬁed
+antisense oligonucleotides such as 20 -O-methyl antisense oligonuTable 1
+MicroRNA dysregulated in human cancer.
+
+Antitumorigenic;
+
+Oncogenic.
+
+cleotide, antagomirs, and so on. As the ﬁrst successful tool for knockdown of a miRNA in vivo, antagomirs (e.g. LNA-modiﬁed antisense
+sequences) are of special interest [219]. Antagomirs appear to be
+delivered to all tissues (except brain) after tail vein injections into
+mice [220].
+Synthetic oligonucleotides are effective in vivo for most a couple of weeks, as has been demonstrated by experiments involving
+cancer cells engrafted in mice [221] and tail vein injection to mice
+[220]. To circumvent this limitation, miRNAs can be stably expressed through transcription of hairpin RNA from plasmid vector.
+Recently, artiﬁcial expression of a miRNA target sequence was
+shown to inhibit the miRNA function, presumably by titrating
+the miRNA away from endogenous targets [222,223]. Thus, it
+should be possible to apply such competitive inhibitors for longterm sequestration of a miRNA.
+More recently, the Weinberg group has described another
+in vivo approach to modulating miRNA function with possible
+therapeutic implications. Their approach involved the use of a
+sponge vector [1], a vector expressing miRNA target sites design
+to saturate and endogenous miRNA and preventing it from regulating their natural targets [224]. In this case, miR-9 was identiﬁed as
+a pro-metastatic miRNA in breast cancer [1], and the miRNA
+sponge-mediated suppression of miR-9 in the highly metastatic
+4T1 mouse mammary tumors cells reduced lung metastasis by
+50%, although no effect was observed in the onset of the primary
+tumor.
+Some chemical compounds alter the expression of a group of
+miRNAs [117]; therefore it may be possible to screen for drugs that
+could shift the miRNAome in a cancer cell toward that of a normal
+tissue. By modulating multiple miRNAs simultaneously, such a
+miRNAome modifying approach may be much more effective for
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+therapy than strategies that aim to regulate a single miRNA. Reconstitution of down-regulated miRNAs offers the theoretical edge of
+correcting the malignant defect by inducing small changes in miRNA gene dosage to a homeostatic level achieving substantive
+phenotypic alterations that counteract malignant transformation.
+Few studies of ﬂuoroquinolones have demonstrated a signiﬁcant
+growth inhibition of some tumor cells including translational cell
+carcinoma of bladder, colorectal carcinoma and prostate cancer
+cells [225–227]. One such drug is enoxacin that belongs to the family of synthetic antibacterial compounds based on a ﬂuoroquinolone skeleton [228]. This small-molecule enhances RNAi induced
+by either shRNAs or siRNA duplexes [229].
+MiRNAs also affect the drug sensitivity of a cell [197,221].
+Expression or inhibition of a miRNA can therefore be combined
+with treatment of a drug or other citotoxic therapy. One example
+is miR-21 inhibition together with a secreted form of tumor necrosis factor-related apoptosis-inducing ligand, which results in a
+complete eradication of glioblastoma cells [230].
+Collectively, preliminary results suggest that miRNAs could be
+useful for cancer therapy. However, there is still a signiﬁcant gap
+between basic research on miRNAs and clinical application. Extensive preclinical and translational research is necessary to increase
+the efﬁcacy and minimize the side effects of miRNAs-based
+therapy.
+15. Conclusions
+In summary miRNAs play critical roles in the tumorigenic process
+and altered miRNA expression is associated with the process of carcinogenesis and culminates in the development of cancer. Examples
+of miRNAs involved in human cancer are shown in Table 1.
+MiRNAs proﬁles are signiﬁcantly altered in numerous cancers
+affecting the cells transcriptome. Nonetheless, these small RNAs
+are also subjected to regulation by many cancer-associated proteins such as p53 and c-Myc. Their expression patterns depend
+upon tumor origin, histotype, stage and grade. MiRNAs inﬂuence
+treatment responses and curability of tumors.
+The complexity of the miRNA network and therefore, the possible alterations that they may suffer in the malignant process, is further intensiﬁed by the discovery of miRNA functions that fall
+outside their classic range. For example, there is evidence of miRNA-mediated increases in protein translation [23], nuclear import
+of miRNAs with distinctive hexanucleotide terminal motifs [76]
+and the secretion of miRNAs [231,232]. Furthermore, an alternative
+processing pathways has been uncovered in Drosophila melanogaster and C. elegans that bypasses DROSHA and instead uses a splicing
+technique to generate miRNA precursors from short intronic sequences (mirtons) [233,234,38]. Most importantly, we should be
+aware that miRNAs have also opened the door for the study of
+other non-coding RNAs in cancer, such as transcribed-ultraconserved regions (T-UCRs), that are also impaired in human tumors
+[235] and many times associated with promoter CpG island methylation silencing [236]. From a traslational standpoint, proﬁles of promoter hypermethylated miRNAs loci have started to show value as
+metastasis predictors [237]. In the future, miRNAs, and other noncoding RNAs, may serve as excellent biomarkers for early detection
+of tumors, and individual tailoring of therapeutic strategies.
+References
+[1] Ma, L. et al. (2010) miR-9, a MYC/MYCN-activated microRNA, regulates Ecadherin and cancer metastasis. Nat. Cell Biol. 12, 247–256.
+[2] Lu, J. et al. (2005) MicroRNA expression proﬁles classify human cancers.
+Nature 435, 834–838.
+[3] Kumar, M.S., Lu, J., Mercer, K.L., Golub, T.R. and Jacks, T. (2007) Impaired
+microRNA processing enhances cellular transformation and tumorigenesis.
+Nat. Genet. 39, 673–677.
+
+2095
+
+[4] Chang, T.C. et al. (2008) Widespread microRNA repression by Myc contributes
+to tumorigenesis. Nat. Genet. 40, 43–50.
+[5] Melo, S.A. et al. (2009) A TARBP2 mutation in human cancer impairs
+microRNA processing and DICER1 function. Nat. Genet. 41, 365–370.
+[6] Kim, V.N. and Nam, J.W. (2006) Genomics of microRNA. Trends Genet. 22,
+165–173.
+[7] Bartel, B. (2005) MicroRNAs directing siRNA biogenesis. Nat. Struct. Mol. Biol.
+12, 569–571.
+[8] Bartel, D.P. (2004) MicroRNAs: genomics, biogenesis, mechanism, and
+function. Cell 116, 281–297.
+[9] Friedman, R.C., Farh, K.K., Burge, C.B. and Bartel, D.P. (2009) Most mammalian
+mRNAs are conserved targets of microRNAs. Genome Res. 19, 92–105.
+[10] Bartel, D.P. (2009) MicroRNAs: target recognition and regulatory functions.
+Cell 136, 215–233.
+[11] Bushati, N. and Cohen, S.M. (2007) MicroRNA functions. Annu. Rev. Cell Dev.
+Biol. 23, 175–205.
+[12] Ghildiyal, M. and Zamore, P.D. (2009) Small silencing RNAs: an expanding
+universe. Nat. Rev. Genet. 10, 94–108.
+[13] Fire, A., Xu, S., Montgomery, M.K., Kostas, S.A., Driver, S.E. and Mello, C.C.
+(1998) Potent and speciﬁc genetic interference by double-stranded RNA in
+Caenorhabditis elegans. Nature 391, 806–811.
+[14] Neilson, J.R. and Sharp, P.A. (2008) Small RNA regulators of gene expression.
+Cell 134, 899–902.
+[15] Lee, R.C., Feinbaum, R.L. and Ambros, V. (1993) The C. elegans heterochronic
+gene lin-4 encodes small RNAs with antisense complementarity to lin-14.
+Cell 75, 843–854.
+[16] Fujita, S. and Iba, H. (2008) Putative promoter regions of miRNA genes
+involved in evolutionarily conserved regulatory systems among vertebrates.
+Bioinformatics 24, 303–308.
+[17] Bagga, S., Bracht, J., Hunter, S., Massirer, K., Holtz, J., Eachus, R. and
+Pasquinelli, A.E. (2005) Regulation by let-7 and lin-4 miRNAs results in
+target mRNA degradation. Cell 122, 553–563.
+[18] Giraldez, A.J., Mishima, Y., Rihel, J., Grocock, R.J., Van Dongen, S., Inoue, K.,
+Enright, A.J. and Schier, A.F. (2006) Zebraﬁsh MiR-430 promotes
+deadenylation and clearance of maternal mRNAs. Science 312, 75–79.
+[19] Pillai, R.S., Bhattacharyya, S.N., Artus, C.G., Zoller, T., Cougot, N., Basyuk, E.,
+Bertrand, E. and Filipowicz, W. (2005) Inhibition of translational initiation by
+Let-7 MicroRNA in human cells. Science 309, 1573–1576.
+[20] Orom, U.A., Nielsen, F.C. and Lund, A.H. (2008) MicroRNA-10a binds the
+5’UTR of ribosomal protein mRNAs and enhances their translation. Mol. Cell
+30, 460–471.
+[21] Gu, S., Jin, L., Zhang, F., Sarnow, P. and Kay, M.A. (2009) Biological basis for
+restriction of microRNA targets to the 30 untranslated region in mammalian
+mRNAs. Nat. Struct. Mol. Biol. 16, 144–150.
+[22] Rigoutsos, I. (2009) New tricks for animal microRNAS: targeting of amino
+acid coding regions at conserved and nonconserved sites. Cancer Res. 69,
+3245–3248.
+[23] Vasudevan, S., Tong, Y. and Steitz, J.A. (2007) Switching from repression to
+activation: microRNAs can up-regulate translation. Science 318,
+1931–1934.
+[24] Place, R.F., Li, L.C., Pookot, D., Noonan, E.J. and Dahiya, R. (2008) MicroRNA373 induces expression of genes with complementary promoter sequences.
+Proc. Natl. Acad. Sci. USA 105, 1608–1613.
+[25] Eiring, A.M. et al. (2010) miR-328 functions as an RNA decoy to modulate
+hnRNP E2 regulation of mRNA translation in leukemic blasts. Cell 140, 652–
+665.
+[26] Lagos-Quintana, M., Rauhut, R., Yalcin, A., Meyer, J., Lendeckel, W. and Tuschl,
+T. (2002) Identiﬁcation of tissue-speciﬁc microRNAs from mouse. Curr. Biol.
+12, 735–739.
+[27] Krichevsky, A.M., King, K.S., Donahue, C.P., Khrapko, K. and Kosik, K.S. (2003)
+A microRNA array reveals extensive regulation of microRNAs during brain
+development. RNA 9, 1274–1281.
+[28] Miska, E.A., Alvarez-Saavedra, E., Townsend, M., Yoshii, A., Sestan, N., Rakic, P.,
+Constantine-Paton, M. and Horvitz, H.R. (2004) Microarray analysis of microRNA expression in the developing mammalian brain. Genome Biol. 5, R68.
+[29] Cai, X., Hagedorn, C.H. and Cullen, B.R. (2004) Human microRNAs are
+processed from capped, polyadenylated transcripts that can also function as
+mRNAs. RNA 10, 1957–1966.
+[30] Lee, Y., Kim, M., Han, J., Yeom, K.H., Lee, S., Baek, S.H. and Kim, V.N. (2004)
+MicroRNA genes are transcribed by RNA polymerase II. EMBO J. 23, 4051–
+4060.
+[31] Borchert, G.M., Lanier, W. and Davidson, B.L. (2006) RNA polymerase III
+transcribes human microRNAs. Nat. Struct. Mol. Biol. 13, 1097–1101.
+[32] Lee, Y. et al. (2003) The nuclear RNase III Drosha initiates microRNA
+processing. Nature 425, 415–419.
+[33] Denli, A.M., Tops, B.B., Plasterk, R.H., Ketting, R.F. and Hannon, G.J. (2004)
+Processing of primary microRNAs by the microprocessor complex. Nature
+432, 231–235.
+[34] Gregory, R.I., Yan, K.P., Amuthan, G., Chendrimada, T., Doratotaj, B., Cooch, N.
+and Shiekhattar, R. (2004) The microprocessor complex mediates the genesis
+of microRNAs. Nature 432, 235–240.
+[35] Han, J. et al. (2006) Molecular basis for the recognition of primary microRNAs
+by the Drosha-DGCR8 complex. Cell 125, 887–901.
+[36] Basyuk, E., Suavet, F., Doglio, A., Bordonne, R. and Bertrand, E. (2003) Human
+let-7 stem-loop precursors harbor features of RNase III cleavage products.
+Nucleic Acids Res. 31, 6593–6597.
+
+2096
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+[37] Okamura, K., Hagen, J.W., Duan, H., Tyler, D.M. and Lai, E.C. (2007) The
+mirtron pathway generates microRNA-class regulatory RNAs in Drosophila.
+Cell 130, 89–100.
+[38] Ruby, J.G., Jan, C.H. and Bartel, D.P. (2007) Intronic microRNA precursors that
+bypass Drosha processing. Nature 448, 83–86.
+[39] Berezikov, E., Chung, W.J., Willis, J., Cuppen, E. and Lai, E.C. (2007)
+Mammalian mirtron genes. Mol. Cell 28, 328–336.
+[40] Yi, R., Qin, Y., Macara, I.G. and Cullen, B.R. (2003) Exportin-5 mediates the
+nuclear export of pre-microRNAs and short hairpin RNAs. Genes Dev. 17,
+3011–3016.
+[41] Lund, E., Guttinger, S., Calado, A., Dahlberg, J.E. and Kutay, U. (2004) Nuclear
+export of microRNA precursors. Science 303, 95–98.
+[42] Hutvagner, G., McLachlan, J., Pasquinelli, A.E., Balint, E., Tuschl, T. and
+Zamore, P.D. (2001) A cellular function for the RNA-interference enzyme
+Dicer in the maturation of the let-7 small temporal RNA. Science 293, 834–
+838.
+[43] Lamontagne, B., Larose, S., Boulanger, J. and Elela, S.A. (2001) The RNase III
+family: a conserved structure and expanding functions in eukaryotic dsRNA
+metabolism. Curr. Issues Mol. Biol. 3, 71–78.
+[44] Carmell, M.A. and Hannon, G.J. (2004) RNase III enzymes and the initiation of
+gene silencing. Nat. Struct. Mol. Biol. 11, 214–218.
+[45] Filipowicz, W. (2005) RNAi: the nuts and bolts of the RISC machine. Cell 122,
+17–20.
+[46] Bernstein, E., Caudy, A.A., Hammond, S.M. and Hannon, G.J. (2001) Role for a
+bidentate ribonuclease in the initiation step of RNA interference. Nature 409,
+363–366.
+[47] Bernstein, E. et al. (2003) Dicer is essential for mouse development. Nat.
+Genet. 35, 215–217.
+[48] Chendrimada, T.P., Gregory, R.I., Kumaraswamy, E., Norman, J., Cooch, N.,
+Nishikura, K. and Shiekhattar, R. (2005) TRBP recruits the Dicer complex to
+Ago2 for microRNA processing and gene silencing. Nature 436, 740–744.
+[49] Haase, A.D., Jaskiewicz, L., Zhang, H., Laine, S., Sack, R., Gatignol, A. and
+Filipowicz, W. (2005) TRBP, a regulator of cellular PKR and HIV-1 virus
+expression, interacts with Dicer and functions in RNA silencing. EMBO Rep. 6,
+961–967.
+[50] Rossi, J.J. (2005) Mammalian Dicer ﬁnds a partner. EMBO Rep. 6, 927–929.
+[51] Castanotto, D. et al. (2007) Combinatorial delivery of small interfering RNAs
+reduces RNAi efﬁcacy by selective incorporation into RISC. Nucleic Acids Res.
+35, 5154–5164.
+[52] Parker, G.S., Maity, T.S. and Bass, B.L. (2008) DsRNA binding properties of
+RDE-4 and TRBP reﬂect their distinct roles in RNAi. J. Mol. Biol. 384, 967–979.
+[53] Lai, E.C. (2002) Micro RNAs are complementary to 30 UTR sequence motifs
+that mediate negative post-transcriptional regulation. Nat. Genet. 30, 363–
+364.
+[54] Lewis, B.P., Shih, I.H., Jones-Rhoades, M.W., Bartel, D.P. and Burge, C.B. (2003)
+Prediction of mammalian microRNA targets. Cell 115, 787–798.
+[55] Stark, A., Brennecke, J., Russell, R.B. and Cohen, S.M. (2003) Identiﬁcation of
+Drosophila MicroRNA targets. PLoS Biol. 1, E60.
+[56] Grimson, A., Farh, K.K., Johnston, W.K., Garrett-Engele, P., Lim, L.P. and Bartel,
+D.P. (2007) MicroRNA targeting speciﬁcity in mammals: determinants
+beyond seed pairing. Mol. Cell 27, 91–105.
+[57] Krek, A. et al. (2005) Combinatorial microRNA target predictions. Nat. Genet.
+37, 495–500.
+[58] Lewis, B.P., Burge, C.B. and Bartel, D.P. (2005) Conserved seed pairing, often
+ﬂanked by adenosines, indicates that thousands of human genes are
+microRNA targets. Cell 120, 15–20.
+[59] Wu, S., Huang, S., Ding, J., Zhao, Y., Liang, L., Liu, T., Zhan, R. and He, X. (2010)
+Multiple microRNAs modulate p21Cip1/Waf1 expression by directly
+targeting its 30 untranslated region. Oncogene 29, 2302–2308.
+[60] Kim, V.N., Han, J. and Siomi, M.C. (2009) Biogenesis of small RNAs in animals.
+Nat. Rev. Mol. Cell Biol. 10, 126–139.
+[61] Chen, J.F., Mandel, E.M., Thomson, J.M., Wu, Q., Callis, T.E., Hammond, S.M.,
+Conlon, F.L. and Wang, D.Z. (2006) The role of microRNA-1 and microRNA133 in skeletal muscle proliferation and differentiation. Nat. Genet. 38, 228–
+233.
+[62] Kim, H.K., Lee, Y.S., Sivaprasad, U., Malhotra, A. and Dutta, A. (2006) Musclespeciﬁc microRNA miR-206 promotes muscle differentiation. J. Cell Biol. 174,
+677–687.
+[63] Rao, P.K., Kumar, R.M., Farkhondeh, M., Baskerville, S. and Lodish, H.F. (2006)
+Myogenic factors that regulate expression of muscle-speciﬁc microRNAs.
+Proc. Natl. Acad. Sci. USA 103, 8721–8726.
+[64] He, L. et al. (2005) A microRNA polycistron as a potential human oncogene.
+Nature 435, 828–833.
+[65] Esteller, M. (2008) Epigenetics in cancer. N. Engl. J. Med. 358, 1148–1159.
+[66] Davalos, V. and Esteller, M. (2010) MicroRNAs and cancer epigenetics: a
+macrorevolution. Curr. Opin. Oncol. 22, 35–45.
+[67] Guil, S. and Esteller, M. (2009) DNA methylomes, histone codes and miRNAs:
+tying it all together. Int. J. Biochem. Cell Biol. 41, 87–95.
+[68] Davis, B.N., Hilyard, A.C., Lagna, G. and Hata, A. (2008) SMAD proteins control
+DROSHA-mediated microRNA maturation. Nature 454, 56–61.
+[69] Guil, S. and Caceres, J.F. (2007) The multifunctional RNA-binding protein
+hnRNP A1 is required for processing of miR-18a. Nat. Struct. Mol. Biol. 14,
+591–596.
+[70] Pasquinelli, A.E. et al. (2000) Conservation of the sequence and temporal
+expression of let-7 heterochronic regulatory RNA. Nature 408, 86–89.
+
+[71] Wulczyn, F.G. et al. (2007) Post-transcriptional regulation of the let-7
+microRNA during neural cell speciﬁcation. FASEB J. 21, 415–426.
+[72] Thomson, J.M., Newman, M., Parker, J.S., Morin-Kensicki, E.M., Wright, T. and
+Hammond, S.M. (2006) Extensive post-transcriptional regulation of
+microRNAs and its implications for cancer. Genes Dev. 20, 2202–2207.
+[73] Newman, M.A., Thomson, J.M. and Hammond, S.M. (2008) Lin-28 interaction
+with the Let-7 precursor loop mediates regulated microRNA processing. RNA
+14, 1539–1549.
+[74] Viswanathan, S.R., Daley, G.Q. and Gregory, R.I. (2008) Selective blockade of
+microRNA processing by Lin28. Science 320, 97–100.
+[75] Rybak, A., Fuchs, H., Smirnova, L., Brandt, C., Pohl, E.E., Nitsch, R. and
+Wulczyn, F.G. (2008) A feedback loop comprising lin-28 and let-7 controls
+pre-let-7 maturation during neural stem-cell commitment. Nat. Cell Biol. 10,
+987–993.
+[76] Hwang, H.W., Wentzel, E.A. and Mendell, J.T. (2007) A hexanucleotide
+element directs microRNA nuclear import. Science 315, 97–100.
+[77] Winter, J., Jung, S., Keller, S., Gregory, R.I. and Diederichs, S. (2009) Many
+roads to maturity: microRNA biogenesis pathways and their regulation. Nat.
+Cell Biol. 11, 228–234.
+[78] Kawahara, Y., Zinshteyn, B., Sethupathy, P., Iizasa, H., Hatzigeorgiou, A.G. and
+Nishikura, K. (2007) Redirection of silencing targets by adenosine-to-inosine
+editing of miRNAs. Science 315, 1137–1140.
+[79] Kawahara, Y., Zinshteyn, B., Chendrimada, T.P., Shiekhattar, R. and Nishikura,
+K. (2007) RNA editing of the microRNA-151 precursor blocks cleavage by the
+Dicer-TRBP complex. EMBO Rep. 8, 763–769.
+[80] Yang, W., Chendrimada, T.P., Wang, Q., Higuchi, M., Seeburg, P.H., Shiekhattar,
+R. and Nishikura, K. (2006) Modulation of microRNA processing and
+expression through RNA editing by ADAR deaminases. Nat. Struct. Mol.
+Biol. 13, 13–21.
+[81] Obernosterer, G., Leuschner, P.J., Alenius, M. and Martinez, J. (2006) Posttranscriptional regulation of microRNA expression. RNA 12, 1161–1167.
+[82] Fazi, F., Rosa, A., Fatica, A., Gelmetti, V., De Marchis, M.L., Nervi, C. and
+Bozzoni, I. (2005) A minicircuitry comprised of microRNA-223 and
+transcription
+factors
+NFI-A
+and
+C/EBPalpha
+regulates
+human
+granulopoiesis. Cell 123, 819–831.
+[83] O’Donnell, K.A., Wentzel, E.A., Zeller, K.I., Dang, C.V. and Mendell, J.T. (2005)
+C-Myc-regulated microRNAs modulate E2F1 expression. Nature 435, 839–
+843.
+[84] Zhao, Y., Samal, E. and Srivastava, D. (2005) Serum response factor regulates a
+muscle-speciﬁc microRNA that targets Hand2 during cardiogenesis. Nature
+436, 214–220.
+[85] Ventura, A. and Jacks, T. (2009) MicroRNAs and cancer: short RNAs go a long
+way. Cell 136, 586–591.
+[86] Calin, G.A. et al. (2002) Frequent deletions and down-regulation of microRNA genes miR15 and miR16 at 13q14 in chronic lymphocytic leukemia.
+Proc. Natl. Acad. Sci. USA 99, 15524–15529.
+[87] Calin, G.A. et al. (2004) Human microRNA genes are frequently located at
+fragile sites and genomic regions involved in cancers. Proc. Natl. Acad. Sci.
+USA 101, 2999–3004.
+[88] Sevignani, C. et al. (2007) MicroRNA genes are frequently located near mouse
+cancer susceptibility loci. Proc. Natl. Acad. Sci. USA 104, 8017–8022.
+[89] Zhang, L. et al. (2006) MicroRNAs exhibit high frequency genomic alterations
+in human cancer. Proc. Natl. Acad. Sci. USA 103, 9136–9141.
+[90] Lujambio, A. et al. (2007) Genetic unmasking of an epigenetically silenced
+microRNA in human cancer cells. Cancer Res. 67, 1424–1429.
+[91] Viswanathan, S.R. and Daley, G.Q. (2010) Lin28: a microRNA regulator with a
+macro role. Cell 140, 445–449.
+[92] Viswanathan, S.R. et al. (2009) Lin28 promotes transformation and is
+associated with advanced human malignancies. Nat. Genet. 41, 843–848.
+[93] Ozen, M., Creighton, C.J., Ozdemir, M. and Ittmann, M. (2008) Widespread
+deregulation of microRNA expression in human prostate cancer. Oncogene
+27, 1788–1793.
+[94] Marton, S. et al. (2008) Small RNAs analysis in CLL reveals a deregulation of
+miRNA expression and novel miRNA candidates of putative relevance in CLL
+pathogenesis. Leukemia 22, 330–338.
+[95] Croce, C.M. (2009) Causes and consequences of microRNA dysregulation in
+cancer. Nat. Rev. Genet. 10, 704–714.
+[96] Shah, Y.M., Morimura, K., Yang, Q., Tanabe, T., Takagi, M. and Gonzalez, F.J.
+(2007) Peroxisome proliferator-activated receptor alpha regulates a
+microRNA-mediated signaling cascade responsible for hepatocellular
+proliferation. Mol. Cell. Biol. 27, 4238–4247.
+[97] Mott, J.L., Kobayashi, S., Bronk, S.F. and Gores, G.J. (2007) Mir-29 regulates
+Mcl-1 protein expression and apoptosis. Oncogene 26, 6133–6140.
+[98] Kluiver, J. et al. (2007) Regulation of pri-microRNA BIC transcription and
+processing in Burkitt lymphoma. Oncogene 26, 3769–3776.
+[99] Lee, E.J., Baek, M., Gusev, Y., Brackett, D.J., Nuovo, G.J. and Schmittgen, T.D.
+(2008) Systematic evaluation of microRNA processing patterns in tissues, cell
+lines, and tumors. RNA 14, 35–42.
+[100] Michael, M.Z., SM, O.C., van Holst Pellekaan, N.G., Young, G.P. and James, R.J.
+(2003) Reduced accumulation of speciﬁc microRNAs in colorectal neoplasia.
+Mol. Cancer Res. 1, 882–891.
+[101] Lu, Y., Thomson, J.M., Wong, H.Y., Hammond, S.M. and Hogan, B.L. (2007)
+Transgenic over-expression of the microRNA miR-17–92 cluster promotes
+proliferation and inhibits differentiation of lung epithelial progenitor cells.
+Dev. Biol. 310, 442–453.
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+[102] Mineno, J. et al. (2006) The expression proﬁle of microRNAs in mouse
+embryos. Nucleic Acids Res. 34, 1765–1771.
+[103] Lofﬂer, D. et al. (2007) Interleukin-6 dependent survival of multiple myeloma
+cells involves the Stat3-mediated induction of microRNA-21 through a highly
+conserved enhancer. Blood 110, 1330–1333.
+[104] Blenkiron, C. et al. (2007) MicroRNA expression proﬁling of human breast
+cancer identiﬁes new markers of tumor subtype. Genome Biol. 8, R214.
+[105] Chiosea, S., Jelezcova, E., Chandran, U., Luo, J., Mantha, G., Sobol, R.W. and
+Dacic, S. (2007) Overexpression of Dicer in precursor lesions of lung
+adenocarcinoma. Cancer Res. 67, 2345–2350.
+[106] Muralidhar, B. et al. (2007) Global microRNA proﬁles in cervical squamous
+cell carcinoma depend on Drosha expression levels. J. Pathol. 212, 368–377.
+[107] Karube, Y. et al. (2005) Reduced expression of Dicer associated with poor
+prognosis in lung cancer patients. Cancer Sci. 96, 111–115.
+[108] Nakamura, T., Canaani, E. and Croce, C.M. (2007) Oncogenic All1 fusion
+proteins target Drosha-mediated microRNA processing. Proc. Natl. Acad. Sci.
+USA 104, 10980–10985.
+[109] Kumar, M.S. et al. (2009) Dicer1 functions as a haploinsufﬁcient tumor
+suppressor. Genes Dev. 23, 2700–2704.
+[110] Costinean, S., Zanesi, N., Pekarsky, Y., Tili, E., Volinia, S., Heerema, N. and
+Croce, C.M. (2006) Pre-B cell proliferation and lymphoblastic leukemia/highgrade lymphoma in E(mu)-miR155 transgenic mice. Proc. Natl. Acad. Sci. USA
+103, 7024–7029.
+[111] Klein, U. et al. (2010) The DLEU2/miR-15a/16-1 cluster controls B cell
+proliferation and its deletion leads to chronic lymphocytic leukemia. Cancer
+Cell. 17, 28–40.
+[112] Veeck, J. and Esteller, M. (2010) Breast cancer epigenetics: from DNA
+methylation to microRNAs. J. Mammary Gland Biol. Neoplasia 15, 5–17.
+[113] Davalos, V. and Esteller, M. (2010) MicroRNAs and cancer epigenetics: a
+macrorevolution. Curr. Opin. Oncol. 22, 35–45.
+[114] Lujambio, A. and Esteller, M. (2009) How epigenetics can explain human
+metastasis: a new role for microRNAs. Cell Cycle 8, 377–382.
+[115] Weber, B., Stresemann, C., Brueckner, B. and Lyko, F. (2007) Methylation of
+human microRNA genes in normal and neoplastic cells. Cell Cycle 6, 1001–
+1005.
+[116] Lehmann, U., Hasemeier, B., Christgen, M., Muller, M., Romermann, D.,
+Langer, F. and Kreipe, H. (2008) Epigenetic inactivation of microRNA gene
+hsa-mir-9-1 in human breast cancer. J. Pathol. 214, 17–24.
+[117] Scott, G.K., Mattie, M.D., Berger, C.E., Benz, S.C. and Benz, C.C. (2006) Rapid
+alteration of microRNA levels by histone deacetylase inhibition. Cancer Res.
+66, 1277–1281.
+[118] Bueno, M.J. et al. (2008) Genetic and epigenetic silencing of microRNA-203
+enhances ABL1 and BCR-ABL1 oncogene expression. Cancer Cell 13, 496–506.
+[119] Saito, Y., Liang, G., Egger, G., Friedman, J.M., Chuang, J.C., Coetzee, G.A. and
+Jones, P.A. (2006) Speciﬁc activation of microRNA-127 with down-regulation
+of the proto-oncogene BCL6 by chromatin-modifying drugs in human cancer
+cells. Cancer Cell 9, 435–443.
+[120] Chuang, J.C. and Jones, P.A. (2007) Epigenetics and microRNAs. Pediatr. Res.
+61, 24R–29R.
+[121] Takamizawa, J. et al. (2004) Reduced expression of the let-7 microRNAs in
+human lung cancers in association with shortened postoperative survival.
+Cancer Res. 64, 3753–3756.
+[122] Yanaihara, N. et al. (2006) Unique microRNA molecular proﬁles in lung
+cancer diagnosis and prognosis. Cancer Cell 9, 189–198.
+[123] Brueckner, B., Stresemann, C., Kuner, R., Mund, C., Musch, T., Meister, M.,
+Sultmann, H. and Lyko, F. (2007) The human let-7a-3 locus contains an
+epigenetically regulated microRNA gene with oncogenic function. Cancer
+Res. 67, 1419–1423.
+[124] Fabbri, M. et al. (2007) MicroRNA-29 family reverts aberrant methylation in
+lung cancer by targeting DNA methyltransferases 3A and 3B. Proc. Natl. Acad.
+Sci. USA 104, 15805–15810.
+[125] Cimmino, A. et al. (2005) MiR-15 and miR-16 induce apoptosis by targeting
+BCL2. Proc. Natl. Acad. Sci. USA 102, 13944–13949.
+[126] Sanchez-Beato, M., Sanchez-Aguilera, A. and Piris, M.A. (2003) Cell cycle
+deregulation in B-cell lymphomas. Blood 101, 1220–1235.
+[127] Johnson, S.M. et al. (2005) RAS is regulated by the let-7 microRNA family. Cell
+120, 635–647.
+[128] Iorio, M.V. et al. (2005) MicroRNA gene expression deregulation in human
+breast cancer. Cancer Res. 65, 7065–7070.
+[129] Korpal, M., Lee, E.S., Hu, G. and Kang, Y. (2008) The miR-200 family inhibits
+epithelial-mesenchymal transition and cancer cell migration by direct
+targeting of E-cadherin transcriptional repressors ZEB1 and ZEB2. J. Biol.
+Chem. 283, 14910–14914.
+[130] Ma, L., Teruya-Feldstein, J. and Weinberg, R.A. (2007) Tumour invasion and
+metastasis initiated by microRNA-10b in breast cancer. Nature 449, 682–688.
+[131] Kota, J. et al. (2009) Therapeutic microRNA delivery suppresses
+tumorigenesis in a murine liver cancer model. Cell 137, 1005–1017.
+[132] Ji, J. et al. (2009) MicroRNA expression, survival, and response to interferon in
+liver cancer. N. Engl. J. Med. 361, 1437–1447.
+[133] Voorhoeve, P.M. et al. (2006) A genetic screen implicates miRNA-372 and
+miRNA-373 as oncogenes in testicular germ cell tumors. Cell 124, 1169–
+1181.
+[134] Eis, P.S., Tam, W., Sun, L., Chadburn, A., Li, Z., Gomez, M.F., Lund, E. and
+Dahlberg, J.E. (2005) Accumulation of miR-155 and BIC RNA in human B cell
+lymphomas. Proc. Natl. Acad. Sci. USA 102, 3627–3632.
+
+2097
+
+[135] Tam, W. and Dahlberg, J.E. (2006) MiR-155/BIC as an oncogenic microRNA.
+Genes Chromosomes Cancer 45, 211–212.
+[136] Hayashita, Y. et al. (2005) A polycistronic microRNA cluster, miR-17-92, is
+overexpressed in human lung cancers and enhances cell proliferation. Cancer
+Res. 65, 9628–9632.
+[137] Yang, J., Zhou, F., Xu, T., Deng, H., Ge, Y.Y., Zhang, C., Li, J. and Zhuang, S.M.
+(2008) Analysis of sequence variations in 59 microRNAs in hepatocellular
+carcinomas. Mutat. Res. 638, 205–209.
+[138] He, H. et al. (2005) The role of microRNA genes in papillary thyroid
+carcinoma. Proc. Natl. Acad. Sci. USA 102, 19075–19080.
+[139] Diederichs, S. and Haber, D.A. (2006) Sequence variations of microRNAs in
+human cancer: alterations in predicted secondary structure do not affect
+processing. Cancer Res. 66, 6097–6104.
+[140] Yu, Z., Li, Z., Jolicoeur, N., Zhang, L., Fortin, Y., Wang, E., Wu, M. and Shen, S.H.
+(2007) Aberrant allele frequencies of the SNPs located in microRNA target
+sites are potentially associated with human cancers. Nucleic Acids Res. 35,
+4535–4541.
+[141] Abelson, J.F. et al. (2005) Sequence variants in SLITRK1 are associated with
+Tourette’s syndrome. Science 310, 317–320.
+[142] Clop, A. et al. (2006) A mutation creating a potential illegitimate microRNA
+target site in the myostatin gene affects muscularity in sheep. Nat. Genet. 38,
+813–818.
+[143] Adams, B.D., Furneaux, H. and White, B.A. (2007) The micro-ribonucleic acid
+(miRNA) miR-206 targets the human estrogen receptor-alpha (ERalpha) and
+represses ERalpha messenger RNA and protein expression in breast cancer
+cell lines. Mol. Endocrinol. 21, 1132–1147.
+[144] Lee, Y.S. and Dutta, A. (2007) The tumor suppressor microRNA let-7 represses
+the HMGA2 oncogene. Genes Dev. 21, 1025–1030.
+[145] Mayr, C., Hemann, M.T. and Bartel, D.P. (2007) Disrupting the pairing
+between let-7 and Hmga2 enhances oncogenic transformation. Science 315,
+1576–1579.
+[146] Laneve, P., Di Marcotullio, L., Gioia, U., Fiori, M.E., Ferretti, E., Gulino, A.,
+Bozzoni, I. and Caffarelli, E. (2007) The interplay between microRNAs and the
+neurotrophin receptor tropomyosin-related kinase C controls proliferation of
+human neuroblastoma cells. Proc. Natl. Acad. Sci. USA 104, 7957–7962.
+[147] Mayr, C. and Bartel, D.P. (2009) Widespread shortening of 3’UTRs by
+alternative cleavage and polyadenylation activates oncogenes in cancer
+cells. Cell 138, 673–684.
+[148] Kedde, M. et al. (2007) RNA-binding protein Dnd1 inhibits microRNA access
+to target mRNA. Cell 131, 1273–1286.
+[149] Plasterk, R.H. (2006) Micro RNAs in animal development. Cell 124, 877–881.
+[150] Koralov, S.B. et al. (2008) Dicer ablation affects antibody diversity and cell
+survival in the B lymphocyte lineage. Cell 132, 860–874.
+[151] Ventura, A. et al. (2008) Targeted deletion reveals essential and overlapping
+functions of the miR-17 through 92 family of miRNA clusters. Cell 132, 875–
+886.
+[152] Esquela-Kerscher, A. et al. (2008) The let-7 microRNA reduces tumor growth
+in mouse models of lung cancer. Cell Cycle 7, 759–764.
+[153] Kumar, M.S., Erkeland, S.J., Pester, R.E., Chen, C.Y., Ebert, M.S., Sharp, P.A. and
+Jacks, T. (2008) Suppression of non-small cell lung tumor development by
+the let-7 microRNA family. Proc. Natl. Acad. Sci. USA 105, 3903–3908.
+[154] Heo, I., Joo, C., Cho, J., Ha, M., Han, J. and Kim, V.N. (2008) Lin28 mediates the
+terminal uridylation of let-7 precursor MicroRNA. Mol. Cell 32, 276–284.
+[155] Gottardo, F. et al. (2007) Micro-RNA proﬁling in kidney and bladder cancers.
+Urol. Oncol. 25, 387–392.
+[156] Bloomston, M. et al. (2007) MicroRNA expression patterns to differentiate
+pancreatic adenocarcinoma from normal pancreas and chronic pancreatitis.
+Jama 297, 1901–1908.
+[157] Ichimi, T. et al. (2009) Identiﬁcation of novel microRNA targets based on
+microRNA signatures in bladder cancer. Int. J. Cancer 125, 345–352.
+[158] Sempere, L.F. et al. (2007) Altered MicroRNA expression conﬁned to speciﬁc
+epithelial cell subpopulations in breast cancer. Cancer Res. 67, 11612–11620.
+[159] Feber, A. et al. (2008) MicroRNA expression proﬁles of esophageal cancer. J.
+Thorac. Cardiovasc. Surg. 135, 255–260. discussion 260.
+[160] Fabbri, M., Ivan, M., Cimmino, A., Negrini, M. and Calin, G.A. (2007)
+Regulatory mechanisms of microRNAs involvement in cancer. Expert Opin.
+Biol. Ther. 7, 1009–1019.
+[161] Shin, J.Y. et al. (2000) Mutation and expression of the p27KIP1 and p57KIP2
+genes in human gastric cancer. Exp. Mol. Med. 32, 79–83.
+[162] Malashicheva, A.B., Kisliakova, T.V. and Pospelov, V.A. (2002) G1 block of the
+cell cycle during differentiation of F9 cells correlates with accumulation of
+inhibitors of the activity of cyclin-kinase complexes of proteins p21/Waf1
+and p27/Kip. Tsitologiia 44, 649–655.
+[163] le Sage, C. et al. (2007) Regulation of the p27(Kip1) tumor suppressor by miR221 and miR-222 promotes cancer cell proliferation. EMBO. J. 26, 3699–
+3708.
+[164] Gillies, J.K. and Lorimer, I.A. (2007) Regulation of p27Kip1 by miRNA 221/222
+in glioblastoma. Cell Cycle 6, 2005–2009.
+[165] Galardi, S., Mercatelli, N., Giorda, E., Massalini, S., Frajese, G.V., Ciafre, S.A. and
+Farace, M.G. (2007) MiR-221 and miR-222 expression affects the
+proliferation potential of human prostate carcinoma cell lines by targeting
+p27Kip1. J. Biol. Chem. 282, 23716–23724.
+[166] Visone, R. et al. (2007) MicroRNAs (miR)-221 and miR-222, both
+overexpressed in human thyroid papillary carcinomas, regulate p27Kip1
+protein levels and cell cycle. Endocr. Relat. Cancer 14, 791–798.
+
+2098
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+
+[167] Johnson, C.D. et al. (2007) The let-7 microRNA represses cell proliferation
+pathways in human cells. Cancer Res. 67, 7713–7722.
+[168] He, L. et al. (2007) A microRNA component of the p53 tumour suppressor
+network. Nature 447, 1130–1134.
+[169] Tarasov, V., Jung, P., Verdoodt, B., Lodygin, D., Epanchintsev, A., Menssen, A.,
+Meister, G. and Hermeking, H. (2007) Differential regulation of microRNAs by
+p53 revealed by massively parallel sequencing: miR-34a is a p53 target that
+induces apoptosis and G1-arrest. Cell Cycle 6, 1586–1593.
+[170] Linsley, P.S. et al. (2007) Transcripts targeted by the microRNA-16 family
+cooperatively regulate cell cycle progression. Mol. Cell Biol. 27, 2240–2252.
+[171] Mertens-Talcott, S.U., Chintharlapalli, S., Li, X. and Safe, S. (2007) The
+oncogenic microRNA-27a targets genes that regulate speciﬁcity protein
+transcription factors and the G2-M checkpoint in MDA-MB-231 breast cancer
+cells. Cancer Res. 67, 11001–11011.
+[172] Malumbres, M. and Barbacid, M. (2001) To cycle or not to cycle: a critical
+decision in cancer. Nat. Rev. Cancer 1, 222–231.
+[173] Volinia, S. et al. (2006) A microRNA expression signature of human solid
+tumors deﬁnes cancer gene targets. Proc. Natl. Acad. Sci. USA 103, 2257–
+2261.
+[174] Benetti, R. et al. (2008) A mammalian microRNA cluster controls DNA
+methylation and telomere recombination via Rbl2-dependent regulation of
+DNA methyltransferases. Nat. Struct. Mol. Biol. 15, 268–279.
+[175] Wang, Q., Li, Y.C., Wang, J., Kong, J., Qi, Y., Quigg, R.J. and Li, X. (2008) MiR-1792 cluster accelerates adipocyte differentiation by negatively regulating
+tumor-suppressor Rb2/p130. Proc. Natl. Acad. Sci. USA 105, 2889–2894.
+[176] Sun, F., Fu, H., Liu, Q., Tie, Y., Zhu, J., Xing, R., Sun, Z. and Zheng, X. (2008)
+Down-regulation of CCND1 and CDK6 by miR-34a induces cell cycle arrest.
+FEBS Lett. 582, 1564–1568.
+[177] He, L., He, X., Lowe, S.W. and Hannon, G.J. (2007) MicroRNAs join the p53
+network – another piece in the tumour-suppression puzzle. Nat. Rev. Cancer
+7, 819–822.
+[178] Kozaki, K., Imoto, I., Mogi, S., Omura, K. and Inazawa, J. (2008) Exploration of
+tumor-suppressive microRNAs silenced by DNA hypermethylation in oral
+cancer. Cancer Res. 68, 2094–2105.
+[179] Lal, A. et al. (2008) P16(INK4a) translation suppressed by miR-24. PLoS ONE
+3, e1864.
+[180] Ivanovska, I. et al. (2008) MicroRNAs in the miR-106b family regulate p21/
+CDKN1A and promote cell cycle progression. Mol. Cell Biol. 28, 2167–2174.
+[181] Medina, R., Zaidi, S.K., Liu, C.G., Stein, J.L., van Wijnen, A.J., Croce, C.M. and
+Stein, G.S. (2008) MicroRNAs 221 and 222 bypass quiescence and
+compromise cell survival. Cancer Res. 68, 2773–2780.
+[182] Chang, T.C. et al. (2007) Transactivation of miR-34a by p53 broadly
+inﬂuences gene expression and promotes apoptosis. Mol. Cell 26, 745–752.
+[183] Raver-Shapira, N., Marciano, E., Meiri, E., Spector, Y., Rosenfeld, N., Moskovits,
+N., Bentwich, Z. and Oren, M. (2007) Transcriptional activation of miR-34a
+contributes to p53-mediated apoptosis. Mol. Cell 26, 731–743.
+[184] Tazawa, H., Tsuchiya, N., Izumiya, M. and Nakagama, H. (2007) Tumorsuppressive miR-34a induces senescence-like growth arrest through
+modulation of the E2F pathway in human colon cancer cells. Proc. Natl.
+Acad. Sci. USA 104, 15472–15477.
+[185] Bommer, G.T. et al. (2007) P53-mediated activation of miRNA34 candidate
+tumor-suppressor genes. Curr. Biol. 17, 1298–1307.
+[186] Xi, Y., Shalgi, R., Fodstad, O., Pilpel, Y. and Ju, J. (2006) Differentially regulated
+micro-RNAs and actively translated messenger RNA transcripts by tumor
+suppressor p53 in colon cancer. Clin. Cancer Res. 12, 2014–2024.
+[187] Hu, W. et al. (2010) Negative regulation of tumor suppressor p53 by
+microRNA miR-504. Mol. Cell. 38, 689–699.
+[188] Suzuki, H.I., Yamagata, K., Sugimoto, K., Iwamoto, T., Kato, S. and Miyazono,
+K. (2009) Modulation of microRNA processing by p53. Nature 460, 529–533.
+[189] Chen, Y. and Stallings, R.L. (2007) Differential patterns of microRNA
+expression in neuroblastoma are correlated with prognosis, differentiation,
+and apoptosis. Cancer Res. 67, 976–983.
+[190] Welch, C., Chen, Y. and Stallings, R.L. (2007) MicroRNA-34a functions as a
+potential tumor suppressor by inducing apoptosis in neuroblastoma cells.
+Oncogene 26, 5017–5022.
+[191] Matsubara, H. et al. (2007) Apoptosis induction by antisense oligonucleotides
+against miR-17–5p and miR-20a in lung cancers overexpressing miR-17-92.
+Oncogene 26, 6099–6105.
+[192] Weigelt, B., Peterse, J.L. and van t Veer, L.J. (2005) Breast cancer metastasis:
+markers and models. Nat. Rev. Cancer 5, 591–602.
+[193] Nam, E.J., Yoon, H., Kim, S.W., Kim, H., Kim, Y.T., Kim, J.H., Kim, J.W. and Kim,
+S. (2008) MicroRNA expression proﬁles in serous ovarian carcinoma. Clin.
+Cancer Res. 14, 2690–2695.
+[194] Tavazoie, S.F., Alarcon, C., Oskarsson, T., Padua, D., Wang, Q., Bos, P.D., Gerald,
+W.L. and Massague, J. (2008) Endogenous human microRNAs that suppress
+breast cancer metastasis. Nature 451, 147–152.
+[195] Leite, K.R., Sousa-Canavez, J.M., Reis, S.T., Tomiyama, A.H., Camara-Lopes,
+L.H., Sanudo, A., Antunes, A.A. and Srougi, M. (2009) Change in expression of
+miR-let7c, miR-100, and miR-218 from high grade localized prostate cancer
+to metastasis. Urol. Oncol..
+[196] Scott, G.K., Goga, A., Bhaumik, D., Berger, C.E., Sullivan, C.S. and Benz, C.C.
+(2007) Coordinate suppression of ERBB2 and ERBB3 by enforced expression
+of micro-RNA miR-125a or miR-125b. J. Biol. Chem. 282, 1479–1486.
+[197] Meng, F., Henson, R., Wehbe-Janek, H., Ghoshal, K., Jacob, S.T. and Patel, T.
+(2007) MicroRNA-21 regulates expression of the PTEN tumor suppressor
+gene in human hepatocellular cancer. Gastroenterology 133, 647–658.
+
+[198] Asangani, I.A., Rasheed, S.A., Nikolova, D.A., Leupold, J.H., Colburn, N.H., Post,
+S. and Allgayer, H. (2008) MicroRNA-21 (miR-21) post-transcriptionally
+downregulates tumor suppressor Pdcd4 and stimulates invasion,
+intravasation and metastasis in colorectal cancer. Oncogene 27, 2128–2136.
+[199] Graupera, M. et al. (2008) Angiogenesis selectively requires the p110alpha
+isoform of PI3K to control endothelial cell migration. Nature 453,
+662–666.
+[200] Wurdinger, T. et al. (2008) MiR-296 regulates growth factor receptor
+overexpression in angiogenic endothelial cells. Cancer Cell 14, 382–393.
+[201] Suarez, Y. et al. (2008) Dicer-dependent endothelial microRNAs are necessary
+for postnatal angiogenesis. Proc. Natl. Acad. Sci. USA 105, 14082–14087.
+[202] Chen, Y. and Gorski, D.H. (2008) Regulation of angiogenesis through a
+microRNA (miR-130a) that down-regulates antiangiogenic homeobox genes
+GAX and HOXA5. Blood 111, 1217–1226.
+[203] Fasanaro, P., D’Alessandra, Y., Di Stefano, V., Melchionna, R., Romani, S.,
+Pompilio, G., Capogrossi, M.C. and Martelli, F. (2008) MicroRNA-210
+modulates endothelial cell response to hypoxia and inhibits the receptor
+tyrosine kinase ligand Ephrin-A3. J. Biol. Chem. 283, 15878–15883.
+[204] Dews, M. et al. (2006) Augmentation of tumor angiogenesis by a Mycactivated microRNA cluster. Nat. Genet. 38, 1060–1065.
+[205] Lee, D.Y., Deng, Z., Wang, C.H. and Yang, B.B. (2007) MicroRNA-378 promotes
+cell survival, tumor growth, and angiogenesis by targeting SuFu and Fus-1
+expression. Proc. Natl. Acad. Sci. USA 104, 20350–20355.
+[206] Samols, M.A., Skalsky, R.L., Maldonado, A.M., Riva, A., Lopez, M.C., Baker, H.V.
+and Renne, R. (2007) Identiﬁcation of cellular genes targeted by KSHVencoded microRNAs. PLoS Pathol. 3, e65.
+[207] Fish, J.E. et al. (2008) MiR-126 regulates angiogenic signaling and vascular
+integrity. Dev. Cell 15, 272–284.
+[208] Wang, S. et al. (2008) The endothelial-speciﬁc microRNA miR-126 governs
+vascular integrity and angiogenesis. Dev. Cell 15, 261–271.
+[209] Eder, M. and Scherr, M. (2005) MicroRNA and lung cancer. N. Engl. J. Med.
+352, 2446–2448.
+[210] Lim, L.P. et al. (2005) Microarray analysis shows that some microRNAs
+downregulate large numbers of target mRNAs. Nature 433, 769–773.
+[211] Tang, F., Hajkova, P., Barton, S.C., Lao, K. and Surani, M.A. (2006) MicroRNA
+expression proﬁling of single whole embryonic stem cells. Nucleic Acids Res.
+34, e9.
+[212] Kim do, N. et al. (2007) Expression of viral microRNAs in Epstein-Barr virusassociated gastric carcinoma. J. Virol. 81, 1033–1036.
+[213] Xi, Y., Nakajima, G., Gavin, E., Morris, C.G., Kudo, K., Hayashi, K. and Ju, J.
+(2007) Systematic analysis of microRNA expression of RNA extracted from
+fresh frozen and formalin-ﬁxed parafﬁn-embedded samples. RNA 13, 1668–
+1674.
+[214] Lawrie, C.H. et al. (2007) MicroRNA expression distinguishes between
+germinal center B cell-like and activated B cell-like subtypes of diffuse
+large B cell lymphoma. Int. J. Cancer 121, 1156–1161.
+[215] Szafranska, A.E. et al. (2008) Analysis of microRNAs in pancreatic ﬁne-needle
+aspirates can classify benign and malignant tissues. Clin. Chem. 54, 1716–
+1724.
+[216] Szafranska, A.E., Davison, T.S., John, J., Cannon, T., Sipos, B., Maghnouj, A.,
+Labourier, E. and Hahn, S.A. (2007) MicroRNA expression alterations are
+linked to tumorigenesis and non-neoplastic processes in pancreatic ductal
+adenocarcinoma. Oncogene 26, 4442–4452.
+[217] Hutvagner, G. and Zamore, P.D. (2002) A microRNA in a multiple-turnover
+RNAi enzyme complex. Science 297, 2056–2060.
+[218] Hossain, A., Kuo, M.T. and Saunders, G.F. (2006) Mir-17-5p regulates breast
+cancer cell proliferation by inhibiting translation of AIB1 mRNA. Mol. Cell.
+Biol. 26, 8191–8201.
+[219] Krutzfeldt, J., Rajewsky, N., Braich, R., Rajeev, K.G., Tuschl, T., Manoharan, M.
+and Stoffel, M. (2005) Silencing of microRNAs in vivo with ’antagomirs’.
+Nature 438, 685–689.
+[220] Elmen, J. et al. (2008) Antagonism of microRNA-122 in mice by systemically
+administered LNA-antimiR leads to up-regulation of a large set of predicted
+target mRNAs in the liver. Nucleic Acids Res. 36, 1153–1162.
+[221] Si, M.L., Zhu, S., Wu, H., Lu, Z., Wu, F. and Mo, Y.Y. (2007) MiR-21-mediated
+tumor growth. Oncogene 26, 2799–2803.
+[222] Ebert, M.S., Neilson, J.R. and Sharp, P.A. (2007) MicroRNA sponges:
+competitive inhibitors of small RNAs in mammalian cells. Nat. Methods 4,
+721–726.
+[223] Franco-Zorrilla, J.M. et al. (2007) Target mimicry provides a new mechanism
+for regulation of microRNA activity. Nat. Genet. 39, 1033–1037.
+[224] Brown, C.J., Lain, S., Verma, C.S., Fersht, A.R. and Lane, D.P. (2009) Awakening
+guardian angels: drugging the p53 pathway. Nat. Rev. Cancer 9, 862–873.
+[225] Aranha, O., Wood Jr., D.P. and Sarkar, F.H. (2000) Ciproﬂoxacin mediated cell
+growth inhibition, S/G2-M cell cycle arrest, and apoptosis in a human
+transitional cell carcinoma of the bladder cell line. Clin. Cancer Res. 6, 891–
+900.
+[226] Ebisuno, S., Inagaki, T., Kohjimoto, Y. and Ohkawa, T. (1997) The cytotoxic
+effect of ﬂeroxacin and ciproﬂoxacin on transitional cell carcinoma in vitro.
+Cancer 80, 2263–2267.
+[227] Herold, C., Ocker, M., Ganslmayer, M., Gerauer, H., Hahn, E.G. and Schuppan,
+D. (2002) Ciproﬂoxacin induces apoptosis and inhibits proliferation of
+human colorectal carcinoma cells. Br. J. Cancer 86, 443–448.
+[228] Bhanot, S.K., Singh, M. and Chatterjee, N.R. (2001) The chemical and
+biological aspects of ﬂuoroquinolones: reality and dreams. Curr. Pharm.
+Des. 7, 311–335.
+
+S.A. Melo, M. Esteller / FEBS Letters 585 (2011) 2087–2099
+[229] Shan, G. et al. (2008) A small molecule enhances RNA interference and
+promotes microRNA processing. Nat. Biotechnol. 26, 933–940.
+[230] Corsten, M.F., Miranda, R., Kasmieh, R., Krichevsky, A.M., Weissleder, R. and
+Shah, K. (2007) MicroRNA-21 knockdown disrupts glioma growth in vivo and
+displays synergistic cytotoxicity with neural precursor cell delivered S-TRAIL
+in human gliomas. Cancer Res. 67, 8994–9000.
+[231] Valadi, H., Ekstrom, K., Bossios, A., Sjostrand, M., Lee, J.J. and Lotvall, J.O.
+(2007) Exosome-mediated transfer of mRNAs and microRNAs is a
+novel mechanism of genetic exchange between cells. Nat. Cell Biol. 9, 654–
+659.
+[232] Gibbings, D.J., Ciaudo, C., Erhardt, M. and Voinnet, O. (2009) Multivesicular
+bodies associate with components of miRNA effector complexes and
+modulate miRNA activity. Nat. Cell Biol. 11, 1143–1149.
+
+2099
+
+[233] Berezikov, E., Liu, N., Flynt, A.S., Hodges, E., Rooks, M., Hannon, G.J. and Lai,
+E.C. (2010) Evolutionary ﬂux of canonical microRNAs and mirtrons in
+Drosophila. Nat. Genet. 42, 6–9; author reply 9–10.
+[234] Okamura, K., Chung, W.J. and Lai, E.C. (2008) The long and short of inverted
+repeat genes in animals: microRNAs, mirtrons and hairpin RNAs. Cell Cycle 7,
+2840–2845.
+[235] Calin, G.A. et al. (2007) Ultraconserved regions encoding ncRNAs are altered
+in human leukemias and carcinomas. Cancer Cell 12, 215–229.
+[236] Lujambio, A., et al (2010). CpG island hypermethylation-associated silencing
+of non-coding RNAs transcribed from ultraconserved regions in human
+cancer. Oncogene, in press.
+[237] Lujambio, A. et al. (2008) A microRNA DNA methylation signature for human
+cancer metastasis. Proc. Natl. Acad. Sci. USA 105, 13556–13561.
+
+

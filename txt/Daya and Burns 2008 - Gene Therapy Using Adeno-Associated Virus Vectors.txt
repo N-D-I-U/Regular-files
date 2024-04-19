@@ -1,0 +1,1186 @@
+CLINICAL MICROBIOLOGY REVIEWS, Oct. 2008, p. 583–593
+0893-8512/08/$08.00⫹0 doi:10.1128/CMR.00008-08
+Copyright © 2008, American Society for Microbiology. All Rights Reserved.
+
+Vol. 21, No. 4
+
+Gene Therapy Using Adeno-Associated Virus Vectors
+Shyam Daya1 and Kenneth I. Berns1,2*
+Department of Molecular Genetics and Microbiology, College of Medicine,1 and University of
+Florida Genetics Institute,2 University of Florida, Gainesville, Florida
+INTRODUCTION .......................................................................................................................................................583
+BIOLOGY OF AAV ....................................................................................................................................................583
+Virus Classification.................................................................................................................................................583
+AAV-2 Genome ........................................................................................................................................................583
+AAV Life Cycle ........................................................................................................................................................584
+AAV-2 Site-Specific Integration ............................................................................................................................584
+AAV Infection ..........................................................................................................................................................585
+AAV AS A GENE THERAPY VECTOR...................................................................................................................586
+Rational Design of AAV Capsids..........................................................................................................................587
+Immune Response to AAV .....................................................................................................................................587
+AAV CLINICAL TRIALS...........................................................................................................................................588
+FUTURE PROSPECTS..............................................................................................................................................590
+DISCUSSION ..............................................................................................................................................................591
+FINAL COMMENTS..................................................................................................................................................591
+ACKNOWLEDGMENTS ...........................................................................................................................................592
+REFERENCES ............................................................................................................................................................592
+AAV-2 Genome
+
+INTRODUCTION
+Adeno-associated virus (AAV) vectors are currently among
+the most frequently used viral vectors for gene therapy. At
+recent meetings of the American Society for Gene Therapy,
+nearly half of the presentations involved the use of AAV. This
+represents a significant turnaround. Historically, AAV has not
+been of great medical interest, because it has not been identified as a pathogen; thus, the lack of widespread knowledge of
+the virus initially inhibited its broad use as a vector. Twelve
+human serotypes of AAV (AAV serotype 1 [AAV-1] to AAV12) and more than 100 serotypes from nonhuman primates
+have been discovered to date. The lack of pathogenicity of the
+virus, the persistence of the virus, and the many available
+serotypes have increased AAV’s potential as a delivery vehicle
+for gene therapy applications. This review will focus on the
+biology of AAV and its use as a vector for gene therapy.
+
+The AAV-2 genome is a linear, single-stranded DNA of 4.7
+kb (Fig. 1A) (60). Both sense and antisense strands of AAV
+DNA are packaged into AAV capsids with equal frequency.
+The genome is structurally characterized by 145-bp inverted
+terminal repeats (ITRs) that flank two open reading frames
+(ORFs) (Fig. 1B).
+The first 125 nucleotides of the ITR constitute a palindrome,
+which folds upon itself to maximize base pairing and forms a
+T-shaped hairpin structure. The other 20 bases, called the D
+sequence, remain unpaired. The ITRs are important cis-active
+sequences in the biology of AAV. A key role of the ITRs is in
+AAV DNA replication. In the current model of AAV replication, the ITR is the origin of replication and serves as a primer
+for second-strand synthesis by DNA polymerase. The doublestranded DNA formed during the synthesis, called replicatingform monomer, is used for a second round of self-priming
+replication and forms a replicating-form dimer. These doublestranded DNA intermediates (replicating-form monomer and
+replicating-form dimer) are processed via a strand displacement mechanism, resulting in single-stranded DNA used for
+packaging and double-stranded DNA used for transcription.
+Critical to the replication process are the Rep binding elements (RBEs) (RBE and RBE⬘) and a terminal resolution site
+(TRS), which is located within the ITR (Fig. 1B). These features are used by the viral regulatory protein Rep during AAV
+replication to process the double-stranded intermediates. In
+addition to their role in AAV replication, the ITR is also
+essential for AAV genome packaging, transcription, negative
+regulation under nonpermissive conditions, and site-specific
+integration.
+The left ORF contains the Rep gene, which produces four
+Rep proteins, Rep78, Rep68, Rep52, and Rep40. The larger
+Rep proteins (Rep78 and Rep68) are produced from tran-
+
+BIOLOGY OF AAV
+Virus Classification
+AAV is a small (25-nm), nonenveloped virus that packages
+a linear single-stranded DNA genome. It belongs to the family
+Parvoviridae and is placed in the genus Dependovirus, because
+productive infection by AAV occurs only in the presence of a
+helper virus, either adenovirus or herpesvirus. In the absence
+of helper virus, AAV (serotype 2) can set up latency by integrating into chromosome 19q13.4, establishing itself as the only
+mammalian DNA virus known to be capable of site-specific
+integration.
+
+* Corresponding author. Mailing address: P.O. Box 103610, University of Florida Genetics Institute, 1376 Mowry Road, Gainesville, FL
+32610-3610. Phone: (352) 273-8072. Fax: (352) 273-8284. E-mail:
+kberns@ufl.edu.
+583
+
+584
+
+DAYA AND BERNS
+
+CLIN. MICROBIOL. REV.
+
+FIG. 1. Map of the wild-type AAV-2 genome. (A) Rep and Cap genes flanked by ITRs. The different Rep and Cap transcripts are produced
+from their respective promoters (P5, P19, and P40). The star indicates the alternative ACG codon used to produce VP3. (B) Secondary structure
+of an AAV-2 ITR showing the RBEs (RBE, GAGCGAGCGAGCGCGC; RBE⬘, CTTG) and the TRS (GTTGG).
+
+scripts using the P5 promoter, whereas the smaller Rep proteins (Rep52 and Rep40) are produced from transcripts using
+the P19 promoter. Rep78 and Rep68 are produced from unspliced and spliced transcripts, respectively, and are important
+regulatory proteins that act in trans in all phases of the AAV
+life cycle. Specifically, they positively and negatively regulate
+AAV gene expression in the presence or absence of helper
+virus, respectively, and are required for DNA replication (48).
+The smaller Rep proteins, Rep52 and Rep40, produced from
+unspliced and spliced transcripts, respectively, are involved in
+the accumulation of single-stranded viral DNA used for packaging within AAV capsids. All four Rep proteins possess helicase and ATPase activity. In addition, the larger Rep proteins
+possess strand- and site-specific endonuclease activity (nicking
+at the TRS) and site-specific DNA binding activity (binding at
+the RBE).
+The right ORF contains the Cap gene, which produces three
+viral capsid proteins (VP1, VP2, and VP3) using the P40 promoter. Alternative splicing of the P40 transcript is used to
+produce the three viral proteins from two transcripts. The
+unspliced transcript produces VP1 (87 kDa), the biggest of the
+capsid proteins. The spliced transcript produces VP2 (72 kDa)
+and VP3 (62 kDa). VP2 is produced using a nonconventional
+ACG start codon, whereas VP3 is produced using a downstream conventional AUG codon. The AAV-2 capsid comprises 60 viral capsid proteins arranged into an icosahedral
+structure with symmetry equivalent to a triangulation number
+of 1. The capsid proteins (VP1, VP2, and VP3) are present in
+a 1:1:10 molar ratio.
+AAV Life Cycle
+There are two stages to the AAV life cycle (Fig. 2) after
+successful infection, a lytic stage and a lysogenic stage. In the
+presence of helper virus (adenovirus or herpesvirus), the lytic
+stage ensues. During this period, AAV undergoes productive
+infection characterized by genome replication, viral gene ex-
+
+pression, and virion production. The adenoviral genes that
+provide helper functions regarding AAV gene expression have
+been identified and include E1a, E1b, E2a, E4, and VA RNA.
+Herpesvirus aids in AAV gene expression by providing viral
+DNA polymerase and helicase as well as the early functions
+necessary for HSV transcription. Although adenovirus and
+herpesvirus provide different sets of genes for helper function,
+they both regulate cellular gene expression, providing a permissive intracellular milieu for AAV productive infection.
+In the absence of adenovirus or herpesvirus, there is limited
+AAV replication, viral gene expression is repressed, and the
+AAV genome can establish latency by integrating into a 4-kb
+region on chromosome 19 (q13.4), termed AAVS1 (36, 37).
+The AAVS1 locus is near several muscle-specific genes,
+TNNT1 and TNNI3 (16). The AAVS1 region itself is an upstream part of a recently described gene, MBS85. The exact
+function of this gene is not clear, but its product has been
+shown to be involved in actin organization (64). Whether AAV
+integration into this site is suitable for human gene therapy
+applications remains to be evaluated. Tissue culture experiments suggest that the AAVS1 locus is a safe integration site.
+AAV-2 Site-Specific Integration
+One of the features of AAV is its ability to specifically
+integrate to establish latent infection. Current AAV vectors do
+not have this ability, and the development of such a vector
+would ensure long-term transgene expression in tissues without problems associated with insertional mutagenesis.
+Some of the viral and cellular requirements for targeted
+integration have been elucidated. The AAV components that
+are required have been identified. These include the ITRs (in
+cis), Rep78 or Rep68 (in trans), and a 138-bp sequence termed
+the integration efficiency element (IEE), located within the
+P5 promoter in cis (49). It is unclear if the entire 138-bp IEE
+in P5 is required, since a recent study showed that a 16-bp RBE
+in P5 is sufficient (18). Latent infection with wild-type AAV-2
+
+VOL. 21, 2008
+
+AAV GENE THERAPY
+
+585
+
+FIG. 2. AAV life cycle. AAV undergoes productive infection in the presence of adenovirus coinfection. This is characterized by genome
+replication, viral gene expression, and virion production. In the absence of adenovirus, AAV can establish latency by integrating into chromosome
+19 (AAVS1). The latent AAV genome can be rescued and replicated upon superinfection by adenovirus. Both stages of AAV’s life cycle are
+regulated by complex interactions between the AAV genome and AAV, adenoviral, and host proteins.
+
+appears to be nonpathogenic in tissue culture, when Rep is
+expressed under its own promoter. Such expression is regulated by negative feedback. Excess Rep expression has been
+shown to arrest cell division (75) and induce cellular apoptosis
+(58).
+A 33-bp minimum AAVS1 sequence, which contains an
+RBE-like and a TRS-like sequence separated by 8 nucleotides,
+is necessary and sufficient to target AAV integration (26). The
+intervening sequence may be varied, but a central 5⬘ CTC is
+required. The actual integration site is somewhat downstream
+from the target sequence and can be variable. Many RBEs
+have been identified in the human genome, with AAVS1 being
+the only site that has an RBE and a TRS in close proximity to
+one other. Interestingly, the AAV genome and AAVS1 can be
+tethered to each other via Rep68 in vitro (68). These observations provide a molecular explanation for why AAVS1 is targeted, even though the exact mechanism remains unknown.
+The process of site-specific integration is not completely
+specific even under ideal conditions of Rep78 and Rep68 expression, with approximately 40 to 70% of integrants occurring
+in AAVS1. Moreover, the mechanism is imprecise, as judged
+by there not being reproducible breakpoints for vector-AAVS1
+junctions; however, clusters of integrants appear within a 2-kb
+fragment of AAVS1. While the cis- and trans-acting viral factors required for site-specific integration have been identified,
+much less is known about cellular factors that are required or
+may be involved. Only recently has a study provided evidence
+that a cellular protein, human immunodeficiency virus transacting response element-RNA loop binding protein 185 (TRP185), can promote AAV integration into AAVS1 further
+downstream from the RBE via interactions with both Rep and
+AAVS1 (73). Moreover, site-specific integration has been
+demonstrated in mice and rats transgenic for AAVS1, suggesting that the AAVS1 open-chromatin structure is maintained in
+
+vivo and that the cellular factors that mediate site-specific
+integration are present in nondividing cells (56).
+AAV Infection
+AAV-2 gains entry into target cells by using the cellular
+receptor heparan sulfate proteoglycan (62). Internalization
+is enhanced by interactions with one or more of at least six
+known coreceptors including ␣V␤5 integrins (63), fibroblast
+growth factor receptor 1 (53), hepatocyte growth factor receptor (35), ␣v␤1 integrin (7), and laminin receptor (3). The
+cellular events that mediate AAV trafficking postentry are
+not completely characterized. Cells defective for dynamin
+significantly hindered AAV-2 infection, suggesting that
+AAV is endocytosed into clathrin-coated vesicles (15). For
+successful AAV infection, AAV particles need to escape
+these endocytic vesicles. Infection experiments with bafilomycin A1 (a drug that inhibits the proton pump for endosomes) suggested that the low pH in the endosomes is essential for virus escape and successful infection (9).
+Moreover, cellular signaling involving the activation of the
+Rac1 protein and the phosphatidylinositol 3-kinase pathway
+is necessary for intracellular trafficking of AAV particles
+using microtubules (57). Interestingly, a conserved phospholipase A2 motif identified in the N terminus of the VP1
+protein was reported to be important for successful infection (27). Specifically, the phospholipase A2 motif seemed to
+be playing a crucial role during AAV trafficking, possibly
+helping AAV escape the late endosome. Mutational analysis
+of the AAV capsid structure indicated that the fivefold pore
+structure may also serve as the site for phospholipase domain presentation during viral infection (10). Moreover,
+endosomal cysteine proteases, cathepsins B and L, have
+implied roles in AAV trafficking and capsid disassembly (4).
+
+586
+
+DAYA AND BERNS
+
+CLIN. MICROBIOL. REV.
+
+FIG. 3. (Left) trans-Splicing approach. The head-to-tail formation of two different AAV vector results in functional product after splicing.
+(Right) Comparison of scAAV and rAAV vectors.
+
+Exactly how AAV enters the nucleus after escaping the
+endosome is not known and is currently an active area of
+research. Although AAV is theoretically small enough to
+enter the nucleus via the nuclear pore complex, an early
+study suggested that AAV entry may be nuclear pore complex independent (29).
+AAV AS A GENE THERAPY VECTOR
+There are several considerations for any viral vector. These
+include the ability to attach to and enter the target cell, successful transfer to the nucleus, the ability to be expressed in the
+nucleus for a sustained period of time, and a general lack of
+toxicity. AAV vectors have been highly successful in fulfilling
+all of these criteria. Moreover, a variety of modifications have
+served to enhance their utility. Several considerations have
+guided the development of current AAV vectors, especially the
+lack of pathogenicity of the wild-type virus and its persistence.
+The small size of the AAV genome and concerns about
+potential effects of Rep on the expression of cellular genes led
+to the construction of AAV vectors that do not encode Rep
+and that lack the cis-active IEE, which is required for frequent
+site-specific integration. The ITRs are kept because they are
+the cis signals required for packaging. Thus, current recombinant AAV (rAAV) vectors persist primarily as extrachromosomal elements (1, 59).
+rAAV vectors for gene therapy have been based mostly on
+AAV-2. AAV-2-based rAAV vectors can transduce muscle,
+liver, brain, retina, and lungs, requiring several weeks for optimal expression. The efficiency of rAAV transduction is dependent on the efficiency at each step of AAV infection: binding, entry, viral trafficking, nuclear entry, uncoating, and
+second-strand synthesis. Inefficient AAV trafficking (30) and
+second-strand synthesis (19) have been identified as being ratelimiting factors in AAV gene expression. Interestingly, the
+binding of cellular protein FKBP52 to the AAV ITR inhibits
+second-strand synthesis, and this inhibition is dependent on the
+
+phosphorylation state of FKBP52 (51, 52, 80). Moreover, epidermal growth factor receptor kinase signaling has been implicated in regulating both AAV trafficking and second-strand
+synthesis (80).
+Several novel AAV vector technologies have been developed to either increase the genome capacity for AAV or enhance gene expression (Fig. 3). The idea of trans-splicing AAV
+vectors has been used to increase AAV vector capacity (74).
+This system takes advantage of AAV’s ability to form head-totail concatemers via recombination in the ITRs. In this approach, the transgene cassette is split between two rAAV vectors containing adequately placed splice donor and acceptor
+sites. Transcription from recombined AAV molecules, followed by the correct splicing of the mRNA transcript, results in
+a functional gene product. This application becomes useful for
+using AAV to deliver therapeutic genes up to 9 kb in size. trans
+splicing has been successfully used for gene expression in the
+retina (55), the lung (39), and, more recently, muscle (25).
+trans-Splicing vectors are less efficient than rAAV vectors.
+The design and use of self-complementary AAV (scAAV)
+vectors to bypass the limiting aspects of second-strand synthesis have been described (44). The rationale underlying the
+scAAV vector is to shorten the lag time before transgene
+expression and potentially to increase the biological efficiency
+of the vector. scAAV vectors can fold upon themselves, immediately forming transcriptionally competent double-stranded
+DNA. One consequence of the use of scAAV is that the maximal size of the transgene is reduced by ⬃50% (2.4-kb capacity), but up to 3.3 kb of DNA can be encapsidated (71). Rapid
+transduction has been observed using scAAV in both tissue
+culture and in vivo experiments.
+Many clinically relevant tissues are not susceptible to infection by AAV-2. Greater gene expression was seen in muscle,
+retina, liver, and heart using AAV serotypes 1, 5, 8, and 9,
+respectively. The cell surface receptors have been identified for
+only some of the many AAV serotypes: AAV-3 (heparan sul-
+
+VOL. 21, 2008
+
+AAV GENE THERAPY
+
+587
+
+TABLE 1. Capsid homology among AAV serotypes 1 to 9
+% Homology to AAV:
+AAV
+
+AAV-1
+AAV-2
+AAV-3
+AAV-4
+AAV-5
+AAV-6
+AAV-7
+AAV-8
+AAV-9
+
+AAV-1
+
+AAV-2
+
+AAV-3
+
+AAV-4
+
+AAV-5
+
+AAV-6
+
+AAV-7
+
+AAV-8
+
+AAV-9
+
+100
+83
+87
+63
+58
+99
+85
+84
+82
+
+100
+88
+60
+57
+83
+82
+83
+82
+
+100
+63
+58
+87
+85
+86
+84
+
+100
+53
+63
+63
+63
+62
+
+100
+58
+58
+58
+57
+
+100
+85
+84
+82
+
+100
+88
+82
+
+100
+85
+
+100
+
+fate proteoglycan), AAV-4 (O-linked sialic acid), and AAV-5
+(platelet-derived growth factor receptor). In addition, a 37kDa/67-kDa laminin receptor has been identified as being a
+receptor for AAV serotypes 2, 3, 8, and 9 (3). The attachment
+receptors for the other serotypes have not yet been identified.
+All of these serotypes are potential candidates for testing as
+vectors for gene therapy. To date, most of the testing has
+involved serotypes 1 to 9, which have considerable differences
+at the capsid amino acid sequence level, except for AAV-1 and
+AAV-6 (Table 1), and has succeeded in identifying vectors
+with widely divergent tissue specificities.
+The use of the different AAV serotypes in a pseudotyping
+approach (the genome of one ITR serotype being packaged
+into a different serotype capsid) has allowed broad tissue tropisms. However, some tissues remain refractory to transduction using available serotypes. This presents a major challenge
+for AAV-based gene therapy for clinically relevant tissues.
+Rational Design of AAV Capsids
+A deeper understanding of the AAV capsid properties has
+made the rational design of AAV vectors that display selective
+tissue/organ targeting possible, thus broadening the possible
+applications for AAV as a gene therapy vector. Two approaches have been used for AAV vector retargeting: (i) direct
+targeting and (ii) indirect targeting. In direct targeting, vector
+targeting is mediated by small peptides or ligands that have
+been directly inserted into the viral capsid sequence. This approach has been used successfully to target endothelial cells
+(61, 69). Direct targeting requires extensive knowledge of the
+capsid structure. Important aspects involve the following: peptides or ligands must be positioned at sites that are exposed to
+the capsid surface, the insertion must not significantly affect
+capsid structure and assembly, and it is important that the
+native tropism be ablated to maximize targeting.
+In indirect targeting, vector targeting is mediated by an associating molecule that interacts with both the viral surface and
+the specific cell surface receptor. The use of bispecific antibodies (8) and biotin (6, 50) has been described for AAV vectors.
+The advantages of this approach are that different adaptors
+can be coupled to the capsid without significant changes in
+capsid structure, and the native tropism can be easily ablated.
+One disadvantage of using adaptors for targeting may involve
+the decreased stability of the capsid-adaptor complex in vivo.
+The development of efficient AAV targeting vectors will require a better understanding of all aspects of the AAV infec-
+
+tion process: binding and entry, viral processing, and nuclear
+entry and expression. Significant progress has been made in all
+these categories, and the development of efficient AAV targeting vectors will expand AAV’s use as a vector for many
+clinical applications.
+Immune Response to AAV
+One of the biggest challenges facing AAV gene delivery is
+the host immune response. The host defense mechanism at the
+adaptive level is made up of cell-mediated and humoral immunity. The cell-mediated response functions at the cellular
+level, eliminating the transduced cells using cytotoxic T cells,
+whereas the humoral response produces neutralizing antibodies (Nab), preventing the readministration of vector. Almost
+no innate response is seen in AAV infection (76).
+Immune response to AAV is primarily a humoral response
+(72). Preexisting Nab in patients, because of prior infection,
+account for the humoral response seen toward AAV. In a study
+by Chirmule et al. (13), antibodies to AAV were seen in 96%
+of the subjects (patients with cystic fibrosis [CF] and healthy
+subjects), and 32% showed neutralizing ability in an in vitro
+assay. Nab to AAV have been to show limit AAV transduction
+in liver (47) and lung (28); however, no such effect was seen in
+muscle (21), brain (43), and retina (5). Interestingly, the humoral response to AAV may be T-cell dependent; the inhibition of T-cell function using anti-CD4 antibodies prevents Nab
+formation and allows vector readministration (14, 28, 40).
+Cell-mediated responses to AAV vectors have been documented, but this response may be dependent on the route of
+administration (11) and AAV serotype (67). A potent immune
+response to AAV-ovalbumin was observed when AAV was
+administered intraperitoneally, intravenously, or subcutaneously but not when administered intramuscularly. Moreover,
+AAV-2 has been shown to induce a weak cell-mediated immune response. This may be attributed to AAV inefficiently
+infecting mature dendritic cells (DC); however, a recent study
+demonstrated an efficient infection of immature DC and generated a cytotoxic-T-lymphocyte (CTL) response when used in
+adoptive transfer experiments (77). The extent to which mature and immature DC are transduced by AAV in vivo and the
+mechanism of how AAV induces a cellular immune response
+are not known.
+In a recent clinical trial for hemophilia B, an unexpected
+liver toxicity was observed and was attributed to a CTL response to AAV-2-transduced hepatocytes (42). Subsequently,
+
+588
+
+CLIN. MICROBIOL. REV.
+
+DAYA AND BERNS
+
+it was discovered that the AAV-2 capsid heparin binding motif
+was responsible for T-cell activation (65). This correlated well
+with a study in mice that showed that AAV-2 infection can
+activate a CTL response, whereas AAV-7 and AAV-8 do not
+(67). Moreover, Wang et al. (67) suggested that the crosspresentation of input AAV capsids via major histocompatibility complex class I presentation may be playing a role in the
+observed activation of cytotoxic T cells; however, this response
+does not diminish transgene expression via the targeted destruction of transduced hepatocytes, a finding confirmed by
+another group (38). Taken together, these studies suggest that
+immune responses are a major hurdle and that a deeper understanding of AAV-host interactions in humans is required
+for the efficient use of AAV as a gene transfer vector.
+AAV CLINICAL TRIALS
+AAV has become increasingly common as a vector for use in
+human clinical trials; as of now, 38 protocols have been approved by the Recombinant DNA Advisory Committee and
+the Food and Drug Administration (FDA). The increased popularity of AAV vectors reflects the appreciation of the longterm transgene expression observed in animal models and the
+relative lack of immune response and other toxicities in the
+models. Other factors that have played a role in encouraging
+the use of AAV vectors include the discovery of new serotypes
+and the appreciation that matching the tissue specificity of the
+serotype with the presumptive target tissue can greatly enhance the potential effectiveness of therapy. In general, the
+goal of gene therapy can be classified into one of two categories, the correction of an intracellular defect or the synthesis of
+a secreted protein, which is active at an extracellular level. In
+the latter case, the site of protein synthesis would not seem to
+be critical as long as it has no deleterious intracellular effects
+and is successfully secreted into blood. This assumption has
+been tested in clinical trials in which proteins normally synthesized in the liver are now induced to be produced in skeletal
+muscle. Whether the assumption is correct is still not certain,
+in part because different vector target sites may induce different host immune responses (41, 42).
+Despite the small packaging capacity of AAV vectors, clever
+investigators have devised ways of engineering transgenes and
+associated regulatory sequences so that their sizes can be reduced sufficiently to allow packaging into AAV capsids. In
+general, the expectations with regard to minimal toxicity have
+been met, although there have been two notable exceptions to
+this, which will be discussed below. To date, no clinical cures
+have been effected, although there have been anecdotal data
+that have kept hopes up. Trials that have been concluded or
+are in progress are listed in Table 2. Several of these will be
+discussed below in some detail to illustrate specific points of
+interest and concern.
+Initial targets for gene therapy included monogenic diseases
+in which the gene product either was altered to become nonfunctional or was missing. First among these was CF, a lethal,
+autosomal recessive disease in which the CF transmembrane
+regulator (CFTR) is inactivated by mutation. CFTR is a component of the Cl⫺ channel and the lack of functional CFTR
+affects the transmembrane electrical potential. This leads to
+the accumulation of thick secretions in the lung coupled with a
+
+TABLE 2. Clinical trials involving AAV vectors
+Condition
+
+CF
+Canavan’s disease
+Parkinson’s disease
+Alzheimer’s disease
+Alpha-1-antitrypsin
+deficiency
+Arthritis
+Leber congenital
+amaurosis
+Hemophilia B
+Late infantile neuronal
+lipofuscinosis
+Muscular dystrophy
+Heart failure
+Prostate cancer
+Epilepsy
+
+Gene product(s)
+
+Phase
+
+CFTR
+Aspartoacylase
+GAD65, GAD65, AADC,
+neurturin
+Beta nerve growth factor
+AAT
+
+I/II
+I
+I
+
+TNFR:Fc
+RPE65
+
+I
+I
+
+Factor IX
+CLN2
+
+I
+I
+
+Minidystrophin, sarcoglycan
+SERCA-2a
+Granulocyte-macrophage colonystimulating factory
+Neuropeptide Y
+
+I
+I
+I/II/III
+
+I
+I
+
+I
+
+loss of the normal respiratory epithelial ciliary activity. The
+primary difficulty is pulmonary, with an increased incidence of
+pulmonary infection, especially by Pseudomonas aeruginosa.
+Additional difficulty occurs with pancreatic secretion, but the
+loss of the pancreatic enzymes can be treated with supplements. Thirteen protocols have been approved for phase I and
+phase II clinical trials using an AAV vector (2, 22, 23, 46, 66).
+Delivery of the vector was achieved by bronchoscope or by
+aerosol into the lung and in several cases by delivery to the
+maxillary sinus (to make measurement of the transmembrane
+potential, which is affected in CF, possible). The primary and
+most important observation in early trials was the lack of measurable toxicity and a very modest immune response evoked by
+the route of pulmonary delivery. Serum antibody was evoked
+but did not affect the subsequent administration of the vector.
+The measurement of efficacy in the lung is pretty much restricted to measures of pulmonary function; any improvement
+that was noted in this manner was not statistically significant.
+However, in those patients who had vector instilled into the
+maxillary sinus, it was possible to make a somewhat more
+direct measurement. The most notable effect was an increase
+in levels of interleukin-10, a cytokine that is anti-inflammatory,
+and a concomitant decrease in levels of interleukin-8, which
+has the opposite effect. Major challenges with vector delivery
+to the lung through the airway included rapid, regular shedding
+of the respiratory epithelium, which means that cells that have
+taken up the vector are fairly quickly lost and that the uptake
+of the AAV-2 vector in cell culture was mostly through the
+basolateral surface, which is not very accessible via the airway.
+Thus, consideration must be given to alternative routes of
+delivery and the possibility of vectors with alternative serotypes.
+A second monogenic disease that could be amenable to gene
+therapy is hemophilia. Although this disease can be lethal, it is
+functionally chronic with current modes of therapy. The two
+common forms are hemophilia A and hemophilia B. Clotting
+requires a complex series of enzymatic reactions. Two of the
+required enzymes are factors VIII and IX; a lack of the former
+results in hemophilia A, and a lack of the latter results in
+hemophilia B. Initial efforts concentrated on the replacement
+
+VOL. 21, 2008
+
+of factor IX, because the coding region and regulatory sequences could readily be encapsidated in the AAV vector. A
+factor IX AAV vector could be used to “cure” mice with
+hemophilia B (31) and, more excitingly, also performed well in
+a canine model of hemophilia (32). Initial phase I studies were
+performed by the intramuscular injection of an AAV-2 vector
+(36, 41). Disappointingly, although no vector toxicity was
+noted, no transgenic factor IX could be detected in serum. The
+notion had been that although factor IX is normally expressed
+in hepatocytes, the expression of factor IX, which could be
+excreted, in muscle cells could raise serum factor IX concentration to a therapeutic level (⬃10% of normal). The consequence of the failure to see a rise in the factor IX serum level
+was to alter the vector target to the liver, the normal site of
+synthesis, with administration via the hepatic artery (42). Vector was administered to the patients in increasing amounts. At
+the first two doses, there was no detectable toxicity nor any
+detectable transgenic factor IX in the serum. At the highest
+dose (2 ⫻ 1012 vector genomes/kg), there was detectable transgenic factor IX in the serum for 4 to 9 weeks in the two
+subjects. However, in contrast to what was observed in animal
+models, the serum concentration went back to baseline levels.
+More troublesome was a rise in liver transaminases in the
+serum, a sign of liver inflammation. Subsequently, the inflammatory response was shown to be caused by the induction of a
+CTL response (45). The first question was whether the immune response was due to the transgene product or the vector.
+It turned out to be due to the AAV capsid. While an antibody
+response to capsid had been anticipated, the CTL response to
+AAV proteins had not been anticipated, because all AAV
+genes had been deleted from the vector. The working hypothesis is that at the highest dose, where the inflammatory response had occurred, the multiplicity of infection (MOI) was
+sufficiently high that degradation products of the capsid were
+displayed on the surface of the transduced hepatocytes in sufficient quantity to induce the CTL response. Thus, there is a
+conundrum: with the vectors used, the dose required to produce a detectable level of factor IX was also sufficient to induce
+a CTL response, which destroyed the cells expressing factor
+IX. Possible solutions to this problem include being able to
+induce tolerance to the AAV capsid fragments displayed on
+the surface of the hepatocytes or developing a more efficient
+vector, which would enable a much lower MOI or dose so that
+a CTL response would not be evoked. The latter may be able
+to be achieved by use of alternative AAV serotypes such as
+AAV-8 or by modification of the surface of the AAV capsid to
+render trafficking of the ingested AAV particle to the cell
+nucleus, with ensuing expression of the transgene being much
+more efficient. An example of the latter approach will be described below in the section on future prospects for AAV
+vectors.
+A much more serious problem arose in a clinical trial involving rheumatoid arthritis (33, 70). Rheumatoid arthritis is a
+disabling inflammatory disease in which the immune system
+reacts against the body’s joint tissue. Current therapy involves
+blocking the host response against itself. One way of achieving
+this inhibition is to counteract the effects of the cytokine tumor
+necrosis factor alpha (TNF-␣) by use of the drug adalimumab
+(Humira). Repeated use of the drug is required whenever
+there is an exacerbation of the disease in a particular joint. An
+
+AAV GENE THERAPY
+
+589
+
+alternative approach would be to design an AAV vector that
+could express a TNF inhibitor for an extended period of time,
+with expression located primarily in the joint that had the
+vector injected. Promising data were achieved in the animal
+model of disease. Unfortunately, in the phase I clinical trial,
+one patient became extremely ill the day after the administration of the AAV vector and died within 4 days. Subsequent
+investigation established that the patient had died of an overwhelming Histoplasmosis capsulatum fungal infection. The patient had also been treated with adalimumab, one of whose
+side effects is known to be sepsis. Thus, the question was what
+role, if any, that the AAV vector played in the demise of the
+patient. While this was studied, the clinical trial was put on
+hold by the FDA. The study showed that the patient had
+already had a systemic histoplasmosis infection before the injection of the vector and that this infection was not controlled,
+most probably because of adalimumab, which is a systemic
+drug. Among the conclusions of the investigation was that the
+AAV vector carrying the transgene had not contributed to any
+toxicity. The possibility remained that the TNF-␣ inhibitor
+expressed from the transgene might have contributed to a
+reduction in the ability of the host immune system to combat
+the infection; this was deemed to be highly unlikely because
+little, if any, of the vector was able to be detected outside of the
+joint that had been injected. Thus, in a relatively short period
+of time, the FDA essentially exonerated the AAV vector and
+permitted the clinical trial to resume.
+Parkinson’s disease, a chronic neurodegenerative disease,
+has also been an area in which there has been an AAV clinical
+trial. In Parkinson’s disease, a loss of dopaminergic neurons
+leads to the loss of inhibitory gamma aminobutyric acid-sensitive input to the subthalamic nucleus. Kaplitt et al. (34) and
+Feigin et al. (17) described a study in which 12 patients with
+advanced Parkinson’s disease had an AAV vector carrying a
+transgene encoding glutamic acid decarboxylase injected into
+the subthalamic nucleus on one side. The therapy was well
+tolerated, with no adverse effects attributable to gene therapy
+noted for any of the patients, who had been divided into three
+groups that received low, moderate, or high doses of the vector. The clinical impression was that motor activity on the
+treated side was improved significantly relative to the untreated side regardless of dose. No change in cognition was
+noted. The clinical impression was supported by position emission tomography scan data, which measured the reduced metabolic activity on the treated side, consistent with enhanced
+inhibition. Of particular interest was that motor improvement
+was not noted until 3 months postinjection so that it did not
+seem directly related to trauma associated with the injection.
+Also very encouraging was that the observed improvement in
+motor activity persisted for at least 1 year. Although the trial
+involved an open surgical procedure, the dramatic improvements noted, if consistent and reproducible, suggest that AAV
+gene therapy for chronic, degenerative neurological diseases
+has great promise. Additional clinical trials for Parkinson’s
+disease, Alzheimer’s disease, and Batten disease have been
+approved.
+From these three examples of the 38 clinical trials that have
+been approved, two approaches can be noted. On one hand,
+the original notion of replacing a defective gene in a monogenic disease is exemplified by the trials involving patients with
+
+590
+
+DAYA AND BERNS
+
+CF or hemophilia B. The second approach is demonstrated in
+the Parkinson’s disease trial, in which the intention was to
+block the consequences of a chronic disease characterized
+more by a metabolic defect caused by the lack of dopaminergic
+neurons rather than a “cure” of the primary lesion.
+Two inferences can be drawn from those clinical trials that
+have already been done. The first is that there has been relatively little toxicity that can be directly attributed to the AAV
+vector platform. The one area of potential toxicity appears to
+arise from an inflammatory response involving cytotoxic T cells
+responding to fragments of the coat proteins from input vector
+that are presented on the cell surface as major histocompatibility complexes. This has been observed when very high doses
+of vector were given via the hepatic artery or by intramuscular
+injection. It is a particularly complex reaction, because dosage,
+location of injection, and the possibility of induction of tolerance all have to be taken into consideration. Humoral immunity seems to play a role in some instances when the subsequent administration of a vector may be blocked, but toxicity
+per se has not been a significant observation. Again, the route
+of administration seems to be important; little humoral immunity has been noted when the pulmonary route is used. The
+ability of humoral antibody to block vector activity is significant
+because the seropositivity of the population to AAV is high
+(⬃80 to 90% for AAV-2). However, the discovery of many new
+AAV serotypes and the ability to package the AAV-2-based
+vector DNA into many, if not most, of them suggest that
+preexisting humoral immunity will not pose a significant barrier to therapy.
+FUTURE PROSPECTS
+Although significant progress has been made in the use of
+AAV vectors for human gene therapy, several developments
+are likely to enhance the potential utility of the system. The
+host immune response remains of concern so that approaches
+to mitigate the response would constitute a definite advance.
+One such approach would be to reduce the vector dose required for a therapeutic response. The discovery of additional
+AAV serotypes is one possibility (24). Another is to modify the
+surface of the vector capsid to include specific ligands for
+attachment to target tissues (see “Rational Design of AAV
+Capsids”). Recently, an alternative approach was described by
+Srivastava et al. (79). The particle-to-infectivity ratio of AAV
+vector preparations usually ranges from 10:1 to 100:1. These
+ratios reflect, in part, incomplete or empty vector particles.
+However, an additional reason for the high ratios includes
+trafficking from the endocytoplasmic vesicle to the nucleus. In
+the course of trafficking, the vector particle may become ubiquitinated and thus directed to a proteasome for degradation
+rather than to the nucleus, where the transgene may be expressed. Srivastava’s group found that ubiquitinylation and
+direction to the proteasome require the phosphorylation of
+tyrosine residues on the surface of the vector capsid. There are
+seven tyrosines on the surface of the AAV-2 capsid, and Srivastava et al. (A. Srivastava et al., unpublished data) systematically replaced each of these tyrosine residues with phenylalanine. The consequence of these modifications is that the
+MOI required for the detection of transgene expression has
+been greatly reduced, both in cell culture and in several mouse
+
+CLIN. MICROBIOL. REV.
+
+models of transduction of cells in the liver and eye. This innovation is likely to greatly enhance the ability to increase transgene expression in several diseases to therapeutic levels.
+One of the most attractive features of current AAV vectors
+is the continued expression of the transgene for prolonged
+periods of time. This is in spite of the extrachromosomal location of the vector. However, the infrequent integration of the
+vector means that transduction must occur in cells that either
+do not turn over or do so very slowly. Additionally, the rarity of
+integration reduces the likelihood of insertional mutagenesis,
+but the possibility does remain. Recent experience with the
+induction of leukemia in patients in two clinical trials who were
+successfully treated for severe combined immunodeficiency
+disease with retroviral vectors has heightened awareness of the
+problem (20). Although AAV vectors seem to be highly unlikely to cause such problems in postmitotic tissues, the issue
+remains of some concern. In contrast to the wild-type AAV
+genomes, recombinant AAV vector genomes do not integrate
+site specifically into chromosome 19 in human cells in vitro and
+have been shown to remain episomal in animal models in vivo.
+However, all previous studies were carried out with cells and
+tissues that are postmitotic. In hematopoietic stem cells, which
+must proliferate and differentiate to give rise to progenitor
+cells, recombinant AAV genomes would be lost in the absence
+of stable integration into chromosomal DNA. Srivastava and
+colleagues, using a murine bone marrow serial transplant
+model in vivo, documented the stable integration of the proviral genomes, and integration sites were localized to different
+mouse chromosomes (A. Srivastava et al., unpublished data).
+None of the integration sites was found to be in a transcribed
+gene or near a cellular oncogene. All animals monitored for up
+to 1 year exhibited no pathological abnormalities. Thus, an
+AAV proviral integration-induced risk of oncogenesis was not
+found in these studies.
+One of the features of AAV is its ability to specifically
+integrate into chromosome 19q13.4 to establish latent infection. Current AAV vectors do not have this ability because
+they lack both the cis-active signal in P5 (IEE) and the transactive proteins (Rep68 and Rep78) required for site-specific
+integration. The development of such a vector would enable
+the transduction of germ or progenitor cells and thus help to
+ensure long-term transgene expression in tissues where cell
+turnover is a consideration. If transduction were done ex vivo,
+it would theoretically be possible to clone cells in which sitespecific integration had occurred in the absence of significant,
+additional random integration. Appropriate vector design
+would allow the rep gene to be expressed during transduction
+but not itself be incorporated. Two such vectors were described: one is an AAV/adenovirus hybrid (54), and the other
+is a bipartite AAV vector (78). In the latter case, Rep is
+expressed from one component, and the second component
+contains the cis-active IEE. Both systems are promising but in
+early stages of development.
+Another area with great potential for improvement is the
+route of administration. This is particularly true for the use of
+AAV vectors in the central nervous system (CNS). Currently,
+vector administration requires an open neurosurgical procedure. This is true because of the blood-brain barrier and because of the desire to target specific areas of the CNS. The
+development of vectors that could achieve the required target-
+
+VOL. 21, 2008
+
+AAV GENE THERAPY
+
+ing specificity and the ability to penetrate the blood-brain barrier would greatly facilitate CNS gene therapy. A number of
+different methods have been suggested and tried with limited
+success to date.
+Other possible advances include a better understanding of
+the host response and the requirements for the induction of
+tolerance and the development of more efficient systems for
+the production of AAV vectors (12).
+DISCUSSION
+Gene therapy requires three things: the identification of the
+defect at the molecular level, a correcting gene, and a way to
+introduce the gene into appropriate host cells (i.e., a vector).
+We now have a sophisticated understanding of the basic mechanisms of many genetic diseases, and many corresponding
+genes have been cloned and can be produced at high levels.
+The major hurdle to be surmounted is the development of
+adequate vectors. The wide variety of approaches that have
+been tried, many of which are still being studied, points to the
+challenge of developing effective vectors. The delivery methods
+that have been tried include purified DNA under hydrodynamic pressure, the shotgun approach using DNA adhering to
+gold particles, lipid-DNA complexes, and, finally, virus-based
+vectors. Although the first three methods have an inherent
+simplicity that is attractive, in practice, the efficiency of gene
+delivery and expression has been lower than what is required
+for therapeutic efficacy. Viruses, on the other hand, represent
+nature’s vectors for the delivery and expression of exogenous
+genes in host cells. Here, the challenge is to maintain the
+efficiency of delivery and expression while minimizing any
+pathogenicity of the virus from which the vector was derived.
+In practice, the challenge has been significant. In the only
+clearly documented instance of therapeutic correction of an
+inborn error, the inherent oncogenic properties of the original
+virus (Moloney murine leukemia virus) were retained; 4 of 12
+patients with X-linked severe combined immunodeficiency disease developed leukemia. In this experiment, bone marrow
+precursor cells were transduced and allowed to differentiate.
+Under these conditions, a vector that would integrate was
+needed.
+Among current viral vectors, only those derived from retroviruses have the ability to integrate at a reasonable frequency;
+retroviruses require cell division for integration to occur,
+whereas lentiviruses and foamy viruses can enter the nucleus
+and integrate in nondividing cells. Lentiviral vectors carry the
+psychological burden of being derived from significant pathogens, but foamy viruses infect a high percentage of humans
+without having been implicated as the cause of disease. Although there are production challenges, very promising results
+have been obtained in a canine model of congenital granulomatosis. The overriding theoretical consideration is that retroviruses integrate at many sites in the human genome, so there
+is always the concern of insertional mutagenesis possibly causing oncogenesis.
+AAV-2, and presumably other serotypes, has been reported
+to integrate at a specific site in the q arm of chromosome 19
+(AAVS1). The frequency with which integration occurs in
+AAVS1 has been reported to be from 60 to 90%. This exceeds
+the frequency that has been observed, with the most successful
+
+591
+
+vectors being derived from bacteriophage systems. However,
+current AAV vectors do not have this ability (they lack the
+sequences required both in trans and in cis), and integration,
+which has been observed to occur at a low frequency (10⫺7), is
+random. As discussed above (Future Prospects), it is possible
+to design AAV vectors that can integrate in a site-specific
+manner; therefore, a DNA virus vector is possible.
+AAV was initially considered as a vector by only a few
+laboratories. This undoubtedly reflected the lack of familiarity
+with the virus, since it is nonpathogenic and, thus, of interest
+only to those inherently interested in its distinctive biology.
+However, as noted above, with time, it has become among the
+most commonly used viral vectors. This is likely the consequence of several factors. First, almost all other viral vectors
+lead to an initial burst of transgene expression that commonly
+disappears after a relatively short time, measured in weeks.
+AAV transgene expression, on the other hand, frequently persists for years or the life time of the animal model. Second,
+other viral vectors have a greater capacity with which to insert
+the transgene(s). However, with time and clever engineering, it
+has been possible to insert originally very large transgenes into
+AAV vectors. Interestingly, it has also proved to be feasible to
+have split vectors in which one construct has slight sequence
+overlap with a second construct so that recombination after
+vector nuclear entry leads to the intact transgene product being
+expressed. Thus, the consequences of the small size of the
+AAV genome have been overcome to a large extent.
+Another significant positive feature of AAV vectors is that
+they frequently do not elicit a deleterious immune response.
+This feature is dependent on the site of administration and the
+effective MOI of the vector used. Another factor is that AAV
+appears to be taken up poorly by dendritic cells. Finally, the
+small capacity of the genome has meant that no viral genes
+remain. In a parallel manner, the latest version of adenovirus
+vectors is the gutless vectors from which all viral genes have
+also been removed. Interestingly, the gutless adenovirus vectors still do not perform as well as AAV vectors in terms of
+expression persistence. It is tempting to speculate that the
+difference reflects the special structure of the AAV ITR, which
+could serve both as an insulator and to protect against cellular
+exonucleases.
+Thus, AAV has become appreciated as a good vector for the
+transduction of postmitotic cells. At this time, retroviral vectors remain the vector of choice for the transduction of stem or
+progenitor cells despite the inherent concern of possible oncogenesis. These considerations apply for situations in which
+long-term transgene expression is desired. In cases such as
+immunization or vector-induced oncolysis, where expression at
+higher levels for relatively short periods of time is desirable,
+other viral vectors such as those derived from adenovirus and
+herpesvirus have more useful characteristics. What has become
+apparent is that different vectors have characteristics that are
+advantageous in specific cases. Thus, the notion of best vector
+depends on the question of what is best for what purpose.
+FINAL COMMENTS
+AAV remains a promising delivery system for the realization
+of the dream of gene therapy. It compares favorably to other
+viral vectors, especially when sustained transgene expression is
+
+592
+
+DAYA AND BERNS
+
+desired. Although nonviral vector systems such as lipid-mediated vectors, hydrodynamic delivery, and the gene gun have
+been advocated and tried, to date, none have approached the
+efficacy of the viral delivery systems. Whether such development will occur remains unknown. AAV vectors have achieved
+some success, and it seems likely that some of the advances
+described above and others not yet envisioned will enable
+AAV to become an effective therapeutic agent.
+ACKNOWLEDGMENTS
+We thank A. Srivastava for his helpful suggestions.
+The work was supported in part by a grant from the USPHS, grant
+DK58327.
+REFERENCES
+1. Afione, S. A., C. K. Conrad, W. G. Kearns, S. Chunduru, R. Adams, T. C.
+Reynolds, W. B. Guggino, G. R. Cutting, B. J. Carter, and T. R. Flotte. 1996.
+In vivo model of adeno-associated virus vector persistence and rescue. J. Virol. 70:3235–3241.
+2. Aitken, M. L., R. B. Moss, D. A. Waltz, M. E. Dovey, M. R. Tonelli, S. C.
+McNamara, R. L. Gibson, B. W. Ramsey, B. J. Carter, and T. C. Reynolds.
+2001. A phase I study of aerosolized administration of tgAAVCF to cystic
+fibrosis subjects with mild lung disease. Hum. Gene Ther. 12:1907–1916.
+3. Akache, B., D. Grimm, K. Pandy, S. R. Yant, Y. Xu, and M. A. Kay. 2006. The
+37/67-kilodalton laminin receptor is a receptor for adeno-associated virus
+serotypes 8, 2, 3, and 9. J. Virol. 80:9831–9836.
+4. Akache, B., D. Grimm, X. Shen, S. Fuess, S. R. Yant, D. S. Glazer, J. Park,
+and M. A. Kay. 2007. A two-hybrid screen identifies cathepsin B and L as
+uncoating factors for adeno-associated virus 2 and 8. Mol. Ther. 15:330–339.
+5. Anand, V., B. Duffy, Z. Yang, N. S. Dejneka, A. M. Maguire, and J. Bennett.
+2002. A deviant immune response to viral proteins and transgene product is
+generated on subretinal administration of adenovirus and adeno-associated
+virus. Mol. Ther. 5:125–132.
+6. Arnold, G. S., A. K. Sasser, M. D. Stachler, and J. S. Bartlett. 2006. Metabolic biotinylation provides a unique platform for the purification and targeting of multiple AAV vectors serotypes. Mol. Ther. 14:97–106.
+7. Asokan, A., J. B. Hamra, L. Govindasamy, M. Agbandje-McKenna, and R. J.
+Samulski. 2006. Adeno-associated virus type 2 contains an integrin ␣5␤1
+binding domain essential for viral cell entry. J. Virol. 80:8961–8969.
+8. Bartlett, J. S., J. Kleinschmidt, R. C. Boucher, and R. J. Samulski. 1999.
+Targeted adeno-associated virus vector transduction of nonpermissive cells
+mediated by a bispecific F(ab⬘gamma)2 antibody. Nat. Biotechnol. 17:181–
+186.
+9. Bartlett, J. S., R. Wilcher, and R. J. Samulski. 2000. Infectious entry pathways of adeno-associated virus and adeno-associated virus vectors. J. Virol.
+74:2777–2785.
+10. Bleker, S., F. Sonntage, and J. A. Kleinschmidt. 2005. Mutational analysis of
+narrow pores at the fivefold symmetry axes of adeno-associated virus type 2
+capsids reveal a dual role in genome packaging and activation of phospholipase A2 activity. J. Virol. 79:2528–2540.
+11. Brockstedt, D. G., G. M. Podsakoff, L. Fong, G. Kurtzman, W. MuellerRuchholtz, and E. G. Engleman. 1999. Induction of immunity to antigens
+expressed by recombinant adeno-associated virus depends on route of administration. Clin. Immunol. 92:67–75.
+12. Cao, O., C. Furlan-Frequia, V. R. Arruda, and R. W. Herzong. 2007. Emerging role of regulatory T cells in gene transfer. Curr. Gene Ther. 7:381–390.
+13. Chirmule, N., K. J. Propert, S. A. Magosin, Y. Qian, R. Qian, and J. M.
+Wilson. 1999. Immune response to adenovirus and adeno-associated virus in
+humans. Gene Ther. 6:1574–1583.
+14. Chirmule, N., W. Xiao, A. Truneh, M. A. Schnell, J. V. Hughes, P. Zoltick,
+and J. M. Wilson. 2000. Humoral immunity to adeno-associated virus type 2
+vectors following administration to murine and non-human primate muscle.
+J. Virol. 74:2420–2425.
+15. Duan, D., Q. Li, A. W. Kao, Y. Yue, J. E. Pessin, and J. F. Engelhardt. 1999.
+Dynamin is required for recombinant adeno-associated virus type 2 infection. J. Virol. 73:10371–10376.
+16. Dutheil, N., F. Shi, T. Dupressoir, and R. M. Linden. 2000. Adeno-associated virus site-specifically integrates into a muscle-specific DNA region.
+Proc. Natl. Acad. Sci. USA 97:4862–4866.
+17. Feigin, A., M. G. Kaplitt, C. Tang, T. Lin, P. Mattis, V. Dhawan, M. J.
+During, and D. Eidelberg. 2007. Modulation of metabolic brain networks
+after subthalamic gene therapy for Parkinson’s disease. Proc. Natl. Acad. Sci.
+USA 104:19559–19564.
+18. Feng, D., J. Chen, Y. Yue, H. Zhu, J. Xue, and W. W. Jia. 2006. A 16bp rep
+binding element is sufficient for mediating rep-dependent integration into
+AAVS1. J. Mol. Biol. 358:38–45.
+19. Ferrari, F. K., T. Samulski, T. Shenk, and R. J. Samulski. 1996. Second-
+
+CLIN. MICROBIOL. REV.
+strand synthesis is a rate-limiting step for efficient transduction by recombinant adeno-associated virus vectors. J. Virol. 70:3227–3234.
+20. Fischer, A., S. Hacein-Bey-Abina, C. Lagresle, A. Garrigue, and M.
+Cavazana-Calvo. 2005. Gene therapy of severe combined immunodeficiency
+disease: proof of efficiency and safety issues. Bull. Acad. Natl. Med. 189:
+779–785. (In French.)
+21. Fisher, K. J., K. Jooss, J. Alston, Y. Yang, S. E. Haecker, K. High, R. Pathak,
+S. E. Raper, and J. M. Wilson. 1997. Recombinant adeno-associated virus for
+muscle directed gene therapy. Nat. Med. 3:306–312.
+22. Flotte, T. R., B. Carter, C. Conrad, W. Guggino, T. Reynolds, B. Rosenstein,
+G. Taylor, S. Walden, and R. Wetzel. 1996. A phase I study of an adenoassociated virus-CFTR gene vector in adult CF patients with mild lung
+disease. Hum. Gene Ther. 7:1145–1149.
+23. Flotte, T. R., P. L. Zeitlin, T. C. Reynolds, A. E. Heald, P. Pedersen, S. Beck,
+C. K. Conrad, L. Brass-Ernst, M. Humphries, K. Sullivan, R. Wetzel, G.
+Taylor, B. J. Carter, and W. B. Guggino. 2003. Phase I trial of intranasal and
+endobronchial administration of a recombinant adeno-associated virus serotype 2 (rAAV2)-CFTR vector in adult cystic fibrosis patients: a two-part
+clinical study. Hum. Gene Ther. 14:1079–1088.
+24. Gao, G., L. H. Vandenberge, and J. M. Wilson. 2005. New recombinant
+serotypes of AAV vectors. Curr. Gene Ther. 5:285–297.
+25. Ghosh, A., Y. Yue, and D. Dongsheng. 2006. Viral serotype and transgene
+sequence overlapping adeno-associated virus (AAV) vector-mediated gene
+transfer in skeletal muscle. J. Gen. Med. 8:298–305.
+26. Giraud, C., E. Winocour, and K. I. Berns. 1994. Site-specific integration by
+adeno-associated virus is directed by a cellular DNA sequence. Proc. Natl.
+Acad. Sci. USA 91:10039–10043.
+27. Girod, A., C. E. Wobus, Z. Zadori, M. Ried, K. Leike, P. Tijssen, J. A.
+Kleinschmidt, and M. Hallek. 2002. The VP1 capsid protein of adenoassociated virus type 2 is carrying a phospholipase A2 domain required for
+virus infectivity. J. Gen. Virol. 83:973–978.
+28. Halbert, C. L., T. A. Standaert, C. B. Wilson, and A. D. Miller. 1998.
+Successful readministration of adeno-associated virus vectors to the mouse
+lung requires transient immunosuppression during the initial exposure. J. Virol. 72:9795–9805.
+29. Hansen, J., K. Qing, and A. Srivastava. 2001. Infection of purified nuclei by
+adeno-associated virus 2. Mol. Ther. 4:289–296.
+30. Hauck, B., W. Zhao, K. High, and W. Xiao. 2004. Intracellular viral processing, not single-stranded DNA accumulation, is crucial for recombinant
+adeno-associated virus transduction. J. Virol. 78:13678–13686.
+31. Herzog, R. W., J. N. Hagstrom, S. H. Kung, S. J. Tai, J. M. Wilson, K. J.
+Fisher, and K. A. High. 1997. Stable gene transfer and expression of human
+blood coagulation factor IX after intramuscular injection of recombinant
+adeno-associated virus. Proc. Natl. Acad. Sci. USA 94:5804–5809.
+32. Herzog, R. W., E. Y. Yang, L. B. Couto, J. N. Hagstrom, D. Elwell, P. A.
+Fields, M. Burton, D. A. Bellinger, M. S. Read, K. M. Brinkhous, G. M.
+Podsakoff, T. C. Nichols, G. J. Kurtzman, and K. A. High. 1999. Long-term
+correction of hemophilia B by gene transfer of blood coagulation factor IX
+mediated by adeno-associated viral vector. Nat. Med. 5:56–63.
+33. Kaiser, J. 2007. Gene transfer an unlikely contributor to patient’s death.
+Science 318:1535.
+34. Kaplitt, M. G., A. Feigin, C. Tang, H. L. Fitzsimons, P. Mattis, P. A. Lawlor,
+R. J. Bland, D. Young, K. Strybind, D. Eidelberg, and M. J. During. 2007.
+Safety and tolerability of gene therapy with an adeno-associated virus (AAV)
+borne GAD gene for Parkinson’s disease: an open label, phase I trial. Lancet
+369:2097–2105.
+35. Kashiwakura, Y., K. Tamayose, K. Iwabuchi, Y. Hirai, T. Shimada, K.
+Matsumoto, T. Nakamura, K. Oshimi, and H. Daida. 2005. Hepatocyte
+growth factor receptor is a co-receptor for adeno-associated virus type 2
+infection. J. Virol. 79:609–614.
+36. Kay, M. S., C. S. Manno, M. V. Ragni, P. J. Larson, L. B. Couto, A.
+McClelland, B. Glader, A. J. Chew, S. J. Tai, R. W. Herzog, V. Arruda, F.
+Johnson, C. Scallan, E. Skarsgard, A. W. Flake, and K. A. High. 2000.
+Evidence for gene transfer and expression of factor IX in hemophilia B
+patients treated with an AAV vector. Nat. Genet. 24:257–261.
+37. Kotin, R. M., M. Siniscalco, R. J. Samuslki, X. D. Zhu, L. Hunter, C. A.
+Laughlin, S. McLaughlin, N. Muzyczka, M. Rocchi, and K. I. Berns. 1990.
+Site-specific integration by adeno-associated virus. Proc. Natl. Acad. Sci.
+USA 87:2211–2215.
+38. Li, H., S. L. Murphy, W. Giles-Davis, S. Edmonson, Z. Xiang, Li, Y., M. O.
+Lasaro, K. A. High, and H. C. Ertl. 2007. Pre-existing AAV capsid specific
+CD8⫹ T cells are unable to eliminate AAV-transduced hepatocytes. Mol.
+Ther. 15:792–800.
+39. Liu, X., M. Luo, L. N. Zhang, Z. Yan, R. Zak, W. Ding, S. G. Mansfield, L. G.
+Mitchell, and J. F. Engelhardt. 2005. Spliceosome-mediated RNA transsplicing with recombinant adeno-associated virus partially restores cystic
+fibrosis transmembrane conductance regulator function to polarized human
+cystic fibrosis airway epithelial cells. Hum. Gene Ther. 16:1116–1123.
+40. Manning, W. C., S. Zhou, M. P. Bland, J. A. Escobedo, and V. Dwarki. 1998.
+Transient immunosuppression allows transgene expression following readministration of adeno-associated viral vectors. Hum. Gene Ther. 9:477–485.
+41. Manno, C. S., A. J. Chew, S. Hutchison, P. J. Larson, R. W. Herzog, V. R.
+
+VOL. 21, 2008
+Arruda, S. J. Tai, M. V. Ragni, A. Thompson, M. Ozelo, L. B. Couto, D. G.
+Leonard, F. A. Johnson, A. McClelland, C. Scallan, E. Skarsgard, A. W.
+Flake, M. A. Kay, K. A. High, and B. Glader. 2003. AAV-mediated factor IX
+gene transfer to skeletal muscle in patients with severe hemophilia B. Blood
+101:2963–2972.
+42. Manno, C. S., G. F. Pierce, V. R. Arruda, B. Glader, M. Ragni, J. J. Rasko,
+M. C. Ozelo, K. Hoots, P. Blatt, B. Konkle, M. Dake, R. Kaye, M. Razavi, A.
+Zajko, J. Zehnder, P. K. Rustagi, H. Nakai, A. Chew, D. Leonard, J. F.
+Wright, R. R. Lessard, J. M. Sommer, M. Tigges, B. Sabatino, A. Luk, H.
+Jiang, F. Mingossi, L. Couto, H. C. Ertl, K. A. High, and M. A. Kay. 2006.
+Successful transduction of liver in hemophilia by AAV-factor IX and limitations imposed by the host immune response. Nat. Med. 12:342–347.
+43. Mastakov, M. Y., K. Baer, C. W. Symes, C. B. Leichtlein, R. M. Kotin, and
+M. J. During. 2002. Immunological aspects of recombinant adeno-associated
+virus delivery to the mammalian brain. J. Virol. 76:8446–8454.
+44. McCarty, D. M., P. E. Monahan, and R. J. Samulski. 2001. Self complementary recombinant adeno-associated virus (scAAV) vectors promote efficient transduction independently of DNA synthesis. Gene Ther. 16:1248–
+1254.
+45. Mingozzi, F., M. V. Maus, D. J. Hui, D. E. Sabatino, S. L. Murphy, J. E.
+Rasko, M. V. Ragni, C. S. Manno, J. Sommer, H. Jiang, G. F. Perce, H. C.
+Ertl, and K. A. High. 2007. CD8(⫹) T-cell responses to adeno-associated
+virus capsid in humans. Nat. Med. 13:419–422.
+46. Moss, R. B., D. Rodman, L. T. Spencer, M. L. Aitken, P. L. Zeitlin, D. Waltz,
+C. Milla, A. S. Brody, J. P. Clancy, B. Ramsey, N. Hamblett, and D. Milla.
+2004. Repeated adeno-associated virus serotype 2 aerosol-mediated cystic
+fibrosis transmembrane regulator gene transfer to the lungs of patients with
+cystic fibrosis; a multicenter, double-blind placebo-controlled trial. Chest
+125:509–521.
+47. Murphy, S. L., H. Li, S. Zhou, A. Schlachterman, and K. High. 2008.
+Prolonged susceptibility to antibody-mediated neutralization for adeno-associated vectors targeted to the liver. Mol. Ther. 16:138–145.
+48. Pereira, D. J., D. M. McCarty, and N. Muzyczka. 1997. The adeno-associated
+virus (AAV) Rep protein acts as both a repressor and an activator to
+regulate AAV transcription during a productive infection. J. Virol. 71:1079–
+1088.
+49. Philpott, N. J., J. Gomos, K. I. Berns, and E. Falck-Pedersen. 2002. A p5
+integration efficiency element mediates rep-dependent integration into
+AAVS1 at chromosome 19. Proc. Natl. Acad. Sci. USA 99:12381–12385.
+50. Ponnazhagen, S., G. Mahendra, S. Kumar, J. A. Thompson, and M. Castillas, Jr. 2002. Conjugate-based targeting of recombinant adeno-associated
+virus type 2 vector using avidin-linked ligands. J. Virol. 76:12900–12907.
+51. Qing, K., J. Hansen, K. A. Weigel-Kelley, M. Tan, S. Zhou, and A. Srivastava. 2001. Adeno-associated virus type 2-mediated gene transfer: role of
+cellular FKBP52 protein in transgene expression. J. Virol. 75:8968–8976.
+52. Qing, K., W. Li, L. Zhong, M. Tan, J. Hansen, K. A. Wiegel-Kelly, L. Chen,
+M. C. Yoder, and A. Srivastava. 2003. Adeno-associated virus type 2-mediated gene transfer: role of cellular T-cell protein tyrosine phosphatase in
+transgene expression in established cell lines in vitro and transgenic mice in
+vivo. J. Virol. 77:2741–2746.
+53. Qing, K., C. Mah, J. Hansen, S. Zhou, V. Dwarki, and A. Srivastava. 1999.
+Human fibroblast growth factor 1 is a co-receptor for infection by adenoassociated virus 2. Nat. Med. 5:71–77.
+54. Recchia, A., L. Perani, D. Sartori, C. Olgiati, and F. Malvilio. 2004. Sitespecific integration of functional transgenes into the human genome by
+adeno/AAV hybrid vectors. Mol. Ther. 10:660–670.
+55. Reich, S. J., A. Auricchio, M. Hildinger, E. Glover, A. M. Maguire, J. M.
+Wilson, and J. Bennett. 2003. Efficient trans-splicing in the retina expands
+the utility of adeno-associated virus as a vector for gene therapy. Hum. Gene
+Ther. 14:37–44.
+56. Rizzuto, G., B. Gorgoni, M. Cappelletti, D. Lazzaro, G. Ciliberto, I. Gloaguen, V. Poli, A. Sgura, D. Cimini, R. Cortese, E. Fattori, and N. La Monica.
+1999. Development of animal models for adeno-associated virus site-specific
+integration. J. Virol. 73:2517–2526.
+57. Sanlioglu, S., P. K. Benson, J. Yang, E. M. Atkinson, T. Reynolds, and J. F.
+Engelhardt. 2000. Endocytosis and nuclear trafficking of adeno-associated
+virus type 2 are controlled by Rac1 and phophatidylinositol-3 kinase activation. J. Virol. 74:9184–9196.
+58. Schmidt, M., S. Afione, and R. M. Kotin. 2000. Adeno-associated virus type
+2 Rep78 induces apoptosis through caspase activation independently of p53.
+J. Virol. 74:9441–9450.
+59. Schnepp, B. C., R. L. Jensen, C. L. Chen, P. R. Johnson, and K. R. Clark.
+
+AAV GENE THERAPY
+
+593
+
+2005. Characterization of adeno-associated virus genomes isolated from
+human tissues. J. Virol. 79:4793–4803.
+60. Srivastava, A., E. W. Lusby, and K. I. Berns. 1983. Nucleotide sequence and
+organization of the adeno-associated virus 2 genome. J. Virol. 45:555–564.
+61. Stachler, M. D., and J. S. Bartlett. 2006. Mosaic vectors comprised of
+modified AAV 1 capsid proteins for efficient vector purification and targeting to vascular endothelial cells. Gene Ther. 13:926–931.
+62. Summerford, C., and R. J. Samulski. 1998. Membrane-associated heparin
+sulfate proteoglycan is a receptor for adeno-associated virus type 2 virions.
+J. Virol. 72:1438–1445.
+63. Summerford, C., and J. S. Bartlett, and R. J. Samulski. 1999. ␣V␤5 integrin:
+a co-receptor for adeno-associated virus type 2 infection. Nat. Med. 5:78–82.
+64. Tan, I., C. H. Ng, L. Lim, and T. Leung. 2001. Phosphorylation of a novel
+myosin binding subunit of protein phosphatase 1 reveals a conserved mechanism in the regulation of actin cytoskeleton. J. Biol. Chem. 276:21209–
+21216.
+65. Vandenberghe, L. H., L. Wang, S. Somanathan, Y. Zhi, J. Figueredo, R.
+Calcedo, J. Sanmiguel, R. A. Desai, C. S. Chen, J. Johnston, R. L. Grant,
+G. P. Gao, and J. M. Wilson. 2006. Heparin binding directs activation of
+T-cells against adeno-associated virus serotype 2 capsid. Nat. Med. 12:967–
+971.
+66. Wagner, J. A., T. Reynolds, M. L. Moran, R. B. Moss, J. J. Wine, T. R. Flotte,
+and P. Gardner. 1998. Efficient and persistent gene transfer of AAV-CFTR
+in maxillary sinus. Lancet 351:1702–1703.
+67. Wang, L., J. Figueredo, R. Calcedo, J. Lin, and J. M. Wilson. 2007. Crosspresentation of adeno-associated virus serotype 2 capsids activated cytotoxic
+T cells but does not render hepatocytes effective cytolytic targets. Hum.
+Gene Ther. 18:185–194.
+68. Weitzman, M. D., S. Kyostio, R. M. Kotin, and R. A. Owens. 1994. Adenoassociated virus (AAV) rep proteins mediate complex formation between
+AAV DNA and its integration site in human DNA. Proc. Natl. Acad. Sci.
+USA 91:5808–5812.
+69. White, S. J., S. A. Nicklin, H. Buning, M. J. Brosnan, K. Leike, E. D.
+Papadakis, M. Hallek, and A. H. Baker. 2004. Targeted gene delivery to
+vascular tissue in vivo by tropism-modified adeno-associated virus vectors.
+Circulation 109:513–519.
+70. Williams, D. 2007. A RAC reviews serious adverse event associated with
+AAV therapy trial. Mol. Ther. 15:2053.
+71. Wu, J., W. Zhao, L. Zhong, Z. Han, B. Li, W. Ma, K. A. Weigel-Kelley, K. H.
+Warrington, and A. Srivastava. 2007. Self-complementary recombinant
+adeno-associated viral vectors: packaging capacity and the role of the rep
+proteins in vectors purity. Hum. Gene Ther. 18:171–182.
+72. Xiao, X., J. Li, and R. J. Samulski. 1996. Efficient long-term gene transfer
+into muscle of immunocompetent mice by adeno-associated virus vectors.
+J. Virol. 70:8098–8108.
+73. Yamamoto, N., M. Suzuki, M. A. Kawano, T. Inoue, R. U. Takahashi, H.
+Tsukamoto, T. Enomoto, Y. Yamaguchi, T. Wada, and H. Handa. 2007.
+Adeno-associated virus site-specific integration is regulated by TRP-185.
+J. Virol. 81:1990–2001.
+74. Yan, Z., Y. Zhang, D. Duan, and J. F. Engelhardt. 2000. trans-Splicing
+vectors expand utility of adeno-associated virus for gene therapy. Proc. Natl.
+Acad. Sci. USA 97:6716–6721.
+75. Yang, Q., F. Chen, and J. P. Trempe. 1994. Characterization of cell lines that
+inducibly express the adeno-associated virus Rep proteins. J. Virol. 68:4847–
+4856.
+76. Zaiss, A. K., Q. Liu, G. P. Bowen, N. C. Wong, J. S. Bartlett, and D. A.
+Muruve. 2002. Differential activation of innate immune response by adenovirus and adeno-associated virus vectors. J. Virol. 76:4580–4590.
+77. Zhang, C., N. Cortez, and K. I. Berns. 2007. Characterization of a bipartite
+recombinant adeno-associated virus vector for site-specific integration. Hum.
+Gene Ther. 18:787–797.
+78. Zhang, Y. I., N. Chirmule, G. P. Gao, and J. M. Wilson. 2000. CD40
+ligand-dependent activation of cytotoxic T lymphocytes by adeno-associated
+virus vector in vivo: role of immature dendritic cells. J. Virol. 74:8003–8010.
+79. Zhao, W., J. Wu, L. Zhong, and A. Srivastava. 2007. Adeno-associated virus
+2-mediated gene transfer: role of a cellular serine/threonine protein phosphatase in augmenting transduction efficiency. Gene Ther. 14:545–550.
+80. Zhong, L., W. Zhao, J. Wu, B. Li, S. Zolotukhin, L. Govindasamy, M.
+Agbandje-McKenna, and A. Srivastava. 2007. A dual-role of EGFR protein
+kinase signaling in ubiquitination of AAV 2 capsids and viral second strand
+synthesis. Mol. Ther. 17:1323–1330.
+
+

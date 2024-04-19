@@ -1,0 +1,1954 @@
+REVIEWS
+
+Mechanisms of post-transcriptional
+regulation by microRNAs: are the
+answers in sight?
+Witold Filipowicz*, Suvendra N. Bhattacharyya* and Nahum Sonenberg ‡
+
+Abstract | MicroRNAs constitute a large family of small, approximately 21-nucleotide-long,
+non-coding RNAs that have emerged as key post-transcriptional regulators of gene
+expression in metazoans and plants. In mammals, microRNAs are predicted to control the
+activity of approximately 30% of all protein-coding genes, and have been shown to
+participate in the regulation of almost every cellular process investigated so far. By base
+pairing to mRNAs, microRNAs mediate translational repression or mRNA degradation.
+This Review summarizes the current understanding of the mechanistic aspects of
+microRNA-induced repression of translation and discusses some of the controversies
+regarding different modes of microRNA function.
+
+*Friedrich Miescher Institute
+for Biomedical Research,
+4002 Basel, Switzerland.
+‡
+Department of Biochemistry
+and McGill Cancer Center,
+McGill University, Montreal,
+Quebec, Canada, H3G 1Y6.
+Correspondence to W.F. or N.S.
+e-mails:
+witold.filipowicz@fmi.ch;
+nahum.sonenberg@mcgill.ca
+doi:10.1038/nrg2290
+Published online
+16 January 2008
+
+MicroRNAs (miRNAs), which are approximately 21nucleotide-long RNA regulators of gene expression1–3,
+have become a major focus of research in molecular
+biology. Although for a long time they were considered
+to be exclusive to multicellular organisms and possibly
+essential for the transition to a more complex organism design, the recent identification of miRNAs in the
+unicellular algae Chlamydomonas reinhardtii4,5 indicates that miRNAs are probably evolutionarily older
+than originally thought. One to two hundred miRNAs
+are expressed in lower metazoans and plants, but at
+least a thousand are predicted to operate in humans.
+Functional studies indicate that miRNAs participate
+in the regulation of almost every cellular process
+investigated and that changes in their expression are
+observed in — and might underlie — human pathologies, including cancer1,2,6–8. These findings are perhaps
+not so surprising as bioinformatic predictions indicate
+that mammalian miRNAs can regulate ~30% of all
+protein-coding genes.
+With just one possible exception noted so far 9,
+miRNAs control gene expression post-transcriptionally by regulating mRNA translation or stability in the
+cytoplasm10–14. However, further functions of miRNAs
+seem likely. For example, by virtue of base pairing to
+RNA, miRNAs could regulate pre-mRNA processing
+in the nucleus or act as chaperones that modify mRNA
+structure or modulate mRNA–protein interactions.
+Indications that mammalian miRNAs can be imported
+into the nucleus15 or even secreted from the cell16 will
+
+102 | february 2008 | volume 9
+
+motivate searches for currently unidentified functions
+for this class of molecule. What is already certain is that
+the discovery of miRNAs has revealed an important new
+dimension in the complexity of post-transcriptional
+regulation of eukaryotic gene expression. We are beginning to understand why the 3′ UTRs of mRNA, with
+which the miRNAs and other factors interact, are often
+so long and so important for gene function.
+The mechanistic details of the function of miRNAs in
+repressing protein synthesis are still poorly understood.
+miRNAs can affect both the translation and stability
+of mRNAs, but the results from studies conducted in different systems and different laboratories have often been
+contradictory: a comprehensive and lucid picture of the
+mechanism of miRNA-mediated repression is difficult
+to elaborate. In this Review, after briefly introducing
+miRNAs and their biogenesis, we summarize what is
+currently known about the mechanistic aspects of their
+function in controlling mRNA stability and translation,
+focusing primarily on animal cells. We also discuss the
+cellular localization and reversibility of miRNA-mediated
+repression. For further recent Reviews covering these
+topics, see Refs 11–14,17,18, and more general information about the biogenesis, diversity and function of
+miRNAs can be found in Refs 1–3,19–23.
+
+miRNA and micro-ribonucleoprotein biogenesis
+miRNA precursors fold into imperfect dsRNA-like
+hairpins, from which miRNAs are excised in two steps,
+both of which are catalyzed by Drosha (also known as
+www.nature.com/reviews/genetics
+
+© 2008 Nature Publishing Group
+
+REVIEWS
+Box 1 | Biogenesis of miroRNAs and their assembly into microribonucleoproteins
+microRNAs (miRNAs) are processed from precursor molecules (primiRNAs), which are either transcribed from independent miRNA
+Transcription
+genes or are portions of introns of protein-coding RNA polymerase
+II transcripts. A single pri-miRNA often contains sequences for
+several different miRNAs. Pri-miRNAs fold into hairpin structures
+Pri-miRNA
+containing imperfectly base-paired stems and are processed in two
+‘Mirtron’
+steps, catalysed by the RNase III type endonucleases Drosha (also
+(A)n
+known as RN3) and Dicer. Both Drosha and Dicer function in
+complexes with proteins containing dsRNA-binding domains
+DGCR8
+(dsRBDs). The Drosha partners are the pasha protein in Drosophila
+Processing
+melanogaster or DiGeorge syndrome critical region gene 8 (DGCR8)
+(A)n
+Drosha
+in mammals. The Drosha–DGCR8 complex processes pri-miRNAs to
+~70-nucleotide hairpins known as pre-miRNAs1,3,21,24. Some spliced-out
+Splicing
+introns in Caenorhabditis elegans, D. melanogaster and mammals
+correspond precisely to pre-miRNAs (mirtrons), thus circumventing the
+Pre-miRNA
+requirement for Drosha–DGCR8 (Refs 125–127). Plant genomes do not
+encode Drosha homologues, and all miRNA biogenesis steps in Arabidopsis
+Exportin5
+thaliana are carried out by one of four Dicer-like proteins29. In animals, premiRNAs are transported to the cytoplasm by exportin5, where they are cleaved
+by Dicer (complexed with TAR RNA binding protein (TRBP) in mammals and the
+loquacious gene product in D. melanogaster) to yield ~20-bp miRNA duplexes.
+Nucleus
+One strand is then selected to function as a mature miRNA, while the other strand
+is degraded. Occasionally, both arms of the pre-miRNA hairpin give rise to mature
+Cytoplasm
+miRNAs1,3,21,24. Vertebrates and C. elegans contain single dicer genes, but some
+other organisms like D. melanogaster and plants express two or more Dicer
+proteins that function as heterodimers with different dsRBD proteins and have
+specialized functions1,3,21,24.
+Maturation
+Following their processing, miRNAs are assembled into ribonucleoprotein (RNP)
+complexes called micro-RNPs (miRNPs) or miRNA-induced silencing complexes (miRISCs).
+The assembly is a dynamic process, usually coupled with pre-miRNA processing by Dicer,
+TRBP
+Dicer
+but its details are not well understood1,3,21,24. The key components of miRNPs are proteins
+of the Argonaute (AGO) family. Of the many paralogues encoded in plant and metazoan
+genomes, usually only some — known as AGO proteins — function in miRNA or
+AGO1–4
+both miRNA and small interfering RNA (siRNA) pathways. In mammals, four AGO
+Strand selection;
+proteins (AGO1 to AGO4) function in the miRNA repression but only AGO2
+miRNP assembly
+functions in RNAi. In C. elegans, which expresses 27 Argonaute proteins, RDE1
+is involved in RNAi and ALG1 and ALG2 function in the miRNA pathway24,25.
+Apart from AGOs, miRNPs can contain further proteins that function as
+regulatory factors or effectors mediating inhibitory function of miRNPs19,23,24.
+Examples are the fragile X mental retardation protein, FMRP, and its
+CCR4–
+D. melanogaster orthologue, dFXR, which are RNA-binding
+NOT
+AGO1–4
+proteins known to act as modulators of translation, particularly
+AGO2
+II:I IIII
+IIIIIIIII
+in neurons (reviewed in Ref. 128). Some P‑body components
+AAAA
+AAAAA
+such as GW182 and RCK/p54 (see BOX 4) interact with miRNP
+AGO proteins and are essential for inducing repression78,92,104.
+Endonucleolytic cleavage
+Translational repression or deadenylation
+Nature Reviews | Genetics
+
+Dicer
+An RNase III family
+endonuclease that processes
+dsRNA and pre-miRNAs into
+small interfering RNAs and
+microRNAs, respectively.
+
+Small interfering RNAs
+(siRNAs). Small RNAs that are
+similar in size to microRNAs
+but are derived from the
+progressive cleavage of long
+dsRNA by Dicer. Upon
+incorporation into an
+RISC, siRNAs guide the
+endonucleolytic cleavage
+of the target mRNA.
+
+RN3) and the endoribonuclease Dicer — enzymes of
+the RNase III family (BOX 1). The final processing of
+the ~70-nucleotide pre-miRNA hairpin by Dicer yields
+~21-bp miRNA duplexes with protruding 2‑nucleotide
+3′ ends, similar to small interfering RNAs (siRNAs)
+operating in RNA interference (RNAi). Generally, the
+strand with the 5′ terminus located at the thermodynamically less-stable end of the duplex is selected to
+function as a mature miRNA, and the other strand is
+degraded3,19,21–23.
+miRNAs function as components of ribonucleoprotein (RNP) complexes or RNA-induced silencing complexes
+(RISCs), referred to as either micro-ribonucleoproteins
+(miRNPs) or miRNA-induced silencing complexes
+(miRISCs) (BOX 1) . The most important and bestcharacterized components of miRNPs are proteins
+
+nature reviews | genetics
+
+of the Argonaute family . Mammals contain four
+Argonaute (AGO) proteins, AGO1 to AGO4. Their
+function in miRNA repression is demonstrated by their
+association with similar sets of miRNAs and their ability
+to repress protein synthesis when artificially tethered to
+the mRNA 3′ UTR26–28 (FIG. 1). AGO2 is the only AGO
+that functions in RNAi because its RNaseH-like
+P-element induced wimpy testis (PIWI) domain, but not
+those of the other AGOs, can cleave mRNA at the centre of the siRNA–mRNA duplex (BOX 1). In Drosophila
+melanogaster, Argonaute1 is dedicated to the miRNA
+pathway, and Argonaute2 mainly functions in RNAi24,25.
+Apart from the AGO proteins, miRNPs often include
+other proteins, which probably function as miRNP
+assembly or regulatory factors, or as effectors mediating
+the repressive miRNP functions24.
+24,25
+
+volume 9 | february 2008 | 103
+© 2008 Nature Publishing Group
+
+REVIEWS
+a Cap-dependent reporter mRNAs
+m7GpppN
+
+ORF
+
+AAAAA
+
+ApppN
+
+ORF
+
+AAAAA
+
+b IRES-containing mRNA reporters
+IRES
+ApppN
+or
+m7GpppN
+m7GpppN
+
+AAAAA
+
+ORF
+IRES
+ORF 1
+
+ORF 2
+
+AAAAA
+
+c Tethering reporters
+
+N-AGO2 or N-GW182
+
+m7GpppN
+
+RNA interference
+The dsRNA-induced, sequencehomology dependent genesilencing mechanism. The
+dsRNA is processed to siRNAs,
+which, upon incorporation
+into an RISC, guide the
+endonucleolytic cleavage
+of the target mRNA.
+
+RNA-induced silencing
+complex
+(RISC). The ribonucleoprotein
+complex, consisting of small
+interfering RNA and an AGO
+protein, that harbours the
+‘slicer’ activity, which cleaves
+an mRNA target in the
+middle of siRNA–mRNA
+complementarity.
+
+micro-ribonucleoprotein
+(miRNP). A ribonucleoprotein
+complex containing a miRNA
+and one of the AGO proteins.
+Depending on the identity of
+the associated AGO, it might
+harbour a ‘slicer’ activity,
+characteristic of an RISC.
+
+m7G cap
+The 7‑methylguanosine (m7G)
+that is linked by a 5–5′
+triphosphate bridge to the first
+transcribed nucleoside at the
+5′ end of eukaryotic mRNAs.
+
+ORF
+
+Box-B hairpins
+
+AAAAA
+
+Figure 1 | Examples of reporters used in studies of microRNA function. a | Capped reporters
+containing multiple
+Nature Reviews | Genetics
+mRNA binding sites. mRNAs containing a non-functional ApppN cap (instead of the 7-methylguanosine (m7G) cap)
+can be prepared by in vitro transcription with T7 phage RNA polymerase and either introduced into cells by
+transfection or used in studies in cell-free extracts. b | Mono-cistronic and bi-cistronic reporters containing a viral
+internal ribosomal entry sites (IRES). Reporters containing ApppN or pppN at the 5′ end can be prepared by in vitro
+transcription and then transfected into cells. c | Reporters used to study the effects of tethering to mRNA of
+Argonaute (AGO) proteins or GW182 on protein synthesis. The investigated proteins are expressed as fusions
+with a phage λN-peptide, which can bind the short Box‑B hairpins that are inserted to the mRNA 3′ UTR27,106. The
+λN-peptide–Box‑B system can also be used to tether initiation factors eIF4E or eIF4G to the intercistronic region of
+the bi-cistronic reporter43. Reporters that are generated in vitro and used for either RNA transfection experiments
+or studies in cell-free extracts can be prepared with or without the poly (A) tail43,44,52,55. Reporters can also differ in
+the number of miRNA binding sites that are present in the 3′ UTR. Reporters that are devoid of microRNA binding
+sites or that contain mutated sites are used as controls.
+
+Principles of miRNA–mRNA interactions
+In plants, miRNAs generally base pair to mRNAs
+with nearly perfect complementarity and trigger
+endonucleolytic mRNA cleavage by an RNAi-like
+mechanism29. In rare instances, a similar mechanism
+is used by vertebrate and viral miRNAs (see Ref. 21 for
+examples). However, in most cases, metazoan miRNAs
+pair imperfectly with their targets, following a set of
+rules determined by experimental and bioinformatic
+analyses30–34 (BOX 2). The most stringent requirement is
+a contiguous and perfect base pairing of the miRNA
+nucleotides 2–8, representing the ‘seed’ region, which
+nucleates the interaction. With few exceptions, miRNAbinding sites in metazoan mRNAs lie in the 3′ UTR and
+are usually present in multiple copies — this is required
+for effective repression of translation30–34. miRNAs also
+exert their repressive function when their binding sites
+are artificially placed in 5′ UTRs or coding regions35,36,
+although the physiological effects of the coding-region
+sites might be only marginal37.
+
+104 | february 2008 | volume 9
+
+Modes of translational repression
+mRNA translation can be divided into three steps: initiation, elongation and termination. Initiation starts with
+the recognition of the mRNA 5′-terminal cap structure
+m7GpppN (in which N is any nucleotide) by the eIF4E
+subunit of the eukaryotic translation initiation factor
+(eIF) eIF4F, which also contains eIF4G, an important
+scaffold for the assembly of the ribosome initiation
+complex (BOX 3). Interaction of eIF4G with another
+initiation factor, eIF3, facilitates the recruitment of the
+40S ribosomal subunit38,39. eIF4G also interacts with
+the polyadenylate-binding protein 1 (PABP1). The
+ability of eIF4G to interact simultaneously with eIF4E
+and PABP1 brings the two ends of the mRNA in close
+proximity40,41. This ‘circularization’ stimulates translation initiation by increasing the affinity of eIF4E for
+m7GpppN, and might facilitate ribosome recycling 41.
+Some cellular and viral mRNAs initiate translation
+independently of the m7G cap and eIF4E; in this case,
+40S ribosomes are recruited to the mRNA through
+www.nature.com/reviews/genetics
+
+© 2008 Nature Publishing Group
+
+REVIEWS
+cap, is repressed by miRNAs43,44. As in numerous subse-
+
+Box 2 | Principles of microRNA–mRNA interactions
+>15 nucleotides
+
+Bulge
+
+ORF
+
+NNNNNNNNNN
+
+A
+U NNNNNNN A
+
+NNNNNNNNNN
+
+NNNNNNNNN
+
+16
+
+13
+
+3′ complementarity
+
+Bulge
+
+8
+
+AAAAAA
+miRNA
+
+1
+‘Seed’
+region
+
+Reviews
+| Genetics
+MicroRNAs (miRNAs) interact with their mRNA targets by baseNature
+pairing.
+In plants,
+most
+miRNAs base pair to mRNAs with nearly perfect complementarity and induce mRNA
+degradation by an RNAi-like mechanism — the mRNA is cleaved endonucleolytically
+in the middle of the miRNA–mRNA duplex29. By contrast, with few exceptions,
+metazoan miRNAs base pair with their targets imperfectly, following a set of rules
+that have been identified by experimental and bioinformatics analyses30–34.
+• One rule for miRNA–target base paring is perfect and contiguous base pairing of
+miRNA nucleotides 2 to 8, representing the ‘seed’ region (shown in dark red and
+green), which nucleates the miRNA–mRNA association. GU pairs or mismatches
+and bulges in the seed region greatly affect repression. However, an A residue across
+position 1 of the miRNA, and an A or U across position 9 (shown in yellow), improve
+the site efficiency, although they do not need to base pair with miRNA nucleotides.
+
+• Another rule is that bulges or mismatches must be present in the central region of the
+miRNA–mRNA duplex, precluding the Argonaute (AGO)-mediated endonucleolytic
+cleavage of mRNA.
+• The third rule is that there must be reasonable complementarity to the miRNA 3′ half to
+stabilize the interaction. Mismatches and bulges are generally tolerated in this region,
+although good base pairing, particularly to residues 13–16 of the miRNA (shown in
+orange), becomes important when matching in the seed region is suboptimal31,33.
+Other factors that can improve site efficacy include an AU‑rich neighbourhood
+and, for long 3′ UTRs, a position that is not too far away from the poly(A) tail or the
+termination codon; these factors can make the 3′ UTR regions less structured and
+hence more accessible to miRNP recognition33,34,129. Indeed, accessibility of binding
+sites might have an important effect on miRNA-mediated repression130. Some
+experimentally characterized sites deviate significantly from these rules and can, for
+example, even require a bulged nucleotide in the seed region pairing131,132. In addition,
+combinations of sites can require a specific configuration (for example, separation by
+a stretch of nucleotides of specific sequence and length) for efficient repression131.
+Usually, miRNA-binding sites in metazoan mRNAs lie in the 3′ UTR and are present in
+multiple copies. Importantly, multiple sites for the same or different miRNAs are
+generally required for effective repression30–34. When they are present close to each
+other (10–40 nucleotides apart) they tend to act cooperatively, that is, their effect
+exceeds that expected from the independent contributions of two single sites30,33.
+
+Internal ribosomal entry site
+(IRES). An RNA element,
+usually present in the 5′ UTR,
+that allows m7G-capindependent association of
+ribosome with mRNA.
+
+ApppN cap
+An unmethylated cap analogue
+that is not bound by eIF4E.
+The mRNAs with an artificially
+introduced ApppN cap instead
+of a physiological m7GpppN
+cap are translated inefficiently.
+
+interaction with an internal ribosome entry site (IRES)42.
+Joining of the 60S subunit at the AUG codon precedes
+the elongation phase of translation.
+Although it is now clear that the effects of miRNAs
+on protein synthesis can result from mRNA destabilization or translational repression, whether the latter
+occurs at the initiation or post-initiation step (or both)
+remains a matter of debate. Several recently published
+papers provide important mechanistic insights into the
+repression-at-the-initiation step, giving extra credence
+to this model.
+Repression at the initiation step. Investigations were
+carried out using HeLa cells and reporter mRNAs that
+had multiple binding sites for either natural or synthetic
+miRNAs in their 3′ UTR. The investigations revealed
+that the translation of m7G-capped mRNAs, but not of
+mRNAs containing an IRES or a non-functional ApppN
+
+nature reviews | genetics
+
+quent studies, the specificity of repression was assessed
+using reporters containing mutated miRNA sites or by
+antisense oligonucleotides that specifically block the
+targeting miRNA. The conclusion that the m7G cap is
+essential for translational repression was corroborated by
+experiments with bi-cistronic mRNAs. In these experiments, the activity of the first cap-dependent cistron,
+but not the second cistron, placed under the control
+of eIF4E or eIF4G artificially tethered to the mRNA,
+was repressed by the endogenous let‑7 miRNA43 (FIG. 1).
+Polysome gradient analysis independently supports an
+effect on the initiation step: reporter mRNAs that either
+contained functional let-7-binding sites or that were
+repressed by AGO2 (artificially tethered to the 3′ UTR)
+showed a marked shift in sedimentation toward the top
+of the gradient, indicating reduced ribosome loading
+on the repressed mRNA43. Likewise, the amino-acidstarvation-induced release of endogenous cationic amino
+acid transporter 1 (CAT1) mRNA from repression that
+was mediated by the miRNA miR‑122 was accompanied by a more effective recruitment of CAT1 mRNA to
+polysomes in human hepatoma cells45.
+There is substantial evidence that factors bound at
+the 3′ UTR exert their inhibitory effect on translational
+initiation by recruiting proteins that either interfere with
+the eIF4E–eIF4G interaction or bind directly to the cap
+but, unlike eIF4E, are unable to associate with eIF4G
+and promote assembly of the 40S initiation complex46–48.
+Could miRNPs or tethered AGO proteins function in a
+similar manner? Kiriakidou et al.49 recently reported that
+the central domain of AGO proteins contains limited
+sequence homology to the cap-binding region of eIF4E.
+Importantly, the similarity includes two aromatic residues (FIG. 2), which are crucial for cap binding in eIF4E
+and other cap-binding proteins49,50. Mutations of one or
+both aromatic amino acids in AGO2 to valine but, significantly, not to other aromatic amino acids, prevented the
+interaction with m 7GTP–Sepharose and abolished
+the ability of AGO2 to repress translation when tethered
+to the mRNA 3′ UTR. These data indicate that AGO2
+and related proteins can compete with eIF4E for m7G
+binding and thus prevent translation of capped, but
+not IRES-containing, mRNAs49. The data also provide
+a plausible explanation for the requirement of multiple
+miRNPs or tethered AGO molecules for robust repression27,30,43,51. Multiple copies of AGO, with an apparently
+lower affinity for m7G than eIF4E49, would increase the
+likelihood of AGO association with the cap. It will be
+important to determine whether the AGO aromatic
+residues are essential for miRNA-mediated repression in
+a physiological assay. Additional evidence, for example
+from cross-linking experiments, should be obtained in
+support of direct interaction of AGO with the mRNA
+m7G cap structure.
+Lessons from in vitro studies. Four different cell-free
+extracts that recapitulate many features of the miRNAmediated in vivo effects have recently been described.
+In all of them, the presence of the m7G cap was required
+for translational repression52–55; the mRNAs containing
+volume 9 | february 2008 | 105
+
+© 2008 Nature Publishing Group
+
+REVIEWS
+Box 3 | Steps in eukaryotic translation
+
+eIF4E
+AUG
+
+40S
+eIF4G
+
+eIF3
+
+eIF4A
+
+UAA
+PABP1
+A
+AAA
+
+PABP1
+
+60S
+
+AAAAAAAAAAA
+
+?
+eIF6
+
+eIF4E
+AUG
+eIF4G
+
+eIF3
+
+eIF4A
+
+40S
+
+UAA
+PABP1
+A
+AAA
+
+PABP1
+
+AAAAAAAAAAA
+
+Translation of mRNA consists of three steps: initiation, elongation and termination.
+Nature Reviews | Genetics
+Initiation is the most complex step and is subject to a large number of
+interventions, with the phosphorylation of initiation factors being the key
+regulator133. Translation requires the participation of at least 10 initiation factors,
+many of them multisubunit complexes38,39. Initiation of translation of most cellular
+mRNAs starts with the recognition of the mRNA 5′-terminal 7‑methylguanosine
+(m7G) cap (represented by the red circle in the figure) by the eukaryotic translation
+initiation factor (eIF) 4E subunit of the initiation factor eIF4F, which also contains
+eIF4A (an RNA helicase) and eIF4G (a large multidomain protein that functions as a
+scaffold for the assembly of the translation initiation complex). Interaction of
+eIF4G with another multi-subunit initiation factor, eIF3, facilitates the recruitment
+of the 40S subunit, which then begins scanning the mRNA 5′ UTR in search of the
+AUG (or in rare cases its cognate) initiation codon. Following the joining of the 60S
+ribosomal subunit the elongation phase ensues. The elongation step can also be
+regulated by phosphorylation of the elongation factor eEF2 (Ref. 134). When the
+ribosome encounters a termination codon, translation release factors mediate
+the termination process, in which the ribosomal subunits dissociate from both the
+mRNA and from each other. An important function of eIF4G is its interaction with
+the poly(A)-binding protein 1, PABP1, which is associated with the poly(A) tail. This
+interaction brings about the circularization of the mRNA, which stimulates
+translation initiation and possibly recycling of ribosomes40,41. eIF6 is required for
+60S subunit biogenesis, and might also act as an initiation factor that regulates
+subunit joining58–61. Some cellular and many viral mRNAs initiate translation
+independently of the m7G cap and eIF4E, and sometimes also independently of
+other initiation factors. During this mode of translation, ribosomes are recruited to
+the mRNA through interaction with internal ribosome entry sites (IRES), which are
+usually highly structured regions in the 5′-UTR. The best-studied IRES are those of
+the encephalomyocarditis and polio viruses, hepatitis C virus and the insect cricket
+paralysis virus. Bi-cistronic constructs, in which translation of the upstream cistron
+requires the presence of the cap and eIF4E and that of the downstream
+cistron requires internal initiation, are widely used as one of the means to identify
+a putative IRES38,42 (FIG. 1).
+
+106 | february 2008 | volume 9
+
+an IRES or an ApppN cap were not inhibited53,54. Extracts
+derived from D. melanogaster embryos and mouse
+Krebs2 ascites cells were used to define the repression
+step more precisely. In both systems, miRNAs inhibited
+the association of mRNA with either the 40S or the 80S
+ribosome, consistent with miRNAs targeting translation
+initiation, probably at the 40S–mRNA complex assembly
+step53,54. In agreement with the model that AGO proteins
+compete with eIF4E for cap binding49, the addition of
+purified initiation factor eIF4F to the ascites extract rescued mRNA from the miRNA-mediated inhibition54.
+Extracts that were prepared from rabbit reticulocytes
+and from human HEK293 cells were also tested for the
+poly(A)-tail requirement55 — translational repression
+occurred only when target mRNAs contained both
+an m7G cap and a poly(A) tail. In the reticulocyte lysate,
+m7G cap dependence could be partially relieved by the
+addition of poly(A) tails of non-physiological length —
+0.8 kb or longer — implying that polyadenylation might
+have a role in miRNA-mediated repression52. Studies in
+HEK293 cell extracts showed that mRNAs containing
+miRNA-binding sites underwent deadenylation irrespective of whether they contained an m7G cap (translationally repressed mRNAs) or an ApppN cap or IRES
+(non-repressed mRNAs). Thus, although the miRNAmediated deadenylation had no apparent effect on the
+translation of IRES-containing or ApppN-containing
+mRNAs, it might have contributed to the repression of
+m7G-capped mRNAs by disrupting the eIF4G-mediated
+mRNA circularization55.
+Taken together, the data support the notion that by
+targeting one of the two terminal mRNA structures,
+miRNAs prevent the synergy between the 5′ cap and
+3′ poly(A) tail. Notably, HEK293 cell lysate was supplemented with an extract of cells overexpressing GW182
+(Ref. 55), a protein that recruits the CCR4–NOT deadenylation complex to the miRNA-bound mRNA (discussed below). Hence, in this system, miRNA-mediated
+repression might be biased towards deadenylation. Of
+the remaining three systems, the D. melanogaster and
+mouse ascites extracts originated from non-modified
+cells and responded to endogenous miRNPs53,54. By contrast, the repression in the reticulocyte lysate required
+pre-annealing of the synthetic miRNA to the template
+mRNA52. It is not known how effectively such a preformed miRNA–mRNA duplex associates with AGO
+proteins and thus to what extent this system recapitulates
+the physiological miRNA response. Interestingly, binding of miRNPs to the 3′ UTR in D. melanogaster extracts
+resulted in the formation of heavy aggregates, termed
+pseudo-polysomes, even in the absence of translation53.
+Whether they are related to P‑bodies (discussed below)
+remains unknown.
+Data on the requirement of a poly(A) tail for repression in vitro differ from some findings obtained in intact
+cells. Reporter RNA transcripts that were directly transfected to HeLa cells were repressed even in the absence
+of a poly(A) tail. In one study 44, its presence resulted
+in stronger repression, but this effect was not seen in a
+different study 43. Although it is unlikely, the possibility
+that the poly(A)-free RNA becomes polyadenylated in
+www.nature.com/reviews/genetics
+
+© 2008 Nature Publishing Group
+
+REVIEWS
+Polysome gradient analysis
+A technique that involves the
+sedimentation of cell extracts
+through a gradient of sucrose
+or glycerol, thereby allowing
+the determination of the
+number of ribosomes that
+are associated with a specific
+mRNA. Repression of
+translational initiation, which
+results in the less efficient
+loading of ribosomes onto
+mRNA, is usually associated
+with a shift of mRNA towards
+the top of the gradient.
+
+transfected cells was not excluded by these studies. With
+this caveat in mind, the data suggest that a poly(A) tail
+per se is not absolutely required for the repression, a
+conclusion supported by the observation that mRNA
+containing a 3′ histone stem-loop in place of a poly(A)
+tail also undergoes translational repression in HEK293
+cells56.
+Repression by preventing 60S subunit joining. An alt­
+ernative mechanism of miRNA action was recently
+proposed by Chendrimada et al.57 The authors reported
+that eIF6 and 60S ribosomal subunit proteins coimmunoprecipitate with the AGO2–Dicer–TRBP complex. eIF6 was first described as a protein that binds the
+60S subunit to prevent its precocious interaction with
+the 40S subunit58, and was thought to act as an initiation factor. However, it was shown later that eIF6 is not
+involved in translation in yeast, but rather has a crucial
+function (both in yeast and mammals) in the biogenesis
+of the 60S subunit in the nucleolus, and accompanies the
+60S subunit to the cytoplasm59–61. Chendrimada et al.57
+showed that partial depletion of eIF6 in either human
+cells or Caenorhabditis elegans rescues mRNA targets from miRNA inhibition, possibly by reducing
+eIF6-mediated impediment of 60S joining.
+The involvement of eIF6 in ribosome biogenesis
+complicates the interpretation of the data that support its
+role in miRNA repression, and invites another possible
+scenario. Sachs and Davis62,63 demonstrated that mutations in a ribosomal protein and a helicase involved in
+yeast 60S biogenesis could act as bypass suppressors of
+complete deletion of the gene encoding poly(A) binding protein (Pab1). As in metazoans, the yeast Pab1 is
+an essential protein, contributing to translation initiation through its function in mRNA circularization. The
+
+bypass suppressor mutations, which all resulted in a 60S
+ribosomal subunit deficit, allowed growth, albeit reduced,
+in the absence of Pab1. This rescue can be explained
+by an increase in the free 40S subunit pool (resulting
+from a partial depletion of 60S ribosomes), leading
+to an enhanced rate of their recruitment to mRNA.
+This would partially compensate for the lack of Pab1,
+which stimulates 40S recruitment, and would switch
+the rate-limiting step from the 40S subunit-loading
+step to the 60S joining step.
+A similar switch, negating the advantages of the
+circularization of bulk mRNAs, could be caused by
+the knockdown of eIF6. The resulting limited 60S deficit57 would bring some relief of the miRNA-mediated
+repression, because the target mRNAs could now compete with the bulk of mRNAs on a more equal footing.
+If this explanation is correct, the work of Chendrimada
+et al.57 would be consistent with the idea that miRNAmediated repression affects the initiation of translation
+by targeting the 5′ cap and poly(A) tail, although perhaps
+not because of a direct involvement of eIF6 in repression. Admittedly, this model does not explain why eIF6
+co-purifies with the RISC.
+Repression at post-initiation steps. Despite compelling
+in vitro and in vivo evidence, targeting of translation
+initiation is unlikely to be the only mechanism by which
+miRNAs bring about mRNA repression. Early studies in
+C. elegans showed that lin‑14 and lin‑28 mRNAs, which
+are targets of lin‑4 miRNA, remain associated with
+polysomes despite a strong reduction in their protein
+products at a specific stage of larval development64,65.
+Similar results, which are incompatible with the initiation model, were seen in mammalian cells. In two studies
+that used reporter mRNAs targeted by either synthetic
+
+Cap binding
+F470
+
+F505
+
+Human AGO2
+DUF PAZ
+1875
+Drosophila
+melanogaster
+GW182
+
+PIWI
+RNase H-like fold
+
+N-GW
+
+UBA
+
+Q-rich
+
+M-GW
+
+RBD
+
+C-GW
+
+AGO binding
+P-body targeting
+
+Figure 2 | Domain organization of Argonaute and GW182 proteins. The schemes represent human
+Argonaute2
+Nature
+Reviews | Genetics
+(AGO2) and Drosophila melanogaster GW182, two proteins extensively characterized in mediating the microRNA
+(miRNA)-mediated repression. AGO2 is the only mammalian AGO protein that, in addition to miRNA repression, also
+functions in RNAi. Its RNAseH-like P-element induced wimpy testis (PIWI) domain is competent in endonucleolytically
+cleaving the mRNA. The region separating the PIWI Argonaute Zwille (PAZ) and PIWI domains of AGO2 contains two
+aromatic amino acids (phenylalanines F470 and F505), mutation of which was reported to prevent both the repression of
+translation in the AGO2 tethering assay and the binding of AGO2 to 7‑methylguanosine triphosphate (m7GTP)Sepharose49. D. melanogaster contains only one GW182 protein78,136 but there are three GW182 paralogues in mammals
+(known as TNRC6A–C). One related protein, AIN1, is expressed in Caenorhabditis elegans90. N‑GW, M‑GW and C‑GW are
+regions enriched in glycine (G)–tryptophan (W) dipeptides. The N‑GW domain or shorter GW‑repeats-containing
+peptides were shown to mediate interaction of GW182 proteins with the PIWI domain of AGO proteins78,94. The region
+extending from the N terminus to the glutamine‑rich domain is responsible for targeting GW182 to P‑bodies78. DUF,
+domain of unknown function; RBD, RNA binding domain; UBA, ubiquitin associated domain; Q; glutamine.
+
+nature reviews | genetics
+
+volume 9 | february 2008 | 107
+© 2008 Nature Publishing Group
+
+REVIEWS
+or endogenous miRNAs 66,67, the repressed mRNAs
+associated with active polysomes — as demonstrated by
+sensitivity of the polysomes to different conditions that
+inhibit translation. Moreover, Peterson et al.66 found that,
+like the cap-dependent upstream ORF, IRES-mediated
+translation of the downstream ORF in the bi-cistronic
+reporter is sensitive to miRNAs. Drawing on additional
+data, the authors proposed a drop-off model, in which
+miRNAs render ribosomes prone to premature termination of translation. Lytle et al. also reported repression of
+IRES-containing reporters35.
+The observation that three endogenous miRNAs and
+KRAS mRNA, a known target of let‑7 miRNA, cosediment with polysomes led Maroney et al.68 to conclude
+that repression occurs at a post-initiation step. Because
+puromycin or hypertonic conditions — factors causing
+general inhibition of translation — shifted polysomeassociated miRNAs towards the top of the gradient
+during polysome gradient analyses, whereas the shift
+of KRAS mRNA was only partial, the authors proposed that miRNAs decelerate translation elongation.
+Cosedimentation of a significant fraction of cellular
+miRNAs or AGO proteins with polysomes has also
+been reported in other studies69–71 and is often quoted
+in support of the post-initiation mechanism. However,
+it should be stressed that repression of mRNA targets by
+miRNAs is generally only partial, and binding of a single
+miRNP to mRNA frequently has no significant effect
+(see REFS 43,51 for examples). Hence, cosedimentation of
+miRNPs with polysomes is not necessarily diagnostic
+of post-initiation repression, but might simply reflect
+the association of miRNPs with mRNAs undergoing
+productive translation.
+How miRNAs could modulate the elongation or
+termination process remains unclear. Apart from the
+proposed miRNA-mediated control, few other examples of regulation targeting post-initiation steps have
+been reported. Repression of pal1 mRNA by gld1 in
+C. elegans seems to involve the stalling or slowing down
+of elongating ribosomes72, as does translational repression of unspliced HAC1 mRNA in yeast73. Other examples include nanos and oskar mRNAs in D. melanogaster
+embryos74,75, although the proposed mode of their
+regulation has recently been either reinterpreted or
+questioned 46,76. Despite undeniable evidence that
+translational repression by miRNAs can occur by postinitiation mechanisms, the findings do not demonstrate
+unequivocally that the initiation and post-initiation
+mechanisms are mutually exclusive. It is possible that initiation is always inhibited, but when the elongation step
+is also repressed, ribosomes would queue on the mRNA,
+thereby masking the effect of an initiation block.
+The association of repressed mRNAs with translationally competent polysomes has also fuelled speculations that proteins are continually synthesized from these
+mRNAs but do not accumulate because they are rapidly
+degraded by proteases recruited by miRNPs64 (FIG. 3).
+This possibility has been experimentally addressed; in
+immunoprecipitation experiments, nascent polypeptides produced from the repressed reporter could not
+be detected67. Likewise, in pulse-labelling experiments,
+108 | february 2008 | volume 9
+
+neither full-length nor nascent polypeptides could be
+identified when the reporter mRNA was repressed66.
+On the other hand, repression was not prevented when
+reporter proteins were targeted to the endoplasmic
+reticulum (ER). This excludes the possibility that nascent
+proteins are degraded in the cytosol43. In conclusion,
+the proteolysis proposal is at present based on negative
+rather than positive data. Proteasome inhibitors had no
+effect on miRNA-mediated repression43,66,67 and other
+proteases have not been identified.
+
+mRNA deadenylation and decay
+Although initial studies suggested that the levels of
+miRNA-inhibited mRNAs remain mostly unchanged,
+more recent work has demonstrated that the repression of many miRNA targets is frequently associated
+with their destabilization56,77–80 (FIG. 3). Likewise, microarray studies of transcript levels in cells and tissues
+in which the miRNA pathway was inhibited78,79,81–83, or in
+which miRNA levels were experimentally altered84–87,
+revealed marked changes in the abundance of dozens of
+validated or predicted miRNA targets, consistent with a
+role for miRNAs in mRNA destabilization.
+In eukaryotes, mRNA degradation can follow two
+pathways, each of which is initiated by a gradual shortening of the mRNA poly(A) tail. The mRNA body can
+then be degraded by progressive 3′→5′ decay, which is
+catalysed by the exosome, or by the removal of the cap
+followed by 5′→3′ degradation, which is catalysed by
+the exonuclease XRN1 (ref. 88). Levels of mRNA are
+controlled by mRNPs through the recruitment of decay
+machinery components, leading to mRNA deadenylation and decapping. The degradation, or at least its final
+steps, is thought to occur in P‑bodies — cellular structures that are enriched in mRNA-catabolizing enzymes
+and translational repressors17,89 (BOX 4).
+The mechanism of miRNA-mediated mRNA destabilization is best understood in D. melanogaster. Studies
+in D. melanogaster S2 cells demonstrated that the P‑body
+protein GW182 (product of the gawky gene), which
+interacts with the miRNP Argonaute1 (the interaction
+also occurs between mammalian and worm orthologues90–93), is a key factor that marks mRNAs for decay78.
+The AGO PIWI domain and glycine–tryptophan (GW)
+dipeptide‑containing domains or peptides of GW182
+family proteins are important for this interaction78,94
+(FIG. 2). Consistent with its role in mediating mRNA
+degradation, GW182 depletion leads to an upregulation
+of many mRNA targets that are also upregulated in cells
+that are depleted of Argonaute1. Tethering of GW182
+to the mRNA bypasses the Argonaute1 requirement for
+repression, further demonstrating that GW182 functions in the same pathway downstream of Argonaute1.
+Depletion of the components of the CCR4–NOT
+deadenylating complex prevents the decay-promoting
+activity of GW182, suggesting that it plays a part in
+recruiting CCR4–NOT to repressed mRNAs. Likewise,
+the knockdown of the decapping-complex proteins,
+DCP1 and DCP2, or different combinations of decapping
+activators, prevents miRNA-mediated degradation but
+leads to an accumulation of deadenylated mRNAs78,83.
+www.nature.com/reviews/genetics
+
+© 2008 Nature Publishing Group
+
+REVIEWS
+Deadenylation
+(followed by decapping and degradation)
+
+Proteolysis
+(degradation of nascent peptide)
+X
+
+miRNPs
+ORF
+
+AAAAA
+
+P-body
+(mRNA storage
+or degradation)
+
+miRNPs
+
+CCR4–
+NOT
+
+AAAAA
+
+miRNPs
+ORF
+
+AAAAA
+miRNP binding
+
+Initiation block
+(repressed cap recognition or 60S joining)
+
+Elongation block
+(slowed elongation or ribosome ‘drop-off’)
+
+miRNPs
+
+miRNPs
+eIF4E
+
+ORF
+
+AAAAA
+
+AAAAA
+
+Figure 3 | Possible mechanisms of the microRNA-mediated post-transcriptional gene repression in animal cells.
+Nature Reviews | Genetics
+Binding of micro-ribonucleoproteins (miRNPs), possibly complexed with accessory factors, to mRNA 3′ UTR can induce
+56,78,79,83
+deadenylation and decay of target mRNAs
+(upper left). Alternatively, miRNPs can repress translation initiation
+at either the cap-recognition stage43,44,53–55 or the 60S subunit joining stage57 (bottom left). mRNAs repressed by
+deadenylation or at the translation-initiation stage are moved to P‑bodies for either degradation or storage. The
+repression can also occur at post-initiation phases of translation66–68, owing to either slowed elongation or ribosome
+‘drop-off’ (bottom right). Proteolytic cleavage of nascent polypeptides was also proposed as a mechanism of the
+miRNA-induced repression of protein production67 (upper-right). A protease (X) that might be involved in the process
+has not been identified. The 7-methylguanosine cap is represented by a red circle. eIF4E, eukaryotic initiation factor 4E.
+
+Accelerated deadenylation also results in a reduced
+abundance of miRNA-repressed mRNAs in mammalian
+cells56. Moreover, knockdown experiments in C. elegans77,
+and analysis of the decay intermediates originating from
+repressed mRNAs in worms77 and mammalian cells56,82,
+support the role of decapping and 5′→3′ exonucleolytic
+activities in these systems.
+Widespread miRNA-mediated deadenylation
+of mRNAs occurs during zebrafish embryogenesis.
+The miRNA miR‑430 facilitates the removal of hundreds
+of maternal mRNAs by inducing their deadenylation and
+subsequent decay at the onset of zygotic transcription79.
+Interestingly, some miR‑430 targets, such as nanos1 and
+tudor-like tdrd7 mRNAs, are repressed by miR‑430 in
+somatic but not germ cells, indicating that target destabilization and/or repression can be tissue or cell specific95.
+Likewise, mRNA reporters targeted by let‑7 miRNA are
+destabilized to different degrees in different mammalian
+cell lines82.
+Although many of the mRNAs that are targeted by
+miRNAs undergo substantial destabilization, there are
+also numerous examples of repression at the translational level, with no or only a minimal effect on mRNA
+decay (Supplementary information S1 (table)). Studies
+using D. melanogaster S2 cells identified some endogenous or reporter miRNA targets, for which repression
+nature reviews | genetics
+
+could be entirely accounted for by either mRNA
+degradation or translational repression, or by a combination of both processes78,83. It is not known what
+determines whether an mRNA follows the degradation or
+translational-repression pathway. Accessory proteins
+bound to the 3′ UTR might be involved, or structural subtleties of imperfect miRNA–mRNA duplexes, particularly
+of their central regions, could be important82,96.
+Whether the deadenylation and the ensuing decay
+are primary or secondary to the translational repression remains unknown. Clearly, the association of
+AGO instead of eIF4E with the m7G cap would not
+only prevent effective recruitment of ribosomes, but
+would also disrupt the circularization of the mRNA,
+probably rendering the poly(A) tail more vulnerable
+to exonucleolytic degradation. Experiments that have
+been carried out to explore whether deadenylation is
+a primary or secondary event have not proved to be
+conclusive. Reporter mRNAs that are repressed by
+either oligonucleotides that are complementary to the
+AUG codon or the 5′ UTR hairpins do not undergo
+deadenylation unless they contain miRNA sites79,80.
+However, it is unlikely that mRNA circularization is
+disrupted by the oligonucleotide or the hairpin, both
+of which act at some distance from the cap. By contrast,
+the disruption could be effected by the miRNP AGO
+volume 9 | february 2008 | 109
+
+© 2008 Nature Publishing Group
+
+REVIEWS
+interacting with the cap. Perhaps the strongest support
+for deadenylation as a primary event comes from the
+finding that the translationally inactive ApppN-capped
+mRNA (which does not interact with eIF4E and hence is
+unable to circularize) is deadenylated when injected into
+zebrafish embryos only when it contains miR‑430 sites
+in its 3′ UTR95. This, and other experiments56,79,83, indicate that miRNA-dependent mRNA deadenylation and
+decay is not dependent on active translation, although
+examples of mRNA targets, decay of which requires
+ongoing translation, have also been reported83.
+
+Box 4 | P‑bodies and stress granules
+P-bodies (also known as
+GW‑bodies) are discrete
+granules that are
+localized in the
+cytoplasm of eukaryotic
+cells. They are enriched
+in proteins that are
+involved in mRNA
+catabolism
+(deadenylation,
+decapping and mRNA
+degradation) and
+translational
+repression17,89,97. The core
+P‑body components,
+conserved from budding
+yeast (which are devoid
+RCK/p54
+GW182
+of RNA-silencing
+Co-localization
+10 µm
+pathways) to mammals,
+include the decapping
+Nature(Dhh1
+Reviews
+Genetics
+enzyme complex DCP1–DCP2, the decapping activators RCK/p54
+in |yeast),
+Pat1 (or the Drosophila melanogaster orthologue CG5208, also known as HPat),
+RAP55 (Scd6 in yeast), and EDC3 (Edc3 in yeast) and the heptameric LSm1–7
+complex. Metazoa contain yet another decapping activator, Ge‑1 or Hedls. P‑bodies
+also contain other mRNA decay enzymes: the deadenylase complex CAF1–CCR4–
+NOT and the 5′→3′ exonuclease XRN1 (Refs 17,89). Some proteins involved in
+nonsense-mediated mRNA decay (NMD) and other mRNA degradation pathways are
+also enriched in P‑bodies. P‑bodies lack ribosomes and all translation initiation
+factors with the exception of eukaryotic initiation factor (eIF) 4E. However, eIF4G
+and Pab1 accumulate in P‑bodies under specific repressive conditions in yeast99.
+In metazoa, P‑bodies are enriched in proteins participating in miRNA repression —
+Argonaute (AGO) proteins and GW182 — and miRNAs themselves. Consistent with
+their localization, AGO and GW182 proteins and miRNAs interact, directly or
+indirectly, with different P‑body components43,78,90,92,93,100,104,108 (see figure). The
+decapping activators RCK/p54 and Pat1, and another P‑body-resident protein 4E‑T,
+have the ability to repress translation, with some affecting the initiation step. These
+proteins can contribute to the repressive function of miRNAs78,83,91–93,104,106,107,109.
+P-bodies are highly dynamic structures, fluctuating in size and number during the
+cell cycle and in response to changes in the translational status of the cell. They
+require a continuous supply of repressed mRNAs, and a global translation-initiation
+block leads to an increase in P‑body size in yeast and metazoa; inhibition of
+elongation by cycloheximide, which retains mRNAs on polysomes, results in their
+dispersion17,89. Likewise, depletion of some P‑body components has a strong effect on
+their integrity, at least as visualized by microscopy. The mRNAs targeted to P‑bodies
+either undergo degradation or are stored there for future use.
+Stress granules (SGs)97 are another type of mRNA-containing cytoplasmic
+aggregates, formed in response to global repression of translation initiation or to
+various stress conditions. Many proteins found in P‑bodies are absent from SGs and
+vice versa. However, they share some proteins, and P‑bodies and SGs are frequently
+located adjacent to each other, possibly exchanging their cargo material115,135.
+
+110 | february 2008 | volume 9
+
+Compartmentalization of miRNA repression
+Translationally inactive eukaryotic mRNAs generally assemble into repressive mRNPs that accumulate
+in discrete cytoplasmic foci known as P‑bodies or
+GW‑bodies17,89. Another type of aggregate that contains
+repressed mRNAs are stress granules (SGs), which accumulate in response to various stress conditions97 (BOX 4).
+Originally considered as being primarily involved in
+mRNA degradation17,89, P‑bodies are now known to
+also be temporary sites of storage for repressed mRNAs
+in yeast and mammals45,98,99. The demonstration that
+AGO proteins, miRNAs and mRNAs repressed by
+miRNAs are all enriched in P‑bodies43,45,78,92,93,100,101 implicated P‑bodies in miRNA repression and in the fate of
+repressed mRNAs. Relevant data are emerging, although
+their interpretation is sometimes difficult owing to the
+lack of a precise definition of P‑bodies (microscopicallyvisible versus submicroscopic) and limited information
+on the distribution of miRNP components and other
+factors between P‑bodies and the cytosol.
+There is a good correlation between miRNAmediated translational repression and accumulation
+of mRNAs in visible P‑bodies43,45,100,102. Moreover, there
+is an inverse relationship between P‑body localization
+and polysome association of target mRNAs in mammalian cells43,45,102. The endogenous CAT1 mRNA, a
+target of miR‑122, localizes to P‑bodies when translation is repressed but not when it is reversed by stress.
+In addition, transfection of miR‑122 into cells that
+normally do not express it is sufficient to concentrate
+CAT1 mRNA in P‑bodies45. So far, quantitative data
+on the cytosolic distribution of P‑bodies are available
+only for let‑7 miRNA and its reporter mRNA target,
+both of which are ectopically expressed in HeLa cells.
+Approximately 20% of each RNA was localized to visible
+P‑bodies43, indicating that the repression either involves
+submicroscopic P‑bodies or occurs outside them. Note
+also that the knockdown of some P‑body components
+(such as LSM1 or LSM3), which results in dispersion
+of microscopic P‑bodies, has no effect on miRNA function103,104. Hence, the microscopically visible P‑bodies
+are not essential for repression, and their formation is
+a consequence rather than the cause of silencing43,103.
+These data are consistent with the recent analysis of yeast
+cells that demonstrate that submicroscopic mRNPs, containing a set of core P‑body components, are sufficient
+for basic control of translation repression and mRNA
+decay105. ��������������������������������������������
+In contrast to knockdowns of LSM1 and LSM3,
+depletion��������������������������������������������
+of other P‑body components such as DCP1 or
+DCP2, GW182, and various decapping activators, either
+individually (for example, RCK/p54) or in combinations,
+prevents efficient inhibition of target mRNAs in cultured
+cells78,83,91–93,104,106,107.
+Notwithstanding the above findings, a functional
+miRNA pathway is clearly essential for the formation
+of large P‑body aggregates. Global inhibition of miRNA
+biogenesis or depletion of the proteins that are involved
+in miRNA repression, such as GW182 or Argonaute1,
+results in strong dispersal of visible P‑bodies in mammalian and D. melanogaster S2 cells103,108. Interestingly,
+depletion of Dicer2 or Argonaute����������������������
+�������������������������������
+2, which are involved
+www.nature.com/reviews/genetics
+
+© 2008 Nature Publishing Group
+
+REVIEWS
+
+miRNP
+ORF
+
+RBP X
+
+RBP Y
+
+miRNP
+AAAAAA
+
+CCR4–
+NOT
+
+Figure 4 | Possible interplay between RNA binding proteinsNature
+and microReviews | Genetics
+ribonucleoproteins interacting with the mRNAs 3′ UTR. A single mRNA can
+have several cis-acting motifs interacting with different RNA binding proteins (RBPs)
+and micro-ribonucleoproteins (miRNPs), which together will determine mRNA
+translatability or stability. The suppressive effect of the 3′ UTR-binding protein
+ELAV1 on the miRNA-mediated repression (not shown) has recently been
+documented45. However, it is possible that RBPs will also interact with miRNPs to
+augment their repressive function, and that miRNPs will have a positive or negative
+effect on the activity of RBPs bound at the 3′ UTR. The 7‑methylguanosine cap is
+represented by a red circle in the figure.
+
+in RNAi, also results in dispersion of large P‑bodies
+in D. melanogaster cells, arguing for a role of both
+RNA-silencing pathways in P‑body formation103.
+Most P‑body components, including AGO proteins,
+are also found throughout the cytosol17. Hence, it is probable that repression by miRNPs is initiated in the cytosol
+(or at least outside P‑bodies) and that the repressed
+mRNAs form P‑body aggregates, either small or large,
+upon run-off from the ribosomes. ����������������
+P���������������
+‑��������������
+body-resident
+proteins such as RCK/p54 (and the yeast orthologue
+Dhh1)104,109–111, 4E‑T112,113, Pat1 (and the D. melanogaster
+orthologue HPat1)103,109 and RAP55 (ref. 114) ��������
+have an
+established inhibitory activity on translation, some at
+the initiation step. These proteins, as well as GW182
+(���������������������������������������������������������
+GW182 functions as a translational repressor�������������
+in addition
+to recruiting the �������������������������
+CAF1–CCR4–NOT deadenylase78)��,
+can assist miRNPs in initiating the repression. Whereas
+RCK/p54 and GW182 can be enrolled directly through
+their interaction with AGO proteins78,94,104, recruitment
+of others might occur through RCK/p54 or GW182.
+Surprisingly, only ~1.3% of enhanced GFP (EGFP)tagged AGO2 localized to P‑bodies in HeLa cells101.
+Moreover, the P‑body-associated EGFP–AGO2
+exchanged with the cytoplasm at a much slower rate
+than DCP1–DCP2 or LSM6, the P‑body components
+involved in decapping 101,113; GW182 also exchanges
+slowly at P‑bodies115. Rationalization of these observations is difficult at present. P‑bodies could consist of
+compartments with differing component dynamics43,116.
+Alternatively, miRNPs and associated proteins, such
+as GW182, could be ‘anchored’ to some cytoplasmic
+structures and not be readily available for diffusion
+into the pre-existing photo-bleached P‑bodies. In
+support of this model, most cellular AGO proteins
+fractionate with the ER or Golgi117,118. Moreover, following permeabilization of the plasma membrane, only
+a small fraction of AGO2 is readily extractable and is
+probably cytosolic43. However, the observation that the
+EGFP–AGO2 that accumulates in SGs following stress,
+or treatment with initiation inhibitors, exchanges rapidly with the cytosolic AGO2 pool101 is at odds with the
+nature reviews | genetics
+
+anchoring model. Association of AGO proteins with
+mRNAs stored in P‑bodies, but not those undergoing
+degradation, could be another explanation for their low
+enrichment in these structures.
+Leung et al.101 found that, in addition to AGO proteins, miRNA mimics and the repressed reporter mRNA
+accumulate in SGs. Moreover, the localization of AGO
+proteins to SGs but not P‑bodies was miRNA-dependant.
+Because SGs are now known to form not only in
+response to stress but also following general inhibition of translational initiation18,119, SGs (like P‑bodies)
+might have a role in the miRNA-mediated regulation of translation18,101. Alternatively, localization of
+miRNP components to SGs might reflect dragging
+of the mRNA-associated, but not necessarily inhibitory,
+miRNPs to SGs that are formed in response to general
+translational inhibition. This scenario could also explain
+why the localization of AGO to SGs, but not to P‑bodies,
+is miRNA dependent: AGO proteins directly interact
+with other P‑body components78,94,104 but their localization to SGs might require assembly into miRNP to allow
+association with mRNA by base pairing.
+
+Reversibility of miRNA-mediated repression
+Recent findings indicate that under certain conditions,
+or in specific cells, miRNA-mediated repression can be
+effectively reversed or prevented45,95,120,121, and miRNPs
+or their components can even act as translational activators71. The ability to disengage miRNPs from the
+repressed mRNA, or render them stimulatory, makes
+miRNA regulation much more wide-ranging and
+dynamic.
+In human hepatoma cells, CAT1 mRNA is translationally repressed by the liver-specific miR‑122 and
+accumulates in P‑bodies. Following amino-acid starvation or other types of stress, CAT1 mRNA is released
+from P‑bodies and recruited to polysomes, in a process that depends on binding of ELAVL1 (also known
+as HuR), a member of the embryonic lethal abnormal
+vision (ELAV) protein family, to the CAT1 3′ UTR.
+APOBEC3G (apolipoprotein B mRNA-editing enzyme
+catalytic polypeptide-like 3G), also interferes with the
+miRNA action, possibly by altering the distribution of
+target messages between P‑bodies and polysomes102.
+Other examples of the reversible action of miRNAs
+have been reported in neuronal cells. In neurons, some
+mRNAs are transported along the dendrites as repressed
+mRNPs to become translated at dendritic spines upon
+synaptic activation122. miR‑134 is implicated in the regulation of LIMK1, a protein kinase that is important for
+the development of the spine. In response to extracellular stimuli, miR‑134-mediated repression of Limk1
+mRNA is partially relieved at dendritic spines of
+rat neurons120. In D. melanogaster, stimulation of olfactory neurons is associated with proteolysis of the armitage
+(armi) protein, which is essential for the assembly of
+miRNPs. Following armi degradation, mRNAs that are
+normally repressed by miRNAs become translated at
+the synapse121. Given that many miRNAs are specifically
+expressed in the brain123, and that three of the four mammalian ELAV proteins — ELAV2, ELAV3 and ELAV4
+volume 9 | february 2008 | 111
+
+© 2008 Nature Publishing Group
+
+REVIEWS
+(also known as HuB, HuC and HuD) — are restricted to
+neurons124, reversible miRNA regulation might have a
+general role in brain development and function.
+It is likely that RNA-binding proteins (RBPs) other
+than ELAV proteins act as modifiers of miRNA-mediated
+repression. miR‑430 repression of nanos1 and tdrd7
+mRNAs in somatic but not germline cells can be attributed to a specific 3′ UTR-binding protein that prevents
+miR‑430 function in germline cells95. Intriguingly,
+together with the FMRP-related protein FXR1, AGO2
+(possibly as a part of an miRNP) acts as an activator of
+translation when bound to the 3′ UTR of tumour necrosis factor‑α mRNA in serum-starved human cells71. This
+finding possibly reveals one of many potential combinations of the interplay between the miRNPs and RBPs that
+are interacting with mRNA 3′ UTRs. Because RBPs such
+as ELAV1 can act as translational activators by interfering with the miRNP-mediated repression of translation,
+it is also possible that miRNPs might act as translational
+activators by either displacing or modulating inhibitory
+RBPs bound at the 3′ UTR. Likewise, in other circumstances, miRNPs and RBPs might act synergistically to
+either repress or activate mRNA translation (FIG. 4).
+
+Conclusions and prospects
+Perhaps the paramount open question is whether
+miRNAs inhibit protein synthesis by a primary single
+mechanism or by different mechanisms. In other words, is
+it possible that miRNAs trigger an initial event that
+is then amplified by different mechanisms? On the
+basis of the many lines of evidence, it is widely believed
+that miRNAs suppress protein synthesis by a bevy of
+mechanisms. Although this could be the case, it is too
+early to draw this conclusion with certainty. A simple,
+alternative mechanistic model posits that the earliest
+event in protein-synthesis repression is the inhibition of
+cap-dependent translation through the binding of AGO
+to the cap structure. Secondary effects of this inhibition
+could then be manifested at other steps, such as mRNA
+degradation or proteolysis of the nascent polypeptide
+chains. It is conceivable that the different outcomes
+of the miRNA repression experiments occur partially
+because of the different experimental systems and
+methodologies. Although the use of in vitro systems
+allows identification and biochemical characterization
+of early events during repression, the reporter mRNAs
+lack a nuclear history that could involve deposition of
+RBPs that modify the mRNA properties and affect the
+response to miRNAs. The same applies to the in vitro
+transcribed mRNAs that were transfected into cultured
+1.
+2.
+3.
+4.
+
+Bushati, N. & Cohen, S. M. microRNA functions.
+Annu. Rev. Cell Dev. Biol. 23, 175–205 (2007).
+Kloosterman, W. P. & Plasterk, R. H. The diverse
+functions of microRNAs in animal development and
+disease. Dev. Cell 11, 441–450 (2006).
+Rana, T. M. Illuminating the silence: understanding the
+structure and function of small RNAs. Nature Rev.
+Mol. Cell Biol. 8, 23–36 (2007).
+Molnar, A., Schwach, F., Studholme, D. J.,
+Thuenemann, E. C. & Baulcombe, D. C. miRNAs
+control gene expression in the single-cell alga
+Chlamydomonas reinhardtii. Nature 447, 1126–1129
+(2007).
+
+5.
+6.
+7.
+
+8.
+
+cells. Indeed, differences in the outcome of miRNAmediated repression have been reported, depending
+on whether RNA or DNA was used for transfection, or
+even on the method of transfection35. Finally, it should
+be recognized that the steps that limit protein expression
+can differ among different transfected reporter genes or
+in vitro transcribed mRNAs10.
+It will be crucial to understand the regulation of
+miRNA function through modulation of the activity
+of RISC components and associated factors, possibly
+by phosphorylation and other protein modifications.
+Thus, the involvement of different signalling pathways
+in the control of miRNA function should be studied. It
+is also highly likely that the mechanisms that control
+translation initiation will have a significant impact on
+miRNA-regulated gene expression. It will also be important to determine the precise contributions of different
+cellular structures, such as P‑bodies and SGs, to miRNAmediated repression of translation. The fact that miRNA
+function can be recapitulated in cell-free extracts argues
+against a primary and essential role of P‑bodies and SGs in
+miRNA repression, inasmuch as these microscopic structures are unlikely to exist in cell-free extracts. However,
+pseudo-polysomes that are formed in extracts from
+D. melanogaster embryos53 might contain constituents
+of P‑bodies, and it will be interesting to find out if this
+is indeed the case. The availability of cell-free systems
+to study miRNA function is a significant development.
+It is hoped that these systems will generate a detailed
+and precise mechanistic picture of the miRNA-mediated
+inhibition of protein synthesis, as has been accomplished
+for transcription, translation and splicing.
+Finally, a complete and accurate understanding of the
+mechanism of miRNA function will require elucidation
+of three‑dimensional structures of animal AGO proteins,
+their complexes with the miRNA and the cap structure,
+and ultimately the structure of miRNP bound to mRNA.
+Structural information would help validate or refute the
+current models for miRNA function.
+
+Note added in proof
+Two papers have recently appeared which add new
+information about the miRNA-mediated repression.
+Vasudevan et al.137 showed that while miRNAs repress
+translation in proliferating mammalian cells, they
+induce translation upregulation of target mRNAs upon
+cell-cycle arrest. Kedde et al.138 identified dead end 1
+(Dnd1) as a protein that, by binding to the target mRNA
+3′UTR, counteracts the function of miRNAs in human
+cells and zebrafish germ cells.
+
+Zhao, T. et al. A complex system of small RNAs in the
+unicellular green alga Chlamydomonas reinhardtii.
+Genes Dev. 21, 1190–1203 (2007).
+Esquela-Kerscher, A. & Slack, F. J. Oncomirs —
+microRNAs with a role in cancer. Nature Rev. Cancer
+6, 259–269 (2006).
+Chang, T. C. & Mendell, J. T. microRNAs in
+vertebrate physiology and human disease.
+Annu. Rev. Genomics Hum. Genet. 8, 215–239
+(2007).
+Krutzfeldt, J. & Stoffel, M. microRNAs: a new
+class of regulatory genes affecting metabolism.
+Cell Metab. 4, 9–12 (2006).
+
+112 | february 2008 | volume 9
+
+Bao, N., Lye, K. W. & Barton, M. K. MicroRNA
+binding sites in Arabidopsis class III HD‑ZIP
+mRNAs are required for methylation of the
+template chromosome. Dev. Cell 7, 653–662
+(2004).
+10. Valencia-Sanchez, M. A., Liu, J., Hannon, G. J. &
+Parker, R. Control of translation and mRNA
+degradation by miRNAs and siRNAs. Genes Dev. 20,
+515–524 (2006).
+11. Pillai, R. S., Bhattacharyya, S. N. & Filipowicz, W.
+Repression of protein synthesis by miRNAs: how
+many mechanisms? Trends Cell Biol. 17, 118–126
+(2007).
+9.
+
+www.nature.com/reviews/genetics
+© 2008 Nature Publishing Group
+
+REVIEWS
+12. Standart, N. & Jackson, R. J. MicroRNAs repress
+translation of m7Gppp-capped target mRNAs in vitro
+by inhibiting initiation and promoting deadenylation.
+Genes Dev. 21, 1975–1982 (2007).
+13. Jackson, R. J. & Standart, N. How do microRNAs
+regulate gene expression? Sci. STKE 2007, re1 (2007).
+14. Nilsen, T. W. Mechanisms of microRNA-mediated gene
+regulation in animal cells. Trends Genet. 23, 243–249
+(2007).
+15. Hwang, H. W., Wentzel, E. A. & Mendell, J. T. A
+hexanucleotide element directs microRNA nuclear
+import. Science 315, 97–100 (2007).
+16. Valadi, H. et al. Exosome-mediated transfer of mRNAs
+and microRNAs is a novel mechanism of genetic
+exchange between cells. Nature Cell Biol. 9, 654–659
+(2007).
+17. Eulalio, A., Behm-Ansmant, I. & Izaurralde, E.
+P-bodies: at the crossroads of post-transcriptional
+pathways. Nature Rev. Mol. Cell Biol. 8, 9–22 (2007).
+18. Leung, A. K. & Sharp, P. A. Function and localization
+of microRNAs in mammalian cells. Cold Spring Harb.
+Symp. Quant. Biol. 71, 29–38 (2006).
+19. Sontheimer, E. J. Assembly and function of RNA
+silencing complexes. Nature Rev. Mol. Cell Biol. 6,
+127–138 (2005).
+20. Bartel, D. P. MicroRNAs: genomics, biogenesis,
+mechanism and function. Cell 116, 281–297 (2004).
+21. Du, T. & Zamore, P. D. microPrimer: the biogenesis
+and function of microRNA. Development 132,
+4645–4652 (2005).
+22. Kim, V. N. & Nam, J. W. Genomics of microRNA.
+Trends Genet. 22, 165–173 (2006).
+23. Filipowicz, W., Jaskiewicz, L., Kolb, F. A. & Pillai, R. S.
+Post-transcriptional gene silencing by siRNAs and
+miRNAs. Curr. Opin. Struct. Biol. 15, 331–341 (2005).
+24. Peters, L. & Meister, G. Argonaute proteins: mediators
+of RNA silencing. Mol. Cell 26, 611–623 (2007).
+25. Tolia, N. H. & Joshua-Tor, L. Slicer and the argonautes.
+Nature Chem. Biol. 3, 36–43 (2007).
+26. Liu, J. et al. Argonaute2 is the catalytic engine of
+mammalian RNAi. Science 305, 1437–1441 (2004).
+27. Pillai, R. S., Artus, C. G. & Filipowicz, W. Tethering of
+human Ago proteins to mRNA mimics the miRNAmediated repression of protein synthesis. RNA 10,
+1518–1525 (2004).
+28. Meister, G. et al. Human Argonaute2 mediates RNA
+cleavage targeted by miRNAs and siRNAs. Mol. Cell
+15, 185–197 (2004).
+29. Jones-Rhoades, M. W., Bartel, D. P. & Bartel, B.
+MicroRNAS and their regulatory roles in plants.
+Annu. Rev. Plant Biol. 57, 19–53 (2006).
+30. Doench, J. G. & Sharp, P. A. Specificity of microRNA
+target selection in translational repression. Genes Dev.
+18, 504–511 (2004).
+31. Brennecke, J., Stark, A., Russell, R. B. & Cohen, S. M.
+Principles of microRNA-target recognition. PLoS Biol.
+3, 404–418 (2005).
+32. Lewis, B. P., Burge, C. B. & Bartel, D. P. Conserved
+seed pairing, often flanked by adenosines, indicates
+that thousands of human genes are microRNA targets.
+Cell 120, 15–20 (2005).
+33. Grimson, A. et al. MicroRNA targeting specificity
+in mammals: determinants beyond seed pairing.
+Mol. Cell 27, 91–105 (2007).
+34. Nielsen, C. B. et al. Determinants of targeting by
+endogenous and exogenous microRNAs and siRNAs.
+RNA 13, 1894–1910 (2007).
+35. Lytle, J. R., Yario, T. A. & Steitz, J. A. Target mRNAs
+are repressed as efficiently by microRNA-binding sites
+in the 5′ UTR as in the 3′ UTR. Proc. Natl Acad. Sci.
+USA 104, 9667–6972 (2007).
+36. Kloosterman, W. P., Wienholds, E., Ketting, R. F. &
+Plasterk, R. H. Substrate requirements for let‑7
+function in the developing zebrafish embryo. Nucleic
+Acids Res. 32, 6284–6291 (2004).
+37. Easow, G., Teleman, A. A. & Cohen, S. M. Isolation
+of microRNA targets by miRNP immunopurification.
+RNA 13, 1198–1204 (2007).
+38. Merrick, W. C. Cap-dependent and cap-independent
+translation in eukaryotic systems. Gene 332, 1–11
+(2004).
+39. Kapp, L. D. & Lorsch, J. R. The molecular mechanics
+of eukaryotic translation. Annu. Rev. Biochem. 73,
+657–704 (2004).
+40. Wells, S. E., Hillner, P. E., Vale, R. D. & Sachs, A. B.
+Circularization of mRNA by eukaryotic translation
+initiation factors. Mol. Cell 2, 135–140 (1998).
+41. Derry, M. C., Yanagiya, A., Martineau, Y. &
+Sonenberg, N. Regulation of poly(A)-binding protein
+through PABP-interacting proteins. Cold Spring Harb.
+Symp. Quant. Biol. 71, 537–543 (2006).
+
+42. Jackson, R. J. Alternative mechanisms of initiating
+translation of mammalian mRNAs. Biochem. Soc.
+Trans. 33, 1231–1241 (2005).
+43. Pillai, R. S. et al. Inhibition of translational initiation
+by let‑7 microRNA in human cells. Science 309,
+1573–1576 (2005).
+44. Humphreys, D. T., Westman, B. J., Martin, D. I. &
+Preiss, T. MicroRNAs control translation initiation
+by inhibiting eukaryotic initiation factor 4E/cap and
+poly(A) tail function. Proc. Natl Acad. Sci. USA 102,
+16961–16966 (2005).
+This paper and reference 43 provide the first
+evidence that miRNAs repress translational
+initiation, probably by interfering with the function
+of the cap-binding factor eIF4E.
+45. Bhattacharyya, S. N., Habermacher, R., Martine, U.,
+Closs, E. I. & Filipowicz, W. Relief of microRNAmediated translational repression in human cells
+subjected to stress. Cell 125, 1111–1124 (2006).
+46. Chekulaeva, M., Hentze, M. W. & Ephrussi, A.
+Bruno acts as a dual repressor of oskar translation,
+promoting mRNA oligomerization and formation of
+silencing particles. Cell 124, 521–533 (2006).
+47. Richter, J. D. & Sonenberg, N. Regulation of capdependent translation by eIF4E inhibitory proteins.
+Nature 433, 477–480 (2005).
+48. Cho, P. F. et al. A new paradigm for translational
+control: inhibition via 5′–3′ mRNA tethering by Bicoid
+and the eIF4E cognate 4EHP. Cell 121, 411–423
+(2005).
+49. Kiriakidou, M. et al. An mRNA m7G cap binding-like
+motif within human Ago2 represses translation.
+Cell 129, 1141–1151 (2007).
+This paper reports that human AGO2 has the
+potential to directly interact with the m7G cap and
+to repress translational initiation by competing
+with eIF4E for cap binding.
+50. Marcotrigiano, J., Gingras, A. C., Sonenberg, N. &
+Burley, S. K. Cocrystal structure of the messenger RNA
+5′ cap-binding protein (eIF4E) bound to 7‑methyl‑GDP.
+Cell 89, 951–961 (1997).
+51. Doench, J. G., Petersen, C. P. & Sharp, P. A. siRNAs
+can function as miRNAs. Genes Dev. 17, 438–442
+(2003).
+52. Wang, B., Love, T. M., Call, M. E., Doench, J. G. &
+Novina, C. D. Recapitulation of short RNA-directed
+translational gene silencing in vitro. Mol. Cell 22,
+553–560 (2006).
+53. Thermann, R. & Hentze, M. W. Drosophila miR2
+induces pseudo-polysomes and inhibits translation
+initiation. Nature 447, 875–878 (2007).
+54. Mathonnet, G. et al. microRNA inhibition of translation
+initiation in vitro by targeting the cap-binding complex
+eIF4F. Science 317, 1764–1767 (2007).
+55. Wakiyama, M., Takimoto, K., Ohara, O. & Yokoyama, S.
+Let‑7 microRNA-mediated mRNA deadenylation and
+translational repression in a mammalian cell-free
+system. Genes Dev. 21, 1857–1862 (2007).
+References 52–55 describe the characterization of
+cell-free extracts, recapitulating many features
+of the miRNA-mediated repression established in
+mammalian and D. melanogaster cell lines.
+56. Wu, L., Fan, J. & Belasco, J. G. microRNAs direct rapid
+deadenylation of mRNA. Proc. Natl Acad. Sci. USA
+103, 4034–4039 (2006).
+57. Chendrimada, T. P. et al. microRNA silencing through
+RISC recruitment of eIF6. Nature 447, 823–828
+(2007).
+This report identifies eIF6 as a potential target of
+miRNA-meditated repression. The authors propose
+that, by interacting with eIF6, AGO proteins
+repress translation by preventing the 60S
+ribosomal subunit joining to the 40S initiation
+complex.
+58. Russell, D. W. & Spremulli, L. L. Identification of
+a wheat germ ribosome dissociation factor distinct
+from initiation factor eIF‑3. J. Biol. Chem. 253,
+6647–6649 (1978).
+59. Sanvito, F. et al. The β4 integrin interactor p27(BBP/
+eIF6) is an essential nuclear matrix protein involved in
+60S ribosomal subunit assembly. J. Cell Biol. 144,
+823–837 (1999).
+60. Si, K. & Maitra, U. The Saccharomyces cerevisiae
+homologue of mammalian translation initiation factor
+6 does not function as a translation initiation factor.
+Mol. Cell Biol. 19, 1416–1426 (1999).
+61. Basu, U., Si, K., Warner, J. R. & Maitra, U. The
+Saccharomyces cerevisiae TIF6 gene encoding
+translation initiation factor 6 is required for 60S
+ribosomal subunit biogenesis. Mol. Cell Biol. 21,
+1453–1462 (2001).
+
+nature reviews | genetics
+
+62. Sachs, A. B. & Davis, R. W. Translation initiation and
+ribosomal biogenesis: involvement of a putative rRNA
+helicase and RPL46. Science 247, 1077–1079
+(1990).
+63. Sachs, A. B. & Davis, R. W. The poly(A) binding protein
+is required for poly(A) shortening and 60S ribosomal
+subunit-dependent translation initiation. Cell 58,
+857–867 (1989).
+64. Olsen, P. H. & Ambros, V. The lin‑4 regulatory RNA
+controls developmental timing in Caenorhabditis
+elegans by blocking LIN‑14 protein synthesis after the
+initiation of translation. Dev. Biol. 216, 671–680
+(1999).
+65. Seggerson, K., Tang, L. & Moss, E. G. Two genetic
+circuits repress the Caenorhabditis elegans
+heterochronic gene lin‑28 after translation initiation.
+Dev. Biol. 243, 215–225 (2002).
+66. Petersen, C. P., Bordeleau, M. E., Pelletier, J. &
+Sharp, P. A. Short RNAs repress translation after
+initiation in mammalian cells. Mol. Cell 21, 533–542
+(2006).
+67. Nottrott, S., Simard, M. J. & Richter, J. D. Human
+let-7a miRNA blocks protein production on actively
+translating polyribosomes. Nature Struct. Mol. Biol.
+13, 1108–1114 (2006).
+68. Maroney, P. A., Yu, Y., Fisher, J. & Nilsen, T. W.
+Evidence that microRNAs are associated with
+translating messenger RNAs in human cells.
+Nature Struct. Mol. Biol. 13, 1102–1107 (2006).
+References 66 to 68 demonstrate that repressed
+mRNAs are associated with actively translating
+polyribosomes and argue that miRNAs block
+protein synthesis at steps after initiation. The data
+supporting this mechanism are also reported in
+references 64 and 65.
+69. Kim, J. et al. Identification of many microRNAs that
+copurify with polyribosomes in mammalian neurons.
+Proc. Natl Acad. Sci. USA 101, 360–365 (2004).
+70. Nelson, P. T., Hatzigeorgiou, A. G. & Mourelatos, Z.
+miRNP: mRNA association in polyribosomes in a
+human neuronal cell line. RNA 10, 387–394 (2004).
+71. Vasudevan, S. & Steitz, J. A. AU‑rich‑elementmediated upregulation of translation by FXR1 and
+Argonaute 2. Cell 128, 1105–1118 (2007).
+This paper demonstrates that interaction of AGO2
+(in a complex with FXR1) with the mRNA 3′ UTR
+can, under specific cellular conditions, lead to
+upregulation rather than downregulation of
+translation.
+72. Mootz, D., Ho, D. M. & Hunter, C. P. The STAR–MaxiKH domain protein GLD‑1 mediates a developmental
+switch in the translational control of C. elegans PAL‑1.
+Development 131, 3263–3272 (2004).
+73. Ruegsegger, U., Leber, J. H. & Walter, P. Block of
+HAC1 mRNA translation by long-range base pairing
+is released by cytoplasmic splicing upon induction of
+the unfolded protein response. Cell 107, 103–114
+(2001).
+74. Clark, I. E., Wyckoff, D. & Gavis, E. R. Synthesis of
+the posterior determinant nanos is spatially restricted
+by a novel cotranslational regulatory mechanism.
+Curr. Biol. 10, 1311–1314 (2000).
+75. Braat, A. K., Yan, N., Arn, E., Harrison, D. &
+Macdonald, P. M. Localization-dependent oskar
+protein accumulation; control after the initiation of
+translation. Dev. Cell 7, 125–131 (2004).
+76. Tomancak, P. et al. Global analysis of patterns of gene
+expression during Drosophila embryogenesis. Genome
+Biol. 8, R145 (2007).
+77. Bagga, S. et al. Regulation by let‑7 and lin‑4 miRNAs
+results in target mRNA degradation. Cell 122,
+553–563 (2005).
+78. Behm-Ansmant, I. et al. mRNA degradation by
+miRNAs and GW182 requires both CCR4:NOT
+deadenylase and DCP1:DCP2 decapping complexes.
+Genes Dev. 20, 1885–1898 (2006).
+79. Giraldez, A. J. et al. Zebrafish MiR‑430 promotes
+deadenylation and clearance of maternal mRNAs.
+Science 312, 75–79 (2006).
+This paper and references 56, 77 and 78 provide
+compelling evidence that miRNA can induce
+pronounced target mRNA degradation, which is
+initiated by removal of the poly(A) tail.
+80. Wu, L. & Belasco, J. G. Micro-RNA regulation
+of the mammalian lin‑28 gene during neuronal
+differentiation of embryonal carcinoma cells.
+Mol. Cell Biol. 25, 9198–9208 (2005).
+81. Rehwinkel, J. et al. Genome-wide analysis of mRNAs
+regulated by drosha and Argonaute proteins in
+Drosophila melanogaster. Mol. Cell Biol. 26,
+2965–2975 (2006).
+
+volume 9 | february 2008 | 113
+© 2008 Nature Publishing Group
+
+REVIEWS
+82. Schmitter, D. et al. Effects of Dicer and Argonaute
+down-regulation on mRNA levels in human HEK293
+cells. Nucleic Acids Res. 34, 4801–4815 (2006).
+83. Eulalio, A. et al. Target-specific requirements for
+enhancers of decapping in miRNA-mediated gene
+silencing. Genes Dev. 21, 2558–2570 (2007).
+84. Lim, L. P. et al. Microarray analysis shows that some
+microRNAs downregulate large numbers of target
+mRNAs. Nature 433, 769–773 (2005).
+85. Krutzfeldt, J. et al. Silencing of microRNAs in vivo
+with ‘antagomirs’. Nature 438, 685–689 (2005).
+86. Esau, C. et al. miR‑122 regulation of lipid metabolism
+revealed by in vivo antisense targeting. Cell. Metab. 3,
+87–98 (2006).
+87. Linsley, P. S. et al. Transcripts targeted by the
+microRNA‑16 family cooperatively regulate cell cycle
+progression. Mol. Cell Biol. 27, 2240–2252 (2007).
+88. Parker, R. & Song, H. The enzymes and control of
+eukaryotic mRNA turnover. Nature Struct. Mol. Biol.
+11, 121–127 (2004).
+89. Parker, R. & Sheth, U. P bodies and the control of
+mRNA translation and degradation. Mol. Cell 25,
+635–646 (2007).
+90. Ding, L., Spencer, A., Morita, K. & Han, M. The
+developmental timing regulator AIN‑1 interacts with
+miRISCs and may target the argonaute protein ALG‑1
+to cytoplasmic P bodies in C. elegans. Mol. Cell 19,
+437–447 (2005).
+91. Liu, J. et al. A role for the P‑body component
+GW182 in microRNA function. Nature Cell Biol. 7,
+1261–1266 (2005).
+92. Jakymiw, A. et al. Disruption of GW bodies impairs
+mammalian RNA interference. Nature Cell Biol. 7,
+1267–1274 (2005).
+93. Meister, G. et al. Identification of novel argonauteassociated proteins. Curr. Biol. 15, 2149–2155 (2005).
+94. Till, S. et al. A conserved motif in Argonauteinteracting proteins mediates functional interactions
+through the Argonaute PIWI domain. Nature Struct.
+Mol. Biol. 14, 897–903 (2007).
+95. Mishima, Y. et al. Differential regulation of germline
+mRNAs in soma and germ cells by zebrafish miR‑430.
+Curr. Biol. 16, 2135–2142 (2006).
+96. Aleman, L. M., Doench, J. & Sharp, P. A. Comparison
+of siRNA-induced off-target RNA and protein effects.
+RNA 13, 385–395 (2007).
+97. Anderson, P. & Kedersha, N. RNA granules.
+J. Cell Biol. 172, 803–808 (2006).
+98. Brengues, M., Teixeira, D. & Parker, R. Movement of
+eukaryotic mRNAs between polysomes and cytoplasmic
+processing bodies. Science 310, 486–489 (2005).
+99. Brengues, M. & Parker, R. Accumulation of
+polyadenylated mRNA, Pab1p, eIF4E, and eIF4G with
+P‑bodies in Saccharomyces cerevisiae. Mol. Biol. Cell
+18, 2592–2602 (2007).
+100. Liu, J., Valencia-Sanchez, M. A., Hannon, G. J. &
+Parker, R. MicroRNA-dependent localization
+of targeted mRNAs to mammalian P‑bodies.
+Nature Cell Biol. 7, 719–723 (2005).
+This paper and references 43, 45, 78, 91 and 92
+establish the connection between miRNA-mediated
+repression and P‑bodies by demonstrating that
+miRNP components and repressed mRNAs
+accumulate in P‑bodies and that many P‑body
+proteins are essential for the repression.
+101. Leung, A. K., Calabrese, J. M. & Sharp, P. A.
+Quantitative analysis of Argonaute protein reveals
+microRNA-dependent localization to stress granules.
+Proc. Natl Acad. Sci. USA 103, 18125–18130 (2006).
+102. Huang, J. et al. Derepression of micro‑RNA‑mediated
+protein translation inhibition by apolipoprotein B
+mRNA-editing enzyme catalytic polypeptide-like 3G
+(APOBEC3G) and its family members. J. Biol. Chem.
+282, 33632–33640 (2007).
+103. Eulalio, A., Behm-Ansmant, I., Schweizer, D. &
+Izaurralde, E. P‑body formation is a consequence,
+not the cause, of RNA-mediated gene silencing.
+Mol. Cell Biol. 27, 3970–3981 (2007).
+104. Chu, C. Y. & Rana, T. M. Translation repression in
+human cells by microRNA-induced gene silencing
+requires RCK/p54. PLoS Biol. 4, 1122–1136(2006).
+This paper and reference 83 identify the decapping
+activators that are associated with P‑bodies as
+proteins that are essential for miRNA-mediated
+repression.
+
+105. Decker, C. J., Teixeira, D. & Parker, R. Edc3p and
+a glutamine/asparagine-rich domain of Lsm4p
+function in processing body assembly in
+Saccharomyces cerevisiae. J. Cell Biol. 179,
+437–449 (2007).
+106. Rehwinkel, J., Behm-Ansmant, I., Gatfield, D. &
+Izaurralde, E. A crucial role for GW182 and the
+DCP1:DCP2 decapping complex in miRNAmediated gene silencing. RNA 11, 1640–1647
+(2005).
+107. Barbee, S. A. et al. Staufen- and FMRP-containing
+neuronal RNPs are structurally and functionally
+related to somatic P bodies. Neuron 52,
+997–1009 (2006).
+108. Pauley, K. M. et al. Formation of GW bodies is a
+consequence of microRNA genesis. EMBO Rep. 7,
+904–910 (2006).
+109. Coller, J. & Parker, R. General translational
+repression by activators of mRNA decapping.
+Cell 122, 875–886 (2005).
+110. Minshall, N. & Standart, N. The active form of
+Xp54 RNA helicase in translational repression is
+an RNA-mediated oligomer. Nucleic Acids Res. 32,
+1325–1334 (2004).
+111. Smillie, D. A. & Sommerville, J. RNA helicase p54
+(DDX6) is a shuttling protein involved in nuclear
+assembly of stored mRNP particles. J. Cell Sci. 115,
+395–407 (2002).
+112. Ferraiuolo, M. A. et al. A role for the eIF4E-binding
+protein 4E‑T in P‑body formation and mRNA decay.
+J. Cell Biol. 170, 913–924 (2005).
+113. Andrei, M. A. et al. A role for eIF4E and eIF4Etransporter in targeting mRNPs to mammalian
+processing bodies. RNA 11, 717–727 (2005).
+114. Tanaka, K. J. et al. RAP55, a cytoplasmic
+mRNP component, represses translation in
+Xenopus oocytes. J. Biol. Chem. 281,
+40096–40106 (2006).
+115. Kedersha, N. et al. Stress granules and processing
+bodies are dynamically linked sites of mRNP
+remodeling. J. Cell Biol. 169, 871–884 (2005).
+116. Durand, S. et al. Inhibition of nonsense-mediated
+mRNA decay (NMD) by a new chemical molecule
+reveals the dynamic of NMD factors in P‑bodies.
+J. Cell Biol. 178, 1145–1160 (2007).
+117. Tahbaz, N., Carmichael, J. B. & Hobman, T. C.
+GERp95 belongs to a family of signal-transducing
+proteins and requires Hsp90 activity for stability
+and Golgi localization. J. Biol. Chem. 276,
+43294–43299 (2001).
+118. Tahbaz, N. et al. Characterization of the interactions
+between mammalian PAZ PIWI domain proteins and
+Dicer. EMBO Rep. 5, 189–194 (2004).
+119. Mazroui, R. et al. Inhibition of ribosome recruitment
+induces stress granule formation independently of
+eukaryotic initiation factor 2α phosphorylation.
+Mol. Biol. Cell 17, 4212–4219 (2006).
+120. Schratt, G. M. et al. A brain-specific microRNA
+regulates dendritic spine development. Nature 439,
+283–289 (2006).
+This paper and reference 45 provide the first
+evidence that, under specific cellular conditions,
+mRNAs can be relieved from the miRNA-mediated
+repression and relocate from P‑bodies to enter
+active translation.
+121. Ashraf, S. I., McLoon, A. L., Sclarsic, S. M. & Kunes, S.
+Synaptic protein synthesis associated with memory
+is regulated by the RISC pathway in Drosophila.
+Cell 124, 191–205 (2006).
+122. Sutton, M. A. & Schuman, E. M. Dendritic protein
+synthesis, synaptic plasticity, and memory. Cell 127,
+49–58 (2006).
+123. Kosik, K. S. The neuronal microRNA system.
+Nature Rev. Neurosci. 7, 911–920 (2006).
+124. Lu, J. Y. & Schneider, R. J. Tissue distribution
+of AU‑rich mRNA-binding proteins involved in
+regulation of mRNA decay. J. Biol. Chem. 279,
+12974–12979 (2004).
+125. Ruby, J. G., Jan, C. H. & Bartel, D. P. Intronic
+microRNA precursors that bypass drosha processing.
+Nature 448, 83–86 (2007).
+126. Okamura, K., Hagen, J. W., Duan, H., Tyler, D. M. &
+Lai, E. C. The mirtron pathway generates
+microRNA-class regulatory RNAs in Drosophila.
+Cell 130, 89–100 (2007).
+
+114 | february 2008 | volume 9
+
+127. Berezikov, E., Chung, W. J., Willis, J., Cuppen, E. &
+Lai, E. C. Mammalian mirtron genes. Mol. Cell 28,
+328–336 (2007).
+128. Jin, P., Alisch, R. S. & Warren, S. T. RNA and
+microRNAs in fragile X mental retardation.
+Nature Cell Biol. 6, 1048–1053 (2004).
+129. Gaidatzis, D., van Nimwegen, E., Hausser, J. &
+Zavolan, M. Inference of miRNA targets using
+evolutionary conservation and pathway analysis.
+BMC Bioinformatics 8, 69 (2007).
+130. Kertesz, M., Iovino, N., Unnerstall, U., Gaul, U.
+& Segal, E. The role of site accessibility in
+microRNA target recognition. Nature Genet. 39,
+1278–1284 (2007).
+131. Vella, M. C., Choi, E. Y., Lin, S. Y., Reinert, K. &
+Slack, F. J. The C. elegans microRNA let‑7 binds
+to imperfect let‑7 complementary sites from
+the lin‑41 3′ UTR. Genes Dev. 18, 132–137
+(2004).
+132. Reinhart, B. J. et al. The 21-nucleotide let‑7
+RNA regulates developmental timing in
+Caenorhabditis elegans. Nature 403, 901–906
+(2000).
+133. Raught, B. & Gingras, A.‑C. in Translational Control
+in Biology and Medicine (eds Mathews, M. B.,
+Sonenberg, N. & Hershey, J. B.) 369–400 (Cold
+Spring Harbor Laboratory Press, Cold Spring
+Harbor, 2007).
+134. Herbert, T. P. & Proud, C. G. in Translational
+Control in Biology and Medicine (eds Mathews,
+M. B., Sonenberg, N. & Hershey, J. B.) 601–624
+(Cold Spring Harbor Laboratory Press, Cold Spring
+Harbor, 2007).
+135. Wilczynska, A., Aigueperse, C., Kress, M.,
+Dautry, F. & Weil, D. The translational regulator
+CPEB1 provides a link between dcp1 bodies
+and stress granules. J. Cell Sci. 118, 981–992
+(2005).
+136. Schneider, M. D. et al. gawky is a component of
+cytoplasmic mRNA processing bodies required for
+early Drosophila development. J. Cell Biol. 174,
+349–358 (2006).
+137. Vasudevan S, Tong Y, Steitz J. A. Switching from
+repression to activation: microRNAs can up-regulate
+translation. Science 318, 1931–1934 (2007).
+138. Kedde, M. et al. RNA-binding protein Dnd1
+inhibits microRNA access to target mRNA. Cell
+131, 1273–1286 (2007).
+
+Acknowledgements
+
+We thank R. Jackson for drawing our attention to the
+bypass suppressors of the yeast Pab1 deletion. We thank
+H. Grosshans, N. Standart, R. Jackson and members of the
+Filipowicz and Sonenberg groups for their comments. S.N.B
+is a recipient of Human Frontier Science Program
+Organization (HFSPO) long-term fellowship. The Friedrich
+Miescher Institute is supported by the Novartis Research
+Foundation. N.S. was supported by grants from the HFSPO
+and the Canadian Institute of Health Research and is a
+Howard Hughes Medical Institute International Scholar.
+Research by W.F. is also supported by the EC FP6 Program
+‘Sirocco’.
+
+DATABASES
+Entrez Gene: http://www.ncbi.nlm.nih.gov/entrez/query.
+fcgi?db=gene
+HAC1 | KRAS | let‑7 | lin‑4 | lin‑14 | lin‑28 | miR‑430 | pal1 |
+tdrd7
+FlyBase: http://flybase.bio.indiana.edu
+Argonaute1 | Argonaute2 | armitage | gawky | nanos | oskar |
+loquacious | pasha
+UniProtKB: http://ca.expasy.org/sprot
+AGO1 | AGO2 | AGO4 | APOBEC3G | CAT1 | DCP1 | DCP2 |
+DGCR8 | Dicer | ELAVL1 | ELAV2 | ELAV3 | ELAV4 | exportin5 |
+FXR1 | gld1 | GW182 | LIMK1 | LSM1 | LSM3 | PABP1 | RN3 |
+TRBP | XRN1
+
+FURTHER INFORMATION
+Witold Filipowicz’s homepage: http://www.fmi.ch/
+
+SUPPLEMENTARY INFORMATION
+See online article: S1 (table)
+All links are active in the online pdf
+
+www.nature.com/reviews/genetics
+© 2008 Nature Publishing Group
+
+

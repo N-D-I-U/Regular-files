@@ -1,0 +1,1678 @@
+Cogn Neurodyn (2013) 7:417–429
+DOI 10.1007/s11571-012-9236-7
+
+RESEARCH ARTICLE
+
+Functional characteristics of a double negative feedback
+loop mediated by microRNAs
+Shuiming Cai • Peipei Zhou • Zengrong Liu
+
+Received: 18 September 2012 / Revised: 13 November 2012 / Accepted: 20 December 2012 / Published online: 5 January 2013
+Ó Springer Science+Business Media Dordrecht 2013
+
+Abstract MicroRNAs (miRNAs) are a class of small,
+noncoding RNAs that play crucial roles in almost all cellular processes. As key post-transcriptional regulators of
+gene expression, miRNAs mainly induce mRNA degradation or translational repression. Recently computational
+and experimental studies have identified an abundance of
+motifs involving miRNAs and transcriptional factors (TFs).
+Here, we study the functional characteristics of one such
+motif, a two-node miRNA-mediated double negative
+feedback loop (MDNFL) in which a TF suppresses an
+miRNA and the TF itself is negatively regulated by the
+miRNA. Several examples of this motif are described from
+the literature. We propose a general computational model
+for the MDNFL based on biochemical regulations and
+explore its dynamics by using bifurcation analysis. Our
+results show that the MDNFL can behave as a bistable
+switch. This functional feature is in agreement with
+experimental observations of the widespread appearance of
+miRNAs in fate decisions such as differentiation during
+development. Importantly, it is found that under the interplay of a TF and an miRNA, the MDNFL model can
+behave as switches for wide ranges of parameters even
+without cooperative binding of the TF. In addition, we also
+investigate how extrinsic noise affects dynamic behavior of
+the MDNFL. Interestingly, it is found that when the
+MDNFL is in the bistable region, by choosing the appropriate extrinsic noise source, the MDNFL system can
+S. Cai (&)
+Faculty of Science, Jiangsu University, Zhenjiang 212013, China
+e-mail: caishuiming2008@126.com
+S. Cai  P. Zhou  Z. Liu (&)
+Institute of Systems Biology, Shanghai University,
+Shanghai 200444, China
+e-mail: zrongliu@126.com
+
+switch from one steady state to the other and meanwhile
+the production of either miRNA or protein is amplified
+significantly. From an engineering perspective, this noisebased switch and amplifier for gene expression is very easy
+to control. It is hoped that the results presented here would
+provide a new insight on how gene expression is regulated
+by miRNAs and further guidance for experiments.
+Keywords MicroRNAs  Post-transcriptional regulation 
+MDNFL  Bistable switch  Extrinsic noise
+
+Introduction
+Living cells can continuously react to their environment
+with specific biochemical responses. At the core of this
+functionality are the interaction networks of biochemical
+molecules, such as genes, proteins, metabolites, and small
+molecules. Over the past decade, the structures of a great
+deal of such networks, including protein–protein interaction, metabolic, signaling, and transcription regulatory
+networks, have been mapped out. For the transcriptional
+regulation networks and protein–protein interaction networks of different organisms, large-scale statistical analysis has uncovered that these networks are far from random
+and contain significantly recurring nontrivial patterns of
+interconnections termed network motifs, such as negative
+autoregulation, feed-forward loops, and feedback loops
+(Shen-Orr et al. 2002; Lee 2002; Wuchty et al. 2003). In
+addition, several motifs of mixed interaction, including two
+types of interactions: those between transcription factors
+and their target genes and those between proteins, have
+also recently been found in integrated cellular networks of
+transcription regulation and protein–protein interactions
+(Yeger-Lotem and Margalit 2003; Yeger-Lotem et al. 2004).
+
+123
+
+418
+
+Understanding the functionality of these network motifs
+can help elucidate the design principle and provide insight
+into the behavior of regulatory networks. Previous work in
+transcriptional regulatory networks of several species has
+discovered that each motif has a specified structure and
+capacity to perform specific information-processing functions (Alon 2007).
+Gene expression is under tight regulation at many levels
+(Shimoni et al. 2007). In the past, it was widely recognized
+that the regulation of gene expression is a task of regulatory
+proteins in all organisms. Thus, most research focused
+mainly on transcriptional and post-translational regulations.
+However, recent studies have implicated that microRNAs
+(miRNAs), a family of about 22-nucleotide small noncoding
+RNAs that regulate stability or translation of mRNA transcripts at the post-transcriptional level, may play crucial
+roles in modulating almost all cellular processes ranging
+from development and metabolism to apoptosis, signaling
+pathways, and diseases such as cancer (Ambros 2004;
+Bushati and Cohen 2007; Stefani and Slack 2008). As posttranscriptional gene suppressors, miRNAs regulate gene
+expression by base pairing to target mRNA molecules at
+conserved sites in the 30 untranslated regions of the mRNAs,
+ultimately leading to a reduction in the levels of protein
+encoded by the target mRNAs (Filipowicz et al. 2008).
+Extensive evidence suggests that this suppression can
+occur by either translational repression or mRNA cleavage
+(Filipowicz et al. 2008; Bartel 2004; Valencia-Sanchez
+et al. 2006; Guo et al. 2010). In the former, miRNAs act as
+catalytic factors, preventing the initiation of translation,
+suppressing the production of proteins. In the latter, miRNAs act in a non-catalytic fashion, leading to the degradation of the target mRNA and the miRNA itself (Wang and
+Raghavachari 2011). Through either mechanism, miRNAs
+can keep gene products at extremely low copy numbers.
+The regulatory roles of miRNAs have been a subject of
+research for the last several years, both experimentally and
+theoretically (Shimoni et al. 2007; Wang and Raghavachari
+2011; Levine et al. 2007; Levine and Hwa 2008; Mehta
+et al. 2008; Osella et al. 2011; Mitarai et al. 2009; Bumgarner et al. 2009; Iliopoulos et al. 2009). Although some
+of the miRNAs have been well studied, the mechanisms of
+various functions and biological significance of miRNAs
+are still not well understood (Bumgarner et al. 2009; Iliopoulos et al. 2009; Tsang et al. 2007; Shalgi et al. 2007; Re
+et al. 2009; Martinez et al. 2008; Martinez and Walhout
+2009; Yu et al. 2008; Inui et al. 2010; Ivey and Srivastava
+2010; Johnston et al. 2005; Kim 2007; Fazi 2005; Juan et al.
+2009; Bracken 2008; Li and Carthew 2005; Visvanathan
+et al. 2007; Xu et al. 2009; Zhao et al. 2009; Pospisil 2011).
+Recently several studies have shown that the transcriptional regulation by transcription factors (TFs) and posttranscriptional regulation by miRNAs are often highly
+
+123
+
+Cogn Neurodyn (2013) 7:417–429
+
+coordinated (Shimoni et al. 2007; Tsang et al. 2007; Shalgi
+et al. 2007; Re et al. 2009; Martinez et al. 2008; Martinez
+and Walhout 2009; Yu et al. 2008; Inui et al. 2010; Ivey and
+Srivastava 2010). Of particular relevance is the accumulating evidence that the interplay of miRNAs and transcriptional regulators such as activators and repressors regulates
+key developmental events and cell fate decisions (Johnston
+et al. 2005; Kim 2007; Fazi 2005; Juan et al. 2009; Bracken
+2008; Li and Carthew 2005; Visvanathan et al. 2007; Xu
+et al. 2009; Zhao et al. 2009; Pospisil 2011). These observations imply that the existence of considerable crosstalk
+between the transcriptional and post-transcriptional layers.
+Therefore, miRNA functions can be fully understood only by
+addressing TF and miRNA regulatory interactions together
+in ‘‘mixed’’ networks. Interestingly, recently computational
+and experimental studies have identified several recurrent
+network motifs contained in these mixed networks (Shimoni
+et al. 2007; Tsang et al. 2007; Shalgi et al. 2007; Re et al.
+2009; Martinez et al. 2008; Martinez and Walhout 2009; Yu
+et al. 2008; Inui et al. 2010; Ivey and Srivastava 2010), such
+as miRNA-mediated single-input modules in which an
+miRNA regulates a group of target genes (Shimoni et al.
+2007), and miRNA-mediated feedback and feed-forward
+loops (Tsang et al. 2007; Shalgi et al. 2007; Re et al. 2009;
+Martinez et al. 2008), as has been observed in transcriptional
+regulation networks of bacteria and yeast (Shen-Orr et al.
+2002; Lee 2002). The simplest motif is a two-node miRNAmediated double negative feedback loop (MDNFL) in which
+a TF suppresses an miRNA and the TF itself is negatively
+regulated by the miRNA.
+In this paper, we focus on this particular network motif,
+the MDNFL. The major motivation for this studying is that
+this specific motif has been reported in several recent
+experimental studies (Fazi 2005; Juan et al. 2009; Bracken
+2008; Li and Carthew 2005; Visvanathan et al. 2007; Xu
+et al. 2009; Zhao et al. 2009; Pospisil 2011). For example,
+in human hematopoietic cells, NFI-A and miR-233 function
+in a double negative feedback loop to control granulocytic
+differentiation (Fazi 2005; Fig. 1a). In undifferentiated
+cells, miR-233 level is low and NFI-A level is high; however, upon retinoic acid signaling, miR-233 level increases
+due to the activation by the TF C/EBPa and NFI-A is then
+repressed, facilitating the differentiation to the myeloid
+lineage. This double negative feedback loop ensures
+mutually exclusive expression of miR-233 and NFI-A,
+thereby generating a bistable system, i.e., undifferentiated
+versus differentiated hematopoietic cells (Fazi 2005).
+Similarly, during skeletal muscle development, Ezh2 and
+miR-214 form a double negative feedback loop to regulate
+skeletal muscle cell differentiation (Juan et al. 2009;
+Fig. 1b). In undifferentiated myoblasts, Ezh2 is highly
+expressed and represses miR-214. Upon differentiation,
+MyoD/myogenin expression is activated and promotes
+
+Cogn Neurodyn (2013) 7:417–429
+
+Fig. 1 Biological examples of the MDNFL motif. a MDNFL controls granulocytic differentiation in human hematopoietic cells (Fazi
+2005). b MDNFL regulates skeletal muscle cell differentiation during
+skeletal muscle development (Juan et al. 2009). c MDNFL regulates
+epithelial-mesenchymal transition during embryological development
+(Bracken 2008). d MDNFL promotes photoreceptor differentiation in
+the Drosophila eye (Li and Carthew 2005). e MDNFL contributes to a
+rapid and efficient transition of cellular phenotypes between neural
+progenitors and post-mitotic neurons during embryonic central
+nervous system development (Visvanathan et al. 2007). f MDNFL
+contributes to irreversible silencing of self-renewal and pluripotency
+programs upon initiation of embryonic stem cell differentiation (Xu
+et al. 2009). g MDNFL controls the balance between neural stem cell
+proliferation and differentiation (Zhao et al. 2009). h MDNFL
+regulates PU.1-directed macrophage differentiation (Pospisil 2011).
+The solid and dotted lines denote transcriptional and post-transcriptional regulations, respectively
+
+transcription of miR-214, which in turn negatively regulates
+Ezh2 by inhibiting translation of its mRNA and thus reducing
+Ezh2 expression, ensuring complete differentiation of skeletal
+muscle cells (Juan et al. 2009). Moreover, in embryologic
+development, a double negative feedback loop between
+ZEB1-SIP1 and the miRNA-200 family controls epithelialmesenchymal transition (Bracken 2008; Fig. 1c). In epithelial
+cells, a stable state is maintained by a high miR-200 level,
+which inhibits ZEB1/SIP1 and hence increases the expression
+of ZEB-repressed epithelial genes. The transition to a mesenchymal state can be induced by TGF-h, which increases the
+ZEB1-SIP1 level. A high ZEB1-SIP1 level in turn instigates
+and maintains a mesenchymal state through the repression of
+miR-200 by ZEB1-SIP1 (Bracken 2008). Likewise, in Drosophila eye development, the reciprocal repression between
+miR-7 and Yan ensures their mutually exclusive expression
+pattern: Yan is expressed in progenitor cells and miR-7 is
+expressed in photoreceptor cells (Li and Carthew 2005;
+Fig. 1d). The transition can be induced by the EGFR signaling, which transiently triggers Yan degradation. A decrease in
+Yan level relieves miR-7 from transcriptional repression,
+subsequently leading to the depletion of Yan in photoreceptor
+cells (Li and Carthew 2005). Moreover, during embryonic
+central nervous system development, a double negative
+feedback loop between the anti-neural REST/SCP1 and proneural miR-124 pathways contributes to a rapid and efficient
+transition of cellular phenotypes between neural progenitors
+
+419
+
+and post-mitotic neurons (Visvanathan et al. 2007; Fig. 1e).
+In nonneuronal cells including neural progenitors, the REST/
+SCP1 complex transcriptionally represses expression of miR124 and other neuronal genes. As the REST level decreases
+during neurogenesis, miR-124 expression is derepressed, and
+subsequently, miR-124 post-transcriptionally suppresses
+multiple anti-neural factors including SCP1, resulting in further inhibition of the anti-neural pathway by REST/SCP1.
+This regulatory loop may represent key mechanisms to sense
+the intricate balance between proneural and anti-neural cues
+during development, to coordinate robust neuronal gene
+expression, and to confer neuronal identity in a timely manner
+(Visvanathan et al. 2007). In addition, upon initiation of
+embryonic stem cell differentiation, reciprocal inhibition
+of miR-145 and OCT4 contributes to irreversible silencing of
+self-renewal and pluripotency programs (Xu et al. 2009;
+Fig. 1f). Similar MDNFL motifs are also found in regulating
+the balance between neural stem cell proliferation and differentiation (Zhao et al. 2009; Fig. 1g), and PU.1-directed
+macrophage differentiation (Pospisil 2011; Fig. 1h). These
+experimental observations imply that this basic module may
+function as a bistable switch to regulate cell fate decisions
+such as differentiation during development. Actually, it has
+been shown that double negative feedback loops can act as
+bistable switches both experimentally and theoretically
+(Gardner et al. 2000; Ferrell 2002; Ferrell and Xiong 2001;
+Chatterjee et al. 2008). However, it is not clear whether the
+MDNFL can behave as a bistable switch. It is also not known
+the possible functions and biological significance of the
+miRNA in the MDNFL.
+To address these questions, we propose a general computational model for the MDNFL based on biochemical
+regulations and explore its dynamics by using bifurcation
+analysis. Our results show that the MDNFL can indeed
+behave as a bistable switch. This functional feature is in
+agreement with experimental observations of the widespread appearance of miRNAs in fate decisions during
+development. Importantly, it is found that under the interplay of a TF and an miRNA, the MDNFL model can
+behave as switches for wide ranges of parameters even
+without cooperative binding of the TF. It thus provides a
+novel mechanism to induce bistability through this combinatorial regulation even without cooperativity in the
+regulation. In addition, we also investigate how extrinsic
+noise affects dynamic behavior of the MDNFL. Interestingly, it is found that when the MDNFL is in the bistable
+region, the MDNFL system can switch from one steady
+state to the other and meanwhile the production of either
+miRNA or protein is amplified significantly by choosing
+the appropriate extrinsic noise source. From an engineering
+perspective, this noise-based switch and amplifier for gene
+expression is very easy to control because carefully tuning
+noise strength is not needed.
+
+123
+
+420
+
+Cogn Neurodyn (2013) 7:417–429
+
+Deterministic model and bifurcation analysis
+for the MDNFL
+
+d½Ma 
+¼ ka  dm ½Ma   c½Ma ½Ms ;
+dt
+
+ð3Þ
+
+Deterministic model for the MDNFL
+
+d½A
+¼ kA ½Ma   dA ½A þ kh ½gs : A  kh ½gs ½A:
+dt
+
+ð4Þ
+
+In this paper, we are mainly interested in analyzing the
+dynamics of the MDNFL and see what can be achieved in
+the simplest setting. Thus, different cellular compartments
+and separate concentrations for the nucleus and cytoplasm
+are not considered and biochemical regulations are modeled by simple rate equations. The proposed MDNFL
+model is depicted schematically in Fig. 2. It involves two
+genes ga, gs, their corresponding transcripts, mRNA,
+miRNA, and a protein A encoded by ga. The protein
+A regulates transcription of gene gs and the miRNA base
+pairs with the mRNA to forms the complex C.
+Extensive evidences suggest that the mechanisms of
+microRNA-mediated gene regulation can be translational
+repression or destabilization of its target mRNAs (ValenciaSanchez et al. 2006), i.e., miRNAs can either decrease the
+rate of translation or increase the degradation of its target
+mRNAs. Here, we choose to model the effect of miRNA
+regulation by taking the degradation rate of the target
+mRNA as a function of miRNA concentration. However,
+we note that the alternative choice of a translation rate of
+the target mRNAs as a function of miRNA concentration
+does not qualitatively alter the results below. The time
+evolution of the concentrations of the species in the
+MDNFL can be described by the following four deterministic rate equations:
+d½gs 
+¼ kh ½gs : A  kh ½gs ½A;
+dt
+
+ð1Þ
+
+d½Ms 
+¼ kf ½gs  þ kb ½gs : A  ds ½Ms   c½Ma ½Ms ;
+dt
+
+ð2Þ
+
+In the above equations, [gs], [gs : A ], [Ms], [Ma], and
+[A], respectively, denote the concentration of free gene
+gs, gene gs with A bound to its promoter, miRNA, mRNA,
+and protein A. As in Francois and Hakim (2005), here the
+cellular volume is taken as volume unit and thus the
+concentrations and the number of the species are
+equivalent. It is assumed that there is only a single copy
+of gene gs in the cell, i.e., [gs] ? [gs : A] = 1 mol.
+Therefore, [gs] can also represent the probability that gene
+gs is free without A bound to its promoter. Particularly, A
+proteins bind to the promoter of gene gs at a rate kh and
+when bound they dissociate at a rate k-h. The miRNA Ms
+is transcribed at a rate kb when A binds to gene gs or at a
+rate kf otherwise. Thus, kb [ kf corresponds to
+transcriptional activation by protein A and kb \ kf to
+transcriptional repression, which will be focused on in this
+paper. Since regulation of gene ga is not considered, it is
+simply assumed that mRNA Ma is produced at a given
+basal rate ka. The mRNA Ma is translated into protein A at
+a rate kA. ds, dm, and dA are the degradation rates for
+Ms, Ma, and A, respectively. c is the base pairing rate of
+the miRNA with the mRNA. Here we assume that the base
+pairing is irreversible, consistent with the fact that the
+complex formed by miRNA and mRNA is extremely
+stable or rapidly degraded, and thus the complex needs not
+to be treated as a dynamical variable. Throughout this
+paper except if otherwise stated, we fix parameters as
+follows: kh ¼ 0:04 min1 ; kh ¼ 0:001 mol1 min1 ; ka ¼
+4 molmin1 ; kf ¼ 35 mol min1 ; kb ¼ 2 mol min1 ; kA ¼
+1 min1 ; ds ¼ 0:006 min1 ; dm ¼ 0:04 min1 ; dA ¼ 0:01
+min1 ; and c ¼ 0:02 mol1 min1 : In general, the range
+of each parameter value above is rather wide and here it is
+chosen to be typical in vivo value. It should be noted that
+all the above parameters were either directly taken from
+literature or estimated based upon analogous biological
+systems (Shimoni et al. 2007; Levine et al. 2007; Levine
+and Hwa 2008; Francois and Hakim 2005; Khanin and
+Vinciotti 2008; Aguda et al. 2008).
+Steady states, bistable switches, and one-way switches
+To probe the dynamics of the MDNFL, we first investigate
+how the steady-state value of [A] changes as a function of
+the different parameters in Eqs.(1)–(4) by performing
+bifurcation analysis. In the steady state, the rates of change
+
+Fig. 2 The proposed model of the MDNFL motif. The Greek letters
+denote different parameters of the model and their meanings are
+explained in the text
+
+123
+
+d½Ms  d½Ma 
+d½A
+s
+of d½g
+dt ; dt ; dt ; and dt are zero. A system behaves as a
+bistable switch if it has two stable equilibria in the
+
+Cogn Neurodyn (2013) 7:417–429
+
+6
+
+421
+
+3
+X10
+
+(a)
+on state
+
+5
+
+[A]
+
+4
+3
+
+SN
+
+2
+
+2
+
+unstable
+1
+
+1
+
+10
+
+10
+
+off state
+
+SN
+
+0
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+kf
+
+3
+X 10
+
+(b)
+
+8
+
+on state
+[A]
+
+6
+
+4
+
+2
+
+SN
+
+2
+
+unstable
+
+off state
+
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+kb
+
+Fig. 3 Bifurcation diagrams of the MDNFL model. a The bifurcation
+diagram as a function of kf. b The bifurcation diagram as a function of
+kb. Solid and dash-dotted lines denote stable and unstable equilibria,
+respectively. SN1 and and SN2 represent the saddle-node bifurcation
+points
+
+appropriate parameter regime. Figure 3a shows the bifurcation diagram of system (1)–(4) as a function of the free gs
+promoter transcription rate kf. The two saddle-node bifurcation points SN1 ðkf  11:828 mol min1 Þ and SN2 ðkf 
+67:799 mol min1 Þ enclose a bistable region. For any kf within
+this region, the system has two stable equilibria and one
+unstable equilibrium, which are represented by solid and dashdotted lines, respectively. The two stable equilibria in the bistable region correspond to low and high values of
+[A], respectively. For convenience, we denote the low/high
+protein concentration as the off/on state. It can be seen that a
+region of bistability separates two regions of monostability,
+bistability exhibits only for intermediate kf values. The two
+stable state branches monotonically decrease with kf because
+the miRNA concentration increases with kf and thus the
+unpaired mRNA concentration decreases and further the
+production of the protein is reduced. At a specific value of kf in
+the bistable region, the choice between the stable equilibria is
+history-dependent, i.e., the final state depends on initial
+
+conditions (Ferrell 2002). If the value of kf is initially small,
+the system ends up in the on state. As kf increases along the
+upper stable branch, A remains to be in the on state until the
+bifurcation point SN2 is reached. When kf is further increased,
+the on state vanishes, and the system moves towards the lower
+stable branch, corresponding to the off state. Then, if we
+decrease kf, the system proceeds along the lower stable branch
+until SN1 is reached and another transition occurs, which
+brings the system back to the upper stable branch, an on state.
+The system therefore exhibits some hysteresis. Hysteresis is a
+property of bistable systems and of the potential importance in
+biological switching. First, it reduces the probability that a
+switch will repeatedly flip back and forth between two states
+when the bifurcation parameter is hovering near its threshold
+value, thereby providing an unambiguous threshold switching
+mechanism and buffering against the noise (Ferrell and Xiong
+2001). Second, it provides a potential mechanism for biochemical memory (Zhang et al. 2007). During the maturation
+of Xenopus oocyte, for example, the p42 MAPK/Cdc2 system
+can keep a long-term memory of a transient differentiation
+stimulus (Xiong and Ferrell 2003). There are now several
+known systems in which bistability and hysteresis have been
+observed experimentally (Gardner et al. 2000; Xiong and
+Ferrell 2003; Acar et al. 2005; Ozbudak et al. 2004; Sha et al.
+2003; Pomerening et al. 2003).
+Biologically speaking, the above results indicate that
+when the free transcription rate of the miRNA lies outside
+the region enclosed by the two saddle-node bifurcation
+points, a smaller/larger free transcription rate will lead to a
+higher/lower protein concentration. When the free transcription rate lies in the region, however, a smaller/larger
+free transcription rate may lead to a lower/higher protein
+concentration, depending on the initial conditions. As the
+free transcription rate of the miRNA increases gradually
+from a small value, the protein concentration will decrease
+gradually but remain in high level until SN2 is reached,
+where it switches to a low level. After that, the protein
+concentration will stay in the low level unless the free
+transcription rate is reduced and exceeds SN1 : This is
+consistent with the experimental observations that in
+human hematopoietic cells, the increase of miR-233 level
+due to the activation by the TF C/EBPa upon retinoic acid
+signaling, similar to the increase of the free transcription
+rate, can facilitate undifferentiated hematopoietic cells
+where miR-233 level is low and NFI-A level is high differentiate to the myeloid lineage (Fazi 2005; Fig. 2a), and
+the experimental observations that during skeletal muscle
+development, the increase of miR-214 level promoted by
+MyoD/myogenin which is activated upon differentiation,
+ensure undifferentiated myoblasts where Ezh2 is highly
+expressed complete differentiation (Juan et al. 2009;
+Fig. 2b). Similarly, as the free transcription rate decreases
+gradually from a large value, the protein concentration will
+
+123
+
+422
+5
+
+15
+
+(a)
+
+(b)
+
+4
+
+12
+
+Off
+
+3
+
+On
+
+9
+
+Bistable
+
+k
+
+a
+
+kb
+
+Fig. 4 Codimension two
+bifurcation diagrams of the
+MDNFL model. a kf and kb as
+the bifurcation parameters. b kf
+and ka as the bifurcation
+parameters. c kf and kA as the
+bifurcation parameters. d kf and
+c as the bifurcation parameters.
+e kf and ds as the bifurcation
+parameters. f kf and dm as the
+bifurcation parameters. g kf and
+dA as the bifurcation parameters.
+h kf and k-h as the bifurcation
+parameters. The regions
+enclosed by the solid lines are
+bistable regions, outside of
+which the model is monostable
+
+Cogn Neurodyn (2013) 7:417–429
+
+2
+
+6
+
+Bistable
+1
+
+3
+
+Off
+
+On
+0
+
+0
+
+20
+
+40
+
+60
+
+k
+
+80
+
+100
+
+0
+
+120
+
+40
+
+60
+
+80
+
+100
+
+120
+
+f
+
+0.25
+
+(c)
+
+(d)
+0.2
+
+6
+
+On
+
+0.15
+
+Bistable
+
+4
+
+Off
+
+Bistable
+
+γ
+
+A
+
+20
+
+k
+
+8
+
+k
+
+0
+
+f
+
+0.1
+2
+
+0.05
+
+Off
+0
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+0
+
+120
+
+On
+0
+
+20
+
+40
+
+k
+
+60
+
+k
+
+f
+
+80
+
+100
+
+f
+
+0.5
+
+0.25
+
+(f)
+
+(e)
+0.4
+
+0.2
+0.15
+
+0.3
+
+δm
+
+δ
+
+s
+
+On
+
+0.1
+0.05
+0
+
+Bistable
+0
+
+20
+
+40
+
+60
+
+k
+
+80
+
+Off
+
+0.2
+0.1
+
+Off
+100
+
+0
+
+120
+
+On
+0
+
+Bistable
+20
+
+40
+
+60
+
+80
+
+0.4
+
+(h)
+0.3
+
+−θ
+
+0.15
+
+Off
+
+0.1
+
+k
+
+δA
+
+120
+
+f
+
+f
+
+(g)
+
+0.05
+
+Off
+
+0.2
+
+0.1
+
+On Bistable
+0
+
+20
+
+40
+
+60
+
+80
+
+kf
+
+increase gradually but stay at low level until SN1 is
+reached, where it switches to a high level. After that, the
+protein concentration will remain in the high level if the
+free transcription rate is not increased.
+The bifurcation diagram of system (1)–(4) with kb as a
+control parameter is shown in Fig. 3b. It indicates that as kb
+increases along the upper stable branch, A continues to be in
+the on state until some critical value, SN2  2:635 mol min1 ;
+
+123
+
+100
+
+k
+
+0.2
+
+0
+
+120
+
+100
+
+120
+
+0
+
+On
+0
+
+Bistable
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+kf
+
+is exceeded, at which a discontinuous jump to the off state
+occurs and the system become monostable. Then, if kb
+decreases, A stays at the off state indefinitely, i.e., the transition is irreversible. Such kind of switches is termed irreversible or one-way switches (Tyson et al. 2003). The one-way
+switch is an extreme manifestation of hysteresis, i.e., its lower
+stable solution branches into the negative domain but is
+actually eliminated due to a physically meaningful restriction.
+
+Cogn Neurodyn (2013) 7:417–429
+
+423
+
+Based on such hysteresis and irreversibility, bistable switches
+can make a reliable decision in many physiological processes,
+as in the yeast galactose-utilization network (Acar et al. 2005;
+Ramsey 2006), the MAPK/PKC signaling network (Bhalla
+and Iyengar 2001; Bhalla et al. 2002), and the p42 MAPK
+cascade in Xenopus oocytes (Ferrell and Machleder 1998).
+
+and upper thresholds increase moderately because a larger
+kf is required to compromise efficiency of the mRNA level
+at a larger ka in order to induce bistability. For a fixed
+kf, when we increase the basal transcription rate ka, the
+system undergoes a transition from a monomodal off state
+to a bistable region and then to a monomodal on state. This
+is consistent with the experimental observations that
+increasing the ZEB1-SIP1 level activated by TGF-h, similar to increasing ka, can induce a transition from a epithelial state maintained by a high miR-200 level and a low
+ZEB1-SIP1 level to a mesenchymal state where the ZEB1SIP1 level is high and the miR-200 level is low (Inui et al.
+2010; Bracken 2008; Fig. 2c). The bifurcation diagram of
+system (1)–(4) with kf and kA as the bifurcation parameters
+is shown in Fig. 4c. It can also be seen that with increasing
+kA, bistable regime becomes wider and the lower and upper
+thresholds increase moderately. In addition, decreasing the
+production rate kA from a large value for a fixed kf will shift
+the system from a monomodal on state, across a bistable
+region, to a monomodal off state. Figure 4d shows the
+bifurcation diagram of system (1)–(4) with kf and c as the
+bifurcation parameters. It indicates that when there is no
+the negative post-transcriptional regulation, i.e., at c = 0,
+the system is monostable. However, moderately increasing
+
+The effect of parameter variations on the bistable
+regime
+In order to see whether the MDNFL model can behave as
+switches for wide ranges of parameters, the codimension
+two bifurcation diagram of system (1)–(4) is constructed
+for all the important parameters to determine the range of
+bistable regime. Figure 4a shows the bifurcation diagram
+of system (1)–(4) with kf and kb as the bifurcation parameters. It can be seen that the region of bistability becomes
+wider and the upper threshold of kf increases as kb
+decreases due to the fact that a larger kf is needed to
+compensate inefficiency of the miRNA level at a smaller kb
+so as to produce bistability. Figure 4b illustrates the
+bifurcation diagram of system (1)–(4) with kf and ka as the
+bifurcation parameters. It is shown that with increasing
+ka, the region of bistability becomes wider and the lower
+
+80
+
+6000
+
+4700
+
+(b)
+
+(a)
+5000
+60
+
+4650
+
+40
+
+4600
+
+20
+
+4550
+
+s
+
+[M ]
+
+[A]
+
+4000
+3000
+2000
+1000
+0
+1.5
+
+2
+
+2.5
+
+0
+
+3
+
+1.5
+
+2
+
+kb
+
+2.5
+
+3
+
+4500
+
+k
+
+b
+
+3000
+
+(c)
+
+(d)
+
+5000
+4000
+
+2000
+s
+
+[M ]
+
+[A]
+
+3000
+1000
+
+2000
+1000
+0
+
+0
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+Time (min)
+
+Fig. 5 Results for external noise affecting kb with parameter values
+kb ¼ 2:6 mol min1 ; kf ¼ 35 mol min1 ; and D = 0.75. a Bifurcation
+diagram for the concentration of protein A as a function of kb. The
+dotted vertical line is the parameter for which stochastic simulation
+was carried out. b Bifurcation diagram for the concentration of
+miRNA Ms as a function of kb. The steady state with a high Ms
+
+0
+
+2000
+
+4000
+
+6000
+
+8000 10000
+
+Time (min)
+
+concentration is plotted in the dashed line and corresponds to the right
+Y axis. The other two states are in the solid line and dash-dotted line,
+respectively, and corresponds to the left Y axis. c The time evolution
+of the concentration of protein A. d The time evolution of the
+concentration of miRNA Ms. Stable and unstable states are represented by solid (or dashed) and dash-dotted lines, respectively
+
+123
+
+424
+
+c from zero can shift the system into bistable regime.
+Therefore, the negative regulation mediated by the miRNAs can induce bistability. In addition, the region of bistability becomes wider with increasing c. A larger
+miRNA-mRNA base pairing strength c drives the system to
+the off sate and so enlarges the bistable parameter range.
+Figure 4e shows the bifurcation diagram of system (1)–(4)
+with kf and ds as the bifurcation parameters. With
+increasing kf, bistability emerges, depending on the values
+of ds. In addition, the bistable regime becomes narrow
+while the lower and upper thresholds increase moderately
+with increasing ds. For a fixed ds, when we increase kf, the
+system undergoes a transition from a monomodal on state
+to a bistable regime and then to a monomodal off state. The
+bifurcation diagram of system (1)–(4) with kf and dm as the
+bifurcation parameters is shown in Fig. 4f. Since decreasing the degradation rate of the mRNA dm has similar effect
+with increasing the basal transcription rate of the mRNA
+ka, the region of bistability becomes wider and the upper
+threshold of kf increases as dm decreases. While the value
+of dm is fixed, increasing the value of kf from zero will shift
+the system from a monomodal on state, across a bistable
+region, to a monomodal off state. The bifurcation diagram
+of system (1)–(4) with kf and dA as the bifurcation
+parameters is shown in Fig. 4g. By increasing the degradation rate of the protein dA from a small value, the transition begins with a monomodal on state to a a bistable
+region then to a monomodal off state. This is consistent
+with the experimental observations that the degradation of
+protein Yan transiently triggered by the EGFR signalling,
+similar to the increase of dA, can induce a transition from a
+progenitor cell state where Yan is expressed to a photoreceptor cell sate where miR-7 is expressed (Li and Carthew
+2005; Fig. 2d). The parameter k-h exhibits a similar
+influence as the parameter dA. When we increase k-h, the
+system undergoes a transition from a monomodal on state
+to a a bistable region then to a monomodal off state, as seen
+in Fig. 4h.
+In summary, the above codimension two bifurcation
+diagrams indicate that in the MDNFL model each parameter
+can be varied individually for a wide range, while preserving
+bistability. This means that the MDNFL model can behave as
+switches for wide ranges of parameters. Moreover, it should
+be pointed out that here we assume that the production of
+miRNA, Ms, is regulated by protein A, through binding of a
+single protein A to its promoter, gs, that is, without cooperative binding of the TF to its promoter. In this case, the
+system is always monostable if the miRNA-mediated regulation does not exist (Ferrell and Xiong 2001; Lipshtat et al.
+2006) [ also see Fig. 4d]. On the other hand, the miRNAmediated regulation, if works solely, also leads to monostability (Levine et al. 2007). Interestingly, under the
+interplay of the TF and miRNA, it is found that the MDNFL
+
+123
+
+Cogn Neurodyn (2013) 7:417–429
+
+model can behave as switches for wide ranges of parameters
+even without cooperative binding of the TF. It thus provides
+a novel mechanism to induce bistability through this combinatorial regulation even without cooperativity in the regulation, which is fundamentally distinct from the generation
+of bistability by intrinsically nonlinear positive feedback
+regulation, such as protein dimerization and cooperative
+formation of heterodimers (Ferrell 2002; Ferrell and Xiong
+2001; Zhdanov 2009; Liu et al. 2011). The evidence for use
+of the MDNFL motif as switches has been reported recently,
+especially on cell fate decisions (Fazi 2005; Juan et al. 2009;
+Bracken 2008; Li and Carthew 2005; Visvanathan et al.
+2007; Xu et al. 2009; Zhao et al. 2009; Pospisil 2011). It is
+hoped this novel mechanism can be realized in artificial
+genetic networks in the future.
+
+Stochastic model and noise-induced dynamics
+for the MDNFL
+The deterministic analysis above successfully demonstrates
+how the steady-state values of the MDNFL system shift as
+parameter values change. However, cellular processes at the
+molecular level are inherently stochastic (Balàsi et al. 2011).
+Numerous studies have revealed the importance of stochastic
+or probabilistic effects in biological systems where the
+number of molecules is low enough for noise to be important,
+and the deterministic chemical kinetic descriptions are limited (Lipshtat et al. 2006; Hasty et al. 2000; Vilar et al. 2002;
+Rao et al. 2002; Wang et al. 2007; Li and Li 2008). In
+addition, noise can also have significant effects on the stability and synchronization of genetic regulatory networks as
+well as neuronal networks (Shi et al. 2008; Wang et al. 2009;
+Guo 2011; Wu et al. 2012). There are two sources of noise
+in biological systems: intrinsic noise and extrinsic noise.
+Intrinsic noise originates from discrete nature of biochemical
+events such as transcription, translation, multimerization,
+and protein/mRNA decay processes (Raj and van Oudenaarden
+2008). On the other hand, extrinsic noise results from perturbations in the extrinsic environment or the random variations in
+one or more of the externally set control parameters, such as the
+rate constant of the transcription of a specific gene (Hasty et al.
+2000). In addition, extrinsic and intrinsic noise often exist in
+biological system simultaneously. In this section, we mainly
+focus on how extrinsic noise affects the dynamic behavior of
+the MDNFL. The effect of intrinsic noise on the dynamic
+behavior of the MDNFL will be analyzed systematically
+elsewhere.
+Stochastic model for the MDNFL
+As shown in Fig. 2, the two transcription rate of gene gs, kb
+and kf, influence the dynamics of the MDNFL. Although
+
+Cogn Neurodyn (2013) 7:417–429
+
+425
+
+the transcription is described as a single biochemical
+reaction in our model, it actually consists of a complex
+sequence of reactions (Hasty et al. 2000). It is natural to
+assume that this part of the gene regulatory sequence is
+likely to be affected by fluctuations of many internal or
+external parameters, and it is interesting to study the effect
+of such noise on the dynamics of the MDNFL. In order to
+introduce such extrinsic noise into system (1)–(4), we adapt
+an approach in the spirit of Ref. (Hasty et al. 2000). We
+vary the transcription rates by allowing the parameters kb
+and kf in system (1)–(4) to vary stochastically, that is, kb !
+kb þ n1 ðtÞ and kf ! kf þ n2 ðtÞ: In such a manner, we
+obtain the following stochastic model:
+d½gs 
+¼ kh ½gs : A  kh ½gs ½A;
+ð5Þ
+dt
+d½Ms 
+¼ kf ½gs  þ kb ½gs : A  ds ½Ms   c½Ma ½Ms  þ n1 ðtÞ½gs
+dt
+: A þ n2 ðtÞ½gs ;
+ð6Þ
+d½Ma 
+¼ ka  dm ½Ma   c½Ma ½Ms ;
+dt
+
+ð7Þ
+
+d½A
+¼ kA ½Ma   dA ½A þ kh ½gs : A  kh ½gs ½A;
+dt
+
+ð8Þ
+
+where n1(t) and n2(t) are random terms with zero means
+hn1 ðtÞi ¼ 0 and hn2 ðtÞi ¼ 0: In order to encapsulate rapid
+random fluctuations, we make the standard requirement
+that the autocorrelation be ‘‘d-correlated’’, i.e., the statistics
+of ni(t) are such that hni ðtÞnj ðt0 Þi ¼ 2Ddij dðt  t0 Þ; where dij
+is the Kronecker delta, d(t - t0 ) is the Dirac function and D
+is the constant that characterizes the strength of the perturbation. The above stochastic model is numerically
+simulated using the Euler–Maruyama scheme with the
+integration time step Dt ¼ 0:0001 (Higham 2001).
+Noise-induced switching and amplifying
+To obtain the qualitative effect of the external noises on the
+dynamics of system (1)–(4), we first use the bifurcation
+diagram to anticipate the effect of fluctuations allowed in
+the transcription rates. For the deterministic system, the
+steady-state values of the concentration of protein A and
+miRNA Ms for different values of parameter kb are shown
+in Fig. 5a and b. It can be seen that the system undergoes a
+saddle-node bifurcation at kb  2:635 mol min1 : For the
+values of kb larger than the saddle-node bifurcation point,
+the system has one unique stable equilibrium with low A
+and high Ms concentrations, whereas for other values of
+kb, the system has three equilibria: one is unstable and the
+other two stable, where one stable equilibrium corresponds
+to low A and high Ms concentrations, and the other corresponds to high A and low Ms concentrations. In the absence
+
+of noise, the concentrations of protein A and miRNA Ms
+will converge to one of the two stable equilibria completely
+determined by the initial state of the system. A comparison
+of Fig. 5a and b shows that the upper stable branch in
+Fig. 5a is steep, while the lower stable branch in Fig. 5b is
+flat. Therefore, we can anticipate that when the system is in
+the bistable region and has high A and low Ms concentrations, if the parameter kb varies, the variations in the concentration of protein A will be notably large, while the
+fluctuations in the concentrations of miRNA Ms will be
+small. If the system lies in the other stable equilibrium with
+low A and high Ms concentrations, however, only a mild
+change in both the concentrations of A and Ms takes place
+due to the flat lower stable branch in Fig. 5a and the flat
+upper stable branch in Fig. 5b.
+In order to verify the above observation quantitatively,
+we next incorporate extrinsic noise to make kb stochastically vary and investigate the temporal behavior of the
+system under the fluctuations. We simulated the stochastic
+model for the MDNFL [Eqs. (5)–(8)] with a large noise
+intensity, D = 0.75. Initially, we fix the parameter value
+kb ¼ 2:6 mol min1 ; as indicated by a broken vertical line
+in Fig. 5a, such that the system is in the bistable region.
+The simulation results beginning with the concentration of
+protein A equal to its upper value of approximately 2,000
+and miRNA Ms concentration about 0 are presented in
+Fig. 5c and d. At first, the fluctuations in the concentration
+of protein A are quite large while the concentration of
+miRNA Ms is nearly unchanged as we expected. Then, at
+around 5,500 min, the concentration of A quickly drops to
+the lower value. Meanwhile, the concentration of Ms
+quickly jumps to its upper value and remains in there with
+quite small variations, as anticipated. This phenomenon
+indicates that the extrinsic noise introduced into the transcription rate is sufficient to induce the system to switch
+from one stable state to the other by crossing the unstable
+state. When the number of miRNA Ms is randomly fluctuated to a comparable value with that of mRNA Ma, most
+of the mRNA molecules are expected to base pair rapidly
+with the miRNA molecules and degraded, which will result
+in a low expression of protein A and thus leave the gene gs
+unregulated. In this case, the concentration of miRNA Ms
+will soon build up to a rather high values if kf is large
+enough, i.e., the transition occurs.
+On the other hand, a large fluctuation in the concentration of protein A before the switching implies that the
+amount of the protein is quite sensitive to the variation in
+the parameter kb if much more protein A exists in the
+system than miRNA Ms. But after the fast transition occurs
+at around 5,500 min, flat curves in both Fig. 5c and d
+means that the other steady state is nearly unaffected by the
+fluctuations in the value of kb and thus is impossible to
+switch back unless noise intensity increases. This suggests
+
+123
+
+426
+
+that dynamic behavior of the MDNFL can be either sensitive or robust to the same perturbation affecting kb
+depending on the specific state at which the MDNFL initially stays (Stelling et al. 2004), and under such perturbation with large enough strength, the MDNFL is very
+likely to switch to or remain in the robust state with low A
+and high Ms concentrations. It is also noticed that in the fast
+transition, the concentration of miRNA Ms increases
+abruptly by over three orders of magnitude in a very short
+time if kf is large enough. This character suggests that the
+extrinsic noise affecting kb might be used to amplify
+miRNA Ms’s production.
+Similar results can be obtained for the extrinsic noise
+affecting kf when the value of the parameter kf is initially
+set to 12 mol min1 except that the state with high A and
+low Ms concentrations that is sensitive to the fluctuations in
+kb discussed above is robust to the random variation of
+kf, and the other state with low A and high Ms concentrations which is robust to the fluctuations in kb is sensitive to
+the random variation of kf, as suggested in Fig. 2a. As a
+result, if the MDNFL is affected by the perturbation
+affecting kf, contrary to the above result, the MDNFL is
+very likely to switch to or remain in the state with high
+A and low Ms concentrations. Likewise, the concentration
+of protein A may increase significantly during the switching process. This interesting feature of the MDNFL allows
+us to obtain the desired state switch and amplifying in the
+MDNFL easily by choosing the appropriate extrinsic noise
+source. From an engineering perspective, this character
+makes this type of switch easy to control because accurately tuning the strength and timing of noise has been done
+in Hasty et al. (2000) is not needed here.
+
+Discussion and conclusion
+The importance of post-transcriptional regulation by miRNAs
+has recently been recognized in diverse biological processes in
+animals and plants (Ambros 2004; Bushati and Cohen 2007;
+Stefani and Slack 2008; Inui et al. 2010; Ivey and Srivastava
+2010). Moreover their profiles are altered in several human
+diseases (Alvarez-Garcia and Miska 2005; Esquela-Kerscher
+and Slack 2006), making miRNAs a major focus of research in
+nowadays molecular biology. Recently, possible functions
+and biological significance of miRNAs have been the subject
+of both experimental and theoretical studies (Shimoni et al.
+2007; Wang and Raghavachari 2011; Levine et al. 2007;
+Levine and Hwa 2008; Mehta et al. 2008; Osella et al. 2011;
+Mitarai et al. 2009; Bumgarner et al. 2009; Iliopoulos et al.
+2009). Some special functional features of miRNAs have
+been indicated by mathematical modeling and dynamical
+simulations, e.g., a tunable threshold-linear expression
+
+123
+
+Cogn Neurodyn (2013) 7:417–429
+
+pattern and repression of fluctuation in the silence regime
+(Levine et al. 2007; Levine and Hwa 2008), better than
+TF-based regulation at filtering input noise but suffers
+higher intrinsic noise arising from transcriptional bursting
+(Mehta et al. 2008), and fine-tuning of a target protein
+level and an efficient noise control (Osella et al. 2011).
+However, most of the previous works focus only on how
+miRNAs post-transcriptionally regulate the target protein
+levels, work solely, and induce monostability. Recently,
+several double negative feedback loops involving miRNAs
+and TFs have been found experimentally in a variety of
+organisms (Martinez et al. 2008; Johnston et al. 2005; Kim
+2007; Fazi 2005; Juan et al. 2009; Bracken 2008; Li and
+Carthew 2005; Visvanathan et al. 2007; Xu et al. 2009;
+Zhao et al. 2009; Pospisil 2011). It has been shown that
+such composite double negative feedback loop (MDNFL)
+occurs frequently, and hence constitutes a network motif
+(Tsang et al. 2007; Martinez and Walhout 2009). To our
+knowledge, the issue about possible functions of this basic
+motif and the effects of combinational regulation by TFs
+and miRNAs have not yet been well addressed. To better
+understand the dynamical properties of this basic motif, we
+have presented a general computational model for the
+MDNFL and explored its dynamics by using bifurcation
+analysis. Our results show that there exist wide ranges of
+parameters where the MDNFL can behave as switches.
+These functional features are consistent with the widespread appearance of miRNAs in fate decisions such as
+differentiation during development. In addition, positive
+feedback and cooperativity in the regulation of gene
+expression are generally considered to be necessary for
+obtaining bistable expression states (Ferrell and Xiong
+2001; Lipshtat et al. 2006). Interestingly, here it is found
+that under the combinatorial regulation by a TF and an
+miRNA, the MDNFL model can behave as switches for
+wide ranges of parameters even without cooperative
+binding of the TF. It thus provides a novel mechanism to
+induce bistability through this combinatorial regulation
+even without cooperativity in the regulation. We hope this
+mechanism can be realized in artificial genetic networks in
+the future.
+On the other hand, cellular processes at the molecular
+level are inherently stochastic (Balàsi et al. 2011). The
+origin of stochasticity can be attributed to internal and
+external noises. It is well known that noise can have great
+impacts on biological systems’ dynamical properties
+(Lipshtat et al. 2006; Hasty et al. 2000; Vilar et al. 2002;
+Rao et al. 2002; Wang et al. 2007; Li and Li 2008), for
+example, noise can induce sustained stochastic oscillation
+even though the corresponding deterministic system only
+yields steady state (Li and Li 2008). In this paper, we have
+also studied the effect of extrinsic noise on the dynamic
+behavior of the MDNFL. It is found that if the noise is
+
+Cogn Neurodyn (2013) 7:417–429
+
+considered, the MDNFL system can generate some different phenomena not observed in the corresponding
+deterministic model. More specifically, when the MDNFL
+system is in the bistable region, extrinsic noise fluctuating
+the two transcription rates of the miRNAs gene can induce
+the system quickly switch from one steady state to the
+other. In addition, any one of the two steady states is robust
+to one type of the two different extrinsic noises but sensitive to the other. This feature makes this type of switch
+easy to control because the requirement of carefully tuning
+noise strength is not considered. Moreover, during the
+transition process, the concentration of the miRNA (or the
+protein) is quite low before the switch can be amplified
+significantly.
+The control of cellular functions through the design and
+manipulation of gene regulatory networks is an intriguing
+perspective in applications (Wang et al. 2007). Current gene
+therapy techniques are limited in that transfected genes are
+typically either in an ‘‘on’’ or ‘‘off’’ state (Hasty et al. 2000).
+For the effective treatment of many diseases, however, the
+expression of a transfected gene needs to be regulated in a
+systematic fashion. Thus, the development of extrinsically
+controllable noise-based switches and amplifiers for gene
+expression could have significant clinical implications and the
+results in this paper suggest that the MDNFL might be quite
+useful for that. To make this feature of MDNFL clinically
+applicable, it is important to look for an appropriate noise
+source. Sets of chemical reactions that affect the transcription
+of gene gs might be used as the noise input of this switch.
+Moreover, it has recently been shown that manipulation of
+miRNAs is readily achievable in vivo and thus holds exciting
+promise for potential therapeutic applications for diseases
+associated miRNAs (krützfelt 2005; Elmèn 2008).
+It has been widely recognized that a complicated living
+organism cannot be fully understood by merely analyzing
+individual components, and that interactions of those components or biomolecular networks in terms of structures and
+dynamics are ultimately responsible for an organism’s form,
+rhythms, and functions (Wang et al. 2008). But the intrinsic
+complexity of biomolecular networks inhibits us to understand them as a whole. Instead, researchers turn to study the
+building block, or motif, of these networks. Elucidating these
+motifs’ dynamics and functions would shed light on the whole
+networks’ behaviors. Computational models based on experimental data have been proven to be quite useful to solve these
+problems (Alon 2007). In this paper, we have proposed a
+simple computational model for the miRNA-mediated double
+negative feedback loop (MDNFL) motif and studied its
+functional characteristic motivated by this motif appears in
+regulation fate decisions in a variety of organisms (Martinez
+et al. 2008; Johnston et al. 2005; Kim 2007; Fazi 2005; Juan
+et al. 2009; Bracken 2008; Li and Carthew 2005; Visvanathan
+et al. 2007; Xu et al. 2009; Zhao et al. 2009; Pospisil 2011).
+
+427
+
+Besides the minimal architecture discussed here, miRNAmediated network motifs with other architectures can be
+similarly analyzed, such as miRNA-mediated feed-forward
+loops (Tsang et al. 2007; Shalgi et al. 2007; Re et al. 2009). It
+is expected that the insight gained from the study of these
+simple motifs could provide a basis for investigation of more
+complex networks assembled by simple building blocks. A
+more clear understanding of the miRNA-mediated motifs is
+also important for bio-engineering or artificial control of
+specified components, interactions, and even network functions. It is hoped that the results presented here could provide a
+new view on how gene expression is regulated and further
+guidance for experiments.
+Finally, it is worth mentioning that a plausible method
+whereby a system may be experimentally probed for bistability has been proposed in (Hasty et al. 2000). The
+main idea is that in a bistable system, the threshold value of
+the control parameter required for the system to be switched from off to on state is different from that for transitioning in the reverse direction [also see Fig. 2]. Since the
+degradation parameter dA is easier to manipulate externally
+(Hasty et al. 2000), according to the suggestion given in
+(Hasty et al. 2000), one can perform an experiment for the
+MDNFL system by slowly increasing the degradation rate
+dA from a low initial value to see whether the concentration
+of protein A can abruptly jump to a lower value at some
+moment after a slow decrease. If so, one then reverses the
+direction of the experiment to observe whether the concentration of protein A can suddenly switch to a higher
+value at some point after a slow increase. If it occurs and
+the downward threshold value differs from that of the
+upward, then one can conclude that the MDNFL system is
+a bistable system. Similar methods have been used to probe
+for bistability in previous experimental studies (Gardner
+et al. 2000; Xiong and Ferrell 2003; Ozbudak et al. 2004).
+In addition, it should be pointed out that simple genetic
+network motifs are always embedded in a larger and more
+complex network, under some circumstances, it thus might
+be not easy for us to observe in vivo the phenomena predicted here due to the fact that the MDNFL no longer
+functions independently, but as pointed out in (Alon 2007)
+in many cases the functions can be preserved.
+Acknowledgments We are grateful to the reviewers and the editor
+for their valuable comments and suggestions.This work was supported
+by the National Science Foundation of China (Grants No. 10832006,
+11172158).
+
+References
+Acar M, Becskei A, van Oudenaarden A (2005) Enhancement of
+cellular memory by reducing stochastic transitions. Nature
+435:228–232
+
+123
+
+428
+Aguda BD, Kim Y, Piper-Hunter MG, Friedman A, Marsh CB (2008)
+MicroRNA regulation of a cancer network: consequences of the
+feedback loops involving miR-17-92, E2F, and Myc. Proc Natl
+Acad Sci USA 105:19678–19683
+Alon U (2007) Network motifs: theory and experimental approaches.
+Nat Rev Genet 8:450–461
+Alvarez-Garcia I, Miska E (2005) MicroRNA function in animal
+development and human disease. Development 132:4653–
+4662
+Ambros V (2004) The functions of animal microRNAs. Nature
+431:350–355
+Balàsi G, van Oudenaarden A, Collins JJ (2011) Cellular decision
+making and biological noise: from microbes to mammals. Cell
+144:910–925
+Bartel DP (2004) MicroRNAs: genomics, biogenesis, mechanism, and
+function. Cell 116:281–297
+Bhalla US, Iyengar R (2001) Robustness of the bistable behavior of a
+biological signaling feedback loop. Chaos 11:221–226
+Bhalla US, Ram PT, Iyengar R (2002) MAP kinase phosphatase as a
+locus of flexibility in a mitogen-activated protein kinase
+signaling network. Science 297:1018–1023
+Bracken CP et al (2008) A double-negative feedback loop between
+ZEB1-SIP1 and the microRNA-200 family regulates epithelialmesenchymal transition. Cancer Res 68:7846–7854
+Bumgarner SL, Dowell RD, Grisafi P, Gifford DK, Fink GR (2009)
+Toggle involving cis-interfering noncoding RNAs controls
+variegated gene expression in yeast. Proc Natl Acad Sci USA
+106:18321–18326
+Bushati N, Cohen SM (2007) MicroRNA functions. Annu Rev Cell
+Dev Biol 23:175–205
+Chatterjee A, Kaznessis YN, Hu W (2008) Tweaking biological
+switches through a better understanding of bistability behavior.
+Curr Opin Biotech 19:475–481
+Elmèn J et al (2008) LNA-mediated microRNA silencing in nonhuman primates. Nature 452:896–899
+Esquela-Kerscher A, Slack FJ (2006) Oncomirs-microRNAs with a
+role in cancer. Nat Rev Cancer 6:259–269
+Fazi F et al (2005) A minicircuitry comprised of microRNA-223 and
+transcription factors NFI-A and C/EBPa regulates human
+granulopoiesis. Cell 123:819–831
+Ferrell JE (2002) Self-perpetuating states in signal transduction:
+positive feedback, double-negative feedback and bistability. Curr
+Opin Cell Biol 14:140–148
+Ferrell JE, Machleder EM (1998) The biochemical basis of an all-ornone cell fate switch in Xenopus Oocytes. Science 280:895–898
+Ferrell JE, Xiong W (2001) Bistability in cell signaling: how to make
+continuous processes discontinuous, and reversible processes
+irreversible. Chaos 11:227–236
+Filipowicz W, Bhattacharyya SN, Sonenberg N (2008) Mechanisms
+of post-transcriptional regulation by microRNAs: are the
+answers in sight? Nat Rev Genet 9:102–114
+Francois P, Hakim V (2005) Core genetic module: the mixed
+feedback loop. Phys Rev E 72:031908
+Gardner TS, Cantor CR, Collins JJ (2000) Construction of a genetic
+toggle switch in Escherichia coli. Nature 430:339–342
+Guo D (2011) Inhibition of rhythmic spiking by colored noise in
+neural systems. Cogn Neurodyn 5:293–300
+Guo H, Ingolia NT, Weissman JS, Bartel DP (2010) Mammalian
+microRNAs predominantly act to decrease target mRNA levels.
+Nature 466:835–840
+Hasty J, Pradines J, Dolnik M, Collins JJ (2000) Noise-based switches
+and amplifiers for gene expression. Proc Natl Acad Sci USA
+97:2075–2080
+Higham DJ (2001) An algorithmic introduction to numerical simulation of stochastic differential equations. SIAM Rev 43:
+525–546
+
+123
+
+Cogn Neurodyn (2013) 7:417–429
+Iliopoulos D, Hirsch HA, Struhl K (2009) An epigenetic switch
+involving NF-kB, Lin28, Let-7 microRNA, and IL6 links
+inflammation to cell transformation. Cell 139:693–706
+Inui M, Martello G, Piccolo S (2010) MicroRNA control of signal
+transduction. Nat Rev Mol Cell Biol 11:252–263
+Ivey KN, Srivastava D (2010) MicroRNAs as regulators of differentiation and cell fate decisions. Cell Stem Cell 7:36–41
+Johnston RJ, Chang S, Etchberger JF, Christopher OO, Hobert O
+(2005) MicroRNAs acting in a double-negative feedback loop to
+control a neuronal cell fate decision. Proc Natl Acad Sci USA
+102:12449–12454
+Juan AH, Kumar RM, Marx JG, Young RA, Sartorelli V (2009) Mir214-dependent regulation of the polycomb protein Ezh2 in
+skeletal muscle and embryonic stem cells. Mol Cell 36:61–74
+Khanin R, Vinciotti V (2008) Computational modeling of posttranscriptional gene regulation by MicroRNAs. J Comput Biol
+15:305–316
+Kim J et al (2007) A microRNA feedback circuit in midbrain
+dopamine neurons. Science 317:1220–1224
+krützfelt J et al. (2005) Silencing of microRNAs in vivo with
+‘antagomirs’. Nature 438:685–689
+Lee TI et al (2002) Transcriptional regulatory networks in Saccharomyces cerevisiae. Science 298:799–804
+Levine E, Hwa T (2008) Small RNAs establish gene expression
+thresholds. Curr Opin Microbiol 11:574–579
+Levine E, Zhang Z, Kuhlman T, Hwa T (2007) Quantitative
+characteristics of gene regulation by small RNA. PLoS Biol 5:
+e229
+Li X, Carthew RW (2005) A microRNA mediates EGF receptor
+signaling and promotes photoreceptor differentiation in the
+Drosophila eye. Cell 123:1267–1277
+Li D, Li C (2008) Noise-induced dynamics in the mixed-feedbackloop network motif. Phys Rev E 77:011903
+Lipshtat A, Loinger A, Balaban NQ, Biham O (2006) Genetic toggle
+switch without cooperative binding. Phys Rev Lett 96:188101
+Liu D, Chang X, Liu Z, Chen L, Wang R (2011) Bistability and
+oscillations in gene regulation mediated by small noncoding
+RNAs. PLoS ONE 6:e17029
+Martinez NJ, Walhout AJM (2009) The interplay between transcription factors and microRNAs in genome-scale regulatory networks. BioEssays 31:435–445
+Martinez NJ, Ow MC, Barrasa MI, Hammell M, Sequerra R (2008) A
+C. elegans genome-scale microRNA network contains composite
+feedback motifs with high flux capacity. Genes Dev 22:
+2535–2549
+Mehta P, Goyal S, Wingreen NS (2008) A quantitative comparison of
+sRNA-based and protein-based gene regulation. Mol Syst Biol
+4:211
+Mitarai N, Benjamin JM, Krishna S, Semsey S, Csiszovzki Z, Massè
+E, Sneppen K (2009) Dynamic features of gene expression
+control by small regulatory RNAs. Proc Natl Acad Sci USA
+106:10655–10659
+Osella M, Bosia C, Corà D, Caselle M (2011) The role of incoherent
+microRNA-mediated feedforward loops in noise buffering. PLoS
+Comput Biol 7:e1001101
+Ozbudak EM, Thattai M, Lim HN, Shraiman BI, van Oudenaarden
+(2004) A multistability in the lactose utilization network of
+Escherichia coli. Nature 427:737–740
+Pomerening JR, Sontag ED, Ferrell JE (2003) Building a cell cycle
+oscillator: hysteresis and bistability in the activation of Cdc2.
+Nat Cell Biol 5:346–351
+Pospisil V et al (2011) Epigenetic silencing of the oncogenic miR-1792 cluster during PU.1-directed macrophage differentiation.
+EMBO J 30:4450-4464
+Raj A, van Oudenaarden A (2008) Nature, nurture, or chance: stochastic
+gene expression and its consequences. Cell 135:216–226
+
+Cogn Neurodyn (2013) 7:417–429
+Ramsey SA et al (2006) Dual feedback loops in the GAL regulon
+suppress cellular heterogeneity in yeast. Nat Genet 38:1082–1087
+Rao CV, Wolf DM, Arkin AP (2002) Control, exploitation and
+tolerance of intracellular noise. Nature 420:231–237
+Re A, Cora D, Taverna D, Caselle M (2009) Genome-wide survey of
+microRNA-transcription factor feed-forward regulatory circuits
+in human. Mol BioSyst 5:854–867
+Sha W, Moore J, Chen K, Lassaletta AD, Yi CS, Tyson JJ, Sible JC
+(2003) Hysteresis drives cell-cycle transitions in Xenopus laevis
+egg extracts. Proc Natl Acad Sci USA 100:975–980
+Shalgi R, Lieber D, Oren M, Pilpel Y (2007) Global and local
+architecture of the mammalian microRNA-transcription factor
+regulatory network. PloS Comput Biol 3:e131
+Shen-Orr SS, Milon R, Mangan S, Alon U (2002) Network motifs in
+the transcriptional regulation network of Escherichia coli. Nat
+Genet 31:64–68
+Shi X, Wang Q, Lu Q (2008) Firing synchronization and temporal
+order in noisy neuronal networks. Cogn Neurodyn 2:195–206
+Shimoni Y, Friedlander G, Hetzroni G, Niv G, Altuvia S, Biham O,
+Margalit H (2007) Regulation of gene expression by small noncoding RNAs: a quantitative view. Mol Syst Biol 3:138
+Stefani G, Slack FJ (2008) Small non-coding RNAs in animal
+development. Nat Rev Mol Cell Biol 9:219–230
+Stelling J, Sauer U, Szallasi Z, Doyle FJ, Doyle J (2004) Robustness
+of cellular functions. Cell 118:675–685
+Tsang J, Zhu J, van Oudenaarden A (2007) MicroRNA-mediated
+feedback and feedforward loops are recurrent network motifs in
+mammals. Mol Cell 26:753–797
+Tyson JJ, Chen KC, Novak B (2003) Sniffers, buzzers, toggles and
+blinkers: dynamics of regulatory and signaling pathways in the
+cell. Curr Opin Cell Biol 15:221–231
+Valencia-Sanchez MA, Liu J, Hannon GJ, Parker R (2006) Control of
+translation and mRNA degradation by miRNAs and siRNAs.
+Genes Dev 20:515–524
+Vilar JMG, Kueh HY, Barkai N, Leibler S (2002) Mechanisms of
+noise-resistance in genetic oscillators. Proc Natl Acad Sci USA
+99:5988–5992
+Visvanathan J, Lee S, Lee B, Lee JW, Lee S-K (2007) The microRNA
+miR-124 antagonizes the anti-neural REST/SCP1 pathway
+during embryonic CNS development. Genes Dev 21:744–749
+Wang S, Raghavachari S (2011) Quantifying negative feedback
+regulation by microRNAs. Phys Biol 8:055002
+
+429
+Wang J, Zhang J, Yuan Z, Zhou T (2007) Noise-induced switches in
+network systems of the genetic toggle switch. BMC Syst Biol
+1:50
+Wang R, Li C, Chen L, Aihara K (2008) Modeling and analyzing
+biological oscillations in molecular networks. Proc IEEE 96:
+1361–1385
+Wang Z, Liu G, Sun Y, Wu H (2009) Robust stability of stochastic
+delayed genetic regulatory networks. Cogn Neurodyn 3:271–280
+Wu H, Liao X, Feng W, Guo S (2012) Mean square stability of
+uncertain stochastic BAM neural networks with interval timevarying delays. Cogn Neurodyn 6:443–458
+Wuchty S, Oltvai ZN, Barabási AL (2003) Evolutionary conservation
+of motif constituents in the yeast protein interaction network. Nat
+Genet 35:176–179
+Xiong W, Ferrell JE (2003) A positive-feedback-based bistable
+‘memory module’ that governs a cell fate decision. Nature
+426:460–465
+Xu D, Papagiannakopoulos T, Pan G, Thomson JA, Kosik KS (2009)
+MicroRNA-145 regulates OCT4, SOX2,and KLF4 and represses
+pluripotency in human embryonic stem cells. Cell 137:647–658
+Yeger-Lotem E, Margalit H (2003) Detection of regulatory circuits by
+integrating the cellular networks of protein–protein interactions
+and transcription regulation. Nucleic Acids Res 31:6053–6061
+Yeger-Lotem E, Sattath S, Kashtan N, Itzkovitz S, Milo R, Pinter RY,
+Alon U, Margalit H (2004) Network motifs in integrated cellular
+networks of transcription-regulation and protein–protein interaction. Proc Natl Acad Sci USA 101:5934–5939
+Yu X, Lin J, Zack DJ, Mendell JT, Qian J (2008) Analysis of
+regulatory network topology reveals functionally distinct classes
+of microRNAs. Nucleic Acids Res 36:6494–6503
+Zhang XP, Zhang C, Liu F, Wang W (2007) Linking fast and slow
+positive feedback loops creates an optimal bistable switch in cell
+signaling. Phys Rev E 76:031924
+Zhao C, Sun G, Li S, Shi Y (2009) A feedback regulatory loop
+involving microRNA-9 and nuclear receptor TLX in neural stem
+cell fate determination. Nat Struct Mol Biol 16:365–371
+Zhdanov VP (2009) Bistability in gene transcription: interplay of
+messenger RNA, protein, and nonprotein coding RNA. BioSystems 95:75–81
+
+123
+
+

@@ -1,0 +1,1723 @@
+British Journal of Clinical
+Pharmacology
+
+DOI:10.1111/bcp.12065
+
+A next step in
+adeno-associated
+virus-mediated gene therapy
+for neurological diseases:
+regulation and targeting
+
+Correspondence
+Liliane Tenenbaum, Laboratory of Cellular
+and Molecular Neurotherapy, Department
+of Clinical Neuroscience. Lausanne
+University Hospital, Switzerland.
+Tel.: +412 1314 1048
+Fax: +412 1314 0824
+E-mail: liliane.tenenbaum@chuv.ch
+-----------------------------------------------------------------------
+
+Keywords
+adeno-associated virus, gene therapy,
+Parkinson’s disease, lysosomal storage
+diseases, leukodystrophies,
+tetracycline-inducible transcription
+-----------------------------------------------------------------------
+
+Received
+
+Abdelwahed Chtarto,1,2 Olivier Bockstael,1,2 Terence Tshibangu,3
+
+9 October 2012
+
+Olivier Dewitte,1,2 Marc Levivier3 & Liliane Tenenbaum3
+
+Accepted
+7 December 2012
+
+1
+
+Laboratory of Experimental Neurosurgery and 2Multidisciplinary Research Institute (I.R.I.B.H.M.), Free
+University of Brussels (ULB), Brussels, Belgium and 3Department of Clinical Neuroscience, CHUV,
+Lausanne, Switzerland
+
+Accepted Article
+Published Online
+18 January 2013
+
+Recombinant adeno-associated virus (rAAV) vectors mediating long term transgene expression are excellent gene therapy tools for
+chronic neurological diseases. While rAAV2 was the first serotype tested in the clinics, more efficient vectors derived from the rh10
+serotype are currently being evaluated and other serotypes are likely to be tested in the near future. In addition, aside from the
+currently used stereotaxy-guided intraparenchymal delivery, new techniques for global brain transduction (by intravenous or
+intra-cerebrospinal injections) are very promising.
+Various strategies for therapeutic gene delivery to the central nervous system have been explored in human clinical trials in the past
+decade. Canavan disease, a genetic disease caused by an enzymatic deficiency, was the first to be approved. Three gene transfer
+paradigms for Parkinson’s disease have been explored: converting L-dopa into dopamine through AADC gene delivery in the putamen;
+synthesizing GABA through GAD gene delivery in the overactive subthalamic nucleus and providing neurotrophic support through
+neurturin gene delivery in the nigro-striatal pathway.
+These pioneer clinical trials demonstrated the safety and tolerability of rAAV delivery in the human brain at moderate doses.
+Therapeutic effects however, were modest, emphasizing the need for higher doses of the therapeutic transgene product which could
+be achieved using more efficient vectors or expression cassettes. This will require re-addressing pharmacological aspects, with attention
+to which cases require either localized and cell-type specific expression or efficient brain-wide transgene expression, and when it is
+necessary to modulate or terminate the administration of transgene product. The ongoing development of targeted and regulated
+rAAV vectors is described.
+
+Introduction
+AAV vectors in the central nervous system
+The isolation of a molecular clone of adeno-associated
+virus (AAV) serotype 2 into the pBR322 plasmid by Samulski et al. in 1982 opened the door for the genetic analysis of
+this virus [1, 2]. The origin of replication, consisting of the
+two 145-nucleotide non-coding extremities (the inverted
+terminal repeats or ITRs) of the viral genome was shown to
+be the only cis-acting element needed for replication and
+encapsidation of the viral DNA and for rescue from plasmids. This discovery enabled the generation of recom© 2013 The Authors
+British Journal of Clinical Pharmacology © 2013 The British Pharmacological Society
+
+binant AAV (rAAV) vectors through the cloning of
+heterologous genes instead of the AAV genes between the
+ITRs. Recombinant viral particles are then produced by
+providing AAV genes and some helper adenoviral genes
+in trans [3–6].
+rAAV vectors are excellent tools in gene therapy for
+treatment of neurological diseases as they transduce postmitotic cells [7–9] that mediate the sustained, long term
+gene expression [10, 11] that is required to treat chronic
+diseases. rAAV serotype 2 was the first discovered serotype
+and is still the best understood but vectors derived
+from several other human or simian serotypes have
+Br J Clin Pharmacol
+
+/ 76:2
+
+/
+
+217–232
+
+/
+
+217
+
+A. Chtarto et al.
+
+demonstrated both a higher efficiency and a wider distribution of transgene expression in the central nervous
+system (CNS) [12–14].
+rAAV vectors have an excellent safety profile [15]. First,
+they elicit only low titre and transient neutralizing antibodies and no inflammation when administered in the brain
+[10, 16]. Given the high seropositivity for AAV in the human
+population, this immune response against rAAV in the
+presence of circulating anti-AAV antibodies [17, 18], is a
+particularly important issue [19]. It has been demonstrated
+recently that after intraparenchymal injections into the
+CNS, transgene expression is unaffected in immuneprimed mice harbouring physiologically-relevant antiAAV2 antibodies levels [20]. Notably, there are significant
+differences in the immune responses towards the different
+AAV serotypes in the human population. In particular,
+healthy donors present lower antibody titres against AAV5,
+AAV8 and AAV9 as compared with AAV2 and AAV1 [21]. In
+one study, however, probably due to the infection of
+antigen-presenting cells in the brain, high titre rAAV9
+encoding non-self proteins elicited a strong cell-mediated
+and humoral immune response accompanied by a prominent inflammation [22]. Therefore, when using rAAV9
+encoding non-human proteins (such as engineered
+transasctivators; see below), the immune and inflammatory responses should be carefully evaluated. In addition,
+caution should be taken when interpreting data of rAAV9mediated transfer of human cDNAs in animal models.
+Another risk, albeit a rare one, is vector DNA integration, a rare event resulting in a low risk of inadvertent oncogene activation [23]. Despite the increasing number of
+long term studies in rodents and non-human primates,
+none has reported a deleterious DNA integration event in
+the brain [24]. In fact, increased tumour rates, clearly
+related to the vector, have only been evidenced in a particular tumour prone model in the liver after a partial hepatectomy, both of which conditions artificially increase cell
+proliferation and DNA rearrangements [25].
+After intraparenchymal delivery, rAAV vectors target
+mainly neurons in addition to a low percentage of glial
+cells depending on the transcriptional regulatory elements [26, 27], the region [28, 29], the serotype [30] and the
+mode of delivery [31–34]. In a recent report, though, in
+striking contrast with previous studies [14, 34, 35], rAAV9
+intrastriatal delivery has been shown to mediate transgene
+expression equally efficiently in astrocytes and neurons
+[22]. It should be noted, however, that the volume of virus
+injected by Ciesielska et al. (i.e. 10 ml) was 5-fold higher and
+the infusion speed 2.5-fold higher than in the other
+studies, conditions which might affect the transduction
+pattern [36].
+The advent of new techniques for global brain transduction has opened new doors for the treatment of CNS
+diseases. These consist of injecting the virus intravenously
+exploiting the trans-blood-brain barrier delivery of rAAV9
+[31, 32, 37, 38] or injecting it into the cerebrospinal fluid
+218
+
+/ 76:2
+
+/
+
+Br J Clin Pharmacol
+
+(CSF) via the cisterna magna [39]. With these new delivery
+modes, however, the immune and inflammatory responses
+to the vectors need to be revisited. In particular, it has been
+reported that even a low neutralizing antibody titre in the
+blood of non-human primates abrogated transduction
+after intravenous delivery of rAAV9 [40]. Infusion of rAAV9
+into the CSF via the cisterna magna led to dramatically
+stronger expression of the transgene and a wider distribution of gene transfer throughout the brain but, as with
+intravenous injection, a significant pre-existing anti-AAV
+antibody titre abrogated brain transduction [33].
+
+Gene therapy clinical trials in the CNS
+with AAV
+Various strategies for therapeutic gene delivery to the CNS
+have been explored in pre-clinical studies and in the past
+decade in human clinical trials. We will only illustrate the
+main strategies which have reached the clinics. More
+extensive reviews on rAAV-mediated gene transfer in the
+CNS have been published recently [9, 16, 41].
+Canavan disease (CD), is a leukodystrophy caused by
+genetic mutations of the aspartoacylase (ASPA) gene, a
+metabolic enzyme restricted in the CNS to oligodendrocytes and it was the first disorder to be approved for AAV
+gene therapy in the CNS [42, 43]. ASPA deficiency results
+in accumulation of N-acetyl-aspartate in oligodendrocytes and subsequent hypomyelination/dysmyelination.
+Although the first clinical trial testing rAAV therapy on CD
+demonstrated no therapeutic effect, it did demonstrate
+the safety and tolerability of rAAV2 vectors delivery to the
+brain. In a subset (3/10) of CD subjects, low to moderate
+levels of AAV neutralizing antibody with respect to baseline but, no increased inflammation or cellular immune
+response were reported [44]. These data suggest that, at
+the dose used (1 ¥ 1012 vector genomes (vg) per patient)
+and with intraparenchymal administration, the approach is
+relatively safe. Potential explanations for the lack of therapeutic effect are the low efficiency and restricted distribution of rAAV2-mediated transgene expression and the
+absence of transgene expression in oligodendrocytes. Correction of lysosomal enzyme deficiencies has also generated promising data [45].
+Late infantile neuronal ceroid lipofuscinoses (Batten
+disease) is an autosomal recessive lysosomal storage disorder that results in progressive neurological degeneration. The disease is caused by mutations in the CLN2 gene
+encoding a lysosomal tripeptidyl-peptidase whose deficiency causes accumulation of proteins in lysosomes of
+neurons leading to neuronal cell death. A rAAV2 vector
+expressing the human CLN2 cDNA was administered to 12
+locations in the CNS of 10 children, enrolled in a phase I
+clinical trial for Batten disease. Although this trial was not
+double-blind and randomized, the data suggested, on the
+basis of a neurologic rating scale, that the rate of decline
+was significantly reduced in treated patients [46]. On the
+basis of promising preclinical studies [47], another clinical
+
+Pharmacology of AAV-mediated gene therapy in the CNS
+
+trial using the more efficient AAVrh10 serotype has been
+launched (http://www.abedia.com/wiley/record_detail.
+php?ID=1717).
+Mucopolysaccharidosis type III (MPSIII), a disorder
+caused by the absence of one of the lysosomal enzymes
+required for the degradation of heparan sulfate (HS)
+which results in the accumulation of heparan sulfate
+oligosaccharides (HSOs), is also an interesting target
+for rAAV-mediated gene therapy. In MPSIIIB, a-Nacetylglucosaminidase (NaGlu) deficiency in particular is
+responsible for progressive mental neurodegeneration.
+Intracerebral stereotactic injections of AAV5 vectors
+coding for the missing enzyme reversed alterations of HS
+degradation, corrected pathology in neuronal cells and
+prevented neuroinflammation at the organ level in animal
+models [48]. Recently, a clinical trial using a rAAVrh10
+vector has been launched for MPSIIIA, a deficiency in
+heparan-N-sulfamidase (http://www.abedia.com/wiley/
+record_detail.php?ID=318).
+Parkinson’s disease (PD) is also a good candidate for
+gene therapy since the main symptoms are caused by the
+progressive degeneration of a specific neuron population,
+the nigro-striatal dopaminergic (DA) neurons, located in a
+precise brain area, leading to the cardinal motor symptoms, bradykinesia, rigidity and tremor. Thanks to the discovery of the important role of dopamine depletion in PD,
+a breakthrough in the pharmacological treatment of PD
+was made in the 1960s, in the form of the oral administration of L-dopa, the precursor to dopamine [49]. Exogenous
+L-dopa is taken up into the remaining functional DA
+neurons where it is converted into dopamine by aromatic
+acid decarboxylase (AADC). With the ongoing loss of
+DA neurons, though, the uptake of extracellular L-dopa
+declines and increasing doses of L-dopa need to be administered leading to important fluctuations (e.g. peak dose
+dyskinesias). Continuous delivery of L-dopa directly to the
+striatum via gene therapy could be a significant improvement because L-dopa would reach only the clinically relevant target area [50]. A rAAV2 vector expressing AADC has
+been injected into the putamen of patients with PD in an
+attempt to reduce and stabilize the L-dopa dose necessary
+to alleviate the symptoms [51].This combined treatment is
+predicted to provide more stable dopamine concentrations in the long term than oral L-dopa treatment alone
+since AAV2-hAADC therapy results in expression of AADC
+in non-degenerating putaminal neurons [52], in contrast
+to nigral neurons that express endogenous AADC. Ten
+patients received bilateral intraputaminal infusions of two
+different doses of rAAV2-AADC (9 ¥ 1010 and 3 ¥ 1011 vg).
+Data based on PET imaging using an AADC-specific tracer
+[51], fluoro-L-tyrosine [53], demonstrated stable transgene
+expression over 4 years confirming the preclinical data on
+the longevity of rAAV-mediated transgene expression [11].
+This clinical trial further confirmed the safety and tolerability of rAAV intracerebral administration [54] but emphasized the need for a higher vector dose. The data showed
+
+dose-dependent improvements but even in the high dose
+group in which the Unified Parkinson’s disease Rating
+Scale (UPDRS) improved in all patients in the first 12
+months, a slow deterioration was observed in subsequent
+years [53].
+The motor abnormalities in PD are due to the overactivity of major output nuclei of the motor loop caused by
+the lack of dopamine in the striatum. Controlled inhibition
+of these excessively active nuclei can restore a normalized
+output to the cortex. Consistently, inhibiting the activity of
+the subthalamic nucleus (STN) by implanting adjustable
+electrodes provided impressive and immediate reversal of
+symptoms [55]. Using a similar paradigm, a rAAV2 vector
+expressing glutamic acid decarboxylase, the enzyme that
+synthesizes the inhibitory neurotransmitter GABA was
+injected in the STN. In preclinical studies, the vector transduced excitatory glutamatergic neurons which became
+inhibitory, thereby reducing the STN activity [56]. A phase I
+clinical trial demonstrated safety and tolerability of rAAV2
+injections into the STN. Furthermore, 10 of 12 patients
+showed improvements in UPDRS at 12 months [57]. A subsequent double-blind sham-surgery controlled trial involving 16 patients injected with AAV2-GAD and 21 receiving
+control sham-surgery, confirmed the UPDRS improvements [58]. In this study, in which 23 controls and 22
+treated patients were originally enrolled, in order to reinforce the statistical relevance of the data, the authors
+excluded from the analysis, the individuals for which identified technical failures occurred during the surgery.
+However effective, these therapeutic strategies might be,
+though, they are only compensatory and are not expected
+to interfere with DA neuron cell death.
+Providing neurotrophic support might constitute the
+first disease-interfering approach for PD. Glial cell linederived neurotrophic factor (GDNF) and its analogue neurturin (NTN) were shown to protect, and even in some
+instances, restore DA neurons in most animal models
+(with the exception of alpha-synuclein overexpression
+[59]. Viral vectors expressing GDNF or NTN have been
+delivered in the striatum (Str) and the substantia nigra
+(SN) individually, and in both concurrently. SN injections
+were efficiently protecting DA cell bodies but did not
+reverse motor symptoms due to the absence of enhanced
+striatal DA re-innervation [60–62]. In contrast, striatal
+injections protected both terminals and cell bodies and
+improved symptoms [61, 63, 64]. The fact that GDNF can
+be retrogradely transported from the striatum to the substantia nigra pars compacta [65] provides an interpretation for this observation.
+A rAAV2 vector expressing NTN is currently being
+evaluated in phase II clinical trials [66]. In a first trial, the
+virus was injected in the putamen (5.4 ¥ 1011 vg per
+patient). At 12 months post-surgery, no statistical improvement in the UPDRS parameters could be established but in
+a subset of patients reaching 18 months post-surgery,
+several parameters were significantly improved [67, 68].For
+Br J Clin Pharmacol
+
+/ 76:2
+
+/
+
+219
+
+A. Chtarto et al.
+
+two patients, post-mortem analysis revealed that NTN
+covered approximately 15% of the putamen. Contrary to
+data obtained with similar amounts of virus in monkey,
+though, very few NTN-positive cells were detected in the
+SN of the treated patients, suggesting a poor retrograde
+transport of NTN [69]. It should be noted that the enrolled
+patients were at a late stage of PD and that virus quantities
+were very limited for safety reasons. A second clinical trial
+has been launched using both putamen and SN as delivery
+areas (as in Kordower’s pioneer study, [63]) as well as a
+higher virus dose (2.4 ¥ 1012 vg per patient). Several
+preclinical [70–72] studies have described adverse effects
+related to uncontrolled dosage and off-target delivery of
+GDNF. In addition, a clinical trial using minipumps to
+deliver recombinant GDNF protein in patients’ brain
+was interrupted due to the appearance of antibodies
+directed against GDNF [73]. Although none of these
+adverse effects have beed described so far in the AAV2NTN gene therapy clinical trials, these observations raised
+the issue of the pharmacological aspects of rAAVmediated gene delivery.
+A variety of vectors are being designed and continuously improved to adapt to the needs of these very
+diverse situations. In some cases, localized (e.g. GDNF)
+and cell-type specific (e.g. GAD) expression is required
+whereas in cases like MPSIII, brain-wide and efficient
+transgene expression is a prerequisite to success. In some
+cases, such as the correction of enzymatic deficiencies,
+maximizing transgene expression is the ultimate goal
+whereas in other cases, such as with many neuroprotective strategies, it will be necessary to regulate transgene
+expression in order to adapt the dose of the transgene
+product to the patient’s needs and eventually terminate
+the treatment. The on-going development of better targeted and better regulated rAAV vectors is described in
+the following sections.
+
+Regulation of transgene expression
+Several authors have reviewed the characteristics of an
+adequate system to regulate gene expression by exogenous drugs [41, 74–76]. An ideal regulatory system should
+harbour (i) a low basal activity in the uninduced state, (ii) a
+high and inducer dose-dependent level of transgene
+expression in the induced state, (iii) a rapid response to the
+administration or removal of the inducer, (iv) a negligible
+toxicity, inflammatory response or immunogenicity associated with the regulatory elements and (v) absence of toxicity and good bioavailability of the inducing drug. The
+latter depends on the target organ and mode of administration of the drug. In this section, we will only review regulatable systems used to control gene expression into the
+brain using rAAV vectors.
+The constrained rAAV cloning capacity (~4.5 kb) limits
+the choice of regulatable systems. Drug-regulatable
+220
+
+/ 76:2
+
+/
+
+Br J Clin Pharmacol
+
+genetic systems usually comprise two elements: (i) an
+inducible/repressible transcriptional promoter driving
+the expression of the transgene and (ii) a geneticallyengineered transactivator composed of a DNA-binding
+domain recognizing this promoter and interacting with
+the inducer, and an activator domain interacting with the
+cellular transcriptional machinery. Using two rAAV vectors
+to incorporate these two components separately requires
+that each cell is infected by both vectors at an optimal
+stoichiometry which is difficult to achieve in vivo [77, 78].
+This has implications for the efficiency of transgene
+expression as the number of vector genomes rapidly
+decreases with distance from the injection site [26, 79].
+Consistently the area covered by GDNF was considerably
+smaller despite a high vector dose (4.12 ¥ 1010 vg) when
+using a dual-component regulated rAAV [78] compared
+with a single regulatable vector [72, 80].
+The Tet-system (Figure 1) is the most widely used technology for drug-dependent regulation of gene expression
+in eukaryotes. Since its conception by Gossen & Bujard in
+1992 [81], various improvements have been made to the
+different components of the Tet-system.The Tet-Off system
+(Figure 1A), the first developed Tet-regulatable version,
+utilizes the Escherichia coli tetracycline-repressor (TetR)
+protein fused to the activation domain of the herpes
+simplex virus type 1 (HSV1) VP16 transcription factor [81].
+Being derived from a non-modified form of the TetR
+natural repressor, the Tet-Off system allows inhibition of
+transgene expression at a low inducer dose and has a low
+level of transgene expression in the non-induced state [72,
+82]. However, the induction of expression in vivo is often
+slow and asynchronous because it requires complete
+removal of the inducer which depends on its half-life in the
+target organ [82–85].The half-life of elimination of doxycycline (Dox), a tetracycline analogue widely used to control
+the Tet-system, is about 3 days [86]. Improvements made to
+the Tet-Off transactivator were focused on the VP16 activation domain to reduce its toxicity due to sequestering of
+transcriptional cellular factors [87].
+A reverse transactivator (rtTA) which, unlike the Tet-Off
+system, responds to the presence of Dox by activating
+transgene expression [88] has been obtained by modification of four amino acids of the TetR domain by random
+mutagenesis, resulting in a ‘Tet-On’ version of the Tetsystem (Figure 1B). Modifications focused on the rtTA to
+increase its performance involve introduction of a nuclear
+localization signal [89, 90], codon usage optimization
+[91–93], removal of potential splice sites [91] and mutated
+activation domains [87, 91]. The most significant advances,
+however, came from the use of molecular evolution to
+identify improved rtTA mutants [94, 95].
+Optimization of the cis-acting Tet-responsive promoter
+could also improve the Tet-system. Several modifications
+successfully reduced the basal activity of the Tet promoter [96–99]. Usually, though, the decrease of the basal
+activity similarly affected the induced level of transgene
+
+Pharmacology of AAV-mediated gene therapy in the CNS
+
+Figure 1
+A) Tet-Off system: in the absence of doxycycline the tTA transactivator
+binds to the tetO (tet operator) repeated sequence and activates transcription from the minimal promoter (PhCMVmini) of human cytomegalovirus (hCMV). B) Tet-On system: in the presence of doxycycline the rtTA
+transactivator binds to the tetO repeated sequence and activates transcription from the minimal PhCMVmini promoter. Ptet is a fusion of seven
+repeated tetO sequence (7 ¥ 42 pbs) and the PhCMVmini. The PhCMVmini. corresponds to the hCMV promoter without its enhancers sites. The (reverse)
+transactivator (r) tTA is composed of the (reverse) Tetracycline Repressor
+((r)TetR) of the Tn10 tetracycline resistance operon of Escherichia coli and
+a portion of herpes simplex virus (HSV) protein 16 that functions as a
+potent activator of transcription
+
+expression. Interestingly, the latest developed Tetpromoter resulted in a low basal activity level while retaining a high activation potential [99].
+Tet-regulatable rAAV vectors with different designs
+have been proposed, in order to avoid interference with
+the transcriptional activity of the AAV ITR [100] and/or with
+the promoter used to express the Tet-transactivator [72,
+101–105]. The size of the tetracycline-responsive cis elements and transactivator (2.1 kb) allows the inclusion of
+many therapeutic and reporter genes with a size up to
+
+2.4 kb. Single vectors carrying the entire Tet-Off cassette
+have been used to regulate GFP [103–105] and GDNF [72]
+in healthy rat brain. In the latter case, an adverse effect of
+GDNF, weight loss, was shown to be tightly regulated by
+Dox [72]. Manfredsson and collaborators reported that the
+minimal Dox doses required to abrogate GDNF expression
+was 40 mg Dox kg-1 diet (corresponding to 2.4 mg kg-1) in
+SN and 100 mg Dox kg-1 diet (corresponding to 6 mg kg-1)
+in the striatum. The corresponding Dox serum concentrations were at least 8-fold lower than concentrations
+required for antimicrobial activity [106] and similar to
+those currently used as an anti-inflammatory drug to treat
+rosacea [107], suggesting that clinically-acceptable Dox
+doses could be useful to regulate GDNF transgene expression in clinical trials.
+Single rAAV using the Tet-On system were also
+described [101, 108]. Using the rtTA2(S)M2 mutant developed by Urlinger, the quantity of Dox given to rats to
+achieve a biological effect was 600 mg ml-1 in drinking
+water, equivalent to 70 mg kg-1 for the GDNF transgene
+[80, 108] (Figure 2) and 3 mg kg-1 for miRNA expression
+[101].
+The constant administration of antibiotics could lead to
+complications such as increased tolerance to tetracyclines
+or toxicity. Therefore, in order to minimize the period of
+treatment, the choice of an adequate version of the Tetbased system, will rely on the disease to be treated and the
+therapeutic strategy.
+Due to the blood–brain barrier (BBB), the effective
+inducer dose required for the biological effect of a transgene delivered into the brain is less feasible than for one
+delivered to the peripheral organs. To overcome this difficulty, attempts have been made to optimize the genetic
+components of the Tet system or to modify the transactivator to interact with inducers having better pharmacokinetic properties (in particular, crossing the BBB more
+efficiently). The identification of alternative Tet system
+inducers could (i) provide a better control of gene expression, (ii) avoid the effect of long term exposure to tetracyclines, i.e. selection of resistant bacteria and destabilization
+of bowel flora [109] toxicity including phototoxicity and
+accumulation in bones [110, 111] and (iii) improve bioavailability in the brain thanks to more efficient passage
+through the BBB. Besides Dox, other tetracyclines are able
+to induce the tTA and rtTA. Methacycline [112], has an
+induction potency similar to Dox with a shorter half-life
+[113] which is an advantage for faster clearance. Minocycline is also a good inducer for the tTA and some versions
+of the rtTA [112, 114] and furthermore has the advantage
+of being anti-inflammatory in the brain [115, 116].
+4-epidoxycycline, a Dox metabolite without antibiotic
+activity which can induce the Tet-system [117] could also
+be an alternative. Chemically-modified tetracyclines (CMT)
+devoid of antibiotic activity [110] are also interesting but
+are not Tet-system inducers. Other inducers showing a
+higher affinity for rtTA2(S)M2 [91] than Dox on the basis of
+Br J Clin Pharmacol
+
+/ 76:2
+
+/
+
+221
+
+A. Chtarto et al.
+
+Figure 2
+Regulation of GDNF transgene expression mediated by a single AAVTet-On tetracycline-inducible vector in the striatum in a partial rat model
+of PD. A single injection of rAAV2/1-Tet-On-GDNF (3.5 ¥ 108 vg/rat) was
+performed in the rat striatum. One month later, a four injection site
+6-hydroxydopamine lesion [61] was performed. Animals were continuously treated with doxycycline (A) (600 mg l-1 in drinking water) or
+remained untreated (B) and were sacrified 1 month post-lesioning. Ten
+microns coronal sections were labelled with anti-GDNF antibodies using
+a peroxidase staining method [108]
+
+structural analysis while keeping the ability of Dox to cross
+the BBB have been discovered [118]. Finally, an alternative
+strategy to stop transgene expression mediated by Tetinducible vectors rapidly when the inducer’s half-life is a
+limiting factor, is GR 33076X [119] a tetracycline antagonist
+able to bind competitively to the Tet transactivator.
+Notably, GR 33076X is not antibiotic and is less toxic than
+other tetracyclines [119, 120].
+The main disadvantage of the Tet system currently limiting its clinical use is the immune response elicited by the
+Tet transactivator. Indeed, after intramuscular delivery by
+plasmid-, adenovirus- [121] or AAV-mediated expression
+[122, 123] into non-human primates, a rapid loss of transgene expression correlating with a cellular immune
+response has been described. However, the immune reactions in the brain, an immune-privileged site, could be
+substantially less efficient than those in other organs [124–
+222
+
+/ 76:2
+
+/
+
+Br J Clin Pharmacol
+
+126]. Indeed, tTA [127] and rtTA2(S)M2 do not elicit a striatal immune response even when rats are pre-immunized
+[124]. However, the rodent immune system does not correlate directly with that of humans and the vast majority
+of the human population (60%) has been exposed to
+the herpes simplex virus [128]. They may thus have circulating antibodies against the VP16 portion of the tTA/rtTA,
+which could block transgene expression. The use of
+immunologically-humanized mice could help predict the
+immune response to the Tet transactivator in patients.
+Attempts to replace the viral VP16-derived activator
+domain by the human p65 activation domain of the NFkB
+complex, could help reducing the immunogenicity of the
+Tet transactivator [129]. In this respect, the use of autoregulatory vectors avoiding permanent expression of Tettransactivators constitutes an improvement [102, 103, 130].
+Epitope analysis and subsequent predictive design of new
+less immunogenic transactivators could help to minimize
+the deleterious effect of pre-existing HSV-1 seropositivity.
+Another drug-inducible framework proposed for regulation of AAV-mediated transgene expression in the brain
+is the rapamycin-inducible system [131]. However, until
+now this dual-vector system provides transgene expression levels that are much lower than constitutive promoters [78].
+Methods to regulate transgene products posttranscriptionally have also been proposed. Although still in
+their infancy, it is worth citing: the regulation of protein
+stability through the binding of a small ligand, trimethoprim, to a destabilizing domain [132].
+
+Cell type specificity
+Numerous AAV capsid variants, either naturally occuring
+(serotypes) or laboratory-engineered (by random mutagenesis or rationally-designed modifications), have been
+described [46, 47, 133–142]. Capsid motifs are the key
+players in the interaction between viral particles and host
+cells mediating primary receptor attachment, secondary
+receptor-mediated cell entry and genome delivery to the
+nucleus, and as such, rAAV capsid variants are expected to
+differ in their cellular tropism. Interestingly, the variability
+between different serotypes is not evenly distributed
+along the capsid protein sequence but is higher in the
+domains that are displayed at the surface [143]. Thanks to
+the technology for trans-encapsidation of rAAV2 genomes
+into other serotype capsids [144], comparison between
+capsids without interferences due to the viral genome is
+possible.
+Numerous comparisons between serotypes were performed in the CNS of mice [13, 14, 145], rats [12, 34, 146],
+cats [147] and non-human primates [148, 149]. The majority of the tested serotypes or variants tested in rodents,
+mediate transgene expression mainly in neurons with the
+exception of AAVrh43 and rAAV4 which transduce glial
+cells [150] and ependymal cells [145] respectively, when
+injected in the striatum. In contrast, in monkeys a high
+
+Pharmacology of AAV-mediated gene therapy in the CNS
+
+proportion of reporter gene positive glial cells were
+observed with rAAV5 [148] and rAAV1 [151].
+In addition, different AAV serotypes transduce different
+neuronal subtypes. For example, in the rat hippocampus,
+rAAV2 targets dendate gyrus neurons whereas rAAV1 and
+5 are more efficient in pyramidal neurons [12]. In the rat SN,
+rAAV2 mediates transgene expression exclusively in SN
+pars compacta [152] while rAAV1 and rAAV5 transduce
+pars compacta and pars reticulata with similar efficiency
+[12]. Interestingly, the bb2 serotype transduces only
+medium spiny neurons in the rat striatum [150].
+Other factors affecting rAAV cellular specificity include
+the promoter, the age of the animals and the purity of the
+viral preparation. For example, rAAV8 using constitutive
+promoters almost exclusively mediates neuronal expression in the adult brain. However, contaminants present in
+the stocks affected the virus’ tropism resulting in a low
+propostion of astrocytes [34]. The mode of delivery can
+also determine the cell-type specificity of rAAV-mediated
+transgene expression. When injected in the brain parenchyma, rAAV9 directs transgene expression mainly in
+neurons [14, 34]. In contrast, intravascular rAAV9 delivery
+results in a variable percentage of astrocytes expressing
+the transgene depending on the age of the animal, the
+species and the structure of the rAAV genome. Indeed,
+when injected in the facial vein of new born and adult
+C57Bl/6 mice, respectively, mainly neurons or astrocytes
+expressed the transgene [31]. In addition, Gray et al.
+[38] reported that self-complementary AAV9 (a doublestranded form of AAV genome generated using a mutant
+ITR; see below) injected in the tail vein of adult BALB/c mice
+transduced twice as many neurons as astrocytes. This discrepancy might be explained by the injection site, the mice
+species or the genomic structure. Gray et al. further demonstrated that traditional single-stranded rAAVs were
+far less efficient than self-complementary vectors. Finally,
+when the same vector was injected in the saphenous vein
+of non-human primates they observed a mainly astrocytic transduction [38]. Neuronal transduction was also
+reported by Duque et al. in the spinal cord of adult mice
+after intravenous injection of self-complementary AAV9 in
+the temporal vein [32].
+Differential rAAV cell-type specificity between fetal and
+adult brain was also reported. In rat fetal midbrain striatal
+grafts, rAAV1 allowed massive transduction of DA neurons
+whereas rAAV2 exclusively transduced non-DA neurons
+(Figure 3) contrasting with rAAV2 tropism for adult midbrain DA neurons [152]. Similarly, rAAV1 but not rAAV5
+encapsulating the same viral genome transduced fetal striatal neurons, whereas both very efficiently transduced
+adult striatum [153]. Interestingly, enhanced glial gene
+delivery in the brain has been obtained by selecting AAV
+capsid variants through molecular evolution [154].
+In order to restrict transgene expression in target cell
+populations, different cell type-specific promoters were
+tested. For example, using rAAV2, the neuron-specific
+
+enolase promoter mediated restricted expression into
+neurons [10] whereas with the cytomegalovirus (pCMV)
+promoter, a small proportion of astrocytes also expressed
+the reporter gene. Similar results were obtained with the
+human synapsin I promoter (phSYN) [155]. As expected,
+the tyrosine hydroxylase promoter allowed transgene
+expression restricted to DA neurons [156]. An elegant
+study using rAAV5-encapsidated bicistronic vectors
+comprising one expression cassette using a promoter
+sequence derived from the murine CMV (pmCMV) and
+another under the control of phSYN showed that pmCMV
+drives expression in cells located in the striosomes (possibly oligodendrocytes) whereas phSYN-driven expression
+was strictly neuronal [157]. In an experiment using rAAV8
+and rAAVrh43 in combination with the GFAP astrocytic
+promoter, or the myelin basic protein (MBP) promoter
+active in oligodendrocytes Lawlor et al. observed an
+expression restricted to astrocytes with GFAP promoter
+with both serotypes. With MBP promoter, in contrast, they
+observed reporter gene expression mostly in oligodendrocytes with rAAV8 and in both astrocytes and oligodendrocytes with rAAVrh43. Surprisingly, when rAAVrh43 pMBP
+was injected into the hippocampus, a weak expression of
+the reporter gene was only observed in a subpopulation of
+dentate gyrus neurons [150] indicating the necessity to
+take into account cell-specific promoters and capsid variants for targeting.
+Viral or composite promoters thought to be ubiquituous can also affect the cell-type specificity of rAAVmediated transgene expression. We showed that rAAV1
+mediated differential specificities of transgene expression
+depending on whether the expression is driven by a pCMV
+promoter or a by Tet-ON cassette [26]. For example, in the
+midbrain, transgene expression was restricted to the DA
+regions (SNpc and VTA) with the Tet-On system but was
+widespread in the midbrain with pCMV. Promoter-related
+differential transduction has also been demonstrated in a
+functional assay. In an epilepsy model, rAAV2 vectors
+expressing a NMDA receptor-1 (NR1) antisense under the
+control of pCMV and Tet-Off promoters caused an increase
+in seizures while pCMV-driven NR1 antisense expression
+lead to a significant reduction in seizures. Co-infusing
+these two vectors, each expressing a different reporter
+gene, demonstrated that they specify gene expression into
+different neuronal populations [130].
+Intravascularly-administered rAAV6, rAAV8 and rAAV9
+[58] are able to deliver genes to the brain. However, using
+this delivery mode, transgene expression is dramatically
+more efficient in the liver, spleen and heart than in the
+brain [158]. In order to restrict transgene expression to the
+CNS, Gao successfully repressed rAAV9 expression outside
+the CNS using a tissue-specific miRNA [159].
+Another limiting step in rAAV-mediated gene delivery
+is the conversion of the single-stranded viral DNA into a
+transcriptionally-active double-strand DNA. The synthesis
+of the second strand complementary to the viral DNA is
+Br J Clin Pharmacol
+
+/ 76:2
+
+/
+
+223
+
+A. Chtarto et al.
+
+mediated by cellular factors which are present in limiting
+concentrations depending on the cell type [79, 160]).Based
+on the discovery that (+) and (–) strand forms of AAV DNA
+are generated during the viral vector production [161], it
+has been proposed that when the genome copy number
+in a single cell is high enough, annealing of a sense
+sequence and an antisense sequence can occur. Based on
+the presence of dimeric head to head replicative forms,
+McCarty et al. [162] have introduced a mutation within one
+of the ITRs which forces the encapsulation of dimers rather
+than monomers The two head-to-head halves of vector
+genomes called ‘self-complementary’ (scAAV) can anneal
+and form a double-strand mediating faster and more efficient transgene expression in the brain [163]. It should be
+noted that, due to limited packaging capacity, the maximal
+genome size of scAAV is reduced by half compared with
+conventional vectors. ScAAV2 and scAAV1injected in
+the brain parenchyma mediate a faster onset of- and a
+stronger transgene expression than AAV2 but do not seem
+to alter the cellular tropism [39, 164]. Similarly, scAAV9
+injected intravenously in the mice shows an efficacy similar
+to a 20-fold higher dose of AAV9 [38].
+
+Conclusions
+Various strategies for therapeutic gene delivery to the CNS
+have been explored. Aside from correction of recessive
+genetic defects [29, 45, 165] or gene silencing through RNA
+interference in autosomal dominant diseases [77, 166],
+gene transfer paradigms for diseases not having a clearly
+identified genetic origin have been explored. Interestingly,
+three different gene therapy approaches for sporadic PD
+have entered the clinics: converting L-dopa into dopamine
+through AADC gene delivery in the putamen [53], synthesizing GABA through GAD gene delivery in the subthalamic nucleus [57] and providing neurotrophic support
+through neurturin gene delivery in the nigro-striatal
+pathway [67]. It is worth citing another clinical trial for
+Parkinson’s disease using a lentiviral vector which, like
+the AAV2-AADC gene therapy, encodes enzymes of the
+dopamine biosynthetic pathway. However, taking advantage of the larger cloning capacity of lentiviral vectors as
+compared with rAAV vectors, the three main enzymes
+required to achieve dopamine biosynthesis from tyrosine,
+i.e tyrosine hydroxylase, aromatic-L-acid decarboxylase
+(AADC) and GTP-cyclohydrolase I could be encoded in a
+single vector [167]. A clinical trial in which this vector is
+injected in the patients’ putamen is ongoing (http://
+www.abedia.com/wiley/record_detail.php?ID=310).
+In some cases, localized and cell-type specific expression is required.For example, the success of the rAAV2-GAD
+paradigm relies on the targeting of STN excitatory neurons
+to turn them into inhibitory neurons. In addition, off-target
+delivery might result in side effects. A clear demonstration
+was provided by Haberman & McCown showing that trans224
+
+/ 76:2
+
+/
+
+Br J Clin Pharmacol
+
+ferring a NMDA receptor antisense in different types of
+neurons may result in opposite behavioural effects [130].
+Rationally-based targeting can be achieved by capsid
+engineering [46, 154] or miRNA restricted-transgene
+expression [159]. In the case of motoneuron diseases, targeting can also be achieved through retrograde delivery
+[79, 168].
+In other cases, in particular for enzymatic deficiencies,
+global and efficient transgene expression is a prerequisite
+to success. However, though global brain transduction is
+searched, cell-type specificity might still be a limitation. In
+leukodystrophies, for example, the missing enzyme must
+be supplied to oligodendrocytes [29]. Since the majority of
+gene therapy vectors, including rAAVs, transduce mostly
+neurons after intraparenchymal delivery in most brain
+regions [12, 13, 34, 155, 169], the derivation of vectors efficiently targeting oligodendrocytes is still a challenging
+issue. Interestingly, in regions that do not harbor neurons,
+such as the internal capsule or corpus callosum, glial cells
+are readily transduced [27–29]. In addition, in a region of
+active neurogenesis, the subventricular zone, immature
+neuronal and glial progenitors at different developmental
+stages were also transduced after local rAAV1 delivery
+[164]. On the other hand, intravenous or intra-CSF delivery,
+results in astrocytic in addition to neuronal transduction
+[31, 32, 41]. A small degree of co-labelling between GFP
+and Olig1 (an marker for oligodendrocytes) is also mentioned in the last study [41]. In contrast, in none of these
+reports were microglia transduced.
+Pioneer clinical trials have established the safety and
+tolerability of rAAV2 delivery in the human brain at moderate doses. Therapeutic effects however, were modest,
+emphasizing the need for more efficient vectors and/or
+higher doses. More recently, clinical trials using AAVrh10
+vectors for Batten disease (http://www.abedia.com/wiley/
+record_detail.php?ID=1717) and MPSIIIA (http://www.
+abedia.com/wiley/record_detail.php?ID=318) have been
+launched.Vectors deriving from other serotypes mediating
+efficient and widespread transgene expression are likely to
+be tested in patients in the near future. In addition, aside
+from the currently used stereotaxy-guided intraparenchymal delivery [170], new techniques for global brain transduction (by intravenous or intra-CSF injections) are very
+promising [31, 32, 37, 39, 171].These new vectors and delivery routes will require re-addressing the pharmacological
+aspects of rAAV-mediated gene transfer.
+Adverse effects of uncontrolled or off-target delivery of
+neurotrophic factors have been described [41, 71, 73, 172].
+With the launching of clinical trials for neuroprotective
+gene therapy with increasing vector doses [66], regulation
+of transgene expression will likely be required to avoid
+adverse events and, if necessary, terminate the treatment.
+Among the regulatable systems, the Tet-system is the most
+widely used and the best-developed [41]. However, important issues remain to be solved. First, immune reactions to
+the VP16 portion of the Tet transactivator deriving from
+
+Pharmacology of AAV-mediated gene therapy in the CNS
+
+rAAV2/1
+
+approved dose for patients. The remaining challenges
+will be to characterize and eventually circumvent the
+immune reaction to the Tet transactivator as well as to
+obtain inducer-transactivator interactors fulfilling clinical
+requirements.
+
+rAAV2/2
+
+GFP/TH
+
+Competing Interests
+
+X10
+
+X10
+
+X40
+
+X40
+
+All authors have completed the Unified Competing Interest form at http://www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and
+declare no support from any organization for the submitted work; no financial relationships with any organizations
+that might have an interest in the submitted work in the
+previous 3 years and no other relationships or activities
+that could appear to have influenced the submitted work.
+The data for Figures 2 and 3 were generated by Catherine Pythoud and Enni Lehtonen respectively.
+We thank Caleb McEntire for reading and proof reading
+the manuscript.
+This work was supported by FNS Grant n°
+31003A_127177 to ML and LT and by a grant from Association Française des Myopahties to LT and AC. TT was supported by the Leonardo Mobility Fellowship (European
+Commission Lifelong Learning Program).
+
+REFERENCES
+Figure 3
+Differential cellular tropism of rAAV2/1 and rAAV2/2-mediated gene
+transfer into fetal ventral mesencephalon grafted in adult rat striatum.
+The ventral mesencephali (VM) from 14-day-old embryos were dissected
+out and infected with rAAV vectors expressing eGFP reporter gene under
+the control of CMV promoter, trans-encapsidated into AAV1 (rAAV1pCMV-eGFP) or AAV2 (rAAV2/2-pCMV-eGFP) capsids. Immediately after
+infection, VMs were dissociated into individual cells and animals were
+stereotactically infused into the right striatum with a cell suspension corresponding from the half of a VM per rat, as previously described [173].
+Four weeks post-transplantation, animals were sacrificed and 40-mm
+coronal brain sections were labelled using polyclonal rabbit anti-GFP
+antibodies (green fluorescence) and monoclonal anti-tyrosine hydroxylase antibodies (red fluorescence). Double-labelled cells appear yellow.
+Scale bar: 100 mm (10¥ pictures) and 50 mm (40¥ pictures)
+
+HSV are likely to arise in HSV-seropositive patients. Second,
+the inducer should be a clinically approved molecule effective at a clinically acceptable dose. The last developments
+of rAAV-based Tet-Off vectors have shown regulation of an
+adverse effect of GDNF (weight loss) using a Dox dose
+which was below the approved anti-microbial dose [72].
+However, therapeutic effects have not been addressed in
+this study. On the other hand, using a rAAV-tetON vector,
+Dox-dependent behavioural improvements have been
+demonstrated in a well-established rodent model of PD
+[80]. In this study, though, the Dox dose, by body mass was
+more than one order of magnitude higher than the
+
+1 Samulski RJ, Berns KI, Tan M, Muzyczka N. Cloning of
+adeno-associated virus into pBR322: rescue of intact virus
+from the recombinant plasmid in human cells. Proc Natl
+Acad Sci U S A 1982; 79: 2077–81.
+2 Laughlin CA, Tratschin JD, Coon H, Carter BJ. Cloning of
+infectious adeno-associated virus genomes in bacterial
+plasmids. Gene 1983; 23: 65–73.
+3 Samulski RJ, Chang LS, Shenk T. Helper-free stocks of
+recombinant adeno-associated viruses: normal integration
+does not require viral gene expression. J Virol 1989; 63:
+3822–8.
+4 Zolotukhin S, Potter M, Hauswirth WW, Guy J, Muzyczka NA.
+‘humanized’ green fluorescent protein cDNA adapted for
+high-level expression in mammalian cells. J Virol 1996; 70:
+4646–54.
+5 Grimm D. Production methods for gene transfer vectors
+based on adeno-associated virus serotypes. Methods 2002;
+28: 146–57
+6 Zolotukhin S, Potter M, Zolotukhin I, Sakai Y, Loiler S, Fraites
+TJ Jr, Chiodo VA, Phillipsberg T, Muzyczka N, Hauswirth
+WW, Flotte TR, Byrne BJ, Snyder RO. Production and
+purification of serotype 1, 2, and 5 recombinant
+adeno-associated viral vectors. Methods 2002; 28: 158–67.
+7 Wu P, Phillips MI, Bui J, Terwilliger EF. Adeno-associated
+virus vector-mediated transgene integration into neurons
+and other nondividing cell targets. J Virol 1998; 72:
+5919–26.
+Br J Clin Pharmacol
+
+/ 76:2
+
+/
+
+225
+
+A. Chtarto et al.
+
+8 Schnepp BC, Clark KR, Klemanski DL, Pacak CA, Johnson PR.
+Genetic fate of recombinant adeno-associated virus vector
+genomes in muscle. J Virol 2003; 77: 3495–504.
+
+types 1, 2, 5, 6, 8, and 9 in the healthy population:
+implications for gene therapy using AAV vectors. Hum
+Gene Ther 2010; 21: 704–12.
+
+9 Weinberg MS, Samulski RJ, McCown TJ. Adeno-associated
+virus (AAV) gene therapy for neurological disease.
+Neuropharmacology 2012; Mar 17 [Epub ahead of print].
+
+22 Ciesielska A, Hadaczek P, Mittermeyer G, Zhou S, Wright JF,
+Bankiewicz KS, Forsayeth J. Cerebral infusion of AAV9
+vector-encoding non-self proteins can elicit cell-mediated
+immune responses. Mol Ther 2013; 21: 158–66.
+
+10 Klein RL, Hamby ME, Gong Y, Hirko AC, Wang S, Hughes JA,
+King MA, Meyer EM. Dose and promoter effects of
+adeno-associated viral vector for green fluorescent protein
+expression in the rat brain. Exp Neurol 2002; 176: 66–74.
+
+23 Schnepp BC, Jensen RL, Chen CL, Johnson PR, Clark KR.
+Characterization of adeno-associated virus genomes
+isolated from human tissues. J Virol 2005; 79: 14793–803.
+
+11 Hadaczek P, Eberling JL, Pivirotto P, Bringas J, Forsayeth J,
+Bankiewicz KS. Eight years of clinical improvement in
+MPTP-lesioned primates after gene therapy with
+AAV2-hAADC. Mol Ther 2010; 18: 1458–61.
+
+24 Bell P, Wang L, Lebherz C, Flieder DB, Bove MS, Wu D, Gao
+GP, Wilson JM, Wivel NA. No evidence for tumorigenesis of
+AAV vectors in a large-scale study in mice. Mol Ther 2005;
+12: 299–306.
+
+12 Burger C, Gorbatyuk OS, Velardo MJ, Peden CS, Williams P,
+Zolotukhin S, Reier PJ, Mandel RJ, Muzyczka N.
+Recombinant AAV viral vectors pseudotyped with viral
+capsids from serotypes 1, 2, and 5 display differential
+efficiency and cell tropism after delivery to different
+regions of the central nervous system. Mol Ther 2004; 10:
+302–17.
+
+25 Rosas LE, Grieves JL, Zaraspe K, La Perle KM, Fu H, McCarty
+DM. Patterns of scAAV vector insertion associated with
+oncogenic events in a mouse model for genotoxicity. Mol
+Ther 2012; 20: 2098–110.
+
+13 Taymans JM, Vandenberghe LH, Haute CV, Thiry I, Deroose
+CM, Mortelmans L, Wilson JM, Debyser Z, Baekelandt V.
+Comparative analysis of adeno-associated viral vector
+serotypes 1, 2, 5, 7, and 8 in mouse brain. Hum Gene Ther
+2007; 18: 195–206.
+14 Cearley CN, Wolfe JH. Transduction characteristics of
+adeno-associated virus vectors expressing cap serotypes 7,
+8, 9, and Rh10 in the mouse brain. Mol Ther 2006; 13:
+528–37.
+15 Tenenbaum L, Lehtonen E, Monahan PE. Evaluation of risks
+related to the use of adeno-associated virus-based vectors.
+Curr Gene Ther 2003; 3: 545–65.
+16 McCown TJ. Adeno-associated virus (AAV) vectors in the
+CNS. Curr Gene Ther 2011; 11: 181–8.
+17 Calcedo R, Vandenberghe LH, Gao G, Lin J, Wilson JM.
+Worldwide epidemiology of neutralizing antibodies to
+adeno-associated viruses. J Infect Dis 2009; 199: 381–90.
+18 Calcedo R, Morizono H, Wang L, McCarter R, He J, Jones D,
+Batshaw ML, Wilson JM. Adeno-associated virus antibody
+profiles in newborns, children, and adolescents. Clin
+Vaccine Immunol 2011; 18: 1586–8.
+19 Peden CS, Burger C, Muzyczka N, Mandel RJ. Circulating
+anti-wild-type adeno-associated virus type 2 (AAV2)
+antibodies inhibit recombinant AAV2 (rAAV2)-mediated,
+but not rAAV5-mediated, gene transfer in the brain. J Virol
+2004; 78: 6344–59.
+20 Treleaven CM, Tamsett TJ, Bu J, Fidler JA, Sardi SP, Hurlbut
+GD, Woodworth LA, Cheng SH, Passini MA, Shihabuddin LS,
+Dodge JC. Gene transfer to the CNS is efficacious in
+immune-primed mice harboring physiologically relevant
+titers of anti-AAV antibodies. Mol Ther 2012; 20: 1713–23.
+21 Boutin S, Monteilhet V, Veron P, Leborgne C, Benveniste O,
+Montus MF, Masurier C. Prevalence of serum IgG and
+neutralizing factors against adeno-associated virus (AAV)
+226
+
+/ 76:2
+
+/
+
+Br J Clin Pharmacol
+
+26 Bockstael O, Chtarto A, Wakkinen J, Yang X, Melas C,
+Levivier M, Brotchi J, Tenenbaum L. Differential transgene
+expression profiles in rat brain, using rAAV2/1 vectors with
+tetracycline-inducible and cytomegalovirus promoters.
+Hum Gene Ther 2008; 19: 1293–305.
+27 Chen H, McCarty DM, Bruce AT, Suzuki K, Suzuki K. Gene
+transfer and expression in oligodendrocytes under the
+control of myelin basic protein transcriptional control
+region mediated by adeno-associated virus. Gene Ther
+1998; 5: 50–8.
+28 Tenenbaum L, Jurysta F, Stathopoulos A, Puschban Z, Melas
+C, Hermens WT, Verhaagen J, Pichon B, Velu T, Levivier M.
+Tropism of AAV-2 vectors for neurons of the globus
+pallidus. Neuroreport 2000; 11: 2277–83.
+29 Piguet F, Sondhi D, Piraud M, Fouquet F, Hackett NR,
+Ahouansou O, Vanier MT, Bieche I, Aubourg P, Crystal RG,
+Cartier N, Sevin C. Correction of brain oligodendrocytes by
+AAVrh.10 intracerebral gene therapy in metachromatic
+leukodystrophy mice. Hum Gene Ther 2012; 23: 903–14.
+30 Cearley CN, Vandenberghe LH, Parente MK, Carnish ER,
+Wilson JM, Wolfe JH. Expanded repertoire of AAV vector
+serotypes mediate unique patterns of transduction in
+mouse brain. Mol Ther 2008; 16: 1710–8.
+31 Foust KD, Nurre E, Montgomery CL, Hernandez A, Chan CM,
+Kaspar BK. Intravascular AAV9 preferentially targets
+neonatal neurons and adult astrocytes. Nat Biotechnol
+2009; 27: 59–65.
+32 Duque S, Joussemet B, Riviere C, Marais T, Dubreil L, Douar
+AM, Fyfe J, Moullier P, Colle MA, Barkats M. Intravenous
+administration of self-complementary AAV9 enables
+transgene delivery to adult motor neurons. Mol Ther 2009;
+17: 1187–96.
+33 Samaranch L, Salegio EA, San Sebastian W, Kells AP, Foust
+KD, Bringas JR, Lamarre C, Forsayeth J, Kaspar BK,
+Bankiewicz KS. Adeno-associated virus serotype 9
+transduction in the central nervous system of nonhuman
+primates. Hum Gene Ther 2012; 23: 382–9.
+
+Pharmacology of AAV-mediated gene therapy in the CNS
+
+34 Klein RL, Dayton RD, Tatom JB, Henderson KM, Henning PP.
+AAV8, 9, Rh10, Rh43 vector gene transfer in the rat brain:
+effects of serotype, promoter and purification method. Mol
+Ther 2008; 16: 89–96.
+35 Xue YQ, Ma BF, Zhao LR, Tatom JB, Li B, Jiang LX, Klein RL,
+Duan WM. AAV9-mediated erythropoietin gene delivery
+into the brain protects nigral dopaminergic neurons in a
+rat model of Parkinson’s disease. Gene Ther 2010; 17:
+83–94.
+36 Mastakov MY, Baer K, Xu R, Fitzsimons H, During MJ.
+Combined injection of rAAV with mannitol enhances gene
+expression in the rat brain. Mol Ther 2001; 3: 225–32.
+37 Fu H, Dirosario J, Killedar S, Zaraspe K, McCarty DM.
+Correction of neurological disease of
+mucopolysaccharidosis IIIB in adult mice by rAAV9
+trans-blood-brain barrier gene delivery. Mol Ther 2011; 19:
+1025–33.
+38 Gray SJ, Matagne V, Bachaboina L, Yadav S, Ojeda SR,
+Samulski RJ. Preclinical differences of intravascular AAV9
+delivery to neurons and glia: a comparative study of adult
+mice and nonhuman primates. Mol Ther 2011; 19: 1058–69.
+39 Fu H, Muenzer J, Samulski RJ, Breese G, Sifford J, Zeng X,
+McCarty DM. Self-complementary adeno-associated virus
+serotype 2 vector: global distribution and broad dispersion
+of AAV-mediated transgene expression in mouse brain. Mol
+Ther 2003; 8: 911–7.
+40 Gray SJ, Matagne V, Bachaboina L, Yadav S, Ojeda SR,
+Samulski RJ. Preclinical differences of intravascular AAV9
+delivery to neurons and glia: a comparative study of adult
+mice and nonhuman primates. Mol Ther 2011; 19: 1058–69.
+41 Manfredsson FP, Bloom DC, Mandel RJ. Regulated protein
+expression for in vivo gene therapy for neurological
+disorders: progress, strategies, and issues. Neurobiol Dis
+2012; 48: 212–21.
+42 Leone P, Janson CG, Bilaniuk L, Wang Z, Sorgi F, Huang L,
+Matalon R, Kaul R, Zeng Z, Freese A, McPhee SW, Mee E,
+During MJ. Aspartoacylase gene transfer to the mammalian
+central nervous system with therapeutic implications for
+Canavan disease. Ann Neurol 2000; 48: 27–38.
+43 Janson C, McPhee S, Bilaniuk L, Haselgrove J, Testaiuti M,
+Freese A, Wang DJ, Shera D, Hurh P, Rupin J, Saslow E,
+Goldfarb O, Goldberg M, Larijani G, Sharrar W, Liouterman
+L, Camp A, Kolodny E, Samulski J, Leone P. Clinical protocol.
+gene therapy of Canavan disease: AAV-2 vector for
+neurosurgical delivery of aspartoacylase gene (ASPA) to
+the human brain. Hum Gene Ther 2002; 13: 1391–412.
+44 McPhee SW, Janson CG, Li C, Samulski RJ, Camp AS, Francis
+J, Shera D, Lioutermann L, Feely M, Freese A, Leone P.
+Immune responses to AAV in a phase I study for Canavan
+disease. J Gene Med 2006; 8: 577–88.
+45 Leone P, Shera D, McPhee SW, Francis JS, Kolodny EH,
+Bilaniuk LT, Wang DJ, Assadi M, Goldfarb O, Goldman HW,
+Freese A, Young D, During MJ, Samulski RJ, Janson CG.
+Long-term follow-up after gene therapy for canavan
+disease. Sci Transl Med 2012; 4: 165ra163.
+DOI:10.1126/scitranslmed.3003454.
+
+46 Worgall S, Sondhi D, Hackett NR, Kosofsky B, Kekatpure MV,
+Neyzi N, Dyke JP, Ballon D, Heier L, Greenwald BM, Christos
+P, Mazumdar M, Souweidane MM, Kaplitt MG, Crystal RG.
+Treatment of late infantile neuronal ceroid lipofuscinosis by
+CNS administration of a serotype 2 adeno-associated virus
+expressing CLN2 cDNA. Hum Gene Ther 2008; 19: 463–74.
+47 Sondhi D, Hackett NR, Peterson DA, Stratton J, Baad M,
+Travis KM, Wilson JM, Crystal RG. Enhanced survival of the
+LINCL mouse following CLN2 gene transfer using the rh.10
+rhesus macaque-derived adeno-associated virus vector.
+Mol Ther 2007; 15: 481–91.
+48 Cressant A, Desmaris N, Verot L, Brejot T, Froissart R, Vanier
+MT, Maire I, Heard JM. Improved behavior and
+neuropathology in the mouse model of Sanfilippo type IIIB
+disease after adeno-associated virus-mediated gene
+transfer in the striatum. J Neurosci 2004; 24: 10229–39.
+49 Carlsson A. A half-century of neurotransmitter research:
+impact on neurology and psychiatry. Nobel lecture. Biosci
+Rep 2001; 21: 691–710.
+50 Mandel RJ, Rendahl KG, Snyder RO, Leff SE. Progress in
+direct striatal delivery of L-dopa via gene therapy for
+treatment of Parkinson’s disease using recombinant
+adeno-associated viral vectors. Exp Neurol 1999; 159:
+47–64.
+51 Eberling JL, Jagust WJ, Christine CW, Starr P, Larson P,
+Bankiewicz KS, Aminoff MJ. Results from a phase I safety
+trial of hAADC gene therapy for Parkinson disease.
+Neurology 2008; 70: 1980–3.
+52 Sin M, Walker PD, Bouhamdan M, Quinn JP, Bannon MJ.
+Preferential expression of an AAV-2 construct in
+NOS-positive interneurons following intrastriatal injection.
+Brain Res Mol Brain Res 2005; 141: 74–82.
+53 Mittermeyer G, Christine CW, Rosenbluth KH, Baker SL, Starr
+P, Larson P, Kaplan PL, Forsayeth J, Aminoff MJ, Bankiewicz
+KS. Long-term evaluation of a phase 1 study of AADC gene
+therapy for Parkinson’s disease. Hum Gene Ther 2012; 23:
+377–81.
+54 Christine CW, Starr PA, Larson PS, Eberling JL, Jagust WJ,
+Hawkins RA, VanBrocklin HF, Wright JF, Bankiewicz KS,
+Aminoff MJ. Safety and tolerability of putaminal AADC
+gene therapy for Parkinson disease. Neurology 2009; 73:
+1662–9.
+55 Limousin P, Pollak P, Benazzouz A, Hoffmann D, Le Bas JF,
+Broussolle E, Perret JE, Benabid AL. Effect of parkinsonian
+signs and symptoms of bilateral subthalamic nucleus
+stimulation. Lancet 1995; 345: 91–5.
+56 Luo J, Kaplitt MG, Fitzsimons HL, Zuzga DS, Liu Y, Oshinsky
+ML, During MJ. Subthalamic GAD gene therapy in a
+Parkinson’s disease rat model. Science 2002; 298: 425–9.
+57 Kaplitt MG, Feigin A, Tang C, Fitzsimons HL, Mattis P, Lawlor
+PA, Bland RJ, Young D, Strybing K, Eidelberg D, During MJ.
+Safety and tolerability of gene therapy with an
+adeno-associated virus (AAV) borne GAD gene for
+Parkinson’s disease: an open label, phase I trial. Lancet
+2007; 369: 2097–105.
+58 LeWitt PA, Rezai AR, Leehey MA, Ojemann SG, Flaherty AW,
+Eskandar EN, Kostyk SK, Thomas K, Sarkar A, Siddiqui MS,
+Br J Clin Pharmacol
+
+/ 76:2
+
+/
+
+227
+
+A. Chtarto et al.
+
+Tatter SB, Schwalb JM, Poston KL, Henderson JM, Kurlan RM,
+Richard IH, Van Meter L, Sapan CV, During MJ, Kaplitt MG,
+Feigin A. AAV2-GAD gene therapy for advanced Parkinson’s
+disease: a double-blind, sham-surgery controlled,
+randomised trial. Lancet Neurol 2011; 10: 309–19.
+
+Bartus RT. Safety and tolerability of intraputaminal delivery
+of CERE-120 (adeno-associated virus serotype 2-neurturin)
+to patients with idiopathic Parkinson’s disease: an
+open-label, phase I trial. Lancet Neurol 2008; 7: 400–8.
+
+59 Lo Bianco C, Deglon N, Pralong W, Aebischer P. Lentiviral
+nigral delivery of GDNF does not prevent
+neurodegeneration in a genetic rat model of Parkinson’s
+disease. Neurobiol Dis 2004; 17: 283–9.
+
+69 Bartus RT, Herzog CD, Chu Y, Wilson A, Brown L, Siffert J,
+Johnson EM Jr, Olanow CW, Mufson EJ, Kordower JH.
+Bioactivity of AAV2-neurturin gene therapy (CERE-120):
+differences between Parkinson’s disease and nonhuman
+primate brains. Mov Disord 2011; 26: 27–36.
+
+60 Mandel RJ, Snyder RO, Leff SE. Recombinant
+adeno-associated viral vector-mediated glial cell
+line-derived neurotrophic factor gene transfer protects
+nigral dopamine neurons after onset of progressive
+degeneration in a rat model of Parkinson’s disease. Exp
+Neurol 1999; 160: 205–14.
+
+70 Georgievska B, Kirik D, Bjorklund A. Aberrant sprouting and
+downregulation of tyrosine hydroxylase in lesioned
+nigrostriatal dopamine neurons induced by long-lasting
+overexpression of glial cell line derived neurotrophic factor
+in the striatum by lentiviral gene transfer. Exp Neurol 2002;
+177: 461–74.
+
+61 Kirik D, Rosenblad C, Bjorklund A, Mandel RJ. Long-term
+rAAV-mediated gene transfer of GDNF in the rat
+Parkinson’s model: intrastriatal but not intranigral
+transduction promotes functional regeneration in the
+lesioned nigrostriatal system. J Neurosci 2000; 20:
+4686–700.
+
+71 Hovland DN Jr, Boyd RB, Butt MT, Engelhardt JA, Moxness
+MS, Ma MH, Emery MG, Ernst NB, Reed RP, Zeller JR, Gash
+DM, Masterman DM, Potter BM, Cosenza ME, Lightfoot RM.
+Six-month continuous intraputamenal infusion toxicity
+study of recombinant methionyl human glial cell
+line-derived neurotrophic factor (r-metHuGDNF) in rhesus
+monkeys. Toxicol Pathol 2007; 35: 676–92.
+
+62 Choi-Lundberg DL, Lin Q, Chang YN, Chiang YL, Hay CM,
+Mohajeri H, Davidson BL, Bohn MC. Dopaminergic neurons
+protected from degeneration by GDNF gene therapy.
+Science 1997; 275: 838–41.
+63 Kordower JH, Emborg ME, Bloch J, Ma SY, Chu Y, Leventhal
+L, McBride J, Chen EY, Palfi S, Roitberg BZ, Brown WD,
+Holden JE, Pyzalski R, Taylor MD, Carvey P, Ling Z, Trono D,
+Hantraye P, Deglon N, Aebischer P. Neurodegeneration
+prevented by lentiviral vector delivery of GDNF in primate
+models of Parkinson’s disease. Science 2000; 290: 767–73.
+64 Eslamboli A, Cummings RM, Ridley RM, Baker HF, Muzyczka
+N, Burger C, Mandel RJ, Kirik D, Annett LE. Recombinant
+adeno-associated viral vector (rAAV) delivery of GDNF
+provides protection against 6-OHDA lesion in the common
+marmoset monkey (Callithrix jacchus). Exp Neurol 2003;
+184: 536–48.
+65 Tomac A, Widenfalk J, Lin LF, Kohno T, Ebendal T, Hoffer BJ,
+Olson L. Retrograde axonal transport of glial cell
+line-derived neurotrophic factor in the adult nigrostriatal
+system suggests a trophic role in the adult. Proc Natl Acad
+Sci U S A 1995; 92: 8274–8.
+66 Bartus RT, Baumann TL, Brown L, Kruegel BR, Ostrove JM,
+Herzog CD. Advancing neurotrophic factors as treatments
+for age-related neurodegenerative diseases: developing
+and demonstrating ‘clinical proof-of-concept’ for
+AAV-neurturin (CERE-120) in Parkinson’s disease. Neurobiol
+Aging 2013; 34: 35–61.
+67 Marks WJ Jr, Bartus RT, Siffert J, Davis CS, Lozano A, Boulis
+N, Vitek J, Stacy M, Turner D, Verhagen L, Bakay R, Watts R,
+Guthrie B, Jankovic J, Simpson R, Tagliati M, Alterman R,
+Stern M, Baltuch G, Starr PA, Larson PS, Ostrem JL, Nutt J,
+Kieburtz K, Kordower JH, Olanow CW. Gene delivery of
+AAV2-neurturin for Parkinson’s disease: a double-blind,
+randomised, controlled trial. Lancet Neurol 2010; 9:
+1164–72.
+68 Marks WJ Jr, Ostrem JL, Verhagen L, Starr PA, Larson PS,
+Bakay RA, Taylor R, Cahn-Weiner DA, Stoessl AJ, Olanow CW,
+228
+
+/ 76:2
+
+/
+
+Br J Clin Pharmacol
+
+72 Manfredsson FP, Burger C, Rising AC, Zuobi-Hasona K,
+Sullivan LF, Lewin AS, Huang J, Piercefield E, Muzyczka N,
+Mandel RJ. Tight long-term dynamic doxycycline
+responsive nigrostriatal GDNF using a single rAAV vector.
+Mol Ther 2009; 17: 1857–67.
+73 Lang AE, Gill S, Patel NK, Lozano A, Nutt JG, Penn R, Brooks
+DJ, Hotton G, Moro E, Heywood P, Brodsky MA, Burchiel K,
+Kelly P, Dalvi A, Scott B, Stacy M, Turner D, Wooten VG, Elias
+WJ, Laws ER, Dhawan V, Stoessl AJ, Matcham J, Coffey RJ,
+Traub M. Randomized controlled trial of intraputamenal
+glial cell line-derived neurotrophic factor infusion in
+Parkinson disease. Ann Neurol 2006; 59: 459–66.
+74 Burcin MM, O’Malley BW, Tsai SY. A regulatory system for
+target gene expression. Front Biosci 1998; 3: c1–7.
+75 Stieger K, Belbellaa B, Le Guiner C, Moullier P, Rolling F. In
+vivo gene regulation using tetracycline-regulatable
+systems. Adv Drug Deliv Rev 2009; 61: 527–41.
+76 Toniatti C, Bujard H, Cortese R, Ciliberto G. Gene therapy
+progress and prospects: transcription regulatory systems.
+Gene Ther 2004; 11: 649–57.
+77 Davidson BL, McCray PB Jr. Current prospects for RNA
+interference-based therapies. Nat Rev Genet 2011; 12:
+329–40.
+78 Hadaczek P, Beyer J, Kells A, Narrow W, Bowers W, Federoff
+HJ, Forsayeth J, Bankiewicz KS. Evaluation of an AAV2-based
+rapamycin-regulated glial cell line-derived neurotrophic
+factor (GDNF) expression vector system. PLoS ONE 2011; 6:
+e27728.
+79 Kaspar BK, Llado J, Sherkat N, Rothstein JD, Gage FH.
+Retrograde viral delivery of IGF-1 prolongs survival in a
+mouse ALS model. Science 2003; 301: 839–42.
+80 Yang X, Mertens B, Lehtonen E, Vercammen L, Bockstael O,
+Chtarto A, Levivier M, Brotchi J, Michotte Y, Baekelandt V,
+Sarre S, Tenenbaum L. Reversible neurochemical changes
+
+Pharmacology of AAV-mediated gene therapy in the CNS
+
+mediated by delayed intrastriatal glial cell line-derived
+neurotrophic factor gene delivery in a partial Parkinson’s
+disease rat model. J Gene Med 2009; 11: 899–912.
+
+95 Zhou X, Vink M, Klaver B, Berkhout B, Das AT. Optimization
+of the Tet-On system for regulated gene expression
+through viral evolution. Gene Ther 2006; 13: 1382–90.
+
+81 Gossen M, Bujard H. Tight control of gene expression in
+mammalian cells by tetracycline-responsive promoters.
+Proc Natl Acad Sci U S A 1992; 89: 5547–51.
+
+96 Agha-Mohammadi S, O’Malley M, Etemad A, Wang Z, Xiao
+X, Lotze MT. Second-generation tetracycline-regulatable
+promoter: repositioned Tet operator elements optimize
+transactivator synergy while shorter minimal promoter
+offers tight basal leakiness. J Gene Med 2004; 6: 817–28.
+
+82 Kistner A, Gossen M, Zimmermann F, Jerecic J, Ullmer C,
+Lubbert H, Bujard H. Doxycycline-mediated quantitative
+and tissue-specific control of gene expression in transgenic
+mice. Proc Natl Acad Sci U S A 1996; 93: 10933–8.
+83 Corti O, Sanchez-Capelo A, Colin P, Hanoun N, Hamon M,
+Mallet J. Long-term doxycycline-controlled expression of
+human tyrosine hydroxylase after direct
+adenovirus-mediated gene transfer to a rat model of
+Parkinson’s disease. Proc Natl Acad Sci U S A 1999; 96:
+12120–5.
+84 Corti O, Sabate O, Horellou P, Colin P, Dumas S, Buchet D,
+Buc-Caron MH, Mallet J. A single adenovirus vector
+mediates doxycycline-controlled expression of tyrosine
+hydroxylase in brain grafts of human neural progenitors.
+Nat Biotechnol 1999; 17: 349–54.
+85 Harding TC, Geddes BJ, Murphy D, Knight D, Uney JB.
+Switching transgene expression in the brain using an
+adenoviral tetracycline-regulatable system. Nat Biotechnol
+1998; 16: 553–5.
+86 Maibach H. Second-generation tetracyclines, a
+dermatologic overview: clinical uses and pharmacology.
+Cutis 1991; 48: 411–7.
+
+97 Baron U, Freundlieb S, Gossen M, Bujard H. Co-regulation of
+two gene activities by tetracycline via a bidirectional
+promoter. Nucleic Acids Res 1995; 23: 3605–6.
+98 Danke C, Grunz X, Wittmann J, Schmidt A,
+Agha-Mohammadi S, Kutsch O, Jack HM, Hillen W, Berens C.
+Adjusting transgene expression levels in lymphocytes with
+a set of inducible promoters. J Gene Med 2010; 12: 501–15.
+99 Loew R, Heinz N, Hampf M, Bujard H, Gossen M. Improved
+Tet-responsive promoters with minimized background
+expression. BMC Biotechnol 2010; 10: 81.
+DOI:10.1186/1472-6750-10-81.
+100 Haberman RP, McCown TJ, Samulski RJ. Novel
+transcriptional regulatory signals in the adeno-associated
+virus terminal repeat A/D junction element. J Virol 2000; 74:
+8732–9.
+101 Chen Q, Xiong X, Lee TH, Liu Y, Sun QA, Wetsel W, Zhang X.
+Adeno-associated virus-mediated ILK gene silencing in the
+rat NAc core. J Neurosci Methods 2008; 173: 208–14.
+
+87 Baron U, Gossen M, Bujard H. Tetracycline-controlled
+transcription in eukaryotes: novel transactivators with
+graded transactivation potential. Nucleic Acids Res 1997;
+25: 2723–9.
+
+102 Chtarto A, Bender HU, Hanemann CO, Kemp T, Lehtonen E,
+Levivier M, Brotchi J, Velu T, Tenenbaum L.
+Tetracycline-inducible transgene expression mediated by a
+single AAV vector. Gene Ther 2003; 10: 84–94.
+
+88 Gossen M, Freundlieb S, Bender G, Muller G, Hillen W,
+Bujard H. Transcriptional activation by tetracyclines in
+mammalian cells. Science 1995; 268: 1766–9.
+
+103 Fitzsimons HL, McKenzie JM, During MJ. Insulators coupled
+to a minimal bidirectional tet cassette for tight regulation
+of rAAV-mediated gene transfer in the mammalian brain.
+Gene Ther 2001; 8: 1675–81.
+
+89 Park HJ, RajBhandary UL. Tetracycline-regulated
+suppression of amber codons in mammalian cells. Mol Cell
+Biol 1998; 18: 4418–25.
+90 Yoshida Y, Hamada H. Adenovirus-mediated inducible gene
+expression through tetracycline-controllable transactivator
+with nuclear localization signal. Biochem Biophys Res
+Commun 1997; 230: 426–30.
+91 Urlinger S, Baron U, Thellmann M, Hasan MT, Bujard H,
+Hillen W. Exploring the sequence space for
+tetracycline-dependent transcriptional activators: novel
+mutations yield expanded range and sensitivity. Proc Natl
+Acad Sci U S A 2000; 97: 7963–8.
+92 Valencik ML, McDonald JA. Codon optimization markedly
+improves doxycycline regulated gene expression in the
+mouse heart. Transgenic Res 2001; 10: 269–75.
+93 Wells KD, Foster JA, Moore K, Pursel VG, Wall RJ. Codon
+optimization, genetic insulation, and an rtTA reporter
+improve performance of the tetracycline switch. Transgenic
+Res 1999; 8: 371–81.
+94 Das AT, Zhou X, Vink M, Klaver B, Verhoef K, Marzio G,
+Berkhout B. Viral evolution as a tool to improve the
+tetracycline-regulated gene expression system. J Biol Chem
+2004; 279: 18776–82.
+
+104 Haberman RP, McCown TJ, Samulski RJ. Inducible long-term
+gene expression in brain with adeno-associated virus gene
+transfer. Gene Ther 1998; 5: 1604–11.
+105 Jiang L, Rampalli S, George D, Press C, Bremer EG,
+O’Gorman MR, Bohn MC. Tight regulation from a single
+Tet-off rAAV vector as demonstrated by flow cytometry
+and quantitative, real-time PCR. Gene Ther 2004; 11:
+1057–67.
+106 Ariza J, Bosilkovski M, Cascio A, Colmenero JD, Corbel MJ,
+Falagas ME, Memish ZA, Roushan MR, Rubinstein E, Sipsas
+NV, Solera J, Young EJ, Pappas G. Perspectives for the
+treatment of brucellosis in the 21st century: the Ioannina
+recommendations. PLoS Med 2007; 4: e317.
+107 Berman B, Perez OA, Zell D. Update on rosacea and
+anti-inflammatory-dose doxycycline. Drugs Today (Barc)
+2007; 43: 27–34.
+108 Chtarto A, Yang X, Bockstael O, Melas C, Blum D, Lehtonen
+E, Abeloos L, Jaspar JM, Levivier M, Brotchi J, Velu T,
+Tenenbaum L. Controlled delivery of glial cell line-derived
+neurotrophic factor by a single tetracycline-inducible AAV
+vector. Exp Neurol 2007; 204: 387–99.
+Br J Clin Pharmacol
+
+/ 76:2
+
+/
+
+229
+
+A. Chtarto et al.
+
+109 Chopra I, Roberts M. Tetracycline antibiotics: mode of
+action, applications, molecular biology, and epidemiology
+of bacterial resistance. Microbiol Mol Biol Rev 2001; 65:
+232–60. second page, table of contents.
+110 Sapadin AN, Fleischmajer R. Tetracyclines: nonantibiotic
+properties and their clinical implications. J Am Acad
+Dermatol 2006; 54: 258–65.
+111 Rodriguez Hernandez H, Sanchez Anguiano LF, Quinones E.
+[Eradication of Helicobacter pylori in peptic ulcer and
+chronic gastritis. A randomized clinical trial]. Rev
+Gastroenterol Mex 1998; 63: 21–7.
+112 Krueger C, Pfleiderer K, Hillen W, Berens C. Tetracycline
+derivatives: alternative effectors for Tet transregulators.
+Biotechniques 2004; 37: 546, 548, 550.
+113 Agwuh KN, MacGowan A. Pharmacokinetics and
+pharmacodynamics of the tetracyclines including
+glycylcyclines. J Antimicrob Chemother 2006; 58: 256–65.
+114 Chtarto A, Tenenbaum L, Velu T, Brotchi J, Levivier M, Blum
+D. Minocycline-induced activation of
+tetracycline-responsive promoter. Neurosci Lett 2003; 352:
+155–8.
+115 Bantubungi K, Jacquard C, Greco A, Pintor A, Chtarto A, Tai
+K, Galas MC, Tenenbaum L, Deglon N, Popoli P, Minghetti L,
+Brouillet E, Brotchi J, Levivier M, Schiffmann SN, Blum D.
+Minocycline in phenotypic models of Huntington’s disease.
+Neurobiol Dis 2005; 18: 206–17.
+116 Blum D, Chtarto A, Tenenbaum L, Brotchi J, Levivier M.
+Clinical potential of minocycline for neurodegenerative
+disorders. Neurobiol Dis 2004; 17: 359–66.
+117 Eger K, Hermes M, Uhlemann K, Rodewald S, Ortwein J,
+Brulport M, Bauer AW, Schormann W, Lupatsch F, Schiffer
+IB, Heimerdinger CK, Gebhard S, Spangenberg C, Prawitt D,
+Trost T, Zabel B, Sauer C, Tanner B, Kolbl H, Krugel U, Franke
+H, Illes P, Madaj-Sterba P, Bockamp EO, Beckers T, Hengstler
+JG. 4-Epidoxycycline: an alternative to doxycycline to
+control gene expression in conditional mouse models.
+Biochem Biophys Res Commun 2004; 323: 979–86.
+118 Zhu P, Aller MI, Baron U, Cambridge S, Bausen M, Herb J,
+Sawinski J, Cetin A, Osten P, Nelson ML, Kugler S, Seeburg
+PH, Sprengel R, Hasan MT. Silencing and un-silencing of
+tetracycline-controlled genes in neurons. PLoS ONE 2007; 2:
+e533.
+119 Chrast-Balz J, Hooft van Huijsduijnen R. Bi-directional gene
+switching with the tetracycline repressor and a novel
+tetracycline antagonist. Nucleic Acids Res 1996; 24: 2900–4.
+120 Love J, Allen GC, Gatz C, Thompson WF. Differential Top10
+promoter regulation by six tetracycline analogues in plant
+cells. J Exp Bot 2002; 53: 1871–7.
+121 Latta-Mahieu M, Rolland M, Caillet C, Wang M, Kennel P,
+Mahfouz I, Loquet I, Dedieu JF, Mahfoudi A, Trannoy E,
+Thuillier V. Gene transfer of a chimeric trans-activator is
+immunogenic and results in short-lived transgene
+expression. Hum Gene Ther 2002; 13: 1611–20.
+122 Chenuaud P, Larcher T, Rabinowitz JE, Provost N, Joussemet
+B, Bujard H, Samulski RJ, Favre D, Moullier P. Optimal design
+230
+
+/ 76:2
+
+/
+
+Br J Clin Pharmacol
+
+of a single recombinant adeno-associated virus derived
+from serotypes 1 and 2 to achieve more tightly regulated
+transgene expression from nonhuman primate muscle. Mol
+Ther 2004; 9: 410–8.
+123 Favre D, Blouin V, Provost N, Spisek R, Porrot F, Bohl D,
+Marme F, Cherel Y, Salvetti A, Hurtrel B, Heard JM, Riviere Y,
+Moullier P. Lack of an immune response against the
+tetracycline-dependent transactivator correlates with
+long-term doxycycline-regulated transgene expression in
+nonhuman primates after intramuscular injection of
+recombinant adeno-associated virus. J Virol 2002; 76:
+11605–11.
+124 Xiong W, Candolfi M, Kroeger KM, Puntel M, Mondkar S,
+Larocque D, Liu C, Curtin JF, Palmer D, Ng P, Lowenstein PR,
+Castro MG. Immunization against the transgene but not
+the TetON switch reduces expression from gutless
+adenoviral vectors in the brain. Mol Ther 2008; 16: 343–51.
+125 Lowenstein PR, Mandel RJ, Xiong WD, Kroeger K, Castro MG.
+Immune responses to adenovirus and adeno-associated
+vectors used for gene therapy of brain diseases: the role of
+immunological synapses in understanding the cell biology
+of neuroimmune interactions. Curr Gene Ther 2007; 7:
+347–60.
+126 Streilein JW. Ocular immune privilege: therapeutic
+opportunities from an experiment of nature. Nat Rev
+Immunol 2003; 3: 879–89.
+127 Han Y, Chang QA, Virag T, West NC, George D, Castro MG,
+Bohn MC. Lack of humoral immune response to the
+tetracycline (Tet) activator in rats injected intracranially
+with Tet-off rAAV vectors. Gene Ther 2010; 17: 616–25.
+128 Xu F, Sternberg MR, Kottiri BJ, McQuillan GM, Lee FK,
+Nahmias AJ, Berman SM, Markowitz LE. Trends in herpes
+simplex virus type 1 and type 2 seroprevalence in the
+United States. JAMA 2006; 296: 964–73.
+129 Burcin MM, Schiedner G, Kochanek S, Tsai SY, O’Malley BW.
+Adenovirus-mediated regulable target gene expression in
+vivo. Proc Natl Acad Sci U S A 1999; 96: 355–60.
+130 Haberman R, Criswell H, Snowdy S, Ming Z, Breese G,
+Samulski R, McCown T. Therapeutic liabilities of in vivo viral
+vector tropism: adeno-associated virus vectors, NMDAR1
+antisense, and focal seizure sensitivity. Mol Ther 2002; 6:
+495–500.
+131 Sanftner LM, Rivera VM, Suzuki BM, Feng L, Berk L, Zhou S,
+Forsayeth JR, Clackson T, Cunningham J. Dimerizer
+regulation of AADC expression and behavioral response in
+AAV-transduced 6-OHDA lesioned rats. Mol Ther 2006; 13:
+167–74.
+132 Iwamoto M, Bjorklund T, Lundberg C, Kirik D, Wandless TJ. A
+general chemical method to regulate protein stability in
+the mammalian central nervous system. Chem Biol 2010;
+17: 981–8.
+133 Shi W, Arnold GS, Bartlett JS. Insertional mutagenesis of the
+adeno-associated virus type 2 (AAV2) capsid gene and
+generation of AAV2 vectors targeted to alternative
+cell-surface receptors. Hum Gene Ther 2001; 12: 1697–711.
+134 Bowles DE, McPhee SW, Li C, Gray SJ, Samulski JJ, Camp AS,
+Li J, Wang B, Monahan PE, Rabinowitz JE, Grieger JC,
+
+Pharmacology of AAV-mediated gene therapy in the CNS
+
+Govindasamy L, Agbandje-McKenna M, Xiao X, Samulski RJ.
+Phase 1 gene therapy for Duchenne muscular dystrophy
+using a translational optimized AAV vector. Mol Ther 2012;
+20: 443–55.
+135 Grimm D, Lee JS, Wang L, Desai T, Akache B, Storm TA, Kay
+MA. In vitro and in vivo gene therapy vector evolution via
+multispecies interbreeding and retargeting of
+adeno-associated viruses. J Virol 2008; 82: 5887–911.
+136 Gray SJ, Blake BL, Criswell HE, Nicolson SC, Samulski RJ,
+McCown TJ, Li W. Directed evolution of a novel
+adeno-associated virus (AAV) vector that crosses the
+seizure-compromised blood-brain barrier (BBB). Mol Ther
+2010; 18: 570–8.
+137 Johnson JS, Li C, DiPrimio N, Weinberg MS, McCown TJ,
+Samulski RJ. Mutagenesis of adeno-associated virus type 2
+capsid protein VP1 uncovers new roles for basic amino
+acids in trafficking and cell-specific transduction. J Virol
+2010; 84: 8888–902.
+138 Girod A, Ried M, Wobus C, Lahm H, Leike K, Kleinschmidt J,
+Deleage G, Hallek M. Genetic capsid modifications allow
+efficient re-targeting of adeno-associated virus type 2. Nat
+Med 1999; 5: 1052–6.
+139 Perabo L, Endell J, King S, Lux K, Goldnau D, Hallek M,
+Buning H. Combinatorial engineering of a gene therapy
+vector: directed evolution of adeno-associated virus. J Gene
+Med 2006; 8: 155–62.
+140 Boucas J, Lux K, Huber A, Schievenbusch S, von Freyend MJ,
+Perabo L, Quadt-Humme S, Odenthal M, Hallek M, Buning
+H. Engineering adeno-associated virus serotype 2-based
+targeting vectors using a new insertion site-position
+453-and single point mutations. J Gene Med 2009; 11:
+1103–13.
+141 Klimczak RR, Koerber JT, Dalkara D, Flannery JG, Schaffer
+DV. A novel adeno-associated viral variant for efficient and
+selective intravitreal transduction of rat Muller cells. PLoS
+ONE 2009; 4: e7467.
+142 Petrs-Silva H, Dinculescu A, Li Q, Deng WT, Pang JJ, Min SH,
+Chiodo V, Neeley AW, Govindasamy L, Bennett A,
+Agbandje-McKenna M, Zhong L, Li B, Jayandharan GR,
+Srivastava A, Lewin AS, Hauswirth WW. Novel properties of
+tyrosine-mutant AAV2 vectors in the mouse retina. Mol
+Ther 2011; 19: 293–301.
+143 Gao G, Alvira MR, Somanathan S, Lu Y, Vandenberghe LH,
+Rux JJ, Calcedo R, Sanmiguel J, Abbas Z, Wilson JM.
+Adeno-associated viruses undergo substantial evolution in
+primates during natural infections. Proc Natl Acad Sci U S A
+2003; 100: 6081–6.
+144 Rabinowitz JE, Rolling F, Li C, Conrath H, Xiao W, Xiao X,
+Samulski RJ. Cross-packaging of a single adeno-associated
+virus (AAV) type 2 vector genome into multiple AAV
+serotypes enables transduction with broad specificity.
+J Virol 2002; 76: 791–801.
+145 Davidson BL, Stein CS, Heth JA, Martins I, Kotin RM, Derksen
+TA, Zabner J, Ghodsi A, Chiorini JA. Recombinant
+adeno-associated virus type 2, 4, and 5 vectors:
+transduction of variant cell types and regions in the
+mammalian central nervous system. Proc Natl Acad Sci
+U S A 2000; 97: 3428–32.
+
+146 McFarland NR, Lee JS, Hyman BT, McLean PJ. Comparison of
+transduction efficiency of recombinant AAV serotypes 1, 2,
+5, and 8 in the rat nigrostriatal system. J Neurochem 2009;
+109: 838–45.
+147 Vite CH, Passini MA, Haskins ME, Wolfe JH.
+Adeno-associated virus vector-mediated transduction in
+the cat brain. Gene Ther 2003; 10: 1874–81.
+148 Markakis EA, Vives KP, Bober J, Leichtle S, Leranth C,
+Beecham J, Elsworth JD, Roth RH, Samulski RJ, Redmond DE
+Jr. Comparative transduction efficiency of AAV vector
+serotypes 1–6 in the substantia nigra and striatum of the
+primate brain. Mol Ther 2010; 18: 588–93.
+149 Dodiya HB, Bjorklund T, Stansell J 3rd, Mandel RJ, Kirik D,
+Kordower JH. Differential transduction following basal
+ganglia administration of distinct pseudotyped AAV capsid
+serotypes in nonhuman primates. Mol Ther 2010; 18:
+579–87.
+150 Lawlor PA, Bland RJ, Mouravlev A, Young D, During MJ.
+Efficient gene delivery and selective transduction of glial
+cells in the mammalian brain by AAV serotypes isolated
+from nonhuman primates. Mol Ther 2009; 17: 1692–702.
+151 Hadaczek P, Forsayeth J, Mirek H, Munson K, Bringas J,
+Pivirotto P, McBride JL, Davidson BL, Bankiewicz KS.
+Transduction of nonhuman primate brain with
+adeno-associated virus serotype 1: vector trafficking and
+immune response. Hum Gene Ther 2009; 20: 225–37.
+152 Klein RL, Meyer EM, Peel AL, Zolotukhin S, Meyers C,
+Muzyczka N, King MA. Neuron-specific transduction in the
+rat septohippocampal or nigrostriatal pathway by
+recombinant adeno-associated virus vectors. Exp Neurol
+1998; 150: 183–94.
+153 Lubansu A, Abeloos L, Bockstael O, Lehtonen E, Blum D,
+Brotchi J, Levivier M, Tenenbaum L. Recombinant AAV viral
+vectors serotype 1, 2, and 5 mediate differential gene
+transfer efficiency in rat striatal fetal grafts. Cell Transplant
+2008; 16: 1013–20.
+154 Koerber JT, Klimczak R, Jang JH, Dalkara D, Flannery JG,
+Schaffer DV. Molecular evolution of adeno-associated virus
+for enhanced glial gene delivery. Mol Ther 2009; 17:
+2088–95.
+155 Kugler S, Lingor P, Scholl U, Zolotukhin S, Bahr M.
+Differential transgene expression in brain cells in vivo and
+in vitro from AAV-2 vectors with small transcriptional
+control units. Virology 2003; 311: 89–95.
+156 Oh MS, Hong SJ, Huh Y, Kim KS. Expression of transgenes in
+midbrain dopamine neurons using the tyrosine
+hydroxylase promoter. Gene Ther 2009; 16: 437–40.
+157 Shevtsova Z, Malik JM, Michel U, Bahr M, Kugler S.
+Promoters and serotypes: targeting of adeno-associated
+virus vectors for gene transfer in the rat central nervous
+system in vitro and in vivo. Exp Physiol 2005; 90: 53–9.
+158 Zhang H, Yang B, Mu X, Ahmed SS, Su Q, He R, Wang H,
+Mueller C, Sena-Esteves M, Brown R, Xu Z, Gao G. Several
+rAAV vectors efficiently cross the blood-brain barrier and
+transduce neurons and astrocytes in the neonatal mouse
+central nervous system. Mol Ther 2011; 19: 1440–8.
+Br J Clin Pharmacol
+
+/ 76:2
+
+/
+
+231
+
+A. Chtarto et al.
+
+159 Xie J, Xie Q, Zhang H, Ameres SL, Hung JH, Su Q, He R, Mu X,
+Seher Ahmed S, Park S, Kato H, Li C, Mueller C, Mello CC,
+Weng Z, Flotte TR, Zamore PD, Gao G. MicroRNA-regulated,
+systemically delivered rAAV9: a step closer to
+CNS-restricted transgene expression. Mol Ther 2011; 19:
+526–35.
+
+166 Jarraya B, Boulet S, Ralph GS, Jan C, Bonvento G, Azzouz M,
+Miskin JE, Shin M, Delzescaux T, Drouot X, Herard AS, Day
+DM, Brouillet E, Kingsman SM, Hantraye P, Mitrophanous
+KA, Mazarakis ND, Palfi S. Dopamine gene therapy for
+Parkinson’s disease in a nonhuman primate without
+associated dyskinesia. Sci Transl Med 2009; 1: 2ra4.
+
+160 Qing K, Wang XS, Kube DM, Ponnazhagan S, Bajpai A,
+Srivastava A. Role of tyrosine phosphorylation of a cellular
+protein in adeno-associated virus 2-mediated transgene
+expression. Proc Natl Acad Sci USA 1997; 94: 10879–84.
+
+167 Chen H, McCarty DM, Bruce AT, Suzuki K.
+Oligodendrocyte-specific gene expression in mouse brain:
+use of a myelin-forming cell type-specific promoter in an
+adeno-associated virus. J Neurosci Res 1999; 55: 504–13.
+
+161 Nakai H, Storm TA, Kay MA. Recruitment of single-stranded
+recombinant adeno-associated virus vector genomes and
+intermolecular recombination are responsible for stable
+transduction of liver in vivo. J Virol 2000; 74: 9451–63.
+162 McCarty DM, Fu H, Monahan PE, Toulson CE, Naik P,
+Samulski RJ. Adeno-associated virus terminal repeat (TR)
+mutant generates self-complementary vectors to
+overcome the rate-limiting step to transduction in vivo.
+Gene Ther 2003; 10: 2112–8.
+163 McCarty DM, Monahan PE, Samulski RJ.
+Self-complementary recombinant adeno-associated virus
+(scAAV) vectors promote efficient transduction
+independently of DNA synthesis. Gene Ther 2001; 8:
+1248–54.
+164 Bockstael O, Melas C, Pythoud C, Levivier M, McCarty D,
+Samulski RJ, De Witte O, Tenenbaum L. Rapid transgene
+expression in multiple precursor cell types of adult rat
+subventricular zone mediated by adeno-associated type 1
+vectors. Hum Gene Ther 2012; 23: 742–53.
+165 Ciron C, Cressant A, Roux F, Raoul S, Cherel Y, Hantraye P,
+Deglon N, Schwartz B, Barkats M, Heard JM, Tardieu M,
+Moullier P, Colle MA. Human alpha-iduronidase gene
+transfer mediated by adeno-associated virus types 1, 2, and
+5 in the brain of nonhuman primates: vector diffusion and
+biodistribution. Hum Gene Ther 2009; 20: 350–60.
+
+232
+
+/ 76:2
+
+/
+
+Br J Clin Pharmacol
+
+168 Xie J, Xie Q, Zhang H, Ameres SL, Hung JH, Su Q, He R, Mu X,
+Seher Ahmed S, Park S, Kato H, Li C, Mueller C, Mello CC,
+Weng Z, Flotte TR, Zamore PD, Gao G. MicroRNA-regulated,
+systemically delivered rAAV9: a step closer to
+CNS-restricted transgene expression. Mol Ther 2011; 19:
+526–35.
+169 Bartlett JS, Samulski RJ, McCown TJ. Selective and rapid
+uptake of adeno-associated virus type 2 in brain. Hum
+Gene Ther 1998; 9: 1181–6.
+170 Salegio EA, Samaranch L, Kells AP, Forsayeth J, Bankiewicz
+K. Guided delivery of adeno-associated viral vectors into
+the primate brain. Adv Drug Deliv Rev 2012; 64: 598–604.
+171 Dayton RD, Wang DB, Klein RL. The advent of AAV9
+expands applications for brain and spinal cord gene
+delivery. Expert Opin Biol Ther 2012; 12: 757–66.
+172 Manfredsson FP, Tumer N, Erdos B, Landa T, Broxson CS,
+Sullivan LF, Rising AC, Foust KD, Zhang Y, Muzyczka N,
+Gorbatyuk OS, Scarpace PJ, Mandel RJ. Nigrostriatal
+rAAV-mediated GDNF overexpression induces robust
+weight loss in a rat model of age-related obesity. Mol Ther
+2009; 17: 980–91.
+173 Lehtonen E, Bonnaud F, Melas C, Lubansu A, Malgrange B,
+Chtarto A, Velu T, Brotchi J, Levivier M, Peschanski M,
+Tenenbaum L. AAV2 vectors mediate efficient and
+sustained transduction of rat embryonic ventral
+mesencephalon. Neuroreport 2002; 13: 1503–7.
+
+

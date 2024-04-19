@@ -1,0 +1,1542 @@
+Published online 4 October 2006
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19 5515–5527
+doi:10.1093/nar/gkl712
+
+Multiple signaling pathways regulate the
+transcriptional activity of the orphan nuclear
+receptor NURR1
+Paola Sacchetti*, Rodolphe Carpentier, Pascaline Ségard, Cécile Olivé-Cren1 and
+Philippe Lefebvre
+INSERM U459, Faculté de Médecine de Lille, 59045 Lille, France and 1UMR CNRS 8009,
+LCOM—IFR 118, 59655 Villeneuve d’Ascq cedex, France
+Received April 20, 2006; Revised September 8, 2006; Accepted September 12, 2006
+
+ABSTRACT
+
+INTRODUCTION
+
+The orphan nuclear receptor nurr1 (NR4A2) is an
+essential transcription factor for the acquisition
+and maintenance of the phenotype of dopamine
+(DA)-synthesizing neurons in the mesencephalon.
+Although structurally related to ligand-regulated
+nuclear receptors, nurr1 is functionally atypical
+due to its inability to bind a cognate ligand and to
+activate transcription following canonical nuclear
+receptor (NR) rules. Importantly, the physiological
+stimuli that activate this NR and the signaling
+proteins that regulate its transcriptional activity in
+mesencephalic neurons are unknown. We used an
+affinity chromatography approach and CSM14.1
+cells of mesencephalic origin to isolate and identify
+several proteins that interact directly with nurr1 and
+regulate its transcriptional activity. Notably, we
+demonstrate that the mitogen-activated protein
+kinases, ERK2 and ERK5, elevate, whereas LIM
+Kinase 1 inhibits nurr1 transcriptional activity.
+Furthermore, nurr1 recruits ERK5 to a NBREcontaining promoter and is a potential substrate
+for this kinase. We have identified amino acids in
+the A/B domain of nurr1 important for mediating the
+ERK5 activating effects on nurr1 transcriptional
+activity. Our results suggest that nurr1 acts as a
+point of convergence for multiple signaling pathways that likely play a critical role in differentiation
+and phenotypic expression of dopaminergic
+(DAergic) neurons.
+
+Neurons of the ventral midbrain area synthesizing the neurotransmitter dopamine (DA) are implicated in disease states
+where dopaminergic (DAergic) neurotransmission is deregulated. Parkinson’s disease is a result of a severely reduced
+DAergic tone due to the degeneration of nigrostriatal neurons.
+In contrast, elevated DAergic signaling is observed in
+attention-deficit hyperactivity disorders and drug addiction
+(1). Although, these disorders have tremendous impact on
+human health, their aetiologies are still unclear and therapeutic tools remain to be developed.
+The transcription factor nurr1 [NR4A2; (2)] is highly
+expressed in DAergic neurons of the midbrain (3) and
+knock-out experiments in mice revealed that nurr1-mediated
+transcriptional activities are limited primarily to the midbrain
+DA neurons (4–6). Nurr1 is thought to play a key role in
+maintenance of a DAergic phenotype via regulation of
+DA neuron-specific genes [tyrosine hydroxylase (7–9); DA
+transporter (DAT) (10,11)]. It also promotes survival of DA
+neurons by protecting them from toxic insults (12). Thus,
+nurr1 serves as a DA neuron-specific transcription factor
+whose activities could be regulated to modulate DAergic
+neurotransmission in Parkinson’s disease and other disorders.
+Nurr1 is an atypical member of the nuclear receptor (NR)
+superfamily comprising mostly ligand-activated receptors,
+like glucocorticoid, estrogen and retinoic acid receptors,
+which regulate gene expression via recognition of specific
+DNA-binding sequences (13). Nurr1 shares with other NRs
+a common structural organization: the N-terminus contains
+an activation function 1 (AF1) involved in ligand-independent
+transcriptional activity, and is the target for regulatory posttranslational modifications (14). The central region of the
+protein consists of the highly conserved DNA-binding domain
+
+*To whom correspondence should be addressed at Molecular Neurobiology, MBB, Karolinska Institutet, Stockholm, Sweden. Tel: +46 8 5248 7656;
+Fax: +46 8 341960; Email: paola.sacchetti@ki.se
+Present address:
+Rodolphe Carpentier and Philippe Lefebvre, INSERM U545, Lille; Institut Pasteur de Lille, Département d’Athérosclérose, 59019 Lille, France
+ 2006 The Author(s).
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+5516
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+(DBD) that allows recognition of specific DNA sequences
+[hormone response elements (HREs)]. In the C-terminus,
+generally identified as the ligand binding domain (LBD),
+are located the dimerization interfaces for homo- and/or
+heterodimerization between NRs, the ligand binding pocket
+for the cognate ligand and the AF2, a highly conserved
+module that confers the ability to recruit co-activators
+(CoAs) and to induce transcriptional activity in response to
+agonists [reviewed by (13)].
+Upon binding of a cognate ligand, NRs undergo a conformational change inducing the loss of interaction with repressive proteins [known as co-repressors—CoRs; reviewed by
+(13)] in favor of CoAs, promoting transcriptional activation.
+Unlike other NRs, the amino acid sequence of the AF2
+domain of nurr1 is not conserved (15) and its ability to transactivate reporter genes appears to be constitutive (15,16). This
+receptor does not possess a typical ligand binding pocket.
+In fact, crystallographic studies show that nurr1 assumes
+the conformation of an active receptor even in the absence
+of a ligand and is thought to lack a classic CoA binding interface (17). In addition, the nurr1 DBD recognizes an extended
+HRE (NBRE—AAAGGTCA) and consequently can transactivate genes acting also as a monomer, unlike other NRs that
+require formation of homo- or heterodimers (15,16,18).
+Experiments reported to date show that nurr1 is an atypical
+NR whose transcriptional activity is independent of its
+interaction with classical NR CoAs, such as p160-related factors, CBP/p300 or the mediator complex. Only the rexinoid
+receptor RXR and the repressor PIASg have thus far been
+shown to interact directly with nurr1 and modulate its transcriptional activity (16,18–20). However, nurr1 function has
+been shown to be cell type-specific (15), suggesting that
+additional, as yet unidentified, cofactors are responsible for
+the tight regulation of nurr1 activity.
+Here, we report the screening of immortalized CSM14.1
+mesencephalic cells and the consequent identification of
+novel regulators of nurr1 activity. Notably, we establish
+that several protein kinases, which belong to signaling
+pathways known to regulate neuronal differentiation and
+cell survival, are capable of modulating nurr1 transcriptional
+activity. Our results suggest that these novel modulators are
+potentially responsible for regulating nurr1-mediated processes in DAergic neurons, such as gene expression and
+neuroprotection.
+MATERIALS AND METHODS
+Plasmids
+Glutathione S-transferase (GST)–nurr1 fusion proteins were
+constructed using PCR-generated fragments of mouse
+pCMX-nurr1 subcloned into pDEST15 plasmid (Gateway)
+following manufacturer’s instructions. The GST–LBD
+construct coded for aa 327–598, while a SmaI restriction of
+GST-A/B domain (1–262 amino acid) was used to subclone
+plasmid GST-A/BD183 (1–183 amino acid). Constructs
+were verified by automated sequencing and western blot.
+Plasmids NBRE3xtkLuc, pCMX-nurr1 and pCMXnurr1DAF2 have been described elsewhere (16), while the
+HA-tagged full-length human nurr1 was kindly donated by
+M.N. Castel (Aventis Pharma). Nurr1 mutants DA[Q7-P58],
+
+DB[I51-P127], DC[Y121-P169], DD[R166-Q180], DF[L368W420], DG[F426-G467], DH[Q473-R515], DI[K522-Q571],
+S89A, T168A and S177A were obtained by site-directed
+mutagenesis of plasmid pCMX-nurr1 using the Quick Change
+Kit (Stratagene) following manufacturer’s instructions. Following the same procedures, pCMV-HA-ERK5 (obtained
+from J. Dixon) was mutated by site-directed mutagenesis to
+obtain the kinase mutant forms, pHA-ERK5 AEF and pHAERK5 K83M. Wild-type (wt) ERK2 (pHA-ERK2), its constitutively active form (pCMV5-ERK2 L73P-His) and the
+catalytic inactive form (pCMV-HA-ERK2 K52R) were
+kindly provided by R. Davis, M. A. Emrick and P. Crespo,
+respectively. The following plasmids were kind gifts: GSTLIM (I. Briche) coding for a LIM domain; pcDNA3-LIMKinase1 (LIMK1) (G. N. Gill) and pcDNA3-HA-LIMK1
+kinase domain (H. Betz) coding, respectively for full-length
+wt and the kinase domain only of LIMK1; pEBG-BMK1,
+pFlag-BMK1/ERK5 wt and AEF (J. D. Lee); pMyc-HAMEK5 wt, dominant negative (dn) (K106M) and constitutively active (ca) (DD; M. Cobb) and ca RasL61 (R. Davis).
+RT–PCR
+Total RNA extraction and nurr1 amplification using specific
+primers were carried out as described previously (16).
+Cell lines and transfections
+PC12 cells were grown and transfected as described previously (16). For statistical analysis, ANOVA and post tests
+were performed using GraphPad prism software. CSM14.1
+cells (21) were grown at 33 C in 5% CO2 humidified
+atmosphere in DMEM high glucose (Invitrogen) containing
+10% FBS (BioWhittacker) and supplemented with 2 mM
+L-glutamine, 1000 U/ml penicillin and 100 mg/ml streptomycin (Invitrogen). For IPs, cells were plated (3.5 · 106
+cells) in 10 cm plates and transfected with LipofectAMINE
+reagent (Invitrogen).
+Preparation of CSM14.1 nuclear extracts—5 · 108
+CSM14.1 cells were washed with phosphate-buffered saline
+(PBS) and harvested by trypsin. Pellet was resuspended in
+4· Packet Cell Volume (PCV) buffer A [20 mM Tris–HCl
+(pH 7.9), 10 mM KCl, 0.2 mM EDTA, 0.2 mM EGTA,
+1.5 mM MgCl2, 350 mM sucrose, 0.5 mM phenylmethlysulfonyl fluoride (PMSF), 1 mM DTT, antiprotease cocktail
+(Sigma)] and cells were allowed to swell on ice for 15 min.
+After centrifugation, pellet was resuspended in 2 PCV buffer
+A and dounced 15 times with pestle B. After centrifugation,
+the nuclear pellet was resuspended in 0.5 PCV buffer A, 20%
+glycerol and then 0.4 PCV buffer B [20 mM Tris–HCl
+(pH 7.9), 1 M KCl, 0.5 mM PMSF, 1 mM DTT and antiprotease cocktail] was added dropwise. Nuclear fraction was
+incubated for 45 min with gentle rocking at 4 C, centrifuged
+and dialyzed overnight at 4 C against buffer C [20 mM
+Tris–HCl (pH 7.9), 100 mM KCl, 0.2 mM EDTA and 20%
+glycerol]. The extract was centrifuged and protein concentration was estimated by the Bradford Assay. Enrichment of the
+nuclear fraction was verified by using specific antibodies
+against nuclear proteins (TFIIB, RXR, SRC-1 and PARP-1)
+and no contamination by these proteins was observed in the
+cytosolic fraction.
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+GST-pulldown assays
+GST–LIM fusion protein was expressed in Escherichia coli
+BL21(DE3)pLysS following induction with 0.1 mM
+isopropyl-b-D-galactopyranoside (IPTG) for 3 h at 20 C.
+Soluble bacterial lysates were added to glutathione Sepharose
+beads (Amersham Biosciences), while 10 mg of the purified
+GST–ERK2 fusion protein (Cell Signaling Technology, Inc.)
+were added to glutathione Sepharose beads. GST–ERK5
+fusion protein was produced by transfecting CSM14.1 cells
+with pEBG-BMK1/ERK5 and protein extraction was
+performed as in co-immunoprecipitation and added to glutathione Sepharose beads. For binding assays, GST fusion
+proteins bound to the Sepharose matrix were incubated with
+35S-labeled proteins (TNT Quick coupled system, Promega)
+for 3 h with gentle rocking at 4 C in GST-binding buffer
+[20 mM Tris–HCl (pH 7.9), 180 mM KCl, 0.2 mM EDTA,
+0.05% NP-40, 0.5 mM PMSF and 1 mM DTT] containing
+1 mg/ml BSA. After extensive washing, resine-bound proteins were resolved by SDS–PAGE. Gels were dried and
+exposed for quantification with a Storm 860 phosphoimager
+(Molecular Dynamics). Binding values obtained were normalized against the input in each gel and values (n ¼ 3–5)
+were averaged and standardized compared to wt binding
+(100%). For pulldown assays with nuclear extracts, GST
+and GST-nurr1 proteins underwent double purification after
+which purity and quantification of GST fusion protein were
+estimated by silver nitrate staining. Binding with CSM14.1
+nuclear extracts was performed as described previously (22)
+overnight at 4 C and samples were resolved by 6–15% gradient SDS–PAGE. Following Colloidal Blue staining, proteins
+were analyzed by mass spectroscopy.
+Immunoblotting
+GST-pulldown samples obtained using nuclear extracts were
+resolved on 9% SDS–PAGE and transferred onto nitrocellulose membranes (Hybond-C, Amersham Biosciences).
+Immunodetections were carried out as described previously
+(16) using antibodies directed against RXRa (sc-553; Santa
+Cruz Biotechnology), ERK (610 123; BD Biosciences
+Pharmingen) and horseradish peroxidase (HRP)-conjugated
+secondary antibodies (Sigma).
+Co-immunoprecipitations and DNA-IP assays
+CSM14.1 cells were transfected with a HA-tagged nurr1
+encoding plasmid and a second plasmid encoding for the
+appropriate partner when necessary (see figure legend).
+Cells were harvested in IP lysis buffer [20 mM Tris–HCl
+(pH 7.5), 150 mM NaCl, 1 mM EDTA, 1 mM EGTA,
+1% Triton, 2.5 mM sodium pyrophosphate, 1 mM bGlycerolphosphate, 1 mM Na3VO4 and 1 mg/ml Leupeptin].
+Whole-cell extracts (1 mg) were incubated overnight at 4 C
+with 25 ml anti-HA agarose conjugated beads (A-2095;
+Sigma). After extensive washing, samples were resuspended
+in sample buffer and resolved by SDS–PAGE. Detection
+of HA-nurr1 was determined by immunoblotting using
+an anti-HA antibody (H-9658; Sigma), while the coimmunoprecipitated proteins were revealed using antibodies
+raised against ERK, BMK1/ERK5 (07–039; Upstate) and
+LIMK1 (sc-5576).
+
+5517
+
+For DNA-IP assays, CSM14.1 and PC12 cells were
+transfected with HA-nurr1 and pGL3-NBRE3xtkLuc or
+pGL3-tk-Luc plasmids. After 36 h of post-transfection, the
+cells were washed in PBS containing 1 mM MgCl2 and
+fixed in formaldehyde (1% final concentration) for 15 min
+at 37 C, and the reaction was stopped by addition of
+200 mM glycine at room temperature. Cells were washed
+twice in PBS/MgCl2 and scrapped in 1 ml ice-cold PBS.
+Cells were lysed in 0.6 ml lysis buffer [1% SDS, 10 mM
+EDTA, 50 mM Tris–HCl (pH 8.1), 0.5 mM PMSF and
+1· protease inhibitors (Sigma)]. DNA was sheared by
+sonication and cell debris were eliminated by centrifugation.
+Supernatant was diluted 10-fold in ChIP buffer [0.01% SDS,
+1.1% Triton X-100, 2 mM EDTA, 20 mM Tris–HCl (pH 8.1),
+150 mM NaCl and protease inhibitors] followed by immunoclearing with 100 ml of 50% protein A-agarose slurry
+(16–125, Upstate) for 4 h at 4 C. Immunoprecipitations
+were performed overnight at 4 C using 2–4 mg of specific
+antibodies [anti-nurr1 (sc-990, Santa Cruz) and anti-BMK1/
+ERK5 (Upstate)]. Complexes were collected by incubation
+at 4 C for 2 h with 40 ml of 50% protein A-agarose slurry
+in ChIP buffer plus 100 ml salmon sperm DNA and 2 mg
+ovalbumin per ml. Beads were washed twice with low salt
+buffer [0.1% SDS, 1% Triton X-100, 2 mM EDTA, 20 mM
+Tris–HCl (pH 8.1) and 50 mM NaCl], once with LiCl Buffer
+[0.25 M LiCl, 1% IGEPAL-CA630, 1% sodium deoxycholate, 1 mM EDTA and 10 mM Tris–HCl (pH 8.1)]
+and twice with TE Buffer [10 mM Tris–HCl (pH 8.1) and
+1 mM EDTA]. Immune complexes were eluted overnight
+at 65 C in elution buffer containing 0.1 M NaHCO3 and
+1% SDS. DNA was purified with the QIAquick Spin kit
+(Qiagen) and amplified by PCR using RVprimer3 and
+GLprimer2 (Promega) as upstream and downstream primers,
+respectively. Conditions were optimized to ensure linearity of
+the PCR.
+In vitro phosphorylation assays
+GST fusion proteins (A/BD183 and GST only) were expressed
+in E.coli and purified as described above. CSM14.1 cells were
+lysed in IP lysis buffer and 400 mg of total proteins were incubated overnight at 4 C with an anti-ERK5 antibody followed
+by addition of 60 ml of a 50% slurry of Protein A-agarose
+for 2 h. Immunoprecipitates were incubated with 1 mg of
+purified GST fusion proteins and 5 mCi of [g-32P]ATP in
+50 ml of kinase buffer [25 mM Tris–HCl (pH 7.5), 5 mM
+b-Glycerolphosphate, 2 mM DTT, 0.1 mM Na3VO4 and
+10 mM MgCl2] for 30 min at 30 C. Kinase reactions were
+terminated by addition of SDS sample buffer and samples
+were resolved by SDS–PAGE. Equal loading of fusion proteins was verified by Coomassie blue staining of the SDS gel.
+
+RESULTS
+Isolation of nurr1-interacting proteins from CSM14.1
+mesencephalic cells
+Preliminary studies using in vitro pulldown assays showed
+that the NR nurr1 does not interact with most known NR
+CoAs [P. Sacchetti and P. Lefebvre, unpublished data; (17)].
+These data, in addition to the observation that nurr1
+
+5518
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+transcriptional activity is cell type-specific, suggested that
+nurr1 might interact with tissue-specific regulators present
+only in nurr1-expressing cells. To identify novel modulators
+of nurr1 activity, we examined a cell type closely related
+to DAergic cells. The immortalized cell line, CSM14.1,
+derived from primary foetal rat mesencephalic cells, has
+been shown previously to express tyrosine hydroxylase and
+nurr1 (23). Nurr1 mRNA was expressed at high levels in
+CSM14.1 cells and modulated by forskolin as reported
+previously [Supplementary Figure 7; (24)], while it was not
+endogenously expressed in PC12 cells. We tested the ability
+of nurr1 to increase expression levels of a reporter construct
+encoding for a luciferase gene under the control of three
+canonical nurr1 binding sites [NBRE3xtkLuc; (16)]. In
+CSM14.1 cells, nurr1 was able to activate transcription of
+this reporter gene (data not shown) suggesting that these
+cells of mesencephalic origin express a functional nurr1
+protein as well as its transcriptional partners.
+We set up an affinity chromatography technique to identify
+nurr1-interacting proteins in nuclear extracts of CSM14.1
+cells. We engineered two nurr1 bait proteins (Figure 1A),
+one coding for the N-terminus including the AF1 domain
+(GST-A/BD183; 1–183 amino acid), and the other for the
+C-terminus including the AF2 domain (GST–LBD; 327–598
+amino acid). We then performed GST-pulldown assays by
+coincubating the GST fusion proteins and CSM14.1 nuclear
+extracts, and the bound proteins were resolved by SDS–
+PAGE. Evaluation of the differential protein profiles retained
+by the three GST fusion proteins was first performed by
+silver stained gradient gels (Figure 1B). Only few bacterial
+contaminants were retained non-specifically by the GST
+bait alone or GST-nurr1 proteins in the absence of nuclear
+extracts. Subsequently, identical experiments were performed
+and the corresponding gels were Colloidal blue stained for
+MALDI-TOF/MS mass spectroscopy analysis (Supplementary Figure 8). Bands of interest representing proteins that
+were specifically retained by the nurr1 fusion proteins were
+excised from Colloidal blue stained gels (corresponding
+arrow heads, shown on silver nitrate stained gel; Figure 1B)
+and analyzed by MALDI-TOF/MS mass spectroscopy for
+identification of protein fragments as detailed in Supplementary Data. Proteins identified by mass spectroscopy analysis
+were classified according to their functional role, as shown
+in Supplementary Table 1. Strikingly, a large number of the
+factors identified were members of signaling pathways (ERK,
+Akt and LIMK1) and several were transcription factors,
+most of which were NRs [RXRa, peroxisome proliferatoractivated receptor g (PPARg) and farnesoid X receptor
+(FXR)]. We also identified potential repressors NR corepressor 1 (NCoR-1 and Mxi1) and a protein implicated in
+DNA repair mechanisms (PARP-1). Several of the potential
+interactions were subsequently confirmed through independent in vitro experiments (Supplementary Figure 9)
+and thus, proteins like Poly (ADP-ribose) Polymerase-1
+(PARP-1), NCoR-1, PPARg, glucocorticoid receptor (GR;
+R. Carpentier and P. Lefebvre, manuscript in preparation),
+FXR and the transcription factor signal transducer and activator of transcription (STAT3) were identified as new potential
+transcriptional partners of nurr1.
+
+A
+
+1
+
+183 262 327
+A/B
+
+598
+
+DBD
+
+nurr1
+
+LBD
+
+AF1
+
+AF2
+
+GST-A/B∆
+GST-LBD
+
+B
+
+GST-A/B ∆ GST-LBD
+MM
+
+-
+
+-
+
++
+
++
+
+GST
+
+-
+
++ CSM14.1 Nuc.Ext.
+
+220
+160
+120
+100
+90
+80
+70
+60
+GST-nurr1
+
+50
+40
+30
+
+GST
+
+C
+MM
+
+GST-LBD
+
+GST-A/B∆
+
+-
+
+-
+
++
+
++
+
+Input
+
+GST
+
+-
+
++
+
+CSM14.1 Nuc.Ext.
+
+84
+66
+
+RXRα
+
+50
+84
+66
+50
+
+ERK5
+ERK1/ERK2
+
+Figure 1. Identification of nurr1-interacting proteins in cells of mesencephalic origin. (A) Schematic representation of the N- and C-termini of nurr1
+fused to GST and used as baits in GST-pulldown experiments. (B) Silver
+nitrate staining of pulldown samples obtained after incubation of immobilized
+GST–nurr1 fusion proteins with (+) or without () CSM14.1 nuclear extracts
+(1.5 mg). GST alone was used as control for non-specific interactions.
+Samples were separated on 6–15% gradient one-dimension (1D) gels before
+staining. Multiple identical experiments (n ¼ 7) were performed and analyzed
+by 1D gel in strictly comparable conditions. Gels with similar electrophoretic
+profiles (n ¼ 4) were used to excise colloidal blue stained protein bands
+which were further analyzed by mass spectroscopy after tryptic digestion.
+A representative silver stained gel is shown and arrows correspond to bands
+of interest excised from Colloidal blue stained gels for further analysis. (C)
+Detection of identified partners on 1D gels. After transfer to nitrocellulose
+membranes of GST-pulldown samples obtained using 300 mg of CSM14.1
+nuclear extracts, western blots were performed using the specified antibodies
+(RXR and ERK) to detect newly identified interacting factors. Values on the
+left inside denote molecular weights.
+
+In vitro validation of nurr1 interactions with LIMK,
+ERK1/2, ERK5
+Mass spectroscopy analysis provided a list of new potential
+partners of nurr1 that needed to be further validated. To confirm the identity of proteins of interest, we performed western
+blots on the affinity chromatography eluates, when specific
+antibodies were available. Using an RXRa-specific antibody,
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+5519
+
+C
+
+A
+
+GST-nurr1
+Input
+
+LBD A/B
+
+LIMK1
+
+-
+
++
+
+GST
+
+LIMK
+
+IP nurr1
+( HA)
+
+LIMK1
+
+LIMK)
+
+nurr1
+( HA)
+LIMK
+
+Input
+
+LIMK1
+kinase
+domain
+
+LIMK)
+
+D
+ERK2ca
+
+-
+
++
+ERK2
+
+B
+
+GST
+Input
+
+LIM
+
+ERK)
+
+IP nurr1
+( HA)
+
+nurr1
+( HA)
+
+-
+
+ERK2
+
+Input
+nurr1
+
+Input ERK2
+
+-
+
+Input ERK5
+
+E
+ERK5
+
+nurr1
+
+-
+
+nurr1
+
+ERK)
+
+IP nurr1
+( HA)
+Input
+
+-
+
++
+ERK5
+
+ERK5)
+
+nurr1
+( HA)
+ERK5
+
+ERK5)
+
+Figure 2. Nurr1 interacts directly with multiple proteins identified by MS analysis. (A) 35S-labeled LIMK1 or kinase domain of LIMK1 were incubated in the
+presence of bacterially expressed GST alone () and GST–nurr1 fusion proteins (LBD or A/BD domain) for 3 h. The first lane corresponds to 10% input. Protein
+interactions were analyzed by SDS–PAGE and assayed by autoradiography. (B) 35S-labeled full-length nurr1 was incubated with ERK2, LIM domain, ERK5
+fused to GST or GST alone () expressed, separated and assayed as in (A). (C–E) In vivo interactions between nurr1 and several signaling proteins.
+Co-immunoprecipitations with the anti-HA antibody of cellular extracts of CSM14.1 cells co-transfected with HA-tagged human nurr1 and empty vector () or
+expression plasmids of indicated proteins (+): (C) pcDNA3-LIMK1 and detected with anti-LIMK antibody, (D) pCMV-ERK2ca and visualized with pan-ERK
+antibody and (E) pFlag-ERK5 wt and detected with anti-BMK1/ERK5 antibody. Input represents levels of GST-LIMK, ERK2 and ERK5 in CMS14.1 cells.
+
+an interaction between RXRa and the nurr1 GST–LBD fusion
+protein was detected (Figure 1C), thus providing validation
+for our screening system. Using an antibody capable of recognizing different forms of mitogen-activated protein kinases
+(MAPK), a differential profile was observed with GST–
+LBD versus GST-A/B protein (Figure 1C). Both A/B and
+LBD domains interacted with ERKs (44/42 kDa), whereas
+the LBD only interacted with big-mitogen-activated kinase
+1 BMK1/ERK5 (ERK5, 85 kDa). None of the proteins tested
+were found to interact non-specifically with the GST bait.
+The question whether these proteins interact directly
+with nurr1 was addressed by GST-pulldown experiments
+using in vitro radiolabeled proteins and nurr1 fusion proteins
+(see Figure 1A). Radiolabeled full-length LIM Kinase 1
+(LIMK1) interacted with both nurr1 domains LBD and A/B
+in similar manner, but not with GST alone (Figure 2A).
+Similarly, the C-terminal part of LIMK that encodes for
+its kinase domain displayed a strong interaction with both
+LBD and A/B domains of nurr1, as shown in Figure 2A.
+Nurr1 also interacted with a LIM domain-containing module
+
+(similar to the LIMK1 module), when we incubated a GSTLIM construct overexpressed in bacteria and radiolabeled
+nurr1 (Figure 2B). Thus, LIMK1 participates in a direct and
+concomitant protein–protein interaction with nurr1 via its
+LIM and kinase domains. We thought to verify that fulllength nurr1, and not only its separately expressed domains,
+were capable of interacting with the proteins identified. We
+radiolabeled nurr1 and incubated it with GST fusion constructs encoding for potential partners (Figure 2B). A strong
+specific interaction was observed between nurr1 and ERK2.
+Since the presence of ERK5 in the chromatography eluates
+was confirmed by western blotting (Figure 1C), we tested
+its interaction with nurr1 and obtained a positive signal
+(Figure 2B).
+Nurr1 interacts with LIM kinase 1, ERK2 and ERK5 in
+intact CSM14.1 cells
+We sought to establish that the observed physical interactions
+detected in our in vitro experiments also occurred in intact
+
+5520
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+mesencephalic cells. We performed co-immunoprecipitation
+studies using CSM14.1 cells co-transfected with an expression plasmid coding for HA-tagged full-length human
+nurr1, and plasmids encoding for the proteins identified
+through our screening. An empty vector was used as negative
+control. After overexpression of wt LIMK1, we observed an
+interaction between LIMK1 and nurr1 (Figure 2C). A strong
+interaction was detected between nurr1 and the constitutively
+active form of ERK2 (ERK2 ca; Figure 2D), suggesting that
+the catalytic activity of ERK2 is important for the interaction
+with nurr1. We also performed experiments in vivo with
+ERK5 and observed an interaction with nurr1 in CSM14.1
+cells (Figure 2E). Identical results were obtained when
+similar experiments were performed in the human embryonic
+kidney 293-T cell line (data not shown).
+Nurr1 has distinct binding sites for different kinases
+We further dissected the A/B and LBD regions of nurr1 to
+identify the specific binding domains implicated in the interaction with these protein kinases. Several minimal deletion
+mutants in the A/B (DA-D) and LBD (DF-I) domains of
+nurr1 were engineered (Figure 3A), in vitro radiolabeled
+and tested by GST-pulldown experiments with LIM domains
+of LIMK1, wt ERK2 and wt ERK5 proteins. As summarized
+in Figure 3A and shown in the representative experiments
+in Figure 3B, deletion of the region spanning from amino
+acid 1 to 52 of nurr1 did not affect its interaction with any
+of the kinases. Interestingly, deletion of the AF1 core domain
+(amino acid 52–84; DB) partially altered the physical binding
+of nurr1 with both MAPKs (ERK2 and ERK5), but not with
+LIMK1. Deletion of amino acid 166–180 (DD) severely
+impaired the binding of nurr1 to LIMK1 and partially to
+ERK2, but did not interfere with ERK5 interaction
+(Figure 3). On the other hand, the mutant DF (deleted from
+amino acid 368 to 420) was the only one to lose its ability
+to bind to ERK5, validating the previously observed binding
+of ERK5 to the LBD and not to the A/B domain of nurr1
+(Figure 1C). The mutant DF also showed a lower binding to
+LIMK1, suggesting that this hinge region may play an important role in protein–protein interactions. Mutations in the
+C-terminal domain of nurr1 (DG-DAF2) mostly affected the
+interaction of nurr1 with LIMK1, in particular, as shown in
+Figure 3, more dramatic effects were obtained with mutants
+DH and DI. Loss of the AF2 domain (nurr1-DAF2) affected
+only the interaction with ERK5. Taken together, these data
+confirms that nurr1 interacts via distinct and separate binding
+sites to the different protein kinases identified by affinity
+chromatography, arguing for a specificity of the binding of
+Nurr1 to these novel partners.
+ERK2 and LIMK1 are co-regulators of nurr1
+Given that nurr1 transcriptional activity is not regulated by a
+cognate ligand and known CoAs, we postulated that posttranslational modifications could play a major role in modulating its activity. Thus, we were interested in characterizing
+the effects of the protein kinases identified on nurr1 activity.
+We tested the ability of the interacting factors to alter nurr1
+function in PC12 cells which do not express nurr1 and have
+been used extensively to study nurr1 functional activity (16).
+Cells were transiently transfected with the NBRE3xtkLuc
+
+reporter construct and we studied the effects of overexpressing different proteins on nurr1 transcriptional activity.
+As previously shown (16), the reporter construct is devoid of
+activity in this cell line and overexpression of the different
+kinases tested did not alter its basal activity (see insets
+Figure 4A and B).
+As shown in Figure 4A, overexpressing increasing amounts
+of wt ERK2 did not strongly alter the effect of nurr1 on the
+NBRE3xtkLuc construct. In contrast, the constitutively active
+form of ERK2 (ERK2 ca) was able to further enhance the
+nurr1-induced luciferase activity in a dose-dependent manner.
+These results together with the Co-IP shown in Figure 2D
+suggest that the catalytic activity of ERK2 is essential for
+the interaction of the kinase with nurr1. To validate the role
+of ERK2 activation in the regulation of nurr1 activity, we
+used a kinase-dead form of ERK2 (K52R) containing a mutation that disrupts ATP-binding and thus prevents phosphorylation of substrates (25). Contrary to the effects observed with
+the ca and wt forms of ERK2, increasing doses of the K52R
+mutant did not further enhance the nurr1-induced activity of
+the NBRE3x construct (Figure 4A). Thus, these results
+suggest that a functional ERK2 kinase activity is required
+to affect nurr1 transcriptional activity. Conversely, overexpression of wt LIMK1 protein strongly repressed the
+transcriptional effects producing up to 45% inhibition of
+the nurr1-induced luciferase activity (Figure 4B), without
+affecting the basal activity of the NBRE3x construct alone
+(inset). Thus, our functional experiments strengthen the coimmunoprecipitation results (Figure 2C and D) and underscore the existence of a physical and functional link between
+nurr1 and the catalytic activities of ERK2 and LIMK1.
+Big-mitogen kinase 1/ERK5 enhances nurr1
+transcriptional activity in vivo
+Our screening also identified the MAPK/ERK kinase
+5 (MEK5) as a potential modulator of nurr1 activity
+(Supplementary Table 1). Co-immunoprecipitation and GSTpulldown experiments established an interaction between
+nurr1 and ERK5 (Figures 2 and 3), the direct substrate of
+MEK5. We therefore tested whether overexpressing components of the MEK5/ERK5 signaling pathway altered nurr1
+activity. Increasing doses of wt ERK5 did not affect the
+basal activity of the NBRE3xtkLuc construct in the absence
+of nurr1 (Figure 5A). Whereas nurr1-induced activation of
+the luciferase construct was significantly enhanced by wt
+ERK5 in a dose-dependent manner. We then tested the
+effects of MEK5 on the transcriptional activity of nurr1
+using MEK5 wt, ca and dn forms (Figure 5B). As observed
+previously, none of the constructs activated non-specifically
+the NBRE3xtkLuc reporter, while nurr1 alone or in the presence of ERK5 increased luciferase activity. Cotransfection of
+nurr1, ERK5 and wt MEK5 as well as its ca form significantly enhanced luciferase levels, whereas the dn MEK5
+had no significant effect (Figure 5B). To verify that ERK5
+is indeed the conduit for transduction of MEK5 signal, we
+used a Flag-tagged wt ERK5 construct (Flag-ERK5 wt) as
+well as a ERK5 mutant lacking both activation sites for
+MEK5 (Flag-ERK5 AEF). In the presence of wt ERK5, constitutively active MEK5 was able to enhance nurr1-induced
+luciferase expression (Figure 5C). However, the level of
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+5521
+
+Figure 3. Mapping of the domains of interaction between nurr1 and LIMK1, ERK2, ERK5. (A) Schematic representation of the nurr1 deletion mutants used for
+GST-pulldown assays and summary of the quantification of obtained interactions with the kinases. Symbols represent quantification of binding interactions
+(n ¼ 3–5). Intensity of binding was standardized to that of wt (100%); +, binding values <80%; ±, 79< · <60; , <59%. (B) Representative GST-pulldown
+assays obtained by incubating 35S-labeled pCMX-nurr1 wt or deletion mutants (wt, DA-I, DAF2) with bacterially expressed GST alone () and GST-kinase
+fusion proteins (wt GST-LIM domain, -ERK2 or -ERK5).
+
+luciferase expression due to the coexpression of nurr1 and
+the ERK5 AEF mutant did not change in the presence of
+MEK5 ca, suggesting that MEK5 could modulate nurr1
+activity essentially through ERK5 activation. Surprisingly,
+
+the unphosphorylated AEF mutant was still capable of
+enhancing nurr1 activity, even in the absence of MEK5 contribution (Figure 5C). It has been previously suggested that,
+in non-activating conditions, ERK5 AEF could act as the
+
+5522
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+A
+
+250
+
+300
+
+200
+150
+
+250
+
+100
+
+*
+
+% activation
+
+50
+
+200
+
+0
+
+-
+
+*
+
+*
+
+ERK2 wtERK2 ca
+
+150
+100
+
+nurr1
+
+0
+
+-
+
+50
+
+ERK2 wt
+
+ERK2 ca
+
+ERK2 K52R
+
+nurr1
+
+B
+
+200
+150
+
+125
+
+100
+50
+
+% activation
+
+100
+
+#
+
+75
+
+0
+
+*
+
+-
+
+**
+
+LIMK1
+
+**
+50
+
+0
+
+nurr1
+
+25
+
+LIMK1 wt
+nurr1
+
+Figure 4. Modulation of nurr1-induced activation of NBRE3xtkLuc
+reporter gene by identified interacting proteins. (A) Analysis of luciferase
+activity in PC12 cells transfected with 25 ng of nurr1 and increasing amounts
+of wt ERK2 compared to identical doses of constitutively active ERK2
+(ca) and kinase-dead (K52R). Normalized luciferase activity of nurr1 on
+NBRE3xtkLuc was expressed as Fold activation over NBRE3xtkLuc
+alone and set to 100%. All other values are compared to it. Data are the
+means ± S.E. (bars) of five experiments (two for insets) with n ¼ 3 for each
+experiment (#, P < 0.05; *, P < 0.01; **, P < 0.001). (B) Luciferase activity of
+PC12 cells transfected with nurr1 and increasing amounts of wt full-length
+LIMK1 encoding plasmid. Results are expressed as described in (A).
+
+wild-type form since it still retains the capacity to activate
+known substrates (26). Thus, to determine if basal ERK5
+activity was sufficient to affect nurr1 transcriptional activity,
+we co-expressed nurr1 and different forms of ERK5 (HAERK5 wt, AEF and the kinase-dead ERK5 mutant K83M)
+and measured NBRE luciferase levels (Figure 5D). Wt
+ERK5 and the AEF mutant further enhanced nurr1-induced
+luciferase activity, with the mutant showing stronger activating effects on nurr1 activity (the HA-tagged AEF construct
+showed higher effects on nurr1 activity than the Flag-tagged
+construct; compare Figure 5C and D). Importantly, the
+kinase-dead mutant had no effects at any of the doses used.
+
+Hence, the basal activity of ERK5 seems sufficient to affect
+nurr1 function without excluding that, in particular conditions, activation of MEK5 could further contribute to the
+modulation of nurr1 transcriptional activity.
+To clarify the mechanism by which ERK5 transduces its
+activating properties on nurr1, we asked if the transcriptional
+effects observed were correlated with an interaction between
+nurr1 and ERK5 on DNA. Because of the lack of direct
+nurr1 binding response elements in the promoters of DAergic
+target genes, we used the NBRE reporter construct for our
+DNA immunoprecipitation assays, a system previously used
+to explore NRs transactivation mechanisms (27). Thus, we
+tested the recruitment of the two proteins on the NBREcontaining reporter plasmid by DNA immunoprecipitation
+assay (Figure 6A) using antibodies specific to nurr1 and
+ERK5. Immunoprecipitation followed by PCR amplification
+of the DNA fragment encompassing the three NBRE response
+elements showed that nurr1 and ERK5 were both strongly
+bound to this response element in vivo, suggesting that
+ERK5 interacts with DNA-bound nurr1 and acts as transcriptional activator. This recruitment was not observed on a promoter deprived of the nurr1 binding sites (pGL3-tk-Luc;
+Figure 6A). Identical DNA immunoprecipitation results
+were obtained in CSM14.1 and PC12 cells, confirming our
+functional studies obtained in the later cell type (Figure 5).
+These studies suggested that the kinase activity of ERK5
+was involved in enhancing nurr1 activity. Thus, we wondered
+if nurr1 could be a new substrate for this kinase and tested the
+ability of ERK5 to phosphorylate GST–nurr1 fusion proteins
+in vitro. Therefore, we immunoprecipitated endogenous
+ERK5 from CSM14.1 cells and co-incubated GST fusion
+proteins coding for the A/B domain of nurr1 with the precipitated kinase in the presence of radioactive ATP. As
+shown in Figure 6B, nurr1 A/B domain was significantly
+phosphorylated by ERK5, while the GST protein alone was
+not a substrate for this kinase. We attempted to activate the
+endogenous MEK-ERK5 pathway by stimulating CSM14.1
+cells with EGF for 15 min and verify the phosphorylation
+state of nurr1. Figure 6B shows the EGF-induced phosphorylation of ERK5, as shown by western blot, however
+no changes were observed in the phosphorylation state of
+nurr1. These data would suggest once again that the basal
+activity of ERK5 is responsible for the phosphorylation of
+nurr1. To establish which amino acids were implicated
+in ERK5-mediated phosphorylation, several residues in the
+A/B domain of nurr1 were mutated to alanines. First, we
+observed that all point mutations had a high basal activity
+which was comparable to wt nurr1 plus ERK5 (Figure 6C)
+and that, similarly to wt nurr1, the S89A mutant response
+was significantly enhanced in the presence of ERK5. On
+the other hand, the activity of the T168A mutant was only
+slightly increased in the presence of the kinase, while the
+S177A mutant lost completely its capacity to be activated
+by ERK5. Thus, residues T168 and S177 appeared to be
+implicated in the activation of nurr1 transcriptional activity
+by ERK5. All together these results suggest that nurr1 is a
+downstream target of the MEK5-ERK5 signaling pathway,
+as suggested by the recruitment of ERK5 to the NBRE, the
+phosphorylation of nurr1 N-terminal by this same kinase
+and the capacity of MEK5 and ERK5 to increase nurr1
+transcriptional activity.
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+B
+
+300
+250
+
+0
+
+0
+
+ERK5 wt
+
+ERK5 wt
+
+ca
+
+50
+
+nurr1
+
+50
+
+dn
+
+100
+
+-
+
+100
+
+150
+
+nurr1
+
+150
+
+**
+
+200
+
+dn
+
+*
+
+#
+
+ca
+
+% activation
+
+**
+
+200
+
+-
+
+% activation
+
+250
+
+wt
+
+300
+
+wt
+
+300
+
+-
+
+A
+
+5523
+
+MEK5
+
+nurr1
+
+nurr1 + ERK5 wt
+
+C
+
+D
+
+250
+
+200
+
+200
+
+% activation
+
+% activation
+
+#
+
+100
+
+150
+100
+
+0
+
+MEK5 ca
+ERK5 wt
+
+ERK5 AEF
+
+0
+
+nurr1
+
+50
+
+ERK5 wt ERK5 AEF ERK5 K83M
+
+nurr1
+
+nurr1
+Figure 5. Nurr1 transcriptional activity is regulated by the MEK5/ERK5 signaling pathway. (A) Dose-dependent induction by wt ERK5 of NBRE3xtkLuc
+activity in the presence of 25 ng of nurr1 in PC12 cells transfected with increasing doses of wt HA-ERK5. (B) Analysis of luciferase activity induced by MEK5
+wt, ca and dn in the absence or presence of pCMX-nurr1 and wt HA-ERK5. (C) Comparison of transcriptional activity between wt and dn ERK5. PC12 cells were
+transfected with NBRE3xtkLuc, pCMX-nurr1, wt Flag-ERK5 or Flag-ERK5 AEF in the presence or absence of MEK5 ca. (D) Comparison of transcriptional
+activity induced by wt, AEF and kinase-dead K83M ERK5. Cells were transfected as in (A). Luciferase activity was normalized and results are expressed as
+described in Figure 4. Data are the means ± S.E. (bars) of 3–6 experiments.
+
+DISCUSSION
+DAergic neurons are essential for the appropriate functioning
+of brain areas controlling motor behavior, motivation and the
+reward system, and diseases inducing imbalances in DAergic
+neurotransmission are very debilitating (1). The orphan NR
+nurr1 is a transcription factor highly expressed in mesencephalic DAergic neurons and it plays a major role in the
+development and maintenance of the phenotype of these
+cells. However, how nurr1 is tightly regulated and controls
+DAergic neuronal function is presently unknown. Target
+genes implicated in DAergic phenotype specification and
+directly bound by nurr1 still remain to be identified. For
+example, the DAT has been described as a nurr1-target gene,
+but its activation occurs via an indirect mechanism (10).
+
+Nurr1 has a high tissue-specific activity and does not recruit
+classical NR CoAs, at least in vitro [P. Sacchetti and
+P. Lefebvre, unpublished data; (15,17)], suggesting that
+nurr1 transcriptional activity might be regulated by interactions with, and/or modifications induced by, tissue-specific
+factors. The well characterized nurr1-RXR heterodimers
+(16,19) do not control nurr1-regulated expression of phenotypic marker genes, e.g. DAT (10), thus rendering necessary
+the identification of other partners to understand the transcriptional mechanisms used by nurr1 to regulate gene expression
+in DA cells. To identify proteins involved in the regulation
+of nurr1 transcriptional activity in neuronal cells, we used
+an affinity chromatography system and embryonic cells of
+mesencephalic origin (CSM14.1) that endogenously express
+
+5524
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+A
+
+Input no Ig αnurr1αERK5
+
+NBRE3x
+
+380bp
+pGL3
+
+380bp
+
+B
+
+IP αERK5
+EGF +
+
+IP αERK5
+Input A/B∆ GST
+
+ERK5
+Nurr1
+A/B∆
+
+50 kDa
+
+P-ERK
+ERK5
+
+wb
+
+C
+% activation
+
+250
+
+**
+
+200
+150
+
+#
+
+100
+50
+0
+ERK5 wt
+
+wt
+
+S89A
+
+T168A
+
+S177A Nurr1
+
+Figure 6. Nurr1 is phosphorylated by BMK1/ERK5 MAP kinase. (A) DNA
+immunoprecipitation of nurr1 and endogenous ERK5 recruited to NBREs in
+cells overexpressing HA-nurr1, but not to a promoter lacking nurr1 response
+elements, pGL3-tk-Luc. (B) Endogenous ERK5 immunoprecipitated from
+untransfected CSM14.1 cells was incubated with GST-A/BD nurr1 or GST
+fusion proteins and [g-32P]ATP for 30 min. Arrows indicate phosphorylated
+nurr1. For activation of MEK-ERK5 pathway, cells were stimulated for
+15 min with 100 ng/ml of EGF. (C) Analysis of luciferase activity induced by
+coexpression of wt HA-ERK5 and wt pCMX-nurr1 or point mutations S89A,
+T168A and S177A on NBRE3xtkLuc. Normalized luciferase activity of wt
+nurr1 plus ERK5 was set to 100% and all other values were compared to it.
+Data are the means of ± S.E. (bars) of five independent experiments (n ¼ 3 in
+each experiment).
+
+nurr1. We focused on validating interactions between nurr1
+and proteins expressed in mesencephalic neurons for which
+we could envisage a physiological role.
+Using this affinity chromatography screen coupled to mass
+spectroscopy, we have confirmed the interaction between
+nurr1 and RXR and we also identified novel interactions
+with NRs and other transcription factors in CSM14.1 cells.
+Our screening confirmed previously obtained in vitro results
+showing that nurr1 does not interact with most of the known
+NR cofactors (15,17). In fact, in our assays we only detected
+
+an interaction with the NR repressor NCoR-1, which was
+further confirmed by GST-pulldown experiments (Supplementary Figure 9). However, the mass spectroscopy analysis
+identified new potential dimer partners of nurr1 pertaining to
+the NR superfamily, like the PPARg, glucocorticoid receptor
+(GR; R. Carpentier and P. Lefebvre, manuscript in preparation) and FXR, and using several techniques (western blot,
+GST-pulldown and Co-IPs) we confirmed these physical
+interactions (Supplementary Figure 9) and are currently
+evaluating the functional roles of these dimers.
+However, this screening method enabled us to identify
+not only direct binding partners (Figure 2), but also proteins
+that at first glance were unlikely to interact directly with a
+transcription factor, like MEK and p21-activated kinase,
+also known as PAK (Supplementary Table 1). It is possible
+that these proteins interact with direct binding partners of
+nurr1 and still participate in the modulation of nurr1 activity
+as components of a larger multiprotein complex, as previously exemplified by the identification of the DRIP–TRAP
+complex (22,28).
+Together with the closely related nur77 and nor1, nurr1
+constitutes the NGFI-B subfamily of NRs (29). Given that
+nur77 is highly phosphorylated [(14,30,31) and references
+therein], nurr1 could be a phosphoprotein as well. Several
+of the identified nurr1-interacting factors are signaling
+proteins pertaining to phosphorylation cascades that could
+modify nurr1 via post-translational modifications. Therefore,
+we focused on analyzing in depth the effects of a selected
+group of kinases and their capacity to alter transcriptional
+activity on a canonical nurr1 response element.
+The kinase LIMK1 is known to interact with p57kip2,
+a cyclin-dependent kinase inhibitor essential during
+embryogenesis. This interaction induces translocation of the
+complex LIMK1/p57kip2 to the nucleus, thus limiting the
+cytoplasmic activity of the kinase, and targeting its action
+to the nucleus (32). Interestingly, both nurr1 and p57kip2 are
+involved in cell cycle arrest and differentiation and a direct
+interaction between these two proteins has been recently
+demonstrated, which results in inhibition of nurr1 transcriptional activity (33). We report here a direct interaction
+between LIMK1 and nurr1, suggesting the possible existence
+of a complex consisting of these three proteins. Since LIMK1
+(Figure 5B) and p57kip2 (33) have an inhibitory effect on
+nurr1 transcriptional function, it is conceivable that the
+nuclear translocation of the LIMK1–p57kip2 complex plays
+a regulatory role in nurr1 activity. Thus, the existence of a
+LIMK1/p57kip2–nurr1 protein complex and the characterization of its effects in nurr1-mediated gene expression deserve
+deeper analysis. In addition, LIM-containing proteins can
+recruit the Sin3A–histone deacetylase co-repressor complex
+(34) and inhibit gene transcription, a mechanism well
+described for NRs (13) that could participate in the inhibition
+of nurr1 activity by LIMK1.
+MAP kinases are essential for neuronal differentiation
+and neurotrophin signal transduction (35), and activation
+of the MEK/ERK cascade is involved in regulation of
+several transcription factors, including those belonging to
+the NGFI-B family. In particular, ERK2 phosphorylates the
+nur77 receptor in vitro (36) and in vivo (37), and MEK
+mutants can alter nur77 transcriptional responses on specific
+response elements (30). Further, the pharmacological MEK
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+inhibitors (PD98059 and U0126) have been shown to repress
+nurr1 transcriptional activity (38) and in our studies they were
+the only molecules able to inhibit Ras-induced nurr1 activation (P. Sacchetti and P. Lefebvre, unpublished data). We
+show here a direct in vivo physical and functional interaction
+between nurr1 and ERK2 that seems to rely on the activation
+status of ERK2. The two proteins bind each other and
+our data support the existence of a MAPK docking site in
+nurr1, located between amino acids 160 and 188, which is
+involved in ERK2–nurr1 interaction. The existence of a
+docking site on the substrate recognized by MAPKs seems
+to be an essential prerequisite for guiding the specificity of
+interaction between kinase and substrate. However, Co-IPs
+evidenced a much stronger interaction of nurr1 with the
+constitutively active form of ERK2, suggesting that in vivo
+the activation status of ERK2 is important to stabilize the
+interaction with nurr1. This conclusion is further supported
+by our functional experiments that show an enhanced nurr1
+activity in the presence of a catalytically active ERK2
+(wt and ca ERK2), but not in the presence of a kinase-dead
+mutant (K52R). The existence of a bona fide docking site
+on nurr1 would suggest a direct protein–protein interaction
+between this transcription factor and the kinase; however,
+none of the data exclude the existence of a possible intermediate protein conveying the signal from ERK2 to nurr1.
+Interestingly, ERK2 is capable of interacting directly with
+PAK2 and p85 bPIX (Supplementary Table 1) and this multimeric complex is activated via the Ras/MEK/ERK cascade
+in response to bFGF (39), a stimulus involved in mesencephalic cell development. Our studies showed that nurr1
+can interact in vitro and in vivo with p85 bPIX, even if this
+interaction does not seem to affect nurr1 transcriptional
+response on a NBRE element (data not shown). Additionally,
+the post-translational modifications induced by these
+signaling molecules could affect nurr1 interactions with
+cofactors, and changes in the phosphorylation state of nurr1
+could thus be directly implicated in recruitment of CoAs
+and CoRs.
+It remains to be determine if ERK2 is involved in regulating the basal activity of nurr1 or a stimulus-induced activity
+and to define which cellular signal activates ERK2 to affect
+nurr1. In this regard, recent studies in DAergic primary cultures have linked the DA-induced activation of the ERK pathway to the activation of nurr1 and highlighted the importance
+of this step in the development of DAergic neurons (40).
+An interesting link between nurr1 and neuroprotection is
+delineated by the interaction that we identified between
+nurr1 and the MAP kinase, ERK5. In fact, ERK5 is known
+to play a critical role in neuronal survival (41) and recent
+studies have established its involvement specifically in neuroprotection of DAergic neurons resulting from oxidative stress
+(J. E. Cavanaugh et al., 34th Annual Meeting Soc. Neurosci.,
+abstr. 221.3, 2004). Importantly, overexpression of nurr1
+results in cell resistance to MPTP, a selective DAergic neurotoxin used to mimic neuronal degeneration in Parkinson’s
+disease (42), and its reduced expression renders animals
+more susceptible to this neurotoxin (12), suggesting a neuroprotective role for nurr1 in DAergic cells. Thus, the direct
+interaction that we observed between nurr1 and ERK5
+suggests a potential mechanism through which nurr1 prevents
+neurotoxic responses in DA neurons. Our data establish the
+
+5525
+
+role of the MEK-ERK5 pathway on the regulation of nurr1.
+Activation of MEK, which in turns activates ERK5, does
+enhance the ERK5-induced nurr1 activity, while no increase
+is observed in the presence of a dn MEK5 or of the unphosphorylated ERK5 AEF, in which amino acids phosphorylated
+by MEK5 are mutated. In addition, an inhibition of nurr1
+transcriptional activity was observed when using the pharmacological MEK inhibitors PD98059 and U0126 (data not
+shown), molecules that block not only ERK1/2-, but also
+ERK5 activation by upstream kinases. Thus, the inhibitory
+effect of these compounds on nurr1 activity observed by us
+and others [data not shown; (38)] may be explained by the
+inhibition of the MEK5/ERK5 signaling cascade. Taken
+together, these data suggest that activation of the MEKERK5 pathway could result in enhanced nurr1 transcriptional
+responses. However, the AEF form, which cannot be activated, is still capable of stimulating nurr1 as potently as the
+wt form, suggesting that activation by MEK is not necessary
+for ERK5 to regulate nurr1 activity. Additionally, the phosphorylation status of nurr1 is not further enhanced after
+activation of this signalling pathway by EGF, and nurr1 transcriptional activity is left unaffected only by the kinase-dead
+form of ERK5 (K83M). Thus, ERK5 basal activity could be
+sufficient to modulate nurr1 responses. Similarly, the basal
+activity of ERK5 has been shown recently to be sufficient
+in mediating survival of leukaemia cells, by affecting the
+oncogenic variant v-Abl of the tyrosine kinase c-Abl (26).
+Thus, it would be plausible for ERK5 and nurr1 to cooperate
+in homeostatic conditions to ensure maintenance and survival
+of DAergic neurons; while, under stressful conditions, activation of MEK5 would result in further enhancement of the
+cooperative effects of these proteins.
+Could nurr1 be a direct substrate for ERK5? The two proteins can interact in vivo and this interaction is mediated
+through a region in the nurr1 LBD (amino acids 360–420)
+in vitro. The A/B domain of nurr1 is highly phosphorylated
+in the presence of ERK5 and mutations of two amino
+acids in this same domain decrease significantly the ERK5mediated nurr1 transcriptional response. The specificity and
+efficiency of action of MAPKs is usually conferred through
+docking interactions between the kinases and their substrate.
+Thus, ERK5 would dock on its substrate and phosphorylate the acceptor residues, which are different from the
+docking residues (43). The lack of similarity of the nurr1
+360–420 amino acid region to the canonical MAPK docking
+site and the lack of a definitive proof for a direct phosphorylation of S177 and T168 by ERK5 leave open the possibility
+that nurr1 is not a direct substrate for ERK5. Although we
+do not favor this hypothesis in light of our current data,
+these effects could be indirect and mediated through a previously characterized ERK5 substrate, like the transcription
+factors MEF2 (43). However, we were not able to detect a
+direct interaction between nurr1 and MEF2C, as tested by
+GST-pulldown (data not shown), leaving open the search
+for a potential mediator of the effects of ERK5 on nurr1
+transcriptional activity.
+Taken together, our data identify ERK5 as the first
+described transcriptional activator of nurr1. In fact, the
+recruitment of ERK5 on a nurr1 response element provides a direct proof of the implication of this kinase in
+the modulation of nurr1 activity at the transcriptional level.
+
+5526
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+At the physiological level, activation of this oxidative
+stress-related pathway is of particular interest in the context
+of neuroprotection of DAergic neurons against toxic insults.
+Stimulation of ERK5 and the consequent enhancement
+of nurr1 activity could be aimed at altering expression of
+genes related to cell protection. Clearly, confirmation of
+this hypothesis would necessitate the identification of new
+nurr1-target genes implicated in cell survival.
+In summary, using our screening methodology we have
+identified signaling cascades that regulate nurr1 activity
+(ERK2, LIMK1 and MEK5/ERK5) as well as potential functional partners of nurr1 in transcription and survival/
+apoptosis. Initially, we had hypothesized that tissue-specific
+factors would regulate nurr1 transcriptional activity. However, our results point to a complex network of signaling
+pathways participating in the modulation of nurr1 activity,
+and most likely, the integration of their combinatorial action
+results in the observed in vivo cell-specific functions of this
+transcription factor. Future studies should focus on testing
+the ability of the newly identified regulators to alter the
+expression of DAergic genes modulated by nurr1 directly
+or indirectly, like DAT and TH, in their appropriate cell
+context. Clearly, these data would validate the relevance of
+the findings presented here as well as open new perspectives
+to unravel the mechanisms used by this atypical NR to control expression of genes specifying the DAergic neuronal
+phenotype.
+SUPPLEMENTARY DATA
+Supplementary Data are available at NAR Online.
+ACKNOWLEDGEMENTS
+This work was supported by INSERM. P.S. was a recipient of
+a Marie Curie Fellowship of the European Community
+Program and a fellowship from Fondation pour la
+Recherche Médicale. The authors are grateful to Florence
+Guérard, UMR CNRS 8009, LCOM-IFR118, Villeneuve
+d’Ascq for help in performing MALDI-TOF and 1D gel
+analysis and to Dr Céline Brand, U459, for invaluable
+technical and scientific assistance. The authors would like to
+thank Drs C. Brand, B. Lefebvre, B. Laine and A. Konkar for
+helpful discussions and critical comments on this manuscript.
+The authors thank Dr B. O. Evert for kindly providing
+CSM14.1 cells, I. Briche and Drs R. Davis, M. A. Emrick,
+P. Crespo, G. N. Gill, H. Betz, J. D. Lee, J. Dixon, K. C. Gee,
+E. V. Prochownik, G. De Murcia and M. Cobb for plasmids.
+Funding to pay the Open Access publication charges for this
+article was provided by INSERM.
+Conflict of interest statement. None declared.
+REFERENCES
+1. Girault,J.A. and Greengard,P. (2004) The neurobiology of dopamine
+signalling. Arch. Neurol., 61, 641–644.
+2. Law,S.W., Conneely,O.M., Demayo,F.J. and O’Malley,B.W. (1992)
+Identification of a new brain-specific transcription factor, NURR1.
+Mol. Endocrinol., 6, 2129–2135.
+3. Zetterstrom,R.H., Williams,R., Perlmann,T. and Olson,L. (1996)
+Cellular expression of the immediate early transcription factors Nurr1
+
+and NGFI-B suggests a gene regulatory role in several brain regions
+including the nigrostriatal dopamine system. Brain Res. Mol. Brain
+Res., 41, 111–120.
+4. Zetterstrom,R.H., Solomin,L., Jansson,L., Hoffer,B.J., Olson,L. and
+Perlmann,T. (1997) Dopamine neuron agenesis in Nurr1-deficient
+mice. Science, 276, 248–250.
+5. Castillo,S.O., Baffi,J.S., Palkovits,M., Goldstein,D.S., Kopin,I.J.,
+Witta,J., Magnuson,M.A. and Nikodem,V.M. (1998) Dopamine
+biosynthesis is selectively abolished in substantia nigra/ventral
+tegmental area but not in hypothalamic neurons in mice with targeted
+disruption of the Nurr1 gene. Mol. Cell. Neurosci., 11, 36–46.
+6. Saucedo-Cardenas,O., Quintana-Hau,J.D., Le,W.D., Smidt,M.P.,
+Cox,J.J., De Mayo,F., Burbach,J.P. and Conneely,O.M. (1998) Nurr1 is
+essential for the induction of the dopaminergic phenotype and the
+survival of ventral mesencephalic late dopaminergic precursor neurons.
+Proc. Natl Acad. Sci. USA, 95, 4013–4018.
+7. Kim,J.H., Auerbach,J.M., Rodriguez-Gomez,J.A., Velasco,I., Gavin,D.,
+Lumelsky,N., Lee,S.H., Nguyen,J., Sanchez-Pernaute,R.,
+Bankiewicz,K. et al. (2002) Dopamine neurons derived from
+embryonic stem cells function in an animal model of Parkinson’s
+disease. Nature, 418, 50–56.
+8. Sakurada,K., Ohshima-Sakurada,M., Palmer,T.D. and Gage,F.H.
+(1999) Nurr1, an orphan nuclear receptor, is a transcriptional activator
+of endogenous tyrosine hydroxylase in neural progenitor cells derived
+from the adult brain. Development, 126, 4017–4026.
+9. Kim,K.S., Kim,C.H., Hwang,D.Y., Seo,H., Chung,S., Hong,S.J.,
+Lim,J.K., Anderson,T. and Isacson,O. (2003) Orphan nuclear receptor
+Nurr1 directly transactivates the promoter activity of the tyrosine
+hydroxylase gene in a cell-specific manner. J. Neurochem., 85,
+622–634.
+10. Sacchetti,P., Mitchell,T.R., Granneman,J.G. and Bannon,M.J. (2001)
+Nurr1 enhances transcription of the human dopamine transporter gene
+through a novel mechanism. J. Neurochem., 76, 1565–1572.
+11. Bannon,M.J., Pruetz,B., Manning-Bog,A.B., Whitty,C.J.,
+Michelhaugh,S.K., Sacchetti,P., Granneman,J.G., Mash,D.C. and
+Schmidt,C.J. (2002) Decreased expression of the transcription factor
+NURR1 in dopamine neurons of cocaine abusers. Proc. Natl Acad. Sci.
+USA, 99, 6382–6385.
+12. Le,W., Conneely,O.M., He,Y., Jankovic,J. and Appel,S.H. (1999)
+Reduced Nurr1 expression increases the vulnerability of mesencephalic
+dopamine neurons to MPTP-induced injury. J. Neurochem., 73,
+2218–2221.
+13. Glass,C.K. and Rosenfeld,M.G. (2000) The coregulator
+exchange in transcriptional functions of nuclear receptors. Genes Dev.,
+14, 121–141.
+14. Maira,M., Martens,C., Batsche,E., Gauthier,Y. and Drouin,J. (2003)
+Dimer-specific potentiation of NGFI-B (Nur77) transcriptional activity
+by the protein kinase A pathway and AF-1-dependent coactivator
+recruitment. Mol. Cell. Biol., 23, 763–776.
+15. Castro,D.S., Arvidsson,M., Bondesson,B.M. and Perlmann,T. (1999)
+Activity of the Nurr1 carboxyl-terminal domain depends on cell type
+and integrity of the activation function 2. J. Biol. Chem., 274,
+37483–37490.
+16. Sacchetti,P., Dwornik,H., Formstecher,P., Rachez,C. and Lefebvre,P.
+(2002) Requirements for heterodimerization between the orphan
+nuclear receptor nurr1 and retinoid X receptors. J. Biol. Chem., 277,
+35088–35096.
+17. Wang,Z., Benoit,G., Liu,J., Prasad,S., Aarnisalo,P., Liu,X., Xu,H.,
+Walker,N.P. and Perlmann,T. (2003) Structure and function of Nurr1
+identifies a class of ligand-independent nuclear receptors. Nature,
+423, 555–560.
+18. Perlmann,T. and Jansson,L. (1995) A novel pathway for vitamin A
+signalling mediated by RXR heterodimerization with NGFI-B and
+NURR1. Genes Dev., 9, 769–782.
+19. Aarnisalo,P., Kim,C.H., Lee,J.W. and Perlmann,T. (2002) Defining
+requirements for heterodimerization between the retinoid X receptor
+and the orphan nuclear receptor Nurr1. J. Biol. Chem., 277,
+35118–35123.
+20. Galleguillos,D., Vecchiola,A., Fuentealba,J.A., Ojeda,V., Alvarez,K.,
+Gomez,A. and Andres,M.E. (2004) PIASgamma represses the
+transcriptional activation induced by the nuclear receptor Nurr1.
+J. Biol. Chem., 279, 2005–2011.
+21. Zhong,L., Sarafian,T., Kane,D.J., Charles,A.C., Mah,S.P.,
+Edwards,R.H. and Bredesen,D.E. (1993) Bcl-2 inhibits death of central
+
+Nucleic Acids Research, 2006, Vol. 34, No. 19
+
+neural cells induced by multiple agents. Proc. Natl Acad. Sci. USA,
+90, 4533–4537.
+22. Rachez,C., Suldan,Z., Ward,J., Chang,C.P.B., Burakov,D.,
+Erdjumentbromage,H., Tempst,P. and Freedman,L.P. (1998) A novel
+protein complex that interacts with the vitamin D- 3 receptor in a
+ligand-dependent manner and enhances VDR transactivation in a
+cell-free system. Genes Dev., 12, 1787–1800.
+23. Haas,S.J.P. and Wree,A. (2002) Dopaminergic differentiation of the
+Nurr1-expressing immortalized mesencephalic cell line CSM14.1
+in vitro. J. Anat., 201, 61–69.
+24. Murphy,E.P. and Conneely,O.M. (1997) Neuroendocrine regulation of
+the hypothalamic pituitary adrenal axis by the nurr1/nur77 subfamily of
+nuclear receptors. Mol. Endocrinol., 11, 39–47.
+25. Robinson,M.J., Harkins,P.C., Zhang,J., Baer,R., Haycock,J.W.,
+Cobb,M.H. and Goldsmith,E.J. (1996) Mutation of position 52 in
+ERK2 creates a nonproductive binding mode for adenosine
+50 -triphosphate. Biochem., 35, 5641–5646.
+26. Buschbeck,M., Hofbauer,S., Di Croce,L., Keri,G. and Ullrich,A. (2005)
+Abl-kinase-sensitive levels of ERK5 and its intrinsic basal activity
+contribute to leukaemia cell survival. EMBO Rep., 6, 63–69.
+27. Shah,S., Islam,M.N., Dakshanamurthy,S., Rizvi,I., Rao,M., Herell,R.,
+Zinger,G., Valrance,M., Aranda,A., Moras,D. et al. (2006) The
+molecular basis of Vitamin D receptor and b-catenin crossregulation.
+Mol. Cell, 21, 799–809.
+28. Fondell,J.D., Ge,H. and Roeder,R.G. (1996) Ligand induction of a
+transcriptionally active thyroid hormone receptor coactivator complex.
+Proc. Natl Acad. Sci. USA, 93, 8329–8333.
+29. Maruyama,K., Tsukada,T., Ohkura,N., Bandoh,S., Hosono,T. and
+Yamaguchi,K. (1998) The NGFI-B subfamily of the nuclear receptor
+superfamily (review). Int. J. Oncol., 12, 1237–1243.
+30. Kovalovsky,D., Refojo,D., Liberman,A.C., Hochbaum,D., Pereda,M.P.,
+Coso,O.A., Stalla,G.K., Holsboer,F. and Arzt,E. (2002) Activation and
+induction of NUR77/NURR1 in corticotrophs by CRH/cAMP:
+involvement of calcium, protein kinase A, and MAPK pathways.
+Mol. Endocrinol., 16, 1638–1651.
+31. Wansa,K.D., Harris,J.M. and Muscat,G.E. (2002) The activation
+function-1 domain of Nur77/NR4A1 mediates trans-activation, cell
+specificity, and coactivator recruitment. J. Biol. Chem., 277,
+33001–33011.
+32. Yokoo,T., Toyoshima,H., Miura,M., Wang,Y., Iida,K.T., Suzuki,H.,
+Sone,H., Shimano,H., Gotoda,T., Nishimori,S. et al. (2003) p57Kip2
+regulates actin dynamics by binding and translocating LIM-kinase 1 to
+the nucleus. J. Biol. Chem., 278, 52919–52923.
+
+5527
+
+33. Joseph,B., Wallen-Mackenzie,A., Benoit,G., Murata,T., Joodmardi,E.,
+Okret,S. and Perlmann,T. (2003) p57(Kip2) cooperates with Nurr1 in
+developing dopamine cells. Proc. Natl Acad. Sci. USA, 100,
+15619–15624.
+34. Bach,I., Rodriguez-Esteban,C., Carriere,C., Bhushan,A., Krones,A.,
+Rose,D.W., Glass,C.K., Andersen,B., Izpisua Belmonte,J.C. and
+Rosenfeld,M.G. (1999) RLIM inhibits functional activity of LIM
+homeodomain transcription factors via recruitment of the histone
+deacetylase complex. Nature Genet., 22, 394–399.
+35. Vaudry,D., Strork,P.J.S., Lazarovici,P. and Eiden,L.E. (2002) Signaling
+pathways for PC12 cell differentiation: making the right connections.
+Science, 296, 1648–1649.
+36. Slagsvold,H.H., Ostvold,A.C., Fallgren,A.B. and Paulsen,R.E. (2002)
+Nuclear receptor and apoptosis initiator NGFI-B is a substrate
+for kinase ERK2. Biochem. Biophys. Res. Commun., 291,
+1146–1150.
+37. Castro-Obregon,S., Rao,R.V., del Rio,G., Chen,S.F., Poksay,K.S.,
+Rabizadeh,S., Vesce,S., Zhang,X.K., Swanson,R.A. and Bredesen,D.E.
+(2004) Alternative, nonapoptotic programmed cell death: mediation by
+arrestin 2, ERK2, and Nur77. J. Biol. Chem., 279, 17543–17553.
+38. Nordzell,M., Aarnisalo,P., Benoit,G., Castro,D.S. and Perlmann,T.
+(2004) Defining an N-terminal activation domain of the orphan nuclear
+receptor Nurr1. Biochem. Biophys. Res. Commun., 313, 205–211.
+39. Shin,E.Y., Shin,K.S., Lee,C.S., Woo,K.N., Quan,S.H., Soung,N.K.,
+Kim,Y.G., Cha,C.I., Kim,S.R., Park,D. et al. (2002) Phosphorylation of
+p85 beta PIX, a Rac/Cdc42-specific guanine nucleotide exchange
+factor, via the Ras/ERK/PAK2 pathway is required for basic fibroblast
+growth factor-induced neurite outgrowth. J. Biol. Chem., 277,
+44417–44430.
+40. Kim,S.Y., Choi,K.C., Chang,M.S., Kim,M.H., Kim,S.Y., Na,Y.S.,
+Lee,J.E., Jin,B.K., Lee,B.H. and Baik,J.H. (2006) The dopamine D2
+receptor regulates the development of dopaminergic neurons via
+extracellular signal-regulated kinase and Nurr1 activation. J. Neurosci.,
+26, 4567–4576.
+41. Cavanaugh,J.E. (2004) Role of extracellular signal regulated kinase 5
+in neuronal survival. Eur. J. Biochem., 271, 2056–2059.
+42. Lee,M.A., Lee,H.S., Lee,H.S., Cho,K.G., Jin,B.K., Sohn,S., Lee,Y.S.,
+Ichinose,H. and Kim,S.U. (2002) Overexpression of midbrain-specific
+transcription factor Nurr1 modifies susceptibility of mouse neural stem
+cells to neurotoxins. Neurosci. Lett., 333, 74–78.
+43. Barsyte-Lovejoy,D., Galanis,A., Clancy,A. and Sharrocks,A.D. (2004)
+ERK5 is targeted to myocyte enhancer factor 2A (MEF2A) through a
+MAPK docking motif. Biochem. J., 381, 693–699.
+
+

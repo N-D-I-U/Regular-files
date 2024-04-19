@@ -1,0 +1,1269 @@
+Original Article
+
+miR-132-3p is a positive regulator of alpha-cell
+mass and is downregulated in obese
+hyperglycemic mice
+Rodolphe Dusaulcy 1, *, Sandra Handgraaf 1, Florian Visentin 1, Christian Vesin 2, Jacques Philippe 1,
+Yvan Gosmain 1
+ABSTRACT
+Objective: Diabetes is a complex disease implicating several organs and cell types. Within the islets, dysregulation occurs in both alpha- and
+beta-cells, leading to defects of insulin secretion and increased glucagon secretion. Dysregulation of alpha-cells is associated with transcriptome
+changes. We hypothesized that microRNAs (miRNAs) which are negative regulators of mRNA stability and translation could be involved in alphacell alterations or adaptations during type 2 diabetes.
+Methods: miRNA microarray analyses were performed on pure alpha- and beta-cells from high-fat diet fed obese hyperglycemic mice and lowfat diet fed controls. Then, the most regulated miRNA was overexpressed or inhibited in primary culture of mouse and human alpha-cells to
+determine its molecular and functional impact.
+Results: 16 miRNAs were signiﬁcantly regulated in alpha-cells of obese hyperglycemic mice and 28 in beta-cells. miR-132-3p had the strongest
+regulation level in alpha-cells, where it was downregulated, while we observed an opposite upregulation in beta-cells. In vitro experiments
+showed that miR-132-3p, which is inversely regulated by somatostatin and cAMP, is a positive modulator of alpha-cell proliferation and
+implicated in their resistance to apoptosis. These effects are associated with the regulation of a series of genes, including proliferation and stress
+markers Mki67 and Bbc3 in mouse and human alpha-cells, potentially involved in miR-132-3p functions.
+Conclusions: Downregulation of miR-132-3p in alpha-cells of obese diabetic mice may constitute a compensatory mechanism contributing to
+keep glucagon-producing cell number constant in diabetes.
+Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Keywords miR-132-3p; Alpha-cell; Glucagon; Proliferation; Apoptosis; Type 2 diabetes
+1. INTRODUCTION
+The control of glycemia depends largely on the coordinated secretions
+of glucagon and insulin by pancreatic alpha- and beta-cells. Hyperglycemia results when insulin-resistance is accompanied by
+dysfunction of pancreatic islet cells. The disrupted coordination of
+glucagon and insulin secretions observed in type 2 diabetes is characterized by impaired and delayed insulin secretion as well as basal
+hyperglucagonemia and non-suppressed glucagon secretion in
+response to glucose [1e3].
+We generated obese, insulin-resistant, hyperglycemic mice using
+transgenic mice, expressing the ﬂuorochrome Venus speciﬁcally in
+proglucagon-producing cells and the ﬂuorochrome Cherry in insulinproducing cells, submitted to a high-fat diet (HFD) during 16 weeks.
+These mice have abnormal glucagon and insulin responses to glucose
+compared to control low-fat diet (LFD) mice, and speciﬁc molecular
+footprints including dysregulation of the Gcg, Foxa1, cMaf, Pax6, UCP2,
+and Nav1.3 genes that are all involved in proglucagon gene expression
+
+and glucagon secretion [4e8]. Furthermore, these cells express higher
+mRNA levels of Pcsk1/3 and produce more GLP-1 than control alphacells, as previously reported, potentially explained by alpha-cell
+adaptation to hyperglycemia or to dedifferentiation [9,10].
+miRNAs are small non-coding RNAs of 21e23 nucleotides [11]. They
+regulate the expression of target genes by inhibiting translation or by
+inducing mRNA degradation. After transcription, miRNA precursors are
+involved in a maturation process implicating the enzyme Drosha,
+exportin-5 and the endoribonuclease Dicer to form miRNAs [12].
+Several studies, investigating Dicer function, have illustrated the
+importance of miRNAs in glucose homeostasis. Beta-cell-speciﬁc
+Dicer1 knock-out mice, exhibit perturbed islet morphology, reduced
+beta-cell number, and altered differentiation as well as impaired GSIS
+resulting in progressive hyperglycemia and diabetes [13,14]. Beta-cellspeciﬁc knock-down of Dicer1 in adult mice showed no impact on
+beta-cell architecture but strongly reduced insulin content and led to
+diabetes [15]. Multiple studies on islets or beta-cells have identiﬁed
+miRNAs implicated in beta-cell function, such as miR-375 and miR-
+
+1
+Laboratory of Molecular Diabetes, Division of Endocrinology, Diabetes, Hypertension and Nutrition, University Hospital/Diabetes Center/University of Geneva Medical School,
+Geneva, Switzerland 2Department of Cell Physiology and Metabolism, University of Geneva School of Medicine, Geneva, Switzerland
+
+*Corresponding author. Laboratory of Molecular Diabetes, CMU e D05 1549b, 1, Rue Michel Servet, 1206 Geneva, Switzerland. E-mail: rodolphe.dusaulcy@unige.ch
+(R. Dusaulcy).
+Received August 22, 2018  Revision received January 11, 2019  Accepted January 12, 2019  Available online 18 January 2019
+https://doi.org/10.1016/j.molmet.2019.01.004
+
+84
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+124a, and beta-cell compensation or failure, such as miR-132, miR184 or miR-338-3p [16,17]. Most of these miRNAs were shown to be
+up- or downregulated in different diabetic rodent models and human
+islets [18,19]. Moreover, it appears that clusters of miRNAs can be coregulated by common mechanisms such as transcription factors or
+epigenetic regulators [19,20].
+Although most of the studies focused on beta-cells, miRNAs are also
+important in alpha-cell biology and function. A deletion of Dicer1 in
+the endocrine pancreas using Cre under the control of the Pdx1
+promoter resulted in a gross defect in the endocrine lineage
+including severe reductions of alpha-cell number [21]. Moreover,
+deletion of miR-375 in mice induced an increase of alpha-cell
+number, of fasting and fed glucagon plasma levels, and of gluconeogenesis and hepatic glucose output [22]. We hypothesized that
+miRNAs are involved in alpha-cell molecular and functional alterations/adaptations in type 2 diabetes. In the present study, we
+identiﬁed 16 miRNAs differentially regulated in alpha-cells and 28 in
+beta-cells isolated from hyperglycemic HFD compared to LFD mice.
+miRNAs regulated in alpha-cells were studied in vitro in mouse
+primary alpha-cells to investigate their regulation and biological
+functions. We now report that the most highly differentially regulated
+miRNA in alpha-cells from hyperglycemic HFD mice, miR-132-3p, is
+involved in alpha-cell proliferation and survival, is inversely regulated
+by somatostatin and cAMP and potentially regulates alpha-cell
+number during diabetes.
+2. MATERIAL AND METHODS
+2.1. Animals
+The GLU-Venus x INS-Cherry mice express the Venus and Cherry
+ﬂuorochromes respectively in proglucagon- and insulin-producing cells
+[8,23]. Mice were bred in conventional housing with a 12/12 h dark/
+light period (lights on at 7:00 AM) at the University of Geneva Medical
+School animal facility, according to ethical approbation by the Swiss
+federal committee.
+Mice used to generate alpha- and beta-cells included in the miRNA
+microarray experiments were fed by either a LFD containing 10% kcal
+fat (D12450B, Research Diets) (protein: 20% kcal; carbohydrate: 70%
+kcal; energy density 3.82 kcal/g), or a HFD containing 60% kcal fat
+(D12492, Research Diets) (protein: 20% kcal; carbohydrate: 20% kcal;
+energy density: 5.21 kcal/g), from the age of 10 weeks and for 16
+weeks. At the end of 16 weeks of HFD feeding, mice which did not
+develop obesity (weight<40 g) or hyperglycemia (HbA1c<4.5%),
+evaluated by Siemens DCA systems Hemoglobin A1c (Siemens
+Healthcare Diagnostics Inc.) were excluded from the study (Supp
+Table A).
+Mice used to generate primary cells for in vitro experiments were fed a
+normal chow diet until sacriﬁce.
+2.2. Mouse alpha- and beta-cell sorting and primary culture
+Venusþ mouse alpha-cells and Cherryþ beta-cells were prepared by
+ﬂuorescence-activated cell sorting (FACS) using Biorad S3 and
+Beckman Coulter Astrios, after islet isolation as previously described
+[24]. FACS-puriﬁed alpha- and beta-cells used for microarray and
+validation qPCR analyses were collected and stored at 80  C until
+RNA extraction. Mouse alpha-cells used for primary culture were
+placed in 10% FBS supplemented DMEM with 5.6 mM glucose for
+overnight recovery and, then, seeded on 804G matrix. For miRNA
+mimicking or inhibition experiments, optimal conditions were determined by settings prior to the experiments. The cells were transfected
+24 h after plating with 100 nM miR-132-3p mirVana mimics and
+
+inhibitors or respective negative controls (Ambion) using Lipofectamine
+RNAiMax (Invitrogen). 48 h after transfection, miR-132-3p had a 128.7
+fold overexpression and a 9.5 fold downregulation respectively (Supp
+Fig. A). For in vitro regulation of miRNA expression experiments,
+mouse alpha-cells were placed, 24 h after plating, for 48 h in 1% FBS
+supplemented DMEM with 0.5% BSA and glucose, palmitate, insulin,
+IBMX þ forskolin or somatostatin at different concentrations.
+2.3. Human alpha-cell sorting and primary culture
+Human islets from non-diabetic donors were obtained from Prodo
+Laboratories (Prodo Laboratories Inc, Aliso Viejo, CA). Twenty-four
+hours after delivery, 2000 islets (IEQ) were dissociated using
+trypsin treatment (5 min at 37  C) with pipetting every minutes.
+Dissociated islets cells were then labeled with anti-human alpha-cell
+antibody HPa1 (DHIC2-2C12, Thermo Scientiﬁc; 1/50, 30 min at
+4  C) and Alexa Fluor 488 goat anti mouse IgM (Life Technologies; 1/
+200, 20 min at 4  C) as previously described [25]. Dead cells were
+marked with DRAQ7 (Far-Red Fluorescent Live-Cell Impermeant DNA
+Dye, Biostatus). Human alpha-cell fractions were collected with
+exclusion of dead cells and doublets using BioRad S3 cell sorter as
+described [26]. Primary human alpha-cells were then cultured in
+PIM(S) medium using standard procedures [8] and transfected 24 h
+after plating with 100 nM miR-132-3p mirVana mimics and inhibitors or respective negative controls (Ambion) using Lipofectamine
+RNAiMax (Invitrogen).
+2.4. Total RNA and mRNA extraction
+mRNA and total RNA, containing miRNAs, were isolated from mouse
+pancreatic alpha- and beta-cells as well as human alpha-cells with
+RNeasy plus and miRNeasy micro kits (Qiagen) following manufacturer
+instructions.
+2.5. miRNA microarray
+Alpha-cell total RNA extracts from 2 to 3 mice were pooled to obtain
+100 ng of total RNA for each sample. The samples were labeled
+according to the Agilent miRNA Complete Labeling and Hybridization
+Kit. The labeled RNAs were hybridized to Agilent Mouse miRNA
+Microarray (Release 21.0, 8  60 K; Catalog number G4872A070155; Agilent Technologies) with 1,881 mouse miRNAs represented, for 20 h at 55  C with rotation. After hybridization and
+washing, the arrays were scanned with an Agilent microarray
+scanner using high dynamic range settings as speciﬁed by the
+manufacturer. Agilent Feature Extraction Software v10.7.3.1 was
+used to extract the data. Samples were then quantile normalized
+based on summarized and log2-transformed expression levels of
+probe sets. Differentially expressed miRNAs were determined using
+a moderated t-test implemented in the R Bioconductor package
+limma. Five contrasts were extracted from the linear model: alphacells (HFD) vs alpha-cells (LFD); beta-cells (HFD) vs beta-cells (LFD);
+alpha-cells (HFD) vs beta-cells (HFD); alpha-cells (LFD) vs beta-cells
+(LFD); the interaction between cell type and diet type. In order to
+correct for multiple testing, p-values were adjusted across all ﬁve
+contrasts by the Benjamini-Hochberg method, which controls for
+false discovery rate.
+2.6. miRNA targets and pathways computational analysis
+Predicted targets of miRNAs were determined with the miRSystem tool
+(http://mirsystem.cgm.ntu.edu.tw/). Were only considered validated
+targets or targets predicted by, at least, three different algorithms.
+KEGG pathways analysis was performed with DIANA-miRPath v.3
+pathway analysis web-server [27].
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+85
+
+Original Article
+2.7. Glucagon secretion tests
+48 h after transfection, primary mouse alpha-cells were incubated in
+Krebs buffer containing 5.6 mM glucose for 2 h and then successively
+in Krebs buffer containing 5.6 mM glucose for 30 min (basal) and
+5.6 mM glucose þ 10 mM arginine or 1 mM glucose for 30 min
+(stimulated). Supernatants were collected at the end of each 30 min
+incubation step and cells were lysed in acid/ethanol mixture at the end
+of tests for glucagon cell content measurements. Glucagon was
+quantiﬁed with speciﬁc ELISA kits for mature glucagon (Mercodia AB).
+2.8. Proliferation and apoptosis measurements
+Primary mouse alpha-cell proliferation was evaluated by BrdU incorporation for 48 h after transfection of miRNA mimics and inhibitors.
+BrdUþ cells were labeled with 5-Bromo-2‘-deoxy-uridine Labeling and
+detection Kit I (Roche). Alpha-cell apoptosis was evaluated 48 h after
+transfection by TUNEL staining with In Situ Cell Death Detection Kit,
+TMR red (Roche) or immuno-labeling with anti-active Caspase-3 primary antibody (1:25) (ab2302, abcam) and Alexa Fluor 568 antirabbit
+(1:500) secondary antibody. Co-staining for glucagon with rabbit antiglucagon (1:500; Millipore Corporation) primary antibodies and Alexa
+Fluor 488 antirabbit (1:1,000) secondary antibodies was realized in
+parallel to BrdU or TUNEL and active Caspase-3 staining. At least 35
+independent ﬁelds in each condition were captured with an Evos FL
+ﬂuorescence microscope (Life Technologies) and automatically
+analyzed with Metamorph software to determine apoptotic and proliferative rates.
+2.9. mRNAs and miRNAs expression qPCR-quantiﬁcation
+After reverse transcription of mRNAs (Prime-script RT Reagent, Takara
+Bio Inc.), cDNA were pre-ampliﬁed (cDNA Pre-Amp Master, Roche
+Diagnostics) and analyzed by real-time quantitative PCR (qPCR) using
+LightCycler 480 SYBR Green technology (Roche Diagnostics) as previously described [8,24].
+miRNAs were reverse-transcribed and pre-ampliﬁed (14 cycles) with
+the Taqman Advanced miRNA Assays technology (Applied Biosystems)
+according to manufacturer instructions. The expression of miRNAs was
+then quantiﬁed by qPCR with the Taqman Fast Advanced technology
+(Applied Biosystems) with a LightCycler 480 (Roche) and normalized to
+the expression of housekeeping miRNAs (miR-186-5p; miR-361-5p)
+exhibiting stable expression across tested condition in our experiments (Supp Fig. B).
+2.10. Data analyses
+Paired and unpaired one-tailed and two-tailed t-tests as well as
+multiple t-test with Benjamini, Krieger and Yekutieli method and twoway ANOVA with Tukey’s multiple comparison post-hoc test were
+performed with Prism GraphPad-software (v7.02) when appropriate.
+Data are presented as means  SEM and are signiﬁcant at P  0.05 or
+FDR  0.05.
+3. RESULTS
+3.1. Regulation of miRNAs in alpha- and beta-cells of obese
+hyperglycemic mice
+We performed microarray analyses on 5 LFD and 6 HFD FACS-sorted
+mice alpha-cell samples and on 6 LFD and 6 HFD FACS-sorted mice
+beta-cell samples. Statistical analysis indicated that 125 miRNAs were
+differentially expressed in alpha- versus beta-cells in the LFD group
+(Supp Table B) and 150 in alpha-cells compared to beta-cells from HFD
+mice (Supp Table C). 16 miRNAs were signiﬁcantly differentially
+regulated in alpha-cells from HFD compared to LFD mice. Among these
+86
+
+16 miRNAs, 14 were downregulated and 2 were upregulated (Table 1).
+28 miRNAs were signiﬁcantly differentially regulated in beta-cells from
+HFD vs LFD mice; 6 were downregulated and 22 upregulated (Table 2).
+In alpha-cells, the most differentially regulated miRNA in obese hyperglycemic mice compared to controls was miR-132-3p with a 2.26
+fold decrease. miR-132-3p was, by contrast, upregulated in beta-cells
+with a 1.67 fold increase. An interaction between cell types and
+metabolic status was found for 14 miRNAs, including miR-132-3p,
+indicating that changes of these miRNAs by HFD-feeding were inﬂuenced by cell types (Supp Table D). miR-132-3p was also differentially
+expressed in alpha- versus beta-cells with 5.84 and 21.9 fold enrichments in beta-cells of LFD and HFD mice respectively (Figure 1A),
+indicating that miR-132-3p is much more abundant in beta- than in
+alpha-cells and is inversely regulated in these cells during diabetes.
+We measured by qPCR the expression of miR-132-3p in FACS-sorted
+alpha-cells from 9 LFD and 7 HFD mice and conﬁrmed the downregulation of this miRNA with a 2.8 fold decrease in obese hyperglycemic HFD compared to LFD mice (Figure 1B).
+3.2. Downregulation of the Meg3-Mirg cluster in hyperglycemic
+mice
+Interestingly, 8 of the 14 signiﬁcantly downregulated miRNAs in alphacells of obese hyperglycemic mice, miR-487b-3p; miR-369-5p; miR382-5p; miR-409-3p; miR-431-5p; miR-127-3p; miR-329-3p; miR382-3p, were located in a common genomic cluster, the Meg3-Mirg
+cluster, expressed from the maternally inherited chromosome 12
+(Supp Fig. C). Suggesting that the whole cluster is downregulated in
+alpha-cells of diabetic mice.
+3.3. miRNAs potential targets
+The potential functions associated to the miRNAs differentially
+regulated in alpha-cells from obese hyperglycemic mice were
+investigated by computational analyses. A miRNA KEGG pathway
+analysis performed with DIANA-miRPath predicted signiﬁcant interactions with 11 pathways, including several pathways implicated
+in lipid metabolism (fatty acid biosynthesis, fatty acid metabolism,
+
+Table 1 e Regulated alpha-cell miRNAs in HFD obese hyperglycemic vs
+LFD mice.
+ID
+
+logFC FoldChange mean alpha mean alpha adj.P.Val
+HFD
+LFD
+
+mmu-miR-132-3p
+mmu-miR-7686-5p
+mmu-miR-6937-5p
+mmu-miR-487b-3p
+mmu-miR-103-3p
+mmu-miR-431-5p
+mmu-miR-369-5p
+mmu-miR-382-3p
+mmu-miR-409-3p
+mmu-miR-99b-5p
+mmu-miR-652-3p
+mmu-miR-382-5p
+mmu-miR-129-5p
+mmu-miR-127-3p
+mmu-miR-329-3p
+mmu-miR-107-3p
+
+1.18
+0.94
+0.79
+0.70
+0.44
+0.42
+0.40
+0.38
+0.37
+0.37
+0.34
+0.34
+0.33
+0.32
+0.31
+0.30
+
+2.26
+1.92
+1.73
+1.62
+1.36
+1.34
+1.32
+1.30
+1.30
+1.29
+1.27
+1.26
+1.26
+1.25
+1.24
+1.23
+
+1.28
+3.44
+4.13
+2.56
+7.43
+3.08
+2.18
+2.62
+3.93
+4.16
+6.07
+4.69
+6.47
+7.75
+4.28
+7.45
+
+2.45
+2.50
+3.35
+3.26
+7.88
+3.50
+2.58
+3.01
+4.30
+4.54
+6.41
+5.03
+6.80
+8.07
+4.59
+7.75
+
+6.92E-04
+3.65E-02
+3.46E-02
+2.20E-04
+2.50E-03
+2.30E-02
+1.16E-02
+3.75E-02
+1.90E-02
+2.42E-02
+2.42E-02
+1.74E-02
+1.52E-02
+2.73E-02
+3.42E-02
+3.51E-02
+
+Identiﬁcation by microarray analyses of miRNAs differentially expressed in FACS sorted
+HFD mouse alpha-cells (n ¼ 6) versus FACS sorted LFD mouse alpha-cells (n ¼ 5).
+The 16 signiﬁcantly differentially expressed miRNAs are presented and ranked by fold
+change absolute value.
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+Table 2 e Regulated beta-cell miRNAs in HFD obese hyperglycemic vs LFD
+mice.
+ID
+
+logFC FoldChange mean_beta_HFD mean_beta_LFD adj.P.Val
+
+mmu-miR- 3.05
+184-3p
+mmu-miR- 1.06
+146a-5p
+mmu-miR- 0.99
+212-3p
+mmu-miR- 0.93
+141-5p
+mmu-miR- 0.92
+138-5p
+mmu-miR- 0.88
+130b3p
+mmu-miR- 0.74
+132-3p
+mmu-miR- 0.68
+344b3p
+mmu-miR- 0.63
+152-3p
+mmu-miR- 0.63
+15b-5p
+mmu-miR- 0.59
+574-3p
+mmu-miR- 0.53
+362-3p
+mmu-miR- 0.52
+1895
+mmu-miR- 0.49
+70825p
+mmu-miR- 0.49
+676-3p
+mmu-miR- 0.47
+182-5p
+mmu-miR- 0.45
+27a-3p
+mmu-miR- 0.45
+23b-3p
+mmu-miR- 0.44
+320-3p
+mmu-miR- 0.43
+106b5p
+mmu-miR- 0.42
+141-3p
+mmu-miR- 0.41
+148a-3p
+mmu-miR- 0.39
+15a-5p
+mmu-miR- 0.37
+21a-5p
+mmu-miR- 0.36
+22-3p
+mmu-miR- 0.36
+200a-3p
+mmu-miR- -0.32
+652-3p
+mmu-miR- 0.30
+103-3p
+
+8.29
+
+2.51
+
+5.57
+
+6.63E-06
+
+2.09
+
+1.17
+
+0.11
+
+6.92E-03
+
+1.98
+
+2.50
+
+1.52
+
+1.26E-03
+
+1.90
+
+2.86
+
+1.93
+
+4.27E-02
+
+1.89
+
+2.02
+
+1.11
+
+1.52E-02
+
+1.84
+
+5.39
+
+4.51
+
+3.27E-05
+
+1.67
+
+5.73
+
+4.99
+
+1.32E-02
+
+1.60
+
+2.46
+
+1.78
+
+3.40E-02
+
+1.55
+
+7.35
+
+6.72
+
+1.74E-03
+
+1.54
+
+6.06
+
+5.43
+
+6.95E-04
+
+1.51
+
+2.21
+
+1.62
+
+2.41E-02
+
+1.45
+
+3.35
+
+2.82
+
+2.73E-02
+
+1.43
+
+3.11
+
+3.63
+
+7.42E-03
+
+1.41
+
+2.76
+
+3.26
+
+1.91E-02
+
+1.41
+
+2.61
+
+2.12
+
+4.44E-02
+
+1.38
+
+2.55
+
+2.09
+
+1.46E-02
+
+1.37
+
+5.16
+
+4.70
+
+1.54E-02
+
+1.36
+
+7.42
+
+7.87
+
+7.42E-03
+
+1.36
+
+3.22
+
+2.77
+
+2.94E-02
+
+1.35
+
+4.73
+
+4.29
+
+1.20E-02
+
+1.33
+
+8.41
+
+8.00
+
+2.94E-02
+
+1.33
+
+10.06
+
+9.65
+
+4.57E-02
+
+1.31
+
+7.78
+
+7.39
+
+1.84E-02
+
+1.29
+
+6.06
+
+5.69
+
+3.74E-02
+
+1.29
+
+8.83
+
+8.47
+
+2.52E-02
+
+1.28
+
+8.39
+
+8.03
+
+1.45E-02
+
+-1.25
+
+6.89
+
+7.21
+
+2.47E-02
+
+1.23
+
+7.06
+
+7.36
+
+2.77E-02
+
+Identiﬁcation by microarray analyses of miRNAs differentially expressed in FACS sorted
+HFD mouse beta-cells (n ¼ 6) versus FACS sorted LFD mouse beta-cells (n ¼ 6). The
+28 signiﬁcantly differentially expressed miRNAs are presented and ranked by fold
+change absolute value.
+
+fatty acid degradation, steroid biosynthesis) as well as amino acids
+metabolism (tryptophan metabolism, lysine degradation, lysine
+biosynthesis) (Table 3).
+
+Figure 1: miR-132-3p expression in alpha- and beta-cells in LFD and HFD mice.
+(A) Level of expression in the microarray analyses of miR-132-3p in FACS sorted alphacells from LFD mice (n ¼ 5), HFD mice (n ¼ 6), and FACS sorted beta-cells from LFD
+mice (n ¼ 6) and HFD mice (n ¼ 6). Moderated t-test, Benjamini-Hochberg method *
+Adj.P.Val.  0.05 vs LFD; $ Adj.P.Val.  0.05 vs Alpha-cells. (B) Expression level of miR132-3p was measured by qPCR in FACS sorted alpha-cells from LFD mice (n ¼ 9) and
+HFD mice (n ¼ 7). Two-tailed unpaired Student’s t test, *P  0.05 vs LFD.
+
+Predicted targets of the 16 miRNAs regulated in alpha-cells from obese
+hyperglycemic mice were determined by the miRSystem tool and
+compared to the mRNAs previously described as regulated in diabetic
+alpha-cells [8]. The miRNA showing the most hits was miR-132-3p
+with four predicted targets belonging to the diabetic alpha-cell molecular footprint (Foxa1, cMaf, Isl1 and Sca3a). Isl1, UCP2 and Sca3a
+were also predicted targets of miR-652-3p, miR-431-5p and miR-4093p respectively (Supp Table E).
+3.4. Regulation of miR-132-3p expression in vitro
+We compared the sequences of mouse, rat and Human mir-132. mir132 is highly conserved between these species. Sequences of the
+mouse and rat precursors are identical and have only one base change
+with the human sequence (Supp Fig. D.1e2). The 22 nucleotides
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+87
+
+Original Article
+Table 3 e Computational analyses of miRNAs putative pathways.
+KEGG pathway
+
+p-value
+
+#genes
+
+#miRNAs
+
+Fatty acid metabolism
+Fatty acid biosynthesis
+Adherens junction
+Fatty acid degradation
+Tryptophan metabolism
+Lysine degradation
+Proteoglycans in cancer
+Steroid biosynthesis
+Renal cell carcinoma
+Protein processing in endoplasmic reticulum
+Lysine biosynthesis
+
+1.62E-22
+1.67E-22
+3.99E-09
+6.37E-09
+4.90E-05
+1.77E-04
+1.99E-03
+2.67E-03
+6.14E-03
+2.27E-02
+2.32E-02
+
+8
+1
+15
+7
+8
+9
+24
+2
+11
+22
+1
+
+3
+2
+7
+3
+3
+5
+6
+2
+3
+8
+2
+
+KEGG pathway analyses, on the 16 miRNAs signiﬁcantly differentially expressed in
+FACS sorted HFD mouse alpha-cells versus FACS sorted LFD mouse alpha-cells,
+performed with DIANA-miRPath v.3 pathway analysis web-server.
+
+sequence of miR-132-3p mature form is identical in the three species
+(Supp Fig. D.3).
+In order to identify which factors are responsible for the regulation of
+miR-132-3p in alpha-cells of obese hyperglycemic mice, we treated
+in vitro primary mouse alpha-cells with different factors mimicking
+hyperlipidemia, hyperglycemia, or hyperinsulinemia occurring in
+obesity and/or diabetes and measured miR-132-3p expression by
+qPCR. The expression of miR-132-3p was not signiﬁcantly regulated
+after 48 h treatment with palmitate 500 mM plus glucose 25 mM,
+palmitate 500 mM alone, glucose 25 mM alone, nor by insulin
+100 nM (Figure 2A). As cAMP was reported to be strongly implicated
+in miR-132-3p regulation in beta-cells [20,28], we treated primary
+mouse alpha-cells with IBMX 100 mM and forskolin 50 mM during
+48 h. This treatment increased by 45% the expression of miR-1323p, indicating that cAMP is a positive regulator of miR-132-3p
+expression (Figure 2B). Finally, we evaluated the impact of somatostatin, a potential modulator of cAMP through its coupling with
+
+Figure 2: Regulation of miR-132-3p in primary cultures of mouse alpha-cells. (A) Evaluation by qPCR of the expression of miR-132-3p in primary alpha-cells cultured for
+48 h in 1% FBS supplemented DMEM with 0.5% BSA and 5.6 mM glucose (Control), 25 mM glucose and 500 mM palmitate, 25 mM glucose, 500 mM palmitate or 100 nM insulin
+(n ¼ 4). (B) Evaluation by qPCR of the expression of miR-132-3p in primary alpha-cells cultured in 1% FBS supplemented DMEM with 0.5% BSA and 5.6 mM glucose with control
+or 10 mM IBMX þ 10 mM Forskolin treatment during 48 h (n ¼ 4). (C) Evaluation by qPCR of the expression of miR-132-3p in primary alpha-cells cultured in 1% FBS supplemented DMEM with 0.5% BSA and 5.6 mM glucose with control or 100 nM somatostatin treatment during 48 h (n ¼ 4). One-tailed paired Student’s t test,*P  0.05, **P  0.01
+vs control.
+
+88
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+Gi/o pathway, on miR-132-3p expression. Somatostatin at 100 nM
+during 48 h induced a 2.7 fold downregulation of miR-132-3p, in line
+with the regulation observed in vivo in obese hyperglycemic mice
+(Figure 2C).
+3.5. Functional impact of miR-132-3p in primary mouse alphacells
+In order to investigate the potential consequences of miR-132-3p
+decreases observed in alpha-cells of obese hyperglycemic mice, we
+treated primary mouse alpha-cells for 48 h with miR-132-3p inhibitors
+and mimics and performed glucagon secretion tests in basal and
+stimulated conditions with arginine or low glucose. miR-132-3p
+mimicking or inhibition affected neither basal nor arginine- and low
+glucose-stimulated glucagon secretions (Figure 3A,B). Modulating
+miR-132-3p levels did not change the glucagon secretion fold-change
+between basal and stimulated conditions, indicating that miR-132-3p
+is not implicated in the stimulation of glucagon secretion by arginine or
+low glucose (Figure 3A,B).
+As, on one hand, the literature shows that miR-132 is a positive
+regulator of proliferation in beta-cells [29] and that alpha-cell mass can
+
+vary during diabetes [30,31]; and as on the other hand, we observed
+that alpha-cell mass is unchanged at the end of 16 weeks of HFD
+protocol [8], while miR-132-3p is downregulated, we postulated that
+the miR-132-3p decrease in alpha-cells may be involved in the control
+of alpha-cell mass. We explored the impact of miR-132-3p inhibition
+and mimicking on primary mouse alpha-cell by BrdU incorporation. 48 h
+after transfection with miR-132-3p mimic, we observed a 47.7% increase of BrdU incorporation and a 21.2% decrease 48 h after transfection with the inhibitor, indicating that miR-132-3p is able to promote
+alpha-cell proliferation, and thus alpha-cell number (Figure 4A,B).
+Alpha-cells are also characterized by a high resistance to metabolic
+stress-induced apoptosis [32]. We hypothesized that miR-132-3p
+could be involved in this process and performed TUNEL and
+active Caspase-3 staining, 48 h after transfection with miR-132-3p
+mimic or inhibitor in standard and glucolipotoxicity culture conditions. miR-132-3p mimic reduced alpha-cell apoptosis through by a
+non-signiﬁcant 21% decrease of TUNEL positive cells and a 37%
+signiﬁcant decrease of active Caspase-3 positive cells in standard
+conditions (Figure 4C,E). Inversely, miR-132-3p inhibition induced
+an increase by 79% and by 66% of TUNEL and active Caspase-3
+
+Figure 3: Impact of miR-132-3p on glucagon secretion. (A) 5.6 mM glucose basal and 10 mM arginine stimulated glucagon secretion during 30 min from primary mouse
+alpha-cells 48 h after transfection with 100 nM of miR-132-3p mimic or inhibitor expressed in % of total glucagon cell content (n ¼ 3) or in fold (stimulated/basal) (insert) (n ¼ 3).
+(B) 5.6 mM glucose basal and 1 mM glucose stimulated glucagon secretion during 30 min by primary mouse alpha-cells 48 h after transfection with 100 nM of miR-132-3p mimic
+or inhibitor expressed in % of total glucagon cell content (n ¼ 3) or in fold (stimulated/basal) (insert) (n ¼ 3). Two-way ANOVA,*P  0.05, ***P  0.001 vs 5.6 mM glucose basal.
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+89
+
+Original Article
+
+Figure 4: Impact of miR-132-3p on alpha-cell proliferation and apoptosis. (AeB) 48 h BrdU incorporation in primary mouse alpha-cells transfected with 100 nM control
+mimic or inhibitor (white) or miR-132-3p mimic (dark grey) (n ¼ 8) (A) or inhibitor (light grey) (n ¼ 5) (B). (CeD) TUNEL labeling in primary mouse alpha-cells transfected with
+100 nM control mimic or inhibitor (white bars) or miR-132-3p mimic (dark grey) (n ¼ 6) (C) or inhibitor (light grey) (n ¼ 6) (D) and cultured in 1% FBS supplemented DMEM with
+0.5% BSA and 5.6 mM glucose for 48 h. (EeF) Active Caspase-3 labeling in primary mouse alpha-cells transfected with 100 nM control mimic or inhibitor (white bars) or miR-1323p mimic (dark grey) (n ¼ 4) (E) or inhibitor (light grey) (n ¼ 3) (F) and cultured in 1% FBS supplemented DMEM with 0.5% BSA and 5.6 mM glucose for 48 h. Two-tailed paired
+Student’s t test,*P  0.05, **P  0.01 vs control.
+
+positive cells respectively in standard culture conditions
+(Figure 4D,F). In glucolipotoxicity conditions TUNEL positive cells
+were reduced by miR-132-3p mimicking and increased by its inhibition while active Caspase 3 staining was not signiﬁcantly
+affected (Supp Fig. E). These results indicate that miR-132-3p is
+implicated in the resistance of alpha-cells to apoptosis per se in
+control or metabolic stress conditions.
+3.6. Molecular impact of miR-132-3p
+To better understand and characterize the mechanisms underlying the
+miR-132-3p functions in alpha-cells, we measured by qPCR the
+90
+
+expression of genes coding for proteins involved in alpha-cell identity,
+glucagon production, cell proliferation and cellular stress response,
+48 h after transfection with miR-132-3p mimic or inhibitor. miR-1323p over-expression in standard culture conditions induced an increase
+of Pou3f4 (þ77%), supporting the hypothesis that miR-132-3p might
+be involved in cell identity (Figure 5A). Inhibition of miR-132-3p had no
+impact on the regulation of this gene (Figure 5B). Expression of the
+cellular proliferation-related markers, Mki67 (þ60%) and Tpx2
+(þ34%) genes, was also increased by miR-132-3p overexpression
+(Figure 5C) and decreased by miR-132-3p inhibition by 28% for Mki67
+and 24% for Tpx2 (Figure 5D). Then we measured the effects of miR-
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+Figure 5: Impact of miR-132-3p on alpha-cell gene expression. (A,B) Evaluation by qPCR of the expression of genes coding for proteins implicated in glucagon synthesis,
+secretion and alpha-cell identity in primary mouse alpha-cells transfected with 100 nM control mimic or inhibitor (white bars) or miR-132-3p mimic (dark grey) (A) or inhibitor (light
+grey) (B) and cultured for 48 h in 10% FBS supplemented DMEM with 5.6 mM glucose (n ¼ 4e9). Multiple t-test with Benjamini, Krieger and Yekutieli method, * FDR  0.05 vs
+control. (C,D) Expression of genes coding for cell proliferation markers measured by qPCR in primary mouse alpha-cells transfected with 100 nM control mimic or inhibitor (white
+bars) or miR-132-3p mimic (dark grey) (C) or inhibitor (light grey) (D) and cultured for 48 h in 10% FBS supplemented DMEM with 5.6 mM glucose. Two-tailed paired Student’s t
+test,*P  0.05 vs control. (E) Expression of genes coding for cell stress markers measured by qPCR in primary mouse alpha-cells transfected with 100 nM control inhibitor (white
+bars) or miR-132-3p inhibitor (light grey) and cultured in 1% FBS supplemented DMEM with 0.5% BSA and 5.6 mM glucose. Two-tailed paired Student’s t test,*P  0.05 vs
+control. (F,G) Potential gene targets of miR-132-3p measured by qPCR in primary mouse alpha-cells transfected with 100 nM control mimic or inhibitor (white bars) or miR-132-3p
+mimic (dark grey) (F) or inhibitor (light grey) (G) and cultured for 48 h in 10% FBS supplemented DMEM with 5.6 mM glucose. Two-tailed paired Student’s t test,*P  0.05 vs
+control. (HeI) BTG2 and MKI67 mRNA levels measured by qPCR in human primary alpha-cells transfected with 100 nM control mimic or inhibitor (white bars) or miR-132-3p
+mimic (dark grey) (H) or inhibitor (light grey) (I) and cultured in PIM-S medium supplemented with 10% human serum for 48 h. One-tailed paired Student’s t test,*P  0.05 vs
+control. (J) Btg2, Mki67 Bbc3 and Ddit3 mRNA levels measured by qPCR in primary mouse alpha-cells in control condition or treated for 48 h with 100 nM somatostatin in 1% FBS
+supplemented DMEM with 0.5% BSA and 5.6 mM glucose. One-tailed paired Student’s t test,*P.0.05 vs control.
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+91
+
+Original Article
+132-3p inhibition on the expression of genes related to cellular stress
+and apoptosis in control (0.5% BSA vehicle) and glucolipotoxicity
+conditions (0.5% BSA þ 0.5 mM palmitate þ 25 mM glucose). miR132-3p inhibition induced an increase of the endoplasmic reticulum
+stress markers Hspa5, Ddit3 as well as of the pro-apoptotic genes
+Bbc3, Bax, Bak1 and Trp53. Moreover, miR-132-3p inhibition also
+increased anti-apoptotic Bcl2, Bcl2l1 and Mcl1 genes expression
+(Figure 5E). Of interest, in glucolipotoxicity conditions, we also
+observed an increase of Hspa5, Bbc3, Bak1, Trp53, Bcl2 and Bcl2l1
+genes expression after miR-132-3p inhibition (Supp Fig. F). In order to
+identify possible direct target mRNAs of miR-132-3p implicated in
+proliferation and apoptosis resistance, we evaluated the expression of
+the Btg2 and Sirt1 genes, two computationally predicted and validated
+targets of miR-132-3p with anti-proliferative and stress resistance
+associated functions. We observed a 39% decrease and a 27% increase of Btg2 gene expression in primary mouse alpha-cells treated
+with miR-132-3p mimic and inhibitor, respectively. In contrast, Sirt1
+was not signiﬁcantly affected by miR-132-3p (Figure 5F,G). This
+supports the hypothesis that Btg2 is a possible miR-132-3p direct
+target and that miR-132-3p has multiple gene targets involved in cell
+proliferation and death as well as cellular stress markers. To conﬁrm
+the possible implication of miR-132-3p in the regulation of human
+alpha-cells proliferation and apoptosis, we evaluated the molecular
+impact of miR-132-3p overexpression and downregulation in human
+primary alpha cells. Like in mouse alpha-cells, the overexpression of
+miR-132-3p induced an increase of the proliferation marker MKI67
+(þ121%) and a decrease of BBC3 mRNA level (12%) without
+changes of DDIT3 gene expression, while the inhibition of miR-132-3p
+induced a decrease of MKI67 (28%) expression and increase of
+BBC3 gene expression (þ32%) without change of DDIT3 mRNA level.
+BTG2 expression was not affected in human alpha cells by the modulation of miR-132-3p, suggesting that it is not a direct target in these
+cells, at least at the mRNA level (Figure 5H,I).
+3.7. Molecular impact of somatostatin treatment
+As somatostatin is a negative modulator of miR-132-3p expression
+in vitro, we hypothesized that this hormone could regulate alpha-cell
+proliferation and apoptosis via miR-132-3p. The treatment of mouse
+primary alpha-cells for 48 h with 100 nM somatostatin induced an
+increase of Btg2 (þ54%), a decrease of the proliferation marker Mki67
+(86%) and an increase of pro-apoptotic genes Bbc3 (þ110%) and
+Ddit3 (þ40%), reproducing the principal effects of miR-132-3p inhibition although at higher magnitude (Figure 5J).
+4. DISCUSSION
+We identiﬁed changes of miRNA expression between obese hyperglycemic and control mice, 16 miRNAs in alpha-cells, and 28 miRNAs
+in beta-cells. Previous microarray analyses were performed by Nesca
+et al. on whole islets from HFD and db/db mice compared to their
+controls. In this study, 79 miRNAs were identiﬁed with a regulation
+level higher than 1.5 fold in HFD versus normal diet fed mice [29]. Of
+the 16 miRNAs we identiﬁed as regulated in alpha-cells, only one was
+identiﬁed by Nesca et al., indicating that alpha-cells have to be puriﬁed
+to be studied at the molecular level. We observed a lower regulation
+level of miRNAs compared to the study by Nesca et al. in whole islets.
+Although we have no clear explanation for these differences, we hypothesize that it could be due to the longer isolation process, adding
+trypsin digestion and FACS sorting steps, or to the low and high fat
+feeding protocols substantially different in their composition and
+duration.
+92
+
+Alpha- and beta-cells miRNA expression proﬁles in LFD mice
+showed a signature of 125 miRNAs signiﬁcantly different between
+both cell types. Among these 125 miRNAs, 63 were more
+expressed in alpha-cells and 62 more in beta-cells. miR-205-5p
+and miR-92a-3p were the most alpha-cell speciﬁc. This balanced
+numbers of alpha- and beta-cell enriched miRNAs differs with the
+results obtained with human alpha- and beta-cells sorted after
+dissociation of preﬁxed islets. In the study of Klein et al., 95% of
+the differentially expressed miRNAs were more abundant in betacells [33]. The comparison of alpha- and beta-cells miRNAs was
+also conducted by comparing bTC3, a beta-cell line, to aTC1-6, a
+mouse adenoma pancreatic alpha-cell line, in two different studies,
+leading to the identiﬁcation of 9 and 50 miRNAs preferentially
+expressed in beta-cells while 14 and 74 were preferentially
+expressed in alpha-cells. aTC1-6 enriched miRNAs included miR103, miR-130 and miR-146a which were also alpha-cells
+enriched miRNAs in our study [34,35].
+Among the 16 miRNAs regulated in alpha-cells of obese hyperglycemic mice compared to controls, 8 were located in the Meg3-Mirg
+cluster: miR-487b-3p; miR-369-5p; miR-382-5p; miR-409-3p; miR431-5p; miR-127-3p; miR-329-3p; miR-382-3p. This genomic
+imprinted region was described as controlled by epigenetic regulation of two differentially methylated regions (DMRs) in different
+models. The intergenic germline-derived differentially methylated
+region (IG-DMR) located in chromosome 12, w12 kb upstream of
+the MEG3 promoter, is subjected to allele-speciﬁc imprinting and
+was recognized as a major distal regulatory element controlling the
+expression of the 200 kb downstream microRNA containing genes,
+including the MEG3-MIRG cluster [36]. In human type 2 diabetic
+islets, hypermethylation of the MEG3-DMR, located in MEG3 promotor, 1.5 kb upstream of the transcription initiation, is correlated
+with a downregulation of miRNAs from the cluster [19]. The average
+regulation of these 8 miRNAs is a 1.33 fold decrease. The microarray
+technology used cannot indicate if this regulation is due to a weak
+regulation in each cell or to a strong regulation in part of the cells.
+Indeed, the existence of alpha-cell subpopulations was already
+described using single-cell transcriptomic approaches [37]. In
+induced pluripotent stem cells [iPSCs], low levels of DNA methylation
+in the IG-DMR enhancer is necessary to maintain the expression of
+lncRNAs and miRNAs essential for the establishment of full pluripotency [38]. Functionally, downregulation of the cluster in alpha-cells
+could be a modulator of possible transdifferentiation or dedifferentiation processes in part of alpha-cells.
+The in vitro molecular and functional studies were focussed on miR132-3p as it represents the most regulated miRNA between obese
+hyperglycemic and control mice in alpha-cells. miR-132-3p was the
+only miRNA with a regulation-fold higher than two. However neither
+palmitate, high glucose concentration alone or in combination, nor
+insulin led to any change in miR-132-3p expression. It is possible
+that 48 h treatments are not long enough to reproduce the changes
+occurring during the 16 weeks of HFD feeding in vivo or that glucolipotoxicity in vivo includes much more than high glucose, fatty
+acids and amino acids. Nevertheless, in isolated rat whole islets,
+miR-132 is regulated by 48 h palmitate treatment in the presence of
+high glucose concentrations, suggesting a different regulatory
+mechanism in beta-cells [29]. Interestingly, miR-132-3p that we
+found downregulated in sorted alpha-cells of HFD mice at 16 weeks,
+shows an opposite regulation in sorted beta-cells as previously reported in islets of obese and db/db mice as well as in the non-obese
+type 2 diabetes Goto-Kakizaki rats [29,39]. The difference between
+alpha- and beta-cells could be due to transcriptional positive
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+regulations of the miR-212/miR-132 cluster by GLP-1 through a
+cAMP-dependent pathway in beta-cells [20,28] while alpha-cells,
+expressing very low levels of GLP-1 receptor, would be not or
+weakly receptive [40]. On the other hand, we can postulate that
+somatostatin produced within the islet by delta-cells may mediate
+the negative regulation of miR-132-3p in alpha-cells. Indeed, somatostatin, which can be hypersecreted in obese rats [41] and
+emerges as a critical modulator of alpha-cell function in controlling
+glucagon secretion, and alpha-cell mass [42e44], reduced strongly
+miR-132-3p expression in vitro in our study. We hypothesize, that
+GLP-1 by stimulating somatostatin secretion in the pancreas may
+reduce cAMP through the Gi/o coupled receptor Sst2 and repress
+miR-132-3p expression in the same way that it inhibits glucagon
+secretion [42,45]. The increased plasma GLP-1 in our model of
+obese hyperglycemic mice [8] could so be a central regulator of miR132-3p in both alpha- and beta-cells.
+Functionally, neither miR-132-3p inhibition, nor its overexpression,
+had an impact on basal as well as arginine- or low glucosestimulated glucagon secretion in opposition to its effects on
+glucose-stimulated insulin secretion in beta-cells [20,28,29]. However, like in beta-cells, miR-132 is implicated in alpha-cells proliferation [29]. miR-132-3p overexpression increased primary mouse
+alpha-cell proliferation and its inhibition decreased the proliferation
+rate. This is corroborated by molecular analyses in the presence of
+miR-132-3p mimics or inhibitors on the proliferation markers, Mki67
+and Tpx2, which were increased by over-expression of miR-132-3p
+and decreased by its inhibition in correlation with proliferation in
+mouse alpha-cells. We showed that the BTG anti-proliferation factor
+2 (Btg2) mRNA, a previously reported direct target of miR-132-3p, is
+also regulated in mouse alpha-cells and potentially implicated in this
+process by its regulation in an opposite way to miR-132-3p [46].
+Interestingly, Btg2 mRNA expression is inversely correlated to the
+expression of miR-132-3p between mouse alpha-and beta-cells
+(unpublished data). We also observed increased expression of the
+transcription factor Pou3f4 gene, implicated in alpha-cell identity,
+after miR-132-3p over-expression while miR-132-3p inhibition was
+without effects [47,48]. High expression level of miR-132-3p might
+be a positive regulator of alpha-cells differentiation, but the results
+are at odds with the notion that increased cell proliferation is usually
+accompanied with cell dedifferentiation, leaving this observation to
+be more fully characterized.
+Finally, our data indicate that miR-132-3p is also implicated in alpha-cell
+resistance to apoptosis. The high expression levels of the Bcl2 family
+proteins balancing the impact of pro-apoptotic factors in alpha-cells was
+described as a mechanism of their strong resistance to stress induced
+apoptosis compared to beta-cells [32]. Interestingly, pro- and antiapoptotic genes, including Bcl2 and Bcl2l1, were upregulated by the
+inhibition of miR-132-3p in both standard and glucolipotoxicity conditions. The surprising ﬁnding of the upregulated pro- and anti-apoptotic
+gene expression, induced by miR-132-3p downregulation even in
+normal culture conditions leads to hypothesize that, in low miR-132-3p
+levels, the ratio of pro- and anti-apoptotic factors is changed in favor of
+pro-apoptotic factors, leading to the functional activation of proteins
+directly involved in apoptosis induction such as BAX and BAK [49].
+The impact of miR-132-3p modulation was partially identical in primary culture of human alpha-cells where miR-132-3p appears as a
+positive regulator of the proliferation marker gene MKI67 and a
+repressor of the stress marker gene BBC3. Interestingly BTG2 gene
+expression was not affected in human alpha-cells in contrast to what
+we observed in mouse alpha-cells. This may indicate that the functions
+or miR-132-3p are highly conserved through the evolution and may be
+
+mediated by different mRNA targets as reported in a recent bioinformatics study [50].
+5. CONCLUSION
+In conclusion, the proﬁle of regulated miRNAs in alpha-cells of obese
+hyperglycemic mice revealed downregulation of miRNAs belonging to
+the Mirg-Meg3 cluster whose functional impacts on alpha-cell remains
+to be investigated. Our study, focusing on the most regulated miRNA,
+miR-132-3p, highlights its potential impact on alpha-cell mass through
+a mechanism that may involve the regulation of Btg2. The 2-fold
+downregulation of this miRNA, may be a mechanism of action of somatostatin within the islet, restraining proliferation and sensitizing
+alpha-cells to apoptosis, contributing to the balanced alpha-cell mass
+of HFD mice. Indeed, even if alpha-cells proliferate during HFD [51],
+alpha-cells number remains unchanged after 16 weeks of HFD feeding
+while a strong increase of beta-cell number is observed [8].
+miR-132-3p, may be an interesting target in the study of type 2 diabetes pathophysiology by its dual action in alpha- and beta-cell proliferation, apoptosis and resistance to stress during its evolution. At 16
+weeks, its decreased expression in alpha-cells could contribute to the
+adaptation of a proliferative phase of glucagon-producing cells while
+its upregulation in beta-cells should promote their expansion and insulin secretion.
+ACKNOWLEDGMENTS
+We thank Jean-Pierre Aubry, Cécile Gameiro, and Grégory Schneiter of Flow cytometry
+core facility of the Medical School of Geneva University (Geneva, Switzerland) for FACS
+as well as Johann Weber, Floriane Consales Barras, Sylvain Pradervand, and Leonore
+Wigger from Lausanne Genomic Technologies Facility. We also thank Fiona Gribble and
+Frank Riemann (Cambridge Institute for Medical Research, Cambridge, United
+Kingdom) for providing us the GLU-Venus mice, as well as Guoqiang Gu (Vanderbilt
+University, Nashville, Tennessee, USA) for the INS-Cherry mice and Charna Dibner for
+the double-transgenic mouse strain. JP received grant support from Swiss National
+Fund (main recipient, 31003A-170029/1). The project was supported by grants
+delivered by the EFSD/Lilly fellowship programme, the “Fondation pour la lutte contre le
+cancer et pour des recherches medico biologiques” and “Fondation romande pour la
+recherche pour le diabète”, as well as from Novo Nordisk. All authors participated in
+the conception and design of the study, acquisition, and analysis and interpretation of
+data, as well as revision and approval. RD, SH, CV, YG, and FV researched data (design,
+acquisition, and analysis of data) and contributed to revision; RD, JP, and YG
+researched data design and contributed to revision of manuscript, project management, and writing of the manuscript. YG and JP are the guarantors of this work and, as
+such, had full access to all data in the study and take responsibility for the integrity of
+the data and the accuracy of the data analysis.
+
+APPENDIX A. SUPPLEMENTARY DATA
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.
+molmet.2019.01.004.
+
+CONFLICT OF INTEREST
+All authors have no conﬂicts of interest.
+
+REFERENCES
+[1] Dunning, B.E., Foley, J.E., Ahren, B., 2005. Alpha cell function in health and
+disease: inﬂuence of glucagon-like peptide-1. Diabetologia 48:1700e1713.
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+93
+
+Original Article
+[2] Gromada, J., Franklin, I., Wollheim, C.B., 2007. Alpha-cells of the endocrine
+pancreas: 35 years of research but the enigma remains. Endocrine Reviews
+28:84e116.
+[3] Quesada, I., Tuduri, E., Ripoll, C., Nadal, A., 2008. Physiology of the pancreatic
+alpha-cell and glucagon secretion: role in glucose homeostasis and diabetes.
+Journal of Endocrinology 199:5e19.
+[4] Gosmain, Y., Avril, I., Mamin, A., Philippe, J., 2007. Pax-6 and c-Maf functionally
+interact with the alpha-cell-speciﬁc DNA element G1 in vivo to promote glucagon
+gene expression. Journal of Biological Chemistry 282:35024e35034.
+[5] Heddad Masson, M., Poisson, C., Guerardel, A., Mamin, A., Philippe, J.,
+Gosmain, Y., 2014. Foxa1 and Foxa2 regulate alpha-cell differentiation,
+glucagon biosynthesis, and secretion. Endocrinology 155:3781e3792.
+[6] Dhalla, A.K., Yang, M., Ning, Y., Kahlig, K.M., Krause, M., Rajamani, S., et al.,
+2014. Blockade of Naþ channels in pancreatic alpha-cells has antidiabetic
+effects. Diabetes 63:3545e3556.
+[7] Allister, E.M., Robson-Doucette, C.A., Prentice, K.J., Hardy, A.B., Sultan, S.,
+Gaisano, H.Y., et al., 2013. UCP2 regulates the glucagon response to fasting
+and starvation. Diabetes 62:1623e1633.
+[8] Dusaulcy, R., Handgraaf, S., Skarupelova, S., Visentin, F., Vesin, C., HeddadMasson, M., et al., 2016. Functional and molecular adaptations of enteroendocrine L-cells in male obese mice are associated with preservation of
+pancreatic alpha-cell function and prevention of hyperglycemia. Endocrinology
+157:3832e3843.
+[9] Marchetti, P., Lupi, R., Bugliani, M., Kirkpatrick, C.L., Sebastiani, G.,
+Grieco, F.A., et al., 2012. A local glucagon-like peptide 1 (GLP-1) system in
+human pancreatic islets. Diabetologia 55:3262e3272.
+[10] Hansen, A.M., Bodvarsdottir, T.B., Nordestgaard, D.N., Heller, R.S.,
+Gotfredsen, C.F., Maedler, K., et al., 2011. Upregulation of alpha cell glucagonlike peptide 1 (GLP-1) in Psammomys obesus–an adaptive response to
+hyperglycaemia? Diabetologia 54:1379e1387.
+[11] Towler, B.P., Jones, C.I., Newbury, S.F., 2015. Mechanisms of regulation of
+mature miRNAs. Biochemical Society Transactions 43:1208e1214.
+[12] Guay, C., Regazzi, R., 2013. Circulating microRNAs as novel biomarkers for
+diabetes mellitus. Nature Reviews Endocrinology 9:513e521.
+[13] Kalis, M., Bolmeson, C., Esguerra, J.L., Gupta, S., Edlund, A., Tormo-Badia, N.,
+et al., 2011. Beta-cell speciﬁc deletion of Dicer1 leads to defective insulin
+secretion and diabetes mellitus. PLoS One 6:e29166.
+[14] Mandelbaum, A.D., Melkman-Zehavi, T., Oren, R., Kredo-Russo, S., Nir, T.,
+Dor, Y., et al., 2012. Dysregulation of Dicer1 in beta cells impairs islet architecture and glucose metabolism. Experimental Diabetes Research 2012:470302.
+[15] Melkman-Zehavi, T., Oren, R., Kredo-Russo, S., Shapira, T.,
+Mandelbaum, A.D., Rivkin, N., et al., 2011. miRNAs control insulin content in
+pancreatic beta-cells via downregulation of transcriptional repressors. The
+EMBO Journal 30:835e845.
+[16] Plaisance, V., Waeber, G., Regazzi, R., Abderrahmani, A., 2014. Role of
+microRNAs in islet beta-cell compensation and failure during diabetes. Journal
+of Diabetes Research 2014:618652.
+[17] Esguerra, J.L., Mollet, I.G., Salunkhe, V.A., Wendt, A., Eliasson, L., 2014.
+Regulation of pancreatic beta cell stimulus-secretion coupling by microRNAs.
+Genes (Basel) 5:1018e1031.
+[18] Guay, C., Regazzi, R., 2015. Role of islet microRNAs in diabetes: which model
+for which question? Diabetologia 58:456e463.
+[19] Kameswaran, V., Bramswig, N.C., McKenna, L.B., Penn, M., Schug, J.,
+Hand, N.J., et al., 2014. Epigenetic regulation of the DLK1-MEG3 microRNA
+cluster in human type 2 diabetic islets. Cell Metabolism 19:135e145.
+[20] Malm, H.A., Mollet, I.G., Berggreen, C., Orho-Melander, M., Esguerra, J.L.,
+Goransson, O., et al., 2016. Transcriptional regulation of the miR-212/miR-132
+cluster in insulin-secreting beta-cells by cAMP-regulated transcriptional coactivator 1 and salt-inducible kinases. Molecular and Cellular Endocrinology
+424:23e33.
+
+94
+
+[21] Lynn, F.C., Skewes-Cox, P., Kosaka, Y., McManus, M.T., Harfe, B.D.,
+German, M.S., 2007. MicroRNA expression is required for pancreatic islet cell
+genesis in the mouse. Diabetes 56:2938e2945.
+[22] Poy, M.N., Hausser, J., Trajkovski, M., Braun, M., Collins, S., Rorsman, P.,
+et al., 2009. miR-375 maintains normal pancreatic alpha- and beta-cell mass.
+Proceedings of National Academy of Science USA 106:5813e5818.
+[23] Reimann, F., Habib, A.M., Tolhurst, G., Parker, H.E., Rogers, G.J.,
+Gribble, F.M., 2008. Glucose sensing in L cells: a primary cell study. Cell
+Metabolism 8:532e539.
+[24] Dusaulcy, R., Handgraaf, S., Heddad-Masson, M., Visentin, F., Vesin, C.,
+Reimann, F., et al., 2016. Alpha-cell dysfunctions and molecular alterations in
+male insulinopenic diabetic mice are not completely corrected by insulin.
+Endocrinology 157:536e547.
+[25] Dorrell, C., Schug, J., Lin, C.F., Canaday, P.S., Fox, A.J., Smirnova, O., et al.,
+2011. Transcriptomes of the major human pancreatic cell types. Diabetologia
+54:2832e2844.
+[26] Handgraaf, S., Dusaulcy, R., Visentin, F., Philippe, J., Gosmain, Y., 2018. 17beta estradiol regulates proglucagon-derived peptide secretion in mouse and
+human alpha- and L cells. JCI Insight 3.
+[27] Vlachos, I.S., Zagganas, K., Paraskevopoulou, M.D., Georgakilas, G.,
+Karagkouni, D., Vergoulis, T., et al., 2015. DIANA-miRPath v3.0: deciphering
+microRNA function with experimental support. Nucleic Acids Research 43:
+W460eW466.
+[28] Shang, J., Li, J., Keller, M.P., Hohmeier, H.E., Wang, Y., Feng, Y., et al., 2015.
+Induction of miR-132 and miR-212 expression by glucagon-like peptide 1
+(GLP-1) in rodent and human pancreatic beta-cells. Molecular Endocrinology
+29:1243e1253.
+[29] Nesca, V., Guay, C., Jacovetti, C., Menoud, V., Peyot, M.L., Laybutt, D.R., et al.,
+2013. Identiﬁcation of particular groups of microRNAs that positively or
+negatively impact on beta cell function in obese models of type 2 diabetes.
+Diabetologia 56:2203e2212.
+[30] Zhang, Y., Zhang, Y., Bone, R.N., Cui, W., Peng, J.B., Siegal, G.P., et al., 2012.
+Regeneration of pancreatic non-beta endocrine cells in adult mice following a
+single diabetes-inducing dose of streptozotocin. PLoS One 7:e36675.
+[31] Thorel, F., Nepote, V., Avril, I., Kohno, K., Desgraz, R., Chera, S., et al., 2010.
+Conversion of adult pancreatic alpha-cells to beta-cells after extreme beta-cell
+loss. Nature 464:1149e1154.
+[32] Marroqui, L., Masini, M., Merino, B., Grieco, F.A., Millard, I., Dubois, C., et al.,
+2015. Pancreatic alpha cells are resistant to metabolic stress-induced
+apoptosis in type 2 diabetes. EBioMedicine 2:378e385.
+[33] Klein, D., Misawa, R., Bravo-Egana, V., Vargas, N., Rosero, S., Piroso, J., et al.,
+2013. MicroRNA expression in alpha and beta cells of human pancreatic islets.
+PLoS One 8:e55064.
+[34] Mohan, R., Mao, Y., Zhang, S., Zhang, Y.W., Xu, C.R., Gradwohl, G., et al.,
+2015. Differentially expressed MicroRNA-483 confers distinct functions in
+pancreatic beta- and alpha-cells. Journal of Biological Chemistry 290:19955e
+19966.
+[35] Barbagallo, D., Piro, S., Condorelli, A.G., Mascali, L.G., Urbano, F.,
+Parrinello, N., et al., 2013. miR-296-3p, miR-298-5p and their downstream
+networks are causally involved in the higher resistance of mammalian
+pancreatic alpha cells to cytokine-induced apoptosis as compared to beta
+cells. BMC Genomics 14:62.
+[36] Lin, S.P., Youngson, N., Takada, S., Seitz, H., Reik, W., Paulsen, M., et al.,
+2003. Asymmetric regulation of imprinting on the maternal and paternal
+chromosomes at the Dlk1-Gtl2 imprinted cluster on mouse chromosome 12.
+Nature Genetics 35:97e102.
+[37] Prasad, R.B., Groop, L., 2016. Single-cell sequencing of human pancreatic
+islets-new kids on the block. Cell Metabolism 24:523e524.
+[38] Das, P.P., Hendrix, D.A., Apostolou, E., Buchner, A.H., Canver, M.C., Beyaz, S.,
+et al., 2015. PRC2 is required to maintain expression of the maternal Gtl2-
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+Rian-Mirg locus by preventing De Novo DNA methylation in mouse embryonic
+stem cells. Cell Reports 12:1456e1470.
+[39] Esguerra, J.L., Bolmeson, C., Cilio, C.M., Eliasson, L., 2011. Differential
+glucose-regulation of microRNAs in pancreatic islets of non-obese type 2
+diabetes model Goto-Kakizaki rat. PLoS One 6:e18613.
+[40] Tornehave, D., Kristensen, P., Romer, J., Knudsen, L.B., Heller, R.S., 2008.
+Expression of the GLP-1 receptor in mouse, rat, and human pancreas. Journal
+of Histochemistry and Cytochemistry 56:841e851.
+[41] Trimble, E.R., Herberg, L., Renold, A.E., 1980. Hypersection of pancreatic
+somatostatin in the obese Zucker rat: effects of food restriction and age.
+Diabetes 29:889e894.
+[42] Elliott, A.D., Ustione, A., Piston, D.W., 2015. Somatostatin and insulin mediate
+glucose-inhibited glucagon secretion in the pancreatic alpha-cell by lowering
+cAMP. American Journal of Physiology. Endocrinology and Metabolism 308:
+E130eE143.
+[43] Li, N., Yang, Z., Li, Q., Yu, Z., Chen, X., Li, J.C., et al., 2018. Ablation of
+somatostatin cells leads to impaired pancreatic islet function and neonatal
+death in rodents. Cell Death & Disease 9:682.
+[44] Singh, V., Grotzinger, C., Nowak, K.W., Zacharias, S., Goncz, E., Pless, G.,
+et al., 2007. Somatostatin receptor subtype-2-deﬁcient mice with diet-induced
+obesity have hyperglycemia, nonfasting hyperglucagonemia, and decreased
+hepatic glycogen deposition. Endocrinology 148:3887e3899.
+
+[45] de Heer, J., Rasmussen, C., Coy, D.H., Holst, J.J., 2008. Glucagon-like
+peptide-1, but not glucose-dependent insulinotropic peptide, inhibits glucagon
+secretion via somatostatin (receptor subtype 2) in the perfused rat pancreas.
+Diabetologia 51:2263e2270.
+[46] Alvarez-Saavedra, M., Antoun, G., Yanagiya, A., Oliva-Hernandez, R., CornejoPalma, D., Perez-Iratxeta, C., et al., 2011. miRNA-132 orchestrates chromatin
+remodeling and translational control of the circadian clock. Human Molecular
+Genetics 20:731e751.
+[47] Bramswig, N.C., Kaestner, K.H., 2011. Transcriptional regulation of alpha-cell
+differentiation. Diabetes, Obesity and Metabolism 13(Suppl 1):13e20.
+[48] Gosmain, Y., Cheyssac, C., Heddad Masson, M., Dibner, C., Philippe, J., 2011.
+Glucagon gene expression in the endocrine pancreas: the role of the transcription factor Pax6 in alpha-cell differentiation, glucagon biosynthesis and
+secretion. Diabetes, Obesity and Metabolism 13(Suppl 1):31e38.
+[49] Pena-Blanco, A., Garcia-Saez, A.J., 2018. Bax, Bak and beyond - mitochondrial performance in apoptosis. FEBS Journal 285:416e431.
+[50] Haviv, R., Oz, E., Soreq, H., 2018. The stress-responding miR-132-3p shows
+evolutionarily conserved pathway interactions. Cellular and Molecular Neurobiology 38:141e153.
+[51] Ellingsgaard, H., Ehses, J.A., Hammar, E.B., Van Lommel, L., Quintens, R.,
+Martens, G., et al., 2008. Interleukin-6 regulates pancreatic alpha-cell mass
+expansion. Proceedings of National Academy of Science USA 105:13163e13168.
+
+MOLECULAR METABOLISM 22 (2019) 84e95 Ó 2019 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+www.molecularmetabolism.com
+
+95
+
+

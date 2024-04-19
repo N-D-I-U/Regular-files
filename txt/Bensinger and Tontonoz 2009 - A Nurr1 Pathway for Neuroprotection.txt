@@ -1,0 +1,320 @@
+comprehensive assessment of inference
+algorithms. As the authors point out, information-theoretic approaches are not ideal
+for reconstructing small-scale networks,
+but seem to do quite well for reconstructing large-scale networks. An obvious
+development along these lines would be
+to increase the size and complexity of the
+gold-standard synthetic gene network by
+including additional genes and interactions. Ideally, it would be useful to have a
+library of diverse, gold-standard synthetic
+gene networks, including ones consisting of 25–100 genes and varied network
+architectures. As DNA synthesis capabilities become less error prone and more
+cost effective, creating such a library will
+become feasible.
+It would also be useful to expand the
+gold-standard synthetic networks to
+include additional components, such as
+small RNAs and microRNAs, and to take
+account of pre- and posttranscriptional
+
+and translational modifications. These
+developments would enable one to consider multiple levels of regulation and to
+integrate different types of data in network inference studies. These enhanced
+capabilities could lead to the development of new systems biology techniques
+and analysis tools.
+The work by Cantone and colleagues
+nicely illustrates the value of integrating the bottom-up network construction
+approaches of synthetic biology with the
+top-down network inference methodologies of systems biology. These efforts
+will be applicable to many different
+organisms, and may one day enable us
+to reverse engineer the gene regulatory
+networks that make up an elephant.
+References
+Bonneau, R. (2008). Nat. Chem. Biol. 4, 658–664.
+Camacho, D., Vera Licona, P., Mendes, P., and
+
+Laubenbacher, R. (2007). Ann. N Y Acad. Sci. 1115,
+73–89.
+Cantone, I., Marucci, L., Iorio, F., Ricci, M.A., Belcastro, V., Bansal, M., di Bernardo, M., Santini, S.,
+di Bernardo, D., and Cosma, M.P. (2009). Cell, this
+issue.
+di Bernardo, D., Thompson, M.J., Gardner, T.S.,
+Chobot, S.E., Eastwood, E.L., Wojtovich, A.P., Elliot,
+S.J., Schaus, S.E., and Collins, J.J. (2005). Nat. Biotechnol. 23, 377–383.
+Faith, J.J., Hayete, B., Thaden, J.T., Mogno, I., Wierzbowski, J., Cottarel, G., Kasif, S., Collins, J.J., and
+Gardner, T.S. (2007). PLoS Biol. 5, e8.
+Gardner, T.S., di Bernardo, D., Lorenz, D., and Collins, J.J. (2003). Science 301, 102–105.
+Kohanski, M.A., Dwyer, D.J., Wierzbowski, J., Cottarel, G., and Collins, J.J. (2008). Cell 135, 679–690.
+Lorenz, D.R., Cantor, C.R., and Collins, J.J. (2009).
+Proc. Natl. Acad. Sci. USA 106, 1145–1150.
+Margolin, A.A., Nemenman, I., Basso, K., Wiggins,
+C., Stolovitzky, G., Dalla Favera, R., and Califano, A.
+(2006). BMC Bioinformatics 7 (Suppl 1), S7.
+Yu, J., Smith, V.A., Wang, P.P., Hartemink, A.J., and
+Jarvis, E.D. (2004). Bioinformatics 20, 3594–3603.
+
+A Nurr1 Pathway for Neuroprotection
+Steven J. Bensinger1,3 and Peter Tontonoz2,3,*
+
+Institute for Molecular Medicine
+Howard Hughes Medical Institute
+3
+Department of Pathology and Laboratory Medicine
+University of California, Los Angeles, CA 90095, USA
+*Correspondence: ptontonoz@mednet.ucla.edu
+DOI 10.1016/j.cell.2009.03.024
+1
+2
+
+Mutations in the gene encoding the orphan nuclear receptor Nurr1 are linked to a rare familial
+form of Parkinson’s disease. By examining the function of its mouse homolog, Saijo et al. (2009)
+provide evidence that Nurr1 protects dopaminergic neurons by suppressing inflammatory gene
+expression in astrocytes and microglia.
+Parkinson’s disease is a neurodegenerative disorder, characterized by tremors
+and rigidity, that results from the progressive loss of dopamine-producing neurons
+in the substantia nigra of the brain. Among
+the genetic factors contributing to the
+disease are rare mutations in the orphan
+nuclear receptor Nurr1 (also known as
+NR4A2) that are associated with a familial
+late-onset form of the disease (Le et al.,
+2003). Prior work on Nurr1 is consistent
+with the view that this protein might medi26 Cell 137, April 3, 2009 ©2009 Elsevier Inc.
+
+ate its neuroprotective effects primarily
+through its function in neurons. Nurr1 was
+initially characterized in rats as a transcription factor that regulates expression
+of the gene encoding tyrosine hydroxylase, a key enzyme in dopamine synthesis
+(Sakurada et al., 1999). Genetic deletion
+of Nurr1 in mice inhibits the development of midbrain dopamine-producing
+neurons (Zetterstrom et al., 1997), and
+the dopaminergic neurons of heterozygous null mice are more susceptible to
+
+neurotoxic challenge than those of wildtype mice (Le et al., 1999). In this issue,
+Saijo et al. (2009) present evidence for an
+unexpected mechanism by which Nurr1
+mediates neuroprotection. These authors
+show that mouse Nurr1 acts in microglia
+and astrocytes to suppress the production of inflammatory mediators that trigger the death of dopaminergic neurons.
+The NR4A subfamily of nuclear receptors consists of three members: NR4A1,
+NR4A2, and NR4A3 (also known as Nur77,
+
+Nurr1, and Nor1) (Maxwell and Muscat,
+2006). Unlike many other nuclear receptors, the NR4As do not possess ligandbinding cavities. Instead, NR4As are
+immediate early genes whose expression
+is induced by various stimuli including
+cyclic AMP, growth factors, inflammatory signals, and hormones. The activity
+of NR4A is thought to be controlled primarily at the level of protein expression
+and posttranscriptional regulation. NR4A
+receptors positively regulate the expression of target genes by directly binding
+to response elements in their promoters
+(Maxwell and Muscat, 2006).
+In addition to positively regulating gene
+expression, nuclear receptors can also
+inhibit transcription. Recent work from
+several groups has begun to elucidate
+the transcriptional mechanisms through
+which nuclear receptors repress inflammatory gene expression. For example,
+the ligand-activated nuclear receptors
+PPAR and LXR inhibit inflammation
+through protein-protein interactions with
+the inflammatory transcription factor
+NF-κB (Bensinger and Tontonoz, 2008).
+Importantly, this so-called “transrepression” mechanism does not depend
+on direct binding of the receptors to
+response elements in target promoters.
+Instead, ligation of PPAR and LXR inhibits inflammatory gene expression by preventing the inflammatory signal-specific
+removal of the corepressor complexes
+containing SMRT and NCoR from inflammatory gene promoters (Ghisletti et al.,
+2007; Pascual et al., 2005).
+Saijo et al. now reveal a previously
+unappreciated function for Nurr1—
+the repression of inflammatory gene
+expression. This repression provides
+protection from the damaging effects
+of neuroinflammation and suggests
+new potential mechanisms linking Nurr1
+function and Parkinson’s disease. The
+authors set the stage for their discovery by administering lipopolysaccharide
+(LPS) to the substantia nigra of mice
+using stereotaxic injections (a technique that uses a coordinate system
+to precisely target an injection needle
+to particular regions of the brain). This
+treatment triggers local inflammation
+and leads to a loss of neurons expressing tyrosine hydroxylase (TH+). They
+demonstrate that inflammation induces
+Nurr1 expression and that local knock-
+
+Figure 1. A Nurr1 Pathway for Transrepression of Inflammatory Gene Expression
+A model for Nurr1 transrepression based on the work of Saijo et al. (2009).
+(A) Inflammatory signals promote the expression of inflammatory genes through activation of NF-κB
+signaling and the recruitment of coactivator complexes, such as p300/CBP, by the NF-κB subunit p65
+to inflammatory promoters.
+(B) In cells expressing Nurr1, such as microglia, inflammatory signals also trigger Nurr1 phosphorylation
+(by Nemo-like kinase; NLK) and sumoylation. This promotes its interaction with p65 leading to the recruitment of the CoREST complex to the promoters of inflammatory genes.
+
+down of Nurr1 (by injection of lentiviral
+vectors expressing short-hairpin RNAs)
+enhances the loss of TH+ neurons.
+Interestingly, the primary targets for the
+neuroprotective effects of Nurr1 appear
+to be the neighboring microglia and
+astrocytic cells rather than the neurons
+themselves. In vitro studies with microglia and astrocytes implicate these support cells in the release of neurotoxic
+factors that induce neuronal death.
+Building on their previous studies of
+the anti-inflammatory action of PPAR and
+LXR, the authors investigated the mechanisms underlying the protective effects of
+Nurr1. Examination of isolated microglia
+and astrocytes demonstrates that Nurr1
+is a potent repressor of inflammatory
+gene expression in these cells. Chromatin immunoprecipitation (ChIP) analysis
+indicates that Nurr1 is recruited to the promoters of LPS-responsive genes. Interestingly, the ability of Nurr1 to inhibit these
+promoters is signal specific but does not
+require direct binding to a specific DNA
+sequence. Thus, Nurr1 appears to act
+as a transrepressor, similar to the liganddependent nuclear receptors PPAR and
+LXR. The authors provide evidence from
+coimmunoprecipitation experiments that
+Nurr1-mediated transrepression involves
+the physical association of Nurr1 with the
+p65 subunit of NF-κB (Figure 1). Mutations
+
+in key phosphorylation sites, coupled
+with the use of kinase inhibitors, identify
+GSK3β-mediated phosphorylation of p65
+as a signal for recruitment of Nurr1 to p65.
+Phosphorylation of serine 468 drives the
+interaction of Nurr1 and p65, resulting in
+the attenuation of inflammatory gene transcription by NF-κB. Analogous to PPARand LXR-mediated transrepression, Nurr1
+repression of inflammatory promoters also
+requires sumoylation of Nurr1 at key lysine
+residues (Ghisletti et al., 2007; Pascual
+et al., 2005). Treatment of cells with the
+inflammatory cytokine interleukin 1β (IL-1β)
+promotes Nurr1 sumoylation.
+Another important piece in this puzzle is the CoREST repressor complex,
+which the authors identify as an essential player in Nurr1-mediated transrepression. Previous work has shown that
+CoREST represses the expression of
+neural-specific genes in non-neural cells
+via binding to specific silencing elements
+(Ballas et al., 2005). CoREST recruits an
+array of proteins to target promoters in
+order to effect repression. These include
+histone deacetylases (HDACs), the histone methyltransferase G9a, histone
+demethylase, and lysine-specific demethylase 1 (LSD1). The authors show that
+Nurr1 interacts directly with CoREST and
+find that recruitment of G9a, LSD1, and
+HDAC1 is required for Nurr1/CoRESTCell 137, April 3, 2009 ©2009 Elsevier Inc.
+
+27
+
+dependent repression. The authors also
+report that the Nurr1-CoREST interaction is stimulated by phosphorylation of
+Nurr1 by Nemo-like kinase. Lastly, ChIP
+analysis of iNOS promoter occupancy
+following stimulation by LPS suggests
+a temporal model of transrepression in
+which p65 binding precedes Nurr1 association, which is followed by recruitment
+of ­CoREST to the complex.
+The Saijo et al. study provides important insights into the ability of Nurr1 and
+­CoREST to modulate neuroinflammation.
+The work unravels molecular mechanisms
+that may underlie human neurological disease and opens the door for future work on
+inflammatory signaling in the brain. These
+studies also provide a better understanding of how transrepression is achieved at
+the molecular level. Interestingly, certain
+components of the transrepression mechanism appear to be conserved between
+different nuclear receptors, such as the
+requirement for sumoylation and the interaction with NF-κB proteins and corepressors. At the same time, Saijo et al. illustrate
+how different nuclear receptors utilize distinct corepressor complexes to repress
+gene expression in a signal- and contextdependent manner.
+
+Finally, the work prompts a number of
+interesting questions to be addressed
+in future studies. For example, the three
+NR4A receptors (Nurr77, Nurr1, and
+Nor1) regulate overlapping target genes
+in some cell types. Do Nurr77 and Nor1
+also interact with CoREST in response to
+inflammatory signals? What is the relative contribution of transrepression and
+direct gene activation in NR4A-dependent regulation of inflammation? Sumoylation appears to be a critical component
+of the transrepression mechanism. In the
+PPAR and LXR transrepression pathways, sumoylation of the receptor is triggered by ligand binding. Is Nurr1 sumoylation responsive to other cellular signals
+in addition to IL-1β? Is the Nurr1/CoREST
+transrepression pathway intact in monocytes and macrophages, and if so, does
+this repression pathway also have a role
+in peripheral inflammation? Lastly, there
+is strong evidence that neuroinflammation contributes to the pathogenesis of a
+number of diseases, including Alzheimer’s disease and multiple sclerosis. It will
+be important to determine if this repression pathway is altered in these diseases
+and whether NR4A receptors might represent potential therapeutic targets.
+
+References
+Ballas, N., Grunseich, C., Lu, D.D., Speh, J.C., and
+Mandel, G. (2005). Cell 121, 645–657.
+Bensinger, S.J., and Tontonoz, P. (2008). Nature
+454, 470–477.
+Ghisletti, S., Huang, W., Ogawa, S., Pascual, G.,
+Lin, M.E., Willson, T.M., Rosenfeld, M.G., and
+Glass, C.K. (2007). Mol. Cell 25, 57–70.
+Le, W., Conneely, O.M., He, Y., Jankovic, J.,
+and Appel, S.H. (1999). J. Neurochem. 73,
+2218–2221.
+Le, W.D., Xu, P., Jankovic, J., Jiang, H., Appel,
+S.H., Smith, R.G., and Vassilatis, D.K. (2003). Nat.
+Genet. 33, 85–89.
+Maxwell, M. A., and Muscat, G. E. (2006). Nucl.
+Recept. Signal 4, e002.
+Pascual, G., Fong, A.L., Ogawa, S., Gamliel, A.,
+Li, A.C., Perissi, V., Rose, D.W., Willson, T.M.,
+Rosenfeld, M.G., and Glass, C.K. (2005). Nature
+437, 759–763.
+Saijo, K., Winner, B., Carson, C.T., Collier, J.G.,
+Boyer, L., Rosenfeld, M.G., Gage, F.H., and Glass,
+C.K. (2009). Cell, this issue.
+Sakurada, K., Ohshima-Sakurada, M., Palmer,
+T.D., and Gage, F.H. (1999). Development 126,
+4017–4026.
+Zetterstrom, R.H., Solomin, L., Jansson, L., Hoffer,
+B.J., Olson, L., and Perlmann, T. (1997). Science
+276, 248–250.
+
+β-tting on p63 as a Metastatic Suppressor
+John G. Clohessy1 and Pier Paolo Pandolfi1,*
+
+Cancer Genetics Program, Beth Israel Deaconess Cancer Center and Department of Medicine and Pathology, Beth Israel Deaconess
+Medical Center, Harvard Medical School, Boston, MA 02215, USA
+*Correspondence: ppandolf@bidmc.harvard.edu
+DOI 10.1016/j.cell.2009.03.028
+
+1
+
+Although much is known about the genes that promote metastasis, few suppressors of metastasis
+have been found. Adorno et al. (2009) now identify p63 as a potent suppressor of metastasis and
+uncover an intricate mechanism for the inactivation of metastasis in cancer cells in response to
+transforming growth factor β.
+Cancer progression from the primary
+phase to the metastatic phase represents one of the key determinants
+of prognosis and outcome for cancer
+patients. However, the mechanistic
+details behind the metastatic spread of
+cancer remain obscure. Although the
+28 Cell 137, April 3, 2009 ©2009 Elsevier Inc.
+
+cytokine transforming growth factor β
+(TGFβ) has emerged as a major player in
+the metastatic process, it has seemingly
+contradictory functions. Ordinarily a
+tumor suppressor that mediates growth
+arrest and apoptosis, TGFβ appears to
+take on the opposite role in end-stage
+
+tumors where it promotes metastasis
+(Padua and Massague, 2009). Reporting
+in this issue of Cell, Adorno et al. (2009)
+identify a mechanism in cells expressing mutant p53, which enables TGFβ to
+switch to an oncogenic role by promoting mutant p53-mediated suppression of
+
+

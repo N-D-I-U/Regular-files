@@ -1,0 +1,4366 @@
+Accepted Manuscript
+The miRNome of Alzheimer’s disease: consistent downregulation of the miR-132/212
+cluster
+Sabrina Pichler, M.Sc., Wei Gu, Ph.D, Daniela Hartl, Ph.D, Gilles Gasparoni, Ph.D,
+Petra Leidinger, Ph.D, Andreas Keller, Prof, Chair of Clinical Bioinformatics, Eckart
+Meese, Prof, Manuel Mayhaus, Ph.D, Harald Hampel, M.D, Ph.D, MSc., Prof,
+Matthias Riemenschneider, M.D., Ph.D., Prof
+PII:
+
+S0197-4580(16)30233-0
+
+DOI:
+
+10.1016/j.neurobiolaging.2016.09.019
+
+Reference:
+
+NBA 9732
+
+To appear in:
+
+Neurobiology of Aging
+
+Received Date: 31 January 2016
+Revised Date:
+
+7 September 2016
+
+Accepted Date: 24 September 2016
+
+Please cite this article as: Pichler, S., Gu, W., Hartl, D., Gasparoni, G., Leidinger, P., Keller, A.,
+Meese, E., Mayhaus, M., Hampel, H., Riemenschneider, M., The miRNome of Alzheimer’s disease:
+consistent downregulation of the miR-132/212 cluster, Neurobiology of Aging (2016), doi: 10.1016/
+j.neurobiolaging.2016.09.019.
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+The miRNome of Alzheimer’s disease:
+consistent downregulation of the miR-132/212 cluster
+
+RI
+PT
+
+Sabrina Pichler (M.Sc.)a, Wei Gu (Ph.D)a,d, Daniela Hartl (Ph.D)a, Gilles Gasparoni (Ph.D)a,
+Petra Leidinger (Ph.D)b, Andreas Keller (Prof)c, Eckart Meese (Prof)b, Manuel Mayhaus
+(Ph.D)a, Harald Hampel (M.D, Ph.D, MSc., Prof)f, g and Matthias Riemenschneider (M.D., Ph.D.,
+Prof)a,e
+a
+
+M
+AN
+U
+
+SC
+
+Neurobiological Laboratory, Department of Psychiatry and Psychotherapy, Saarland University,
+Kirrberger Str. 1, 66421 Homburg, Germany
+b
+Department of Human Genetics, Saarland University, Kirrberger Str. 1, 66421 Homburg, Germany
+c
+Chair of Clinical Bioinformatics, Saarland University, Campus 66123 Saarbrücken, Germany
+d
+Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg, Campus Belval, House of
+Biomedicine, 7, avenue des Hauts-Fourneaux, 4362 Esch-sur-Alzette, Luxembourg
+e
+Department of Psychiatry and Psychotherapy, Saarland University Hospital, Kirrberger Str. 1, 66421
+Homburg, Germany
+f
+AXA Research Fund & UPMC Chair
+g
+Sorbonne Universités, Université Pierre et Marie Curie, Paris 06, Institut de la Mémoire et de la Maladie
+d’Alzheimer (IM2A) & Institut du Cerveau et de la Moelle épinière (ICM), Département de Neurologie, Hôpital
+de la Pitié-Salpétrière, Paris, France
+
+running title: Downregulation of miR-132/212 in Alzheimer’s disease
+keywords:
+
+Alzheimer’s disease; human cortical brain tissue; microRNA; mRNA; hsa-miR-132;
+hsa-miR-212
+
+Corresponding author
+
+EP
+
+66421 Homburg, Germany
+
+TE
+D
+
+Sabrina Pichler
+Neurobiological Laboratory
+Department of Psychiatry and Psychotherapy
+Saarland University
+Kirrberger Str. 1
+
+Phone: +49 (0)6841 1624111
+Fax:
++49 (0)6841 1624270
+
+AC
+C
+
+E-Mail: sabrina.pichler@uks.eu
+
+1
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+ABSTRACT
+
+MicroRNAs (miRNAs) are small non-coding RNA molecules, with essential functions in RNA silencing
+and post-transcriptional regulation of gene expression. MiRNAs appear to regulate the development
+and function of the nervous system. Alterations of miRNA expression have been associated with
+Alzheimer’s disease (AD). To characterize the AD miRNA signature we examined genome wide
+
+RI
+PT
+
+miRNA and mRNA expression patterns in the temporal cortex of AD and control samples. We
+validated our miRNA results by semi-quantitative real-time PCR in independent prefrontal cortex.
+Further, we separated grey and white matter brain sections to identify the cellular origin of the altered
+
+SC
+
+miRNA expression. We observed genome wide downregulation of hsa-miR-132-3p and hsa-miR-2123p in AD with a stronger decrease in grey matter AD samples. We further identified ten differently
+expressed transcripts achieving genome wide levels of significance. Significantly deregulated miRNAs
+
+M
+AN
+U
+
+and mRNAs were correlated and examined for potential binding sites (in silico). This miRNome-wide
+study in AD provides supportive evidence and corroborates an important contribution of miR-132/212
+
+AC
+C
+
+EP
+
+TE
+D
+
+and corresponding target mRNAs to the pathogenesis of AD.
+
+2
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+1. INTRODUCTION
+
+Late-onset sporadic Alzheimer’s disease (AD), a genetically complex multi-factorial neurodegenerative
+disease, is the most common form of dementia affecting millions of people worldwide. Although recent
+genome wide association studies and meta-analysis identified a considerable number of susceptibility
+gene variants for sporadic late-onset AD, there is still insufficient knowledge concerning the nature of
+
+RI
+PT
+
+genetic and epigenetic mechanisms that trigger the mechanisms ultimately leading to cell death and
+neurodegeneration. With the advance of new technologies, however, recent research turned towards
+the exploration of epigenetic mechanisms such as histone modification and DNA-methylation/-
+
+SC
+
+hydroxymethylation as well as non-coding RNA associated gene silencing (Fischer, 2014).
+
+MicroRNAs (miRNA, ~18-25 nucleotides), the largest family of small non-coding RNAs, enable a
+tightly balanced modulation of gene-expression at the post-transcriptional level. This regulation largely
+
+M
+AN
+U
+
+depends on the grade of sequence complementarity between miRNAs and corresponding mRNA
+targets. In principle, one particular miRNA regulates multiple mRNAs and one specific mRNA is
+regulated by several miRNAs (BARTEL, 2004). Thus, dysregulation of one miRNA can cause
+alterations of several different cellular and developmental processes and contribute to the
+development of a variety of diseases. Interestingly, some miRNAs have also been described in AD
+
+TE
+D
+
+(Lau et al., 2014; Satoh, 2012). For example, miR-107 as well as miR-29b target beta-site APP
+cleaving enzyme 1 (BACE1), an essential protease involved in the amyloidogenic processing of APP
+as observed in brains of AD patients (Hébert et al., 2008; Nelson and Wang, 2010) and miR-16 was
+
+EP
+
+shown to inhibit APP expression in mice (Liu et al., 2012). In addition, miR-132 was reported to play a
+key role in tau-metabolism, as it regulates exon splicing of tau (Hébert et al., 2012), co-localizes with
+
+AC
+C
+
+hyper-phosphorylated tau and negatively correlates with NFT bearing neurons from cortical tissue
+(Lau et al., 2013).
+
+In this study, we analyzed expression patterns of more than 1 200 miRNAs in the temporal cortex (TC)
+of 64 samples, including 39 AD and 25 control brains. Two miRNAs, to hsa-miR-132-3p
+(MIMAT0000426) and hsa-miR-212-3p (MIMAT0000269) showed a genome wide significant
+downregulation in AD as compared to control brain. Downregulation was verified in additional brain
+regions and an independent sample. To delineate the primary source of altered miRNA expression
+signals we further analyzed grey and white matter brain material separately and assessed
+associations with disease progression. We also examined genome wide mRNA expression to identify
+likely target genes of miR-132/212.
+
+3
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+2. M ATERIALS AND METHODS
+2.1.
+
+Samples
+
+2.1.1.
+
+Human brain samples and ethics statement
+
+The initial miRNA screen was carried out in temporal cortex of 64 fresh frozen post-mortem human
+brain samples provided by the Brain Bank Munich, Germany (MUC cohort). Temporal (TC) and
+
+RI
+PT
+
+prefrontal cortex (PFC) of eight age and gender matched AD and control pairs selected from MUC
+cohort were used for validation experiment (MUC validation set). Additionally, we obtained fresh
+frozen post-mortem PFC from a second sample set containing 225 AD samples and 87 cognitively
+
+SC
+
+healthy controls provided by The Netherland Brain Bank (NBB validation set) for independent
+validation. From the latter cohort, eight age-matched female AD and control pairs were selected for
+grey and white matter separation (NBB grey/white matter set). Complete sample characteristics are
+
+M
+AN
+U
+
+summarized in Table 1 and Table S1. AD patients have been clinically diagnosed according to the
+NINCDS-ADRDA criteria (McKhann et al., 1984). Human brain tissues provided by Brain Bank Munich
+(Center for Neuropathology and Prion Research LMU, Munich; coordinating the European brain tissue
+bank (BNE) and the German national brain tissue bank (BrainNet)) or by The Netherland Brain Bank
+(Netherlands Institute for Neuroscience, Amsterdam) have been collected from donors for or from
+
+TE
+D
+
+whom a written informed consent for a brain autopsy and the use of the material and clinical
+information for research purposes had been obtained.
+
+Experimental procedures
+
+2.2.1.
+
+Total RNA extraction
+
+EP
+
+2.2.
+
+AC
+C
+
+Total RNA (>18nt) was extracted from human brain tissue using miRNeasy Mini Kit (Qiagen)
+according to manufacturer’s protocol including on-column DNA digestion with RNase free DNase Set
+(Qiagen). In brief, we homogenized 50-100mg tissue in 700µl QIAzol (Qiagen) and eluted total RNA
+within 30µl RNase-free water. Observed RNA integrity numbers for the samples were in the expected
+range according to literature (Lukiw et al., 2012).
+
+2.2.2.
+
+Genome wide miRNA expression profiling
+
+Total RNA (500ng) from TC of MUC cohort was hybridized to microfluid biochip Geniom Biochip Homo
+sapiens h_v16 plus, (febit biomed GmbH, Heidelberg, Germany) according to manufacturer’s protocol.
+The microarray covered more than 1 200 mature microRNA sequences as annotated in Sanger
+
+4
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+
+miRBase 16 (www.mirbase.org) (Griffiths-Jones et al., 2006) and several additional proprietary human
+miRNA sequences that had been discovered by deep sequencing. Signal intensities were measured
+using Geniom RT Analyzer (febit biomed GmbH, Heidelberg, Germany) employing microfluid based
+enzymatic primer extension assay technique (MPEA) as described elsewhere (Vorwerk et al., 2008).
+After background correction signal intensity values were calculated for each of the miRNAs over their
+
+RI
+PT
+
+intra-array replicates. Quantile normalization was applied to correct for inter-array variation. Median
+signal intensity was calculated for each of the miRNAs over grouped samples (AD vs. control).
+miRNAs with signal intensity <50 in both groups were considered as not expressed and were excluded
+
+SC
+
+from further statistical analysis. Student’s T-test was executed on log2 transformed median signal
+intensities to identify differently expressed miRNAs of AD versus control samples. To correct for
+-05
+
+multiple testing, a threshold of 8.16×10
+
+was set for significant p-values (Bonferroni correction for 613
+
+2
+
+M
+AN
+U
+
+miRNAs in the analysis). For three biological and technical replicates total RNA was extracted two
+times from the same tissue and R was calculated using least squared model. All statistical analyses
+and graphical presentations were accomplished using R (R Development Core Team, 2011).
+
+2.2.3.
+
+Semi-quantitative real-time PCR (sqPCR)
+
+TE
+D
+
+Reverse Transcription (RT-PCR) was performed with TaqMan®MicroRNA Reverse Transcription Kit
+(Applied Biosystems) and specific RT-Primers for TaqMan assays (Applied Biosystems) according to
+manufacturer’s protocol using 10ng total RNA (>18nt) per cDNA reaction. Semi-quantitative real-time
+®
+
+EP
+
+PCR was carried out using FAM labeled TaqMan Assays (Assay IDs: mature hsa-miR132 - 000457,
+®
+
+mature hsa-miR-212 - 000515 and RNU48 - 001006) and TaqMan 2x Universal PCR Mastermix No
+
+AC
+C
+
+AmpErase UNG (Applied Biosystems) as described in manufacturer’s protocol using maximum
+amount of cDNA (1.33µl) in 20µl reaction volume. Reactions were measured in technical duplicates on
+the 7500 Fast System (Applied Biosystems) using SDS software v1.3.1 (Applied Biosystems). Cycle
+thresholds for duplicates were averaged, normalized against RNU48 average Ct-values and p-values
+were calculated using student’s T-test. RNU48 was experimentally determined as the most stable
+normalizer among three tested candidate genes. Fold changes were calculated by the use of “deltadelta Ct method” (Livak and Schmittgen, 2001).
+
+5
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+2.2.4.
+
+Genome wide mRNA expression profiling
+®
+
+Total RNA (500ng) from TC of MUC cohort was amplified and labelled with biotin using Ambion
+®
+
+Illumina TotalPrep™ RNA Amplification Kit (Ambion) according to manufacturer’s protocol. cRNA was
+eluted in 50µl nuclease-free water and precipitated using ammonium acetate (NH4OAc) when
+®
+
+concentration was <150ng/µl. Direct hybridization of 750ng biotin labelled cRNA to Illumina Sentrix
+
+RI
+PT
+
+BeadChips HumanHT-12 v4 (Illumina) was conducted according to manufacturer’s protocol. Wholegenome gene expression analysis incorporated 47 231 markers per sample including coding as well
+as non-coding transcripts based on Human RefSeq 38 (NCBI RefSeq database) and supplementary
+
+SC
+
+UniGene content. Processed BeadChips were scanned with Illumina’s HiScan. First quality check,
+background subtraction and quantile normalization were executed with GenomeBead Studio Module
+for gene expression. Markers with a detection p-value≥0.05 were considered as no-call. Call rates for
+
+M
+AN
+U
+
+each marker were calculated separately in both groups (AD vs. control). Markers with a call rate <90%
+in both groups were considered as non-informative and were excluded from further statistical analysis.
+Signal intensities were log2 transformed and student’s T-test was carried out to identify differentially
+-06
+
+expressed markers. To correct for multiple testing, a threshold of 4.4×10
+
+was set for significant p-
+
+values (Bonferroni correction for 11 264 Illumina markers corresponding to 7 421 genes in the
+
+TE
+D
+
+analysis). All statistical analyses and graphical presentations were accomplished using R (R
+Development Core Team, 2011).
+
+Correlation and binding site analyses of mRNA and miRNA
+
+EP
+
+2.2.5.
+
+To test the correlation of differentially expressed mRNAs with miR-132/212 expression, signal
+
+AC
+C
+
+intensities of mRNA and miRNA were both log2 transformed before linear regression analysis. To
+-03
+
+correct for multiple testing, p-value threshold was set to 5x10
+
+(Bonferroni correction of ten markers
+
+in the analysis). All statistical analyses were performed using R (R Development Core Team, 2011).
+To identify potential miRNA targets or miRNA binding sites we used miRWalk (Dweep et al., 2011)
+(www.umm.uni-heidelberg.de/apps/zmf/mirwalk/index.html) online target prediction tool. RNA-RNA
+interaction analysis of mature miRNA sequences to sequences of genome wide significant mRNA
+transcripts (Mat S1), were performed using online alignment tool RNAhybrid (Krüger and
+Rehmsmeier,
+
+2006;
+
+Rehmsmeier
+
+et
+
+al.,
+
+bielefeld.de/rnahybrid/submission.html).
+
+6
+
+2004)
+
+(http://bibiserv.techfak.uni-
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+3. RESULTS
+3.1.
+
+Downregulation of miR-132/212 cluster in temporal cortex of AD patients
+
+We explored genome wide miRNA expression profiles in the temporal cortex of 39 AD patients and 25
+controls obtained from the Brain Bank Munich (Table 1). By hybridizing total RNA to a Febit Geniom
+Biochip utilizing MPEA-technique (Vorwerk et al., 2008), signal intensities of 1 221 mature miRNAs
+
+RI
+PT
+
+annotated in miRBase release 16 (www.mirbase.org) were examined (Figure S1). Biological and
+technical replicates were included as internal quality controls and were found to be highly correlated to
+2
+
+each other (R >0.89). After filtering for non-expressed and non-informative miRNAs, 613 miRNAs
+
+SC
+
+remained for further statistical analysis. Age and gender were tested as covariates in logistic
+regression models but no significant effects were observed (data not shown). We further applied
+student’s T-test on log2 transformed signal intensities resulting in 102 miRNAs that exceeded
+
+M
+AN
+U
+
+unadjusted p-values<0.05 (Table 2). From these, 41 miRNAs showed increased and 61 showed
+decreased expression levels in AD samples. When comparing our results (N=102 miRNAs) with
+published miRNAs (N=323 miRNAs) for which dysregulation in AD has been described (Lau et al.,
+2014; Satoh, 2012), we observed an overlap for 27 miRNAs with 14 showing deregulation in the same
+direction as previously described (Table 2).
+
+TE
+D
+
+Two miRNAs, hsa-miR-132-3p (MIMAT0000426) and hsa-miR-212-3p (MIMAT0000269), showed
+-07
+
+-06
+
+genome wide significance (phsa-miR-132-3p=5.02x10 ; phsa-miR-212-3p=2.38x10 ) and passed Bonferroni
+-05
+
+correction (p-values<8.16x10 ). In general, hsa-miR-132-3p shows higher expression levels than
+
+EP
+
+hsa-miR-212-3p. Both have recently been related to AD by several groups (Table 2) (Cogswell et al.,
+2008; Lau et al., 2013; Wang et al., 2011). We observed a rather homogeneous pattern of
+
+AC
+C
+
+downregulation of almost 60% in AD as compared to controls for both miRNAs (foldhsa-miR-132-3p=0.407;
+foldhsa-miR-212-3p=0.409; Figure 1 A-B). Further, we explored a potential association of miRNA
+expression levels with Braak stages (Figure 1 C-D). Using linear regression analysis, we observed a
+-08
+
+significant decline of expression with advancing Braak stage (phsa-miR-132-3p=3.86x10 ; phsa-miR-2123p=1.13x10
+
+3.2.
+
+-05
+
+).
+
+Verification of hsa-miR-132-3p and hsa-miR-212-3p expression levels
+
+To validate our results, we applied semi-quantitative real-time PCR (sqPCR) using different sample
+sets (Table 1, Table S1). Expression patterns were (i) re-analyzed in eight age and gender matched
+sample pairs from TC (MUC validation set), (ii) investigated in a second brain region (PFC) of the
+
+7
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+
+same samples (MUC validation set), and (iii) validated in PFC of an independent cohort (225 AD, 87
+controls) obtained from Netherland Brain Bank (NBB validation set).
+For all sample sets we observed higher dCt-values indicating a consistent downregulation of both
+-03
+
+mature miRNAs in AD as compared to controls (MUC validation set TC: phsa-miR-132-3p=2.68x10 ;
+-02
+
+-02
+
+-02
+
+phsa-miR-212-3p=1.81x10 ; PFC: phsa-miR-132-3p=4.80x10 ; phsa-miR-212-3p=1.72x10 ; NBB validation set:
+-18
+
+-18
+
+RI
+PT
+
+phsa-miR-132-3p=5.43x10 ; phsa-miR-212-3p = 3.53x10 ; Figure 2 A-F). The expression of both miRNAs was
+decreased in AD patients as compared to controls by approximately 45 - 65 % (hsa-miR-132-3p:
+foldTC_MUC=0.347,
+
+foldPFC_MUC=0.548,
+
+foldPFC_NBB=0.413;
+
+hsa-miR-212-3p:
+
+foldTC_MUC=0.476,
+
+SC
+
+foldPFC_MUC=0.513, foldPFC_NBB=0.391) with hsa-miR-132-3p showing higher expression levels than hsamiR-212-3p. Finally, combining all data sets showed a very robust downregulation of both miRNAs by
+-20
+
+-20
+
+3.3.
+
+M
+AN
+U
+
+almost 65% (hsa-miR-132-3p: p=4.86x10 , fold=0.371; hsa-miR-212-3p: p=2.38x10 , fold=0.356).
+
+hsa-miR-132-3p and hsa-miR-212-3p are strongly downregulated in grey matter
+
+To further delineate the origin of decreased expression, we dissected grey and white matter sections
+from PFC of eight age matched pairs of female NBB samples and repeated miRNA expression
+analysis using sqPCR. hsa-miR-132-3p and hsa-miR-212-3p were significantly downregulated in grey
+
+TE
+D
+
+as well as in white matter preparations of AD samples compared to controls. However, the differences
+-02
+
+identified in white matter samples were much weaker (hsa-miR-132-3p: p=2.40x10 , fold=0.633; hsa-02
+
+miR-212-3p: p=4.31x10 , fold=0.648) than expression alterations observed in grey matter
+(hsa-miR-132-3p:
+
+-04
+
+p=9.41x10 ,
+
+fold=0.429;
+
+hsa-miR-212-3p:
+
+-03
+
+p=2.67x10 ,
+
+EP
+
+preparations
+
+fold=0.395) (Figure 2 G-J). Our results indicate a stronger downregulation of miR-132/212 in grey
+
+3.4.
+
+AC
+C
+
+matter sections, which compared to white matter contain a higher proportion of neurons and dendrites.
+
+Expression levels of neuronal-enriched miRNAs and miR-132/212 in Braak stages 0-VI
+
+Since the observed downregulation in AD might be a result of advancing neuronal degradation during
+disease progression, we compared the expression levels of miR-132/212 together with other
+previously identified neuronal-enriched miRNAs (Lau et al., 2013) using our microarray data set for TC
+of the MUC cohort. Across all Braak stages 0-VI we observed a considerable stronger downregulation
+for hsa-miR-132 and hsa-miR-212 compared to the other neuronal-enriched miRNAs starting already
+at Braak stage II (Figure S2).
+
+8
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+3.5.
+
+Gene Expression alterations in temporal cortex of AD and control samples
+
+We next performed mRNA expression analysis in 64 TC samples of the MUC cohort utilizing Illumina
+sentrix bead arrays. After normalization and filtering we applied student’s T-test on the log2 signal
+intensities of 11 264 remaining markers. In total, 3 544 markers corresponding to 3 270 genes were
+found to be differentially expressed between AD and control samples (p-values<0.05) (Table S2).
+
+RI
+PT
+
+Interestingly, we identified 9 down- and 10 upregulated mRNAs in our dataset from 47 genes that
+have previously been reported to be regulated by hsa-miR-132-3p and/or hsa-miR-212-3p (Table S2)
+(Lau et al., 2014; Wanet et al., 2012).
+
+Ten markers corresponding to ten individual genes remained at a genome wide significant level
+
+SC
+
+-06
+
+(p<4.4x10 ) after applying a Bonferroni correction for multiple testing (Table 3). The strongest
+-09
+
+alterations were observed for three small nuclear RNAs, RNU1G2 (p=1.51x10 ), RNU1-3
+-09
+
+-08
+
+-08
+
+M
+AN
+U
+
+(p=4.37x10 ), and RNU1-5 (p=1.55x10 ) followed by adipocyte enhancer binding protein 1 (AEBP1;
+p=9.74x10 ), nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (NFKB1;
+-07
+
+-07
+
+p=1.44x10 ), proteinkinase 2 (PKN2; p=6.34x10 ), HMG box transcription factor 1 (HBP1;
+-07
+
+-07
+
+p=7.51x10 ), CREB3 regulatory factor (C5ORF41; p=8.90x10 ) and glial fibrillary acidic protein
+-06
+
+(GFAP; p=3.70x10 ). These genes were upregulated in AD whereas tetraspanin 7 (TSPAN7;
+-06
+
+3.6.
+
+TE
+D
+
+p=3.32x10 ) was significantly downregulated in AD (Figure S3).
+
+Correlations between miRNA and mRNA expression
+
+EP
+
+Since miRNAs are known to mediate gene regulatory effects we next examined correlations between
+miR-132/212 and the ten differentially expressed transcripts identified in the TC samples from MUC
+
+AC
+C
+
+cohort. As demonstrated in Table 3, strong correlations between expression levels of these ten
+mRNAs and the two miRNAs hsa-miR-132-3p and hsa-miR-212-3p were observed by linear
+regression (Figure S4). Correlations for GFAP, AEBP1 and TSPAN7 even exceeded genome wide
+significance for both miRNAs. Given these strong correlations between miRNA and mRNA expression
+levels we screened these genes for potential miR-132/212 binding sites using online prediction tools.
+Binding sites for both miRNAs were predicted in PKN2, C5ORF41 and GFAP, and a binding site for
+hsa-miR-132-3p was predicted for NFKB1 according to miRWalk (Dweep et al., 2011), a
+bioinformatics tool combining several prediction tools by comparative analysis. Additionally, we
+analyzed potential RNA-RNA interactions of the 3’UTR of the transcript corresponding to the
+appropriate Illumina Marker for each of these four mRNAs to mature miRNA sequences using
+
+9
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+
+RNAHybrid (Krüger and Rehmsmeier, 2006; Rehmsmeier et al., 2004), an online available alignment
+tool. The target/miRNA concatenation with the best minimum free energy (mfe) is presented in
+supplementary Figure S5. Together, we identified potential binding sites of hsa-miR-132-3p and/or
+hsa-miR-212-3p on four of ten dysregulated mRNAs identified in TC of in AD patients by in silico
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+analysis.
+
+10
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+4. DISCUSSION
+
+Using a microarray-based miRNome-wide screening we observed 102 deregulated miRNAs in
+temporal cortical brain regions of AD patients compared to controls including two miRNAs, hsa-miR132-3p and hsa-miR-212-3p showing alterations exceeding the level of genome wide significance.
+Remarkably, deregulations of a considerable number (~25%) of these 102 miRNAs have already been
+
+RI
+PT
+
+described in AD (Lau et al., 2014; Satoh, 2012). However, these previous studies show rather
+inconsistencies regarding types and expression patterns of the miRNAs identified. Possible reasons
+may include considerable differences regarding sample sizes, brain regions and technical
+
+SC
+
+methodologies, which have been applied. A recent analysis by Kolbert et al. comparing different
+platforms and technologies demonstrated considerable differences in miRNA transcript detection
+ranging from 35% up to 70% as well as differences in expression intensities across the tested
+
+M
+AN
+U
+
+methodologies (Kolbert et al., 2013). As such, these methodological issues are most likely to explain
+the discrepancies in miRNA expression patterns observed in AD so far, at least for miRNAs showing
+weak to intermediate alterations of expression patterns.
+
+We observed genome wide significant downregulation of the miR-132/212 cluster in AD, which was
+confirmed by sqPCR in temporal and prefrontal cortex of the same individuals, and in PFC of an
+
+TE
+D
+
+independent, larger sample set from the Netherland Brain Bank (NBB). It has to be mentioned that the
+NBB samples are partially overlapping with those used in a previous study by Lau et al 2013, who also
+observed downregulation for hsa-miR-132-3p. However, in contrast to our study Lau et al used the
+
+prefrontal cortex.
+
+EP
+
+NanoString technology and analyzed dissected grey matter samples from the hippocampus and
+
+AC
+C
+
+In addition, downregulation of miR-132 and miR-212 has been described for several brain regions in
+AD, as well as in cellular and mouse models for AD (Cogswell et al., 2008; Hébert et al., 2013; Lau et
+al., 2013; Wang et al., 2011; Wong et al., 2013). The miR-132/212 cluster is processed from a joint
+primary transcript encoded by an intergenic region on chromosome 17. Our results indicate higher
+expression levels and stronger downregulation for hsa-miR-132-3p compared to hsa-miR-212-3p,
+which is in line with literature and might be explained by post-transcriptional regulation (Magill et al.,
+2010; Wanet et al., 2012).
+We observed a consistent downregulation of the miR-132/212 cluster already at early stages of AD
+(Braak stage III-IV) with an advancing decline during disease progression (Braak stage>IV) in
+temporal cortex (MUC cohort). Comparing these results with expression levels of other described
+
+11
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+
+neuronal-enriched miRNAs revealed that downregulation of miR-132/212 appears already at very
+early stages of AD and more pronounced compared to others and thus seems to be independent from
+advancing loss of neurons. These observations are in line with previous findings in PFC and thereby
+corroborates its crucial implication in disease aetiology rather than being merely a secondary effect
+due to neuronal loss (Lau et al., 2013). To further explore the cellular origin of the observed
+
+RI
+PT
+
+downregulation, we separated white and grey matter sections and detected a considerable stronger
+downregulation of both miRNAs in grey matter of AD samples (female), which supports the primarily
+neuronal origin of the observed miR-132/212 dysregulation. In contrast to our results, Wang et al
+
+SC
+
+(Wang et al., 2011) reported a downregulation of miR-212 in white matter rather than grey matter
+regions. This discrepancy might derive from the rather small sample size (N=10) of their study in
+combination with the applied gender stratification. Corresponding to our study, Lau et al (Lau et al.,
+
+M
+AN
+U
+
+2013) observed a clear decrease of miR-132 expression especially in tangle bearing cortical neurons
+of AD patients. In addition, further studies showed that the loss of miR-132 affects the processing of
+MAPT and leads to aberrant splicing of MAPT exon 10 in frontotemporal dementia and progressive
+supranuclear palsy mediated by PTBP2 (Hébert et al., 2012; Lau et al., 2014; Smith et al., 2011).
+Furthermore, miR-132 has been linked to several pathways playing a major role in the pathogenesis of
+
+TE
+D
+
+AD, such as inflammatory processes (Soreq and Wolf, 2011), synaptic function, -structure and plasticity (Bicker et al., 2014; Edbauer et al., 2010; Remenyi et al., 2013), and cholinergic signaling by
+targeting AChE (Lu et al., 2013; Shaked et al., 2009; Shaltiel et al., 2013). Both miRNAs (miR-132 and
+
+EP
+
+miR-212) are also involved in neuronal migration, axonal growth and neuronal morphology (Hancock
+et al., 2014; Magill et al., 2010) and decreased expression of miR-132 is associated with the induction
+
+AC
+C
+
+of apoptosis via de-repression of FOXO3a (Wong et al., 2013).
+So far, only few validated target genes of miR-132 and miR-212 have been described (Lau et al.,
+2014; Wanet et al., 2012). Interestingly, several of these known targets, such as SIRT1, FOXO1, and
+p250GAP also showed a deregulation in our mRNA expression analysis in AD (Table S2). So far, just
+one group performed simultaneous miRNA and mRNA expression analyses using a limited number of
+eight AD and control brains, each (Nunez-Iglesias et al., 2010). In this study, we present joint genome
+wide miRNA and mRNA expression profiles in temporal cortex of a much larger sample set (64
+samples). Interestingly, among the strongest deregulated mRNAs identified in this study, were a
+considerable number of genes that have previously been associated with AD. For example, we
+identified a strong upregulation of three small nuclear RNAs, RNU1-3, RNU1-5 and RNU1G2 that are
+
+12
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+
+part of the cellular spliceosome complex. These small nuclear RNAs have recently been described to
+form tangle-like structures, aggregate with NFTs and to severely affect splicing processes in AD (Bai
+et al., 2013; Hales et al., 2014). Moreover, GFAP and NFkB1, two well-known markers of inflammation
+in AD, were strongly upregulated in brains of AD patients (Ascolani et al., 2012; Huang et al., 2005;
+Ingelsson et al., 2004; Nagele et al., 2004).
+
+RI
+PT
+
+We also explored possible miR-132/212 binding sites at 3’UTRs of those mRNAs showing the
+strongest expression alterations and identified potential binding sites at four of ten genome wide
+significant deregulated mRNAs. The results from the miRWalk prediction tool were further supported
+
+SC
+
+by energetically most reasonable miRNA-RNA structures. The binding site prediction and strong
+associations with the glial derived inflammatory genes, GFAP and NFkB1 (Ingelsson et al., 2004; Lian
+et al., 2014) is somewhat surprising as our results indicate a primarily neuronal origin of the miR-
+
+M
+AN
+U
+
+132/212 decrease. However the fact that downregulation of miR-132/212 also occurred in white-matter
+fractions with a larger content of glial cells and the usage of whole-brain material for gene expression
+analyses may explain these findings.
+
+Concerning the other target genes PKN2 and C5ORF41, both are expressed in neurons. Functionally
+PKN2, a protein kinase, was found to promote neurite growth in hippocampal neurons (Buchser et al.,
+
+TE
+D
+
+2010) and C5ORF41 to degrade CREB3, which is implicated in numerous functions such as unfolded
+protein response during ER stress, viral infections and immunity (Audas et al., 2008; Yang et al.,
+2013). Interestingly, transcription of the miR-132/212 locus is regulated by CREB another member of
+
+EP
+
+the CREB family (Wanet et al., 2012). Likewise to AD loss of CREB as well as miR-132/212 cause a
+decrease of dendritic growth, branching of neurons and disturbances of memory formation
+
+AC
+C
+
+(Hernandez-Rapp et al., 2015; Magill et al., 2010).
+Since many of the target genes mentioned above are associated with cellular or clinical alterations
+typically occurring in AD, it may be hypothesized that following-up these in silico results may provide
+us with a better understanding of biological mechanisms leading to AD.
+In conclusion, our study adds substantial evidence to an early and major involvement of hsa-miR-1323p and hsa-miR-212-3p in the pathogenesis of AD and further supports the primarily neuronal origin of
+these miRNAs. In addition, we provide for the first time a large data set of genome wide miRNA and
+mRNA expression profiles from AD and control brains highlighting some new potential miR-132/212
+target genes. Further functional work, however is mandatory to fully understand the cellular and
+
+13
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+
+biological consequences of the downregulated miRNAs and to characterize and validate potential
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+target genes contributing to AD.
+
+ACKNOWLEDGEMENTS
+
+The authors are grateful to all individuals and their families who participated in this study for their
+contribution. We would like to thank the Brain Bank Munich (Center for Neuropathology and Prion
+Research LMU, Munich; coordinating the European brain tissue bank (BNE) and the German national
+
+TE
+D
+
+brain tissue bank (BrainNet)) and Netherland Brain Bank (Netherlands Institute for Neuroscience,
+Amsterdam) for providing the brain tissues. This work was supported by the German Federal Ministry
+of Education and Research (BMBF) National Genome Research Network (NGFN) grant No.
+
+EP
+
+01GS08125 to MR and through the Helmholtz Alliance for Mental Health in an Aging Society (HELMA)
+
+Grant No. Ha-15 to MR. HH is supported by the AXA Research Fund, the “Fondation Université Pierre
+
+AC
+C
+
+et Marie Curie” and the “Fondation pour la Recherche sur Alzheimer”, Paris, France. The research
+leading to these results has received funding from the program “Investissements d’avenir” ANR-10IAIHU-06.
+
+DISCLOSURE STATEMENT
+The authors declare that there are no conflicts of interest and no competing financial interests.
+
+SUPPLEMENTARY INFORMATION (SI)
+Supplementary information is available at Neurobiology of Aging’s website.
+
+14
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+LITERATURE
+
+Ascolani, A., Balestrieri, E., Minutolo, A., Mosti, S., Spalletta, G., Bramanti, P., Mastino, A., Caltagirone, C.,
+Macchi, B., 2012. Dysregulated NF-κB pathway in peripheral mononuclear cells of Alzheimer’s disease
+patients. Curr. Alzheimer Res. 9, 128–37. doi:10.2174/156720512799015091
+Audas, T.E., Li, Y., Liang, G., Lu, R., 2008. A novel protein, Luman/CREB3 recruitment factor, inhibits Luman
+activation of the unfolded protein response. Mol. Cell. Biol. 28, 3952–66. doi:10.1128/MCB.01439-07
+
+RI
+PT
+
+Bai, B., Hales, C.M., Chen, P., Gozal, Y., Dammer, E.B., Fritz, J.J., 2013. U1 small nuclear ribonucleoprotein
+complex and RNA splicing alterations in Alzheimer ’ s disease. doi:10.1073/pnas.1310249110//DCSupplemental.www.pnas.org/cgi/doi/10.1073/pnas.1310249110
+BARTEL, D., 2004. MicroRNAsGenomics, Biogenesis, Mechanism, and Function. Cell 116, 281–297.
+doi:10.1016/S0092-8674(04)00045-5
+
+SC
+
+Bicker, S., Lackinger, M., Weiß, K., Schratt, G., 2014. MicroRNA-132, -134, and -138: a microRNA troika rules in
+neuronal dendrites. Cell. Mol. Life Sci. doi:10.1007/s00018-014-1671-7
+
+M
+AN
+U
+
+Buchser, W.J., Slepak, T.I., Gutierrez-Arenas, O., Bixby, J.L., Lemmon, V.P., 2010. Kinase/phosphatase
+overexpression reveals pathways regulating hippocampal neuron morphology. Mol. Syst. Biol. 6, 391.
+doi:10.1038/msb.2010.52
+Cogswell, J.P., Ward, J., Taylor, I.A., Waters, M., Shi, Y., Cannon, B., Kelnar, K., Kemppainen, J., Brown, D.,
+Chen, C., Prinjha, R.K., Richardson, J.C., Saunders, A.M., Roses, A.D., Richards, C.A., 2008. Identification
+of miRNA changes in Alzheimer’s disease brain and CSF yields putative biomarkers and insights into
+disease pathways. J. Alzheimers. Dis. 14, 27–41.
+
+TE
+D
+
+Dweep, H., Sticht, C., Pandey, P., Gretz, N., 2011. miRWalk--database: prediction of possible miRNA binding
+sites by “walking” the genes of three genomes. J. Biomed. Inform. 44, 839–47.
+doi:10.1016/j.jbi.2011.05.002
+Edbauer, D., Neilson, J.R., Foster, K. a, Wang, C.-F., Seeburg, D.P., Batterton, M.N., Tada, T., Dolan, B.M.,
+Sharp, P. a, Sheng, M., 2010. Regulation of synaptic structure and function by FMRP-associated
+microRNAs miR-125b and miR-132. Neuron 65, 373–84. doi:10.1016/j.neuron.2010.01.005
+Fischer, A., 2014. Epigenetic memory: the Lamarckian brain. EMBO J. doi:10.1002/embj.201387637
+
+EP
+
+Griffiths-Jones, S., Grocock, R.J., van Dongen, S., Bateman, A., Enright, A.J., 2006. miRBase: microRNA
+sequences, targets and gene nomenclature. Nucleic Acids Res. 34, D140–4. doi:10.1093/nar/gkj112
+
+AC
+C
+
+Hales, C.M., Dammer, E.B., Diner, I., Yi, H., Seyfried, N.T., Gearing, M., Glass, J.D., Montine, T.J., Levey, A.I.,
+Lah, J.J., 2014. Aggregates of small nuclear ribonucleic acids (snRNAs) in Alzheimer’s disease. Brain
+Pathol. doi:10.1111/bpa.12133
+Hancock, M.L., Preitner, N., Quan, J., Flanagan, J.G., 2014. MicroRNA-132 Is Enriched in Developing Axons,
+Locally Regulates Rasa1 mRNA, and Promotes Axon Extension. J. Neurosci. 34, 66–78.
+doi:10.1523/JNEUROSCI.3371-13.2014
+Hébert, S.S., Horré, K., Nicolaï, L., Papadopoulou, A.S., Mandemakers, W., Silahtaroglu, A.N., Kauppinen, S.,
+Delacourte, A., De Strooper, B., 2008. Loss of microRNA cluster miR-29a/b-1 in sporadic Alzheimer’s
+disease correlates with increased BACE1/beta-secretase expression. Proc. Natl. Acad. Sci. U. S. A. 105,
+6415–20. doi:10.1073/pnas.0710263105
+Hébert, S.S., Sergeant, N., Buée, L., 2012. MicroRNAs and the Regulation of Tau Metabolism. Int. J. Alzheimers.
+Dis. 2012, 406561. doi:10.1155/2012/406561
+Hébert, S.S., Wang, W.-X., Zhu, Q., Nelson, P.T., 2013. A study of small RNAs from cerebral neocortex of
+pathology-verified Alzheimer’s disease, dementia with lewy bodies, hippocampal sclerosis, frontotemporal
+lobar dementia, and non-demented human controls. J. Alzheimers. Dis. 35, 335–48. doi:10.3233/JAD122350
+
+15
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+
+Hernandez-Rapp, J., Smith, P.Y., Filali, M., Goupil, C., Planel, E., Magill, S.T., Goodman, R.H., Hébert, S.S.,
+2015. Memory formation and retention are affected in adult miR-132/212 knockout mice. Behav. Brain Res.
+287, 15–26. doi:10.1016/j.bbr.2015.03.032
+Huang, Y., Liu, F., Grundke-Iqbal, I., Iqbal, K., Gong, C.-X., 2005. NF-kappaB precursor, p105, and NF-kappaB
+inhibitor, IkappaBgamma, are both elevated in Alzheimer disease brain. Neurosci. Lett. 373, 115–8.
+doi:10.1016/j.neulet.2004.09.074
+
+RI
+PT
+
+Ingelsson, M., Fukumoto, H., Newell, K.L., Growdon, J.H., Hedley-Whyte, E.T., Frosch, M.P., Albert, M.S.,
+Hyman, B.T., Irizarry, M.C., 2004. Early A accumulation and progressive synaptic loss, gliosis, and tangle
+formation in AD brain. Neurology 62, 925–931. doi:10.1212/01.WNL.0000115115.98960.37
+Kolbert, C.P., Feddersen, R.M., Rakhshan, F., Grill, D.E., Simon, G., Middha, S., Jang, J.S., Simon, V., Schultz,
+D.A., Zschunke, M., Lingle, W., Carr, J.M., Thompson, E.A., Oberg, A.L., Eckloff, B.W., Wieben, E.D., Li, P.,
+Yang, P., Jen, J., 2013. Multi-Platform Analysis of MicroRNA Expression Measurements in RNA from Fresh
+Frozen and FFPE Tissues 8. doi:10.1371/journal.pone.0052517
+
+SC
+
+Krüger, J., Rehmsmeier, M., 2006. RNAhybrid: microRNA target prediction easy, fast and flexible. Nucleic Acids
+Res. 34, W451–4. doi:10.1093/nar/gkl243
+
+M
+AN
+U
+
+Lau, P., Bossers, K., Janky, R., Salta, E., Frigerio, C.S., Barbash, S., Rothman, R., Sierksma, A.S.R., Thathiah,
+A., Greenberg, D., Papadopoulou, A.S., Achsel, T., Ayoubi, T., Soreq, H., Verhaagen, J., Swaab, D.F.,
+Aerts, S., De Strooper, B., 2013. Alteration of the microRNA network during the progression of Alzheimer’s
+disease. EMBO Mol. Med. doi:10.1002/emmm.201201974
+Lau, P., Frigerio, C.S., De Strooper, B., 2014. Variance in the identification of microRNAs deregulated in
+Alzheimer’s disease and possible role of lincRNAs in the pathology: the need of larger datasets. Ageing
+Res. Rev. doi:10.1016/j.arr.2014.02.006
+
+TE
+D
+
+Lian, H., Yang, L., Cole, A., Sun, L., Chiang, A.C.-A., Fowler, S.W., Shim, D.J., Rodriguez-Rivera, J., Taglialatela,
+G., Jankowsky, J.L., Lu, H.-C., Zheng, H., 2014. NFκB-Activated Astroglial Release of Complement C3
+Compromises Neuronal Morphology and Function Associated with Alzheimer’s Disease. Neuron 85, 101–
+115. doi:10.1016/j.neuron.2014.11.018
+Liu, W., Liu, C., Zhu, J., Shu, P., Yin, B., Gong, Y., Qiang, B., Yuan, J., Peng, X., 2012. MicroRNA-16 targets
+amyloid precursor protein to potentially modulate Alzheimer’s-associated pathogenesis in SAMP8 mice.
+Neurobiol. Aging 33, 522–34. doi:10.1016/j.neurobiolaging.2010.04.034
+
+EP
+
+Livak, K.J., Schmittgen, T.D., 2001. Analysis of relative gene expression data using real-time quantitative PCR
+and the 2(-Delta Delta C(T)) Method. Methods 25, 402–8. doi:10.1006/meth.2001.1262
+Lu, L., Zhang, X., Zhang, B., Wu, J., Zhang, X., 2013. Synaptic acetylcholinesterase targeted by microRNA-212
+functions as a tumor suppressor in non-small cell lung cancer. Int. J. Biochem. Cell Biol. 45, 2530–2540.
+
+AC
+C
+
+Lukiw, W.J., Andreeva, T. V, Grigorenko, A.P., Rogaev, E.I., 2012. Studying micro RNA Function and Dysfunction
+in Alzheimer’s Disease. Front. Genet. 3, 327. doi:10.3389/fgene.2012.00327
+Magill, S.T., Cambronne, X.A., Luikart, B.W., Lioy, D.T., Leighton, B.H., Westbrook, G.L., Mandel, G., Goodman,
+R.H., 2010. microRNA-132 regulates dendritic growth and arborization of newborn neurons in the adult
+hippocampus. Proc. Natl. Acad. Sci. U. S. A. 107, 20382–7. doi:10.1073/pnas.1015691107
+McKhann, G., Drachman, D., Folstein, M., Katzman, R., Price, D., Stadlan, E.M., 1984. Clinical diagnosis of
+Alzheimer’s disease: report of the NINCDS-ADRDA Work Group under the auspices of Department of
+Health and Human Services Task Force on Alzheimer's Disease. Neurology 34, 939–44.
+Nagele, R.G., Wegiel, J., Venkataraman, V., Imaki, H., Wang, K.-C., Wegiel, J., 2004. Contribution of glial cells to
+the development of amyloid plaques in Alzheimer’s disease. Neurobiol. Aging 25, 663–74.
+doi:10.1016/j.neurobiolaging.2004.01.007
+Nelson, P.T., Wang, W.-X., 2010. MiR-107 is reduced in Alzheimer’s disease brain neocortex: validation study. J.
+Alzheimers. Dis. 21, 75–9. doi:10.3233/JAD-2010-091603
+
+16
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+
+Nunez-Iglesias, J., Liu, C.-C., Morgan, T.E., Finch, C.E., Zhou, X.J., 2010. Joint genome-wide profiling of miRNA
+and mRNA expression in Alzheimer’s disease cortex reveals altered miRNA regulation. PLoS One 5,
+e8898. doi:10.1371/journal.pone.0008898
+R Development Core Team, R., 2011. R: A Language and Environment for Statistical Computing. R Found. Stat.
+Comput., R Foundation for Statistical Computing. doi:10.1007/978-3-540-74686-7
+Rehmsmeier, M., Steffen, P., Hochsmann, M., Giegerich, R., 2004. Fast and effective prediction of
+microRNA/target duplexes. RNA 10, 1507–17. doi:10.1261/rna.5248604
+
+RI
+PT
+
+Remenyi, J., van den Bosch, M.W.M., Palygin, O., Mistry, R.B., McKenzie, C., Macdonald, A., Hutvagner, G.,
+Arthur, J.S.C., Frenguelli, B.G., Pankratov, Y., 2013. miR-132/212 Knockout Mice Reveal Roles for These
+miRNAs in Regulating Cortical Synaptic Transmission and Plasticity. PLoS One 8, e62509.
+doi:10.1371/journal.pone.0062509
+Satoh, J., 2012. Molecular network of microRNA targets in Alzheimer’s disease brains. Exp. Neurol. 235, 436–46.
+doi:10.1016/j.expneurol.2011.09.003
+
+SC
+
+Satoh, J., 2010. MicroRNAs and their therapeutic potential for human diseases: aberrant microRNA expression in
+Alzheimer’s disease brains. J. Pharmacol. Sci. 114, 269–75.
+
+M
+AN
+U
+
+Shaked, I., Meerson, A., Wolf, Y., Avni, R., Greenberg, D., Gilboa-Geffen, A., Soreq, H., 2009. MicroRNA-132
+potentiates cholinergic anti-inflammatory signaling by targeting acetylcholinesterase. Immunity 31, 965–73.
+doi:10.1016/j.immuni.2009.09.019
+Shaltiel, G., Hanan, M., Wolf, Y., Barbash, S., Kovalev, E., Shoham, S., Soreq, H., 2013. Hippocampal
+microRNA-132 mediates stress-inducible cognitive deficits through its acetylcholinesterase target. Brain
+Struct. Funct. 218, 59–72. doi:10.1007/s00429-011-0376-z
+
+TE
+D
+
+Smith, P.Y., Delay, C., Girard, J., Papon, M.-A., Planel, E., Sergeant, N., Buée, L., Hébert, S.S., 2011. MicroRNA132 loss is associated with tau exon 10 inclusion in progressive supranuclear palsy. Hum. Mol. Genet. 20,
+4016–24. doi:10.1093/hmg/ddr330
+Soreq, H., Wolf, Y., 2011. NeurimmiRs: microRNAs in the neuroimmune interface. Trends Mol. Med. 17, 548–55.
+doi:10.1016/j.molmed.2011.06.009
+Vorwerk, S., Ganter, K., Cheng, Y., Hoheisel, J., Stähler, P.F., Beier, M., 2008. Microfluidic-based enzymatic onchip labeling of miRNAs. N. Biotechnol. 25, 142–149. doi:10.1016/j.nbt.2008.08.005
+
+EP
+
+Wanet, A., Tacheny, A., Arnould, T., Renard, P., 2012. miR-212/132 expression and functions: within and beyond
+the neuronal compartment. Nucleic Acids Res. 40, 4742–53. doi:10.1093/nar/gks151
+
+AC
+C
+
+Wang, W.-X., Huang, Q., Hu, Y., Stromberg, A.J., Nelson, P.T., 2011. Patterns of microRNA expression in normal
+and early Alzheimer’s disease human temporal cortex: white matter versus gray matter. Acta Neuropathol.
+121, 193–205. doi:10.1007/s00401-010-0756-0
+Wong, H.-K.A., Veremeyko, T., Patel, N., Lemere, C.A., Walsh, D.M., Esau, C., Vanderburg, C., Krichevsky, A.M.,
+2013. De-repression of FOXO3a death axis by microRNA-132 and -212 causes neuronal apoptosis in
+Alzheimer’s disease. Hum. Mol. Genet. ddt164–. doi:10.1093/hmg/ddt164
+Yang, Y., Jin, Y., Martyn, A.C., Lin, P., Song, Y., Chen, F., Hu, L., Cui, C., Li, X., Li, Q., Lu, R., Wang, A., 2013.
+Expression pattern implicates a potential role for luman recruitment factor in the process of implantation in
+uteri and development of preimplantation embryos in mice. J. Reprod. Dev. 59, 245–51.
+
+17
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+FIGURES
+
+Figure 1: miRNA expression levels of significantly deregulated miRNAs in TC of MUC cohort based on microarray data
+Distribution of log2 transformed signal intensities of (A) hsa-miR-132-3p and (B) hsa-miR-212-3p in 64 analyzed human
+temporal cortices. Both miRNAs showed ~ 60 % downregulation in AD patients compared to healthy controls (p-Valuehsa-miR-132-3p
+= 5.02x10-07; p-Valuehsa-miR-212-3p = 2.38x10-06). Graphical illustration depicts significant associations between (C) hsa-miR-132-3p
+(p-value = 3.86x10-08, R2 = 0.40) as well as (D) hsa-miR-212-3p (p-value = 1.13x10-05, R2 = 0.28) expression levels and Braak
+
+SC
+
+RI
+PT
+
+stages in TC of 64 analyzed samples from MUC cohort; p-values and R2 were calculated by linear regression analysis using R.
+
+Figure 2: Distribution of miRNA expression data examined by semi-quantitative PCR
+
+dCt-values of indicated miRNAs measured in TC (A, B) and PFC (C, D) of age and gender matched MUC samples as well as in
+
+illustrates
+
+significant
+
+downregulation
+
+M
+AN
+U
+
+PFC of NBB samples (E, F) and in age and gender matched white (G, H) and grey matter (I, J) separated PFC of NBB samples.
+Graphic
+
+of
+
+both
+
+analyzed
+
+miRNAs
+
+(A,
+
+C,
+
+E,
+
+G,
+
+I:
+
+hsa-miR-132-3p,
+
+B, D, F, H, J: hsa-miR-212-3p) in AD as compared to control samples (A-F) and in grey matter of AD patients as compared to
+white matter AD samples (G-J). dCt-values were normalized against RNU48 and p-values were calculated either by paired
+
+AC
+C
+
+EP
+
+TE
+D
+
+(A-D) or unpaired (E-J) one-sided student’s T-test confirming results from miRNA expression profiling.
+
+18
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+TABLES
+Table 1: Sample characteristics
+General information on post-mortem human brain samples analyzed in the present study
+
+‡
+
+N=
+
+age
+(mean ± SD)
+[years]
+
+post-mortem
+delay
+(mean ± SD)
+[hours]
+
+Braak stage
+(mean ± SD)
+
+APOEε4
+carrier
+[%]
+
+AD
+
+39
+
+80.4 ± 8.2
+
+30.2 ± 16.6
+
+5±1
+
+64.1
+
+male
+
+15
+
+78.9 ± 7.4
+
+33.9 ± 17.9
+
+5±1
+
+66.7
+
+female
+
+24
+
+81.3 ± 8.7
+
+26.2 ± 14.7
+
+5±0
+
+60.0
+
+tissue
+
+genome wide miRNA
+(febit MPEA microarray
+h_v16plus, mirBase16)
+
+temporal cortex
+25
+
+65.3 ± 16.9
+
+23.4 ± 10.4
+
+1±1
+
+16.0
+
+male
+
+15
+
+59.4 ± 16.7
+
+24.9 ± 10.9
+
+2±1
+
+10.0
+
+female
+
+10
+
+74.2 ± 13.3
+
+22.5 ± 10.5
+
+1±1
+
+20.0
+
+AD
+
+8
+
+78.0 ± 8.3
+
+30.4 ± 15.5
+
+6±0
+
+37.5
+
+male
+
+3
+
+74.3 ± 12.5
+
+38.00 ± 17
+
+6±1
+
+33.3
+
+female
+
+5
+
+80.2 ± 5.2
+
+27.40 ± 15.7
+
+6±0
+
+40.0
+
+CTRL
+
+8
+
+78.4 ± 8.1
+
+30.4 ± 12.4
+
+2±1
+
+12.5
+
+male
+
+3
+
+75.0 ± 12.0
+
+31.0 ± 15.4
+
+2±1
+
+33.3
+
+female
+
+5
+
+80.4 ± 5.3
+
+30.0 ± 12.1
+
+3±1
+
+0
+
+AD
+
+225
+
+79.4 ± 11.0
+
+5.3 ± 1.4
+
+5±1
+
+66.2
+
+male
+
+67
+
+74.4 ± 10.8
+
+5.2 ± 1.3
+
+5±1
+
+70.2
+
+female
+
+158
+
+81.5 ± 10.5
+
+5.3 ± 1.5
+
+5±1
+
+64.6
+
+81.8 ± 9.2
+
+6.7 ± 2.0
+
+2±1
+
+24.1
+
+male
+
+37
+
+82.1 ± 7.4
+
+7.2 ± 2.2
+
+2±1
+
+21.6
+
+female
+
+50
+
+81.7 ± 10.4
+
+6.3 ± 1.8
+
+2±1
+
+26.0
+
+8
+
+84.8 ± 8.4
+
+5.4 ± 1.6
+
+5±1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+-
+
+female
+
+8
+
+84.8 ± 8.4
+
+5.4 ± 1.6
+
+5±1
+
+0
+
+8
+
+male
+
+-
+
+female
+
+8
+
+EP
+
+AD
+male
+
+CTRL
+
+85.1 ± 6.1
+
+temporal cortex
+and
+frontal cortex
+
+sqPCR for
+miR-132 and miR-212
+using TaqMan Assays
+
+frontal cortex
+
+sqPCR for
+miR-132 and miR-212
+using TaqMan Assays
+
+frontal cortex
+
+sqPCR for
+miR-132 and miR-212
+using TaqMan Assays
+
+M
+AN
+U
+
+87
+
+TE
+D
+
+CTRL
+
+6.4 ± 0.7
+
+1±0
+
+0
+
+-
+
+-
+
+-
+
+-
+
+85.1 ± 6.1
+
+6.4 ± 0.7
+
+1±0
+
+0
+
+More detailed information about samples in validation sets can be found in supplementary table S1
+
+- 19 -
+
+and
+
+genome wide mRNA
+expression profile
+(illumina Sentrix bead
+arrays HT12v4)
+
+SC
+
+CTRL
+
+experiment
+
+RI
+PT
+
+samples
+
+AC
+C
+
+NBB grey/white matter set
+
+‡
+
+NBB validation set
+
+MUC validation set
+
+MUC cohort
+
+cohort
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+Table 2: Deregulated miRNAs in temporal cortex of AD patients
+
+log2 median signal intensities and nominal p-values of 102 deregulated miRNAs identified by miRNA expression screening of 64
+human TC samples and their overlap with literature (3; 4; 46). Bold text highlights inconsistent results; nominal p-values marked
+with (‡) also reached statistical significance after Bonferroni correction for multiple testing (p-value < 8.16x10-05).
+
+miRNA
+
+log2 median
+signal intensities
+
+trend in AD
+
+student's T-test
+p-values
+
+Ctrl
+
+AD
+
+hsa-miR-132
+
+11.12
+
+9.82
+
+down
+
+5.02x10
+
+hsa-miR-212
+
+7.57
+
+6.28
+
+down
+
+2.38x10
+
+-07 (‡)
+-06 (‡)
+-04
+
+trend in AD in literature
+
+down (Cogswell et al., 2008; Lau et al., 2013)
+down (Cogswell et al., 2008; Wang et al., 2011)
+
+7.78
+
+7.23
+
+down
+
+1.69x10
+
+up (Cogswell et al., 2008); down (Wang et al., 2011)
+
+10.45
+
+9.21
+
+down
+
+6.39x10-04
+
+down (Lau et al., 2013)
+
+hsa-miR-592
+
+6.10
+
+5.30
+
+down
+
+6.81x10-04
+
+hsa-miR-129-3p
+
+12.95
+
+12.30
+
+down
+
+1.21x10-03
+
+hsa-miR-590-5p
+
+6.47
+
+5.97
+
+down
+
+1.63x10-03
+
+hsa-miR-22
+
+9.73
+
+9.29
+
+down
+
+2.23x10-03
+
+hsa-miR-1274b
+
+8.59
+
+9.70
+
+up
+
+3.00x10-03
+
+hsa-miR-323-3p
+
+9.49
+
+9.13
+
+down
+
+3.45x10
+
+hsa-miR-543
+
+6.28
+
+5.59
+
+down
+
+3.47x10-03
+
+hsa-miR-664
+
+10.96
+
+12.06
+
+up
+
+3.77x10
+
+hsa-miR-143
+
+10.76
+
+11.57
+
+up
+
+3.86x10
+
+hsa-miR-195
+
+12.79
+
+13.29
+
+up
+
+hsa-miR-369-5p
+
+5.78
+
+4.69
+
+down
+
+hsa-miR-3122
+
+6.11
+
+4.94
+
+down
+
+hsa-miR-148b
+
+8.61
+
+8.28
+
+down
+
+hsa-miR-1289
+
+6.22
+
+5.51
+
+down
+
+hsa-miR-876-5p
+
+10.38
+
+11.26
+
+up
+
+hsa-miR-129-5p
+
+7.16
+
+5.97
+
+down
+
+hsa-miR-4270
+
+9.44
+
+10.25
+
+up
+
+hsa-miR-409-5p
+
+9.24
+
+8.82
+
+down
+
+hsa-miR-584
+
+5.81
+
+hsa-miR-449c*
+
+8.65
+
+hsa-miR-296-3p
+
+6.93
+
+hsa-miR-1972
+
+8.74
+
+hsa-miR-126
+
+11.47
+
+hsa-miR-490-5p
+
+6.60
+
+-03
+
+4.43x10-03
+
+down (Lau et al., 2013)
+
+down (Wang et al., 2011); up (Cogswell et al., 2008)
+down (Wang et al., 2011); up (Lau et al., 2013)
+
+4.72x10-03
+4.86x10-03
+-03
+
+5.90x10
+
+down (Nunez-Iglesias et al., 2010; Wang et al., 2011);
+up (Cogswell et al., 2008)
+
+6.25x10-03
+6.43x10-03
+
+6.51x10-03
+
+down (Lau et al., 2013; Wang et al., 2011)
+
+7.23x10-03
+
+TE
+D
+
+8.61x10-03
+
+4.69
+
+down
+
+8.77x10-03
+
+8.38
+
+down
+
+9.39x10-03
+
+7.95
+
+up
+
+9.42x10-03
+
+9.34
+
+up
+
+1.14x10-02
+
+11.04
+
+down
+
+1.14x10-02
+
+6.17
+
+down
+
+1.14x10
+
+EP
+
+down (Hébert et al., 2008; Wang et al., 2011)
+
+M
+AN
+U
+
+-03
+
+down (Lau et al., 2013; Wang et al., 2011)
+
+SC
+
+-03
+
+RI
+PT
+
+hsa-miR-423-3p
+hsa-miR-10b
+
+down (Lau et al., 2013)
+down (Wang et al., 2011)
+
+down (Wang et al., 2011)
+
+-02
+
+10.00
+
+9.79
+
+down
+
+1.16x10-02
+
+7.61
+
+7.04
+
+down
+
+1.22x10-02
+
+5.75
+
+4.76
+
+down
+
+1.27x10-02
+
+9.38
+
+9.06
+
+down
+
+1.36x10
+
+hsa-miR-1324
+
+5.74
+
+6.66
+
+up
+
+1.36x10-02
+
+hsa-miR-186*
+
+6.09
+
+5.46
+
+down
+
+1.37x10-02
+
+hsa-miR-191
+
+9.54
+
+9.13
+
+down
+
+1.40x10
+
+down (Cogswell et al., 2008; Wang et al., 2011)
+
+hsa-miR-138
+
+11.26
+
+11.01
+
+down
+
+1.41x10-02
+
+down (Lau et al., 2013; Wang et al., 2011)
+
+hsa-miR-3665
+
+6.14
+
+5.70
+
+down
+
+1.50x10-02
+
+hsa-miR-7
+
+6.80
+
+5.53
+
+down
+
+1.53x10
+
+hsa-miR-3074
+
+9.49
+
+8.87
+
+down
+
+1.55x10-02
+
+hsa-let-7i
+
+6.52
+
+5.98
+
+down
+
+1.58x10-02
+
+hsa-miR-200a
+
+6.14
+
+5.58
+
+down
+
+1.61x10
+
+down (Hébert et al., 2008; Wang et al., 2011); up
+(Lau et al., 2013)
+up (Lau et al., 2013)
+
+hsa-miR-32
+
+5.79
+
+5.13
+
+down
+
+1.61x10-02
+
+down (Wang et al., 2011)
+
+hsa-miR-152
+
+8.70
+
+8.78
+
+up
+
+1.61x10-02
+
+hsa-miR-484
+
+9.09
+
+8.54
+
+down
+
+1.64x10-02
+
+hsa-miR-3202
+
+6.01
+
+6.59
+
+up
+
+1.65x10-02
+
+hsa-miR-596
+
+6.87
+
+6.67
+
+down
+
+1.73x10-02
+
+hsa-miR-1246
+
+4.67
+
+5.84
+
+up
+
+1.89x10-02
+
+hsa-miR-148b*
+hsa-miR-3943
+hsa-miR-554
+
+AC
+C
+
+hsa-miR-3922
+
+-02
+
+-02
+
+-02
+
+-02
+
+- 20 -
+
+down (Wang et al., 2011); up (Cogswell et al., 2008)
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+hsa-miR-500a
+
+5.81
+
+6.94
+
+up
+
+1.91x10-02
+
+hsa-miR-1200
+
+6.46
+
+6.16
+
+down
+
+1.91x10-02
+
+hsa-miR-92a-2*
+
+4.67
+
+5.65
+
+up
+
+2.00x10-02
+
+hsa-miR-762
+
+9.83
+
+10.57
+
+up
+
+2.02x10-02
+
+hsa-miR-3621
+
+8.03
+
+8.56
+
+up
+
+2.05x10
+
+hsa-miR-324-5p
+
+8.81
+
+8.39
+
+down
+
+2.08x10-02
+
+up (Cogswell et al., 2008)
+
+hsa-miR-519d
+
+8.53
+
+9.13
+
+up
+
+2.16x10-02
+
+down (Wang et al., 2011); up (Cogswell et al., 2008)
+
+hsa-miR-486-5p
+
+7.49
+
+6.99
+
+down
+
+2.19x10-02
+
+up (Nunez-Iglesias et al., 2010)
+
+hsa-miR-3622b-3p
+
+7.40
+
+7.14
+
+down
+
+2.22x10-02
+
+hsa-miR-1234
+
+8.51
+
+8.15
+
+down
+
+2.24x10
+
+hsa-miR-517b
+
+5.23
+
+6.09
+
+up
+
+2.29x10
+
+hsa-miR-4307
+
+5.79
+
+4.69
+
+down
+
+2.33x10-02
+
+hsa-miR-3605-5p
+
+5.87
+
+6.40
+
+up
+
+2.34x10
+
+hsa-miR-29b-2*
+
+5.85
+
+5.01
+
+down
+
+2.38x10-02
+
+hsa-miR-3141
+
+11.02
+
+11.98
+
+up
+
+2.41x10
+
+hsa-miR-3941
+
+9.09
+
+9.70
+
+up
+
+2.43x10-02
+
+hsa-miR-628-3p
+
+7.85
+
+7.36
+
+down
+
+2.47x10
+
+hsa-miR-3199
+
+5.65
+
+5.15
+
+down
+
+2.48x10
+
+hsa-miR-376c
+
+9.14
+
+8.67
+
+down
+
+2.49x10-02
+
+hsa-miR-183*
+
+9.37
+
+9.73
+
+up
+
+2.53x10-02
+
+hsa-miR-523
+
+8.12
+
+7.40
+
+down
+
+hsa-miR-196b*
+
+5.75
+
+6.39
+
+up
+
+hsa-miR-30c
+
+5.92
+
+6.33
+
+up
+
+hsa-miR-3909
+
+8.55
+
+8.96
+
+up
+
+hsa-miR-144
+
+6.27
+
+5.94
+
+down
+
+hsa-miR-610
+
+8.54
+
+8.07
+
+down
+
+hsa-miR-497*
+
+6.12
+
+5.94
+
+down
+
+hsa-miR-943
+
+6.75
+
+7.06
+
+up
+
+hsa-miR-548t
+
+6.02
+
+6.76
+
+up
+
+hsa-miR-4295
+
+7.85
+
+hsa-miR-3622b-5p
+
+7.46
+
+hsa-miR-550a
+
+5.63
+
+hsa-miR-3124
+
+7.84
+
+hsa-miR-518c
+
+8.44
+
+hsa-miR-1228*
+
+10.25
+
+-02
+
+-02
+
+-02
+
+-02
+
+2.64x10-02
+2.72x10-02
+2.72x10-02
+
+2.87x10-02
+2.93x10-02
+2.93x10-02
+
+TE
+D
+
+2.94x10-02
+
+down
+
+3.06x10-02
+
+7.98
+
+up
+
+3.07x10-02
+
+5.92
+
+up
+
+3.08x10
+
+7.12
+
+down
+
+3.11x10-02
+
+8.10
+
+down
+
+3.11x10-02
+
+11.08
+
+up
+
+3.14x10
+
+EP
+
+7.44
+
+-02
+
+-02
+
+up
+
+3.30x10-02
+
+7.99
+
+8.65
+
+up
+
+3.33x10-02
+
+8.54
+
+8.31
+
+down
+
+3.34x10
+
+6.46
+
+6.16
+
+down
+
+3.34x10-02
+
+hsa-miR-9*
+
+12.06
+
+11.74
+
+down
+
+3.36x10
+
+hsa-miR-302c
+
+5.39
+
+6.34
+
+up
+
+3.43x10-02
+
+hsa-miR-675
+
+7.34
+
+7.74
+
+up
+
+3.48x10
+
+hsa-miR-515-5p
+
+6.46
+
+6.12
+
+down
+
+3.51x10-02
+
+hsa-miR-301b
+
+6.48
+
+6.80
+
+up
+
+3.64x10
+
+hsa-miR-191*
+
+5.66
+
+4.15
+
+down
+
+3.93x10-02
+
+hsa-miR-514b-3p
+
+7.57
+
+7.81
+
+up
+
+4.03x10-02
+
+hsa-miR-635
+
+6.71
+
+6.33
+
+down
+
+4.24x10
+
+hsa-miR-603
+
+6.86
+
+6.34
+
+down
+
+4.26x10-02
+
+hsa-miR-1293
+
+5.08
+
+5.89
+
+up
+
+4.36x10-02
+
+hsa-miR-608
+
+7.41
+
+8.17
+
+up
+
+4.46x10-02
+
+hsa-miR-149*
+
+9.84
+
+10.45
+
+up
+
+4.61x10-02
+
+hsa-miR-3689a-5p
+
+10.25
+
+9.66
+
+down
+
+4.63x10
+
+hsa-miR-3911
+
+5.42
+
+5.94
+
+up
+
+4.70x10
+
+hsa-miR-3133
+
+7.51
+
+7.84
+
+up
+
+4.78x10
+
+hsa-miR-875-3p
+
+8.20
+
+7.94
+
+down
+
+4.99x10-02
+
+hsa-miR-200b*
+
+AC
+C
+
+hsa-miR-4276
+
+up (Wang et al., 2011)
+
+2.91x10-02
+
+5.99
+
+hsa-miR-423-5p
+
+down (Cogswell et al., 2008; Wang et al., 2011); up
+(Cogswell et al., 2008)
+
+2.83x10-02
+
+5.42
+
+hsa-miR-2117
+
+down (Nunez-Iglesias et al., 2010; Wang et al., 2011)
+
+M
+AN
+U
+
+-02
+
+SC
+
+-02
+
+RI
+PT
+
+-02
+
+-02
+
+-02
+
+-02
+
+-02
+
+-02
+
+-02
+-02
+-02
+
+- 21 -
+
+down (Wang et al., 2011)
+
+Pichler et al
+
+ACCEPTED MANUSCRIPT
+
+Table 3: Genome wide significantly deregulated mRNAs and their correlation to hsa-miR-132-3p and hsa-miR-212-3p
+expression levels in TC samples of AD patients
+Expression levels of genome wide significantly deregulated mRNAs (9 up- and 1 downregulated in AD). Expression levels were
+correlated with expression levels of genome wide significant miRNAs by linear regression. Given p-values are unadjusted. pvalues marked with (‡) passed Bonferroni correction for 11 264 analyzed markers (p-value < 4.4x10-06).
+
+trend in AD
+
+RNU1G2
+
+1.51x10-09
+
+up
+
+RNU1-3
+
+-09
+
+4.37x10
+
+RNU1-5
+
+1.55x10
+
+-08
+
+miR-132/212
+target prediction
+sites
+
+linear regression
+mRNA~hsa-miR-132-3p
+p-value
+
+0.276
+
+1.54x10-07(‡)
+
+0.447
+
+0.264
+
+-08(‡)
+
+7.27x10
+
+0.464
+
+0.260
+
+1.15x10-07(‡)
+
+0.453
+
+0.423
+
+-08(‡)
+
+7.56x10
+
+0.463
+
+0.435
+
+1.17x10-05
+
+0.338
+
+0.247
+
+7.11x10
+
+-06
+
+0.352
+
+0.439
+
+4.80x10-05
+
+0.300
+
+4.39x10
+
+0.221
+
+-03
+
+2.02x10
+
+0.185
+
+8.76x10-08(‡)
+
+0.439
+
+3.93x10-07(‡)
+
+0.425
+
+0.458
+
+-08(‡)
+
+0.493
+
+6.49x10-05
+
+up
+
+none
+
+-05
+
+9.88x10
+
+up
+
+none
+
+1.12x10-04
+
+AEBP1
+
+9.74x10
+
+up
+
+none
+
+NFKB1
+
+1.44x10-07
+
+up
+
+hsa-miR-132-3p
+
+1.03x10-07(‡)
+
+PKN2
+
+6.34x10
+
+-07
+
+up
+
+hsa-miR-132-3p
+hsa-miR-212-3p
+
+1.78x10
+
+HBP1
+
+7.51x10
+
+-07
+
+up
+
+none
+
+up
+
+TSPAN7
+
+3.32x10-06
+
+down
+
+none
+
+3.70x10
+
+up
+
+hsa-miR-132-3p
+hsa-miR-212-3p
+
+AC
+C
+
+EP
+
+TE
+D
+
+GFAP
+
+-06
+
+1.79x10
+
+-04
+
+SC
+
+8.90x10
+
+-07(‡)
+
+8.84x10-08(‡)
+-04
+
+M
+AN
+U
+
+C5ORF41
+
+hsa-miR-132-3p
+hsa-miR-212-3p
+
+- 22 -
+
+2
+
+R
+
+-08
+
+-07
+
+2
+
+p-value
+
+none
+
+R
+
+linear regression
+mRNA~hsa-miR-212-3p
+
+RI
+PT
+
+student’s T-test
+diagnosis~mRNA
+p-value
+
+Gene Symbol
+
+-09(‡)
+
+5.14x10
+
+1.93x10
+
+G
+
+I
+
+p−value = 2.68x10−03
+fold = 0.347
+
+p−value = 4.80x10−02
+fold = 0.548
+
+p−value = 5.43x10−18
+fold = 0.413
+
+p−value = 2.40x10−02
+fold = 0.633
+
+p−value = 9.41x10−04
+fold = 0.429
+
+8
+
+E
+8
+
+C
+8
+
+A
+8
+
+8
+
+ACCEPTED MANUSCRIPT
+
+4
+
+●●
+●●●
+●
+
+●
+●
+●
+
+6
+4
+2
+0
+
+0
+
+dCt hsa−miR−132−3p
+
+6
+2
+
+4
+
+RI
+PT
+n=8
+
+n=8
+
+CTRL
+
+AD
+
+−2
+
+dCt hsa−miR−132−3p
+
+4
+0
+
+●
+●
+●●
+
+n=8
+
+n=8
+
+CTRL
+
+AD
+
+diagnosis
+
+J
+
+p−value = 3.53x10−18
+fold = 0.391 ●
+
+p−value = 4.31x10−02
+fold = 0.648
+
+p−value = 2.67x10−03
+fold = 0.395
+
+12
+
+12
+
+H
+
+●●
+●
+●
+●
+●
+
+●
+●
+●●●
+●
+●
+●
+
+●
+
+●
+
+10
+8
+
+●
+●●
+
+6
+
+●
+
+dCt hsa−miR−212−3p
+
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●●●
+●●
+●
+●●
+●●
+●
+●
+●●
+●●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●●●
+●●
+●
+●
+●● ●
+●
+●●
+●
+●●
+
+10
+
+●
+●●●
+●
+●
+●
+●
+●●
+●
+●●
+●
+●
+●
+●
+●
+●●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●●●
+●
+●
+●
+●●●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●●
+●●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●●
+●
+●
+●
+●
+●
+
+8
+
+12
+
+●
+
+F
+
+10
+8
+
+●
+●
+
+●
+
+●
+●●
+
+4
+
+●●
+
+●
+●●
+
+diagnosis
+
+6
+
+●
+●
+
+6
+
+10
+8
+
+AC
+C
+
+●
+
+●
+
+6
+
+●
+●●
+●
+
+dCt hsa−miR−212−3p
+
+8
+6
+
+●
+
+EP
+
+p−value = 1.72x10−02
+fold = 0.513
+
+12
+
+p−value = 1.81x10−02
+fold = 0.476
+
+10
+
+D
+
+●●
+
+AD
+
+●
+
+●
+
+●
+●●
+●
+●
+●
+
+diagnosis
+
+B
+
+●
+●
+●
+●
+
+CTRL
+
+TE
+D
+
+diagnosis
+
+●
+●
+
+4
+
+dCt hsa−miR−212−3p
+
+12
+
+diagnosis
+
+n=224
+
+●●
+●
+
+−2
+
+AD
+
+n=87
+
+●
+●●
+●
+●
+●
+
+●●
+●
+
+SC
+
+6
+CTRL
+
+●
+
+4
+
+AD
+
+n=8
+
+dCt hsa−miR−212−3p
+
+CTRL
+
+●
+n=8
+
+●
+●
+●
+
+M
+AN
+U
+
+n=8
+
+●
+●
+
+−2
+
+n=8
+
+−2
+
+−2
+
+●●
+●●
+
+●
+●●
+
+●
+●
+●
+●●
+●
+●●
+●●
+●
+●
+●●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●●
+●
+●
+●●
+●
+●●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+
+2
+
+4
+2
+
+●
+●
+●
+●●
+●
+●
+
+●
+
+4
+
+0
+
+●
+
+●
+●
+●
+
+●
+●
+●
+
+dCt hsa−miR−212−3p
+
+●
+
+dCt hsa−miR−132−3p
+
+6
+●
+
+●
+●
+
+●
+
+0
+
+●
+
+dCt hsa−miR−132−3p
+
+4
+
+●
+●
+
+2
+
+dCt hsa−miR−132−3p
+
+6
+
+●
+●
+●
+●●●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●
+●●●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●●
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●
+
+●
+●
+●
+●●
+●
+●●
+
+●
+●
+
+n=8
+
+n=8
+
+n=8
+
+n=8
+
+n=87
+
+n=225
+
+n=8
+
+n=8
+
+n=8
+
+n=8
+
+CTRL
+
+AD
+
+CTRL
+
+AD
+
+CTRL
+
+AD
+
+CTRL
+
+AD
+
+CTRL
+
+AD
+
+diagnosis
+
+diagnosis
+
+diagnosis
+
+diagnosis
+
+diagnosis
+
+ACCEPTED
+C MANUSCRIPT
+
+p−value = 5.02x10−07
+fold = 0.407
+
+13
+
+●
+
+CTRL
+
+AD
+
+●
+●
+●
+●
+●
+
+●
+●
+●
+●
+●
+●
+
+●
+●●
+●
+●●
+●
+●●
+●●
+●●
+●
+●
+●
+●
+●
+●
+
+n=8
+
+n=6
+
+n=7
+
+n=1
+
+n=7
+
+n=12
+
+n=20
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+TE
+D
+10
+
+●
+●
+
+●
+●
+●
+
+braak stage
+
+p−value = 1.13x10−05
+R2= 0.28
+●
+●
+●
+●
+●●
+●
+
+●●
+●
+●
+●
+
+●
+
+●
+●
+●●
+●
+●
+
+●
+
+6
+
+●
+
+● CTRL
+● AD
+
+●●
+●
+●
+●
+●
+●
+
+●
+●
+●
+●
+●
+●
+●
+●
+
+●
+
+●
+●
+●
+●●
+●
+●
+●
+●
+●●●
+● ●
+●
+●●
+●
+●
+
+n=25
+
+n=36
+
+CTRL
+
+AD
+
+diagnosis
+
+●●●
+
+0
+
+2
+
+●
+
+2
+
+4
+
+●
+
+●
+
+4
+
+●
+●
+●●
+●
+●
+●
+●●●
+●●●
+●●
+●
+●
+●
+●
+●●
+●
+●
+●
+●●
+●
+●●
+●
+●
+
+log2 signal intensity
+hsa−miR−212−3p
+
+8
+
+EP
+
+●
+
+AC
+C
+
+10
+8
+6
+
+●
+●
+●
+●
+●
+●
+●
+●●
+●
+●
+●
+●●●
+●●
+●
+●
+●●
+●
+●
+
+0
+
+log2 signal intensity
+hsa−miR−212−3p
+
+D
+
+p−value = 2.38x10−06
+fold = 0.409
+
+RI
+PT
+
+11
+
+diagnosis
+
+B
+
+●
+●
+
+●
+●
+
+●
+
+M
+AN
+U
+
+n=39
+
+●
+●
+●
+
+●
+●
+
+●
+
+8
+n=25
+
+●
+●
+●
+
+●●
+●
+
+●
+
+8
+
+●
+
+● CTRL
+● AD
+
+SC
+
+10
+
+●●●
+●
+●
+
+10
+
+●●●
+●
+●
+●●●
+●
+●
+●
+●
+●
+●
+●●●
+●
+●●
+●●
+●
+●●
+●
+●
+●
+●
+●
+
+●
+●●
+●
+●
+●
+●
+
+9
+
+●
+
+log2 signal intensity
+hsa−miR−132−3p
+
+11
+
+●
+●●
+●
+●● ●
+●
+●●
+●
+●
+●●
+●●
+●
+●
+
+9
+
+log2 signal intensity
+hsa−miR−132−3p
+
+p−value = 3.86x10−08
+R2= 0.40
+
+12
+
+●
+
+12
+
+13
+
+A
+
+n=8
+
+n=6
+
+n=7
+
+n=1
+
+n=7
+
+n=12
+
+n=20
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+braak stage
+
+● ●
+
+ACCEPTED MANUSCRIPT
+HIGHLIGHTS
+
+Simultaneous microRNA and RNA analysis in a large AD/control sample set
+
+o
+
+miR-132/212 decrease in cortical brain regions correlated with disease progression
+
+o
+
+stronger miR-132/212 decrease in grey compared to white matter tissue of AD patients
+
+o
+
+genome wide significance for small nuclear RNAs recently associated to AD
+
+o
+
+correlation of significantly deregulated miRNAs and mRNAs (in silico)
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+o
+
+

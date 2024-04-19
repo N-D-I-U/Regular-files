@@ -1,0 +1,1299 @@
+Post-transcriptional gene silencing by siRNAs and miRNAs
+Witold Filipowicz, Lukasz Jaskiewicz, Fabrice A Kolb and
+Ramesh S Pillai
+Recent years have seen a rapid increase in our understanding
+of how double-stranded RNA (dsRNA) and 21- to 25-nucleotide
+small RNAs, microRNAs (miRNAs) and small interfering RNAs
+(siRNAs), control gene expression in eukaryotes. This RNAmediated regulation generally results in sequence-specific
+inhibition of gene expression; this can occur at levels as
+different as chromatin modification and silencing, translational
+repression and mRNA degradation. Many details of the
+biogenesis and function of miRNAs and siRNAs, and of the
+effector complexes with which they associate have been
+elucidated. The first structural information on protein
+components of the RNA interference (RNAi) and miRNA
+machineries is emerging, and provides some insight into the
+mechanism of RNA-silencing reactions.
+Addresses
+Friedrich Miescher Institute for Biomedical Research, PO Box 2543,
+4002 Basel, Switzerland
+Corresponding author: Filipowicz, Witold (filipowi@fmi.ch)
+
+Current Opinion in Structural Biology 2005, 15:331–341
+This review comes from a themed issue on
+Nucleic acids
+Edited by Dinshaw J Patel and Eric Westhof
+Available online 31st May 2005
+0959-440X/$ – see front matter
+# 2005 Elsevier Ltd. All rights reserved.
+DOI 10.1016/j.sbi.2005.05.006
+
+Introduction
+Research undertaken during the past decade with plants,
+fungi, protozoa and metazoan animals has revealed several novel and evolutionarily conserved gene control
+mechanisms that use double-stranded RNA (dsRNA)
+and 21- to 25-nucleotide (21–25-nt) small RNAs as
+sequence-specific regulators. These reactions, often collectively referred to as RNA silencing, include RNA
+interference (RNAi), RNAi-mediated chromatin silencing and DNA rearrangements, and post-transcriptional
+regulation of mRNA by endogenously encoded microRNAs (miRNAs) (reviewed in [1–7]). During RNAi, the
+dsRNA formed in cells by DNA- or RNA-dependent
+synthesis of complementary strands, or introduced into
+cells by viral infection or artificial expression is processed
+to 20-bp double-stranded small interfering RNAs (siRNAs) containing 2-nt 30 overhangs. The siRNAs are then
+incorporated into an RNA-induced silencing complex
+www.sciencedirect.com
+
+(RISC), which mediates the degradation of mRNAs with
+sequences fully complementary to the siRNA (Figure 1).
+In another reaction, occurring in the nucleus, siRNAs
+formed from repeat element transcripts and incorporated
+into the RNAi-induced transcriptional silencing (RITS)
+complex may guide chromatin modification and silencing.
+The genetics and biochemistry of the latter process are
+best characterized for the fission yeast Schizosaccharomyces
+pombe and plants, but related reactions also operate in
+other organisms [5,6].
+miRNAs are a large family of 21-nt regulatory RNAs
+expressed in metazoan animals and plants. They are
+processed from endogenous precursor molecules, which
+fold into dsRNA-like hairpins. With very few exceptions,
+animal miRNAs regulate gene expression by base pairing
+imperfectly to the 30 -untranslated region (30 -UTR) of
+target mRNAs, inhibiting protein synthesis by an
+unknown mechanism. By contrast, plant miRNAs generally show nearly precise complementarity to target
+mRNAs and trigger mRNA degradation via a mechanism
+similar to that operating during RNAi. Like siRNAs,
+miRNAs form part of RISC-like ribonucleoprotein particles, miRNPs or miRISCs (Figure 1). There is partial
+overlap in the protein composition of RISCs and miRNPs
+(e.g. both complexes contain proteins of the Argonaute
+family), consistent with the ability of miRNAs to act,
+under some circumstances, as siRNAs and vice versa
+[1,2,4].
+This review summarizes recent (2003–2004) progress in
+understanding the function of dsRNA and small 21–25-nt
+RNAs in the post-transcriptional control of gene expression, focusing primarily on mechanistic and structural
+aspects of regulation in animal cells. For extensive discussions of the role of the RNAi machinery in chromatin
+modification and DNA rearrangements in protozoa, see
+the reviews by Lippman and Martienssen [5], and Matzke
+and Birchler [6]; RNA-silencing reactions in plants are
+reviewed by Baulcombe [3].
+
+Biogenesis of miRNAs
+miRNAs are processed from precursor molecules, which
+correspond either to transcripts of independent miRNA
+genes or to fragments, most frequently originating from
+introns, of protein-coding RNA polymerase II transcripts.
+Several miRNAs, often structurally or functionally
+related, can be co-transcribed [8]. Maturation of miRNAs
+occurs in two steps, both catalyzed by enzymes of the
+RNase III family, Drosha and Dicer. Droshas are 130–
+160 kDa nuclear proteins containing two RNase III
+Current Opinion in Structural Biology 2005, 15:331–341
+
+332 Nucleic acids
+
+Figure 1
+
+Cytoplasm
+
+Nucleus
+
+Primary miRNA
+transcript
+(pri-miRNA)
+
+Drosha–Pasha complex
+p
+Antisense
+transcription
+
+Viral
+infection
+
+Exportin-5
+Ran•GTP
+
+Transfection
+
+Precursor miRNA
+(pre-miRNA)
+
+Nuclear pore
+dsRNA
+
+pre-miRNA
+p
+
+ATP
+ADP+Pi
+p
+
+ATP
+
+Dcr-2–
+R2D2
+
+?
+
+Dcr-2
+
+ATP
+
+p
+
+p
+
+Ago2
+ATPase/
+RNA helicase
+
+ADP+Pi
+
+Dcr-1
+
+p
+R2D2
+
+Dcr-1
+
+ADP+Pi
+
+ATP
+ADP+Pi
+p
+
+Dcr-2
+p
+
+Ago1
+ATPase/
+RNA helicase
+
+Dcr-1?
+Ago1
+
+Ago2
+
+RISC
+
+miRNP
+
+7mG
+
+7mG
+Ago2
+
+p
+
+AAAAAAA
+
+mRNA cleavage
+
+AAAAAAA
+p
+
+Translational inhibition
+Current Opinion in Structural Biology
+
+miRNA biogenesis and post-transcriptional gene regulation by miRNAs and siRNAs. The pathway shown is primarily based on data from
+Drosophila, although processing and assembly steps in mammalian cells are similar. Pri-miRNAs frequently contain more than one pre-miRNA
+hairpin. The Dcr-2–R2D2 complex recognizes the thermodynamic asymmetry of siRNA, with Dcr-2 binding to the less stable end of the duplex,
+near the 50 end of the selected guide strand. Rules of miRNA strand selection are similar, but details of the proteins involved are not known.
+Although not absolutely required, Dcr-1 also plays a role in siRNA-dependent RNAi [20]. In mammals, a single Dicer participates in RNAi and
+miRNA pathways, but whether the protein is part of the mature RISC/miRNP is not yet established. Drosophila Ago1 and Ago2 function in
+miRNA and RNAi reactions, respectively. In mammals, all four Ago proteins, Ago1–4, seem to function in translational repression, but only
+Ago2 is a component of the cleavage-competent RISC.
+
+catalytic domains and a dsRNA-binding domain (dsRBD)
+in the C-terminal half of the protein, and additional
+domains of unknown function in the N-terminal half
+[9] (Figure 2). As recently shown for mammals, Drosophila melanogaster and Caenorhabditis elegans, Drosha does
+not work in isolation, but exists in a complex with a
+Current Opinion in Structural Biology 2005, 15:331–341
+
+dsRBD protein called Pasha (in Drosophila) or DGCR8
+(in mammals) (Figure 2) [10–13]. Like Drosha, Pasha/
+DGCR8 is essential for the processing of primary miRNA
+transcripts, pri-miRNAs, to 70-nt hairpins referred to as
+precursor miRNAs (pre-miRNAs). The large 650 kDa
+size of the Drosha–DGCR8 complex may be due to
+www.sciencedirect.com
+
+siRNAs and miRNAs Filipowicz et al. 333
+
+Figure 2
+
+ATPase/helicase
+Helicase
+
+DUF283
+
+PAZ
+
+RIIIa
+
+RIIIb
+
+∗
+
+Hs Dicer
+
+DUF283
+
+PAZ
+
+RIIIa
+
+RIIIb
+
+∗
+
+Dm Dicer-1
+(Dcr-1)
+
+PAZ
+
+RIIIa
+
+RIIIb
+
+∗
+
+Dm Dicer-2
+(Dcr-2)
+
+RIIIa
+
+RIIIb
+
+∗
+
+Hs Drosha
+
+RIIIa
+
+RIIIb
+
+∗
+
+Dm Drosha
+
+ATPase/helicase
+
+DUF283
+P-rich
+
+RS-rich
+
+P-rich
+∗
+
+∗
+
+Dm Pasha
+
+∗
+
+∗
+
+Dm R2D2
+
+WW
+
+Q repeats
+
+PAZ
+
+Piwi
+
+Dm Ago2
+
+PAZ
+
+Piwi
+
+Hs Ago1–4
+
+Current Opinion in Structural Biology
+
+Domain structures of proteins involved in the RNA-silencing pathways discussed in this review. Dicers and Droshas belong to the RNase III
+family of proteins, and contain two RNase III catalytic domains (RIIIa and RIIIb) and a dsRBD (denoted by the asterisk). Dicers have an
+N-terminal ATPase/RNA helicase domain, followed by a domain of unknown function (DUF283) and a PAZ domain, which is also present in
+members of the Argonaute family. The two Drosophila (Dm) Dicers differ in functional domain composition: Dcr-1 contains only a C-terminal
+part of the helicase domain, whereas the PAZ of Dcr-2 diverges from the domains found in other proteins. The Argonautes contain a
+C-terminal Piwi domain that structurally resembles the RNase H fold. The Droshas have N-terminal proline-rich regions and the human (Hs)
+enzyme has a domain rich in Arg-Ser (RS) dipeptides, similar to the protein–protein interaction domains found in many splicing factors.
+Drosha and Dicer are assisted in their function by two proteins containing dsRBDs, Pasha and R2D2, respectively. The WW domain is a module
+with two conserved tryptophan residues. Although WW modules generally interact with proline-rich sequences, the WW module of
+Pasha/DGCR8 is dispensable for the interaction with Drosha [11]. Drosophila Ago2 is a considerably larger protein than Ago1 and human
+Ago1–4, because it contains glutamine-rich repeats at its N terminus.
+
+dimerization of its components [11] or the presence of
+additional proteins. In human cells, Drosha also appears to
+form part of a much larger multiprotein complex, but
+whether this complex functions in the biogenesis of miRNAs or other RNAs is unclear [13]. Conceivably, as for
+protein-coding transcripts, the synthesis and processing of
+pri-miRNAs are tightly coordinated in the nucleus. Transsplicing may be important for effective processing of prilet-7 RNA in C. elegans [14]. Mammalian Drosha contains a
+serine-arginine (SR)-rich region resembling protein–
+protein interaction domains of the SR family of splicing
+factors. However, such a domain is not present in the
+Drosophila protein. Plant genomes do not seem to encode
+Drosha homologs and, in Arabidopsis, all miRNA biogenesis steps may be carried out by one of the four Dicer-like
+proteins, DCL-1, localized in the nucleus [15].
+
+Function of Dicer
+Following the nuclear maturation steps, the 70-nt premRNA hairpins are transported to the cytoplasm, in a
+process mediated by exportin-5 (reviewed in [8]), where
+they are further cleaved by Dicer to yield 20-bp miRNA
+duplexes. Dicers are large 200 kDa proteins containing
+www.sciencedirect.com
+
+generally an ATPase/RNA helicase, DUF283, PAZ
+domains, two catalytic RNase III domains (RIIIa and
+RIIIb) and a C-terminal dsRBD (Figure 2). In addition
+to excising miRNAs from pre-miRNAs, Dicer enzymes
+process dsRNA to siRNAs. Vertebrates, C. elegans and S.
+pombe contain single Dicer genes, whereas Drosophila,
+Arabidopsis and some other organisms express two or more
+Dicers with specialized functions (reviewed by Carmell
+and Hannon [16]).
+The Dicers of vertebrates and Drosophila are the best
+characterized biochemically and genetically [7,16].
+Recent analysis of mutants of purified recombinant
+human Dicer led to a model of dsRNA and pre-miRNA
+processing [17]. The enzyme functions as a monomer
+containing a single processing center formed through
+intramolecular dimerization of the two RNase III
+domains of the same Dicer molecule. The center contains
+two independent catalytic sites, each cutting one RNA
+strand of the duplex and generating products with 2-nt 30
+overhangs (Figure 3). Based on the crystal structure of the
+catalytic domain of bacterial RNase III [18] and the
+predicted substrate-docking site, each catalytic site
+Current Opinion in Structural Biology 2005, 15:331–341
+
+334 Nucleic acids
+
+Figure 3
+
+(a)
+
+(b)
+
+ATPase/helicase,
+DUF283
+
+D1709, E1813
+
+D
+
+dsRB
+
+RIIIa
+5′
+3′
+
+RIIIb
+
+D1320, E1364
+
+PAZ
+
+Current Opinion in Structural Biology
+
+Model of Dicer function. (a) Scheme summarizing a possible mechanism of pre-miRNA processing by human Dicer. The helicase/ATPase and
+DUF283 domains, with no assigned function, are delineated with a broken line. The enzyme contains a single dsRNA cleavage center with two
+independent catalytic sites. The center is formed by the RIIIa and RIIIb domains of the same Dicer molecule, and processes the dsRNA 20 bp
+from its terminus. The PAZ domain recognizes the 30 overhang end created by Drosha processing. The placement of the RIII domains illustrates
+the asymmetry of the catalytic region, with RIIIa cleaving the descending arm and RIIIb the ascending arm of the pre-miRNA hairpin [17].
+(b) Model of bacterial (Aquifex aeolicus) RNase III interaction with dsRNA. The model is based on a crystal structure of the catalytic domain
+dimer [18] and the docking of the 30-bp dsRNA A helix, permitting cleavage of each RNA strand at phosphodiesters separated by 2 bp [17].
+Two RNase III monomers are in different shades of purple. Mn2+ ions present in each catalytic center are shown as red spheres. The interaction
+of dsRNA with the intramolecular pseudo-dimer of the Dicer RIIIa and RIIIb domains is very probably similar.
+
+contains a single Mg2+ ion coordinated by four conserved
+acidic amino acid residues. The Dicer mechanism is
+similar to that proposed for bacterial RNase III [17]
+(Figure 3). Dicer preferentially cuts dsRNAs at their
+termini [16,19] and also excises miRNAs from the end
+of pre-miRNA hairpins produced by Drosha [9,17].
+The PAZ domain of Dicer is responsible for the recognition of termini with 30 overhangs (Figure 3), consistent
+with similar RNA-binding properties of the PAZ domain
+of Argonaute proteins (see below). Properties of Drosophila Dicer-2 (Dcr-2) mutants, assayed both in vivo and in
+vitro, support the catalytic center model as outlined above
+[20]. This work also demonstrated that Drosophila Dcr-2
+requires a functional helicase for dsRNA processing in
+vivo, consistent with the strong effect of ATP on the
+activity of both Dcr-2 and C. elegans Dicer in vitro
+[21,22]. By contrast, ATP has no effect on dsRNA
+cleavage by either endogenous or recombinant human
+Dicer [19]. Drosha may process its substrates using a
+mechanism similar to that of Dicer. Like Dicer, Drosha
+contains two RNase III catalytic domains (Figure 2),
+which form an intramolecular dimer containing two catalytic sites functioning independently of each other [11].
+Drosophila expresses two Dicers, Dcr-1 and Dcr-2, which
+have subtle differences in the composition of their functional domains (Figure 2), but play very distinct roles in
+Current Opinion in Structural Biology 2005, 15:331–341
+
+RNA silencing. Dcr-1 mainly functions in the processing
+of miRNA precursors, whereas Dcr-2 is required for
+RNAi, both for the cleavage of dsRNA and for the
+assembly of the RISC [20,23,24]. To perform the
+latter function, Dcr-2 heterodimerizes with R2D2, a small
+protein containing two dsRBDs [22]. Because vertebrates and C. elegans express only one Dicer protein,
+interactions with additional proteins must modulate the
+specificity of these enzymes. Indeed, an R2D2-like protein, RDE-4, which functions in a complex with Dicer,
+the Argonaute protein RDE-1 and other proteins, and is
+essential for RNAi but not miRNA function, has been
+characterized in C. elegans [25]. Dicer proteins also interact
+with Argonaute proteins [7,16], and regions responsible
+for the direct interaction between human proteins have
+been mapped to RNase III and Piwi domains [26,27].
+
+Components of RNA-induced silencing
+complexes
+siRNAs and miRNAs function as components of ribonucleoprotein complexes, RISCs and miRNPs, respectively.
+These complexes have been isolated from human and
+Drosophila cells, and have also been identified in C. elegans
+(reviewed in [7,28]). Apart from Argonautes, the only
+proteins consistently found in all RISC and miRNP
+forms, identified RISC components include the Vasa
+intronic gene (VIG) protein, Tudor-SN (a protein
+www.sciencedirect.com
+
+siRNAs and miRNAs Filipowicz et al. 335
+
+containing five staphylococcal/micrococcal nuclease [SN]
+domains and a Tudor domain) and dFXR, the Drosophila
+ortholog of human fragile X mental retardation protein
+(FMRP) [7,28–30]. These proteins or their orthologs also
+seem to form part of miRNPs from other organisms.
+Additional associated proteins have also been identified.
+In human cells, miRNAs were found in an 15S complex
+containing Gemin 3 and Gemin 4 [31]; in Drosophila,
+dFXR–miRNA complexes included ribosomal proteins
+RPL5 and RPL11, and the RNA helicase Dmp68 [32].
+The significance of the association with Gemins 3 and 4,
+proteins also found in the SMN (survival of motor neurons) complex, which functions in the assembly of different cellular RNPs, is not understood, but interaction
+with FXR1 or FMRP, RNA-binding proteins known to
+act as modulators of translation, particularly in neurons,
+may be related to the role of miRNAs in translational
+repression (reviewed in [33]). The latter argument also
+applies to the association with RPL5 and RPL11.
+
+Structure and function of Argonaute proteins
+A central role for Argonaute proteins in RNA silencing in
+different organisms first emerged upon isolation of
+mutants deficient in RNAi and related phenomena. Argonautes were then identified as components of RISCs and
+miRNPs that associate with siRNAs or miRNAs, and as
+proteins that interact with Dicer (reviewed in [7,34]). The
+number of Argonaute paralogs in different organisms
+ranges from 1 in S. pombe to 27 in C. elegans. The proteins
+can be divided into two subfamilies, referred to as Ago
+
+and Piwi. Humans, as with other mammals, contain four
+Ago proteins, hAgo1–4, expressed ubiquitously, and four
+Piwi family members of ill-defined function, expressed
+only in testis and hematopoetic stem cells. Five Argonaute proteins are present in Drosophila, two of which,
+Ago1 and Ago2, are best characterized in the context of
+RNAi and miRNA pathways [7,34].
+Recent structural studies of Ago proteins have greatly
+advanced our understanding of RNA-silencing reactions.
+Characteristic signatures of all eukaryotic Argonautes,
+100 kDa highly basic proteins, are the PAZ and Piwi
+domains, the former also found in Dicer proteins and the
+latter unique to the Ago/Piwi family. Three-dimensional
+structures of the 130 amino acid PAZ domains of
+Drosophila Ago1 and Ago2 revealed that they contain
+an oligonucleotide-binding (OB)-like nucleic-acid-binding fold [35–37]. These findings were soon followed by
+structures of hAgo1 PAZ in complex with a 7-bp siRNAlike duplex with a 2-nt 30 overhang [38] and Drosophila
+Ago2 PAZ complexed with single-stranded RNA or DNA
+pentamers [39]. In the hAgo1 PAZ–RNA structure, the
+2-nt overhang is inserted into a cleft positioned between a
+b barrel and a-b modules (previously identified in protein-only structures). In the 7-bp A-form duplex, the
+strand with an anchored 30 end is in contact with the
+positively charged top of the b barrel and the C-terminal
+tail of the PAZ domain [38] (Figure 4a). Notably, all
+important protein contacts are with the phosphodiester
+backbone, consistent with the largely sequence-
+
+Figure 4
+
+(a)
+
+(b)
+
+PAZ
+
+Mid
+
+Piwi
+
+A
+(Mid)
+
+B
+(Piwi)
+
+Piwi fold
+PfAgo
+
+AfPiwi
+
+EcRNaseHI
+Current Opinion in Structural Biology
+
+Structure of Argonaute proteins. (a) Structure of the hAgo2 PAZ domain in complex with a 7-bp siRNA-like duplex [38]. The PAZ domain
+resembles an OB-fold. Amino acid residues that recognize 30 -terminal overhang nucleotides, projecting from the cleft between a b barrel and
+a-b modules, are shown as orange sticks. The anchored strand is bound along the phosphate backbone. The projection of the PAZ domain is
+similar to that of PfAgo PAZ in (b). (b) Structures of PfAgo [40], AfPiwi [41] and Escherichia coli RNase HI (EcRNaseHI; PDB code 1RNH), shown
+in a similar view. Structurally conserved domains are traced in the same color and a schematic is shown below. In the PfAgo structure, the DDE
+triad amino acids are represented as orange balls; a pocket containing conserved amino acids involved in the binding of the 30 -protruding
+nucleotides is marked as a dotted circle.
+www.sciencedirect.com
+
+Current Opinion in Structural Biology 2005, 15:331–341
+
+336 Nucleic acids
+
+independent recognition of RNA during the reaction.
+Solution structures of the Drosophila Ago2 PAZ complexes confirm the docking of two 30 -terminal nucleotides
+in the cleft, which is lined with aromatic and hydrophobic
+residues [39].
+Eukaryotic Ago proteins and their isolated Piwi domains
+are difficult to prepare in a recombinant purified form.
+Help, rather unexpectedly, came from prokaryotes. The
+genomes of a few archaea and eubacteria encode proteins
+of unknown function but with identifiable Piwi domains.
+Song et al. [40] and, shortly thereafter, Parker et al. [41]
+reported the structures of two such proteins, PfAgo and
+AfPiwi, originating from the archaeons Pyrococcus furiosus
+and Achaeoglobus fulgidus, respectively. Three domains of
+PfAgo, N-terminal, middle and Piwi, form a crescentshaped base, with a PAZ domain sitting in the middle of
+the crescent above the Piwi domain (Figure 4b). The
+sequence of PfAgo PAZ is poorly conserved and the
+domain could only be recognized at the three-dimensional structure level. However, PfAgo PAZ contains
+aromatic amino acids that are the equivalent of those
+in eukaryotic proteins that bind the 30 overhang nucleotides of siRNA [40]. The second characterized protein,
+427 amino acid AfPiwi, is smaller than PfAgo, and structurally corresponds to the PfAgo middle and Piwi
+domains. In the AfPiwi structure, they are referred to
+as domains A and B, and jointly as the Piwi fold [41]
+(Figure 4b).
+Most interestingly, the Piwi domains of PfAgo and AfPiwi
+turned out to have a fold similar to that of RNase H, an
+enzyme that cleaves the RNA strand of DNA–RNA
+hybrids, arguing that the Piwi domain may represent
+an elusive ‘Slicer’ that is responsible for mRNA cleavage
+in RISCs [40,41]. RNase H and structurally related
+enzymes contain a triad of acidic amino acids (DDE)
+involved in catalysis. Equivalent amino acids appear to be
+conserved in PfAgo and most eukaryotic Argonaute proteins. Mutagenesis of human Ago2, the only one of the
+four mammalian Ago proteins able to support mRNA
+degradation upon incorporation into the RISC, demonstrated that the two aspartates of the DDE triad are
+indeed essential for mRNA cleavage ([42]; see also
+Update). The similar metal ion requirements and chemistry of RNA cleavage of RNase H and the RISC (both
+enzymes generate 50 -phosphate and 30 -OH termini)
+[43,44], and the demonstration that Ago2 is the only
+polypeptide present in the purified RISC of Drosophila
+[45], further support a role for Argonaute as Slicer (see
+also Update).
+
+siRNA strand selection and RNA-induced
+silencing complex assembly
+The products of dsRNA and pre-miRNA processing by
+Dicer are 20-bp duplexes with 30 overhangs. However,
+miRNAs and siRNAs present in functional RISCs have to
+Current Opinion in Structural Biology 2005, 15:331–341
+
+be single stranded for pairing with the target RNA. How
+are the duplexes converted to single-chain forms and how
+is a correct (i.e. antisense or ‘guide’) strand selected for
+loading onto the RISC? The latter question is of practical
+importance because artificial siRNAs can be directly used
+to trigger RNAi in order to knock-down genes. Measurements of the potency of different double- and singlestranded siRNAs (single-stranded siRNAs can induce
+RNAi, although with much lower efficiency than duplex
+forms), and sequence analysis of the duplexes formed by
+pre-miRNA processing by Dicer have indicated that the
+strand incorporated into the RISC or selected as an
+miRNA is generally the one whose 50 terminus is the
+thermodynamically less stable end of the duplex
+[46,47]. Investigating the mechanism of RISC assembly on synthetic siRNAs, Tomari et al. [48] found that,
+in Drosophila, the Dcr-2–R2D2 heterodimer senses the
+differential stability of the duplex ends and determines
+which siRNA strand gets selected. Photocross-linking to
+siRNAs containing 5-iodouracils at different positions
+demonstrated that Dicer binds to a less stable and
+R2D2 to a more stable siRNA end.
+Identification of the Dcr-2–R2D2–siRNA complex [22]
+and use of Drosophila strains with mutations in RNAi
+genes helped considerably in dissecting RISC assembly
+(reviewed in [28]). ATP-independent formation of the
+Dcr-2–R2D2–siRNA complex clearly represents an early
+step in the pathway. The complex probably positioned
+immediately downstream is the RISC loading complex,
+RLC. This contains additional unidentified proteins and
+its formation requires ATP. siRNA unwinding is initiated
+within the RLC and the process requires functional Ago2,
+which gradually displaces the Dcr-2–R2D2 heterodimer,
+as monitored by photocross-linking of proteins to RNA.
+The Dcr-2–R2D2–siRNA complex and the RLC are true
+assembly intermediates; both can be ‘chased’ into the
+active RISC [23,24,48].
+Functional RISCs able to cleave mRNA targets have
+been isolated in distinct forms with varying size and
+protein composition [7,28]. This may reflect their functional heterogeneity, but may also be due to differences in
+preparatory procedures. ‘Minimal’ active RISCs of 100–
+160 kDa may contain only Ago proteins associated with
+siRNAs [45,49], consistent with the notion that Argonautes catalyze mRNA cleavage. The largest complex, a
+holo-RISC identified in Drosophila, sediments on gradients at 80S [23] and probably corresponds to the
+ribosome-associated form of previously characterized
+300–500 kDa RISCs [29,30,50]. Proteins cofractionating
+with the holo-RISC, in addition to VIG, Tudor-SN,
+dFXR and Ago2, also include Dcr-2 and R2D2, indicating
+that these early siRNA-loading factors may have additional, still unidentified, functions in the RISC
+[23,24]. Within the RISC, mRNA cleavage occurs
+between the residues that are base paired to nucleotides
+www.sciencedirect.com
+
+siRNAs and miRNAs Filipowicz et al. 337
+
+10 and 11 of the siRNA, counting from its 50 end [51], and
+cleavage itself does not require ATP [7,24,50]. The
+guide siRNA remains associated with the complex, allowing it to carry out multiple rounds of RNA cleavage. The
+turnover of the enzyme is dependent on ATP, suggesting
+that release of the cleaved mRNA halves may involve an
+RNA helicase [28,52,53]. Several proteins implicated
+in RNAi in Drosophila and other organisms contain
+ATPase/RNA helicase domains, consistent with a
+requirement for ATP at different steps of the reaction
+[50]. However, which proteins participate in specific steps
+of RNAi is not yet established. Armitage, identified in
+Drosophila, is perhaps the best candidate for unwinding
+siRNAs, as extracts from armitage mutants are defective in
+steps downstream of Dcr-2–R2D2–siRNA complex
+assembly [24].
+The two Drosophila Dicers, Dcr-1 and Dcr-2, are not the
+only proteins with roles dedicated to either miRNA or
+RNAi pathways. In Drosophila, the primary function of
+Ago1 is in the miRNA pathway, whereas that of Ago2 is
+mainly confined to RNAi [29,54]; Ago proteins also have
+specialized functions in C. elegans [55]. Of the four human
+Ago proteins, hAgo1–4, only complexes incorporating
+either endogenous or recombinant hAgo2 are able to
+cleave mRNA targets [42,53]. Consistently, mouse
+Ago2 knockout cells are resistant to induction of the
+RNAi response [42]. On the other hand, all mammalian
+Ago proteins associate with endogenous miRNAs
+and appear to function in translational repression [42,
+53,56]. The inability of mammalian Ago1 and Ago3 to
+act as a Slicer is puzzling, because, like hAgo2, these
+proteins contain the conserved DDE triad. Subtle differences in amino acids other than DDE are probably
+responsible for the inactivity of hAgo1 and hAgo3
+([42]; see also Update).
+
+Function of miRNAs
+In contrast to the assembly of the mRNA-cleaving
+RISCs, relatively little is known about the assembly of
+functional miRNPs. However, the disposition of miRNA
+within the mature complex must be similar to that of
+siRNA within RISCs, because endogenous miRNPs
+can cleave RNA when confronted with targets perfectly
+complementary to the miRNA. Moreover, vertebrate
+miRNA miR-196 [57] and most known plant miRNAs
+[2,3] function by cleaving target mRNAs. Initial studies
+in C. elegans indicated that miRNAs downregulate protein
+accumulation without affecting the mRNA level and
+mRNA association with polysomes, suggesting that translation is either repressed at the step downstream of
+initiation or that proteins actually undergo synthesis
+but are rapidly degraded [1,2,58]. In Drosophila and
+mammalian cells also, the decrease in protein accumulation occurs without mRNA degradation [59–62]. The
+repressive effect of miRNAs can be mimicked in HeLa
+cells by the miRNA-independent tethering of human
+www.sciencedirect.com
+
+Argonautes hAgo2–4 to the mRNA reporter, showing that
+a major function of miRNAs is to guide their associated
+proteins to the mRNA [56]. These data also indicate that
+a default effect of depositing Ago proteins, including
+hAgo2 Slicer, on mRNA is translational repression, with
+cleavage requiring proper base pairing of guide and target
+RNAs.
+Two major characteristics of animal miRNA–mRNA
+interactions, established by experimental and bioinformatics approaches, are contiguous Watson–Crick base
+pairing in the miRNA 50 -proximal seed region and a lack
+of complementarity in a central part of the miRNA
+[2,63,64,65]. Whereas one perfectly complementary site
+is sufficient for siRNA- (or miRNA-) induced target RNA
+cleavage, effective translational repression of mRNA
+usually requires multiple imperfect sites recognized by
+the same or several different miRNAs [60,63] (for a
+discussion of exceptions to this generalization, see
+[65]). The molecular basis of this apparent miRNP
+cooperativity remains unknown.
+Although none of the known signatures of Argonaute
+proteins provides any clue as to their possible role in
+effecting translational repression, one of the many proteins that associates with Argonautes and miRNAs,
+FMRP/dFXR [29,32], is a possible candidate for mediating at least some translational repression functions.
+FMRP is known to act as a regulator of mRNA translation,
+and is strongly implicated in promoting synaptic maturation and function. Notably, FMRP is most abundant in
+brain and a large number of miRNAs are also specifically
+expressed in this tissue [4,33].
+
+Proteins regulating RNA silencing
+Studies of RNA silencing in different organisms have
+revealed its important role in taming transposon movement, in antiviral defense and in control of gene expression at different levels. Not surprisingly then, RNAi and
+miRNA reactions are frequently subject to elaborate
+regulation. For example, many plant [3] and some
+animal [66,67] viruses encode suppressors of post-transcriptional RNA silencing that interfere with the accumulation or function of siRNAs. Recent crystallographic
+studies have revealed how the p19 suppressor protein of
+Tombusviridae elegantly and effectively sequesters
+siRNAs aimed at destroying viral RNA [68,69]. In
+the structures, two pairs of tryptophan residues of the
+p19 dimer are positioned on both sides of the siRNA
+duplex, stacking on the top of terminal base pairs and
+measuring the distance between the ends of the RNA
+duplex (Figure 5). As a consequence, only 19–21-bp
+siRNAs are efficiently bound, independent of the presence of 30 overhangs. Most of the protein contacts occur
+with the backbone phosphates and sugar 20 -OH groups
+of the RNA, thereby explaining the absence of sequence
+specificity.
+Current Opinion in Structural Biology 2005, 15:331–341
+
+338 Nucleic acids
+
+Figure 5
+
+Structure of the viral p19 suppressor in complex with 19-bp siRNA
+([69]; see also [68]). The p19 dimer binds siRNA with the b-sheet
+surface interacting with the shallow minor groove of the RNA helix. Two
+pairs of tryptophan residues, shown as red sticks, are positioned on both
+sides of the siRNA duplex, stacking on the top of terminal base pairs.
+p19 monomers are colored light and dark blue.
+
+Genetic screens in C. elegans identified two proteins, ERI1 and RRF-3, mutations in which strongly enhance RNAi.
+ERI-1 contains a conserved DEDDh-like motif also
+found in 30 ! 50 exonucleases, and the C. elegans protein
+and its human ortholog degrade siRNAs in vitro in a
+reaction dependent on 30 overhangs [70]. ERI-1 is highly
+expressed in neurons and may be responsible for the
+relative inefficiency of RNAi in these cells. rrf-3 encodes
+one of the four putative RNA-dependent RNA polymerases (RdRPs) of C. elegans [71]. RdRPs are essential
+for many forms of RNA silencing in plants, worms and
+Neurospora crassa, and are also implicated in amplification
+and spreading of the RNAi response [3]. The inhibitory
+effect of RRF-3 on RNAi is most readily explained by the
+protein being a defective enzyme, acting as a dominant
+negative factor [71].
+
+Conclusions and prospects
+The discovery of RNA-guided silencing mechanisms
+revolutionized our understanding of the control of gene
+expression and emphasized once more the crucial regulatory role played by RNA. During the past 5–6 years,
+Current Opinion in Structural Biology 2005, 15:331–341
+
+intensive genetic, biochemical and computational
+approaches have cataloged hundreds of different players,
+both proteins and RNAs, that take part in the small RNA
+games. First high-resolution structures have also
+appeared, providing some mechanistic understanding of
+the reactions. The breadth of small-RNA-mediated regulation was not anticipated. Current predictions put the
+number of different mammalian miRNAs at 500 or more
+[72] and the percentage of genes regulated by them is
+placed at 25–30% [73]. miRNAs encoded in viral genomes, probably regulating both viral and host gene
+expression, have also been reported [74]. Moreover,
+recent experiments indicate that mammalian miRNAs
+can reduce the levels of many of their target mRNAs that
+do not have fully complementary sites [75].
+New modes of biogenesis of small RNA regulators are
+emerging, as exemplified by the endogenous trans-acting
+siRNAs processed from double-stranded forms of noncoding RNAs expressed in plants [76,77]. Single dsRNA
+of this kind, probably formed by the action of RdRPs, can
+give rise to multiple siRNAs targeting many different
+genes. Equally intriguing is the identification in C. elegans
+of hundreds of endogenous siRNAs precisely complementary to protein-coding regions of 500 different
+genes, arguing that regulation of endogenous genes by
+RNAi is also common in animals [78]. New connections
+between RNA silencing and epigenetic mechanisms, a
+topic only briefly mentioned in this review, are also
+emerging. Identification of the plant miRNA that guides
+gene-specific DNA methylation in Arabidopsis by associating with the nascent mRNA transcript in the nucleus,
+and of an additional RNA polymerase (Pol IV) involved in
+siRNA-mediated silencing of transposons and repetitive
+DNA in plants are just two examples of the progress in
+this area [79,80]. Without doubt, small RNAs will continue to surprise us for many years to come.
+
+Update
+Three recent papers provide important additional information about the structure and function of Argonaute
+proteins. Parker et al. [81] and Ma et al. [82] solved the
+structure of AfPiwi complexed with siRNA mimics. In the
+structure, the phosphorylated 50 -terminal nucleotide of
+the guide strand is non-base-paired to the complementary
+strand and is anchored, in the ‘flipped’ conformation,
+within the highly conserved basic pocket of the protein.
+The additional identified siRNA–Piwi contacts involve
+the sugar-phosphate backbone of four 50 -proximal nucleotides (positions 2–5) of the guide strand. Presentation of
+these nucleotides on the Piwi surface in a quasi-helical
+form suitable for base pairing is consistent with the 50 end
+of both miRNAs and siRNAs representing a nucleation
+region for pairing with target mRNAs. Modeling longer
+A-form helices into the AfPiwi structures placed the mRNA
+target scissile phosphate in proximity to the proposed
+catalytic region. Hence, the data reinforce the idea that
+www.sciencedirect.com
+
+siRNAs and miRNAs Filipowicz et al. 339
+
+the mRNA cleavage site is determined by measuring the
+fixed distance from the anchored siRNA 50 end. This
+conclusion is also supported by the work of Rivas et al.
+[83]. These authors found that an active RISC can be
+reconstituted from bacterially expressed human Ago2 and
+an siRNA. When siRNAs shorter than 21 nt were used for
+RISC assembly, the cleavage site of the substrate was
+shifted by precisely the number of bases removed from
+the siRNA 50 end. Reconstitution of the active RISC with
+a recombinant hAgo2 represents a final proof that Argonaute is indeed a catalytic engine of the RISC. However,
+mutagenesis indicates that a DDH rather than DDE triad
+of amino acids is required for catalysis by the recombinant
+hAgo2.
+The assembly and activity of RISC and RISC-like complexes are also reviewed in a recent article by Tomari and
+Zamore [84].
+
+Acknowledgements
+We apologize to many authors whose work could not be referenced
+due to space limitations. FAK is the recipient of a long-term fellowship
+from the Human Frontier Science Program. The Friedrich Miescher
+Institute for Biomedical Research is a part of the Novartis Research
+Foundation.
+
+References and recommended reading
+Papers of particular interest, published within the annual period of
+review, have been highlighted as:
+ of special interest
+ of outstanding interest
+1.
+
+Ambros V: The functions of animal microRNAs. Nature 2004,
+431:350-355.
+
+2.
+
+Bartel DP: MicroRNAs: genomics, biogenesis, mechanism, and
+function. Cell 2004, 116:281-297.
+
+3.
+
+Baulcombe D: RNA silencing in plants. Nature 2004,
+431:356-363.
+
+4.
+
+He L, Hannon GJ: MicroRNAs: small RNAs with a big role in
+gene regulation. Nat Rev Genet 2004, 5:522-531.
+
+5.
+
+Lippman Z, Martienssen R: The role of RNA interference in
+heterochromatic silencing. Nature 2004, 431:364-370.
+
+6.
+
+Matzke MA, Birchler JA: RNAi-mediated pathways in the
+nucleus. Nat Rev Genet 2005, 6:24-35.
+
+7.
+
+Meister G, Tuschl T: Mechanisms of gene silencing by
+double-stranded RNA. Nature 2004, 431:343-349.
+
+8.
+
+Cullen BR: Transcription and processing of human
+microRNA precursors. Mol Cell 2004, 16:861-865.
+
+9.
+
+
+Lee Y, Ahn C, Han J, Choi H, Kim J, Yim J, Lee J, Provost P,
+Radmark O, Kim S et al.: The nuclear RNase III Drosha initiates
+microRNA processing. Nature 2003, 425:415-419.
+This paper describes the identification of Drosha as an enzyme that
+processes primary miRNA transcripts (pri-miRNAs) into 70-nt premiRNA hairpins; these are further processed into mature miRNAs by
+Dicer in the cytoplasm.
+10. Landthaler M, Yalcin A, Tuschl T: The human DiGeorge
+
+syndrome critical region gene 8 and its D. melanogaster
+homolog are required for miRNA biogenesis. Curr Biol 2004,
+14:2162-2167.
+See annotation to [13].
+
+11. Han J, Lee Y, Yeom KH, Kim YK, Jin H, Kim VN: The Drosha
+DGCR8 complex in primary microRNA processing. Genes Dev
+2004, 18:3016-3027.
+See annotation to [13].
+www.sciencedirect.com
+
+12. Denli AM, Tops BB, Plasterk RH, Ketting RF, Hannon GJ:
+
+Processing of primary microRNAs by the Microprocessor
+complex. Nature 2004, 432:231-235.
+See annotation to [13].
+13. Gregory RI, Yan KP, Amuthan G, Chendrimada T, Doratotaj B,
+
+Cooch N, Shiekhattar R: The Microprocessor complex
+mediates the genesis of microRNAs. Nature 2004, 432:235-240.
+Several papers [10–13] identify proteins Pasha and DGCR8, which
+function together with Drosha in processing pri-miRNAs to pre-miRNAs
+in Drosophila and mammals, respectively. Interestingly, the DGCR8 gene
+is one of the few genes located in a chromosomal region deleted in
+DiGeorge syndrome.
+14. Bracht J, Hunter S, Eachus R, Weeks P, Pasquinelli AE:
+Trans-splicing and polyadenylation of let-7 microRNA
+primary transcripts. RNA 2004, 10:1586-1594.
+15. Kurihara Y, Watanabe Y: Arabidopsis micro-RNA biogenesis
+through Dicer-like 1 protein functions. Proc Natl Acad Sci USA
+2004, 101:12753-12758.
+16. Carmell MA, Hannon GJ: RNase III enzymes and the initiation
+of gene silencing. Nat Struct Mol Biol 2004, 11:214-218.
+17. Zhang H, Kolb FA, Jaskiewicz L, Westhof E, Filipowicz W:
+ Single processing center models for human Dicer and
+bacterial RNase III. Cell 2004, 118:57-68.
+This paper describes a model of Dicer function in dsRNA and pre-miRNA
+processing, based on biochemical experiments and structural modeling.
+The Dicer mechanism is similar to that proposed for bacterial RNase III.
+18. Blaszczyk J, Tropea JE, Bubunenko M, Routzahn KM, Waugh DS,
+Court DL, Ji X: Crystallographic and modeling studies of RNase
+III suggest a mechanism for double-stranded RNA cleavage.
+Structure 2001, 9:1225-1236.
+19. Zhang H, Kolb FA, Brondani V, Billy E, Filipowicz W: Human Dicer
+preferentially cleaves dsRNAs at their termini without a
+requirement for ATP. EMBO J 2002, 21:5875-5885.
+20. Lee YS, Nakahara K, Pham JW, Kim K, He Z, Sontheimer EJ,
+ Carthew RW: Distinct roles for Drosophila Dicer-1 and
+Dicer-2 in the siRNA/miRNA silencing pathways. Cell 2004,
+117:69-81.
+This paper, together with [23], combines genetic and biochemical
+approaches to demonstrate that two Drosophila Dicers, Dcr-1 and
+Dcr-2, have specialized functions in miRNA and RNAi pathways, respectively. These papers also show that Dicer is important for RISC function
+and that RISC assembly follows an orderly pathway that can be followed
+on native gels.
+21. Ketting RF, Fischer SE, Bernstein E, Sijen T, Hannon GJ,
+Plasterk RH: Dicer functions in RNA interference and in
+synthesis of small RNA involved in developmental timing
+in C. elegans. Genes Dev 2001, 15:2654-2659.
+22. Liu Q, Rand TA, Kalidas S, Du F, Kim HE, Smith DP, Wang X:
+ R2D2, a bridge between the initiation and effector steps of the
+Drosophila RNAi pathway. Science 2003, 301:1921-1925.
+This paper describes the identification of the R2D2 protein, which works
+together with Drosophila Dcr-2 during the incorporation of siRNAs into the
+RISC. It is shown that Dcr-2 alone can cleave dsRNA, but the Dcr-2–R2D2
+complex is required for productive interaction with siRNAs.
+23. Pham JW, Pellino JL, Lee YS, Carthew RW, Sontheimer EJ:
+ A Dicer-2-dependent 80s complex cleaves targeted mRNAs
+during RNAi in Drosophila. Cell 2004, 117:83-94.
+See annotation to [20].
+24. Tomari Y, Du T, Haley B, Schwarz DS, Bennett R, Cook HA,
+ Koppetsch BS, Theurkauf WE, Zamore PD: RISC assembly
+defects in the Drosophila RNAi mutant armitage. Cell 2004,
+116:831-841.
+This paper describes the stepwise assembly of the RISC complex in
+Drosophila and provides evidence of the requirement for an RNA helicase/ATPase Armitage at the early step of assembly.
+25. Tabara H, Yigit E, Siomi H, Mello CC: The dsRNA binding protein
+RDE-4 interacts with RDE-1, DCR-1, and a DExH-box helicase
+to direct RNAi in C. elegans. Cell 2002, 109:861-871.
+26. Doi N, Zenno S, Ueda R, Ohki-Hamazaki H, Ui-Tei K, Saigo K:
+Short-interfering-RNA-mediated gene silencing in mammalian
+cells requires Dicer and eIF2C translation initiation factors.
+Curr Biol 2003, 13:41-46.
+Current Opinion in Structural Biology 2005, 15:331–341
+
+340 Nucleic acids
+
+27. Tahbaz N, Kolb FA, Zhang H, Jaronczyk K, Filipowicz W,
+Hobman TC: Characterization of the interactions between
+mammalian PAZ PIWI domain proteins and Dicer. EMBO Rep
+2004, 5:189-194.
+28. Sontheimer EJ: Assembly and function of RNA silencing
+complexes. Nat Rev Mol Cell Biol 2005, 6:127-138.
+29. Caudy AA, Myers M, Hannon GJ, Hammond SM: Fragile
+X-related protein and VIG associate with the RNA interference
+machinery. Genes Dev 2002, 16:2491-2496.
+30. Caudy AA, Ketting RF, Hammond SM, Denli AM, Bathoorn AM,
+Tops BB, Silva JM, Myers MM, Hannon GJ, Plasterk RH: A
+micrococcal nuclease homologue in RNAi effector
+complexes. Nature 2003, 425:411-414.
+31. Mourelatos Z, Dostie J, Paushkin S, Sharma A, Charroux B, Abel L,
+Rappsilber J, Mann M, Dreyfuss G: miRNPs: a novel class of
+ribonucleoproteins containing numerous microRNAs.
+Genes Dev 2002, 16:720-728.
+32. Ishizuka A, Siomi MC, Siomi H: A Drosophila fragile X protein
+interacts with components of RNAi and ribosomal proteins.
+Genes Dev 2002, 16:2497-2508.
+33. Jin P, Zarnescu DC, Ceman S, Nakamoto M, Mowrey J, Jongens
+TA, Nelson DL, Moses K, Warren ST: Biochemical and genetic
+interaction between the fragile X mental retardation protein
+and the microRNA pathway. Nat Neurosci 2004, 7:113-117.
+34. Carmell MA, Xuan Z, Zhang MQ, Hannon GJ: The Argonaute
+family: tentacles that reach into RNAi, developmental control,
+stem cell maintenance, and tumorigenesis. Genes Dev 2002,
+16:2733-2742.
+
+described in [42], indicated that two aspartates of the Piwi domain DDE
+triad, previously shown to be important for catalysis by RNase H, are
+essential for mRNA cleavage by the reconstituted RISC.
+43. Martinez J, Tuschl T: RISC is a 5( phosphomonoester
+producing RNA endonuclease. Genes Dev 2004, 18:975-980.
+This paper, together with [44,52], describes a detailed analysis of the
+enzymatic properties of the RISC endonuclease and requirements for
+productive siRNA–RNA target interaction within the RISC.
+44. Schwarz DS, Tomari Y, Zamore PD: The RNA-induced silencing
+
+complex is a Mg2+-dependent endonuclease. Curr Biol 2004,
+14:787-791.
+See annotation to [43].
+45. Rand TA, Ginalski K, Grishin NV, Wang X: Biochemical
+identification of Argonaute 2 as the sole protein required for
+RNA-induced silencing complex activity. Proc Natl Acad Sci
+USA 2004, 101:14385-14389.
+46. Khvorova A, Reynolds A, Jayasena SD: Functional siRNAs and
+ miRNAs exhibit strand bias. Cell 2003, 115:209-216.
+See annotation to [47].
+47. Schwarz DS, Hutvagner G, Du T, Xu Z, Aronin N, Zamore PD:
+ Asymmetry in the assembly of the RNAi enzyme complex.
+Cell 2003, 115:199-208.
+This article, together with [46], shows that selection of the siRNA strand
+incorporated into the RISC is specified by the relative strength of base
+pairing at the two ends of the siRNA duplex. The selected strand is
+generally the one whose 50 terminus is at the thermodynamically less
+stable end of the siRNA.
+
+36. Song JJ, Liu J, Tolia NH, Schneiderman J, Smith SK, Martienssen
+RA, Hannon GJ, Joshua-Tor L: The crystal structure of the
+Argonaute2 PAZ domain reveals an RNA binding motif in RNAi
+effector complexes. Nat Struct Biol 2003, 10:1026-1032.
+
+48. Tomari Y, Matranga C, Haley B, Martinez N, Zamore PD:
+ A protein sensor for siRNA asymmetry. Science 2004,
+306:1377-1380.
+This paper describes how the Dcr-2–R2D2 heterodimer senses the
+differential stability of the duplex ends and determines which siRNA
+strand is incorporated into the RISC. Photocross-linking to siRNAs containing 5-iodouracils at different positions demonstrated that Dicer binds
+to a less stable and R2D2 to a more stable siRNA end. siRNA unwinding
+requires a functional Ago2, which gradually displaces the Dcr-2–R2D2
+heterodimer.
+
+37. Yan KS, Yan S, Farooq A, Han A, Zeng L, Zhou MM: Structure and
+conserved RNA binding of the PAZ domain. Nature 2003,
+426:468-474.
+
+49. Martinez J, Patkaniowska A, Urlaub H, Luhrmann R, Tuschl T:
+Single-stranded antisense siRNAs guide target RNA cleavage
+in RNAi. Cell 2002, 110:563-574.
+
+38. Ma JB, Ye K, Patel DJ: Structural basis for overhang-specific
+ small interfering RNA recognition by the PAZ domain.
+Nature 2004, 429:318-322.
+This paper describes the crystal structure of human Ago1 PAZ in complex
+with a 7-bp siRNA-like duplex with 2-nt 30 overhangs. The solution
+structure of Drosophila Ago2 PAZ complexed with single-stranded
+RNA or DNA pentamers is reported in [39]. Both structures indicate that
+PAZ domains recognize 2-nt 30 protruding ends of siRNAs and doublestranded forms of miRNAs.
+
+50. Nykanen A, Haley B, Zamore PD: ATP requirements and small
+interfering RNA structure in the RNA interference pathway.
+Cell 2001, 107:309-321.
+
+35. Lingel A, Simon B, Izaurralde E, Sattler M: Structure and
+nucleic-acid binding of the Drosophila Argonaute 2 PAZ
+domain. Nature 2003, 426:465-469.
+
+39. Lingel A, Simon B, Izaurralde E, Sattler M: Nucleic acid 3(-end
+
+recognition by the Argonaute2 PAZ domain. Nat Struct Mol Biol
+2004, 11:576-577.
+See annotation to [38].
+40. Song JJ, Smith SK, Hannon GJ, Joshua-Tor L: Crystal structure
+ of Argonaute and its implications for RISC slicer activity.
+Science 2004, 305:1434-1437.
+Two papers report crystal structures of two prokaryotic Ago-like proteins
+from P. furiosus [40] and A. fulgidus [41]. Most interestingly, the Piwi
+domains of both proteins have a fold similar to that of RNase H. The P.
+furiosus protein also contains a PAZ domain with conserved aromatic
+amino acids the counterparts of which in eukaryotic proteins bind the
+siRNA 30 overhang nucleotides.
+41. Parker JS, Roe SM, Barford D: Crystal structure of a PIWI
+
+protein suggests mechanisms for siRNA recognition and
+slicer activity. EMBO J 2004, 23:4727-4737.
+See annotation to [40].
+42. Liu J, Carmell MA, Rivas FV, Marsden CG, Thomson JM,
+ Song JJ, Hammond SM, Joshua-Tor L, Hannon GJ: Argonaute2
+is the catalytic engine of mammalian RNAi. Science 2004,
+305:1437-1441.
+Together with [53], this paper provides compelling evidence that Ago2 is
+the only one of the four mammalian Ago proteins able to support mRNA
+cleavage upon incorporation into the RISC. Mutagenesis of human Ago2,
+Current Opinion in Structural Biology 2005, 15:331–341
+
+51. Elbashir SM, Lendeckel W, Tuschl T: RNA interference is
+mediated by 21- and 22-nucleotide RNAs. Genes Dev 2001,
+15:188-200.
+52. Haley B, Zamore PD: Kinetic analysis of the RNAi enzyme
+
+complex. Nat Struct Mol Biol 2004, 11:599-606.
+See annotation to [43].
+53. Meister G, Landthaler M, Patkaniowska A, Dorsett Y, Teng G,
+ Tuschl T: Human Argonaute2 mediates RNA cleavage
+targeted by miRNAs and siRNAs. Mol Cell 2004,
+15:185-197.
+See annotation to [42].
+54. Okamura K, Ishizuka A, Siomi H, Siomi MC: Distinct roles for
+
+Argonaute proteins in small RNA-directed RNA cleavage
+pathways. Genes Dev 2004, 18:1655-1666.
+This article shows that Drosophila Ago1 and Ago2 have specialized
+functions in miRNA and RNAi pathways, respectively. Importantly,
+embryos lacking Ago2 are still capable of miRNA-directed target RNA
+cleavage, which indicates that, in Drosophila, both Ago1 and Ago2 have
+Slicer activity.
+55. Grishok A, Pasquinelli AE, Conte D, Li N, Parrish S, Ha I,
+Baillie DL, Fire A, Ruvkun G, Mello CC: Genes and mechanisms
+related to RNA interference regulate expression of the small
+temporal RNAs that control C. elegans developmental timing.
+Cell 2001, 106:23-34.
+56. Pillai RS, Artus CG, Filipowicz W: Tethering of human Ago
+
+proteins to mRNA mimics the miRNA-mediated repression of
+protein synthesis. RNA 2004, 10:1518-1525.
+This paper reports that the repressive effect of miRNAs on protein
+synthesis can be mimicked in HeLa cells by the miRNA-independent
+www.sciencedirect.com
+
+siRNAs and miRNAs Filipowicz et al. 341
+
+tethering of human Argonautes hAgo2–4 to the mRNA reporter. This
+indicates that a major function of miRNAs is to guide their associated
+proteins to the mRNA.
+57. Yekta S, Shih IH, Bartel DP: MicroRNA-directed cleavage of
+HOXB8 mRNA. Science 2004, 304:594-596.
+58. Olsen PH, Ambros V: The lin-4 regulatory RNA controls
+developmental timing in Caenorhabditis elegans by blocking
+LIN-14 protein synthesis after the initiation of translation.
+Dev Biol 1999, 216:671-680.
+59. Brennecke J, Hipfner DR, Stark A, Russell RB, Cohen SM: bantam
+encodes a developmentally regulated microRNA that controls
+cell proliferation and regulates the proapoptotic gene hid in
+Drosophila. Cell 2003, 113:25-36.
+60. Doench JG, Petersen CP, Sharp PA: siRNAs can function as
+miRNAs. Genes Dev 2003, 17:438-442.
+61. Zeng Y, Yi R, Cullen BR: MicroRNAs and small interfering
+RNAs can inhibit mRNA expression by similar mechanisms.
+Proc Natl Acad Sci USA 2003, 100:9779-9784.
+62. Nelson PT, Hatzigeorgiou AG, Mourelatos Z: miRNP:mRNA
+association in polyribosomes in a human neuronal cell line.
+RNA 2004, 10:387-394.
+63. Doench JG, Sharp PA: Specificity of microRNA target selection
+
+in translational repression. Genes Dev 2004, 18:504-511.
+Two articles [63,65] describe the first detailed experimental validation
+of the particular importance to translational repression of the perfect
+Watson–Crick base pairing between the 50 -proximal region of miRNA and
+its RNA target.
+64. Kloosterman WP, Wienholds E, Ketting RF, Plasterk RH:
+Substrate requirements for let-7 function in the developing
+zebrafish embryo. Nucleic Acids Res 2004, 32:6284-6291.
+65. Kiriakidou M, Nelson PT, Kouranov A, Fitziev P, Bouyioukos C,
+
+Mourelatos Z, Hatzigeorgiou A: A combined computationalexperimental approach predicts human microRNA targets.
+Genes Dev 2004, 18:1165-1178.
+See annotation to [63].
+66. Li H, Li WX, Ding SW: Induction and suppression of RNA
+silencing by an animal virus. Science 2002, 296:1319-1321.
+67. Lu S, Cullen BR: Adenovirus VA1 noncoding RNA can inhibit
+small interfering RNA and microRNA biogenesis. J Virol 2004,
+78:12868-12876.
+68. Vargason JM, Szittya G, Burgyan J, Tanaka Hall TM: Size
+ selective recognition of siRNA by an RNA silencing
+suppressor. Cell 2003, 115:799-811.
+See annotation to [69].
+69. Ye K, Malinina L, Patel DJ: Recognition of small interfering
+ RNA by a viral suppressor of RNA silencing. Nature 2003,
+426:874-878.
+Two papers [68,69] describe crystal structures of the p19 viral RNAi
+suppressor dimer bound to siRNA. In the structure, two pairs of tryptophan residues are positioned on both sides of the siRNA duplex, stacking
+on the top of terminal base pairs and effectively preventing the siRNA
+from functioning in RNAi.
+70. Kennedy S, Wang D, Ruvkun G: A conserved siRNA-degrading
+
+RNase negatively regulates RNA interference in C. elegans.
+Nature 2004, 427:645-649.
+A genetic screen in C. elegans led to the identification of ERI-1, mutations
+in which strongly enhance RNAi. eri-1 and its human counterpart encode
+an exonuclease that degrades siRNAs in vitro in a reaction dependent on
+30 overhangs. Thus, this enzyme may modulate levels of siRNAs (and
+miRNAs) in the cell.
+
+www.sciencedirect.com
+
+71. Simmer F, Tijsterman M, Parrish S, Koushika SP, Nonet ML, Fire A,
+Ahringer J, Plasterk RH: Loss of the putative RNA-directed RNA
+polymerase RRF-3 makes C.elegans hypersensitive to RNAi.
+Curr Biol 2002, 12:1317-1319.
+72. Berezikov E, Guryev V, van de Belt J, Wienholds E,
+Plasterk RH, Cuppen E: Phylogenetic shadowing and
+computational identification of human microRNA genes.
+Cell 2005, 120:21-24.
+73. Lewis BP, Burge CB, Bartel DP: Conserved seed pairing, often
+flanked by adenosines, indicates that thousands of human
+genes are microRNA targets. Cell 2005, 120:15-20.
+74. Pfeffer S, Zavolan M, Grasser FA, Chien M, Russo JJ, Ju J,
+John B, Enright AJ, Marks D, Sander C et al.: Identification of
+virus-encoded microRNAs. Science 2004, 304:734-736.
+75. Lim LP, Lau NC, Garrett-Engele P, Grimson A, Schelter JM, Castle
+J, Bartel DP, Linsley PS, Johnson JM: Microarray analysis shows
+that some microRNAs downregulate large numbers of target
+mRNAs. Nature 2005, 433:769-773.
+76. Vazquez F, Vaucheret H, Rajagopalan R, Lepers C, Gasciolli V,
+Mallory AC, Hilbert JL, Bartel DP, Crete P: Endogenous transacting siRNAs regulate the accumulation of Arabidopsis
+mRNAs. Mol Cell 2004, 16:69-79.
+77. Peragine A, Yoshikawa M, Wu G, Albrecht HL, Poethig RS: SGS3
+and SGS2/SDE1/RDR6 are required for juvenile development
+and the production of trans-acting siRNAs in Arabidopsis.
+Genes Dev 2004, 18:2368-2379.
+78. Ambros V, Lee RC, Lavanway A, Williams PT, Jewell D:
+MicroRNAs and other tiny endogenous RNAs in C. elegans.
+Curr Biol 2003, 13:807-818.
+79. Bao N, Lye KW, Barton MK: MicroRNA binding sites in
+Arabidopsis class III HD-ZIP mRNAs are required for
+methylation of the template chromosome. Dev Cell 2004,
+7:653-662.
+80. Herr AJ, Jensen MB, Dalmay T, Baulcombe DC: RNA polymerase
+IV directs silencing of endogenous DNA. Science 2005,
+308:118-120.
+81. Parker JS, Roe SM, Barford D: Structural insights into mRNA
+ recognition from a PIWI domain-siRNA guide complex.
+Nature 2005, 434:663-666.
+This paper, together with [82], reports the structure of the archaeal Piwi
+protein complexed with siRNA mimics. The structures identify a highly
+conserved basic pocket, which serves as an anchor site for the phosphorylated 50 -terminal nucleotide of the siRNA guide strand. The identified siRNA–Piwi contacts also involve four additional 50 -proximal
+nucleotides (positions 2–5) of the guide strand, consistent with the 50
+end of both miRNAs and siRNAs representing a nucleation region for
+pairing with target mRNAs.
+82. Ma JB, Yuan YR, Meister G, Pei Y, Tuschl T, Patel DJ: Structural
+ basis for 5’-end-specific recognition of guide RNA by the A.
+fulgidus Piwi protein. Nature 2005, 434:666-670.
+See annotation to [81].
+83. Rivas FV, Tolia NH, Song JJ, Aragon JP, Liu J, Hannon GJ,
+ Joshua-Tor L: Purified Argonaute2 and an siRNA form
+recombinant human RISC. Nat Struct Mol Biol 2005, 12:340-349.
+This paper describes the reconstitution of an active RISC from bacterially
+expressed human Ago2 and an siRNA. This represents a final proof that
+Argonaute is indeed a catalytic engine of the RISC. Mutagenesis of the
+recombinant hAgo2 indicated that a DDH rather than DDE triad of amino
+acids is required for catalysis.
+84. Tomari Y, Zamore PD: Perspective: machines for RNAi.
+Genes Dev 2005, 19:517-529.
+
+Current Opinion in Structural Biology 2005, 15:331–341
+
+

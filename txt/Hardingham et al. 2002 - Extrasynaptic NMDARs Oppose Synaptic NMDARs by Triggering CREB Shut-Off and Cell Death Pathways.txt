@@ -1,0 +1,1589 @@
+articles
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+Extrasynaptic NMDARs oppose
+synaptic NMDARs by triggering CREB
+shut-off and cell death pathways
+Giles E. Hardingham1, Yuko Fukunaga1,2 and Hilmar Bading1,3
+1 MRC Laboratory of Molecular Biology, Hills Road, Cambridge CB2 2QH, UK
+2 Present address: Membrane Dynamics Project, RIKEN, Harima Institute, Hyogo 679-5148, Japan
+3 Present address: Department of Neurobiology, Interdisciplinary Center for Neurosciences (IZN), University of Heidelberg,
+
+Im Neuenheimer Feld 364, 69120 Heidelberg, Germany
+Correspondence should be addressed to H.B. (Hilmar.Bading@uni-hd.de)
+
+Published online: 15 April 2002, DOI: 10.1038/nn835
+Here we report that synaptic and extrasynaptic NMDA (N-methyl-D-aspartate) receptors have
+opposite effects on CREB (cAMP response element binding protein) function, gene regulation and
+neuron survival. Calcium entry through synaptic NMDA receptors induced CREB activity and brainderived neurotrophic factor (BDNF) gene expression as strongly as did stimulation of L-type calcium
+channels. In contrast, calcium entry through extrasynaptic NMDA receptors, triggered by bath glutamate exposure or hypoxic/ischemic conditions, activated a general and dominant CREB shut-off pathway that blocked induction of BDNF expression. Synaptic NMDA receptors have anti-apoptotic
+activity, whereas stimulation of extrasynaptic NMDA receptors caused loss of mitochondrial
+membrane potential (an early marker for glutamate-induced neuronal damage) and cell death.
+Specific blockade of extrasynaptic NMDA receptors may effectively prevent neuron loss following
+stroke and other neuropathological conditions associated with glutamate toxicity.
+
+Calcium signals are key mediators of numerous adaptive changes
+in the nervous system that are initiated by electrical activity1–3.
+To control multiple processes using a single second messenger,
+neurons exploit the spatial and temporal differences of calcium
+signals associated with electrical activity4–12. The site of calcium
+entry can determine the biological outcome of calcium signaling, as shown by site-specific differences in the regulation of
+CREB-mediated transcription. Calcium flux though L-type calcium channels is a potent activator of CREB, which in turn
+increases the expression of the gene encoding BDNF. In contrast,
+stimulation of NMDA receptors by glutamate bath application
+activates CREB only transiently and does not induce BDNF
+expression4,8,13. These findings seem to indicate that L-type calcium channels have a privileged role in CREB-mediated gene
+expression4,8,13–15. However, the stimulation methods used in
+these studies—KCl-induced membrane depolarization or glutamate bath application—only approximate physiological stimuli
+and thus provide limited insight into how synaptic activity controls nuclear signaling and transcription.
+We therefore set up experimental conditions to analyze gene
+regulation by glutamatergic synaptic transmission. We found that
+stimulation of NMDA receptors by synaptic activity robustly activated CREB and CREB target gene expression. Genomic events
+induced by synaptic activity were initiated by calcium flux through
+synaptic NMDA receptors rather than through L-type calcium
+channels. The failure of glutamate to activate CREB function was
+due to specific coupling of extrasynaptic NMDA receptors to a
+CREB shut-off pathway that antagonized the CREB-promoting
+nature neuroscience • volume 5 no 5 • may 2002
+
+activity of synaptic NMDA receptors. The cellular consequences
+(survival versus death) of NMDA receptor activation were also
+specified by the location of the receptors activated rather than by
+their degree of stimulation. Our results suggest the existence of
+functionally distinct synaptic and extrasynaptic NMDA receptor
+signaling complexes with directly opposing effects on CREB function, gene regulation and neuronal fate.
+
+RESULTS
+We first investigated the calcium-dependent control of genomic events in response to synaptically evoked bursts of action
+potentials by blocking GABA (γ-aminobutyric acid)A receptors with bicuculline in hippocampal cultures. As the hippocampal cultures contained inhibitory interneurons (∼10%)
+that imposed a tonic inhibition on the neuronal network,
+blocking GABAA receptor function caused the neurons to fire
+synchronous bursts of action potentials 9. The bicucullineinduced bursts of action potentials occurred periodically with
+low frequencies (0.05–0.15 Hz; Fig. 1a) and are associated with
+global calcium transients caused by calcium flux through
+synaptic NMDA receptors9.
+We also converted the bicuculline-induced ‘oscillation type’
+calcium signals into elevated ‘plateau-type’ calcium signals by
+supplementing the bicuculline treatment with 2.5 mM 4aminopyridine (4-AP)9, a weak potassium-channel blocker. This
+treatment markedly increased the burst frequency (Fig. 1b) and
+resulted in elevated calcium plateaus induced by synaptic NMDA
+receptors (see Fig. 3a for typical calcium plateaus induced by
+405
+
+articles
+
+Time (s)
+0
+40
+
+1
+
+0
+
+100
+
+200
+
+0
+
+PiCREB (fold induction)
+
+Spikes per second
+
+2
+
+Fmax – F
+
+60
+40
+
+BiC
+
+20
+0
+60
+40
+
+BiC + 4-AP
+
+20
+0
+60
+
+300
+
+Control
+APV
+
+Basal
+level
+
+20 µM Glu
+
+BiC
+
+40
+
+Time (s)
+
+BiC + 4-AP
++ MK-801
+KCl
+BiC
+
+20
+
+30
+
+40
+
+50
+
+60
+
+Time (min)
+
+5 µM 10 µM 20 µM 40 µM KCl +
+20 µMGlu
+Glu
+u
+
+BiC / Con Nif
+KCl
+4-AP
+
+0
+
+Con APV MK-801 Nif
+BiC
+
+0
+
+Uns
+
+f
+
+0
+
+5
+
+10
+
+50
+
+cl
+
+0
+
+100
+
+f
+
+0
+
+150
+
+p
+
+Basal
+level
+
+1
+
+200
+
+k
+
+2
+
+250
+
+c
+
+e
+
+BiC/4-AP
+
+v
+
+40 µM Glu
+
+3
+
+t
+
+d
+
+CRE-dependent gene expression
+
+20µM
+20
+M Glu
+
+PiCREB (fold induction)
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+3
+
+0
+
+c
+
+Unstimulated
+
+20
+
+BiC
+
+F – Fmin
+
+60
+
+60
+
+b
+
+a
+
+40
+
+20
+
+Fig. 1. Calcium entry through NMDA receptors rather than through L-type calcium channels is responsible for nuclear signaling to CREB and
+induction of CRE-dependent transcription in synaptically activated hippocampal neurons. (a) Imaging of global calcium transients in hippocampal
+neurons during a 400-s exposure to bicuculline (BiC, 50 µM); a typical example is shown. Calcium concentrations expressed as [(F – Fmin)/(Fmax – F)]
+(see Methods). (b) Example of a typical multi-electrode array recording of bicuculline-induced action potential bursting in the presence or absence
+of the indicated compounds (4-AP, 2.5 mM; MK-801, 10 µM). Treatments with 4-AP also contained 5 µM nifedipine to block calcium entry through
+L-type calcium channels. The global calcium transients evoked by the bursting (in the presence or absence of nifedipine) are NMDA
+receptor–dependent9 (see also Figs. 3b and 7e). (c) Immunocytochemical analysis of CREB phosphorylation on Ser 133 in hippocampal neurons
+exposed for 5 min to 50 µM bicuculline (BiC) or 20 µM glutamate (Glu) in the presence or absence of 250 µM APV. (d) Immunocytochemical analysis of the phosphorylation and dephosphorylation of CREB on serine 133 in hippocampal neurons after the indicated treatments (BiC, 50 µM; 4-AP,
+2.5 mM). (e) Analysis of CRE reporter gene expression in unstimulated (Uns) hippocampal neurons and in hippocampal neurons after the indicated
+treatments (BiC, 50 µM; 4-AP, 2.5 mM; MK-801, 10 µM; APV, 500 µM; Nif, 5 µM). Reporter gene expression is presented relative to the expression
+of EGFP from a co-transfected plasmid to normalize for transfection efficiency. Con, control.
+
+bicuculline/4-AP treatment). Bath application of glutamate also
+induces plateau-type calcium signals that are mediated by calcium flux through NMDA receptors8,16 (Fig. 3a), whereas exposing hippocampal neurons to elevated levels of extracellular KCl
+causes membrane depolarization and calcium influx through Ltype calcium channels4,8,14,15.
+Synaptic NMDA receptors stimulate CREB function
+We analyzed two nuclear events triggered by the entry of calcium into hippocampal neurons: phosphorylation of CREB at the
+activator-site residue Ser 133 (ref. 17) and induction of CRE
+(cAMP response element)–dependent reporter gene expression4,7,8. These events were induced either by synaptically evoked
+bursts of action potentials or by glutamate bath application. All
+were blocked by the NMDA receptor antagonists D-(–)-2-amino5-phosphonovalerate (APV) or MK-801 and thus were initiated
+by calcium flux through NMDA receptors (Fig. 1c and e). Nuclear
+events triggered by KCl-induced membrane depolarization were
+activated by calcium flux through nifedipine-sensitive L-type calcium channels (Fig. 1e and data not shown).
+406
+
+As compared to L-type calcium channels, NMDA receptors
+(activated by bicuculline-induced action potentials with or without 4-AP) were equally potent in causing both sustained CREB
+phosphorylation at Ser 133 and CRE-mediated gene expression
+(Fig. 1d and e). In addition, we found that bursts of action
+potentials, stimuli that are more physiologically relevant than
+KCl-induced membrane depolarization, activate CRE-dependent gene expression independently of L-type calcium channels. Blocking L-type calcium channels with nifedipine did not
+reduce CRE-reporter gene expression after action potential
+bursts, though it did inhibit the response triggered by KClinduced membrane depolarization (Fig. 1e).
+Synaptic NMDA receptors induce BDNF gene expression
+The potent activation of CREB after synaptically evoked entry
+of calcium through NMDA receptors was also reflected by
+strong BDNF expression. The BDNF gene is controlled by several transcription factors, with CREB playing a central role18–20.
+We found that synaptic NMDA receptors induced BDNF
+expression to about the same extent as did the opening of Lnature neuroscience • volume 5 no 5 • may 2002
+
+articles
+
+a
+
+4h
+Uns
+
+BiC BiC/4-AP KCl
+
+b
+
+Glu
+
+c
+
+BDNF
+
+Uns
+
+Uns
+
+Con APV MK-801 Glu
+
+Pi TrkB
+
+Con Act D
+
+BiC
+h
+BiC44hr
+
+Pi TrkB
+
+TrkB
+
+Con MK-801
+
+TrkB
+Pi CREB
+
+Pi CREB
+CREB
+
+Calmodulin
+
+Calmodulin
+
+(loading control)
+
+(loading control)
+
+GAPDH
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+BiC 8 h
+Uns
+
+BiC 8 h
+
+GAPDH
+
+BDNF
+
+Fig. 2. NMDA receptors activated by synaptic activity robustly induced BDNF expression. (a) Expression of BDNF mRNA and GAPDH mRNA
+(control) was measured by RT-PCR in unstimulated hippocampal neurons (Uns) and in hippocampal neurons stimulated for 4 h with: 50 µM bicuculline (BiC) in the presence or absence of 10 µM MK-801; 20 µM glutamate (Glu); 50 mM KCl. (b, c) Immunoblot analysis of TrkB phosphorylation on tyrosine 515 (Pi TrkB), TrkB expression, CREB phosphorylation on serine 133 (Pi CREB), and calmodulin (loading control) in unstimulated
+hippocampal neurons (Uns) or in hippocampal neurons treated for 8 hours with either 50 µM bicuculline (BiC) in the absence (Con) or presence
+of 500 µM APV, 10 µM MK-801, 10 µg/ml actinomycin D (Act D), or with 20 µM glutamate (Glu). The levels of CREB phosphorylation on serine 133
+obtained 8 hours after bicuculline treatment were similar to the levels obtained after 5 minutes of bicuculline stimulation; stimulations with 50 µM
+bicuculline for 2–4 h only slightly increased TrkB phosphorylation (data not shown).
+
+mate treatment also did not induce BDNF expression or TrkB
+phosphorylation (Fig. 2a and c).
+Next we investigated the molecular basis of this pronounced
+stimulation-dependent difference in NMDA receptor signaling.
+The inability of glutamate to stimulate CREB function was not
+due to activated GABAB or metabotropic glutamate receptors,
+as their respective antagonists, CGP 54626 (1 µM) and α-methyl4-carboxyphenylglycine (MCPG; 0.5 mM), did not increase the
+efficacy of nuclear signaling to CREB after glutamate treatment
+(data not shown). Neither was it due to differences in calcium
+transients induced by the stimulation method used, bicuculline/4-AP versus bath glutamate. This was shown by calcium
+imaging (Fig. 3a). Hippocampal neurons stimulated with bicuculline/4-AP generated elevated, global (cytoplasmic and nuclear)
+calcium plateaus (Fig. 3a). After removal of bicuculline/4-AP
+and blockade of electrical activity using tetrodotoxin (TTX),
+which caused calcium concentrations to return to basal levels,
+the neurons were exposed to either 20 µM or 40 µM glutamate.
+Glutamate treatment also induced plateau-type global calcium
+transients (Fig. 3a); these calcium plateaus were due to NMDA
+receptor activation (ref. 16 and data not shown) and resembled
+those after bicuculline/4-AP stimulation. This similarity suggests
+that calcium profile differences do not underlie the marked signaling differences between the two stimulation methods.
+
+type calcium channels, previously thought to be the only calcium channels capable of increasing BDNF expression13 (Fig. 2a).
+This increase in BDNF messenger RNA (mRNA) led to an
+increase in biologically active BDNF, which binds to its receptor,
+TrkB. This binding causes phosphorylation of TrkB on Tyr 515,
+which was measured using an antibody to phospho-TrkB. We
+found that bicuculline increased TrkB phosphorylation, and
+that this increase was blocked both by the NMDA receptor
+blocker MK-801 and by actinomycin D (an inhibitor of gene
+transcription), indicating that it was due to an induction of
+BDNF transcription triggered by calcium flux through synaptic NMDA receptors (Fig. 2b and c).
+Bath glutamate can suppress CREB function
+In striking contrast to the activation of NMDA receptors by
+synaptic activity, stimulation of NMDA receptors by glutamate
+bath application poorly induced expression of the CRE-dependent reporter gene and only transiently increased CREB phosphorylation on Ser 133 (Fig. 1d and e), confirming previous
+reports4,8. Moreover, glutamate suppressed the induction of the
+CRE reporter gene after stimulation of L-type calcium channels
+(Fig. 1e). The fact that glutamate treatment did not promote
+CREB function was not due to a dosage problem, as a full range
+of glutamate concentrations were tested (Fig. 1d and e). Gluta-
+
+a
+F – Fmin
+Fmax – F
+
+BiC/4-AP
+
+3
+
+TTX
+
+20 µM Glu
+
+F – Fmin
+
+2
+
+Fmax – F
+
+1
+
+BiC/4-AP
+
+4
+
+0
+
+2
+
+60
+
+120
+
+180
+
+240
+
+300
+
+0
+0
+
+60
+
+120
+
+Time (s)
+
+180
+
+BiC
+
+40 µM Glu
+
+BiC
+
+300
+40 µM Glu
++ APV
+
+33
+3
+
+240
+
+Time (s)
+
+MK-801
+
+MK-801
+
+F – Fmin
+
+40 µM Glu
+
+1
+
+0
+
+b
+
+TTX
+
+3
+
+2
+
+F – Fmin
+
+2
+
+Fmax – F
+
+Fmax – F
+
+1
+
+1
+
+0
+
+0
+0
+
+100
+
+200
+
+300
+
+Time (s)
+
+nature neuroscience • volume 5 no 5 • may 2002
+
+0
+
+100
+
+200
+
+Time (s)
+
+300
+
+Fig. 3. Comparison of NMDA receptor–mediated calcium signals triggered by bursts of action potentials
+or by glutamate bath application.
+Calcium concentrations expressed as
+[(F – Fmin)/(Fmax – F)] (see Methods).
+(a, b) Imaging of global calcium transients in hippocampal neurons after
+the indicated treatments. Bicuculline
+(BiC), 50 µM; 4-AP, 2.5 mM; TTX, 2 µM;
+MK-801, 10 µM; APV, 500 µM.
+(a) Mean calcium levels of 13 hippocampal neurons ± s.e.m. (shaded
+area). (b) Examples of individual neurons (thin lines); thick line represents
+the mean. Similar results were
+obtained in other experiments.
+407
+
+a
+
+KCl
+
+BiCBiC
+thenthen
+APV
+@
+30'
+BiC
+then20
+20µM
+Glu@
+@30
+30'min
+µM Glu
+
+KCl then 40 µM Glu @ 30 min
+
+BiC then 20µM Glu @ 30'
+
+KCl then 40 µM Glu/APV @ 30 mi n
+
+BiCthen
+then4040µM
+Glu@@30
+30'min
+BiC
+µM Glu
+
+BiC then 40µM Glu @ 30'
+
+3
+
+BiCthen
+then40
+40µM
+Glu/APV@@3030'min
+BiC
+µM Glu/APV
+
+2
+
+Basal level
+
+1
+
+0
+
+3
+
+PiCREB (fold induction)
+
+BiC then 40µM Glu/APV @ 30'
+
+2
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+Time (min)
+
+Time (min)
+
+c
+
+Basal level
+
+1
+
+0
+0
+
+d
+
+KCl
+20 µM 40 µM
+
+40 µM
+
+Uns BiC Con APV Glu Glu Glu+APV
+GAPDH
+BDNF
+
+KCl 10 min
+
+Glutamate stimulates extrasynaptic NMDA receptors
+Although bicuculline-induced bursting and bath application of glutamate both activate synaptic NMDA receptors, extrasynaptic receptors can be activated only by glutamate application21. Perhaps the
+observed difference in nuclear signaling was due to differential stimulation of extrasynaptic NMDA receptors. As glutamate causes
+dephosphorylation of CREB under certain conditions22, we considered the possibility that extrasynaptic NMDA receptors could
+initiate a CREB-inhibiting pathway that is dominant over the CREBpromoting activity of synaptic NMDA receptors.
+We first investigated whether glutamate bath application
+induces substantial calcium flux through extrasynaptic NMDA
+receptors. To test this, we selectively blocked synaptic NMDA
+receptors to assess whether glutamate bath application generated an additional calcium transient by stimulating extrasynaptic NMDA receptors. Synaptic NMDA receptors were
+selectively inactivated using MK-801 in conjunction with bicuculline. MK-801 blocked synaptic NMDA receptor–induced
+calcium transients (Fig. 3b) without compromising bicuculline-induced firing bursts of action potentials (Fig. 1b).
+Owing to the irreversible inhibition by MK-801, calcium concentrations remained low even after MK-801 washout despite
+the continuous presence of bicuculline (Fig. 3b). Because MK801 is an open channel blocker and binds only activated NMDA
+receptors, the population of NMDA receptors not stimulated
+by bicuculline-induced firing (those not located at synapses)
+was left unblocked. This population of extrasynaptic NMDA
+receptors was then activated by adding glutamate to the medium. Indeed, glutamate exposure gave rise to calcium transients
+that were blocked (>90% inhibition) by APV (Fig. 3b).
+Extrasynaptic receptors shut off CREB
+To investigate whether extrasynaptic NMDA receptors antagonize nuclear signaling to CREB, we analyzed the effects of calcium flux through extrasynaptic NMDA receptors on the
+408
+
+b
+
+BiC
+BiC
+BiCthen
+thenAPV
+APV@@3030'min
+BiCBiC
+
+PiCREB (fold induction)
+
+Fig. 4. Calcium flux through extrasynaptic
+NMDA receptors initiates a CREB shut-off
+signal and suppresses induction of BDNF
+expression. (a, b) Immunocytochemical
+analysis of the rapid shut-off of CREB phosphorylation on serine 133 in hippocampal
+neurons after stimulation (arrow) with 20 or
+40 µM glutamate in the presence or absence
+of 100 µM APV. CREB phosphorylation was
+induced by stimulating for 30 min either calcium flux through synaptic NMDA receptors
+with 50 µM bicuculline (BiC) or calcium flux
+through L-type calcium channels with 50 mM
+KCl. (c) Hippocampal neurons were first subjected to bicuculline/ MK-801 pre-treatment
+to inactivate synaptic NMDA receptors.
+CREB phosphorylation was subsequently
+induced by activating for 10 min calcium flux
+through L-type calcium channels with 50 mM
+KCl. CREB phosphorylation was assessed
+immunocytochemically after the indicated
+treatments. Glutamate, 40 µM; APV, 250 µM.
+(d) Expression of BDNF mRNA and of
+GAPDH mRNA, as control (Con), were measured by RT-PCR in unstimulated hippocampal
+neurons (Uns) and in hippocampal neurons 4
+h after the indicated treatments. Bicuculline,
+50 µM; KCl, 50 mM; APV, 500 µM.
+
+PiCREB (fold induction)
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+articles
+
+KCl 10 min +
+40 µM Glu 7 min
+
+phosphorylation of CREB at serine 133. Calcium flux through
+synaptic NMDA receptors, triggered by bicuculline exposure,
+induced robust and sustained phosphorylation of Ser 133 of
+CREB (Fig. 4a; also Fig. 1d) and also potently activated CREBmediated transcription (Fig. 1e). The increase in CREB phosphorylation was due to activation of NMDA receptors, as it was
+blocked by APV (Fig. 1c). In contrast, activation of the extrasynaptic population of NMDA receptors by glutamate initiated a
+CREB shut-off signal: CREB phosphorylation (previously
+induced by bicuculline) decayed rapidly and in a dose-dependent matter after glutamate treatment (Fig. 4a).
+Activation of NMDA receptors with 40 µM NMDA (in the
+presence of 2 mM glycine) was as potent as glutamate in inducing the CREB shut-off pathway (data not shown). Given that bath
+application of glutamate or NMDA activates both extrasynaptic
+and synaptic NMDA receptors, these findings show that extrasynaptic NMDA receptors can override the CREB-promoting effects
+of synaptic NMDA receptors. CREB immunoreactivity was not
+affected by glutamate treatment (data not shown), indicating that
+this was a specific dephosphorylation signal, not a signal that
+resulted in the degradation of CREB. Treatment with 40 µM glutamate triggered CREB dephosphorylation more rapidly than
+merely blocking synaptic NMDA receptors with APV (Fig. 4a),
+indicating that the CREB dephosphorylation signal is an active
+one, rather than one that interferes with the phosphorylationpromoting signal. The CREB shut-off signal was NMDA receptor
+dependent: adding 40µM glutamate in the presence of APV
+caused the decay in CREB phosphorylation to slow to a rate similar to that in neurons treated with APV alone (Fig. 4a).
+The NMDA-receptor dependency of the shut-off mechanism
+was also shown in experiments in which CREB phosphorylation
+was first induced using NMDA receptor–independent stimulations. We found that, consistent with a previous report22, glutamate treatment shuts off, in an APV-sensitive manner, CREB
+phosphorylation initiated by KCl-induced calcium flux through
+nature neuroscience • volume 5 no 5 • may 2002
+
+articles
+
+a
+
+BiC
+BiC
+BiC
+then
+Glu@
+@30
+30'min
+BiC
+then
+4040µM
+µM Glu
+
+3
+
+2
+
+Basal level
+
+1
+
+Control
+APV
+Ifenprodil
+
+75
+
+50
+
+60
+
+PiCREB (fold induction)
+
+PiCREB (fold induction)
+
+BiC
+BiC+ +ifenprodil
+ifenprodil
+
+CREB shut-off is blocked by NR2B antagonist
+The subunit composition of extrasynaptic and synaptic NMDA
+receptors is not identical. In hippocampal neurons, extrasynaptic NMDA receptors are composed predominantly of
+NMDA receptor 1 (NR1) and NMDA receptor 2B (NR2B) subunits, whereas synaptic NMDA receptors also contain NR2A
+subunits21. Ifenprodil, a selective but incomplete inhibitor of
+the NR2B subunit23, may therefore preferentially inhibit extrasynaptic NMDA receptors. Calcium imaging revealed that ifen100
+
+b
+
+BiC
+then
+Glu/ifenprodil@
+@30 min
+BiC
+then
+4040µM
+µM Glu/ifenprodil
+
+L-type calcium channels (Fig. 4b) or
+by increasing intracellular levels of
+0
+0
+10
+20
+30 40
+cAMP (data not shown). Thus,
+Time (min)
+whereas synaptic NMDA receptors
+are linked to a CREB activity-inducing pathway, extrasynaptic NMDA receptors initiate a general
+CREB shut-off mechanism that is dominant over many CREB
+phosphorylation pathways.
+To determine conclusively whether stimulation of extrasynaptic NMDA receptors is sufficient to trigger the CREB shutoff, we used a method similar to the one described in Fig. 3b.
+Hippocampal neurons were stimulated with bicuculline followed
+by the addition of MK-801 to block synaptic NMDA receptors.
+After washout of bicuculline/MK-801, CREB phosphorylation
+was induced by stimulating calcium flux through L-type calcium channels using KCl-mediated membrane depolarization.
+Extrasynaptic NMDA receptors were then activated by glutamate.
+We found that this stimulation of extrasynaptic NMDA receptors caused rapid dephosphorylation of CREB that was blocked
+by APV (Fig. 4c). Given that synaptic NMDA receptors remain
+inactive for at least 30 minutes after the pre-blocking procedure
+with bicuculline/MK-801 (data not shown), these results indicate that calcium flux through extrasynaptic NMDA receptors is
+sufficient to trigger the CREB shut-off pathway.
+If extrasynaptic NMDA receptors couple to a dominant
+CREB shut-off pathway, do they also suppress expression of the
+CREB target gene BDNF? Indeed, we found that stimulation of
+extrasynaptic NMDA receptors with glutamate overrides, in an
+APV-dependent manner, the BDNF gene transcription–inducing
+activity of L-type calcium channels (Fig. 4d).
+
+PiCREB (% of level in
+control stimulated cells)
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+Fig. 5. Inhibition of the predominantly
+extrasynaptically localized NMDA receptor subunit NR2B with ifenprodil blocks
+the CREB shut-off process. Immunocytochemical analysis was done as described
+in Fig. 4. CREB shut-off was induced using
+40 µM glutamate in the presence or
+absence of 10 µM ifenprodil.
+
+KCl
+KCl
+
+KCl
+
+40µM
+Glu @ 30'
+KCl then 40KCl
+µM then
+Glu @
+30 min
+
+33
+
+KCl
+40µM Glu/ifenprodil
+KClthen
+then40
+40µM
+@
+KCl
+µM then
+Glu/ifenprodil
+@ 30'
+30 min @
+
+22
+
+Basal level
+
+11
+
+00
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+Time (min)
+
+prodil was more effective in blocking calcium transients induced
+by extrasynaptic NMDA receptors (71 ± 5% inhibition) than
+those induced by synaptic NMDA receptors (53 ± 4% inhibition). Given these pharmacological properties, we expected ifenprodil to be an effective inhibitor of extrasynaptic NMDA
+receptor–induced CREB shut-off. To test this, we induced CREB
+phosphorylation by activating synaptic NMDA receptors using
+the bicuculline treatment, then triggered the decay of CREB
+phosphorylation by stimulating extrasynaptic NMDA receptors
+with glutamate. We found that ifenprodil completely blocked
+this decay (Fig. 5a). Indeed, CREB phosphorylation remained
+high during the course of the experiment, indicating that the
+inhibitory action of ifenprodil on synaptic NMDA receptors
+was not strong enough to compromise their CREB phosphorylation–promoting activity. Ifenprodil also inhibited glutamateinduced CREB shut-off in experiments in which CREB
+phosphorylation was induced by opening L-type calcium channels using KCl (Fig. 5b).
+Hypoxic/ischemic conditions trigger CREB shut-off
+Stimulation of extrasynaptic NMDA receptors may occur during hypoxic/ischemic insults. These pathological conditions are
+characterized by glutamate transporters operating in reverse
+(pumping glutamate out of the cells)24, leading to stimulation of
+all NMDA receptors, including extrasynaptic ones. We found
+that, similar to glutamate bath application, depriving primary
+hippocampal neurons of oxygen and glucose caused a decay of
+CREB phosphorylation (Fig. 6). This CREB dephosphorylation
+was inhibited by APV and ifenprodil (Fig. 6), indicating that
+hypoxic/ischemic conditions initiate the CREB shut-off pathway
+through the activation of extrasynaptic NMDA receptors.
+Extrasynaptic NMDA receptors trigger cell death
+Given the dramatic differences in signaling from synaptic and
+extrasynaptic NMDA receptors (Figs. 1– 6), we tested the hypothesis that cell survival after NMDA receptor activation is also specified by the location, not the degree, of NMDA receptor activation.
+We compared stimuli that evoke calcium entry through synaptic
+NMDA receptors, through synaptic and extrasynaptic NMDA
+receptors or through L-type calcium channels (Fig. 7a). These
+
+50
+
+Time in hypoxic/ischemic
+conditions (min)
+
+Fig. 6. Extrasynaptic NMDA receptors mediate CREB shut-off induced
+by hypoxia/ischemia. Immunocytochemical analysis of the dephosphorylation of phospho-serine 133-CREB in hippocampal neurons subjected for
+the indicated times to hypoxic/ischemic conditions in the presence or
+absence of 500 µM APV or 10 µM ifenprodil. Neurons were treated with
+10 µM forskolin/0.5 mM IBMX for 30 min before exposure to
+hypoxic/ischemic conditions; this pre-treatment stimulates CREB phosphorylation on serine through activating cAMP-dependent protein kinase.
+
+nature neuroscience • volume 5 no 5 • may 2002
+
+409
+
+Basal level
+25
+
+0
+60
+
+90
+
+180
+
+b
+
+F – Fmin
+
+Time (s)
+
+F – Fmin
+
+20 µM
+
+Time (s)
+
+Control
+
+Fmax – F
+
+Time (s)
+
+100 µM Glu
+
+NMDARex+
+NMDARsyn L-Type CC NMDARsyn 40 µM Glu +
+(BiC + 4-AP) (KCL/FPL) (40 µM Glu)
+MK-801
+
+Time (s)
+
+NMDARsyn + NMDARex (20 µM Glu)
+
+c
+
+F – Fmin
+Fmax – F
+
+0
+
+60
+
+Time (s)
+
+120
+
+Time (s)
+
+NMDARsyn + NMDARex (40 µM Glu)
+
+LDH release (% of levels from
+1 mM Glu treated neurons)
+
+F – Fmin
+
+20
+
+Fmax – F
+
+Time (s)
+
+40
+
+80 120 150 300
+Glu (µM)
+M)
+
+Time (s)
+
+Rh123 fluorescence
+(%value when FCCP is added)
+
+NMDAsyn+
+NMDAsyn+
+Fig. 7. Extrasynaptic NMDA receptors are linked
+NMDARsyn (BiC)
+NMDARsyn (BiC)
+NMDARex
+NMDARex
+4-AP
+to mitochondrial dysfunction and neuronal death.
+20 µM
+4-AP
+40 µM
+d 3
+20 µM 40 µM
+Glu
+50 µM 500 µM 2.5 mM
+100
+Glu
+2.5
+mM
+500
+µM
+50 µM
+Glu
+Glu
+(a) Analysis of calcium transients (left) and mitoTTX
+chondrial membrane potential (right) in hippocamTTX
+75
+2
+pal neurons after activation of either synaptic
+F – Fmin
+NMDA receptors (50 µM bicuculline/2.5 mM 4-AP/
+Fmax – F
+50
+5 µM nifedipine), or synaptic and extrasynaptic
+1
+FCCP
+NMDA receptors (20 µM and 40 µM glutamate), or
+L-type calcium channels induced by increasing the
+25
+0
+0
+120
+240
+360
+480
+600
+720
+840
+extracellular KCl concentration by 50 mM in the
+0
+120 240 360 480 600 720 840 960
+Time (s)
+presence of the L-type calcium channel agonist FPL
+Time (s)
+64176 (5 µM) (KCl/FPL). Arrows indicate start of
+(BiC + 2.5 mM 4-AP) NMDARex only
+stimulation. The area underneath the calcium traces
+e 4 NMDARsynMK-801
+NMDARsyn (BiC + 2.5 mM 4-AP) NMDARex only
+60 µM
+100 µM
+60 µM 100 µM
+Glu
+Glu
+is dark shaded to emphasize the calcium load; the
+MK-801
+100
+Glu
+Glu
+lightly shaded area represents the s.e.m..
+3
+Mitochondrial membrane potential of individual neu75
+rons (thin lines) are shown; thick line represents the F – Fmin 2
+F
+–
+F
+mean. (b) Analysis of excitotoxic cell death of hipmax
+50
+pocampal neurons stimulated as in (a). APV, 500 µM;
+1
+FCCP
+MK-801, 10 µM; MCPG, 500 µM; CNQX, 400 µM.
+25
+0
+120
+240
+360
+480
+0
+Examples of Hoechst-stained hippocampal neurons
+Ti
+( )
+0
+120
+240
+360
+480
+600
+Time (s)
+are shown to illustrate the distinct chromatin fragTime (s)
+mentation observed after necrotic cell death. Similar
+excitotoxic cell death was observed when NMDA was used instead of glutamate (data not shown); both glutamate and NMDA-induced death was
+blocked by NMDA receptor antagonists. The presence of the L-type calcium channel blocker nifedipine did not alter glutamate-induced toxicity
+(data not shown). (c) Effect of ifenprodil (10 µM) on excitotoxic cell death of hippocampal neurons induced with the indicated concentrations of
+glutamate. (d) Imaging of calcium (left) and mitochondrial membrane potential (right) in hippocampal neurons first exposed to a stimulus activating
+synaptic NMDA receptor (50 µM bicuculline and increasing amounts of 4-AP) and then to a stimulus activating synaptic and extrasynaptic NMDA
+receptor (glutamate). Between stimuli, neurons were treated with 2 µM TTX to block all electrical activity. (e) Calcium profile (left) and breakdown
+of mitochondrial membrane potential (right) specifically evoked by extrasynaptic NMDA receptors. Hippocampal neurons were sequentially exposed
+to stimuli activating synaptic NMDA receptors (50 µM bicuculline, 2.5 mM 4-AP, 5 µM nifedipine) and, after blocking synaptic NMDA receptors
+with 10 µM MK-801, to stimuli activating extrasynaptic NMDA receptors (60–100 µM glutamate).
+Rh123 fluorescence
+(%value when FCCP is added)
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+Fmax – F
+
+40 µM
+
+a
+
+LDH release (% of levels from
+1 mM Glu treated neurons)
+
+articles
+
+410
+
+nature neuroscience • volume 5 no 5 • may 2002
+
+stimuli were, respectively, (i) induction of near-continuous action
+potential bursts, (ii) exposure of the neurons to glutamate and
+(iii) an increase in the extracellular KCl concentration by 50 mM
+in the presence of the L-type calcium channel agonist FPL 64176
+(KCl/FPL stimulation). Calcium imaging showed that near-continuous bursting and glutamate exposure gave rise to NMDA
+receptor–dependent elevated calcium plateaus with similar amplitudes; KCl/FPL-induced calcium plateaus were L-type calcium
+channel dependent8,9,16 (Fig. 7a; also Fig. 7e).
+To investigate which stimulus links to cell death, we monitored
+the mitochondrial membrane potential in living hippocampal
+neurons. A breakdown of the mitochondrial membrane potential is an early marker of excitotoxic cell death25–28. We also measured lactate dehydrogenase (LDH) release and stained
+hippocampal neurons with Hoechst 33342 to determine the percentage of hippocampal nuclei with small, irregular chromatin
+clumps, a characteristic of necrotic cell death29. We found that
+hippocampal neurons remained healthy, with intact mitochondrial membrane potential, after stimulation of calcium entry
+through synaptic NMDA receptors and through L-type calcium
+channels (Fig. 7a and b). In contrast, stimulation with 40 µM glutamate (or, to a lesser extent, with 20 µM glutamate) caused a
+rapid breakdown of the mitochondrial membrane potential leading to cell death (Fig. 7a and b). Glutamate-induced excitotoxic
+cell death was blocked by APV but not by MCPG or by the
+AMPA/kainate receptor blocker 6-cyano-7-nitroquinoxaline-2,3dione (CNQX; Fig. 7b). Ifenprodil efficiently inhibited glutamateinduced death; however, because it is an incomplete blocker of
+NR2B, the protective potential of ifenprodil broke down at very
+high glutamate concentrations (Fig. 7c). The neuroprotective
+properties of ifenprodil suggest the involvement of extrasynaptic
+NMDA receptors in glutamate-induced neuronal damage.
+To address the possibility that the observed difference in cell
+death was due to differences in calcium load, we measured calcium concentration and mitochondrial membrane potential in
+hippocampal neurons that were exposed first to near-continuous bursting (activating synaptic NMDA receptors), then to
+glutamate (activating both synaptic and extrasynaptic NMDA
+receptors). The results show that only glutamate exposure
+caused a breakdown of the mitochondrial membrane potential,
+although both stimuli induced calcium plateaus of similar
+amplitude (Fig. 7d). Thus, stimulation-induced calcium signals
+can be similar in profile yet strikingly different in their cellular
+consequences (in agreement with other reports30,31). This indicates that it is not the profile of the NMDA receptor–induced
+
+calcium signals but possibly differences in the location of the
+receptors activated that is functionally important.
+As stimulation of calcium entry through synaptic NMDA
+receptors (or through L-type calcium channels) did not compromise the health of hippocampal neurons, we reasoned that extrasynaptic NMDA receptors may specifically link to a cell death
+pathway. We used a stimulation protocol similar to that illustrated in Fig. 3b to selectively induce calcium flux through extrasynaptic NMDA receptors. The neurons were first exposed to
+bicuculline plus 4-AP (which leads to calcium flux through synaptic NMDA receptors), then MK-801 (Fig. 7e). MK-801 did not
+block bicuculline-induced bursting of action potentials (Fig. 1b),
+but inactivated all synaptic NMDA receptors stimulated during
+bicuculline/4-AP treatment, causing calcium concentrations to
+return to near basal levels (Fig. 7e). MK-801 spared NMDA
+receptors not stimulated during bicuculline/4-AP exposure
+(namely extrasynaptic NMDA receptors); this population of
+receptors was then activated by glutamate treatment (Fig. 7e).
+We found that extrasynaptic NMDA receptors do indeed link to
+a cell death pathway and cause a breakdown of the mitochondrial membrane potential (Fig. 7e). The extrasynaptic NMDA
+receptor–induced loss of mitochondrial membrane potential was
+blocked (more than 95 % inhibition) by APV or MK-801. Intense
+stimulation of synaptic NMDA receptors, in contrast, had no
+effect on mitochondrial membrane potential (Fig. 7a, d, and e).
+Synaptic NMDA receptor activation is anti-apoptotic
+Synaptic NMDA receptor activation was found to be neuroprotective. This was demonstrated using a standard apoptosisinducing protocol that uses the general protein kinase inhibitor
+staurosporine. Hippocampal neurons exposed to staurosporine
+for 36 hours showed typical signs of apoptosis (shrunken cell
+body and large, round chromatin clumps; Fig. 8). Stimulating
+synaptic activity with bicuculline for 16 hours before staurosporine treatment reduced the number of apoptotic neurons
+(Fig. 8). This bicuculline-induced neuroprotective effect was
+blocked with MK-801 (Fig. 8), indicating that it resulted from
+stimulation of synaptic NMDA receptors. The most complete
+protection was observed when bicuculline-induced calcium
+entry through synaptic NMDA receptors was further enhanced
+by 2.5 mM 4-AP, which increases the burst frequency as shown
+in Fig. 1b (Fig. 8). The bicuculline/4-AP-induced anti-apoptotic activity was blocked by MK-801 (Fig. 8). Conversely, staurosporine-induced death is exacerbated by blocking
+spontaneous synaptic NMDA receptor activity (either by using
+
+200 nM staurosporine
+Control
+
+Control
+
+BiC
+
+BiC +
+MK-801
+
+BiC + 4-AP MK-801
+
+TTX
+
+20µM
+20
+µMGlu
+Glu
+
+Apoptotic neurons (% of total)
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+articles
+
+* *
+
+*
+*
+
+Staurosporine – + + + + + + + +
+
+Fig. 8. Stimulation of synaptic NMDA receptors is anti-apoptotic. Staurosporine-induced apoptosis in hippocampal neurons with or without pretreatment for 16 h with the indicated compounds (BiC, 50 µM; 4-AP, 2.5 mM; MK-801, 10 µM; TTX, 2 µM). Examples of Hoechst-stained hippocampal neurons illustrate the characteristic chromatin fragmentation of apoptotic neurons. Statistically significant differences (P < 0.05, two-tailed, unpaired t-test;
+P < 0.05, Mann-Whitney U test) compared with control condition (treatment with staurosporine alone) are indicated with an asterisk.
+nature neuroscience • volume 5 no 5 • may 2002
+
+411
+
+articles
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+MK-801 or by blocking all electrical activity with TTX; Fig. 8).
+This further underscores the importance of synaptic NMDA
+receptors in promoting neuron survival. As we observed no
+neuroprotective effect after stimulation of the neurons with a
+low dose (20 µM) of glutamate (Fig. 8), this pro-survival activity could not simply have been due to electrical activation of
+the neurons or to tolerance after mild excitotoxic insults.
+
+DISCUSSION
+We have shown that synaptic and extrasynaptic NMDA receptors have directly opposing effects on CREB function and neuronal fate. Our results indicate that hippocampal neurons have
+at least two functionally distinct NMDA receptor signaling complexes. Synaptic complexes promote nuclear signaling to CREB,
+induce BDNF gene expression, and activate an anti-apoptotic
+pathway; extrasynaptic complexes antagonize nuclear signaling
+to CREB, block induction of BDNF expression, and are involved
+in mitochondrial dysfunction and cell death. Thus, the biological
+consequences of NMDA receptor activation in hippocampal neurons are specified by the location of the NMDA receptor signaling complex activated. This location-specific difference in NMDA
+receptor signaling provides a long-sought molecular basis for
+why activation of NMDA receptors by glutamate is a poor inducer of CREB-mediated gene expression.
+It has been suggested that L-type calcium channels have a
+privileged role in calcium regulation of CREB. The results presented here alter this ‘source specificity’ model for CREB-mediated gene expression. Calcium flux through L-type calcium
+channels and through synaptic NMDA receptors are equally
+potent in stimulating CREB-mediated gene expression, and
+synaptic NMDA receptors (rather than L-type calcium channels)
+mediate genomic responses following bursts of action potential
+firing. Calcium flux through extrasynaptic NMDA receptors,
+unlike through synaptic NMDA receptors, actively suppresses
+CREB activity by initiating a general CREB shut-off mechanism.
+Antagonistic signaling of calcium-permeable ion channels has
+also been reported in ciliary ganglion neurons32. However, in
+those cells, calcium-entry through L-type calcium channels can
+suppress CREB phosphorylation on Ser 133 (ref. 32).
+The exact nature of the CREB shut-off pathway and the mechanism by which extrasynaptic NMDA receptors activate it remain
+to be investigated. It may involve inactivation of CREB phosphorylation mechanisms including several CREB kinases such
+as calcium/calmodulin-dependent protein kinases and cAMPdependent protein kinase. Alternatively, it is conceivable that
+extrasynaptic NMDA receptors control the action of the CREBphospho-serine 133 phosphatase. Inhibition of calcineurin, a calcium/calmodulin-dependent protein phosphatase that may have
+a function in CREB regulation5,32, has little or no effect on the
+rapid decay of CREB phosphorylation (ref. 22 and unpublished
+data). Inhibition of protein phosphatase 1 (PP1), the principal
+CREB phospho-serine 133 phosphatase 33, does prevent the
+dephosphorylation of CREB at Ser 133 (refs. 5,22 and unpublished data); however, the interpretation of these results is complicated by the observation that inhibiting PP1 with okadaic acid
+compromises the health of the hippocampal neurons and can
+lead to cell death (unpublished results). There is currently little
+evidence that PP1 activity is regulated by calcium signaling pathways (except via calcineurin and inhibitor 1; refs. 5,32). One
+potential mechanism of regulation could involve one of the many
+different regulatory subunits of PP1 that can modulate PP1 activity and target the enzyme to specific substrates34. Thus, extrasynaptic NMDA receptors may induce specific targeting of PP1 to
+412
+
+CREB, which is consistent with previous observations that glutamate bath application does not compromise transcription
+mediated by CBP (CREB binding protein), c-Jun, and the serum
+response element4,8,35.
+The marked difference in cellular responses induced by synaptic versus extrasynaptic NMDA receptors is likely due to differences in the receptor signaling complexes. Many proteins are
+known to associate with NMDA receptors36, but which ones are
+specific to synaptic or extrasynaptic NMDA receptors is less clear.
+Molecules involved in CREB shut-off or in mitochondrial depolarization may interact directly with extrasynaptic NMDA receptors but not with synaptic NMDA receptors because of shielding
+by the post-synaptic density or differences in the receptor subunit composition. One possible physiological model that would
+lead to stimulation of extrasynaptic NMDA receptors is glia-toneuron communication. Glial cells are known to release glutamate under certain conditions37. Glial cell-derived glutamate
+could act on extrasynaptic NMDA receptors and thereby negatively regulate neuronal signaling pathways to CREB.
+The opposite effects of synaptic and extrasynaptic NMDA
+receptors on neuronal fate help explain the paradox that both
+NMDA receptor stimulants and NMDA receptor antagonists can
+cause neuronal degeneration. The increase in neuronal apoptosis
+after injection of MK-801 in the developing rat brain, and the
+enhancement of apoptosis by MK-801 after traumatic injury or
+metabolic inhibition in adult rats38,39, are explained by our finding that synaptic NMDA receptors have pro-survival activity that
+would be blocked by MK-801. This could also explain why environmental enrichment, stimulating synaptic activity, reduces
+spontaneous apoptotic cell death in the hippocampus and protects against neurotoxic injuries40.
+The link between extrasynaptic NMDA receptors and mitochondrial dysfunction and cell death may be particularly relevant to the pathophysiology of hypoxic/ischemic cell death and
+epileptic brain damage41. During intense seizure activity in the
+brain, synaptically released glutamate may spill out of the synaptic cleft. Given the small volume of extracellular space in brain
+tissue, increased extracellular glutamate concentrations could
+lead to stimulation of extrasynaptic NMDA receptors and eventually cell injury or death42. The reverse operation of glutamate
+transporters during hypoxic/ischemic episodes24 may increase
+extracellular glutamate concentrations, stimulating extrasynaptic NMDA receptors. Severe hypoxia/ischemia may lead to a rapid
+and complete loss of mitochondrial membrane potential causing cellular ATP depletion and acute necrotic cell death. This
+could explain necrotic cell death observed in the center of brain
+areas damaged by hypoxia/ischemia43,44. Neurons experiencing
+shorter, less severe hypoxic/ischemic episodes or neurons in the
+periphery of the hypoxic/ischemic core (the so-called penumbra45) may suffer only a transient and incomplete depolarization
+of the mitochondria. Although these cells may not undergo acute
+necrotic cell death, their health could be compromised because
+stimulation of extrasynaptic NMDA receptors (even with nontoxic glutamate concentrations) triggers the CREB shut-off pathway, blocking the pro-survival activity of CREB46,47.
+Consistent with this hypothesis are the observations of CREB
+shut-off in in vivo stroke conditions (ref. 47 and references
+therein) and of apoptotic cell death in the penumbra 43,44 .
+Stroke-surviving neurons (such as those in the peri-infarct area)
+have sustained concentrations of phospho-CREB and elevated
+concentrations of BDNF47,48. This could be due to increased firing (induced by extracellular glutamate) in areas around the
+penumbra; this firing may induce calcium influx through synapnature neuroscience • volume 5 no 5 • may 2002
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+��������
+
+�����������������������������������������������������������
+�����������������������������������������������������������������
+��������������������������������������������������������������
+�������������������������������������������������������������
+��������������������������������������������������������
+������������ ��������� ��� ����������� ����� ������ �������
+�������������������������������������������������������������
+��������������������������������������������������������������
+����������������������������������������������������������������
+������������������������������������������������������������
+���������������
+
+�����������������������������������������������������������������������
+��������������������������������������������������������������������������
+�����������������������������������������������������������������������
+�������������������������������������������������������������������������
+���������������������������������������������������������������������
+�����������������������������������
+
+�������
+
+�����������������������������
+
+����������������������������������������������������������������
+��������������������������������������������������������������������������
+����������������������������������������������������������������
+���������������������������������������������������������������������
+����������������������������������������������������������������
+�����������������������������������������������������������������
+��������������������������������������������������������������������
+������������������������������������������������������������������
+�����������������������������
+
+��������������������������������������������������������������������
+
+���������������������������������������������������������������������
+����������������������������������������������������������������������
+���������������������������������������������������������������������
+��������������������������������������������������������������������
+�������������������������������������������������������������������
+�������������������������������������������������������������������
+��������������������������������������������������������������������
+���������������������������������������������������������������������
+��������������������������������������������������������������������
+������������������������������������������������������������������������
+�����������������������������
+�������������������������������������������������������������������
+������������������������������������������������������������������
+�������������������������������������������������������������������
+�������������������������������������������������������������������
+���������������������������������������������������������������������������
+���������������������������������������������������������������������������
+����������������������������������������������������������������������������
+�������������������������������������������������������������������
+������������������������������������������������������������������
+�������������������������������������������������������������������
+������������������������������������������������������������������
+��������������������������������������������������������������������
+��������������������������������������������������������������������
+�����������������������������������������������������������������������
+�������������������������������������������������������������������
+���������������������������������������������������������������������
+����������������������������������������������������������������������
+�������������������������������������������������������������������
+������������������������������������������������������������������
+����������������������������������������������������������������
+���������������������������������������������������������������������
+�������������������������������������������������������������������������
+������������������������������������������������������������������������
+�����������������������������������������������������������
+�����������������������������������������������������
+����������������������������������������������
+���������������������������������������������������������������������������
+�����������������������������������������������������������������������
+�����������������������������������������������������������������������
+���������������������������������������������������������������������
+����������������������������������������������������������������������
+���������������������������������������������������������������������
+�����������������������������������������������������
+
+���������������
+�������������������������������������������������������������������������������
+�����������������������������������������������������������������������
+��������������������������������������������������������������������������
+��������������������
+
+�������������������������������������������������
+��� ���������� ���� ���������� ���� �������� ��� �� ������� ��� ������������ ��������� ����
+����������� ��� ��������� �������� ��������� ������ ����� ��������� ����� ������ �����
+���������������
+��� ��������������������������������������������������������������������
+��� �������������������������������������������������������������������������������
+�������������������������������������
+��� ������������������������������������������������������������������������������
+������������ �������� ��� ��������� �������� ���������� ���������� �������� �����
+���������������
+��� ������ ���� ������������ ��� �� ������� ��� ��� ����� ���������������� ����
+������������������� �� ����� ���� ��������� ������������������� ������� ����
+�������������������������������������������������������
+��� ������������������������������������������������������������������������������
+� ����������� ��� ����� ������������ ��������� ������������ ��� ��������� ������
+���������� �������� �������� ���������� ���� ������������������ �������� �������
+����������������������������������������������
+��� ������������ ��� ���� �������� ���� ��������� ��� ��� �� �������� ��� ����������
+���������� ��� �������� ���� ������������ �������� ��� ���� �������� ��� ������
+���������������������������������������
+��� ������������ ��� ���� �������� ���� ������������ ��� ��� �� �������� ��� �������� ���
+�������������������������������������������������������������������������
+����������� ��� ����� ���������� ���� ������� �������� ���������� ������� ����
+���������������
+��� ���������������������������������������������������������������������������
+����������������������������������������������������������������������������
+����������������������������
+���� �������� ��� �� �������� ��� ��������� ���� ���������������� ����������������
+������������������������������������������������������������������������������
+����������������������������������������������������������������������
+���� ������������ ��� ������������ ��� ��� ��� �� �������� ����� �������� ������������
+����� ����� ����������� ���������� ���� �������������� �������������������
+������������������������������������������������
+���� ����������������������������������������������������������������������������
+���������������������������������������������������
+���� ������� ���� ���������� ��� �� ����������� ��� ��� ������������ ���� ����� ����
+������������������� ��������� ��� ��������� ��������� �������� ����� ����������
+�������
+���� ����������������������������������������������������������������������������
+�������� ��������� ����� ���������������� ��� ������������ ��������� ��������
+��������������������
+���� ����������� ��� ���� ��������� ���� ������ ���� �������� ��� ��� �� ����������� ��� ����
+�������������������������������������������������������������������������
+������������������������������������������������������������
+���� ��������������������������������������������������������������������������������
+���������������������������������������������������������������������������
+������ ����� ����������� ��� ��������� ������������ ��������� ������������� ����
+���������������
+���� ������� ��� ��� ��� ���� ����������� ��� ����� ���������������� ��� �����
+�����������������������������������������������������������������������������
+�������
+���� ����������������������������������������������������������������������������������
+��� ��� �������� ������� ������� ��� �� ��������� ������������ ��� ������������
+���������� ������������������ ����������������� ��� ����������� ���� ��������
+�������
+���� ��������������������������������������������������������������������������������
+������� ���������� ����� �������������� ��� �� ����� ������� ���������������
+������������������������������������������������������
+���� ��������������������������������������������������������������������������������
+���������� �������� ��������� ��� �������� ����������� ��� ����� �������������
+��������������������������
+���� ����������������������������������������������������������������������������
+
+���
+
+articles
+
+distinct subunit composition at nascent hippocampal synapses in vitro.
+J. Neurosci. 19, 4180–4188 (1999).
+22. Sala, C., Rudolph-Correia, S. & Sheng, M. Developmentally regulated NMDA
+receptor–dependent dephosphorylation of cAMP response element–binding
+protein (CREB) in hippocampal neurons. J. Neurosci. 20, 3529–3536 (2000).
+23. Williams, K. Ifenprodil discriminates subtypes of the N-methyl-D-aspartate
+receptor: selectivity and mechanisms at recombinant heteromeric receptors.
+Mol. Pharmacol. 44, 851–859 (1993).
+24. Rossi, D. J., Oshima, T. & Attwell, D. Glutamate release in severe brain
+ischaemia is mainly by reversed uptake. Nature 403, 316–321 (2000).
+25. Stout, A. K., Raphael, H. M., Kanterewicz, B. I., Klann, E. & Reynolds, I. J.
+Glutamate-induced neuron death requires mitochondrial calcium uptake.
+Nat. Neurosci. 1, 366–373 (1998).
+26. White, R. J. & Reynolds, I. J. Mitochondrial depolarization in glutamatestimulated neurons: an early signal specific to excitotoxin exposure.
+J. Neurosci 16, 5688–5697 (1996).
+27. Schinder, A. F., Olson, E. C., Spitzer, N. C. & Montal, M. Mitochondrial
+dysfunction is a primary event in glutamate neurotoxicity. J. Neurosci. 16,
+6125–6133 (1996).
+28. Vergun, O., Keelan, J., Khodorov, B. I. & Duchen, M. R. Glutamate-induced
+mitochondrial depolarisation and perturbation of calcium homeostasis in
+cultured rat hippocampal neurones. J. Physiol. 519, 451–466 (1999).
+29. Fujikawa, D.G., Shinmei, S. S. & Cai, B. Kainic acid-induced seizures produce
+necrotic, not apoptotic, neurons with internucleosomal DNA cleavage:
+implications for programmed cell death mechanisms. Neuroscience 98, 41–53
+(2000).
+30. Tymianski, M., Charlton, M. P., Carlen, P. L. & Tator, C. H. Source specificity
+of early calcium neurotoxicity in cultures embryonic spinal neurons.
+J. Neurosci. 13, 2085–2104 (1993).
+31. Sattler, R., Charlton, M. P., Hafner, M. & Tymianski, M. Distinct influx
+pathways, not calcium load, determine neuronal vulnerability to calcium
+neurotoxicity. J. Neurochem. 71, 2346–2364 (1998).
+32. Chang, K. T. & Berg, D. K. Voltage-gated channels block nicotinic regulation
+of CREB phosphorylation and gene expression in neurons. Neuron 32,
+855–865 (2001).
+33. Hagiwara, M. et al. Transcriptional attenuation following cAMP induction
+requires PP-1-mediated dephosphorylation of CREB. Cell 70, 105–113 (1992).
+34. Bollen, M. Combinatorial control of protein phosphatase-1. Trends Biochem.
+Sci. 26, 426–431 (2001).
+
+414
+
+35. Hu, S. C., Chrivia, J. & Ghosh, A. Regulation of CBP-mediated transcription
+by neuronal calcium signaling. Neuron 22, 799–808 (1999).
+36. Husi, H., Ward, M. A., Choudhary, J. S., Blackstock, W. P. & Grant, S. G. N.
+Proteomic analysis of NMDA receptor–adhesion protein signaling
+complexes. Nat. Neurosci. 3, 661–669 (2000).
+37. Parpura, V., Basarsky, T. A., Liu, F., Jeftinija, K., Jeftinija, S. & Haydon, P. G.
+Glutamate-mediated astrocyte–neuron signalling. Nature 369, 744–747
+(1994).
+38. Ikonomidou, C. et al. Blockade of NMDA receptors and apoptotic
+neurodegeneration in the developing brain. Science 283, 70–74 (1999).
+39. Ikonomidou, C., Stefovska, V. & Turski, L. Neuronal death enhanced by Nmethyl-D-aspartate antagonists. Proc. Natl. Acad. Sci. USA 97, 12885–12890
+(2000).
+40. Young, D., Lawlor, P. A., Leone, P., Dragunow, M. & During, M. J.
+Environmental enrichment inhibits spontaneous apoptosis, prevents seizures
+and is neuroprotective. Nat. Med. 5, 448–453 (1999).
+41. Olney, J. W., Collins, R. C. & Sloviter, R. S. Excitotoxic mechanisms of
+epileptic brain damage. Adv. Neurol. 44, 857–77 (1986).
+42. Bittigau, P. & Ikonomidou, C. Glutamate in neurologic diseases. J. Child
+Neurol. 12, 471–485 (1997).
+43. Dirnagl, U., Iadecola, C. & Moskowitz, M. A. Pathobiology of ischaemic
+stroke: an integrated view. Trends Neurosci. 22, 391–397 (1999).
+44. Lee, J.-M., Zipfel, G. J. & Choi, D. W. The changing landscape of ischaemic
+brain injury mechanisms. Nature 399, A7–A14 (1999).
+45. Hossmann, K. A. Viability thresholds and the penumbra of focal ischemia.
+Ann. Neurol. 36, 557–565 (1994).
+46 Riccio, A., Ahn, S., Davenport, C. M., Blendy, J. A. & Ginty, D. D. Mediation
+by a CREB family transcription factor of NGF-dependent survival of
+sympathetic neurons. Science 286, 2358–2361 (1999).
+47. Walton, M. R. & Dragunow, M. Is CREB a key to neuronal survival? Trends
+Neurosci. 23, 48–53 (2000).
+48. Kokaia, Z. et al. Regulation of brain-derived neurotrophic factor geneexpression after transient middle cerebral artery occlusion with and without
+brain damage. Exp. Neurol. 136, 73–88 (1995).
+49. Bading, H. & Greenberg, M. E. Stimulation of protein tyrosine
+phosphorylation by NMDA receptor activation. Science 253, 912–914 (1991).
+50. Keelan, J., Vergun, O. & Duchen, M. R. Excitotoxic mitochondrial
+depolarisation requires both calcium and nitric oxide in rat hippocampal
+neurons. J. Physiol. 520, 797–813 (1999).
+
+nature neuroscience • volume 5 no 5 • may 2002
+
+

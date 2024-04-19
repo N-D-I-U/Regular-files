@@ -1,0 +1,1273 @@
+See discussions, stats, and author proﬁles for this publication at: https://www.researchgate.net/publication/233878763
+
+-Synuclein-Induced Down-Regulation of Nurr1 Disrupts GDNF Signaling in
+Nigral Dopamine Neurons
+Article in Science translational medicine · December 2012
+DOI: 10.1126/scitranslmed.3004676 · Source: PubMed
+
+CITATIONS
+
+READS
+
+100
+
+366
+
+6 authors, including:
+Decressac Mickael
+
+Banafsheh Kadkhodaei
+
+Telethon Institute of Genetics and Medicine
+
+University of California, San Francisco
+
+28 PUBLICATIONS 1,303 CITATIONS
+
+14 PUBLICATIONS 499 CITATIONS
+
+SEE PROFILE
+
+SEE PROFILE
+
+Bengt Mattsson
+
+Ariadna Laguna
+
+Lund University
+
+VHIR Vall d’Hebron Research Institute
+
+34 PUBLICATIONS 2,355 CITATIONS
+
+14 PUBLICATIONS 490 CITATIONS
+
+SEE PROFILE
+
+All content following this page was uploaded by Decressac Mickael on 31 May 2014.
+The user has requested enhancement of the downloaded ﬁle.
+
+SEE PROFILE
+
+α-Synuclein−Induced Down-Regulation of Nurr1 Disrupts GDNF Signaling
+in Nigral Dopamine Neurons
+Mickael Decressac et al.
+Sci Transl Med 4, 163ra156 (2012);
+DOI: 10.1126/scitranslmed.3004676
+
+Editor's Summary
+
+Glial cell line−derived neurotrophic factor (GDNF) and its close relative neurturin are currently in clinical trials for
+neuroprotection in patients with Parkinson disease (PD). Although effective in classic neurotoxin animal models of this
+disease, GDNF has failed to afford protection in PD rodent models in which dopamine neurons are killed by α
+-synuclein toxicity. Using a rat model of α-synuclein−mediated PD, Decressac et al. now show that excess cellular
+concentrations of α-synuclein effectively block the trophic response of dopamine neurons to GDNF. They provide
+evidence that blockade of GDNF signaling is caused by reduced expression of the transcription factor Nurr1 and its
+downstream target, the GDNF receptor Ret. Deletion of Nurr1 resulted in reduced Ret expression, accompanied by a
+complete failure of dopamine neurons to respond to exogenously applied GDNF. However, when the investigators
+induced expression of Nurr1, Ret receptor expression was restored as well as the response to GDNF in the dopamine
+neurons subjected to α-synuclein toxicity. These results suggest that Nurr1 is a key player in the cellular defense
+against α-synuclein toxicity and highlight Nurr1 as a promising new target for neuroprotective therapy.
+
+A complete electronic version of this article and other services, including high-resolution figures,
+can be found at:
+http://stm.sciencemag.org/content/4/163/163ra156.full.html
+Supplementary Material can be found in the online version of this article at:
+http://stm.sciencemag.org/content/suppl/2012/12/03/4.163.163ra156.DC1.html
+Information about obtaining reprints of this article or about obtaining permission to reproduce this
+article in whole or in part can be found at:
+http://www.sciencemag.org/about/permissions.dtl
+
+Science Translational Medicine (print ISSN 1946-6234; online ISSN 1946-6242) is published weekly, except the
+last week in December, by the American Association for the Advancement of Science, 1200 New York Avenue
+NW, Washington, DC 20005. Copyright 2012 by the American Association for the Advancement of Science; all
+rights reserved. The title Science Translational Medicine is a registered trademark of AAAS.
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+NURRishing Dopamine Neurons with GDNF
+
+RESEARCH ARTICLE
+PARKINSON’S DISEASE
+
+a-Synuclein–Induced Down-Regulation of Nurr1
+Disrupts GDNF Signaling in Nigral Dopamine Neurons
+Glial cell line–derived neurotrophic factor (GDNF) and its close relative neurturin are currently in clinical trials for
+neuroprotection in patients with Parkinson disease (PD). However, in animal models of PD, GDNF fails to protect
+nigral dopamine (DA) neurons against a-synuclein–induced neurodegeneration. Using viral vector delivery of human wild-type a-synuclein to nigral DA neurons in rats, we show that the intracellular response to GDNF is blocked
+in DA neurons that overexpress a-synuclein. This block is accompanied by reduced expression of the transcription
+factor Nurr1 and its downstream target, the GDNF receptor Ret. We found that Ret expression was also reduced in
+nigral DA neurons in PD patients. Conditional knockout of Nurr1 in mice resulted in reduced Ret expression and
+blockade of the response to GDNF, whereas overexpression of Nurr1 restored signaling, providing protection of
+nigral DA neurons against a-synuclein toxicity. These results suggest that Nurr1 is a regulator of neurotrophic factor
+signaling and a key player in the cellular defense against a-synuclein toxicity.
+
+INTRODUCTION
+The pathogenic processes leading to the progressive loss of nigral dopamine (DA) neurons and aggregation of a-synuclein in Parkinson
+disease (PD) are poorly understood. Current clinical interventions provide symptomatic relief, but none of the neuroprotective or neuroregenerative strategies successfully tested in preclinical models of PD
+have so far provided therapeutic benefits in clinical trials (1). Glial cell
+line–derived neurotrophic factor (GDNF) and its close relative neurturin,
+in particular, have been shown to provide substantial anatomical and
+functional rescue of the nigrostriatal pathway in both rodent and primate
+models of PD in which the nigrostriatal DA neurons were killed by the
+toxins 6-hydroxydopamine (6-OHDA) or 1-methyl-4-phenyl-1,2,3,6tetrahydropyridine (MPTP) (2–6). Despite promising preclinical data,
+however, it remains unclear whether GDNF or neurturin can provide
+neuroprotection or restorative efficacy in PD patients (7–11).
+The development of disease-modifying drugs for PD is impeded by
+the lack of animal models that faithfully mimic the human disease. The
+standard toxin-based models of PD reproduce the canonical loss of
+midbrain DA neurons but fail to replicate the progressive, timedependent nature of the degenerative process and the development of
+a-synucleinopathy (12). Over the last decade, our insights into the pathogenic mechanisms of PD have increased. Mechanisms related to free
+radical stress and mitochondrial damage play a role, but they constitute
+only part of the intricate neuropathological cascade leading to neuronal
+dysfunction and cell death. In particular, considerable progress has been
+made on the involvement of a-synuclein in PD pathogenesis (13, 14).
+Thus, increased cellular concentrations of native a-synuclein, or formation of toxic forms of the protein, have been shown to induce progressive
+degenerative changes in the affected DA neurons. This is revealed at early stages as axonal damage and synaptic dysfunction and later is followed
+by degeneration and loss of nigral DA neurons (15–17). Because of the
+1
+Wallenberg Neuroscience Center, Department of Experimental Medical Sciences,
+Lund University, BMC A11, Lund 22184, Sweden. 2Ludwig Institute for Cancer Research,
+Karolinska Institutet, Stockholm S-171 77, Sweden. 3Department of Cell and Molecular
+Biology, Karolinska Institutet, Stockholm S-171 77, Sweden.
+*To whom correspondence should be addressed. E-mail: Anders.Bjorklund@med.lu.se
+(A.B.); Mickael.Decressac@med.lu.se (M.D.)
+
+broad impact of a-synuclein toxicity that extends beyond free radical
+damage and mitochondrial dysfunction modeled in the 6-OHDA and
+MPTP toxin models of PD, we and others have reexamined the neuroprotective effects of GDNF in the more recently introduced a-synuclein
+overexpression models of PD. We have found that in these a-synuclein
+overexpression models, GDNF indeed fails to protect nigral DA neurons
+against a-synuclein–induced toxicity (18, 19).
+The marked discrepancy in neuroprotective potency of GDNF in
+neurotoxin and a-synuclein models of PD raises the possibility that increased cellular concentrations of a-synuclein may interfere with GDNF
+signaling, rendering nigral DA neurons desensitized to its trophic effect. Here, we have used targeted delivery of an a-synuclein expressing
+adeno-associated viral (AAV) vector to overexpress human wild-type
+a-synuclein in nigral DA neurons in adult rats. We show that the intracellular signaling response induced by GDNF is almost completely
+blocked in the a-synuclein–affected DA neurons. Markedly, this blockade was accompanied by reduced expression of the transcription factor Nurr1 and its downstream regulated targets, including the GDNF
+receptor Ret. Down-regulation of Nurr1, induced by a-synuclein, affected not only the expression of components of the DA synthesis and
+release machinery but also the ability of the nigral DA neurons to respond
+to GDNF through regulation of Ret expression. We show that this blockade of the GDNF response is effectively reversed by overexpression of
+Nurr1 in the affected cells and that increased expression of Nurr1 can
+provide near-complete protection of nigral DA neurons against a-synuclein
+toxicity, also in the absence of exogenously administered GDNF.
+
+RESULTS
+a-Synuclein impairs the response of rat nigral
+DA neurons to GDNF
+We used a recombinant AAV vector to overexpress human wild-type
+a-synuclein in nigral DA neurons of rat brain. We injected 3 ml of the
+vector unilaterally into the substantia nigra of adult rats. Control rats
+received a similar injection of an AAV vector expressing a gene encoding green fluorescent protein (GFP) instead of the gene encoding
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+1
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+Mickael Decressac,1* Banafsheh Kadkhodaei,2 Bengt Mattsson,1 Ariadna Laguna,2
+Thomas Perlmann,2,3 Anders Björklund1*
+
+human a-synuclein. a-Synuclein was expressed at a level sufficient to
+induce progressive degeneration of DA neurons and time-dependent
+DA neuron loss (16). First, we assessed the trophic response induced
+by GDNF in midbrain DA neurons overexpressing either a-synuclein
+or GFP. GDNF was given as a single 1-mg injection into the striatum
+2 weeks after vector injection, that is, at a time when a-synuclein (and
+GFP) was expressed but before any cell loss had occurred (16); animals
+were sacrificed 2 days after GDNF injection. The induced trophic response was assessed by monitoring the expression of the phosphorylated ribosomal protein S6 by immunohistochemistry. Phosphorylation
+of ribosomal protein S6 is an indicator of the upstream activation of
+the neuroprotective Akt/mTOR (mammalian target of rapamycin) pathway. In the AAV-GFP–injected control rats, injection of GDNF into
+the striatum elicited a distinct trophic response specifically confined
+to the nigral DA neurons, identified by their expression of tyrosine
+hydroxylase (TH), an enzyme necessary for the production of DA. In
+Fig. 1A and fig. S1, GDNF induced intense immunoreactivity of phosphorylated ribosomal protein S6 selectively in the TH-positive DA
+neurons on the side ipsilateral to the injection. Consistent with the
+well-established neuroprotective effect of GDNF in the standard toxinbased models of PD, a similar response was observed in rats that received
+an injection of 6-OHDA into the medial forebrain bundle (MFB) 2 days
+before the striatal injection of GDNF (Fig. 1A and fig. S1). By contrast,
+2 weeks after intranigral injection of AAV–a-synuclein, the transduced
+DA neurons failed to elicit such activation (Fig. 1A and fig. S1). We
+confirmed that the absence of phosphorylated ribosomal protein S6
+staining did not result from loss of nigral DA neurons because 2 weeks
+after AAV–a-synuclein injection, most nigral neurons expressed the transgene, but no significant neuronal or terminal loss was observed at this
+time point [fig. S2; see also (16)].
+Previous studies suggest that a-synucleinopathy may result in blockade of axonal transport (15, 20). To circumvent this possible defect,
+we performed a similar experiment where GDNF (1 mg) was delivered
+into the substantia nigra. Whereas nigral DA neurons overexpressing
+GFP showed a clear response to GDNF, phosphorylated ribosomal
+protein S6 immunoreactivity was markedly reduced in neurons overexpressing a-synuclein (bottom row in Fig. 1A).
+To further investigate this lack of response, we analyzed the activation of several proteins involved in the GDNF signaling cascade including Ret, Akt, extracellular signal–regulated kinase 1/2 (ERK1/2),
+S6, and Bad by Western blot. Consistent with our histological observation, we found that GDNF triggered activation of these effectors in
+intact, GFP-overexpressing, 6-OHDA–treated neurons, as seen by increased concentrations of phosphorylated Ret, Akt, ERK, S6, and Bad,
+suggesting a prosurvival effect of the neurotrophic factor (Fig. 1, B and
+C). By contrast, striatal injection of GDNF in a-synuclein–overexpressing
+rats failed to activate the Akt and mitogen-activated protein kinase
+(MAPK) pathways, although Ret was phosphorylated to the same magnitude as in the other conditions, suggesting a blockade of the pathway downstream of the receptor (Fig. 1C). Recent studies suggest that
+GDNF induces the expression of the transcription factors Nurr1 and Pitx3
+(21, 22). Here, using quantitative real-time polymerase chain reaction
+(qPCR) analysis, we show that intrastriatal injection of GDNF induced
+increases in the concentrations of both Nurr1 (2.3 ± 0.3–fold increase)
+and Pitx3 (2.4 ± 0.3–fold increase) mRNAs, as well as those of their
+transcriptional targets TH (2.0 ± 0.2–fold), vesicular monoamine
+transporter 2 (VMAT-2) (1.8 ± 0.2–fold), DA transporter (DAT)
+(1.7 ± 0.1–fold), aromatic L-amino acid decarboxylase (AADC) (1.4 ±
+
+0.1–fold), and Ret (1.9 ± 0.2–fold) relative to the intact side (all P <
+0.05) (open bar in Fig. 1D). Brain-derived neurotrophic factor (BDNF)
+mRNA was also increased (1.8 ± 0.2–fold), whereas expression of GFRa1
+(GDNF family receptor a1), NeuN, and Girk-2 transcripts remained
+unchanged (P > 0.05). By contrast, GDNF failed to trigger changes in
+expression of these targets in a-synuclein–overexpressing animals (all
+P < 0.05 compared to the GFP group) (black bar in Fig. 1D). The expression of the genes is reduced below that seen on the control side,
+which is due to the effect of a-synuclein overexpression (see below).
+Similarly, histological analysis revealed that induction of phosphorylated
+CREB (adenosine 3′,5′-monophosphate response element–binding
+protein), a transcription factor involved in Nurr1-mediated neuroprotection (23), was absent 2 days after intrastriatal injection of GDNF in
+AAV–a-synuclein–injected animals compared to the GFP group (Fig. 1E).
+Enzyme-linked immunosorbent assay (ELISA) measurements revealed that the expression of endogenous GDNF was significantly elevated in the substantia nigra (183 ± 18%) and striatum (161 ± 15%)
+(all P < 0.01) at 2 weeks after AAV–a-synuclein injection compared to
+the GFP group (Fig. 1F). Therefore, we looked at whether endogenous
+GDNF was able to trigger any related intracellular pathways in the
+nigral DA neurons. We found that Ret was not activated (119 ± 14%),
+and the concentrations of phosphorylated Akt (p-Akt; 61 ± 6%) and
+phosphorylated S6 (p-S6; 33 ± 9%) were significantly reduced (P < 0.01)
+in a-synuclein–transduced animals not challenged with exogenous GDNF.
+This suggested that the a-synuclein–overexpressing nigral neurons were
+not able to respond to either exogenous or endogenous GDNF (Fig. 1G).
+To ascertain that the lack of response to GDNF was not due to a
+misleading observation at a single time point (48 hours after GDNF
+injection in Fig. 1), we performed a time-course study and examined the
+activation of the same markers, as above, after 6, 24, and 72 hours. The
+same defect in the response to GDNF was apparent in the a-synuclein–
+overexpressing nigral neurons at all time points, as assessed by histological and Western blot analyses (Fig. 2, A and B). The immunostaining
+against human GDNF showed that the injection of the recombinant
+peptide (1 mg) covered the entire striatal region (fig. S1). Thus, we speculated that the activation of nigral DA neurons might be dose-dependent.
+Therefore, we performed an additional experiment where GDNF was
+delivered at a 10-fold higher dose (10 mg). Likewise, at this very high
+dose, the response of a-synuclein–transduced neurons to GDNF was
+almost completely blocked compared to control AAV-GFP and 6-OHDA–
+injected rats (Fig. 2, C and D).
+Finally, we measured the expression of human GDNF by ELISA in
+the rat midbrain 48 hours after injection (10 mg) and found that the
+amount of protein transported back to the substantia nigra was significantly reduced in the a-synuclein–transduced animals (1.0 ± 0.3 pg/mg)
+compared to the AAV-GFP group (3.6 ± 0.6 pg/mg) (P < 0.01) (Fig. 2E).
+Histological analysis further confirmed this finding, as abundant punctate
+GDNF staining was observed in the soma of nigral neurons overexpressing GFP 6 hours after injection of GDNF into the striatum, whereas
+very few cells contained human GDNF in the AAV–a-synuclein group
+(Fig. 2F).
+GDNF signaling cascade is impaired in nigral DA neurons
+overexpressing a-synuclein
+Next, we performed qPCR analysis to assess the impact of a-synuclein
+on components of the GDNF signaling cascade and the DA synthesis
+and release machinery. Overexpression of human a-synuclein induced
+down-regulation of genes involved in DA neurotransmission, including
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+2
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+Fig. 1. a-Synuclein suppresses
+the response to GDNF. (A) Immunostaining of phosphorylated ribosomal protein S6 in
+the midbrain of rats 2 days
+after unilateral (right side) intrastriatal or intranigral injection
+of human recombinant GDNF
+(1 mg/3 ml). Control (top left), 6OHDA–injected (top right), GFPoverexpressing (middle and
+bottom left), or a-synuclein (asyn)–overexpressing (middle
+and bottom right) midbrain
+neurons. Scale bar, 600 mm.
+SN, injection in the substantia
+nigra; Str, injection in the striatum. (B and C) Western blot of
+Ret, ERK1/2, Akt, S6, and Bad activation in control, 6-OHDA–
+treated, GFP-overexpressing,
+or a-synuclein–overexpressing
+rat midbrain 48 hours after intrastriatal injection of GDNF.
+Data are expressed as means ±
+SEM (n = 5 per group). *P < 0.05
+compared to the AAV-GFP group
+(Student’s t test). (D) qPCR analysis showing mRNA expression
+of human a-synuclein, Nurr1,
+Pitx3, TH, VMAT-2, DAT, AADC,
+Ret, GFRa1, BDNF, NeuN, and
+Girk-2 in rat midbrain overexpressing GFP or a-synuclein
+2 days after intrastriatal injection of GDNF. *P < 0.05 compared to the AAV-GFP group
+(Student’s t test). (E) Double
+immunofluorescence staining
+showing the activation of phosphorylated CREB in nigral
+neurons stimulated 48 hours
+previously by intrastriatal injection of GDNF. By contrast,
+a-synuclein–overexpressing
+neurons failed to elicit a similar response on challenge with
+GDNF. Scale bar, 50 mm. (F)
+ELISA measurements of endogenous rat GDNF concentrations
+from midbrain and striatal tissue 2 weeks after intranigral
+delivery of AAV-GFP or AAV–a-synuclein vectors. Data are expressed as
+means ± SEM (n = 4 per group). *P < 0.05 compared to the AAV-GFP group
+(Student’s t test). SN, substantia nigra; Str, striatum. (G) Western blot analysis
+revealed that the a-synuclein–induced increase of endogenous GDNF is unable to trigger a response from nigral DA neurons, as seen by the unchanged
+concentration of phosphorylated Ret and the reduced expression of p-S6
+and p-Akt in the AAV–a-synuclein group compared to the AAV-GFP control
+group. Data are expressed as means ± SEM (n = 5 per group). *P < 0.05 compared to the AAV-GFP group (Student’s t test).
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+3
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+Fig. 2. Impairment of the response to GDNF is not time- or dose-dependent.
+(A) Immunostaining of p-S6 in the midbrain of rats overexpressing GFP as
+control or a-synuclein 6, 24, and 72 hours after unilateral (right side) intrastriatal injection of human GDNF (1 mg/3 ml). Scale bar, 800 mm. (B) Phosphorylated Ret, Akt, and S6 proteins in the midbrain were quantified from
+Western blot experiments. The plots represent mean values (n = 5 per group
+at each time point). *P < 0.05 compared to the AAV-GFP group (Student’s t
+test). (C) Immunostaining of p-S6 in the midbrain of rats overexpressing
+GFP as control or a-synuclein 48 hours after intrastriatal injection (right side)
+of a higher dose of human GDNF (10 mg/3 ml). Scale bar, 800 mm. (D) Quantification of Western blots of phosphorylated Ret, Akt, and S6 in control,
+6-OHDA–injected, GFP-overexpressing, or a-synuclein–overexpressing rats
+
+48 hours after intrastriatal injection of a high dose of GDNF (10 mg). Data
+are expressed as means ± SEM (n = 5 per group). *P < 0.05 compared to
+the AAV-GFP group (Student’s t test). (E) Human GDNF measured by ELISA
+in striatal and midbrain tissues from rats overexpressing GFP or a-synuclein
+6 hours after intrastriatal injection of 10 mg of human GDNF. Data are expressed as percentage of GFP control group and presented as means ± SEM
+(n = 4 per group). *P < 0.05 compared to the AAV-GFP group (Student’s t
+test). (F) Double immunofluorescence staining showing the retrograde
+transport of human GDNF 6 hours after intrastriatal injection in control
+rats overexpressing GFP (top). Reduced GDNF immunoreactivity (red) is
+observed in the TH-positive nigral neurons (green) of rats overexpressing
+a-synuclein (bottom). Scale bar, 20 mm.
+
+the dopaminergic markers TH (43 ± 9%), VMAT-2 (40 ± 12%), DAT
+(58 ± 11%), and AADC (36 ± 11%) and the transcription factors Nurr1
+(35 ± 10%), Pitx3 (48 ± 8%), and MEF2D (63 ± 8%; all P < 0.01) (Fig.
+3A). Notably, we found a marked reduction in the expression of the
+GDNF receptor Ret (33 ± 6%; P < 0.001), whereas the expression of
+GFRa1 was unaltered (96 ± 8%) (Fig. 3A). A significant reduction in
+the expression of endogenous rat a-synuclein (55 ± 12% of control),
+
+BDNF (65 ± 7%), and the PD-related gene DJ-1 (64 ± 9%) was observed (all P < 0.01) (Fig. 3A). We also examined the expression of
+microRNAs (miRs) and found reduced expression of miR-21 (64 ± 10%)
+and miR-22 (47 ± 9%), regulators of phosphatase and tensin homolog
+(PTEN) (24, 25), as well as of miR-133b (55 ± 11%), regulator of Pitx3
+(26) (all P < 0.01) (Fig. 3A). By contrast, concentrations of miR-7 (170 ±
+15%) and miR-153 (180 ± 19%), regulators of a-synuclein (27, 28), were
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+4
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+Fig. 3. a-Synuclein overexpression represses DA synthesis and release. (A)
+qPCR analysis of human and rat a-synuclein, Nurr1, Pitx3, TH, VMAT-2, DAT,
+AADC, Ret, GFRa1, MEF2D, DJ-1, BDNF, Girk-2, and NeuN mRNAs, and
+miR-21, -22, -7, -153, -133b, and -124, in the rat midbrain 2 weeks after
+injection of AAV-GFP or AAV–a-synuclein vectors. Data are expressed as
+means ± SEM (n = 5 per group). *P < 0.05 compared to the AAV-GFP group
+(Student’s t test). (B) In situ hybridization of TH, Nurr1, Pitx3, DAT, and Ret
+mRNAs in rat midbrain sections 2 weeks after intranigral injection of
+AAV–a-synuclein vector (right side). Scale bar, 1 mm. (C and D) Concentra-
+
+tions of Nurr1, Pitx3, TH, VMAT-2, DAT, PTEN, Ret, and GFRa1 in midbrain
+from GFP or a-synuclein–overexpressing animals were analyzed by Western blot. Data are expressed as means ± SEM (n = 5 per group) *P < 0.05
+compared to the AAV-GFP group (Student’s t test). (E) Immunofluorescence
+images illustrating the reduced expression of TH, VMAT-2, Ret, Nurr1, p-S6,
+and MEF2D in nigral DA neurons overexpressing human a-synuclein (bottom row) compared to the noninjected control side (top row); expression
+of GFRa1 and NeuN were unaffected. Scale bar, 60 mm for a-synuclein, TH,
+Ret, Nurr1, and p-S6 and 30 mm for VMAT-2, GFRa1, and MEF2D.
+
+significantly increased, which is consistent with the reduced expression
+of their target (all P > 0.001) (Fig. 3A). No changes in the expression
+of NeuN (108 ± 10%), Girk-2 (109 ± 12%), and miR-124 (102 ± 4%)
+were observed in the AAV–a-synuclein group compared to the AAVGFP groups (Fig. 3A). Reduction in mRNA concentrations of Nurr1,
+Pitx3, TH, DAT, and Ret was confirmed by in situ hybridization 2
+weeks after AAV–a-synuclein injection (Fig. 3B) and was also observed at the protein level, as assessed by Western blot analysis (Fig.
+3, C and D) and immunohistochemistry (Fig. 3E).
+As previously reported (29), examination of human postmortem
+midbrain sections from six PD patients revealed that TH immunoreactivity
+
+was markedly reduced in nigral DA neurons containing a-synuclein–
+positive inclusions compared to DA neurons without Lewy bodies or
+neurons from control specimens (Fig. 4, top panel). This supports the
+idea that this down-regulation might be a pathological event characteristic of PD and not just a restricted observation in our animal model. We also found that Ret immunoreactivity was reduced in nigral DA
+neurons from PD brains compared to age-matched healthy controls
+(Fig. 4, bottom panel).
+Sections stained for a-synuclein phosphorylated on serine 129
+(Ser129) showed prominent nuclear localization of a-synuclein in many
+DA neurons (fig. S3A). Previous studies have suggested that nuclear
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+5
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+Fig. 4. Down-regulation of
+TH and Ret in human PD brain.
+(Top) Immunofluorescence staining of human control and PD
+postmortem midbrain tissue
+showing the reduced expression
+of TH (red) in nigral neurons containing a-synuclein–positive inclusions (green). Nigral neurons
+were identified by the presence
+of neuromelanin using light microscopy (pseudocolor, blue).
+(Bottom) Immunostaining of
+Ret (gray/blue) in three human
+control and six PD midbrain
+sections illustrating the reduced
+expression of the GDNF receptor Ret in nigral DA neurons
+identified by neuromelanin pigment (brown). Scale bar, 20 mm.
+
+translocation of a-synuclein, which is facilitated by phosphorylation at
+Ser129, may be detrimental for DA neurons and may have an impact
+on the transcriptional machinery (30–34). Marked reduction in the concentration of the dopaminergic marker VMAT-2 and the survival-related
+transcription factor MEF2D (35) was specifically observed in nigral neurons with strong immunoreactivity for phosphorylated a-synuclein in
+the nucleus (fig. S3, A and B). Co-immunoprecipitation experiments
+revealed that a-synuclein interacts with histone H3 in the nucleus (fig. S3D)
+and reduces its acetylation in a-synuclein–overexpressing animals (fig.
+S3C), suggesting a negative effect on transcriptional activity. Consistent
+with a previous study performed in a-synuclein transgenic mice (36), we
+found that the expression of the histone acetyltransferase p300 was
+lower in rats overexpressing a-synuclein compared to controls (fig.
+
+S3E). In addition, expression of sirtuin-2, a histone deacetylase known
+to be abundant in the aging brain and whose inhibition was shown to
+protect against a-synuclein–induced toxicity (37, 38), was higher in the
+AAV–a-synuclein–transduced midbrain compared to that of control
+rats (fig. S3E). Given that sirtuin-2 is known to deacetylate tubulin, it
+may affect axonal transport. Western blot analysis showed reduced concentrations of acetyl-a-tubulin, which is in line with the defect of GDNF
+transport described above (fig. S3E).
+Nurr1 is a key
+regulator of the GDNF signaling cascade
+The prominent a-synuclein–induced down-regulation of Nurr1 and its
+target, the GDNF receptor Ret, suggested a potential role for Nurr1 in
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+6
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+Fig. 5. Nurr1 is crucial for the maintenance of DA markers and Ret expression. (A) Immunostaining for
+human GDNF showing distribution of the protein 24 hours after unilateral injection of 1 mg of human recombinant GDNF into the mouse striatum (right side). Scale bar, 1.5 mm. (B) Immunostaining for p-S6 in
+control Nurr1WT/WT (top) and Nurr1cKO/cKO mice (bottom) 24 hours after unilateral intrastriatal injection of
+GDNF (1 mg/1 ml) (right side). Scale bar, 800 mm. (C and D) Western blot of phosphorylated Ret, Akt, and
+S6 in Nurr1WT/WT and Nurr1cKO/cKO mice 24 hours after intrastriatal injection of GDNF (1 mg/1 ml) showing the
+response of nigral DA neurons in transgenic mice compared to controls. Data are expressed as means ± SEM
+(n = 5 per group). *P < 0.05 compared to the Nurr1+/+ group (Student’s t test). (E) In situ hybridization of TH,
+AADC, Ret, GFRa1, and a-synuclein in midbrain sections 8 weeks after tamoxifen treatment of control and
+Nurr1 floxed mice. Scale bar, 200 mm. (F) qPCR analysis of Nurr1, Pitx3, TH, VMAT-2, DAT, AADC, Ret, and
+GFRa1 mRNAs in Nurr1-ablated and control mice 8 to 10 weeks after tamoxifen treatment. Data are expressed as means ± SEM (n = 5 per group). *P < 0.05 compared to the Nurr1WT/WT group (Student’s t test).
+(G) Western blot analysis of Nurr1, TH, DAT, Ret, and GFRa1 in midbrain tissue from Nurr1WT/WT and
+Nurr1cKO/cKO mice 8 to 10 weeks after tamoxifen treatment. *P < 0.05 (Student’s t test).
+
+the regulation of the cell’s responsiveness to GDNF. To investigate this
+further, we used a strain of gene-targeted (floxed) mice in which Nurr1
+can be conditionally ablated in adult DA neurons by treatment with tamoxifen (Nurr1 conditional knockout mice) to determine the importance of this transcription factor in the maintenance of the GDNF
+
+signaling pathway. Homozygous floxed
+mice (1.5 months old) and control littermates were treated with tamoxifen, received an intrastriatal injection of GDNF
+(1 mg) 8 to 10 weeks later, and were sacrificed after 24 hours (Fig. 5A). Histological
+analysis showed that GDNF injection triggered phosphorylation of ribosomal protein S6 in nigral DA neurons on the injected
+side in control animals, whereas immunoreactivity for phosphorylated ribosomal protein S6 was similar on the two sides
+in the transgenic mice with conditional
+knockout of Nurr1 (Fig. 5B). Western blot
+analysis revealed that Ret activation in the
+striatum was similar in the control and Nurr1
+conditional knockout mice (222 ± 18%
+increase in control mice and 194 ± 19%
+increase in Nurr1 conditional knockout
+mice, P = 0.68), whereas downstream activation of Akt and S6 was significantly
+impaired in the Nurr1 conditional knockout mice (156 ± 29% increase for p-Akt
+and 142 ± 18% increase for p-S6) compared to control littermates (323 ± 41%
+for p-Akt and 289 ± 29% for p-S6) (all
+P < 0.01) (Fig. 5, C and D).
+We then examined how deletion of
+Nurr1 affected the expression of dopaminergic markers and GDNF receptors.
+Eight weeks after tamoxifen treatment,
+Nurr1 conditional knockout mice exhibited reduced expression of TH (47 ± 9%),
+VMAT-2 (51 ± 7%), DAT (35 ± 6%),
+AADC (53 ± 7), and Ret mRNAs (32 ±
+7%) (all P < 0.05), whereas GFRa1 (92 ±
+7%) and Pitx3 (98 ± 10%) concentrations
+were not altered compared to wild-type
+littermates (P > 0.05; Fig. 5F). These observations were further confirmed by in
+situ hybridization (Fig. 5E) and Western
+blot analysis (Fig. 5G). Together, our data
+show similar down-regulation of dopaminergic markers and disruption of GDNF
+signaling as a result of a-synuclein overexpression or Nurr1 ablation.
+
+Nurr1 overexpression restores
+the response to GDNF
+Next, we asked whether enhanced expression of Nurr1 (using AAV vector delivery)
+in a-synuclein–overexpressing neurons
+could restore their ability to respond to
+GDNF. First, we rescued the expression of this transcription factor in
+Nurr1 conditional knockout mice (Fig. 6A) and observed that it restored
+the responsiveness of nigral DA neurons to GDNF. This was seen as
+increased phosphorylated ribosomal protein S6 immunoreactivity induced by GDNF delivery to the striatum; mice receiving AAV-GFP
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+7
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+Fig. 6. Nurr1 overexpression restores DA marker expression and response to
+GDNF. (A) Schematic representation of the experimental timeline performed
+in the conditional knockout (cKO) Nurr1 mice. Tam, tamoxifen treatment. (B)
+p-S6 staining of midbrain section from Nurr1-ablated mice overexpressing GFP
+or Nurr1 2 days after unilateral intrastriatal injection of GDNF (1 mg) (right side).
+Scale bar, 800 mm. (C) qPCR analysis of Nurr1, Pitx3, TH, VMAT-2, Ret, and
+GFRa1 mRNAs in Nurr1cKO/cKO mice after AAV-mediated overexpression of
+GFP or Nurr1. Data are expressed as means ± SEM (n = 5 per group). *P <
+0.05 compared to the AAV-GFP group (Student’s t test). (D and E) Immunofluorescence images illustrating the AAV-mediated overexpression of GFP
+(D) or Nurr1 (E) (green) in nigral DA neurons (TH in red) when vectors were
+mixed with the AAV–a-synuclein vector. Scale bar, 150 mm. (F to I) p-S6 immunoreactivity in midbrain DA neurons overexpressing a-synuclein + GFP (F and H)
+or a-synuclein + Nurr1 (G and I) after injection of GDNF (H and I) or vehicle
+
+(F to G) into the striatum 2 days earlier (right side). Scale bar, 500 mm. (J)
+Quantification of Western blot analysis showing activation of Ret, Akt, S6,
+ERK1/2, and Bad in midbrain tissue after overexpression of a-synuclein + Nurr1,
+with or without stimulation by intrastriatal GDNF. Data are expressed as
+means ± SEM (n = 5 per group). *P < 0.05, Student’s t test. (K) qPCR analysis of
+human and rat a-synuclein, Nurr1, Pitx3, TH, VMAT-2, DAT, AADC, Ret, and
+GFRa1 mRNA concentrations in rat midbrain 2 weeks after AAV vector–
+mediated overexpression of a-synuclein + GFP or a-synuclein + Nurr1. Data
+are expressed as means ± SEM (n = 5 per group). *P < 0.05 compared to the
+AAV–a-synuclein + AAV-GFP group (Student’s t test). (L) Double immunofluorescence staining of human GDNF (red) and TH (green) showing that Nurr1
+overexpression was efficient in restoring retrograde transport of the neurotrophic factor in nigral DA neurons affected by a-synuclein. GDNF (10 mg/3 ml)
+was injected 2 days earlier into the striatum. Scale bar, 20 mm.
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+8
+
+RESEARCH ARTICLE
+
+Nurr1 protects against a-synuclein–induced toxicity
+To investigate the protective role of Nurr1 in the context of PD pathology, we studied whether modulation of Nurr1 expression affects
+survival of a-synuclein–overexpressing nigral DA neurons. We first
+evaluated the impact of Nurr1 ablation on a-synuclein–induced DA
+neurodegeneration (see experimental design in Fig. 7A). To do so, we
+injected AAV–a-synuclein vector at a concentration that induces
+marginal damage in wild-type Nurr1WT/WT mice (91 ± 4% of control
+side) (Fig. 7, C and D). In tamoxifen-treated Nurr1 conditional knockout mice, the amphetamine-induced rotation test revealed a significantly higher number of turns in homozygous Nurr1cKO/cKO mice
+(6.4 ± 1.1 turns) compared to either wild-type (0.6 ± 0.5 turns) or
+heterozygous animals (2.0 ± 0.7 turns) [(F2,42 = 6.56; P < 0.01); twoway analysis of variance (ANOVA) vector × genotype interaction]
+(Fig. 7B). Consistent with the behavioral data, stereological counts
+showed that a-synuclein caused significant loss of DA neurons in heterozygous Nurr1WT/cKO mice (74 ± 6% of control side) and an even
+more profound degeneration in homozygous Nurr1cKO/cKO mice (44 ±
+7% of control side) [(F2,42 = 11.06; P < 0.001); two-way ANOVA vector ×
+genotype interaction] (Fig. 7, C and D).
+We then examined whether Nurr1 overexpression can prevent dopaminergic cell loss caused by a-synuclein toxicity. Rats received intranigral injection of AAV–a-synuclein together with AAV-Nurr1 or
+AAV-GFP and were examined 8 weeks later (16, 39). We found that
+Nurr1 overexpression prevented the development of motor impairment (1.2 ± 0.9 turns/min) compared to the GFP control group (5.6 ±
+0.7 turns/min) (P < 0.05) (Fig. 7E). Stereological analysis showed that
+AAV-mediated Nurr1 expression afforded robust protection of VMAT2–positive nigral neurons (81 ± 9% of control side) compared to the
+GFP control group (35 ± 7% of control side) (P < 0.01) (Fig. 7, F and
+G), as well as near-complete protection of the striatal TH-positive innervation on the injected side (Fig. 7, H and I). Notably, this was
+accompanied by a marked activation of phosphorylated ribosomal
+
+protein S6 and retained Ret expression in the rescued nigral DA neurons in the Nurr1-treated rats (Fig. 7, I and J).
+Insulin-like growth factor 1 signaling is not affected
+in the AAV–a-synuclein model
+The marked effect of a-synuclein overexpression on GDNF signaling
+raises the question on whether the alterations described above are selective for signaling triggered by GDNF through the Ret receptor or
+whether other trophic factors acting through a receptor with tyrosine
+kinase activity are equally affected. We selected insulin-like growth
+factor 1 (IGF-1) for comparison because, like GDNF, it has previously
+been shown to exert neuroprotection in the rat 6-OHDA lesion model
+and because the A9 nigral neurons express high concentrations of
+IGF-1 receptor (IGF-1R) (40, 41). qPCR analysis showed that expression of IGF-1R was not altered by a-synuclein overexpression (fig.
+S4A), despite the increased expression of miR-7, reported above
+(Fig. 3A), which has been described as a negative regulator of this receptor in other cells (42). Delivery of IGF-1 into the striatum triggered
+an intracellular response in nigral DA neurons, as assessed by the expression of p-S6 (fig. S4B). Markedly, this response was unaffected in
+a-synuclein–overexpressing neurons (fig. S4B). Western blot analysis
+confirmed that the Akt, ERK1/2, and S6 pathways were equally stimulated by IGF-1 in all experimental groups (fig. S4C). Maintenance of
+IGF-1 signaling in the absence of Nurr1 was confirmed in tamoxifentreated Nurr1 conditional knockout mice. In these mice, IGF-1R expression was unchanged, and midbrain DA neurons were stimulated
+by IGF-1 with the same efficiency as in control wild-type animals (fig.
+S4, D and E). This may possibly explain why the IGF-1 signaling system in DA neurons escapes from the repressive effects of a-synuclein.
+
+DISCUSSION
+GDNF and related neurotrophic factors have profound protective
+effects on DA neurons in toxin animal models of PD. However, clinical trials using exogenous GDNF have provided inconclusive results.
+The data presented in this study provide a mechanistic explanation for
+these apparently conflicting results and suggest the intriguing possibility that a-synuclein toxicity acting at the level of gene expression leads
+to the disruption of neurotrophic signaling. The results show that increased cellular concentrations of a-synuclein block the intracellular
+signaling response to GDNF, thus affecting the ability of the nigral DA
+neurons to respond to both exogenous and endogenous GDNF, and
+that Nurr1 may mediate this effect. Consistent with previous findings in
+PD patients (29), the expression of Nurr1 was reduced by as much as 70
+to 80% in the a-synuclein–overexpressing DA neurons of rat brain. As a
+consequence, expression of several Nurr1 target genes involved in the
+regulation of DA neurotransmission, such as TH, DAT, and VMAT-2,
+was substantially reduced. This was also the case for the expression of the
+GDNF receptor Ret, which suggests that the blockade of the GDNF
+trophic response is due to reduced availability of the receptor on the
+affected cells. In support of this idea, we observed that Ret is down-regulated
+in nigral neurons in PD patients, whereas the response to another trophic
+factor, IGF-1, which acts through a different receptor independent of
+Nurr1 regulation, was unaltered in rats overexpressing a-synuclein.
+Recent studies have shown that the NR4A family of transcription
+factors, of which Nurr1 (NR4A2) is a member, has a broad impact on
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+9
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+failed to show any such activation (Fig. 6B). This functional effect was
+accompanied by the normalization of the expression of all dopaminergic markers and Ret expression (Fig. 6C).
+We then explored the same strategy in rats overexpressing asynuclein and found that AAV-mediated expression of Nurr1 was
+sufficient to partially restore the trophic response to GDNF in nigral
+DA neurons, as assessed histologically by staining for phosphorylated ribosomal S6 protein (Fig. 6, D to I). Notably, Western blot
+analysis revealed that activation of the intracellular signaling pathways was restored not only in Nurr1-overexpressing rats that had received an additional injection of GDNF but also in rats that did not
+receive any exogenous GDNF (Fig. 6J). This suggests that nigral DA
+neurons overexpressing Nurr1 were capable of responding not only to
+exogenous GDNF but also to the increased concentrations of endogenous GDNF induced in response to a-synuclein overexpression (Fig. 1F).
+qPCR data revealed that the expression of all dopaminergic markers and Ret were significantly greater, or even fully restored, in Nurr1overexpressing rats (all P < 0.05 compared to the AAV–a-synuclein
+group) (Fig. 6K). Finally, we found that forced Nurr1 expression in
+a-synuclein–transduced nigral neurons was able to restore GDNF retrograde transport compared to the GFP-treated control mice, where
+GDNF immunoreactivity in DA neurons was very low 6 hours after
+striatal delivery of GDNF (Fig. 6L).
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+Fig. 7. Nurr1 protects nigral DA neurons against a-synuclein toxicity. (A)
+Schematic representation of the experimental timeline. (B) a-Synuclein toxicity studied in Nurr1 conditional knockout mice with one or both Nurr1
+genes deleted. Motor impairment was assessed using amphetamine-induced
+rotation. Data are expressed as means ± SEM (n = 8 per group). *P < 0.05 compared to the AAV-GFP group (Student’s t test). (C) Quantification of THpositive nigral DA neurons 6 weeks after injection of AAV–a-synuclein or
+AAV-GFP in Nurr1WT/WT, Nurr1WT/cKO, and Nurr1cKO/cKO mice. *P < 0.05; twoway ANOVA (vector × genotype interaction) followed by Bonferroni post
+hoc test. (D) Immunostaining of TH-positive neurons in the substantia nigra
+6 weeks after nigral delivery of AAV-GFP or AAV–a-synuclein vector in
+Nurr1WT/WT, Nurr1WT/cKO, and Nurr1cKO/cKO mice. Scale bar, 600 mm. (E to I)
+Protection against a-synuclein–mediated toxicity in rats treated with
+AAV–a-synuclein. (E) Quantification of amphetamine-induced rotation
+8 weeks after intranigral injection of AAV–a-synuclein + AAV-Nurr1 or
+
+AAV–a-synuclein + AAV-GFP. *P < 0.05 compared to the AAV–a-synuclein +
+AAV-GFP group (Student’s t test). (F) Stereological estimation of the number of VMAT-2–positive nigral neurons 8 weeks after intranigral injection
+of a-synuclein + Nurr1 or a-synuclein + GFP. *P < 0.05 compared to the AAV–asynuclein + AAV-GFP group (Student’s t test). (G) VMAT-2–immunostained
+midbrain sections from rats overexpressing a-synuclein + Nurr1 or a-synuclein +
+GFP (right side). Scale bar, 600 mm. (H) Density of the striatal TH-positive
+innervation in rats 8 weeks after intranigral injection of a-synuclein + Nurr1
+or a-synuclein + GFP. *P < 0.05 compared to the AAV–a-synuclein + AAVGFP group (Student’s t test). (I) TH-immunostained forebrain sections from
+rats overexpressing a-synuclein + Nurr1 or a-synuclein + GFP (right side).
+Scale bar, 1.2 mm. (J and K) Immunostaining of phosphorylated S6 (J) and
+Ret (K) 2 days after intrastriatal injection of GDNF (1 mg/1 ml; right), showing
+restoration of the GDNF-induced trophic response in rats overexpressing
+Nurr1. Scale bar, 800 mm.
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+10
+
+cell survival. NR4A-deficient neurons are generally more sensitive to
+neurodegeneration, induced, for example, by excitotoxic or oxidative
+stress, which is likely to result from down-regulation of an NR4Adependent neuroprotective gene program (23, 43). Nurr1 is an important factor in the development and maintenance of midbrain DA
+neurons (44–46). Our new data, as well as the results from a previous
+study in MPTP-lesioned mice (47), show that Nurr1-deficient adult
+mouse DA neurons are more sensitive to both a-synuclein and MPTPinduced toxicity. Conversely, we show that overexpression of Nurr1
+can provide protection against the a-synuclein–induced toxic insult
+in nigral DA neurons.
+These observations support the idea that Nurr1 acts as a key factor
+in the maintenance of DA neurons, not only as a regulator of trophic
+signaling but probably also as a mediator of multiple signaling pathways that are involved in the control of both survival and function of
+midbrain DA neurons. It has been shown that Nurr1 is activated in
+response to excitotoxic and oxidative stress and that this effect is mediated by CREB (23, 43). This suggests that Nurr1 is a mediator of
+CREB-dependent neuroprotective responses that are activated by
+pathological stimuli or cellular stress. Moreover, as CREB is an effector
+in the two principal neuroprotective pathways, phosphatidylinositol
+3-kinase (PI3K)/Akt and MAPK (48), this points to a role of Nurr1 downstream of neurotrophic factor signaling. In support of this idea, we
+show that Nurr1 expression in nigral DA neurons is increased 2.3-fold
+in response to exogenously administered GDNF and that this is accompanied by two- to threefold increases in the concentrations of
+p-Akt, ERK1/2, and S6, as well as induction of phosphorylated CREB.
+This observation is in line with a recent study reporting transcriptional
+activation in nigral DA neurons on striatal injection of GDNF (22).
+Markedly, these downstream changes induced by injection of GDNF
+were all blocked in a-synuclein–overexpressing DA neurons. In AAV–asynuclein–injected rats not treated with GDNF, the endogenous
+GDNF concentration in the substantia nigra, as measured by ELISA,
+was increased by 60 to 80% compared to the contralateral intact side.
+Nevertheless, Ret was not activated and p-Akt and p-S6 concentrations were reduced below normal. This suggests that the blockade induced by increased cellular a-synuclein affected not only the response
+to exogenous GDNF but also endogenous GDNF signaling.
+The profound effect of a-synuclein on the expression of Nurr1 and
+other transcription factors involved in regulation of cell survival, such
+as Pitx3 and MEF2D, seen in the a-synuclein–overexpressing DA
+neurons, suggests that the toxic effects of a-synuclein, at least in part,
+may be induced at the level of gene transcription. a-Synuclein is located not only in the cytoplasm but also in the nucleus (30, 32–34, 49),
+and a previous study in Drosophila (31) has shown that a-synuclein
+targeted to the nucleus promotes toxicity, whereas cytoplasmic sequestration is protective. Here, they also showed that a-synuclein binds
+directly to histones, thus inhibiting acetylation in histone acetyltransferase assays and that the toxicity of a-synuclein could be rescued by
+administration of histone deacetylase inhibitors in both cell culture
+and transgenic flies. Consistent with these observations, we found that
+human a-synuclein expressed by the AAV vector interacts with histone
+H3 in the nucleus and that the expression of histone acetyltransferase
+p300 was reduced in the AAV–a-synuclein–treated animals, compared
+to the intact or GFP-transduced controls. By confocal microscopy, we
+could show that DA neurons with accumulation of phosphorylated
+a-synuclein in the nucleus had markedly reduced concentrations of two
+selected factors, the DA phenotypic marker VMAT-2 and the survival-
+
+related transcription factor MEF2D. Together, these data support the
+view that elevated concentrations of a-synuclein have profound effects
+on gene expression caused by a-synuclein entering the nucleus and that
+the impact on transcriptional activity, including expression of Nurr1,
+may be mediated by interactions with histones leading to inhibition
+of histone acetylation as previously suggested from studies in vitro (50).
+The central role of Nurr1 as a regulator of the GDNF-induced trophic response is further supported by the observations made in Nurr1
+conditional knockout mice. The expression of genes involved in DA
+neurotransmission (TH, AADC, DAT, and VMAT-2) was reduced by
+50 to 70% in the Nurr1 conditional knockout mice. The expression of
+the Ret receptor was reduced to a similar extent (−68% in the Nurr1
+conditional knockout mice compared to wild-type mice) as found in
+a-synuclein–overexpressing rats (−74% compared to the intact side).
+The response to GDNF stimulation, as measured by the increase in
+p-Akt and S6, was impaired. We show that enhanced expression of
+Nurr1 using AAV vector delivery reversed these gene expression changes
+and restored the trophic response to GDNF, not only in Nurr1 conditional knockout mice but also in DA neurons in the AAV–a-synuclein–
+overexpressing rats, showing that Nurr1 is both necessary and sufficient
+for maintenance of GDNF signaling in DA neurons affected by increased cellular concentrations of a-synuclein.
+In this analysis, we made two additional observations. First, retrograde transport of GDNF from striatum to nigra was markedly reduced (by about 75%) in the a-synuclein–overexpressing rat DA neurons,
+and this defect was reversed by Nurr1. Second, enhanced expression of
+Nurr1, in the absence of any exogenous GDNF, was able to induce a
+GDNF-like trophic response, seen as an activation of both the Ret receptor
+and its downstream signaling pathways (p-Akt, phosphorylated ERK, and
+p-S6). Consistent with these observations, we show that enhanced expression of Nurr1 is sufficient to protect the nigral DA neurons—both the cell
+bodies and the axonal projections in the striatum—against a-synuclein–
+induced toxicity. This suggests that Nurr1 can act on its own to activate
+the cell’s neuroprotective machinery in a way that mimics the response
+induced by GDNF. This intriguing similarity suggests the possibility that
+Nurr1 may act by restoring the ability of the a-synuclein–affected neurons to access and respond to endogenous GDNF.
+Similar to its mode of action in the peripheral nervous system, it
+has been proposed that GDNF can function as a retrograde trophic factor
+also in midbrain DA neurons, internalized by the terminals in the striatum with help from the Ret receptor, and transported to the cell bodies
+where it exerts its protective effects (51). Indeed, Bartus et al. (7) have
+suggested that the modest clinical response seen in PD patients who
+received AAV-neurturin injections in the striatum may be explained
+by impaired retrograde transport of the trophic factor back to the cell
+bodies in the substantia nigra. In AAV–a-synuclein–overexpressing
+rats, however, the GDNF response was equally impaired when GDNF
+was delivered into the striatum or into the substantia nigra. This suggests that a-synuclein–induced down-regulation of the Ret receptor
+is the primary defect and that reduced transport is the result of reduced availability of the Ret receptor at the axon terminals. Given that
+deletion of GDNF or Ret does not cause any acute DA neuron cell loss
+in adult mice (52–54), it is unlikely that limited access to GDNF, or
+reduced Ret signaling, is sufficient on its own to cause the pronounced
+neurodegenerative changes seen in a-synuclein–overexpressing neurons.
+In the AAV–a-synuclein–overexpressing rats, however, the endogenous concentration of GDNF was increased above normal, which makes
+it possible that the GDNF-like trophic response induced by Nurr1 is
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+11
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+RESEARCH ARTICLE
+
+MATERIALS AND METHODS
+Vector production
+Production of the AAV–a-synuclein, AAV-GFP, and AAV-Nurr1 vectors was performed as detailed in the Supplementary Materials.
+Animals
+Adult female Sprague-Dawley rats (Charles River), 225 to 250 g at the
+time of surgery, were housed two to three per cage with ad libitum
+access to food and water during a 12-hour light/dark cycle. All surgical
+procedures and treatments were conducted in accordance with guidelines
+set by the Ethical Committee for the use of laboratory animals in the
+Lund-Malmö region and the European Ethical Committee (86/609 EEC).
+Conditional Nurr1 knockout (cKO) mice and the tamoxifeninducible Cre recombinase transgenic line (DATCreERT2) were generated as previously described (44, 59). Crosses between these transgenic
+lines allow inducible Nurr1 gene ablation exclusively in DA neurons
+by generating mice that are homozygous for the conditional targeted
+Nurr1 allele and heterozygous for the DATCreERT2 allele (Nurr1flox/flox;
+
+DATCreERT2/WT). Littermates of genotype Nurr1+/+/DATCreERT2/+
+were used as control. For the neuroprotection study, heterozygous mice
+Nurr1+/−/DATCreERT2/+ were also used. Wild-type controls and heterozygous and homozygous floxed mice are referred in the manuscript
+as Nurr1WT/WT, Nurr1WT/cKO, and Nurr1cKO/cKO mice, respectively.
+Ablation of the Nurr1 gene was induced in 1.5-month-old mice by
+intraperitoneal injection of tamoxifen [Sigma; 20 mg/ml in ethanol/corn
+oil (9:1)] twice daily (2 mg per injection) during five consecutive days.
+Mice were housed two to seven per cage with ad libitum access to food
+and water during a 12-hour light/dark cycle.
+Surgical procedures
+All surgical procedures in rats were performed under general anesthesia with a 20:1 mixture of fentanyl citrate (Fentanyl) and medetomidin
+hypochloride (Dormitor), injected intraperitoneally. Surgeries in mice
+were performed under gaseous anesthesia and analgesia (2% isoflurane
+in 2:1 oxygen/nitrous oxide) with a stereotaxic mouse frame (Stoelting).
+Vector solutions were injected with a 5- or 10-ml Hamilton syringe
+fitted with a glass capillary (outer diameter of 250 mm). Rats received 3 ml
+of AAV–a-synuclein, AAV-GFP, or a 1:1 mixture of AAV–a-synuclein
+and AAV-Nurr1 or AAV-GFP vectors. Infusion was performed at a rate
+of 0.2 ml/min, and the needle was left in place for an additional 3-min
+period before it was slowly retracted. Injection was carried out unilaterally
+on the right side, above the substantia nigra, at the following coordinates
+(flat skull position) (60): anteroposterior, −5.3 mm; mediolateral, −1.7 mm;
+dorsoventral, −7.2 mm below dural surface, calculated relative to bregma according to the stereotaxic atlas of Paxinos and Watson (61).
+For the neuroprotection study, rats received similar intranigral injection of or a 1:1 mixture of AAV–a-synuclein + AAV-Nurr1 or AAVGFP vectors.
+For comparison with the standard toxin model of PD, a set of animals received an injection of 3 ml of 6-OHDA (1 mg/ml free base dissolved in a solution of 0.2 mg/ml L-ascorbic acid in 0.9% w/v NaCl;
+Sigma; 0.2 ml/min) in the MFB at the following coordinates (flat skull,
+as above): anteroposterior, −4.4 mm; mediolateral, −1.1 mm; dorsoventral, −7.8 mm.
+Two weeks after AAV vector injection, or 2 days after 6-OHDA
+injection, rats received an injection of human recombinant GDNF
+(1 mg in 3 ml) or IGF-1 (1 mg in 3 ml) into the substantia nigra (same
+coordinates as above), or into the striatum at the following coordinates
+(relative to bregma): anteroposterior, +0.5 mm; mediolateral, −3.1 mm;
+dorsoventral, −4.5 mm below dural surface.
+Eight to 10 weeks after tamoxifen treatment, mice received an intrastriatal injection of GDNF (1 mg in 1 ml) or IGF-1 (1 mg in 1 ml)
+at the following coordinates (relative to bregma): anteroposterior,
++0.5 mm; mediolateral, −1.8 mm; dorsoventral, −2.5 mm below dural
+surface. Nigral injection of the AAV-Nurr1 or AAV-GFP vectors (1 ml)
+in mice was performed at the following coordinates (relative to bregma): anteroposterior, −2.8 mm; mediolateral, −1.1 mm; dorsoventral,
+−4.3 mm below dural surface. For the neuroprotection study, 1.5month-old Nurr1WT/WT, Nurr1WT/cKO, and Nurr1cKO/cKO mice were
+treated with tamoxifen as described above and received intranigral
+injection of AAV–a-synuclein or AAV-GFP 6 weeks later.
+Behavioral testing
+Assessment of drug-induced rotational behavior was performed in
+automated bowls coupled to the Rotameter software (AccuScan Instruments), as described previously (62). Rats and mice received an
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+12
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+due to restoration of GDNF signaling and transport in the a-synuclein–
+overexpressing cells.
+In conclusion, our results reveal a new mechanism of action for
+a-synuclein–induced neurotoxicity that points to effects on gene
+expression as an important pathological mechanism. Thus, a-synuclein–
+mediated down-regulation of Nurr1 results in a blockade of GDNFdependent trophic signaling in midbrain DA neurons, pointing to
+Nurr1 as a key player in the neuroprotective machinery mobilized in
+response to pathological stimuli and cellular stress. In human PD,
+increased cellular concentrations of a-synuclein are associated with reduced concentrations of Nurr1 (29, 55), and mutations in the Nurr1
+gene that lead to reduced expression of Nurr1 have been linked to the
+development of PD (56, 57). Our data show that reduced concentrations of Nurr1 make DA neurons more susceptible to a-synuclein–
+induced damage and, moreover, that elevated concentrations of
+a-synuclein cause a down-regulation of Nurr1 that is likely to contribute to the progression of the disease. In the AAV–a-synuclein–
+overexpressing rat model, down-regulation of Nurr1 happens early,
+before any overt cell loss has occurred, indicating that impaired Nurr1
+function is an early event linked to the presymptomatic stages of the
+neurodegenerative process. Impaired Nurr1 function, in turn, will
+cause down-regulation of enzymes and transporters involved in DA
+synthesis and release, resulting in synaptic dysfunction in DA neurons,
+as well as an increased vulnerability to a-synuclein. Our study shows
+that restoration of Nurr1 function by overexpression of Nurr1 provides
+almost complete protection against a-synuclein–induced toxicity, as
+well as restoration of GDNF signaling.
+Together, these data highlight Nurr1 as a promising target for neuroprotective and restorative therapy in PD. The development of drugs
+designed to activate Nurr1 function may hold particular promise.
+Nurr1 belongs to a nuclear receptor family that can be targeted by
+small lipophilic ligands, and as Nurr1 can form heterodimers with RXR
+(retinoid X receptor), it seems possible that RXR ligands may be used
+to modulate Nurr1 function. Such drugs may be powerful as neuroprotective agents by themselves (58), but they would also be of great
+interest as a tool to increase the efficacy of neuroprotective therapies
+based on GDNF or neurturin delivery.
+
+RESEARCH ARTICLE
+
+Tissue processing and immunohistochemistry
+Immunohistochemistry was performed as described in the Supplementary Materials.
+Stereological estimation of nigral neurons and
+optical densitometry analysis of fiber density
+Assessment of the total number of TH-positive or VMAT-2–positive
+neurons in the substantia nigra was made by stereology according to
+the optical fractionator principle with the CAST Grid System (Olympus
+Denmark A/S), as described (39). Every sixth section covering the
+entire extent of the substantia nigra was included in the counting procedure. A coefficient of error of <0.10 was accepted. The data are expressed as a percentage of the corresponding area from the intact side.
+Density of TH-positive fibers was measured by densitometry in the
+striatum at four coronal levels (+1.2, 0.8, 0.00, and −0.4 mm relative to
+bregma) and in the nucleus accumbens at three coronal levels (+2.3,
+1.7, and +0.8 mm relative to bregma) with the ImageJ software [version 1.32j; National Institutes of Health (NIH)]. The measured values
+were corrected for nonspecific background staining by subtracting
+values obtained from the cortex. The data are expressed as a percentage of the corresponding area from the intact side.
+Study of gene expression by reverse transcription–qPCR
+The animals (n = 5 per group) were sacrificed, the brains were rapidly
+removed, and the ventral midbrain, ipsilateral and contralateral to
+the site of injection, was dissected and snap-frozen. In an attempt
+to dissociate A9 and A10 neuronal populations, the lateral region
+comprising the nigral neurons was separated from the medial region
+comprising ventral tegmental area neurons under the microscope.
+mRNA and miRs were isolated with the miRNeasy Mini Kit (Qiagen)
+according to the supplier’s recommendations. RNA concentration
+was determined with the NanoDrop (Thermo Scientific), and a 500-ng
+quantity of RNA was used for the reverse transcription (RT) performed
+with random primers (Invitrogen) and SuperScript III (Invitrogen)
+according to the manufacturer’s recommendations. Primers were designed with Primer Blast (NIH), and primer sequences are presented
+in table S1. For qPCR of miR, we used the Universal cDNA (complementary DNA) Synthesis Kit and LNATM-PCR primer sets against
+miR-7, -21, -22, -124, and -153 (Exiqon) (63). SYBR Green qPCR
+was performed with LightCycler 480 SYBR Green I Master (Roche)
+using standard procedures. Data were quantified by the DDCt method
+and normalized to glyceraldehyde-3-phosphate dehydrogenase and
+b-actin expression.
+Determination of GDNF concentrations by ELISA
+The animals (n = 4 per group) were sacrificed, and nigral and striatal
+concentrations of endogenous GDNF were determined by a method
+previously described (18). Briefly, brains were removed, and ventral
+midbrains and striata were dissected and quickly frozen on dry ice.
+Tissue samples were sonicated in buffer [150 mM NaCl, 50 mM tris
+(pH 7.4), 1% Triton X-100, phenylmethylsulfonyl fluoride (1.7 mg/ml),
+leupeptin (1.0 mg/ml), aprotinin (10 mg/ml), and pepstatin (1.0 mg/ml)]
+at a concentration of 30 mg/ml. Tissue concentrations of GDNF were
+
+determined on these homogenates by ELISA according to the supplier’s recommendations (IBL-America for detection of rat GDNF,
+and Promega G7620 for detection of human GDNF).
+In situ hybridization
+Animals were perfused as described above, and midbrain was cut on a
+cryostat (Leica). Slides were fixed for 10 min in 4% paraformaldehyde, washed in phosphate-buffered saline (PBS), permeabilized with
+Protease K for 5 min [Protease K (1 mg/ml) in 50 mM tris-HCl, 5 mM
+EDTA solution], and then acetylated for 10 min (1.3% triethanolamine,
+0.05% HCl, and 0.25% acetic anhydride). After rinses in PBS, slides
+were incubated for 3 hours at room temperature for prehybridization
+[50% formamide, 5× SSC, 5× Denharts, Baker’s yeast RNA (250 mg/ml),
+and salmon sperm DNA (500 mg/ml)]. Hybridization was performed
+overnight at 72°C with digoxigenin-labeled probe for TH, Nurr1, Pitx3,
+or DAT. The following day, slides were washed in 72°C heated solutions
+of 5× SSC and 0.2× SSC and then equilibrated in B1 [0.1 M tris-HCl
+(pH 7.5) and 0.15 M NaCl]. After preincubation for 1 hour in 10%
+heat-inactivated fetal calf serum (HIFCS) in B1, the sections were incubated overnight with anti–digoxigenin alkaline phosphatase Fab fragments (Roche; 1:5000 in B1 with 1% HIFCS). After washes in B1,
+sections were placed in a solution of 0.1 M tris-HCl (pH 9.5), 0.1 M
+NaCl, and 50 mM MgCl2 (B2). Finally, mRNA expression was visualized after overnight incubation with 0.2 mM nitro blue tetrazolium/
+bromochloroindolyl phosphate (Roche) and levamisole (0.24 mg/ml)
+in 10% poly-(vinyl alcohol)/B2 solution. The reaction was terminated
+with water, and sections were mounted in Aquatex (Merck). Photographs
+were taken with an Eclipse E1000M microscope (Nikon) coupled to a
+digital camera (Spot2; Diagnostic Instruments Inc.).
+Statistical analysis
+All statistics were conducted with the GraphPad Prism software (version 5.0). All values are presented as means ± SEM. Comparison between experimental groups was performed with a Student’s t test. In
+the neuroprotection study, vector × genotype interaction was analyzed
+with a two-way ANOVA followed by Bonferroni post hoc test. Statistical significance was set at P < 0.05.
+
+SUPPLEMENTARY MATERIALS
+www.sciencetranslationalmedicine.org/cgi/content/full/4/163/163ra156/DC1
+Materials and Methods
+Fig. S1. Trophic response induced by intrastriatal injection of human GDNF in nigral DA neurons.
+Fig. S2. Expression of GDNF and a-synuclein, GFP transgene expression, and survival of nigral
+DA neurons.
+Fig. S3. a-Synuclein overexpression represses transcriptional activity in DA neurons.
+Fig. S4. IGF-1 signaling is preserved in DA neurons overexpressing a-synuclein.
+Table S1. List of RT-qPCR primers.
+
+REFERENCES AND NOTES
+1. W. G. Meissner, M. Frasier, T. Gasser, C. G. Goetz, A. Lozano, P. Piccini, J. A. Obeso, O. Rascol,
+A. Schapira, V. Voon, D. M. Weiner, F. Tison, E. Bezard, Priorities in Parkinson’s disease research. Nat. Rev. Drug Discov. 10, 377–393 (2011).
+2. L. Aron, R. Klein, Repairing the parkinsonian brain with neurotrophic factors. Trends Neurosci.
+34, 88–100 (2011).
+3. A. Björklund, D. Kirik, C. Rosenblad, B. Georgievska, C. Lundberg, R. J. Mandel, Towards a
+neuroprotective gene therapy for Parkinson’s disease: Use of adenovirus, AAV and lentivirus vectors for gene transfer of GDNF to the nigrostriatal system in the rat Parkinson
+model. Brain Res. 886, 82–98 (2000).
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+13
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+intraperitoneal injection of D-amphetamine sulfate (2.5 mg/kg, respectively) (Apoteksbolaget). Right and left full body turns were recorded
+over a period of 90 min. Data are expressed as net full turns per minute,
+with turns ipsilateral to the injection side assigned a positive value.
+
+4. D. Kirik, B. Georgievska, A. Björklund, Localized striatal delivery of GDNF as a treatment for
+Parkinson disease. Nat. Neurosci. 7, 105–110 (2004).
+5. J. H. Kordower, M. E. Emborg, J. Bloch, S. Y. Ma, Y. Chu, L. Leventhal, J. McBride, E. Y. Chen,
+S. Palfi, B. Z. Roitberg, W. D. Brown, J. E. Holden, R. Pysalski, M. D. Taylor, P. Carvey, Z. Ling,
+D. Trono, P. Hantraye, N. Déglon, P. Aebischer, Neurodegeneration prevented by lentiviral
+vector delivery of GDNF in primate models of Parkinson’s disease. Science 290, 767–773
+(2000).
+6. S. Ramaswamy, K. E. Soderstrom, J. H. Kordower, Trophic factors therapy in Parkinson’s
+disease. Prog. Brain Res. 175, 201–216 (2009).
+7. R. T. Bartus, C. D. Herzog, Y. Chu, A. Wilson, L. Brown, J. Siffert, E. M. Johnson Jr., C. W. Olanow,
+E. J. Mufson, J. H. Kordower, Bioactivity of AAV2-neurturin gene therapy (CERE-120): Differences
+between Parkinson’s disease and nonhuman primate brains. Mov. Disord. 26, 27–36 (2011).
+8. S. S. Gill, N. K. Patel, G. R. Hotton, K. O’Sullivan, R. McCarter, M. Bunnage, D. J. Brooks, C. N. Svendsen,
+P. Heywood, Direct brain infusion of glial cell line–derived neurotrophic factor in Parkinson
+disease. Nat. Med. 9, 589–595 (2003).
+9. A. E. Lang, S. Gill, N. K. Patel, A. Lozano, J. G. Nutt, R. Penn, D. J. Brooks, G. Hotton, E. Moro,
+P. Heywood, M. A. Brodsky, K. Burchiel, P. Kelly, A. Dalvi, B. Scott, M. Stacy, D. Turner, V. G. Wooten,
+W. J. Elias, E. R. Laws, V. Dhawan, A. J. Stoessl, J. Matcham, R. J. Coffey, M. Traub, Randomized
+controlled trial of intraputamenal glial cell line–derived neurotrophic factor infusion in Parkinson
+disease. Ann. Neurol. 59, 459–466 (2006).
+10. J. G. Nutt, K. J. Burchiel, C. L. Comella, J. Jankovic, A. E. Lang, E. R. Laws Jr., A. M. Lozano,
+R. D. Penn, R. K. Simpson Jr., M. Stacy, G. F. Wooten; ICV GDNF Study Group, Randomized,
+double-blind trial of glial cell line–derived neurotrophic factor (GDNF) in PD. Neurology 60,
+69–73 (2003).
+11. T. B. Sherer, B. K. Fiske, C. N. Svendsen, A. E. Lang, J. W. Langston, Crossroads in GDNF
+therapy for Parkinson’s disease. Mov. Disord. 21, 136–141 (2006).
+12. J. R. Cannon, J. T. Greenamyre, Neurotoxic in vivo models of Parkinson’s disease recent
+advances. Prog. Brain Res. 184, 17–33 (2010).
+13. M. J. Devine, K. Gwinn, A. Singleton, J. Hardy, Parkinson’s disease and a-synuclein expression.
+Mov. Disord. 26, 2160–2168 (2011).
+14. L. L. Venda, S. J. Cragg, V. L. Buchman, R. Wade-Martins, a-Synuclein and dopamine at the
+crossroads of Parkinson’s disease. Trends Neurosci. 33, 559–568 (2010).
+15. C. Y. Chung, J. B. Koprich, H. Siddiqi, O. Isacson, Dynamic changes in presynaptic and axonal
+transport proteins combined with striatal neuroinflammation precede dopaminergic neuronal
+loss in a rat model of AAV a-synucleinopathy. J. Neurosci. 29, 3365–3373 (2009).
+16. M. Decressac, B. Mattsson, M. Lundblad, P. Weikop, A. Björklund, Progressive neurodegenerative and behavioural changes induced by AAV-mediated overexpression of a-synuclein
+in midbrain dopamine neurons. Neurobiol. Dis. 45, 939–953 (2012).
+17. M. Lundblad, M. Decressac, B. Mattsson, A. Björklund, Impaired neurotransmission caused
+by overexpression of a-synuclein in nigral dopamine neurons. Proc. Natl. Acad. Sci. U.S.A.
+109, 3213–3219 (2012).
+18. M. Decressac, A. Ulusoy, B. Mattsson, B. Georgievska, M. Romero-Ramos, D. Kirik, A. Björklund,
+GDNF fails to exert neuroprotection in a rat a-synuclein model of Parkinson’s disease. Brain
+134, 2302–2311 (2011).
+19. C. Lo Bianco, N. Déglon, W. Pralong, P. Aebischer, Lentiviral nigral delivery of GDNF does
+not prevent neurodegeneration in a genetic rat model of Parkinson’s disease. Neurobiol.
+Dis. 17, 283–289 (2004).
+20. L. A. Volpicelli-Daley, K. C. Luk, T. P. Patel, S. A. Tanik, D. M. Riddle, A. Stieber, D. F. Meaney,
+J. Q. Trojanowski, V. M. Lee, Exogenous a-synuclein fibrils induce Lewy body pathology
+leading to synaptic dysfunction and neuron death. Neuron 72, 57–71 (2011).
+21. Z. Lei, Y. Jiang, T. Li, J. Zhu, S. Zeng, Signaling of glial cell line-derived neurotrophic factor
+and its receptor GFRa1 induce Nurr1 and Pitx3 to promote survival of grafted midbrainderived neural stem cells in a rat model of Parkinson disease. J. Neuropathol. Exp. Neurol.
+70, 736–747 (2011).
+22. C. Peng, L. Aron, R. Klein, M. Li, W. Wurst, N. Prakash, W. Le, Pitx3 is a critical mediator of
+GDNF-induced BDNF expression in nigrostriatal dopaminergic neurons. J. Neurosci. 31,
+12802–12815 (2011).
+23. N. Volakakis, B. Kadkhodaei, E. Joodmardi, K. Wallis, L. Panman, J. Silvaggi, B. M. Spiegelman,
+T. Perlmann, NR4A orphan nuclear receptors as mediators of CREB-dependent neuroprotection.
+Proc. Natl. Acad. Sci. U.S.A. 107, 12317–12322 (2010).
+24. N. Bar, R. Dikstein, miR-22 forms a regulatory loop in PTEN/AKT pathway and modulates
+signaling kinetics. PLoS One 5, e10859 (2010).
+25. X. Ma, M. Kumar, S. N. Choudhury, L. E. Becker Buscaglia, J. R. Barker, K. Kanakamedala,
+M. F. Liu, Y. Li, Loss of the miR-21 allele elevates the expression of its target genes and
+reduces tumorigenesis. Proc. Natl. Acad. Sci. U.S.A. 108, 10144–10149 (2011).
+26. J. Kim, K. Inoue, J. Ishii, W. B. Vanti, S. V. Voronov, E. Murchison, G. Hannon, A. Abeliovich, A
+microRNA feedback circuit in midbrain dopamine neurons. Science 317, 1220–1224 (2007).
+27. E. Doxakis, Post-transcriptional regulation of a-synuclein expression by mir-7 and mir-153.
+J. Biol. Chem. 285, 12726–12734 (2010).
+28. E. Junn, K. W. Lee, B. S. Jeong, T. W. Chan, J. Y. Im, M. M. Mouradian, Repression of a-synuclein
+expression and toxicity by microRNA-7. Proc. Natl. Acad. Sci. U.S.A. 106, 13052–13057 (2009).
+
+29. Y. Chu, W. Le, K. Kompoliti, J. Jankovic, E. J. Mufson, J. H. Kordower, Nurr1 in Parkinson’s
+disease and related disorders. J. Comp. Neurol. 494, 495–514 (2006).
+30. J. Goers, A. B. Manning-Bog, A. L. McCormack, I. S. Millett, S. Doniach, D. A. Di Monte, V. N. Uversky,
+A. L. Fink, Nuclear localization of a-synuclein and its interaction with histones. Biochemistry 42,
+8465–8471 (2003).
+31. E. Kontopoulos, J. D. Parvin, M. B. Feany, a-Synuclein acts in the nucleus to inhibit histone
+acetylation and promote neurotoxicity. Hum. Mol. Genet. 15, 3012–3023 (2006).
+32. H. Schell, T. Hasegawa, M. Neumann, P. J. Kahle, Nuclear and neuritic distribution of serine129 phosphorylated a-synuclein in transgenic mice. Neuroscience 160, 796–804 (2009).
+33. M. Wakamatsu, A. Ishii, Y. Ukai, J. Sakagami, S. Iwata, M. Ono, K. Matsumoto, A. Nakamura,
+N. Tada, K. Kobayashi, T. Iwatsubo, M. Yoshimoto, Accumulation of phosphorylated a-synuclein
+in dopaminergic neurons of transgenic mice that express human a-synuclein. J. Neurosci. Res.
+85, 1819–1825 (2007).
+34. S. Yu, X. Li, G. Liu, J. Han, C. Zhang, Y. Li, S. Xu, C. Liu, Y. Gao, H. Yang, K. Uéda, P. Chan,
+Extensive nuclear localization of a-synuclein in normal rat brain neurons revealed by a
+novel monoclonal antibody. Neuroscience 145, 539–555 (2007).
+35. Y. Chu, A. L. Mickiewicz, J. H. Kordower, a-Synuclein aggregation reduces nigral myocyte
+enhancer factor-2D in idiopathic and experimental Parkinson’s disease. Neurobiol. Dis. 41,
+71–82 (2011).
+36. H. Jin, A. Kanthasamy, A. Ghosh, Y. Yang, V. Anantharam, A. G. Kanthasamy, a-Synuclein
+negatively regulates protein kinase Cd expression to suppress apoptosis in dopaminergic
+neurons by reducing p300 histone acetyltransferase activity. J. Neurosci. 31, 2035–2051
+(2011).
+37. M. M. Maxwell, E. M. Tomkinson, J. Nobles, J. W. Wizeman, A. M. Amore, L. Quinti, V. Chopra,
+S. M. Hersch, A. G. Kazantsev, The sirtuin 2 microtubule deacetylase is an abundant neuronal
+protein that accumulates in the aging CNS. Hum. Mol. Genet. 20, 3986–3996 (2011).
+38. T. F. Outeiro, E. Kontopoulos, S. M. Altmann, I. Kufareva, K. E. Strathearn, A. M. Amore, C. B. Volk,
+M. M. Maxwell, J. C. Rochet, P. J. McLean, A. B. Young, R. Abagyan, M. B. Feany, B. T. Hyman,
+A. G. Kazantsev, Sirtuin 2 inhibitors rescue a-synuclein–mediated toxicity in models of Parkinson’s
+disease. Science 317, 516–519 (2007).
+39. M. Decressac, B. Mattsson, A. Björklund, Comparison of the behavioural and histological
+characteristics of the 6-OHDA and a-synuclein rat models of Parkinson’s disease. Exp. Neurol.
+235, 306–315 (2012).
+40. A. Quesada, H. E. Romeo, P. Micevych, Distribution and localization patterns of estrogen
+receptor-b and insulin-like growth factor-1 receptors in neurons and glial cells of the female
+rat substantia nigra: Localization of ERb and IGF-1R in the substantia nigra. J. Comp. Neurol.
+503, 198–208 (2007).
+41. A. Quesada, B. Y. Lee, P. E. Micevych, PI3 kinase/Akt activation mediates estrogen and IGF-1 nigral
+DA neuronal neuroprotection against a unilateral rat model of Parkinson’s disease. Dev. Neurobiol.
+68, 634–644 (2008).
+42. L. Jiang, X. Liu, Z. Chen, Y. Jin, C. E. Heidbreder, A. Kolokythas, A. Wang, Y. Dai, X. Zhou,
+MicroRNA-7 targets IGF1R (insulin-like growth factor 1 receptor) in tongue squamous cell
+carcinoma cells. Biochem. J. 432, 199–205 (2010).
+43. B. Barneda-Zahonero, J. M. Servitja, N. Badiola, A. J. Miñano-Molina, R. Fadó, C. A. Saura,
+J. Rodríguez-Alvarez, Nurr1 protein is required for N-methyl-D-aspartic acid (NMDA) receptormediated neuronal survival. J. Biol. Chem. 287, 11351–11362 (2012).
+44. B. Kadkhodaei, T. Ito, E. Joodmardi, B. Mattsson, C. Rouillard, M. Carta, S. Muramatsu,
+C. Sumi-Ichinose, T. Nomura, D. Metzger, P. Chambon, E. Lindqvist, N. G. Larsson, L. Olson,
+A. Björklund, H. Ichinose, T. Perlmann, Nurr1 is required for maintenance of maturing and
+adult midbrain dopamine neurons. J. Neurosci. 29, 15923–15932 (2009).
+45. O. Saucedo-Cardenas, J. D. Quintana-Hau, W. D. Le, M. P. Smidt, J. J. Cox, F. De Mayo,
+J. P. Burbach, O. M. Conneely, Nurr1 is essential for the induction of the dopaminergic
+phenotype and the survival of ventral mesencephalic late dopaminergic precursor neurons.
+Proc. Natl. Acad. Sci. U.S.A. 95, 4013–4018 (1998).
+46. R. H. Zetterström, L. Solomin, L. Jansson, B. J. Hoffer, L. Olson, T. Perlmann, Dopamine
+neuron agenesis in Nurr1-deficient mice. Science 276, 248–250 (1997).
+47. W. Le, O. M. Conneely, Y. He, J. Jankovic, S. H. Appel, Reduced Nurr1 expression increases
+the vulnerability of mesencephalic dopamine neurons to MPTP-induced injury. J. Neurochem.
+73, 2218–2221 (1999).
+48. M. R. Walton, I. Dragunow, Is CREB a key to neuronal survival? Trends Neurosci. 23, 48–53
+(2000).
+49. S. Azeredo da Silveira, B. L. Schneider, C. Cifuentes-Diaz, D. Sage, T. Abbas-Terki, T. Iwatsubo,
+M. Unser, P. Aebischer, Phosphorylation does not prompt, nor prevent, the formation of
+a-synuclein toxic species in a rat model of Parkinson’s disease. Hum. Mol. Genet. 18, 872–887
+(2009).
+50. F. M. Jacobs, S. van Erp, A. J. van der Linden, L. von Oerthel, J. P. Burbach, M. P. Smidt, Pitx3
+potentiates Nurr1 in dopamine neuron terminal differentiation through release of SMRTmediated repression. Development 136, 531–540 (2009).
+51. A. Tomac, J. Widenfalk, L. F. Lin, T. Kohno, T. Ebendal, B. J. Hoffer, L. Olson, Retrograde
+axonal transport of glial cell line-derived neurotrophic factor in the adult nigrostriatal system
+suggests a trophic role in the adult. Proc. Natl. Acad. Sci. U.S.A. 92, 8274–8278 (1995).
+
+www.ScienceTranslationalMedicine.org
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+14
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+RESEARCH ARTICLE
+
+RESEARCH ARTICLE
+64. D. Grimm, Production methods for gene transfer vectors based on adeno-associated virus
+serotypes. Methods 28, 146–157 (2002).
+65. S. Zolotukhin, B. J. Byrne, E. Mason, I. Zolotukhin, M. Potter, K. Chesnut, C. Summerford,
+R. J. Samulski, N. Muzyczka, Recombinant adeno-associated virus purification using novel
+methods improves infectious titer and yield. Gene Ther. 6, 973–985 (1999).
+66. P. J. Hallett, T. L. Collins, D. G. Standaert, A. W. Dunah, Biochemical fractionation of brain
+tissue for studies of receptor distribution and trafficking. Curr. Protoc. Neurosci. Chapter 1,
+Unit 1.16 (2008).
+Acknowledgments: We thank U. Jarl, E. Ling, M. Sparrenius, J. Johansson, B. Anzelius, and
+K. Devaraju for excellent technical assistance and A. Kirkeby and M. Åkerblom for help on the
+qPCR experiments. The DATCreERT2 and floxed Nurr1 mice were provided by G. Schütz and
+P. Chambon. Funding: The study was supported by grants from the M. J. Fox Foundation,
+Swedish Research Council (grant 04X-3874 and the BAGADILICO program), the Swedish Foundation for Strategic Research, the Ragnar Soderbergs Stiftelse, and the Cure Parkinson’s Trust.
+The human material (midbrain sections) was provided by the UK Parkinson’s Disease Society
+Tissue Bank at Imperial College. M.D. is supported by a fellowship from the Multipark program.
+Author contributions: A.B. and T.P. planned and provided funding for the study; M.D. and B.M.
+performed the experiments in rats and the response and neuroprotection assays in the Nurr1
+conditional knockout mice; A.L. performed staining of human postmortem brain sections; B.K.
+performed the characterization of the Nurr1 conditional knockout mice and performed the in situ
+hybridization of rat brain sections; and M.D., A.B., and T.P. wrote the manuscript. Competing interests: A.B. is the Chairman of the Board of Genepod Therapeutics, a company developing an
+AAV vector for L-dopa delivery in PD patients. The other authors declare that they have no
+competing interests.
+
+Submitted 25 July 2012
+Accepted 14 November 2012
+Published 5 December 2012
+10.1126/scitranslmed.3004676
+Citation: M. Decressac, B. Kadkhodaei, B. Mattsson, A. Laguna, T. Perlmann, A. Björklund,
+a-Synuclein–induced down-regulation of Nurr1 disrupts GDNF signaling in nigral dopamine
+neurons. Sci. Transl. Med. 4, 163ra156 (2012).
+
+www.ScienceTranslationalMedicine.org
+
+View publication stats
+
+5 December 2012
+
+Vol 4 Issue 163 163ra156
+
+15
+
+Downloaded from stm.sciencemag.org on December 5, 2012
+
+52. S. Jain, J. P. Golden, D. Wozniak, E. Pehek, E. M. Johnson Jr., J. Milbrandt, RET is dispensable
+for maintenance of midbrain dopaminergic neurons in adult mice. J. Neurosci. 26, 11230–11238
+(2006).
+53. E. R. Kramer, L. Aron, G. M. Ramakers, S. Seitz, X. Zhuang, K. Beyer, M. P. Smidt, R. Klein,
+Absence of Ret signaling in mice causes progressive and late degeneration of the nigrostriatal
+system. PLoS Biol. 5, e39 (2007).
+54. A. Pascual, M. Hidalgo-Figueroa, J. I. Piruat, C. O. Pintado, R. Gómez-Díaz, J. López-Barneo,
+Absolute requirement of GDNF for adult catecholaminergic neuron survival. Nat. Neurosci.
+11, 755–761 (2008).
+55. Y. Chu, J. H. Kordower, Age-associated increases of a-synuclein in monkeys and humans
+are associated with nigrostriatal dopamine depletion: Is this the target for Parkinson’s disease? Neurobiol. Dis. 25, 134–149 (2007).
+56. W. D. Le, P. Xu, J. Jankovic, H. Jiang, S. H. Appel, R. G. Smith, D. K. Vassilatis, Mutations in
+NR4A2 associated with familial Parkinson disease. Nat. Genet. 33, 85–89 (2003).
+57. P. M. Sleiman, D. G. Healy, M. M. Muqit, Y. X. Yang, M. Van Der Brug, J. L. Holton, T. Revesz,
+N. P. Quinn, K. Bhatia, J. K. Diss, A. J. Lees, M. R. Cookson, D. S. Latchman, N. W. Wood,
+Characterisation of a novel NR4A2 mutation in Parkinson’s disease brain. Neurosci. Lett.
+457, 75–79 (2009).
+58. Z. Zhang, X. Li, W. Xie, H. Tuo, S. Hintermann, J. Jankovic, W. Le, Anti-parkinsonian effects of
+Nurr1 activator in ubiquitin-proteasome system impairment induced animal model of Parkinson’s
+disease. CNS Neurol. Drug Targets 11, 768–773 (2012).
+59. D. Engblom, A. Bilbao, C. Sanchis-Segura, L. Dahan, S. Perreau-Lenz, B. Balland, J. R. Parkitna,
+R. Luján, B. Halbout, M. Mameli, R. Parlato, R. Sprengel, C. Lüscher, G. Schütz, R. Spanagel,
+Glutamate receptors on dopamine neurons control the persistence of cocaine seeking. Neuron
+59, 497–508 (2008).
+60. E. M. Torres, E. L. Lane, A. Heuer, G. A. Smith, E. Murphy, S. B. Dunnett, Increased efficacy of
+the 6-hydroxydopamine lesion of the median forebrain bundle in small rats, by modification
+of the stereotaxic coordinates. J. Neurosci. Methods 200, 29–35 (2011).
+61. G. Paxinos, C. Watson, The Rat Brain in Stereotaxic Coordinates, 6th ed. (Academic Press,
+San Diego, 1986).
+62. U. Ungerstedt, G. W. Arbuthnott, Quantitative recording of rotational behavior in rats after
+6-hydroxy-dopamine lesions of the nigrostriatal dopamine system. Brain Res. 24, 485–493
+(1970).
+63. M. Åkerblom, R. Sachdeva, I. Barde, S. Verp, B. Gentner, D. Trono, J. Jakobsson, MicroRNA124 is a subventricular zone neuronal fate determinant. J. Neurosci. 32, 8879–8889 (2012).
+
+

@@ -1,0 +1,735 @@
+Review
+
+A Brief Review on the Mechanisms of miRNA Regulation
+Yimei Cai, Xiaomin Yu, Songnian Hu*, and Jun Yu*
+Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of
+Sciences, Beijing 100029, China.
+*Corresponding authors. E-mail: husn@big.ac.cn; junyu@big.ac.cn
+DOI: 10.1016/S1672-0229(08)60044-3
+MicroRNAs (miRNAs) are a class of short, endogenously-initiated non-coding
+RNAs that post-transcriptionally control gene expression via either translational
+repression or mRNA degradation. It is becoming evident that miRNAs are playing signif icant roles in regulatory mechanisms operating in various organisms,
+including developmental timing and host-pathogen interactions as well as cell
+dif ferentiation, proliferation, apoptosis and tumorigenesis. Likewise, as a regulatory element, miRNA itself is coordinatively modulated by multifarious ef fectors
+when carrying out basic functions, such as SNP, miRNA editing, methylation and
+circadian clock. This mini-review summarized the current understanding of interactions between miRNAs and their targets, including recent advancements in
+deciphering the regulatory mechanisms that control the biogenesis and functionality of miRNAs in various cellular processes.
+Key words: non-coding RNA, miRNA, miRNA regulation, targets
+
+Introduction
+MicroRNAs or miRNAs, a subset of non-coding
+RNAs, are ∼22-nt long endogenously-initiated short
+RNA molecules that are considered to posttranscriptionally regulate the cleavage of target mRNAs or just repress their translation (1 ). It is estimated that miRNAs constitute nearly 1% of all predicted genes in nematodes, flies and mammals (2–5 ).
+The significance of miRNAs had been long overlooked
+due to the limitation of technology and methodology
+until its initial discovery that two miRNAs, lin-4 and
+let-7, were found to control the timing of the nematode (Caenorbabditis elegans) development through
+incomplete base pairing to the 3 UTRs of the target
+mRNAs to repress their translation (6 , 7 ). Shortly
+after that, Reinhart et al detected the existence of
+miRNAs in Arabidopsis by Northern blot and the result suggests that this type of non-coding RNAs may
+arise early in eukaryotic evolution (8 ). Thereafter,
+an increasing number of miRNAs have been successively identified through computational and experimental methods in animals, plants and even viruses.
+The regulatory roles of miRNAs have been identified
+not only in developmental timing, cell differentiation,
+proliferation and apoptosis, but also in tumorigenesis
+and host-pathogen interactions (9–14 ).
+It has been shown that miRNA genes frequently
+Genomics Proteomics Bioinformatics
+
+coincide with fragile sites and hot spots for chromosomal abnormalities or locate near cancer susceptibility
+loci that correlate with tumorigenesis (15–17 ). Although a large number of miRNA genes disperse over
+the genome, clustered ones are found coexpressed as
+polycistronic units that may have functional relationships (5 ). In addition, more than half of miRNAs
+reside in introns of their host genes and coexpress
+with their neighboring protein-coding sequences, and
+some may derive from common primary transcripts
+and even share the same promoters (5 , 18–20 ). Nevertheless, a sizable number of miRNA genes come
+from regions that are distal from previously annotated protein-coding sequences and such locations imply that they probably derive from independent transcription units with their own promoters (1 ). A picture over the long course of evolution emerges, in
+which miRNAs originate from different mechanisms
+to perform functional roles for the best utilization of
+genome materials.
+miRNAs have several distinct features as compared to other functional RNA species. First, most of
+the known miRNAs are encoded as polycistronic transcripts, suggesting that members of the same miRNA
+family may evolve simultaneously and develop in similar ways. Second, it has been known that a conVol. 7 No. 4
+
+December 2009
+
+147
+
+Mechanisms of miRNA Regulation
+
+siderable number of miRNAs are highly conserved in
+sequences among different organisms and the crossspecies conserved miRNAs possess a special “seed”
+sequence in their 5 terminus; such a conservation
+suggests that these molecules participate in critical
+cellular processes (17 ). Third, miRNAs tend to target and regulate a set of mRNAs instead of a specific
+mRNA substrate. Fourth, direct experimental evidence supports the notion that the miRNA pathway
+is an ancient regulatory mechanism evolved before the
+divergence of multicellular and unicellular organisms
+(21 ). Finally, special cases among viruses are worthy mentioning: due to their higher mutation rates
+and faster evolution processes, most viral miRNAs do
+not seem to share significant homology with those of
+their vertebrate counterparts, even within members of
+the same family (10 ). A reasonable explanation links
+this phenomenon with their rapid adaptation to host
+environments, and the lack of homology poses challenges for computational biologists to precisely predict miRNAs based on sequence conservations alone.
+It is noticeable that, with the development of the
+next-generation sequencing technologies and other endeavors, miRNAs from various species are springing
+up in an inconceivable speed and greatly enrich the
+database (22–24 ).
+
+It has been shown that an individual miRNA is able
+to control the expression of more than one target mRNAs and that each mRNA may be regulated by multiple miRNAs. The 5 region of miRNA usually contributes more to the specificity and activity in binding targets according to experimental evidence. The
+interactions between miRNA and mRNA are usually
+restricted to the “seed” sequence near the 5 terminus in animals despite the fact that most plant miRNAs regulate their targets based on complete complementarity (25 ). The ∼6 to 8-nt “seed” sequence
+is highly conserved among species and even a slight
+change in sequence may alter its target spectra. It
+is also suggested that the location of central loop in
+the miRNA:mRNA duplexes may play a key role in
+affecting the efficiency of gene regulation mediated
+by miRNAs (26 ). Current target prediction programs
+depend on the information from sequence, structureassociated free energy and evolutionary conservation
+to predict candidate mRNAs (27 , 28 ). Those bioin-
+
+formatic methods usually result in the prediction of
+tens or hundreds of targets for each miRNA with high
+false positive rates (29 ). Therefore, further experiments of gain-of-function and loss-of-function are still
+needed and will determine how many of these predicted targets are genuinely targeted by miRNAs.
+miRNAs control the target expression by base
+pairing to sequence motifs in the 3 UTR of mRNAs with perfect or near perfect complementarities
+(30 , 31 ). For example, in Drosophila, a large number
+of miRNAs have been identified to perfectly complement to the 3 UTR of mRNAs, including K box, Brd
+box, GY box and proneural box, which are validated
+to mediate negative post-transcriptional regulation
+(30 ). Recently, certain AU-rich elements in 3 UTR
+were uncovered to interact with miRNAs and act both
+directly and indirectly as potent post-transcriptional
+regulatory signals (32 ). Analysis of the miRNA target sites indicated that genes with longer 3 UTRs
+usually have higher density of miRNA-binding sites
+and are mainly involved in developmental modulations, whereas genes with shorter 3 UTRs usually
+have lower density of miRNA-binding sites and tend
+to be involved in basic cellular processes (33–35 ).
+These facts emphasize the importance of 3 UTR in
+interacting with miRNAs. It is also claimed that a
+small subset of miRNAs from plants and animals exert repression regulation by specifically targeting the
+5 UTR of some mRNAs (36 , 37 ). Lee et al suggested
+that based on both hybridization energy and sequence
+matches, many endogenous motifs within human 5
+UTRs are specific to the 3 ends of miRNAs (38 ). In
+other words, many miRNAs may contain significant
+interaction sites with mRNA 5 -UTR and 3 -UTR motifs through their 3 - and 5 -end sequences, respectively. Recently, it has been reported that methods
+integrating factors such as 5 UTR and protein repression level into the sophisticated target prediction processes greatly improved the possibility of identifying
+real targets (38 , 39 ). In addition, candidate target
+sites of miRNAs falling in the protein-coding regions
+are also identifiable based on computational and experimental approaches (36 , 40 , 41 ). The fact that 3
+UTR is a significant yet not the only binding target
+for miRNAs leaves one possibility open, that is, miRNAs identify their targets by multiple pathways or
+modes (42 ).
+The impact of the interaction between miRNAs
+and their targets is further complicated than it was
+thought. Given the observation that miR-122, a liverspecific miRNA, binds to the 5 non-coding region of
+
+148
+
+Vol. 7 No. 4
+
+The Interplay of miRNAs with
+their Targets
+
+Genomics Proteomics Bioinformatics
+
+December 2009
+
+Cai et al.
+
+the RNA HCV (hepatitis C virus) genome and induces
+the accumulation of viral RNAs, it seems that miR122 can act on viral RNA replication rather than RNA
+translation or stability (37 ). In addition, Vasudevan
+and collaborators demonstrated that miRNAs oscillate between repression and activation in the duration of a cell cycle, and they identified miR369-3 in
+proliferating cells, which represses the translation of
+targets but switches to mediate activation process in
+cell-cycle arrest (G1/G0) (43 ). miRNAs also appear
+to activate certain mRNA targets in stress conditions,
+such as hypoxia and nutrient deprivation (43 , 44 ).
+Whether these up-regulation phenomena happen in
+special conditions or in ubiquitous regulatory mechanisms remains to be further illustrated.
+
+The Stringent
+miRNAs
+
+Regulation
+
+of
+
+Regulators of gene expression generally stand in a
+complicated network; likewise, miRNAs themselves
+are coordinatively modulated by different effectors
+when carrying out basic functions. As we know, a
+growing body of miRNAs shows development- and
+tissue-specific regulation mechanisms although a considerable amount of known miRNAs are expressed
+universally in various tissues and species (45 ). Accordingly, it is inferred that accurate regulation networks may exist in order to regulate the biogenesis and functions of miRNAs. It is noteworthy that
+the multiple steps in miRNA biogenesis appear to
+be a cooperated procedure and their influences are
+already reported (46 ). In addition, other factors,
+such as sequence-specific RNA binding proteins with
+double-strand RNA binding domains (dsRBDs), are
+also known to regulate and control the function of
+miRNAs (47–49 ). Herein, we mainly focused on additional mechanisms (SNP, RNA editing, methylation
+and circadian clock) that all play important roles in
+controlling the expression and function of miRNAs.
+
+The impact of single nucleotide polymorphisms
+Ample evidence has emerged and supported the idea
+that single nucleotide polymorphisms (SNPs), created
+by changes in DNA sequences of miRNA-coding genes
+or in an miRNA-binding site in mRNAs, are able to
+affect the biogenesis and function of miRNA. Many
+miRNA polymorphisms are shown to be associated
+Genomics Proteomics Bioinformatics
+
+with diseases, because a gain-of-function of an miRNA
+polymorphism may recruit or enhance the combination of the miRNA to the targets, thereby strengthen
+the regulation effects, such as tumor suppressor genes;
+on the contrary, a loss-of-function may result in losing
+control of the mRNAs especially those oncogenes and
+drug targets (50 ). In the case of miR-146a, a common G/C polymorphism within the pre-miR-146a sequence decreased the generation of pre- and mature
+miR-146a and led to less efficient inhibition of target
+genes involved in the Toll-like receptor and cytokine
+signaling pathway, which contribute to the genetic
+predisposition to papillary thyroid carcinoma (51 ).
+Recently, Sun and colleagues performed a large-scale
+genetic analysis of naturally occurring miRNA polymorphisms and argued that a single base alteration
+even outside of the mature miRNA sequence may profoundly impact on miRNA generation and function
+(52 ). Additionally, it is by-no-means negligible that
+SNPs in target sites of mRNAs may also result in
+the escape of inhibition or degradation by an miRNA
+(53 ). Taken together, SNP is becoming a noticeable
+factor in regulating the biogenesis and functionality
+of miRNAs.
+
+The editing pathways of miRNAs
+RNA editing is a site-selective modification of RNA
+molecules at post-transcriptional level to yield a product differing from the DNA template. Approximately
+16% human pri-miRNAs are subject to A-to-I editing (54 ). Known A-to-I editing sites residing in
+the mature miRNA sequences are listed in Table
+1. miRNA editing may represent a fine tuning process in miRNA biogenesis at different steps, resulting in variations of target mRNAs and providing another layer of regulatory controls within the complex
+network of RNA-mediated gene functions (Figure
+1). It has recently been shown that, the pri-miRNA
+transcripts of some miRNAs are subject to posttranscriptional modification by A-to-I RNA editing,
+which is catalyzed by the adenosine deaminases acting
+on RNA (ADARs) (55–59 ). As in the case of miR142 and miR-151, A-to-I editing at specific positions
+blocks the Drosha/Dicer cleavage in the maturation of
+miRNAs (57 , 59 ). Therefore, RNA editing displays
+a micro-regulatory role in controlling the miRNAprocessing machinery. In addition, edited miRNAs
+may silence a set of genes different from those targeted by the unedited miRNAs, extending the functional scope of miRNAs but increasing the complexity
+Vol. 7 No. 4
+
+December 2009
+
+149
+
+Mechanisms of miRNA Regulation
+
+Table 1 Known A-to-I editing sites located within mature miRNA sequences
+miRNA
+
+Edited sites (5 –3 )
+
+Tissue
+
+Ref.
+
+hsa(mmu)-miR-22
+hsa(mmu)-miR-376b
+hsa-let-7g
+hsa-miR-144
+hsa-miR-195
+hsa-miR-203
+hsa-miR-27a
+hsa-miR-33
+hsa-miR-368
+hsa-miR-371
+
+AAGCUGCCAGUUGAAGAACUGU
+AUCAUAGAGGAAAAUCCAUGUU
+UGAGGUAGUAGUUUGUACAGU
+CUAGUACAUCAUCUAUACUGUA
+CCAAUAUUGGCUGUGCUGCUCC
+GUGAAAUGUUUAGGACCACUAG
+AGGGCUUAGCUGCUUGUGAGCA
+GUGCAUUGUAGUUGCAUUG
+AACAUAGAGGAAAUUCCACGUUU
+ACACUCAAAAGAUGGCGGCAC
+
+57
+60
+56
+63
+56
+56
+56
+56
+60
+63
+
+hsa-miR-376a
+hsa-miR-376a1
+hsa-miR-376a1
+hsa-miR-376a2
+hsa-miR-376a2
+hsa-miR-379
+hsa-miR-379
+hsa-miR-411
+hsa-miR-451
+hsa-miR-503
+hsa-miR-532
+hsa-miR-600
+hsa-miR-607
+hsa-miR-617
+hsa-miR-641
+hsa-miR-7-2
+hsa-miR-99a
+
+AUCAUAGAGGAAAAUCCACGU
+AUCAUAGAGGAAAAUCCACGU
+GGUAGAUUCUCCUUCUAUGAGU
+AUCAUAGAGGAAAAUCCACGU
+GGUAGAUUUUCCUUCUAUGGUUA
+UGGUAGACUAUGGAACGUA
+UGGUAGACUAUGGAACGUAGG
+UAGUAGACCGUAUAGCGUACG
+AAACUCAGUAAUGGUAACGGUUU
+UAGCAGCGGGAACAGUUCUGCAG
+CAUGCCUUGAGUGUAGGACCGU
+ACUUACAGACAAGAGCCUUGCUC
+GUUCAAAUCCAGAUCUAUAAC
+AGACUUCCCAUUUGAAGGUGGC
+AAAGACAUAGGAUAGAGUCACCUC
+GGAAGACUAGUGAUUUUGUUG
+AACCCGUAGAUCCGAUCUUGUG
+
+hsa-miR-99b
+mmu-miR-1-1
+mmu-miR-142
+mmu-miR-143
+mmu-miR-151
+mmu-miR-223
+mmu-miR-376c
+miR-K12-10a3
+
+CAAGCUCGUGUCUGUGGGUCCG
+UGGAAUGUAAAGAAGUAUGUA
+CAUAAAGUAGAAAGCACUAC
+UGAGAUGAAGCACUGUAGCUCA
+CUAGACUGAAGCUCCUUGAGG
+UGUGUCAGUUUGUCAAAUACCCC
+AACAUAGAGGAAAUUUCACG
+UAGUGUUGUCCCCCCGAGUGGC
+
+brain1&2 , lung1 , testis1
+medulla1 , cortex2
+in vitro
+spleen1 , testis1
+in vitro
+in vitro
+in vitro
+in vitro
+medulla1
+lung1 , ovary1 , placenta1 , skeletal
+muscle1 , spleen1
+brain1 , ovary1 , placenta1
+medulla1
+medulla1
+medulla1
+medulla1
+brain1 , placenta1
+in vitro
+in vitro
+spleen1 , testis1
+in vitro
+in vitro
+in vitro
+in vitro
+in vitro
+in vitro
+in vitro
+brain1 , liver1 , skeletal muscle1 ,
+testis1
+in vitro
+in vitro
+in vitro
+in vitro
+in vitro
+in vitro
+cortex2
+in vitro
+
+63
+60
+60
+60
+60
+63
+56
+56
+63
+56
+56
+56
+56
+56
+56
+56
+63
+56
+59
+59
+59
+61
+59
+60
+58
+
+Note: “A” stands for the A-to-I editing site. 1 Human; 2 mouse; 3 viral miRNAs.
+
+of analyses at the same time (60 , 61 ). Furthermore,
+RNA editing contributes to the diversity of miRNAs
+by generating different mature miRNAs from identical miRNA transcripts (62 ).
+
+The methylation-dependent expression
+of miRNAs
+
+150
+
+Vol. 7 No. 4
+
+Genomics Proteomics Bioinformatics
+
+Increasing reports shed lights on the methylationdependent regulation of miRNA expression. It is described that some miRNA genes are affected by epigenetic inactivation due to aberrant hypermethylation,
+
+December 2009
+
+Cai et al.
+
+Figure 1 Pathways of miRNA editing. The segment of the primary transcript (pri-miRNA) contains the mature miRNA
+sequence (blue) that resides in one of the arms in the stem-loop precursor structure. Editing (highlighted in red dot)
+starts at the pri-miRNA stage, and the edited pri-miRNAs may not be processed into precursor miRNA (pre-miRNA).
+The canonical biogenesis pathway of miRNAs (black arrows; the excised RNA fragments during miRNA biogenesis are
+indicated with dashed arrows) and the possible miRNA editing events (orange arrows) both happen in the cytosol where
+pre-miRNA may be subject to further editing events, resulting in the identification of different mRNA target (mRNA’).
+
+Figure 2 miRNA gene expression affected by methylation. The degree of methylation in the up-stream sequence of
+miRNAs is critical; hypermethylation (highlighted in red) and hypomethylation of neighboring CpG islands (horizontal
+green bars) repress and activate miRNA genes (blue arrow), respectively.
+
+which is characterized as early and frequent events
+in cancer development (63–69 ). The expression of
+miRNA genes, especially those locating near CpG islands, tends to be affected readily by methylation
+(63–65, 70 ) (Figure 2). Han and co-workers found
+that the expression of about 10% miRNAs tested
+are regulated by DNA methylation based on a comparative analysis on colon cancer cell line HCT 116
+with its derivative, a DNA methyltransferase 1 and
+3b double-knockout cell line, and they provided ev-
+
+Genomics Proteomics Bioinformatics
+
+idence that miRNA expression is strictly dominated
+by DNA methylation and partial methylation reduction is not sufficient for the recovery of miRNA
+expression (71 ). The expression level of miR-370
+in human malignant cholangiocytes is significantly
+down-regulated by the over-expression of interleukin6 and up-regulated by the methylation inhibitor 5aza-2 -deoxycytidine, indicating that interleukin-6 indirectly activates the expression of miR-370 by alerting the level of DNA methyltransferase enzyme-1 and
+
+Vol. 7 No. 4
+
+December 2009
+
+151
+
+Mechanisms of miRNA Regulation
+
+HASJ4442 (72 ). Two components of the p53 network,
+miR-34b and miR-34c, are also epigenetically silenced
+in colorectal cancer due to the hypermethylation of
+neighboring CpG islands (73 ). Furthermore, it is conceivable that DNA methylation can affect the expression of transcription factors so that it may control
+the miRNA expression in an indirect manner (71 ).
+After all, the mechanisms of methylation-dependent
+regulation of miRNAs are of great significance and
+we are at the very beginning of fully understanding
+such mechanisms at molecular details.
+
+Circadian clock-modulated mechanisms
+A minority of miRNAs are found to be modulated
+in circadian rhythm regulation mechanisms. miR219 is targeted by the CLOCK and BMAL1 complex
+(74 ) and miR-132 is induced by photic entrainment
+cues through a MAPK/CREB-dependent mechanism
+to control clock-related gene expression and to reduce
+the entraining effects of light (74 ). Similar regulative
+mechanisms were also observed by Xu and colleagues,
+where miR-96 and miR-182 are reported to be involved in circadian rhythm regulation by modulating
+the expression of adenylyl cyclase VI in retina (75 ).
+Yang and colleagues used Drosophila to investigate
+circadian clocks that may regulate the expression of
+miRNAs and found that a limited number of miRNAs,
+such as miR-263a and miR-263b, exhibit robust daily
+changes in abundance both in wild type flies and those
+reared in complete darkness. The flies behaved in a
+model of reaching trough levels during the daytime,
+peaking during the night, and their abundances are
+constitutively elevated in cyc01 flies (76 ).
+
+(80 ). However, there are still enigmas to be uncovered. miRNAs with incomplete base pairing to their
+targets usually repress their actions rather than promote simple degradation. We are yet to know the
+fates of these miRNAs, that is, after repressing their
+targets, what are the molecular mechanisms to get
+rid of these miRNAs? Up to now, a large body of
+evidence supports the idea that miRNAs are involved
+in a broad spectrum of biological progresses involving
+negative post-transcriptional gene regulation. Based
+on increasing numbers of specific miRNA functional
+study, it is indispensable for us to construct a global
+view about miRNA regulation mechanisms and understand miRNA in different angles.
+
+References
+
+miRNAs modulate the expression of target mRNAs
+in different pathways and themselves are also regulated by multiple factors. In-depth analyses have
+demonstrated that the repression effect of miRNAs
+can be relieved when they are subject to different
+types of stress, such as amino acid deprivation, oxidative stress and synaptic stimulation (77–79 ). In
+other words, some miRNAs, if not all, may interplay
+with their targets in a reversible manner. In addition,
+there are clues suggesting that miRNAs may regulate
+other non-coding RNAs at post-transcriptional levels,
+including their own primary transcripts, and the result supports the possibility that miRNA regulatory
+cascades are not limited to protein-coding transcripts
+
+1. Bartel, D.P. 2004. MicroRNAs: genomics, biogenesis,
+mechanism, and function. Cell 116: 281-297.
+2. Lai, E.C., et al. 2003. Computational identification of
+Drosophila microRNA genes. Genome Biol. 4: R42.
+3. Lim, L.P., et al. 2003. The microRNAs of Caenorhabditis elegans. Genes Dev. 17: 991-1008.
+4. Lim, L.P., et al. 2003. Vertebrate microRNA genes.
+Science 299: 1540.
+5. Baskerville, S. and Bartel, D.P. 2005. Microarray
+profiling of microRNAs reveals frequent coexpression
+with neighboring miRNAs and host genes. RNA 11:
+241-247.
+6. Lee, R.C., et al. 1993. The C. elegans heterochronic
+gene lin-4 encodes small RNAs with antisense complementarity to lin-14. Cell 75: 843-854.
+7. Reinhart, B.J., et al. 2000. The 21-nucleotide let-7
+RNA regulates developmental timing in Caenorhabditis elegans. Nature 403: 901-906.
+8. Reinhart, B.J., et al. 2002. MicroRNAs in plants.
+Genes Dev. 16: 1616-1626.
+9. Liu, J. 2008. Control of protein synthesis and mRNA
+degradation by microRNAs. Curr. Opin. Cell Biol.
+20: 214-221.
+10. Scaria, V., et al. 2006. Host-virus interaction: a new
+role for microRNAs. Retrovirology 3: 68.
+11. Tsuchiya, S., et al. 2006. MicroRNA: biogenetic
+and functional mechanisms and involvements in cell
+differentiation and cancer. J. Pharmacol. Sci. 101:
+267-270.
+12. Cho, W.C. 2007. OncomiRs: the discovery and
+progress of microRNAs in cancers. Mol. Cancer 6:
+60.
+13. Drakaki, A. and Iliopoulos, D. 2009. MicroRNA gene
+networks in oncogenesis. Curr. Genomics 10: 35-41.
+
+152
+
+Vol. 7 No. 4
+
+Conclusion
+
+Genomics Proteomics Bioinformatics
+
+December 2009
+
+Cai et al.
+
+14. Tzur, G., et al. 2009. Comprehensive gene and microRNA expression profiling reveals a role for microRNAs in human liver development. PLoS One 4: e7511.
+15. Calin, G.A., et al. 2004. Human microRNA genes are
+frequently located at fragile sites and genomic regions
+involved in cancers. Proc. Natl. Acad. Sci. USA 101:
+2999-3004.
+16. Sevignani, C., et al. 2007. MicroRNA genes are frequently located near mouse cancer susceptibility loci.
+Proc. Natl. Acad. Sci. USA 104: 8017-8022.
+17. Calin, G.A. and Croce, C.M. 2007. Chromosomal rearrangements and microRNAs: a new cancer link with
+clinical implications. J. Clin. Invest. 117: 2059-2066.
+18. Rodriguez, A., et al. 2004. Identification of mammalian microRNA host genes and transcription units.
+Genome Res. 14: 1902-1910.
+19. Osokine, I., et al. 2008. Unintentional miRNA ablation is a risk factor in gene knockout studies: a short
+report. PLoS Genet. 4: e34.
+20. Kim, Y.K. and Kim, V.N. 2007. Processing of intronic
+microRNAs. EMBO J. 26: 775-783.
+21. Zhao, T., et al. 2007. A complex system of small
+RNAs in the unicellular green alga Chlamydomonas
+reinhardtii. Genes Dev. 21: 1190-1203.
+22. Rathjen, T., et al. 2009. High throughput sequencing
+of microRNAs in chicken somites. FEBS Lett. 583:
+1422-1426.
+23. Johansen, S.D., et al. 2009. Large-scale sequence analyses of Atlantic cod. N. Biotechnol. 25: 263-271.
+24. Kato, M., et al. 2009. Dynamic expression of
+small non-coding RNAs, including novel microRNAs
+and piRNAs/21U-RNAs, during Caenorhabditis elegans development. Genome Biol. 10: R54.
+25. Rhoades, M.W., et al. 2002. Prediction of plant microRNA targets. Cell 110: 513-520.
+26. Ye, W., et al. 2008. The effect of central loops in
+miRNA: MRE duplexes on the efficiency of miRNAmediated gene regulation. PLoS One 3: e1719.
+27. Doench, J.G. and Sharp, P.A. 2004. Specificity of
+microRNA target selection in translational repression.
+Genes Dev. 18: 504-511.
+28. Martin, G., et al. 2007. Prediction and validation of
+microRNA targets in animal genomes. J. Biosci. 32:
+1049-1052.
+29. Seitz, H. 2009. Redefining microRNA targets. Curr.
+Biol. 19: 870-873.
+30. Lai, E.C. 2002. MicroRNAs are complementary to
+3 UTR sequence motifs that mediate negative posttranscriptional regulation. Nat. Genet. 30: 363-364.
+31. Xie, X., et al. 2005. Systematic discovery of regulatory motifs in human promoters and 3 UTRs by comparison of several mammals. Nature 434: 338-345.
+32. Vasudevan, S. and Steitz, J.A. 2007. AU-rich-elementmediated upregulation of translation by FXR1 and
+Argonaute 2. Cell 128: 1105-1118.
+
+Genomics Proteomics Bioinformatics
+
+33. Osada, H. and Takahashi, T. 2007. MicroRNAs in biological processes and carcinogenesis. Carcinogenesis
+28: 2-12.
+34. Sandberg, R., et al. 2008. Proliferating cells express
+mRNAs with shortened 3 untranslated regions and
+fewer microRNA target sites. Science 320: 1643-1647.
+35. Cheng, C., et al. 2009. The relationship between the
+evolution of microRNA targets and the length of their
+UTRs. BMC Genomics 10: 431.
+36. Sunkar, R. and Zhu, J.K. 2004. Novel and stressregulated microRNAs and other small RNAs from
+Arabidopsis. Plant Cell 16: 2001-2019.
+37. Jopling, C.L., et al. 2005. Modulation of hepatitis C
+virus RNA abundance by a liver-specific microRNA.
+Science 309: 1577-1581.
+38. Lee, I., et al. 2009. New class of microRNA targets
+containing simultaneous 5 -UTR and 3 -UTR interaction sites. Genome Res. 19: 1175-1183.
+39. Maragkakis, M., et al. 2009. Accurate microRNA target prediction correlates with protein repression levels.
+BMC Bioinformatics 10: 295.
+40. Stark, A., et al. 2007. Discovery of functional elements in 12 Drosophila genomes using evolutionary
+signatures. Nature 450: 219-232.
+41. Tay, Y., et al. 2008. MicroRNAs to Nanog, Oct4
+and Sox2 coding regions modulate embryonic stem cell
+differentiation. Nature 455: 1124-1128.
+42. Nilsen, T.W. 2007.
+Mechanisms of microRNAmediated gene regulation in animal cells. Trends
+Genet. 23: 243-249.
+43. Vasudevan, S., et al. 2007. Switching from repression
+to activation: microRNAs can up-regulate translation.
+Science 318: 1931-1934.
+44. Leung, A.K. and Sharp, P.A. 2007. MicroRNAs: a
+safeguard against turmoil? Cell 130: 581-585.
+45. Biemar, F., et al. 2005. Spatial regulation of microRNA gene expression in the Drosophila embryo.
+Proc. Natl. Acad. Sci. USA 102: 15907-15911.
+46. Kim, V.N. 2005. MicroRNA biogenesis: coordinated
+cropping and dicing. Nat. Rev. Mol. Cell Biol. 6:
+376-385.
+47. Jing, Q., et al. 2005. Involvement of microRNA
+in AU-rich element-mediated mRNA instability. Cell
+120: 623-634.
+48. Landthaler, M., et al.
+2004.
+The human DiGeorge syndrome critical region gene 8 and its D.
+melanogaster homolog are required for miRNA biogenesis. Curr. Biol. 14: 2162-2167.
+49. Kedde, M., et al. 2007. RNA-binding protein Dnd1
+inhibits microRNA access to target mRNA. Cell 131:
+1273-1286.
+50. Mishra, P.J., et al.
+2008.
+MiRSNPs or MiRpolymorphisms, new players in microRNA mediated
+regulation of the cell: introducing microRNA pharmacogenomics. Cell Cycle 7: 853-858.
+
+Vol. 7 No. 4
+
+December 2009
+
+153
+
+Mechanisms of miRNA Regulation
+
+51. Jazdzewski, K., et al. 2008. Common SNP in premiR-146a decreases mature miR expression and predisposes to papillary thyroid carcinoma. Proc. Natl.
+Acad. Sci. USA 105: 7269-7274.
+52. Sun, G., et al. 2009. SNPs in human miRNA genes
+affect biogenesis and function. RNA 15: 1640-1651.
+53. Chin, L.J., et al. 2008. A SNP in a let-7 microRNA
+complementary site in the KRAS 3 untranslated region increases non-small cell lung cancer risk. Cancer
+Res. 68: 8535-8540.
+54. Kawahara, Y., et al. 2008. Frequency and fate of microRNA editing in human brain. Nucleic Acids Res.
+36: 5270-5280.
+55. Luciano, D.J., et al. 2004. RNA editing of a miRNA
+precursor. RNA 10: 1174-1177.
+56. Pfeffer, S., et al. 2005. Identification of microRNAs
+of the herpesvirus family. Nat. Methods 2: 269-276.
+57. Yang, W., et al. 2006. Modulation of microRNA processing and expression through RNA editing by ADAR
+deaminases. Nat. Struct. Mol. Biol. 13: 13-21.
+58. Kawahara, Y., et al. 2007. Redirection of silencing targets by adenosine-to-inosine editing of miRNAs.
+Science 315: 1137-1140.
+59. Kawahara, Y., et al. 2007. RNA editing of the
+microRNA-151 precursor blocks cleavage by the DicerTRBP complex. EMBO Rep. 8: 763-769.
+60. Habig, J.W., et al. 2007. MiRNA editing—we should
+have inosine this coming. Mol. Cell 25: 792-793.
+61. Blow, M.J., et al. 2006. RNA editing of human microRNAs. Genome Biol. 7: R27.
+62. Ohman, M. 2007. A-to-I editing challenger or ally to
+the microRNA process. Biochimie 89: 1171-1176.
+63. Brueckner, B., et al. 2007. The human let-7a-3 locus
+contains an epigenetically regulated microRNA gene
+with oncogenic function. Cancer Res. 67: 1419-1423.
+64. Lujambio, A., et al. 2007. Genetic unmasking of
+an epigenetically silenced microRNA in human cancer
+cells. Cancer Res. 67: 1424-1429.
+65. Lehmann, U., et al. 2008. Epigenetic inactivation of
+microRNA gene hsa-mir-9-1 in human breast cancer.
+J. Pathol. 214: 17-24.
+66. Lehmann, U., et al. 2007. Epigenetic inactivation
+of microRNA genes in mammary carcinoma. Verh.
+Dtsch. Ges. Pathol. 91: 214-220.
+
+67. Saito, Y., et al.
+2006.
+Specific activation of
+microRNA-127 with downregulation of the protooncogene BCL6 by chromatin-modifying drugs in human cancer cells. Cancer Cell 9: 435-443.
+68. Suzuki, M. and Yoshino, I. 2008. Identification of
+microRNAs caused by DNA methylation that induce
+metastasis. Future Oncol. 4: 775-777.
+69. Ando, T., et al. 2009. DNA methylation of microRNA
+genes in gastric mucosae of gastric cancer patients:
+its possible involvement in the formation of epigenetic
+field defect. Int. J. Cancer 124: 2367-2374.
+70. Lodygin, D., et al. 2008. Inactivation of miR-34a by
+aberrant CpG methylation in multiple types of cancer.
+Cell Cycle 7: 2591-2600.
+71. Han, L., et al. 2007. DNA methylation regulates microRNA expression. Cancer Biol. Ther. 6: 1284-1288.
+72. Meng, F., et al. 2008. Epigenetic regulation of
+microRNA-370 by interleukin-6 in malignant human
+cholangiocytes. Oncogene 27: 378-386.
+73. Toyota, M., et al. 2008. Epigenetic silencing of
+microRNA-34b/c and B-cell translocation gene 4 is
+associated with CpG island methylation in colorectal
+cancer. Cancer Res. 68: 4123-4132.
+74. Cheng, H.Y., et al. 2007. MicroRNA modulation of
+circadian-clock period and entrainment. Neuron 54:
+813-829.
+75. Xu, S., et al. 2007. MicroRNA (miRNA) transcriptome of mouse retina and identification of a sensory
+organ-specific miRNA cluster. J. Biol. Chem. 282:
+25053-25066.
+76. Yang, M., et al. 2008. Circadian regulation of a limited set of conserved microRNAs in Drosophila. BMC
+Genomics 9: 83.
+77. Ashraf, S.I., et al. 2006. Synaptic protein synthesis associated with memory is regulated by the RISC
+pathway in Drosophila. Cell 124: 191-205.
+78. Bhattacharyya, S.N., et al. 2006. Relief of microRNAmediated translational repression in human cells subjected to stress. Cell 125: 1111-1124.
+79. Schratt, G.M., et al. 2006. A brain-specific microRNA regulates dendritic spine development. Nature 439: 283-289.
+80. Zhao, Y., et al. 2008. MicroRNA regulation of
+messenger-like non-coding RNAs: a network of mutual microRNA control. Trends Genet. 24: 323-327.
+
+154
+
+Vol. 7 No. 4
+
+Genomics Proteomics Bioinformatics
+
+December 2009
+
+

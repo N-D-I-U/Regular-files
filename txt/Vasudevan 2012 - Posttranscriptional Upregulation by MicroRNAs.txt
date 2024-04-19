@@ -1,0 +1,1795 @@
+Advanced Review
+
+Posttranscriptional Upregulation
+by MicroRNAs
+Shobha Vasudevan∗
+MicroRNAs are small non-coding RNA guide molecules that regulate gene
+expression via association with effector complexes and sequence-specific
+recognition of target sites on other RNAs; misregulated microRNA expression
+and functions are linked to a variety of tumors, developmental disorders, and
+immune disease. MicroRNAs have primarily been demonstrated to mediate
+posttranscriptional downregulation of expression; translational repression, and
+deadenylation-dependent decay of messages through partially complementary
+microRNA target sites in mRNA untranslated regions (UTRs). However, an
+emerging assortment of studies, discussed in this review, reveal that microRNAs
+and their associated protein complexes (microribonucleoproteins or microRNPs)
+can additionally function to posttranscriptionally stimulate gene expression by
+direct and indirect mechanisms. These reports indicate that microRNA-mediated
+effects can be selective, regulated by the RNA sequence context, and associated
+with RNP factors and cellular conditions. Like repression, translation upregulation
+by microRNAs has been observed to range from fine-tuning effects to significant
+alterations in expression. These studies uncover remarkable, new abilities of
+microRNAs and associated microRNPs in gene expression control and underscore
+the importance of regulation, in cis and trans, in directing appropriate microRNP
+responses. © 2011 John Wiley & Sons, Ltd.
+How to cite this article:
+
+WIREs RNA 2012, 3:311–330. doi: 10.1002/wrna.121
+
+INTRODUCTION
+
+M
+
+anipulation of gene expression at the mRNA
+level, subsequent to the onset of transcription, enables cells with a means to rapidly or transiently change gene expression profiles in response to
+intracellular changes or extracellular cues.1,2 Posttranscriptional regulatory mechanisms enhance or reduce
+gene expression and include: increased mRNA levels,
+relocalization of mRNAs/mRNPs, mRNP modification, and alteration of the translation machinery to
+induce or repress the expression of specific mRNAs
+under distinct conditions.3,4 In eukaryotes, repression
+is more common while posttranscriptional upregulation has been observed in specific cell types such as
+developing germ cells and with distinct transcripts,
+factors, and conditions. These activation elements are
+essentially regulatory elements that retain the ability to repress and activate expression in response
+to distinct cues.4–8 The cytoplasmic polyadenylation
+∗ Correspondence to: vasudevan.shobha@mgh.harvard.edu
+
+MGH Cancer Center, Harvard Medical School, Boston, MA, USA
+
+Volume 3, May/June 2012
+
+element (CPE) exemplifies a regulatory element that
+represses translation of specific messages in immature oocytes but activates the same upon maturation
+of the oocytes.5,9,10 Importantly, posttranscriptional
+mechanisms, in particular, RNA stability and translation control mechanisms can be manipulated by
+non-coding RNAs and RNPs to mediate gene expression responses to signaling cues and altered states.
+
+REGULATORY RNAS
+Gene expression can be controlled posttranscriptionally by regulatory RNAs in conjunction with associated effector proteins to elicit specific expression
+outcomes. Such RNA sequences act in trans as control
+non-coding RNAs such as small RNAs in bacteria or
+microRNAs. In cis, target microRNA sites or mRNA
+regulatory sequences and structures recruit transacting regulatory RNAs and RNPs and can direct
+processing, localization, stability, and translation of
+the mRNA in response to intra- and extracellular
+signals.4–8
+
+© 2011 John Wiley & Sons, Ltd.
+
+311
+
+wires.wiley.com/rna
+
+Advanced Review
+
+Trans-Acting Regulatory RNAs
+Small RNAs in Prokaryotes
+In bacteria, small RNAs (sRNAs) can alter expression
+in either direction.11–13 sRNA regulation of translation often involves the role of RNA-binding proteins,
+such as HfQ that enables bacteria to adapt to environmental cues. sRNAs in bacteria act to stimulate
+or inhibit translation usually by base pairing to their
+targets and by influencing the activities of proteins.
+sRNAs employ direct mechanisms, targeting the 5 - or
+3 -untranslated region (UTR) to alter RNA processing, translation, or mRNA stability, as well as indirect
+mechanisms, preventing the degradation of an activating sRNA or trapping repressive sRNAs to alleviate
+repression,14 similar to some of the newly uncovered
+functions of microRNAs.
+
+MicroRNAs in Eukaryotes
+MicroRNAs are specialized small non-coding 20- to
+24-nt RNAs that function as RNA regulators primarily via sequence-specific recognition to guide
+associated effector RNP complexes and modulate
+posttranscriptional gene expression.15 Their aberrant expression or function is associated with profound clinical consequences including tumorigenesis,
+immune, and developmental disorders.16–18 MicroRNAs usually recruit a critical effector protein, Argonaute (AGO or eukaryotic initiation factor 2C,
+eIF2C) to form the functional microRNA associated protein complex (microribonucleoprotein or
+microRNP). MicroRNAs and thereby microRNPs
+recognize target RNAs through a pattern of base
+pairing, which can dictate the functional outcome.
+Perfect base pairing of the microRNA to its target
+can lead to mRNA cleavage and decay,15 while partial base pairing to target sites can lead to mRNA
+deadenylation19,20 and translation regulation,3,21–24
+primarily mRNA translation silencing or as discussed
+in this review, to upregulated expression in response
+to specific cellular conditions, sequences, and cofactors. Upregulated posttranscriptional expression can
+be mediated directly by distinct microRNPs, and is
+then called activation (Figure 1(a)), or indirectly, as
+a consequence of regulatory effects on microRNAmediated repression, and then called relief of repression (Figure 1(b)).
+
+CIS-Acting Regulatory RNAs
+Target mRNA Specificity
+MicroRNAs are predicted bioinformatically to target
+over a third of the genome25 but not all predicted
+mRNAs are subject to regulation in any given cell and
+environment. Many examples demonstrate that UTRs
+312
+
+usually are alternatively polyadenylated to include or
+preclude essential sites or have additional sequences,
+which when occupied in a regulated manner, can
+prevent or permit microRNA activity.8,26–28 In muscle differentiation, miR145 upregulated myocardin,
+while miR143 and miR145 itself downregulated
+other substrates.29 KLF4 mRNA was upregulated by
+miR206 in confluent cells and noncancerous cells but
+was downregulated by miR206 or miR344 in proliferating cancer cells.30 Therefore, microRNA-mediated
+upregulation is target specific, dependent on the specific conditions experienced by distinct target mRNAs.
+The presence of additional mRNA UTR sequences
+that interfere/synergize with microRNA functions is
+expected to dictate the final expression outcome. The
+additional UTR factors recruited, are subject to modulation, such as tissue-specific expression of Dead end
+1 and thereby miR430 target mRNAs8,27 or cell-cycle
+regulation of Pum1’s ability to alter microRNA accessibility to p27 mRNA,31 adding yet another avenue
+for regulated expression.
+
+AU-Rich Elements
+The AU-rich element (ARE) was discovered as a
+decay element.32–34 Additional posttranscriptional
+roles, repression and upregulation of translation, were
+further ascribed to the ARE.1,35–39 The ARE-/U-rich
+binding protein, HuR, and its related family of ELAV
+proteins, demonstrated the case as stability factors that
+influenced not only RNA processing, export and decay
+but also translation repression and activation.39–45
+Interestingly, both AREs and microRNPs affect common functions of deadenylation and translation, possibly employing similar mechanisms.46
+Several studies demonstrate interconnections
+between microRNAs and AREs.46 Several microRNA
+targets are predicted (about 75%) or have been
+demonstrated to be within AU-rich sequences.47–51
+MicroRNPs co-purify ARE-associated proteins; fragile X mental retardation related protein 1 (FXR1iso-a), which associates with tumor necrosis factor
+(TNF)α ARE and PAI-RBP1, which associates with
+PAI mRNA ARE.52–54 Finally, AREs and their binding
+factors have been demonstrated to be associated with
+and affect the functions of microRNPs. TNFα mRNA
+can be degraded by TTP and miR16, in association
+with the microRNP,55 and is translationally activated in quiescent conditions by microRNAs targeting
+the ARE.56 HuR can relieve or recruit microRNPmediated repression26,44,45,57–59 while microRNAs
+compete with TTP to increase mRNA stability,60,61
+suggesting coordinated regulation of mRNA expression by AREs and microRNAs.
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+WIREs RNA
+
+Posttranscriptional Upregulation by MicroRNAs
+
+(a)
+
+(b)
+
+FIGURE 1 | Posttranscriptional upregulation by microRNAs/microRNPs. The expression of a reporter bearing the test target site untranslated
+region (UTR) (Firefly luciferase with test UTR) is normalized to the expression of a transfection control reporter (Renilla luciferase) to exclude the
+effects of transfection efficiency and obtain the test-UTR-specific translation ratio. The ratio is further normalized against their RNA levels to obtain
+translation efficiency.20 The reference reporter translation efficiency (first and fourth gray bars of each graph) reads out the translation efficiency in
+the absence of the microRNA target site and provides basal translation levels (dashed blue line). Upregulated expression by microRNAs and
+microRNPs is observed as direct (activation) or indirect (relief of repression): (a) Activation: In comparison to the basal reference reporter translation
+efficiency (dashed blue line marking the translation of the first and fourth gray bars of each graph) as shown by a nontargeted or reference reporter, a
+targeted test reporter can be activated (orange bar with the change from basal reference reporter translation shown by the wide black arrow) when
+the translation efficiency is greater than that of the reference reporter translation (gray bars, dashed blue line). (b) Relief of repression: The test
+reporter translation can be repressed (red bar) where its translation is less than that of the reference reporter translation (gray bars, dashed blue line).
+When the regulatory effect of repression is abrogated, translation efficiency is increased (increase depicted by the wide black arrow) from repressed
+(red bar) to basal levels (pink bar comparable to the gray bars and dashed blue line depicting the reference reporter translation) because of the
+blocked repression. When the regulatory effect of activation (orange bar) is abrogated, the increased translation is lost and brought down to basal
+levels from activated levels (brown bar comparable to the gray bars and dashed blue line depicting the reference reporter translation) because of the
+blocked activation.
+
+ASSOCIATED FACTORS
+eIF2C2
+The central factor in microRNA functional outcomes
+in mammalian cells is eIF2C2 or AGO2. AGO2 targets
+mRNAs that are partially complementary to microRNAs for deadenylation and translational regulation.15
+AGO2/eIF2C2 was initially purified as co-eIF2a, a
+translation-enhancing activity from rabbit reticulocyte
+lysate, which stabilized the ternary complex in the
+presence of mRNA at low concentrations and copurified with eIF2 (a critical translation initiation
+factor that forms the ternary complex with initiator methionyl tRNA, an important intermediate that
+recruits the tRNA to ribosomes).21,62,63 These results
+Volume 3, May/June 2012
+
+remain unexplored and the precise functional role of
+co-eIF2a or eIF2C2 has not been examined in detail;21
+the translation activation observed in recent literature
+may reflect this upregulatory activity of eIF2C2.
+
+FXR1-iso-a/dFXR1
+Fragile-X mental retardation related protein 1
+(FXR1) is similar in protein structure to the FMR1
+family of KH domain RNA-binding proteins;64–68
+however, the mouse knockout does not show
+an FMR1-related phenotype and instead demonstrates muscle loss and neonatal death associated with cytokine deregulation.69,70 FXR1 and
+its Drosophila orthologue, dFXR1/dFMR1, were
+
+© 2011 John Wiley & Sons, Ltd.
+
+313
+
+wires.wiley.com/rna
+
+Advanced Review
+
+found to interact with Argonaute in microRNPs
+as well as with Argonaute-related family members,
+P-element-induced wimpy testis (PIWI), in MIWI/PIWI
+and MILI complexes.52,71,72 FXR1 is not required
+for downregulation by microRNAs and FXR1-isoa, which activates translation upon overexpression
+unlike other FXR1 isoforms and FMR1, is associated
+with AGO2.73 FXR1-iso-a was demonstrated to be
+required for AGO2/microRNA-mediated translation
+activation of specific transcripts in quiescent cells,73
+suggesting that FXR1-iso-a association in distinct
+conditions contributes to altered gene expression by
+the microRNP. Other such factors may also mediate
+upregulation.
+
+MICRORNA/MICRORNP-MEDIATED
+UPREGULATED EXPRESSION
+Translation upregulation by microRNAs has been
+observed as a result of two possible outcomes: activation by the direct action of microRNAs/microRNPs
+(Figure 1(a)) and relief of repression (Figure 1(b)),
+where the action of a repressive microRNA or
+microRNP is abrogated. When the relative translation of the test UTR/target site reporter (normalized
+to a transfection control) or its translation efficiency20
+(further normalized for RNA levels) is greater than the
+relative translation or translation efficiency of a reference reporter (mutated at or lacking the key test UTR
+site, normalized similarly) expressed from the same
+promoter in a parallel experiment, then translation
+is activated or upregulated indicating that the tested
+site and microRNA stimulate translation, increasing
+it over and beyond general translation represented by
+the reference reporter (Figure 1(a), orange bar compared to gray bar). Relief of repression is the loss
+of repression by the microRNA, where the regulatory effect or reduction of relative translation of the
+test reporter below the basal or reference reporter
+translation (Figure 1(b), red bar compared to gray
+bar) is alleviated,26 leading to the test UTR reporter
+demonstrating translation similar to that of the reference reporter (Figure 1(b), red bar compared to the
+pink bar, which is similar to the gray bar) and acting like a transcript devoid of microRNA/test UTR
+repression effects. It should be noted that translation activation would be greater than the reference
+reporter and is therefore distinct from relief of repression (Figures 1(a) and (b), orange bar compared with
+the gray bar compared to the pink bar). The translation state when the microRNA is depleted would
+define whether the microRNA was inducing activation (in which case there would be a loss of stimulated
+expression and translation would be reduced to that
+314
+
+of the reference reporter; Figures 1(a) and (b), activation depicted by the orange bar becomes reduced
+to that of the brown bar, comparable to the gray
+bar) or whether the microRNA/RNP was relieved of
+repressive function (in which case there would be no
+change as absence of the microRNA would cause the
+same effect as relief; Figure 1(b), relief of repression
+depicted by the pink bar, comparable to the gray bar).
+Biologically, both activation and relief of repression
+would result in an increase in the relative levels of the
+protein produced.
+The discovery of a potential, although yet unexplored, translation stimulation role of eIF2C221,62,63
+was further augmented by the elucidation of mRNA
+translation activation roles of the related PIWI family
+protein, Aubergine, in the Drosophila germline74–76
+and of the related PIWI proteins in Drosophila and
+mouse germlines.77–80 One of the earliest demonstrations that RNAi and potentially microRNA activity
+may be regulated was observed in early oocyte development in Drosophila.75,81 A demonstration of hepatitis C virus (HCV) RNA upregulation by miR122 at
+the RNA level82 was one of the first indications that
+microRNAs potentially have silencing independent
+functions, while transcription at specific promoter
+regions was demonstrated to be upregulated by small
+RNAs.83–86 This was followed by studies demonstrating alleviation of microRNP repression of distinct
+messages under specific cellular conditions.26,87 Our
+study revealed that eIF2C2/AGO2 can activate translation of specific mRNAs in quiescent G0 cells.56,73,88
+Subsequent studies summarized below affirmed that
+microRNPs have the potential to activate translation directly. Additionally, other studies demonstrate
+indirect alleviation of repression.
+
+ACTIVATION BY MICRORNAS
+Activation of Specific mRNAs Regulated
+by Cellular Conditions: Effect
+of Quiescence-Like Conditions
+Quiescence (G0) is a unique adaptive response in a
+population of dividing cells which enables an advantageous escape from harsh situations that lead to permanent arrest; instead, the cell is suspended reversibly
+in an assortment of G0 states where it can develop
+and respond adequately to more favorable conditions by returning to the cell cycle.89 Such reversibly
+arrested cells are, in contrast to general assumptions,
+quite active metabolically, requiring the expression of
+very specific genes to maintain the state, resist harsh
+stimuli as well as respond to altered conditions.90,91
+These are likely achieved by posttranscriptional
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+WIREs RNA
+
+Posttranscriptional Upregulation by MicroRNAs
+
+(a)
+
+(b)
+
+FIGURE 2 | Posttranscriptional regulation in quiescent cells (G0 mammalian cells and G0-like immature oocytes). G0 conditions not only
+demonstrate selective activation of G0 expressed mRNAs/microRNAs that are required for G0-related functions but also display transcriptional and
+posttranscriptional downregulation113 especially of cell-cycle factors and other such undesired genes,89,91 suggesting that other mRNAs, microRNAs,
+and regulatory RNA-binding proteins downregulate gene expression of cell-cycle factors88 ; both positive and negative regulation may collectively
+enable inhibition of the cell cycle and maintenance of the G0 state.89,91 (a) Translation upregulation of G0-specific mRNAs/ microRNAs. GW182 is an
+essential component of the repressive microRNP complex regulated in G0.105–107 In conditions where GW182 interaction with AGO2 is restricted
+(oocytes, G0 cells, dAGO2), repression is abrogated.73,108,110–112 Under G0 conditions, FXR1-iso-a (FXR1a) can interact with the microRNP and alter
+its function to enable activation of specific, natural target mRNAs and of AGO2 or FXR1-iso-a tethered reporters. Activation of translation in quiescent
+conditions is observed with specific mRNAs such as tumor necrosis factor α (TNFα) and KLF4 in G0 mammalian cells, and Myt1 in immature Xenopus
+laevis oocytes mediated by specific microRNAs, miR369-3p, miR206, and xlmiR16 respectively.30,56,92 (b) Downregulation of cell-cycle mRNAs,
+maternal CPE-bearing and other silenced mRNAs. Posttranscriptional downregulation by mechanisms including deadenylation113 is observed with
+cell-cycle genes in G0 mammalian cells89,91 and with maternal mRNAs that are temporarily silenced in immature oocytes such as CPE-bearing mRNAs
+in Xenopus laevis oocytes.9,10 These mechanisms may be mediated by UTR-RNA-binding regulatory proteins as observed in oocytes9,10 as well as
+potentially, by microRNA-dependent mechanisms with or without collaboration with adjoining RNA-binding protein sequences (RNABP site) and
+factors.
+
+mechanisms28,89,91 that may include translation
+upregulation by microRNAs73,88,92 (Figures 2(a), (b),
+and 3(a)).
+Translation upregulation by microRNAs was
+observed to be transient and appears to be restricted
+to specific G0 states and not in G1 arrest or other
+states of the cell cycle;30,56,73,88,92 therefore, activation mediated by microRNAs in mammalian cell
+lines in G0 is less frequently observed than repression. Quiescence is also influenced by cell-to-cell
+contact, where replating proliferating cells at high
+density inhibited entry into quiescence and translation activation.89,93,94 In concurrence, Hwang et al.,
+demonstrated that increasing cell-to-cell contact via
+increased density of replated proliferating cultures
+enabled increased repression by microRNAs.95 A
+block to cell division by multiple means leads to cell
+death, G1 arrest or senescence rather than quiescence
+Volume 3, May/June 2012
+
+in cells lacking quiescence-entry capacity, which, in
+the absence of specific tests and markers to distinguish
+G0 from G1 arrest and senescence, can misleadingly
+suggest G0.89,93,94,96,97
+
+Altered MicroRNP Components
+In quiescent G0 cells, the levels of an essential AGO2-associated component of the repressive
+microRNP, GW182,98–104 a component of GW bodies, that contributes to microRNA-mediated deadenylation and repression, decreases, is altered in its
+interaction with AG0105–108 and is marked by a
+decrease in GW bodies,105–107 although the bodies are not essential for repression.109 Failure to
+maintain GW182 interaction with AGO2 leads to
+a loss of repression108,110,111 and can be associated with activation.112 Activation in G0 could be
+mediated by tethering AGO2 or FXR1-iso-a to a
+reporter (Figure 2(a)), suggesting that recruitment of
+
+© 2011 John Wiley & Sons, Ltd.
+
+315
+
+wires.wiley.com/rna
+
+Advanced Review
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+FIGURE 3 | Activation of gene expression by microRNAs. Examples of microRNAs and target mRNAs with target sites in the 5 - or 3 -UTRs
+(untranslated regions) that demonstrate upregulated expression due to microRNA-mediated activation. (a) Increased translation in response to
+cellular conditions. miR369-3p and miR206 bind the 3 -UTRs of and upregulate translation of TNFα and KLF4 mRNAs respectively in quiescent
+mammalian cell lines.30,56 FXR1-iso-a (FXR1a) and AGO2 are required for translation activation in G0 and in immature Xenopus laevis oocytes and
+are associated with the TNFα mRNA in G0 cells. XlmiR16 binds the 3 -UTR and upregulates translation of Myt1 mRNA in immature Xenopus laevis
+oocytes.92 In proliferating cells, GW182 and AGO2 associate with target mRNAs and mediate repression. (b) Specific transcripts, microRNAs, and
+factors. Other specific microRNAs as well as specific factors can activate distinct transcripts with target sites in either the 5 -UTR or the 3 -UTR. 5 -UTR:
+Liver specific miR122 stimulates translation of HCV RNA through direct binding to two target sites in the 5 -UTR.134 miR346 interacts with the 5 -UTR
+of RIP140 and upregulates translation in mouse brain tissue and p19 cells independent of AGO2.142 3 -UTR: Binding of miR145 to the 3 -UTR of
+myocardin mRNA increases its expression during smooth muscle development.29 Mmu-miR34a/34b-5p binds the 3 -UTR and upregulates translation
+of an alternatively polyadenylated variant of β-actin mRNA in mouse neuronal cells.143 Drosophila dAGO2 activates translation of m7G-capped or
+A-capped IRES-containing 3 -UTR target reporters lacking poly(A) tails in a Drosophila extract system.112 (c) Increased mRNA stability and translation.
+miR125b binding to the 3 -UTR of κB-Ras2 mRNA and miR466I binding to interleukin (IL)-10 mRNA mediates increased mRNA stability in human
+macrophages.60,61 (d) MicroRNA-mediated decoy. miR328 binds hnRNP-E2 (hnRNPE2) and prevents it from repressing c/EBPα mRNA translation.145
+
+an altered microRNP in conditions where interaction
+of AGO2 with GW182 is decreased mediates
+activation.
+
+TNFα mRNA and miR369-3p
+We found that microRNAs recruit a modified
+microRNP comprising AGO2 and a specific isoform of
+316
+
+FXR1, FXR1-iso-a, to mediate translation activation
+of specific mRNAs such as TNFα in quiescent G0
+cells by miR369-3p (Figures 2(a) and 3(a)), which
+is induced in G0 in certain cell lines.56,73 Deadenylation is increased in quiescent mammalian cells,113
+suggestive of a distinctive mechanism of translation of
+poly(A) tail shortened mRNAs, consistent with some
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+WIREs RNA
+
+Posttranscriptional Upregulation by MicroRNAs
+
+of the studies on microRNA-mediated translation
+upregulation.112,114
+
+KLF4 mRNA and miR206 in Quiescent
+and Non-Transformed Cells
+miR206 was demonstrated to cause repression of
+KLF4 expression in breast cancer cells but not in
+normal immortalized MCF10A cells. Interestingly, as
+described above in G0 cells, this effect was driven
+by the absence of proliferation and by quiescence in
+confluent RK3E cells, where miR206 levels increased
+and caused upregulated translation in comparison
+to cycling cells, where miR344 levels increased
+instead and caused repression of KLF4 mRNA and
+3 UTR reporters30 (Figures 2(a) and 3(b)). These
+studies demonstrate that under quiescent conditions,
+specific G0-modified mRNPs/microRNPs are capable
+of functioning as translation upregulatory complexes
+(Figures 2(a) and 3(a)).
+
+Activation and Downregulation in G0
+G0 conditions also display transcriptional and posttranscriptional downregulation113 especially of cellcycle protein factors and other such undesired
+genes,89,91 suggesting that other mRNAs, microRNAs,
+and regulatory RNA-binding proteins downregulate
+gene expression of cell-cycle factors, which would
+enable inhibition of the cell cycle and maintenance
+of the G0 state (Figure 2(b)). Given the nature of the
+targets and microRNAs observed, activation in G0
+appears restricted specifically to certain G0 expressed
+mRNAs/microRNAs that would be physiologically
+required for G0-related functions (Figures 2(a) and
+3(a)). These results suggest that microRNAs induced
+in specific G0 cellular conditions, miR369-3p in
+the case of TNFα mRNA and miR206 in the case
+of KLF4 mRNA, may be recruited into distinct,
+altered microRNPs that promote activation of specific G0 expressed mRNAs, required for the G0
+state (Figures 2(a) and 3(a)), while downregulation
+ensues on preexisting cell-cycle-related gene mRNAs
+(Figure 2(b)). Given that newly synthesized AGO is
+required for microRNP function in trypanosomes115
+and that free, unbound AG02 is limiting in the mammalian cell,116 it may be possible that G0 conditions
+induce distinct microRNA/mRNA species that would
+be bound by new AGO complexes, associated with different cofactors that replace the reduction of GW182
+interaction in G056,73,105,107 to mediate these effects
+(Figures 2(a) and (b)).
+
+Oocyte MicroRNP Regulation
+Proteomic analysis of Dicer depletion in oocytes
+revealed limited loss of downregulation,75,81 suggesting that repression by microRNAs may be
+Volume 3, May/June 2012
+
+regulated at the early stages of development, emerging in subsequent stages of egg maturation. Recent
+studies demonstrated that mouse oocytes lacked
+GW182 colocalization with AGO2 and while downregulation of perfect complementary target sites
+was maintained, repression by microRNAs was
+greatly alleviated108,111,117 although microRNPs are
+present.118 These features that are in common with
+G0 conditions indicate the potential for selective translation activation.
+Translation activation has been well observed in
+the developing germline, which are non-proliferating
+quiescent-like cells, yet undergo growth in size,
+changes, and maintenance,6,7,79,119–123 using regulated
+posttranscriptional mechanisms including selective
+translation (Figures 2(a), (b) and 3(a)). Unlike mouse
+oocytes and human AGO2, the limiting Argonaute in
+oocytes of Xenopus laevis is distinct in its behavior and
+lacked the usual RNAi-mediated cleavage activity,124
+indicating a specialized role. Oocyte immaturity is in
+part regulated by the cAMP pathway,125–131 which
+also influences quiescence in mammalian cells.93,97
+Our study uncovered that in response to cAMP regulation in immature oocytes, AGO recruits xlmiR16
+and promotes the expression of Myt1, a specific
+mRNA that would need to be expressed to maintain
+immaturity92 (Figures 2(a), 3(a)). Consistently, upon
+maturation, Myt1 expression is no longer required
+and is abrogated and replaced by CPE-regulated
+expression of other maternal mRNAs required upon
+maturation9,10 (Figure 2(b)).
+
+Specific mRNAs, microRNAs, and Factors
+HCV RNA Translation
+HCV tropism for the liver was demonstrated to be in
+part dependent on miR122, a microRNA abundant
+in the liver that enabled increased levels of the HCV
+RNA through base pairing at two 5 -UTR miR122
+sites.82,132,133 New investigations using monocistronic
+reporters bearing the natural UTRs of HCV revealed
+that the 5 -UTR miR122 sites also caused translation
+upregulation134 (Figure 3(b)). Relocation of the HCV
+miR122 target sites from the 5 -UTR to the 3 -UTR
+led to repression; however, microRNP/AGO2 tethering at the 5 -end also permits repression in mammalian
+cells,135 and activation is observed via 3 -UTR sites
+in quiescent cells and in extracts.73,112 This suggests
+that collaboration of the miR122 sites with adjoining UTR sequences and/or the overall RNP structure
+is conducive to activate expression in the 5 -UTR as
+supported by mutational analysis114 but may inadvertently interfere with activation upon relocation
+to the 3 -UTR.134 The variable region of the HCV
+
+© 2011 John Wiley & Sons, Ltd.
+
+317
+
+wires.wiley.com/rna
+
+Advanced Review
+
+3 -UTR influenced translation efficiency via the 5 UTR miR122 target sites, suggesting an important
+interconnected role between the 5 -UTR and 3 -UTR
+to effect translation activation.134,136 Upon miR122
+base pairing with the 5 -UTR target site, the HCV
+mRNA demonstrated increased association with 40S
+subunits, increased 48S complex incorporation and at
+later stages, enhanced formation of polysomes134,136
+in a mechanism involving AGO2.137 The HCV 3 UTR lacks a poly(A) tail, which appears to be an
+important feature common to some of the studies of
+translation activation by microRNAs.92,112,114,134,136
+Similar to the above studies (Figures 2(a) and 3(a)),
+HCV translation by miR122 is also influenced by G0
+synchronization of the cells (C. Fehr and M. Niepmann, personal communication), potentially indicating common effects of G0 on the microRNP
+complex.
+
+5 -Terminal OligoPyrimidine (TOP) Tract
+mRNAs
+
+5 -Terminal oligopyrimidine (TOP) tract mRNAs
+that often encode ribosomal protein and other
+protein-synthesis-related factor mRNAs, harbor a
+TOP tract that renders these mRNAs translationally repressed upon arrest at various points in the
+cell cycle and upon nutritional deprivation.138,139
+miR10a binds such target ribosomal protein mRNAs
+immediately downstream of the TOP sequence
+at non-canonical microRNA target sites, alleviates
+TOP-mediated repression and stimulates translation
+in a rapamycin/mTOR sensitive manner during amino
+acid starvation, following anisomycin treatment or
+overexpression of a mutant activated RAS; treatments
+that activate TOP mRNA translation.140 The TOP
+sequence appears to be required for the activation
+mediated by miR10a.
+
+Drosophila Extract/Drosophila AGO2
+(dAGO2)
+The nature of the double strand influences whether
+the small RNA is recruited to dAGO2 or dAGO1
+respectively in Drosophila. dAGO1 is an inefficient
+nuclease but can mediate translation repression; in
+particular, repression requiring GW182 and mediated
+after cap recognition.112,141 dAGO2 functions as an
+RNAi nuclease apart from demonstrating cap dependent translation repression with poly(A)+ mRNA in
+an oocyte extract translation system but does not
+interact with GW182.141 Remarkably, only dAGO2
+mediates translation activation of poly(A)- mRNA
+in the extract system (Figure 3(b)), suggesting that
+this microRNP/mRNP complex required a poly(A)status for translation activation.112 Activation is also
+318
+
+observed in quiescent mammalian cells56 and in immature oocytes92 where mRNAs generally have shortened poly(A) tails5,113 and with HCV RNA, where the
+mRNA is not polyadenylated and as in the Drosophila
+extract system, is internal ribosome entry site (IRES)
+driven and lacks a cap.114,134,136
+
+miR346
+In brain and p19 cells, miR346 upregulates expression
+of a specialized splice variant of RIP140 mRNA via its
+5 -UTR. Intriguingly, upregulation was also observed
+upon knockdown of AGO2,142 indicating that another
+RNP complex or RNA structural alterations by the
+microRNA may mediate upregulation (Figure 3(b)).
+
+miR34a/b-5
+The neuronal tissue specific, alternatively cleaved
+and polyadenylated longer form of β-actin mRNA
+harbors a miR34a/b-5 target site that specifically
+upregulated translation without increasing mRNA
+levels at neuronal synapses143 (Figure 3(b)).
+
+miR223
+miR223 increases along with Glut4 expression in type
+2 diabetic patient samples of the insulin resistant heart.
+miR223 increase in neonatal rat ventricular myocytes,
+cardiomyocytes, and cell lines leads to Glut4 mRNA
+translation upregulation without altering mRNA
+levels, describing another specific microRNA targeting
+a clinically important mRNA in cardiomyocytes and
+potentially exacerbating the disease state in the insulin
+resistant heart.144
+
+miR145
+miR145 promotes the quiescent phenotype of smooth
+muscle cells and smooth muscle differentiation via
+regulated expression of some of its targets including
+upregulated expression of myocardin (Figure 3(b)), a
+component of the molecular switch for the vascular
+smooth muscle development, which bears miR145
+target sites in its 3 -UTR.29 Repression was mediated
+by other microRNAs in the same cells and miR145
+represses other targets, suggesting that the myocardin
+3 -UTR, which is sufficient to replicate the same effect
+in COS7 cells, bears all the necessary signals to mediate
+upregulation.
+
+Increased RNA Levels and Expression
+by Competition with Decay Factors
+The ARE decay pathway is often interconnected with
+microRNA regulation, where microRNA effects are
+mediated55,57,73 or abrogated26,59 due to the action
+of ARE-binding factors. In turn, microRNAs can
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+WIREs RNA
+
+Posttranscriptional Upregulation by MicroRNAs
+
+also mediate upregulation indirectly by competing
+with or influencing ARE-binding decay factors leading to stabilization by increased mRNA levels60,61
+(Figure 3(c)). MicroRNAs stabilize specific target transcripts by preventing association of the ARE decay
+factor, TTP: miR466l upregulates IL-10 mRNA levels and miR125b enhances the stability of κB-Ras2
+mRNA by preventing TTP binding to the ARE,
+thereby preventing degradation by TTP and enhancing
+their expression in macrophages60,61 (Figure 3(c)).
+
+MicroRNA-Mediated Decoy of Repressive
+Proteins
+Unlike traditional relief of repression, where a
+microRNA is prevented from associating with
+its targets and functioning (Figure 1(b), pink bar
+compared to red bar), a distinct microRNA has
+recently been demonstrated to also prevent repressive
+factors from accessing their targets, thus activating
+expression, similar to sRNAs in bacteria. In blast crisis
+chronic myelogenous leukemia (CML-BC), miR328
+levels decrease via the MAPK pathway. Restoration
+of miR328 expression rescues differentiation and
+impairs survival of leukemic blasts. miR328 was
+demonstrated to decoy away a repressive protein,
+hnRNP E2 from its target mRNA, C/EBPα, whose
+expression was then upregulated in a seed sequence
+independent manner145 (Figure 3(d)) and promoted
+differentiation. However, the same microRNA
+repressed another target mRNA encoding the survival
+factor for leukemic blasts, PIM1, further contributing
+to differentiation.145,146 These results suggest that
+microRNAs can exert dual mechanisms to lead to
+a common biological outcome: repressing specific
+targets via seed sequence mRNA target recognition
+while blocking repressive proteins from functioning
+and thereby causing upregulated expression of other
+targets (Figure 3(d)).
+
+RELIEF OF REPRESSION
+Relief of Repression by Target mRNA
+Manipulation
+Abrogation of microRNA-controlled translation
+repression in mammalian cells can be mediated by several mechanisms by RNA-binding proteins that bind
+the mRNA and influence the target site, mRNA localization, or mRNA structure, and thereby microRNA
+access or function. Bhattacharyya et al., first reported
+that a 3 -UTR U-rich sequence that binds HuR upon
+stress, interferes with microRNA repression upstream
+mediated by miR122 on the CAT-1 mRNA26 in
+response to amino acid starvation and other forms
+Volume 3, May/June 2012
+
+of cellular stresses, leading to relocalization of
+the mRNA/mRNP from repressive GW/P bodies in
+the cytoplasm to polysomes (Figure 4(a)). Similarly,
+miR134-mediated repression of Limk1 mRNA in the
+dendritic spines is alleviated in response to extracellular stimuli involving the TOR pathway.87,147,148 HuR
+can also compete for the microRNA target site negating microRNA repression by competing directly as
+in the case of RhoB mRNA and of TOP2A mRNA
+where miR19 and miR548c-3p respectively are prevented access to the target site by HuR binding to
+the mRNA.58,59 However, these functions of HuR are
+regulated and microRNA/mRNA specific149 as HuR
+has also been demonstrated to function in concert
+with microRNAs to promote repression.57
+Another RNA-binding protein, Dead end 1
+(DND1), alleviates repression and downregulation
+by binding to specific mRNA 3 -UTRs via U-rich
+regions, thereby preventing microRNAs from binding
+their target sites8,27 (Figure 4(a)). In contrast, the
+UTR-binding Pumilio 1 (Pum1,150 binds specific
+mRNAs such as p27KIP1 in a cell-cycle regulated
+manner and opens an RNA stem loop structure
+that obscures a microRNA binding site and thereby
+promotes microRNA access and repression of p27
+mRNA exclusively in cycling cells but not in arrested
+cells.31,151 Pum1 is phosphorylated in cycling cells
+to enable its ability to bind RNA while Pum1
+RNA binding and overall stability is reduced in
+arrested cells. The inability of Pum1 to bind in
+arrested cells permits the RNA stem loop structure
+of p27 mRNA 3 -UTR to block microRNA access
+and thereby cause relief of repression.31,151 DND1
+is also regulated: DND1 prevents miR430-mediated
+repression of Nanos1 and TDRD7 mRNAs in
+primordial germ cells in zebrafish; however, miR430,
+in the developing embryo, where DND1 is absent, is
+essential for deadenylation and removal of maternal
+transcripts. Therefore, alleviation of repression is
+further regulated and restricted to specific tissues and
+stages of the cell cycle via the regulation of expression
+and function of the relieving mediators.
+
+Relief of Repression by Decoy
+Relief of Repression by Decoy Non-Coding
+RNAs
+Pseudogene transcripts and non-coding RNAs with
+target site sequences can compete with mRNAs
+for microRNA binding and result in alleviation
+of microRNA targets.152–154 PTEN, as well as its
+pseudogene, PTENP1, are tumor suppressors targeted
+by miR19b and miR20a; however, PTENP1 functions
+as a tumor suppressor by acting as a decoy for
+
+© 2011 John Wiley & Sons, Ltd.
+
+319
+
+wires.wiley.com/rna
+
+Advanced Review
+
+(a)
+
+(b)
+
+(c)
+
+FIGURE 4 | Relief of repression of gene expression by microRNAs. Examples of microRNAs and specific target mRNAs demonstrating relief of
+microRNA-mediated repression. (a) Relief of repression by target mRNA manipulation: influence of RNA-binding proteins on the target site. Specific
+UTR-RNA-binding, regulatory proteins, such as HuR and DND1, can bind upstream or downstream of microRNA target sites in a regulated manner
+and influence the target site-microRNP interaction, function, or alter the localization of the RNP, leading to alleviation of repression by the
+microRNP.26,27 (b) Relief of repression by decoy. Specific non-coding RNAs such as pseudogene transcripts can relieve repression by decoying away
+distinct microRNAs via base pairing and functioning as decoy targets while specific factors can relieve repression by functioning as decoy AGO
+proteins. Non-coding RNA: Non-coding RNAs such as pseudogene transcripts PTENP1 and KRAS1P (depicted by a blue line base pairing with the
+microRNA), which bear similar sites to that found on the target PTEN and KRAS mRNAs are capable of binding and preventing microRNAs, miR19b,
+and miR20a from accessing their transcripts.152 Decoy by proteins/AGO10: Decoy proteins such as AGO10 in Arabidopsis is specifically expressed in
+shoot apical meristem to decoy miR166/165 away from the repressive AGO1 microRNP, thereby preventing repression of their targets, homeodomain
+leucine zipper transcription factor mRNAs, resulting in maintenance of undifferentiated shoot apical meristem.155 (c) Relief of repression by microRNP
+modification. The microRNP complex effector protein, AGO, as well as the microRNA may be modified to abrogate repression and thereby, permit
+expression. Stress-induced modification of AGO: AGO proteins can be modified by poly-ADP ribose (pADPr) as a stress response to conditions like
+amino acid starvation, glucose starvation, and anisomycin, leading to relocalization of AGO2 to the cytoplasm and decreased ability to associate with
+target sites and cause cleavage or repression.158 Mutant active LRRK2 in familial and sporadic Parkinson’s disease and age-related neuronal
+degeneration in Drosophila causes phosphorylation of 4E-BP1 (p4EBP1), which associates more strongly with dAGO1 and hAGO2 and abrogates
+specific microRNA (let-7 and miR184*)-mediated repression.159 Uridylation of microRNAs: MicroRNAs modified at the 3 -end, especially by
+uridylation, can lead to either altered stability of the microRNA or as in the case of miR26a/b, abrogate repression and mediate expression of target
+mRNAs such as IL-6 mRNA.180
+
+these microRNAs to relieve and promote expression
+of PTEN mRNA levels and protein152 (Figure 4(b)).
+Other pseudogene targets such as KRAS1P 3 -UTR
+also lead to increased levels of its counterpart
+320
+
+gene, KRAS.152 Therefore, non-coding RNAs such as
+pseudogene transcripts152 and viral transcripts153 can
+act as decoys or sponges154 to sequester microRNAs
+and promote expression (Figure 4(b)).
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+WIREs RNA
+
+Posttranscriptional Upregulation by MicroRNAs
+
+Relief of Repression by a Decoy Argonaute
+Protein, AGO10
+A unique example of relief of repression in Arabidopsis
+involves AGO10, a specific Argonaute that recruits
+miR166/165 by recognizing the distinctive secondary
+structure of its duplex form and decoys it away from
+AGO1, a primary microRNA effector of repression
+in plants. This enables expression of the microRNA
+targets (Figure 4(b)), homeodomain leucine zipper
+transcription factors, and thereby maintenance of
+undifferentiated cells of the shoot apical meristem.155
+These results suggest that specialized AGO proteins
+may promote rather than repress expression by
+sequestering microRNAs from repression-effecting
+microRNPs.
+
+Relief of Repression by MicroRNP
+Modification
+Relief of Repression by Stress-Induced AGO
+Modification by Poly-ADP Ribose
+Relief of repression by microRNAs as a stress
+response had been observed previously along with
+relocalization of target mRNAs from P bodies26 to
+the cytoplasm. The formation of stress bodies and
+relocalization of AGO from P bodies to a lesser extent
+to stress granules was also observed;156,157 however,
+quantitatively, most AGO relocated to the cytoplasm
+where stress-induced relief of repression was observed
+as a result of poly-ADP ribose modifications of
+AGO, leading to decreased repression and cleavage
+by microRNAs158 (Figure 4(c)).
+
+Relief of Repression by Stress-Induced
+Modification of AGO by Pathogenic (Kinase
+Active) LRRK2
+Gain of function mutations in leucine-rich repeat
+kinase 2 (pathogenic LRRK2, associated with familial
+and sporadic Parkinson’s disease and age-dependent
+degeneration of dopaminergic neurons) in Drosophila
+caused loss of specific microRNA repression (let7 and miR184*) because of its association with
+dAGO1 and its subsequent association with the
+LRRK2 kinase substrate, phosphorylated 4E-BP1.
+LRRK2 phosphorylates 4E-BP1 and a dominant
+phospho-4E-BP1 mutant was sufficient to associate
+strongly with hAGO2 and antagonize repression by
+let-7 in human cell lines (Figure 4(c)). LRRK2 also
+appears to cause decreased dAGO1 levels in aging fly
+brains.159 This modification of microRNP function
+and relief of repression is not only tissue- and
+stress/aging-specific but also selective for particular
+microRNAs/microRNPs, suggesting that individual
+microRNAs may associate with distinct microRNP
+Volume 3, May/June 2012
+
+complexes.160 Consistently, overexpression of 4E-BP
+was demonstrated to be neuroprotective in the
+LRRK2 model and its role is important in the
+aging brain.161,162 How phospho-4E-BP1 associates
+with dAGO1 but not with dAGO2 and alleviates
+specific microRNA-mediated repression remains to be
+investigated.
+
+Relief of Repression by MicroRNA Uridylation
+
+3 -end modification of microRNAs is now reported to
+be widespread due to high throughput sequencing
+analyses although the precise roles of these
+modifications have not been delineated.163–169
+Uridylation has traditionally been associated with
+increased instability,165,167,170–177 while adenylation
+has been demonstrated to cause increased stabilization
+of the microRNA.178,179 Uridylation of specific
+microRNAs, miR26a and miR26b, lead to the
+alteration of microRNA functions; relieving repression
+and promoting expression of a specific cytokine
+target mRNA, IL-6180 (Figure 4(c)). How the modified
+microRNA leads to a loss of repression and increased
+specific expression remains to be further investigated.
+
+MECHANISTIC FEATURES AMONG
+EXAMPLES OF MICRORNA-MEDIATED
+ACTIVATION
+MicroRNAs or siRNAs have been observed to
+predominantly cause downregulation, either as
+repressed translation, deadenylation, or cleavage of
+the mRNA.181 Activation has been observed in a
+growing array of studies with specific mRNAs by
+distinct microRNAs and in particular cellular conditions, suggesting that activation by microRNAs is a
+specialized, regulated pathway. Exploring the molecular similarities and differences of translation activation among distinct cases of activation (Figures 2
+and 3) would significantly expand our understanding of the mechanistic features and functions of
+microRNPs.
+
+GW182 Interaction and MicroRNP
+Modification
+An important feature of translation activation appears
+to be the reduction of GW182 levels105,107 and its
+interaction with AGO2.73,88,108,110–112 AGO2 interaction with GW182 was demonstrated to be essential
+for translation repression.98–104 Abrogating GW182
+or its interaction with AGO2 leads to a loss or
+relief of repression110 or to activation as in the case
+of dAGO2 with unadenylated reporters112,141 and
+its reduction did not affect activation by HCV as
+
+© 2011 John Wiley & Sons, Ltd.
+
+321
+
+wires.wiley.com/rna
+
+Advanced Review
+
+significantly as reduction of AGO2,114 suggesting that
+the interaction with GW182 is restricted to mediate
+translation activation.73,92 GW182 bodies decrease
+and GW182 and its interaction with AGO appear
+reduced in quiescent-like G0 mammalian cells or
+oocytes,105,108,111 where repression is reduced and
+translation activation is observed.73,92 In the absence
+or alteration of the repressive AGO-GW182 interaction in G0, specific mRNAs may instead recruit a
+translation activating complex, such as AGO–FXR1iso-a as in the case of TNFα and in oocytes, which relocalizes to polysomes in G0.56,73,88 Regulation by G0
+cAMP/p21-activated kinase (PAK) kinase signals may
+give FXR1-iso-a an advantage182 in quiescent cells and
+lead to recruitment of the activating AGO–FXR1-isoa complex56,73,88,92 when AGO–GW182 interaction
+is altered.105,108,111 Additionally, specific mRNA features such as the lack of a cap or a poly(A) tail as in
+the case of HCV RNA114,134,136 and in regulation by
+dAGO2,112 may cause preferential recruitment of an
+activation complex over the repressive AGO–GW182
+by such distinct mRNAs.
+
+mRNA Features-Role of the Cap and
+Poly(A) Tail
+MicroRNAs also mediate deadenylation of their
+messages19,20 and addition of a poly(A) tail in trans
+to nuclease-treated reticulocyte lysate extracts enables
+microRNA-mediated translation repression in these
+lysates,183 while ribosome profiling suggested primarily deadenylation in the case of three microRNAs.184
+Deadenylation occurs subsequent to translation inhibition and in other cases, is insufficient to account
+for the translation repression effect, which is also
+observed on non-polyadenylated transcripts.20,185–187
+GW182, a core component of the repressive
+complex,98,99,103,104,188 was recently demonstrated
+to bind poly(A) binding protein, PABP, and further recruit CAF1-CCR4 deadenylase; these associations were required for microRNA-mediated mRNA
+silencing.100–102,185,189–191 In contrast, in several of
+the above examples of translation activation, the RNP
+complex fails to interact with GW18273,108,112,141 and
+lacks a poly(A) tail112 or have short poly(A) tails
+due to general poly(A) shortening.113 Additionally,
+translation upregulation with the HCV mRNA and
+miR122 was primarily observed with its natural 3 UTR that precludes a poly(A) tail on the mRNA and
+in the absence of a 5 -cap while addition of a poly(A)
+further prevented activation of capped HCV mRNA
+reporters.114 Activation by dAGO2 in a Drosophila
+extract system required the use of non-polyadenylated
+reporters and reporters with a poly(A) tail precluded
+322
+
+observation of activation in oocytes.92 These observations suggest that these two features, reduced GW182
+interaction and altered PABP/poly(A), represent a
+potential, common mechanism that in part transforms
+the mRNP/microRNP into a translation activation
+complex. These data indicate that the activation of
+specific mRNAs may involve distinct interactions with
+the translation machinery via altering the role of the
+poly(A) tail/PABP that remains to be elucidated.
+
+Specific Interactions with Components
+of the Protein Synthesis Machinery
+MicroRNAs have been demonstrated to repress
+translation by several mechanisms including translation initiation, post-initiation, and nascent peptide
+turnover.23,24,192 AGO and PIWI proteins associate
+with Murine VASA homolog or MVH, a homolog
+of VASA, which functions to activate translation of
+specific germ-cell mRNAs through interactions with
+the general translation initiation factor, eIF5B,193–197
+enabling 60S joining in translation initiation.3,198,199
+Repressed microRNP targets were shown to be associated with 40S subunits,200 and Let-7 microRNAmediated functions are affected by eIF3.201 EIF3 is
+an essential translation factor that associates with the
+40S subunit of the ribosome and enables its association with the ternary complex and with mRNA,
+and can stabilize the ternary complex in the presence of the mRNA.198,199,202 Although requiring
+further investigation, EIF2C was previously purified
+in association with eIF3, isolated as co-eIF-2A and
+co-eIF-2C components respectively, of a co-eIF2 complex associated with eIF2.62,63 The closely related
+MILI was recently demonstrated to be associated
+with eIF3a and stimulates translation.79 It remains
+to be investigated whether these associations regulate general ribosome recruitment or indicate a role
+for specific translation activation. These interactions
+do not exclude effects on subsequent steps in protein synthesis as observed with microRNP-mediated
+repression.23,24,192 Finally, many of the examples of
+microRNA-mediated upregulation occur with transcripts and cellular conditions that involve specialized
+translation features: IRES and a lack of a poly(A)
+tail with HCV or dAGO2 in Drosophila extracts,
+a 5 TOP sequence and the mTOR pathway, short
+poly (A) mRNAs in conditions where general translation is redirected to specific mRNA translation
+as in oocytes and G0 cells. These features suggest
+that activation involves alternative translation mechanisms that are adapted by the microRNA pathway
+for specific mRNAs to elicit precise gene expression
+to fulfill the biological requirements of these distinct
+conditions.
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+WIREs RNA
+
+Posttranscriptional Upregulation by MicroRNAs
+
+CONCLUSION
+Posttranscriptional upregulation by microRNPs has
+only recently begun to be examined with new revelations about microRNP functions. An emerging
+concept from these observations is that microRNAs
+may act in concert with particular mRNP complexes
+
+and in response to specific cellular conditions to elicit
+distinct gene expression outcomes. A comparison of
+their mechanisms and common requirements as well
+as an investigation of regulatory switches that mediate
+between repression and stimulation will reveal greater
+insights into microRNP functions in gene expression
+control.
+
+ACKNOWLEDGMENTS
+The author thanks J.A. Steitz, C. Fehr, M. Niepmann and M. Ruppert for helpful discussions and critical
+comments. This review was supported by a CRI investigator and the D. and M-E Ryder awards to S.V.
+
+REFERENCES
+1. Garneau NL, Wilusz J, Wilusz CJ. The highways and
+byways of mRNA decay. Nat Rev Mol Cell Biol 2007,
+8:113–126.
+2. Moore MJ. From birth to death: the complex lives of
+eukaryotic mRNAs. Science 2005, 309:1514–1518.
+3. Jackson RJ, Hellen CU, Pestova TV. The mechanism
+of eukaryotic translation initiation and principles of its
+regulation. Nat Rev Mol Cell Biol 2010, 11:113–127.
+4. Gray NK, Wickens M. Control of translation initiation in animals. Annu Rev Cell Dev Biol 1998,
+14:399–458.
+5. Radford HE, Meijer HA, de Moor CH. Translational
+control by cytoplasmic polyadenylation in Xenopus
+oocytes. Biochim Biophys Acta 2008, 1779:217–229.
+6. Brook M, Smith JW, Gray NK. The DAZL and PABP
+families: RNA-binding proteins with interrelated roles
+in translational control in oocytes. Reproduction
+2009, 137:595–617.
+7. Wilhelm JE, Smibert CA. Mechanisms of translational
+regulation in Drosophila. Biol Cell 2005, 97:235–252.
+8. Kedde M, Agami R. Interplay between microRNAs
+and RNA-binding proteins determines developmental
+processes. Cell Cycle 2008, 7:899–903.
+9. Mendez R, Richter JD. Translational control by CPEB:
+a means to the end. Nat Rev Mol Cell Biol 2001,
+2:521–529.
+10. Richter JD. Breaking the code of polyadenylationinduced translation. Cell 2008, 132:335–337.
+11. Gottesman S, McCullen CA, Guillier M, Vanderpool CK, Majdalani N, Benhammou J, Thompson KM, FitzGerald PC, Sowa NA, FitzGerald DJ.
+Small RNA regulators and the bacterial response to
+stress. Cold Spring Harb Symp Quant Biol 2006,
+71:1–11.
+12. Gottesman S. Micros for microbes: non-coding regulatory RNAs in bacteria. Trends Genet 2005,
+21:399–404.
+
+Volume 3, May/June 2012
+
+13. Waters LS, Storz G. Regulatory RNAs in bacteria. Cell
+2009, 136:615–628.
+14. Frohlich KS, Vogel J. Activation of gene expression by
+small RNA. Curr Opin Microbiol 2009, 12:674–682.
+15. Valencia-Sanchez MA, Liu J, Hannon GJ, Parker R.
+Control of translation and mRNA degradation by
+miRNAs and siRNAs. Genes Dev 2006, 20:515–524.
+16. Sevignani C, Calin GA, Siracusa LD, Croce CM. Mammalian microRNAs: a small world for fine-tuning gene
+expression. Mamm Genome 2006, 17:189–202.
+17. Taft RJ, Pang KC, Mercer TR, Dinger M, Mattick JS.
+Non-coding RNAs: regulators of disease. J Pathol
+2010, 220:126–139.
+18. Le Quesne JP, Spriggs KA, Bushell M, Willis AE. Dysregulation of protein synthesis and disease. J Pathol
+2010, 220:140–151.
+19. Giraldez AJ, Mishima Y, Rihel J, Grocock RJ, Van
+Dongen S, Inoue K, Enright AJ, Schier AF. Zebrafish
+MiR-430 promotes deadenylation and clearance of
+maternal mRNAs. Science 2006, 312:75–79.
+20. Wu L, Fan J, Belasco JG. MicroRNAs direct rapid
+deadenylation of mRNA. Proc Natl Acad Sci U S A
+2006, 103:4034–4039.
+21. Carmell MA, Xuan Z, Zhang MQ, Hannon GJ. The
+Argonaute family: tentacles that reach into RNAi,
+developmental control, stem cell maintenance, and
+tumorigenesis. Genes Dev 2002, 16:2733–2742.
+22. Liu J, Carmell MA, Rivas FV, Marsden CG, Thomson JM, Song JJ, Hammond SM, Joshua-Tor L,
+Hannon GJ. Argonaute2 is the catalytic engine of
+mammalian RNAi. Science 2004, 305:1437–1441.
+23. Chekulaeva M, Filipowicz W. Mechanisms of miRNAmediated post-transcriptional regulation in animal
+cells. Curr Opin Cell Biol 2009, 21:452–460.
+24. Fabian MR, Sundermeier TR, Sonenberg N. Understanding how miRNAs post-transcriptionally regulate gene expression. Prog Mol Subcell Biol 2010,
+50:1–20.
+
+© 2011 John Wiley & Sons, Ltd.
+
+323
+
+wires.wiley.com/rna
+
+Advanced Review
+
+25. Bartel DP. MicroRNAs: target recognition and regulatory functions. Cell 2009, 136:215–233.
+
+response to ultraviolet light irradiation. Proc Natl
+Acad Sci U S A 2003, 100:8354–8359.
+
+26. Bhattacharyya SN, Habermacher R, Martine U, Closs
+EI, Filipowicz W. Relief of microRNA-mediated translational repression in human cells subjected to stress.
+Cell 2006, 125:1111–1124.
+
+40. Atasoy U, Watson J, Patel D, Keene JD. ELAV protein HuA (HuR) can redistribute between nucleus and
+cytoplasm and is upregulated during serum stimulation and T cell activation. J Cell Sci 1998, 111 (Pt
+21):3145–3156.
+
+27. Kedde M, Strasser MJ, Boldajipour B, Oude Vrielink
+JA, Slanchev K, le Sage C, Nagel R, Voorhoeve PM,
+van DJ, Orom UA, et al. RNA-binding protein Dnd1
+inhibits microRNA access to target mRNA. Cell 2007,
+131:1273–1286.
+28. Sandberg R, Neilson JR, Sarma A, Sharp PA, Burge
+CB. Proliferating cells express mRNAs with shortened
+3 untranslated regions and fewer microRNA target
+sites. Science 2008, 320:1643–1647.
+29. Cordes KR, Sheehy NT, White MP, Berry EC, Morton SU, Muth AN, Lee TH, Miano JM, Ivey KN,
+Srivastava D. miR-145 and miR-143 regulate smooth
+muscle cell fate and plasticity. Nature 2009,
+460:705–710.
+30. Lin CC, Liu LZ, Addison JB, Wonderlin WF, Ivanov
+AV, Ruppert JM. A KLF4-miRNA-206 autoregulatory
+feedback loop can promote or inhibit protein translation depending upon cell context. Mol Cell Biol 2011,
+31:2513–2527.
+31. Kedde M, van KM, Zwart W, Oude Vrielink JA,
+Elkon R, Agami R. A Pumilio-induced RNA structure
+switch in p27-3 UTR controls miR-221 and miR-222
+accessibility. Nat Cell Biol 2010, 12:1014–1020.
+32. Chen CY, Shyu AB. AU-rich elements: characterization and importance in mRNA degradation. Trends
+Biochem Sci 1995, 20:465–470.
+33. Wilusz CJ, Wormington M, Peltz SW. The cap-to-tail
+guide to mRNA turnover. Nat Rev Mol Cell Biol 2001,
+2:237–246.
+34. Brewer G. Messenger RNA decay during aging and
+development. Ageing Res Rev 2002, 1:607–625.
+35. Wilusz CJ, Wilusz J. Bringing the role of mRNA decay
+in the control of gene expression into focus. Trends
+Genet 2004, 20:491–497.
+36. Espel E. The role of the AU-rich elements of mRNAs
+in controlling translation. Semin Cell Dev Biol 2005,
+16:59–67.
+37. Kontoyiannis D, Kotlyarov A, Carballo E, Alexopoulou L, Blackshear PJ, Gaestel M, Davis R,
+Flavell R, Kollias G. Interleukin-10 targets p38 MAPK
+to modulate ARE-dependent TNF mRNA translation and limit intestinal pathology. EMBO J 2001,
+20:3760–3770.
+38. Kruys V, Beutler B, Huez G. Translational control
+mediated by UA-rich sequences. Enzyme 1990, 44:
+193–202.
+39. Mazan-Mamczarz K, Galban S, De Silanes IL, Martindale JL, Atasoy U, Keene JD, Gorospe M. RNAbinding protein HuR enhances p53 translation in
+
+324
+
+41. Wang W, Fan J, Yang X, Furer-Galban S, Lopez de
+Silanes I, von Kobbe C, Guo J, Georas SN, Foufelle
+F, Hardie DG, et al. AMP-activated kinase regulates
+cytoplasmic HuR. Mol Cell Biol 2002, 22:3425–3436.
+42. Peng SS, Chen CY, Xu N, Shyu AB. RNA stabilization by the AU-rich element binding protein, HuR, an
+ELAV protein. EMBO J 1998, 17:3461–3470.
+43. Brennan CM, Steitz JA. HuR and mRNA stability.
+Cell Mol Life Sci 2001, 58:266–277.
+44. Mukherjee N, Corcoran DL, Nusbaum JD, Reid DW,
+Georgiev S, Hafner M, Ascano M Jr, Tuschl T,
+Ohler U, Keene JD. Integrative regulatory mapping
+indicates that the RNA-binding protein HuR couples
+Pre-mRNA processing and mRNA stability. Mol Cell
+2011, 43:327–339.
+45. Lebedeva S, Jens M, Theil K, Schwanhausser B, Selbach M, Landthaler M, Rajewsky N. Transcriptomewide analysis of regulatory interactions of the RNAbinding protein HuR. Mol Cell 2011, 43:340–352.
+46. von RC, Gallouzi IE. Decoding ARE-mediated decay:
+Is microRNA part of the equation? J Cell Biol 2008,
+181:189–194.
+47. Bakheet T, Williams BR, Khabar KS. ARED 3.0: the
+large and diverse AU-rich transcriptome. Nucleic Acids
+Res 2006, 34:D111–D114.
+48. Khabar KS. The AU-rich transcriptome: more than
+interferons and cytokines, and its role in disease.
+J Interferon Cytokine Res 2005, 25:1–10.
+49. Schiavone N, Rosini P, Quattrone A, Donnini M,
+Lapucci A, Citti L, Bevilacqua A, Nicolin A, Capaccioli S. A conserved AU-rich element in the 3 untranslated region of bcl-2 mRNA is endowed with a
+destabilizing function that is involved in bcl-2 downregulation during apoptosis. FASEB J 2000, 14:
+174–184.
+50. Robins H, Press WH. Human microRNAs target a
+functionally distinct population of genes with ATrich 3 UTRs. Proc Natl Acad Sci U S A 2005,
+102:15557–15562.
+51. Sood P, Krek A, Zavolan M, Macino G, Rajewsky N.
+Cell-type-specific signatures of microRNAs on target
+mRNA expression. Proc Natl Acad Sci U S A 2006,
+103:2746–2751.
+52. Caudy AA, Myers M, Hannon GJ, Hammond SM.
+Fragile X-related protein and VIG associate with
+the RNA interference machinery. Genes Dev 2002,
+16:2491–2496.
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+WIREs RNA
+
+Posttranscriptional Upregulation by MicroRNAs
+
+53. Jin P, Zarnescu DC, Ceman S, Nakamoto M,
+Mowrey J, Jongens TA, Nelson DL, Moses K, Warren ST. Biochemical and genetic interaction between
+the fragile X mental retardation protein and the
+microRNA pathway. Nat Neurosci 2004, 7:113–117.
+54. Xu K, Bogert BA, Li W, Su K, Lee A, Gao FB. The
+fragile X-related gene affects the crawling behavior of
+Drosophila larvae by regulating the mRNA level of
+the DEG/ENaC protein pickpocket1. Curr Biol 2004,
+14:1025–1034.
+55. Jing Q, Huang S, Guth S, Zarubin T, Motoyama A,
+Chen J, Di Padova F, Lin SC, Gram H, Han J. Involvement of microRNA in AU-rich element-mediated
+mRNA instability. Cell 2005, 120:623–634.
+56. Vasudevan S, Tong Y, Steitz JA. Switching from
+repression to activation: microRNAs can up-regulate
+translation. Science 2007, 318:1931–1934.
+57. Kim HH, Kuwano Y, Srikantan S, Lee EK, Martindale JL, Gorospe M. HuR recruits let-7/RISC to
+repress c-Myc expression. Genes Dev 2009, 23:
+1743–1748.
+58. Glorian V, Maillot G, Poles S, Iacovoni JS, Favre G,
+Vagner S. HuR-dependent loading of miRNA RISC
+to the mRNA encoding the Ras-related small GTPase
+RhoB controls its translation during UV-induced apoptosis. Cell Death Differ 2011, 18:1692–1701.
+59. Srikantan S, Abdelmohsen K, Lee EK, Tominaga K,
+Subaran SS, Kuwano Y, Kulshrestha R, Panchakshari R, Kim HH, Yang X, et al. Translational control
+of Top2A influences doxorubicin efficacy. Mol Cell
+Biol 2011, 31:3790–3801.
+60. Ma F, Liu X, Li D, Wang P, Li N, Lu L, Cao X.
+MicroRNA-466l upregulates IL-10 expression in TLRtriggered macrophages by antagonizing RNA-binding
+protein tristetraprolin-mediated IL-10 mRNA degradation. J Immunol 2010, 184:6053–6059.
+61. Murphy AJ, Guyre PM, Pioli PA. Estradiol suppresses NF-kappa B activation through coordinated
+regulation of let-7a and miR-125b in primary human
+macrophages. J Immunol 2010, 184:5029–5037.
+62. Zou C, Zhang Z, Wu S, Osterman JC. Molecular
+cloning and characterization of a rabbit eIF2C protein.
+Gene 1998, 211:187–194.
+63. Roy AL, Chakrabarti D, Datta B, Hileman RE,
+Gupta NK. Natural mRNA is required for directing
+Met-tRNA(f) binding to 40S ribosomal subunits in
+animal cells: involvement of Co-eIF-2A in natural
+mRNA-directed initiation complex formation. Biochemistry 1988, 27:8203–8209.
+64. Siomi MC, Zhang Y, Siomi H, Dreyfuss G. Specific
+sequences in the fragile X syndrome protein FMR1
+and the FXR proteins mediate their binding to 60S
+ribosomal subunits and the interactions among them.
+Mol Cell Biol 1996, 16:3825–3832.
+
+Volume 3, May/June 2012
+
+65. Siomi MC, Higashijima K, Ishizuka A, Siomi H. Casein
+kinase II phosphorylates the fragile X mental retardation protein and modulates its biological properties.
+Mol Cell Biol 2002, 22:8438–8447.
+66. Zhang Y, O’Connor JP, Siomi MC, Srinivasan S,
+Dutra A, Nussbaum RL, Dreyfuss G. The fragile X
+mental retardation syndrome protein interacts with
+novel homologs FXR1 and FXR2. EMBO J 1995, 14:
+5358–5366.
+67. Khandjian EW, Bardoni B, Corbin F, Sittler A,
+Giroux S, Heitz D, Tremblay S, Pinset C, Montarras D, Rousseau F, et al. Novel isoforms of the fragile
+X related protein FXR1P are expressed during myogenesis. Hum Mol Genet 1998, 7:2121–2128.
+68. Kirkpatrick LL, McIlwain KA, Nelson DL. Comparative genomic sequence analysis of the FXR gene
+family: FMR1, FXR1, and FXR2. Genomics 2001,
+78:169–177.
+69. Garnon J, Lachance C, Di Marco S, Hel Z, Marion D,
+Ruiz MC, Newkirk MM, Khandjian EW, Radzioch D.
+Fragile X-related protein FXR1P regulates proinflammatory cytokine tumor necrosis factor expression
+at the post-transcriptional level. J Biol Chem 2005,
+280:5750–5763.
+70. Mientjes EJ, Willemsen R, Kirkpatrick LL, Nieuwenhuizen IM, Hoogeveen-Westerveld M, Verweij M, Reis
+S, Bardoni B, Hoogeveen AT, Oostra BA, et al. Fxr1
+knockout mice show a striated muscle phenotype:
+implications for Fxr1p function in vivo. Hum Mol
+Genet 2004, 13:1291–1302.
+71. Ishizuka A, Siomi MC, Siomi H. A Drosophila fragile
+X protein interacts with components of RNAi and
+ribosomal proteins. Genes Dev 2002, 16:2497–2508.
+72. Megosh HB, Cox DN, Campbell C, Lin H. The role
+of PIWI and the miRNA machinery in Drosophila
+germline determination. Curr Biol 2006, 16:
+1884–1894.
+73. Vasudevan S, Steitz JA. AU-rich-element-mediated
+upregulation of translation by FXR1 and Argonaute
+2. Cell 2007, 128:1105–1118.
+74. Harris AN, Macdonald PM. Aubergine encodes a
+Drosophila polar granule component required for pole
+cell formation and related to eIF2C. Development
+2001, 128:2823–2832.
+75. Kennerdell JR, Yamaguchi S, Carthew RW. RNAi is
+activated during Drosophila oocyte maturation in a
+manner dependent on aubergine and spindle-E. Genes
+Dev 2002, 16:1884–1889.
+76. Wilson JE, Connell JE, Macdonald PM. Aubergine
+enhances oskar translation in the Drosophila ovary.
+Development 1996, 122:1631–1639.
+77. Deng W, Lin H. miwi, a murine homolog of piwi,
+encodes a cytoplasmic protein essential for spermatogenesis. Dev Cell 2002, 2:819–830.
+78. Grivna ST, Pyhtila B, Lin H. MIWI associates with
+translational machinery and PIWI-interacting RNAs
+
+© 2011 John Wiley & Sons, Ltd.
+
+325
+
+wires.wiley.com/rna
+
+Advanced Review
+
+(piRNAs) in regulating spermatogenesis. Proc Natl
+Acad Sci U S A 2006, 103:13415–13420.
+79. Unhavaithaya Y, Hao Y, Beyret E, Yin H, KuramochiMiyagawa S, Nakano T, Lin H. MILI, a PIWIinteracting RNA-binding protein, is required for germ
+line stem cell self-renewal and appears to positively regulate translation. J Biol Chem 2009, 284:6507–6519.
+80. Wang J, Saxe JP, Tanaka T, Chuma S, Lin H. Mili
+interacts with tudor domain-containing protein 1
+in regulating spermatogenesis. Curr Biol 2009, 19:
+640–644.
+81. Nakahara K, Kim K, Sciulli C, Dowd SR, Minden JS,
+Carthew RW. Targets of microRNA regulation in
+the Drosophila oocyte proteome. Proc Natl Acad Sci
+U S A 2005, 102:12023–12028.
+82. Jopling CL, Yi M, Lancaster AM, Lemon SM,
+Sarnow P. Modulation of hepatitis C virus RNA abundance by a liver-specific MicroRNA. Science 2005,
+309:1577–1581.
+83. Li LC, Okino ST, Zhao H, Pookot D, Place RF,
+Urakami S, Enokida H, Dahiya R. Small dsRNAs
+induce transcriptional activation in human cells. Proc
+Natl Acad Sci U S A 2006, 103:17337–17342.
+84. Kuwabara T, Hsieh J, Nakashima K, Warashina M,
+Taira K, Gage FH. The NRSE smRNA specifies the
+fate of adult hippocampal neural stem cells. Nucleic
+Acids Symp Ser (Oxf) 2005, 87–88.
+85. Kuwabara T, Hsieh J, Nakashima K, Taira K,
+Gage FH. A small modulatory dsRNA specifies the fate
+of adult neural stem cells. Cell 2004, 116:779–793.
+86. Corey DR. Regulating mammalian transcription with
+RNA. Trends Biochem Sci 2005, 30:655–658.
+87. Schratt GM, Tuebing F, Nigh EA, Kane CG, Sabatini ME, Kiebler M, Greenberg ME. A brain-specific
+microRNA regulates dendritic spine development.
+Nature 2006, 439:283–289.
+88. Vasudevan S, Tong Y, Steitz JA. Cell-cycle control
+of microRNA-mediated translation regulation. Cell
+Cycle 2008, 7:1545–1549.
+89. Coller HA, Sang L, Roberts JM. A new description of
+cellular quiescence. PLoS Biol 2006, 4:e83.
+90. Sang L, Coller HA, Roberts JM. Control of the
+reversibility of cellular quiescence by the transcriptional repressor HES1. Science 2008, 321:1095–1100.
+91. Lemons JM, Feng XJ, Bennett BD, Legesse-Miller A,
+Johnson EL, Raitman I, Pollina EA, Rabitz HA, Rabinowitz JD, Coller HA. Quiescent fibroblasts exhibit
+high metabolic activity. PLoS Biol 2010, 8:e1000514.
+92. Mortensen RD, Serra M, Steitz JA, Vasudevan S.
+Posttranscriptional activation of gene expression in
+Xenopus laevis oocytes by microRNA-protein complexes (microRNPs). Proc Natl Acad Sci U S A 2011,
+108:8281–8286.
+93. Friedman DL. Role of cyclic nucleotides in cell growth
+and differentiation. Physiol Rev 1976, 56:652–708.
+
+326
+
+94. Schorl C, Sedivy JM. Analysis of cell cycle phases and
+progression in cultured mammalian cells. Methods
+2007, 41:143–150.
+95. Hwang HW, Wentzel EA, Mendell JT. Cell-cell contact
+globally activates microRNA biogenesis. Proc Natl
+Acad Sci U S A 2009, 106:7016–7021.
+96. Bossis I, Stratakis CA. Minireview: PRKAR1A: normal and abnormal functions. Endocrinology 2004,
+145:5452–5458.
+97. Cho-Chung YS, Nesterova MV. Tumor reversion: protein kinase A isozyme switching. Ann N Y Acad Sci
+2005, 1058:76–86.
+98. Behm-Ansmant I, Rehwinkel J, Doerks T, Stark A,
+Bork P, Izaurralde E. mRNA degradation by miRNAs
+and GW182 requires both CCR4:NOT deadenylase
+and DCP1:DCP2 decapping complexes. Genes Dev
+2006, 20:1885–1898.
+99. Liu J, Rivas FV, Wohlschlegel J, Yates JR III, Parker
+R, Hannon GJ. A role for the P-body component
+GW182 in microRNA function. Nat Cell Biol 2005,
+7:1261–1266.
+100. Zekri L, Huntzinger E, Heimstadt S, Izaurralde E. The
+silencing domain of GW182 interacts with PABPC1 to
+promote translational repression and degradation of
+microRNA targets and is required for target release.
+Mol Cell Biol 2009, 29:6220–6231.
+101. Lian SL, Li S, Abadal GX, Pauley BA, Fritzler MJ,
+Chan EK. The C-terminal half of human Ago2
+binds to multiple GW-rich regions of GW182 and
+requires GW182 to mediate silencing. RNA 2009,
+15:804–813.
+102. Zipprich JT, Bhattacharyya S, Mathys H, Filipowicz W. Importance of the C-terminal domain of the
+human GW182 protein TNRC6C for translational
+repression. RNA 2009, 15:781–793.
+103. Ding XC, Grosshans H. Repression of C. elegans
+microRNA targets at the initiation level of translation requires GW182 proteins. EMBO J 2009,
+28:213–222.
+104. Li S, Lian SL, Moser JJ, Fritzler ML, Fritzler MJ,
+Satoh M, Chan EK. Identification of GW182 and
+its novel isoform TNGW1 as translational repressors in Ago2-mediated silencing. J Cell Sci 2008,
+121:4134–4144.
+105. Yang Z, Jakymiw A, Wood MR, Eystathioy T,
+Rubin RL, Fritzler MJ, Chan EK. GW182 is critical for the stability of GW bodies expressed during
+the cell cycle and cell proliferation. J Cell Sci 2004,
+117:5567–5578.
+106. Jakymiw A, Lian S, Eystathioy T, Li S, Satoh M,
+Hamel JC, Fritzler MJ, Chan EK. Disruption of GW
+bodies impairs mammalian RNA interference. Nat Cell
+Biol 2005, 7:1267–1274.
+107. Lian S, Jakymiw A, Eystathioy T, Hamel JC, Fritzler MJ, Chan EK. GW bodies, microRNAs and the
+cell cycle. Cell Cycle 2006, 5:242–245.
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+WIREs RNA
+
+Posttranscriptional Upregulation by MicroRNAs
+
+108. Flemr M, Ma J, Schultz RM, Svoboda P. P-body loss
+is concomitant with formation of a messenger RNA
+storage domain in mouse oocytes. Biol Reprod 2010,
+82:1008–1017.
+
+121. Kobayashi H, Minshull J, Ford C, Golsteyn R, Poon R,
+Hunt T. On the synthesis and destruction of A- and Btype cyclins during oogenesis and meiotic maturation
+in Xenopus laevis. J Cell Biol 1991, 114:755–765.
+
+109. Eulalio A, Behm-Ansmant I, Schweizer D, Izaurralde E. P-body formation is a consequence, not the
+cause, of RNA-mediated gene silencing. Mol Cell Biol
+2007, 27:3970–3981.
+
+122. Pelech SL, Sanghera JS, Daya-Makin M. Protein kinase
+cascades in meiotic and mitotic cell cycle control.
+Biochem Cell Biol 1990, 68:1297–1330.
+
+110. Till S, Lejeune E, Thermann R, Bortfeld M, Hothorn
+M, Enderle D, Heinrich C, Hentze MW, Ladurner
+AG. A conserved motif in Argonaute-interacting proteins mediates functional interactions through the
+Argonaute PIWI domain. Nat Struct Mol Biol 2007,
+14:897–903.
+111. Ma J, Flemr M, Stein P, Berninger P, Malik R,
+Zavolan M, Svoboda P, Schultz RM. MicroRNA activity is suppressed in mouse oocytes. Curr Biol 2010,
+20:265–270.
+112. Iwasaki S, Tomari Y. Argonaute-mediated translational repression (and activation). Fly (Austin ) 2009,
+3:204–206.
+113. Seal R, Temperley R, Wilusz J, Lightowlers RN,
+Chrzanowska-Lightowlers ZM. Serum-deprivation
+stimulates cap-binding by PARN at the expense of
+eIF4E, consistent with the observed decrease in mRNA
+stability. Nucleic Acids Res 2005, 33:376–387.
+114. Roberts AP, Lewis AP, Jopling CL. miR-122 activates
+hepatitis C virus translation by a specialized mechanism requiring particular RNA components. Nucleic
+Acids Res 2011, 39:7716–7729.
+
+123. Motlik J, Kubelka M. Cell-cycle aspects of growth and
+maturation of mammalian oocytes. Mol Reprod Dev
+1990, 27:366–375.
+124. Lund E, Sheets MD, Imboden SB, Dahlberg JE. Limiting Ago protein restricts RNAi and microRNA biogenesis during early development in Xenopus laevis.
+Genes Dev 2011, 25:1121–1131.
+125. Cicirelli MF, Smith LD. Cyclic AMP levels during
+the maturation of Xenopus oocytes. Dev Biol 1985,
+108:254–258.
+126. Conti M, Andersen CB, Richard F, Mehats C,
+Chun SY, Horner K, Jin C, Tsafriri A. Role of cyclic
+nucleotide signaling in oocyte maturation. Mol Cell
+Endocrinol 2002, 187:153–159.
+127. Deng J, Lang S, Wylie C, Hammes SR. The Xenopus laevis isoform of G protein-coupled receptor 3
+(GPR3) is a constitutively active cell surface receptor
+that participates in maintaining meiotic arrest in X.
+laevis oocytes. Mol Endocrinol 2008, 22:1853–1865.
+128. Faure S, Vigneron S, Galas S, Brassac T, Delsert C,
+Morin N. Control of G2/M transition in Xenopus by
+a member of the p21-activated kinase (PAK) family:
+a link between protein kinase A and PAK signaling
+pathways? J Biol Chem 1999, 274:3573–3579.
+
+115. Shi H, Tschudi C, Ullu E. Depletion of newly synthesized Argonaute1 impairs the RNAi response in
+Trypanosoma brucei. RNA 2007, 13:1132–1139.
+
+129. Maller JL, Butcher FR, Krebs EG. Early effect of
+progesterone on levels of cyclic adenosine 3 :5 monophosphate in Xenopus oocytes. J Biol Chem
+1979, 254:579–582.
+
+116. Diederichs S, Jung S, Rothenberg SM, Smolen GA,
+Mlody BG, Haber DA. Coexpression of Argonaute2 enhances RNA interference toward perfect match
+binding sites. Proc Natl Acad Sci U S A 2008,
+105:9284–9289.
+
+130. Schorderet-Slatkine S, Schorderet M, Baulieu EE.
+Cyclic AMP-mediated control of meiosis: effects of
+progesterone, cholera toxin, and membrane-active
+drugs in Xenopus laevis oocytes. Proc Natl Acad Sci
+U S A 1982, 79:850–854.
+
+117. Suh N, Baehner L, Moltzahn F, Melton C, Shenoy A,
+Chen J, Blelloch R. MicroRNA function is globally
+suppressed in mouse oocytes and early embryos. Curr
+Biol 2010, 20:271–277.
+
+131. Taieb F, Thibier C, Jessus C. On cyclins, oocytes, and
+eggs. Mol Reprod Dev 1997, 48:397–411.
+
+118. Tam OH, Aravin AA, Stein P, Girard A, Murchison EP, Cheloufi S, Hodges E, Anger M, Sachidanandam R, Schultz RM, et al. Pseudogene-derived small
+interfering RNAs regulate gene expression in mouse
+oocytes. Nature 2008, 453:534–538.
+
+132. Jopling CL, Schutz S, Sarnow P. Position-dependent
+function for a tandem microRNA miR-122-binding
+site located in the hepatitis C virus RNA genome. Cell
+Host Microbe 2008, 4:77–85.
+133. Machlin ES, Sarnow P, Sagan SM. Masking the 5 terminal nucleotides of the hepatitis C virus genome by
+an unconventional microRNA-target RNA complex.
+Proc Natl Acad Sci U S A 2011, 108:3193–3198.
+
+119. Vasudevan S, Seli E, Steitz JA. Metazoan oocyte and
+early embryo development program: a progression
+through translation regulatory cascades. Genes Dev
+2006, 20:138–146.
+
+134. Henke JI, Goergen D, Zheng J, Song Y, Schuttler CG,
+Fehr C, Junemann C, Niepmann M. microRNA122 stimulates translation of hepatitis C virus RNA.
+EMBO J 2008, 27:3300–3310.
+
+120. Smith LD, Xu WL, Varnold RL. Oogenesis and oocyte
+isolation. Methods Cell Biol 1991, 36:45–60.
+
+135. Lytle JR, Yario TA, Steitz JA. Target mRNAs are
+repressed as efficiently by microRNA-binding sites in
+
+Volume 3, May/June 2012
+
+© 2011 John Wiley & Sons, Ltd.
+
+327
+
+wires.wiley.com/rna
+
+Advanced Review
+
+the 5’ UTR as in the 3 UTR. Proc Natl Acad Sci U S A
+2007, 104:9667–9672.
+
+151. Triboulet R, Gregory RI. Pumilio turns on microRNA
+function. Nat Cell Biol 2010, 12:928–929.
+
+136. Niepmann M. Activation of hepatitis C virus translation by a liver-specific microRNA. Cell Cycle 2009,
+8:1473–1477.
+
+152. Poliseno L, Salmena L, Zhang J, Carver B, Haveman WJ, Pandolfi PP. A coding-independent function
+of gene and pseudogene mRNAs regulates tumour
+biology. Nature 2010, 465:1033–1038.
+
+137. Wilson JA, Zhang C, Huys A, Richardson CD. Human
+Ago2 is required for efficient microRNA 122 regulation of hepatitis C virus RNA accumulation and
+translation. J Virol 2011, 85:2342–2350.
+138. Hornstein E, Tang H, Meyuhas O. Mitogenic and
+nutritional signals are transduced into translational
+efficiency of TOP mRNAs. Cold Spring Harb Symp
+Quant Biol 2001, 66:477–484.
+139. Meyuhas O. Synthesis of the translational apparatus
+is regulated at the translational level. Eur J Biochem
+2000, 267:6321–6330.
+140. Orom UA, Nielsen FC, Lund AH. MicroRNA10a binds the 5 UTR of ribosomal protein mRNAs
+and enhances their translation. Mol Cell 2008,
+30:460–471.
+141. Iwasaki S, Kawamata T, Tomari Y. Drosophila argonaute1 and argonaute2 employ distinct mechanisms
+for translational repression. Mol Cell 2009, 34:58–67.
+142. Tsai NP, Lin YL, Wei LN. MicroRNA mir-346 targets
+the 5 -untranslated region of receptor-interacting protein 140 (RIP140) mRNA and up-regulates its protein
+expression. Biochem J 2009, 424:411–418.
+143. Ghosh T, Soni K, Scaria V, Halimani M, Bhattacharjee C, Pillai B. MicroRNA-mediated up-regulation of
+an alternatively polyadenylated variant of the mouse
+cytoplasmic β-actin gene. Nucleic Acids Res 2008,
+36:6318–6332.
+144. Lu H, Buchan RJ, Cook SA. MicroRNA-223 regulates Glut4 expression and cardiomyocyte glucose
+metabolism. Cardiovasc Res 2010, 86:410–420.
+145. Eiring AM, Harb JG, Neviani P, Garton C, Oaks JJ,
+Spizzo R, Liu S, Schwind S, Santhanam R, Hickey CJ,
+et al. miR-328 functions as an RNA decoy to modulate hnRNP E2 regulation of mRNA translation in
+leukemic blasts. Cell 2010, 140:652–665.
+146. Beitzinger M, Meister G. Preview. MicroRNAs: from
+decay to decoy. Cell 2010, 140:612–614.
+147. Schratt G. microRNAs at the synapse. Nat Rev Neurosci 2009, 10:842–849.
+148. Khudayberdiev S, Fiore R, Schratt G. MicroRNA as
+modulators of neuronal responses. Commun Integr
+Biol 2009, 2:411–413.
+149. Meisner NC, Filipowicz W. Properties of the regulatory RNA-binding protein HuR and its role in
+controlling miRNA repression. Adv Exp Med Biol
+2010, 700:106–123.
+150. Spassov DS, Jurecic R. The PUF family of RNAbinding proteins: does evolutionarily conserved structure equal conserved function? IUBMB Life 2003,
+55:359–366.
+
+328
+
+153. Cazalla D, Yario T, Steitz JA. Down-regulation of a
+host microRNA by a Herpesvirus saimiri noncoding
+RNA. Science 2010, 328:1563–1566.
+154. Ebert MS, Sharp PA. Emerging roles for natural
+microRNA sponges. Curr Biol 2010, 20:R858–R861.
+155. Zhu H, Hu F, Wang R, Zhou X, Sze SH, Liou LW,
+Barefoot A, Dickman M, Zhang X. Arabidopsis Argonaute10 specifically sequesters miR166/165 to regulate shoot apical meristem development. Cell 2011,
+145:242–256.
+156. Leung AK, Calabrese JM, Sharp PA. Quantitative
+analysis of Argonaute protein reveals microRNAdependent localization to stress granules. Proc Natl
+Acad Sci U S A 2006, 103:18125–18130.
+157. Detzer A, Engel C, Wunsche W, Sczakiel G. Cell stress
+is related to re-localization of Argonaute 2 and to
+decreased RNA interference in human cells. Nucleic
+Acids Res 2011, 39:2727–2741.
+158. Leung AK, Vyas S, Rood JE, Bhutkar A, Sharp PA,
+Chang P. Poly(ADP-ribose) regulates stress responses
+and microRNA activity in the cytoplasm. Mol Cell
+2011, 42:489–499.
+159. Gehrke S, Imai Y, Sokol N, Lu B. Pathogenic LRRK2
+negatively regulates microRNA-mediated translational
+repression. Nature 2010, 466:637–641.
+160. Chan SP, Ramaswamy G, Choi EY, Slack FJ.
+Identification of specific let-7 microRNA binding
+complexes in Caenorhabditis elegans. RNA 2008,
+14:2104–2114.
+161. Imai Y, Gehrke S, Wang HQ, Takahashi R, Hasegawa
+K, Oota E, Lu B. Phosphorylation of 4E-BP by LRRK2
+affects the maintenance of dopaminergic neurons in
+Drosophila. EMBO J 2008, 27:2432–2443.
+162. Tain LS, Mortiboys H, Tao RN, Ziviani E, Bandmann O, Whitworth AJ. Rapamycin activation of
+4E-BP prevents parkinsonian dopaminergic neuron
+loss. Nat Neurosci 2009, 12:1129–1135.
+163. Wyman SK, Knouf EC, Parkin RK, Fritz BR, Lin DW,
+Dennis LM, Krouse MA, Webster PJ, Tewari M.
+Post-transcriptional generation of miRNA variants
+by multiple nucleotidyl transferases contributes to
+miRNA transcriptome complexity. Genome Res 2011,
+21:1450–1461.
+164. Chiang HR, Schoenfeld LW, Ruby JG, Auyeung VC,
+Spies N, Baek D, Johnston WK, Russ C, Luo S, Babiarz JE, et al. Mammalian microRNAs: experimental
+evaluation of novel and previously annotated genes.
+Genes Dev 2010, 24:992–1009.
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+WIREs RNA
+
+Posttranscriptional Upregulation by MicroRNAs
+
+165. Li J, Yang Z, Yu B, Liu J, Chen X. Methylation protects
+miRNAs and siRNAs from a 3 -end uridylation activity
+in Arabidopsis. Curr Biol 2005, 15:1501–1507.
+166. Houbaviy HB, Murray MF, Sharp PA. Embryonic stem
+cell-specific microRNAs. Dev Cell 2003, 5:351–358.
+167. Shen B, Goodman HM. Uridine addition after
+microRNA-directed cleavage. Science 2004, 306:997.
+168. Cheloufi S, Dos Santos CO, Chong MM, Hannon GJ.
+A dicer-independent miRNA biogenesis pathway that
+requires Ago catalysis. Nature 2010, 465:584–589.
+169. Cifuentes D, Xue H, Taylor DW, Patnode H,
+Mishima Y, Cheloufi S, Ma E, Mane S, Hannon GJ,
+Lawson ND, et al. A novel miRNA processing pathway independent of Dicer requires Argonaute2 catalytic activity. Science 2010, 328:1694–1698.
+170. Kamminga LM, Luteijn MJ, den Broeder MJ, Redl S,
+Kaaij LJ, Roovers EF, Ladurner P, Berezikov E, Ketting RF. Hen1 is required for oocyte development
+and piRNA stability in zebrafish. EMBO J 2010,
+29:3688–3700.
+171. Norbury CJ. 3 Uridylation and the regulation of RNA
+function in the cytoplasm. Biochem Soc Trans 2010,
+38:1150–1153.
+172. Hagan JP, Piskounova E, Gregory RI. Lin28 recruits
+the TUTase Zcchc11 to inhibit let-7 maturation in
+mouse embryonic stem cells. Nat Struct Mol Biol
+2009, 16:1021–1025.
+173. Lehrbach NJ, Armisen J, Lightfoot HL, Murfitt KJ,
+Bugaut A, Balasubramanian S, Miska EA. LIN-28
+and the poly(U) polymerase PUP-2 regulate let-7
+microRNA processing in Caenorhabditis elegans. Nat
+Struct Mol Biol 2009, 16:1016–1020.
+174. Heo I, Joo C, Kim YK, Ha M, Yoon MJ, Cho J,
+Yeom KH, Han J, Kim VN. TUT4 in concert with
+Lin28 suppresses microRNA biogenesis through premicroRNA uridylation. Cell 2009, 138:696–708.
+175. Rissland OS, Norbury CJ. Decapping is preceded by
+3’ uridylation in a novel pathway of bulk mRNA
+turnover. Nat Struct Mol Biol 2009, 16:616–623.
+176. Heo I, Joo C, Cho J, Ha M, Han J, Kim VN. Lin28
+mediates the terminal uridylation of let-7 precursor
+microRNA. Mol Cell 2008, 32:276–284.
+
+uridylation of microRNA directs cytokine expression.
+Nat Cell Biol 2009, 11:1157–1163.
+181. Wu L, Fan J, Belasco JG. Importance of translation
+and nonnucleolytic ago proteins for on-target RNA
+interference. Curr Biol 2008, 18:1327–1332.
+182. Say E, Tay HG, Zhao ZS, Baskaran Y, Li R, Lim L,
+Manser E. A functional requirement for PAK1 binding
+to the KH(2) domain of the fragile X protein-related
+FXR1. Mol Cell 2010, 38:236–249.
+183. Ricci EP, Limousin T, Soto-Rifo R, Allison R, Poyry T,
+Decimo D, Jackson RJ, Ohlmann T. Activation of a
+microRNA response in trans reveals a new role for
+poly(A) in translational repression. Nucleic Acids Res
+2011, 39:5215–5231.
+184. Guo H, Ingolia NT, Weissman JS, Bartel DP.
+Mammalian microRNAs predominantly act to
+decrease target mRNA levels. Nature 2010, 466:
+835–840.
+185. Fabian MR, Mathonnet G, Sundermeier T, Mathys H,
+Zipprich JT, Svitkin YV, Rivas F, Jinek M, Wohlschlegel J, Doudna JA, et al. Mammalian miRNA RISC
+recruits CAF1 and PABP to affect PABP-dependent
+deadenylation. Mol Cell 2009, 35:868–880.
+186. Beilharz TH, Humphreys DT, Clancy JL, Thermann R,
+Martin DI, Hentze MW, Preiss T. microRNAmediated messenger RNA deadenylation contributes
+to translational repression in mammalian cells. PLoS
+One 2009, 4:e6783.
+187. Eulalio A, Huntzinger E, Nishihara T, Rehwinkel J,
+Fauser M, Izaurralde E. Deadenylation is a widespread
+effect of miRNA regulation. RNA 2009, 15:21–32.
+188. Eulalio A, Huntzinger E, Izaurralde E. GW182 interaction with Argonaute is essential for miRNA-mediated
+translational repression and mRNA decay. Nat Struct
+Mol Biol 2008, 15:346–353.
+189. Jinek M, Fabian MR, Coyle SM, Sonenberg N,
+Doudna JA. Structural insights into the human
+GW182-PABC interaction in microRNA-mediated
+deadenylation. Nat Struct Mol Biol 2010, 17:
+238–240.
+
+177. Song MG, Kiledjian M. 3 Terminal oligo U-tractmediated stimulation of decapping. RNA 2007,
+13:2356–2365.
+
+190. Kozlov G, Safaee N, Rosenauer A, Gehring K.
+Structural basis of binding of P-body-associated proteins GW182 and ataxin-2 by the Mlle domain
+of poly(A)-binding protein. J Biol Chem 2010,
+285:13599–13606.
+
+178. Burns DM, D’Ambrogio A, Nottrott S, Richter JD.
+CPEB and two poly(A) polymerases control miR-122
+stability and p53 mRNA translation. Nature 2011,
+473:105–108.
+
+191. Huntzinger E, Braun JE, Heimstadt S, Zekri L, Izaurralde E. Two PABPC1-binding sites in GW182
+proteins promote miRNA-mediated gene silencing.
+EMBO J 2010, 29:4146–4160.
+
+179. Katoh T, Sakaguchi Y, Miyauchi K, Suzuki T. Kashiwabara S, Baba T, Suzuki T, Selective stabilization of
+mammalian microRNAs by 3’ adenylation mediated
+by the cytoplasmic poly(A) polymerase GLD-2. Genes
+Dev 2009, 23:433–438.
+
+192. Nilsen TW. Mechanisms of microRNA-mediated
+gene regulation in animal cells. Trends Genet 2007,
+23:243–249.
+
+180. Jones MR, Quinton LJ, Blahna MT, Neilson JR, Fu S,
+Ivanov AR, Wolf DA, Mizgerd JP. Zcchc11-dependent
+
+Volume 3, May/June 2012
+
+193. Toyooka Y, Tsunekawa N, Takahashi Y, Matsui Y,
+Satoh M, Noce T. Expression and intracellular localization of mouse Vasa-homologue protein during germ
+cell development. Mech Dev 2000, 93:139–149.
+
+© 2011 John Wiley & Sons, Ltd.
+
+329
+
+wires.wiley.com/rna
+
+Advanced Review
+
+194. Raz E. The function and regulation of vasa-like genes
+in germ-cell development. Genome Biol 2000, 1:
+REVIEWS1017.
+195. Carrera P, Johnstone O, Nakamura A, Casanova J,
+Jackle H, Lasko P. VASA mediates translation through
+interaction with a Drosophila yIF2 homolog. Mol Cell
+2000, 5:181–187.
+196. Costa Y, Speed RM, Gautier P, Semple CA, Maratou K, Turner JM, Cooke HJ. Mouse MAELSTROM:
+the link between meiotic silencing of unsynapsed chromatin and microRNA pathway? Hum Mol Genet
+2006, 15:2324–2334.
+197. Liu N, Han H, Lasko P. Vasa promotes Drosophila
+germline stem cell differentiation by activating meiP26 translation by directly interacting with a (U)-rich
+motif in its 3 UTR. Genes Dev 2009, 23:2742–2752.
+198. Asano K, Phan L, Valasek L, Schoenfeld LW, Shalev A,
+Clayton J, Nielsen K, Donahue TF, Hinnebusch AG.
+
+330
+
+A multifactor complex of eIF1, eIF2, eIF3, eIF5, and
+tRNA(i)Met promotes initiation complex assembly
+and couples GTP hydrolysis to AUG recognition. Cold
+Spring Harb Symp Quant Biol 2001, 66:403–415.
+199. Sonenberg N, Hinnebusch AG. Regulation of translation initiation in eukaryotes: mechanisms and biological targets. Cell 2009, 136:731–745.
+200. Wang B, Yanez A, Novina CD. MicroRNA-repressed
+mRNAs contain 40S but not 60S components. Proc
+Natl Acad Sci U S A 2008, 105:5343–5348.
+201. Ding XC, Slack FJ, Grosshans H. The let-7 microRNA
+interfaces extensively with the translation machinery to regulate cell differentiation. Cell Cycle 2008,
+7:3083–3090.
+202. Hinnebusch AG. eIF3: a versatile scaffold for translation initiation complexes. Trends Biochem Sci 2006,
+31:553–562.
+
+© 2011 John Wiley & Sons, Ltd.
+
+Volume 3, May/June 2012
+
+

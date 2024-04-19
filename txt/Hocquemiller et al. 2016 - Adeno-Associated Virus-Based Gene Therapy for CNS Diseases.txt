@@ -1,0 +1,4303 @@
+Page 1 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+1
+
+AAV based gene therapy for CNS diseases
+Michaël Hocquemiller1, Laura Giersch1*, Mickaël Audrain2,3,4*, Samantha Parker, Nathalie
+Cartier3,4
+1
+
+LYSOGENE, Neuilly sur Seine 92200, France.
+Université Paris Descartes, Paris, France
+3
+INSERM UMR1169, Université Paris-Sud, Université Paris-Saclay, Orsay 94100, France
+4
+CEA, DSV, I²BM, MIRCen, Fontenay-aux-Roses, 92265, France
+2
+
+* equally contributed to the work
+Corresponding authors:
+Nathalie Cartier (nathalie.cartier@inserm.fr)
+Michaël Hocquemiller (michael.hocquemiller@lysogene.com)
+
+Author Disclosure Statement:
+M.H., S. P. and L.G. are full-time employees of Lysogene.
+N.C. is a founder and owner of founder equity of BrainVectis Therapeutics.
+M.A. declares that he has no competing interests.
+
+Acknowledgments:
+We thank the Agence Nationale pour la Recherche (ANR, “13-BSV1-022-01” grant), the
+Fondation France Alzheimer and the Fondation pour la Recherche Médicale for their support
+in N. C. research on Huntington’s disease (ANR) and Alzheimer’s disease (FA and FRM). M.A.
+was supported by a grant from the DIM (domaine d’intérêt majeur) Biotherapy Region Ile de
+France.
+
+Page 2 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+2
+
+Abstract ................................................................................................................................................... 3
+Abbreviations .......................................................................................................................................... 4
+Introduction............................................................................................................................................. 7
+rAAV gene therapy for neurodegenerative diseases .............................................................................. 8
+Lysosomal storage disorders ............................................................................................................... 9
+Intraparenchymal delivery .............................................................................................................. 9
+CSF delivery ................................................................................................................................... 11
+Intravenous delivery ...................................................................................................................... 12
+Alzheimer’s disease ........................................................................................................................... 12
+Parkinson’s disease ........................................................................................................................... 15
+Huntington’s disease ......................................................................................................................... 15
+Amyotrophic Lateral Sclerosis ........................................................................................................... 17
+Spinal Muscular Atrophy ................................................................................................................... 18
+rAAV gene therapy for other disorders affecting the nervous system ................................................. 19
+Epilepsy.............................................................................................................................................. 19
+Neuropathic pain ............................................................................................................................... 20
+Perspective ............................................................................................................................................ 21
+Tables and figures.................................................................................................................................. 22
+Table 1: Clinical Trials ........................................................................................................................ 22
+Table 2: Preclinical trials for Lysosomal Storage Diseases ................................................................ 23
+Table 3: Preclinical trials for Neurodegenerative Diseases ............................................................... 25
+Table 4: Preclinical trials for Epilepsy and Pain. ................................................................................ 27
+Figure 1: CNS injection sites .............................................................................................................. 28
+References ............................................................................................................................................. 29
+
+Page 3 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+3
+
+Abstract
+Gene therapy is at the cusp of a revolution for treating a large spectrum of central nervous system
+(CNS) disorders by providing a durable therapeutic protein with a single administration. Adenoassociated viral (AAV)-mediated gene transfer is of particular interest as a therapeutic tool because
+of its safety profile and efficiency in transducing a wide range of cell types. The purpose of this
+review is to describe the most notable advancements in preclinical and clinical progress of AAV based
+CNS gene therapy and discuss prospects for future development using a new generation of vectors
+and delivery.
+
+Page 4 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+4
+
+Abbreviations
+AADC:
+
+L-amino acid decarboxylase
+
+AAV:
+
+Adeno-associated virus
+
+AD:
+
+Alzheimer’s disease
+
+ADAR2:
+
+Reduced adenosine deaminase acting on RNA 2
+
+ADK:
+
+Adenosine kinase
+
+ALS:
+
+Amyotrophic lateral sclerosis
+
+AMD:
+
+Alpha-mannosidosis
+
+APOE:
+
+Apolipoprotein E
+
+APP:
+
+Amyloid precursor protein
+
+ASPA:
+
+Aspartoacylase
+
+BBB:
+
+Blood-brain barrier
+
+BDNF:
+
+Brain-derived neurotrophic factor
+
+CBD3:
+
+Ca2+ channel-binding domain 3
+
+CLN:
+
+Ceroid lipofuscinosis neuronal
+
+CNS:
+
+Central nervous system
+
+CNTR:
+
+Ciliary neurotrophicfactor
+
+CSF:
+
+Cerebro-spinal fluid
+
+CYP46A1:
+
+24-hydroxylase enzyme
+
+DRG:
+
+Dorsal root ganglion
+
+ECE:
+
+Endothelin converting enzyme
+
+EEG:
+
+Electro-encephalogram
+
+GAN:
+
+Giant axonal neuropathy
+
+GCL
+
+Globoid cell leukodystrophy
+
+GDNF:
+
+Glial cell line-derived neurotrophic factor
+
+GFL:
+
+GDNF-family of ligands
+
+GUSB:
+
+Glucuronidase beta
+
+HD:
+
+Huntington disease
+
+HTT:
+
+Huntingtin
+
+ICV:
+
+Intra cerebro-ventricular
+
+Page 5 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+5
+IGF:
+
+Insulin-like growth factor
+
+IL:
+
+Interleukine
+
+INCL:
+
+Infantile neuronal ceroid lipofuscinosis
+
+ISF:
+
+Interstitial fluid
+
+IT:
+
+Intrathecal
+
+IV:
+
+Intravenous
+
+LINCL:
+
+Late infantile neuronal ceroid lipofuscinosis
+
+LSD:
+
+Lysosomal storage diseases
+
+mHTT:
+
+mutant Huntingtin
+
+miRNA:
+
+MicroRNA
+
+MLD:
+
+Metachromatic leukodystrophy
+
+MPS:
+
+Mucopolysaccharidoses
+
+MSD:
+
+Multiple sulfatase deficiency
+
+MSNs:
+
+Medium spiny neurons
+
+NAA:
+
+N-Acetyl-Aspartate
+
+NAGLU:
+
+N-acetyl-alpha-glucosaminidase
+
+NEP:
+
+Neprilysin
+
+NGF:
+
+Nerve growth Factor
+
+NFTs:
+
+Neurofibrillary forming tangles
+
+NHP:
+
+Non human primates
+
+NPD:
+
+Niemann-Pick disease
+
+NPY:
+
+Neuropeptide Y
+
+NTN:
+
+Neurturin
+
+PD:
+
+Parkinson Disease
+
+rAAV:
+
+Recombinant adeno-associated virus
+
+SOD1:
+
+Superoxide dismutase 1
+
+SGSH:
+
+N-sulfoglucosamine sulfohydrolase
+
+SMA:
+
+Spinal muscular atrophy
+
+SMN:
+
+Survival of motor neuron
+
+SNI:
+
+Spared nerve injury
+
+SNP:
+
+Single nucleotide polymorphisms
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+Page 6 of 39
+
+6
+
+SUMF1:
+Sulfatase-modifying enzyme factor 1
+
+TDP:
+TAR DNA Binding
+
+TRPV1:
+Vanilloid receptor 1
+
+ZFP:
+Zinc finger protein
+
+24S-OHC:
+24 Hydroxycholesterol
+
+3NP:
+3-Nitropropionic acid
+
+Page 7 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+7
+
+Introduction
+Neurological disorders are among the most difficult pathologies to treat due to the limited access to
+the brain structures protected by physical barriers such as the blood-brain barrier (BBB), the
+complexity of the central nervous system (CNS) and cell interactions. Gene therapy is an alternative
+to traditional pharmacological approaches that has made important advances over the last decade in
+treating genetic disorders and acquired diseases affecting the nervous system.
+Experimental use of gene therapy for brain tumors has increasing promise, with a multitude of
+research programmes using rAAV gene therapy with systemic or direct administration of therapeutic
+agents into the tumor site. This work has not been considered in this review, as the goal to affect the
+proliferation of abnormal cells is considered out of scope. The aim of this review is to provide a
+thorough summary of the most notable advancements in pre-clinical and clinical research of rAAV
+gene delivery in treating neurodegenerative, genetic and acquired diseases affecting the nervous
+system.
+Adeno-associated virus (AAV) is a small, no enveloped virus that have been the subject of intense
+research interest from the gene therapy field. Recombinant adeno-associated virus (rAAV) have
+demonstrated remarkable evidence of efficacy and safety in a large number of animal models. They
+have become the most commonly used gene therapy vectors for the CNS1 due to their safety, nonpathogenic nature, and ability to infect dividing and quiescent cells in vivo, particularly neurons. rAAV
+have also demonstrated very long-term gene expression in vivo2.
+Initial preclinical proofs of concept have used first generation vectors based on AAV serotype 2. They
+moved from the conceptual stage to clinical trials in several inherited and acquired diseases, such as
+Parkinson’s, Batten’s, and Canavan’s disease3 (Table 1). Since then, several other AAV serotypes have
+been isolated and engineered AAV strains with improved tissue tropisms and biodistribution have
+been extensively characterized in animal models. The recombinant genome of a given serotype can
+be packaged into the capsid of another serotype (i.e. rAAV2/5 contains the AAV2 recombinant
+genome packaged in the capsid proteins encoded by the cap gene of AAV54). The most studied AAV
+serotypes in CNS have been 1, 2, 5, 8, 9 and rh105-8. The effectiveness of a serotype depends on the
+brain region, the species, and the targeted cell type. These serotypes efficiently transduce neurons,
+however transduction of astrocytes, oligodendrocytes or microglia is limited5, 6, 9 but can be improved
+by the use of cell specific promoters10-13. Transduction efficiency of these different serotypes has
+been further established in large animal models such as dogs, cats, primates and pigs (Table 2, Table
+3 and Table 4), and finally used in therapeutic trials in human patients (Table 1).
+
+Page 8 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+8
+Several strategies have been developed to deliver genes to the CNS 14. Initially AAV gene delivery to
+the brain relied on intraparenchymal injection(s) in brain regions affected by the considered disease
+(Figure 1). This is a straightforward strategy for conditions involving a restricted brain region i.e.
+Parkinson’s disease. This approach has also been evaluated in conditions affecting large regions of
+the brain such as lysosomal storage diseases (LSD) with major successes in terms of preclinical proof
+of efficacy in numerous animal models (Table 2) and also encouraging results, with excellent safety,
+in human patients (Table 1) using multiple injection tracks into the brain parenchyma15-17.
+Many research groups are developing cerebro-spinal fluid (CSF)-based delivery using intra cerebroventricular (ICV) or cisternal or lumbar intrathecal (IT) administration (Figure 1). These approaches,
+require high quantities of vector compared to intraparenchymal injections (Table 1, Table 2, Table 3
+and Table 4) but are able to safely deliver secreted proteins, such as growth factors, lysosomal
+enzymes or Apoliprotein E (APOE). However, these strategies are associated with increased leakage
+of the recombinant vector in the blood circulation and with consequent off-target tissue transduction
+and expression in peripheral organs, particularly the liver18, 19. Moreover strategies will be required to
+reduce an immune response that may ultimately impair therapeutic benefit in patients 20.
+Several studies have focused on evaluating the ability of AAV vectors to cross the BBB in mouse
+models and Non-human primates (NPH) following IV administration21-23. If encouraging results could
+be obtained in neonate mice, decreased transduction efficiency was observed in the primate brain,
+with a shift in rAAV9 tropism from neuronal to glial cells23 throughout the brain and interestingly into
+the dorsal root ganglia neurons and motor neurons within the spinal cord21. A study comparing the
+ability of different rAAV strains to cross the BBB in mice demonstrates that rAAVrh.10 is at least as
+efficient as AAV9 vectors in CNS gene transfer following systemic administration24.
+
+rAAV gene therapy for neurodegenerative diseases
+Recent progress in rAAV gene therapy has allowed for novel treatments of both genetic and acquired
+neurodegenerative diseases such as lysosomal storage diseases, Alzheimer’s disease (AD),
+Parkinson’s disease (PD), Huntington’s disease (HD), amyotrophic lateral sclerosis (ALS) and spinal
+muscular atrophy (SMA). Exciting treatment results have been obtained in animal models of the
+corresponding human diseases and clinical trials have been, or soon will be, launched.
+
+Page 9 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+9
+
+Lysosomal storage disorders
+Lysosomal storage disorders are a group of over 50 individual inherited metabolic diseases resulting
+from the deficiency of a lysosomal function responsible for progressive storage of undigested or
+partially digested materials leading to cellular and metabolic dysfunction25. Although individually
+rare, they have a collective incidence of approximately 1 per 7,000 live births26, and at least 70% of all
+LSDs have a significant CNS component that are typically characterized by neuro-inflammation and
+neurodegeneration in multiple brain regions27.
+Several features of LSDs make them ideal candidates for gene therapy. Each LSD is a single-gene
+recessive disorder with a relatively well understood underlying molecular bases. Cross-correction
+opens the possibility of genetically modifying a relatively small number of cells so they express and
+secrete supraphysiologic levels of the deficient enzyme that can then correct a wide range of cell
+types at a distance28. A portion of newly synthesized lysosomal enzymes can be secreted and
+internalized by neighboring cells via mannose 6-phoshate receptors that are present on the plasma
+membrane. In the CNS, circulating lysosomal enzymes can diffuse via the ventricular system or be
+transported from the site of production to distal sites via axonal transport29. Levels of induced gene
+expression are generally not critical. Low levels of residual enzyme activity resulting from missense
+mutations are often associated with significant impacts on the clinical course of the disease30.
+Enzyme activities of less than 10% of the physiological level may therefore be sufficient to have a
+clinical impact on the disease course. Tight regulation of gene expression is not required since no
+deleterious effects are associated with supraphysiological levels of most of the lysosomal enzyme.
+The identification or development of small and large animal models recapitulating the clinical course
+of LSDs has been and is instrumental in evaluating therapeutic strategies 31.
+Several strategies of rAAV infusion have been developed and tested in animal models of neuropathic
+LSDs via systemic administration as well as direct injection into the CNS through the brain
+parenchyma or the CSF. Main preclinical studies are listed in Table 2 and results of this research is
+summarized below.
+
+Intraparenchymal delivery
+
+Intraparenchymal injection effectively treats the CNS of neuropathic LSDs since rAAV and secreted
+enzymes can be transported to areas distal from the injection sites29, 32. The relative low dose
+required, compared to systemic or CSF administration33, in an immune-privileged site like the brain
+
+Page 10 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+10
+also limits the impact of a potential preexisting immunity to AAV serotypes 34. Different sites of
+injection into the brain (cortex, striatum, hippocampus, thalamus, ventral tegument, cerebellum)
+using different AAV serotypes (1, 2, 5, 9, rh8 and rh10) have been tested in mouse models of
+neuropathic LSDs such as GM1 and GM2 gangliosidosis, globoid cell leukodystrophy (GCL), NiemannPick (NPD) type A, infantile and late infantile neuronal ceroid lipofuscinosis (INCL and LINCL),
+metachromatic leukodystrophy (MLD), mucopolysaccharidosis (MPS) type I, III and VII (Table 2).
+These studies showed that AAV vectors, injected into the parenchyma, are able to lead to
+widespread enzyme distribution as well as biochemical and histological correction in large regions of
+the mouse brain resulting in improved behavioral symptoms, motor function and lifespan. These
+initial data obtained in LSD mice were replicated in large disease animal models in which multiple
+parenchymal injections or injection into specific CNS structures with high interconnectivity are more
+representative of clinical transferability. For example, widespread expression of enzyme throughout
+the brain of MPSI and MPSIIIB mice following injection of rAAV5 in the striatum was also observed in
+MPSI and MPSIIIB dogs treated with a similar approach35-37. Injection into the thalamus and deep
+cerebellar nucleis of rAAV1 coding for β-galactosidase in GM1 gangliosidosis mice was also
+successfully transferred to the feline model with an rAAVrh8 leading to long-term clinical
+improvement and survival38, 39. Intraparenchymal injections are particularly applicable to LSDs with
+severe neurological but moderate systemic involvement and phase I/II clinical trials have been
+performed in LINCL, MPS IIIA, MPSIIIB and MLD (Table 1).
+The first phase I/II trial of AAV intraparenchymal injections was for Canavan disease40, a pediatric
+neurodegenerative disorder associated with mutations in the gene encoding for aspartoacylase
+(ASPA), an enzyme that converts N-acetyl-aspartate (NAA) into acetate and aspartate. Results have
+proved the feasibility and overall safety of rAAV injection into the brain via multiple sites of vector
+administration. Humoral immune response against the vector was observed in three of the ten
+subjects41. Long-term follow-up indicated a decrease in substrate levels in the brain of some patients
+and the stabilization of clinical disease 15. A phase I clinical trial in 10 LINCL patients was performed
+through the direct injection into the brain parenchyma of rAAV2 carrying the human CLN2 gene. No
+safety issue related to the product or the way of administration was reported and there was
+evidence of slowing disease progression17. A Phase I/II clinical trial in LINCL is currently ongoing with
+a second-generation AAVrh.10-based vector which confers greater enzyme distribution within the
+brain and a better immunogenicity profile than rAAV2. rAAVrh.10 was also tested for intracranial
+delivery of N-sulfoglucosamine sulfohydrolase (SGSH) and the sulfatase-modifying enzyme factor 1
+(SUMF1) genes in MPS IIIA patients. The administration of the vector was safe and well tolerated by
+the 4 patients included in the trial after one year. Stabilization in three patients and a possible
+
+Page 11 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+11
+improvement in one patient were observed16. Additionally, a phase I/II clinical trial for MPS IIIB using
+AAV5 to express N-acetyl-alpha-glucosaminidase (NAGLU) is ongoing as well as a phase I study using
+AAVrh.10 for MLD (Table 1). Although further follow-up is necessary, these initial results suggest that
+intraparenchymal AAV based gene therapy is a realistic option for neuropathic LSDs.
+
+CSF delivery
+
+Direct delivery to the CSF is an alternative route that has been tested using different AAV serotype (1,
+2, 4, 5, 8, 9, rh8 and rh10) via ventricles, cisterna magna, or spinal cord into small and large animal
+models of different LSDs such as GM1 and GM2 gangliosidosis, GLC, LINCL, MLD, multiple sulphatase
+deficiency (MSD), α-mannosidosis (AMD), MPS I, IIIA, IIIB and VII (Table 2). Initial proof of concept
+was made in MPS VII newborn mice where intra cerebro-ventricular (ICV) injection of rAAV1, 2 and 5
+resulted in the expression of the glucoronidase beta (GUSB) in broad regions of the CNS42. Similar
+observations were reported with rAAV1 in newborn mice models of GLC and GM1 gangliosidosis43, 44
+and with rAAV5 in MPS IIIA newborn pups45. Even though broad CNS distribution in newborn mice
+could be increased by the potential immaturity of the ependymal barrier, or by its disruption favored
+by the large volume of injection, direct targeting of ependymal cell lining by rAAV4 in adult mice
+model of MPS VII46 or by rAAV2 in LINCL dog model, also led to broad distribution of enzyme in the
+CNS associated with therapeutic benefits47. However, because of the rapid turnover rate of the
+ependymal cells48, long-term benefits of this approach need to be confirmed. rAAV9 or rAAVrh10
+injected into the cisterna magna showed favorable phenotypic outcomes in mouse and dog models
+of MPS type IIIA and B 49, 50, as well as in large models of alpha-mannosidosis (AMD)51, MPSVII52, and
+MPSI53. Potential additional positive effects of this approach on the pathology have been observed
+but only in absence of serum antibodies against the vector49. Intracisternal administration, although
+easily accessible in animal models, is more problematic to translate in human. A less invasive route
+into the CSF via lumbar intrathecal injection showed positive results of enzyme distribution in the
+brain of MPS I and MPS VII mice models using rAAV254, 55 but have not yet been described in the brain
+of larger animal models. A first clinical trial in Batten CLN6 has recently been launched using a selfcomplementary AAV9 carrying the CLN6 gene administered intrathecally by lumbar puncture
+(NCT02725580). The minimum calculated dose in this clinical trial (i.e 1,2E+14 gc for a 1 year old child
+of ~8kg) is already 30 fold higher than the highest dose (4E+12 gc) tested so far in intraparenchymal
+injection clinical trials (Table 1).
+
+Page 12 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+12
+Intravenous delivery
+The capacity of AAV9 or AAVrh10 serotypes to cross the BBB23, 56 has led to the exploration of
+intravenous (IV) injections as an alternative to treat neuropathic LSD (Table 2). Proof of concept has
+been shown in neonatal GLC or MLD mice57, 58. AAV9 IV administration has shown an impact on the
+CNS pathology of older animal models in MPS III type A and B59, 60 and GM1 gangliosidosis 61.
+However, the efficiency of CNS transduction seems to be more limited in older mice as evaluated in
+GM2 gangliosidosis62. Moreover, transduction patterns observed in mice can be different from larger
+animal species23. The nature of the storage can also limit the efficacy of this approach, as observed in
+the MPS VII model where accumulation of sialic acid within the CNS, an inhibitor of AAV9
+transduction, precluded any CNS benefit63. The first IV phase I/II clinical trials are currently being
+conducted in spinal muscular atrophy (SMA) (NCT02122952) and MPS IIIA (NCT02716246). Results on
+the interventions potential beneficial change on the CNS aspects of these diseases will demonstrate
+whether this approach could be envisaged for other LSDs. A big issue in transition to humans will be
+linked to the high doses of virus required to have a therapeutic effect in the CNS (i.e doses up to
+3.3E+14gc of AAV9/kg are proposed in the SMA clinical trial).
+
+Significant progress has been made in global CNS targeting using rAAV with evidence of therapeutic
+potential for neuropathic LSD. Preclinical studies demonstrate that a variety of serotype and injection
+routes can be used to improve neuropathological and functional deficits. Phase I/II clinical trials of
+multiple intraparenchymal AAV injections showed the safety of this approach that can delay the
+onset or progression of the disease. Studies using larger numbers of patients will be required to
+confirm these observations.
+
+Alzheimer’s disease
+Key neuropathological hallmarks of AD are extracellular amyloid plaques produced from the
+metabolism of the Amyloid Precursor Protein (APP) and intracellular accumulation of abnormally
+phosphorylated Tau protein, a microtubule assembly protein, forming neurofibrillary tangles (NFTs)6466
+
+. The mechanisms underlying these neuropathological changes remain unclear. There is today no
+
+treatment able to stop the progression of the disease. Several gene therapy strategies have been
+evaluated, targeting different pathways involved in AD physiopathology, some with encouraging
+results.
+
+Page 13 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+13
+Strategies to reduce the amyloid accumulation by increasing amyloid degrading proteases, such as
+Neprilysin (NEP) and endothelin converting enzyme (ECE)67 or by delivering anti-Aβ single chain
+antibody into the corticohippocampal regions of AD mice using AAV vectors were shown to decrease
+plaques and Aβ in the cortex and hippocampus of AD mice model68-70, with no sign of neurotoxicity70.
+The non-amyloidogenic pathway71 of APP metabolism prevents the production of amyloid toxic
+forms and enables the release of the soluble APPsα which is thought to be responsible for the
+important physiological functions of APP72. Loss of the neuroprotective APPsα could contribute to
+development of AD. APPsα levels are decreased in the CSF of AD patients, in both genetic and
+sporadic forms, which is correlated with poor memory73, 74. APPsα inhibits tau phosphorylation
+through GSK3β modulation75. Increasing physiological APP pathway is thus an interesting strategy to
+treat AD and APPsα overexpression could alleviate AD related symptoms. APPsα overexpression by
+the mean of AAV virus in hippocampal neurons of AD mice76 rescued spatial memory defects,
+restored synaptic plasticity and spine density, and decreased soluble Aβ and amyloid plaques. This
+was associated with microglial activation and amyloid plaques phagocytosis.
+Administration of neurotrophic factors are good candidates as neuroprotective strategies but these
+factors may cause off-target adverse effects, necessitating a targeted delivery strategy to control
+their localization and spread in the brain77. Nerve Growth Factor (NGF), that stimulates the function
+of basal forebrain cholinergic neurons undergoing early degeneration in AD78 was evaluated in early
+disease onset in animal models. Encouraging preclinical data and the first clinical trial based on
+modified fibroblast implantation resulted in a phase 1 clinical trial in which NGF was administered in
+ten patients who received rAAV2-NGF into the basal forebrain region (NCT00087789). A dose
+escalation protocol was used, 1.2E+10 to 1.2E+11 vector particles79 (Table 1). The brains of patients,
+that were examined, exhibited a trophic response to NGF in the form of axonal sprouting toward the
+NGF source. Cholinergic neuronal hypertrophy occurred on the NGF-treated side. Activation of
+cellular signaling and functional markers was present in the 2 patients who underwent rAAV2-NGF
+gene transfer. An overall lower rate of cognitive decline and increased cortical glucose uptake were
+reported. A phase II multi-centre, sham-surgery-controlled trial of NGF in AD is ongoing in 49 patients
+with mild to moderate AD based on a single administration of AAV-NGF vector that encodes the gene
+for nerve growth factor (CERE-110) or an appropriate sham (placebo) surgery control treatment80.
+Insulin-like growth factor (IGF) 2 that plays a critical role in memory consolidation in rodents was
+administered using an AAV2 vector in the hippocampus of aged wild-type mice and in APP Tg2576
+mice. IGF-2 expression enhanced memory, promoted dendritic spine formation of WT mice,
+decreased amyloid levels and rescued behavioural deficits in AD mice, suggesting that IGF-2 may act
+as an Aß scavenger81.
+
+Page 14 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+14
+Increasing evidence demonstrate the role of inflammation in AD. Anti-inflammatory cytokine
+signaling may play an emerging role as neurotransmitters, neuromodulators, and neurohormones in
+the brain. Targeting the inflammatory pathway was thus evaluated using interleukin (IL) delivery.
+Expression of IL-4 or IL-10 in the brain of AD mice both resulted in reduced astro/microgliosis, Aß
+deposition, increased neurogenesis and improved spatial learning82, 83.
+The role of lipid metabolism is increasingly evidenced in AD. APOE, a regulator of lipoprotein
+metabolism in the CNS that plays several important roles such as cholesterol transport,
+neuroplasticity, and inflammation and Aβ clearance and aggregation84 is the major risk factor for late
+onset AD. A gene transfer approach to bathe the cortex of amyloid plaque–bearing transgenic mice
+with APOE was used by injecting into the lateral ventricles of AD mice an AAV vector expressing the
+various human APOE alleles to transduce the ependymal layer. Human APOE proteins diffused into
+the CSF and interstitial fluid (ISF). Human APOE isoforms affected the concentrations of soluble
+oligomeric Aβ in the ISF, the pace of Aβ fibrillization and deposition, and the extent of peri-plaque
+neurotoxic effects. Increase in soluble Aβ, exacerbation of synaptic loss, and the increased number of
+dystrophic neurites around each deposit was observed in AD mice receiving APOE4, whereas a
+relative protective effect was observed with APOE2. These results suggest that therapeutic
+approaches aimed at decreasing APOE4 may be beneficial in AD85.
+In AD, altered cholesterol metabolism seems to play a pivotal role in the formation of amyloid
+plaques and in tau pathology86. The major exportable form of brain cholesterol is 24hydroxycholesterol (24S-OHC) generated by the neuronal cholesterol 24-hydroxylase enzyme
+(CYP46A1). Overexpression of CYP46A1 by administrating in the brain an AAV vector carrying the
+CYP46A1 in rodent models of AD reduced the number of amyloid plaques and improved spatial
+memory in amyloid models 87 and improved cognitive deficits, impaired long-term depression and
+spine defects in mice with tauopathy88 suggesting that CYP46A1 is a relevant target for AD.
+All the approaches described have shown good preclinical efficacy in mouse models of AD and raised
+hopes for clinical applications in human patients. However, the main hurdle of gene therapy for AD is
+the diffusion of the lesions in the brain. AD impacts a number of anatomical sub-regions of the brain
+that are involved in learning and memory. AAV-based gene therapy strategies for AD should thus rely
+on safe neurosurgical protocols able to target efficiently early affected regions by the mean of
+improved delivery methods and use of serotypes with good diffusion properties (anterograde and
+retrograde transport). The development of modified AAV vectors able to efficiently cross the BBB
+should improve such strategies in the mid future 1, 89-92.
+
+Page 15 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+15
+
+Parkinson’s disease
+Many neuroprotective treatments have been developed these past few years for PD which is the
+second most common neurodegenerative disorder. In addition to deep brain stimulations and cell
+therapies, gene therapies have recently emerged as promising alternatives. For example, it has been
+shown that the lysosomal hydrolase glucocerebrosidase activity is reduced in PD. Increasing it by
+gene transfer in mouse and rat models of PD showed neuroprotective effects against dopaminergic
+neuron degeneration93. Protecting these dopaminergic neurons from Parkinson degenerative
+processes have also been shown by the AAV-mediated overexpression of the transcription factors
+Nurr1 and Foxa294. As for other diseases such as epilepsy, the glial cell line-derived neurotrophic
+factor (GDNF) has been overexpressed in rats and monkeys with lesions of the dopamine system and
+showed amelioration of lesion-induced behavioral deficits95, 96. NHPs are indeed of interest to
+validate the clinical utility of AAV infusion in brain structures affected by PD such as striatum and
+putamen 97 and GDNF overexpression into the striatum and substantia nigra of marmoset monkeys
+showed behavioral and anatomical efficacy98. Clinically relevant effects were also obtained in rhesus
+macaques where GDNF overexpression promotes restoration of the dopaminergic system in these
+regions99, 100. Another strategy often used in gene therapies for PD consists in overexpressing the
+enzyme aromatic L-amino acid decarboxylase (AADC). Indeed, AADC is in charge of converting the LDopa, the main medication for PD, to dopamine and is decreased in PD patients. AAV-mediated
+overexpression of AADC showed 50% of improvement in L-Dopa responsiveness101 and persistent
+results for at least eight years2. CERE-120, an AAV2 coding for the Neurturin (NTN) has been shown
+to protect dopaminergic neurons in pre-clinical studies102, 103. Injection of CERE-120 in the putamen
+alone or both putamen and substantia nigra in more than a hundred people with PD (Table 1)
+showed no adverse effect for up to 5 years104. However, efficacy results were modest with no
+significant improvement in primary outcome measures105, 106. To date, several clinical trials are ongoing to evaluate the safety and effectiveness of rAAV-GDNF or rAAV-AADC injection (Table 1). Due
+to the recent lack of efficacy of several drugs in phase III such as creatine and ubiquinone, rAAV-gene
+therapy for PD seems promising and could offer an interesting alternative.
+
+Huntington’s disease
+HD is an autosomal dominant neurodegenerative disorder characterized by chorea, dystonia,
+progressive cognitive deterioration and psychiatric disturbances evolving to dementia. The disease
+
+Page 16 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+16
+usually occurs in mid-life, followed by progressive aggravation of symptoms and death within 10-20
+years107, 108. The genetic cause of the disease is a CAG (cytosine-adenine-guanine) triplet repeat
+expansion in the huntingtin (HTT) gene exceeding ~ 40 copies. Consequent polyglutamine expansion
+within the amino-terminal region of the HTT protein causes abnormal folding and accumulation of
+mutant HTT (mHTT) aggregates in cells. Neuroprotective agents have been tested in animal models
+to counter the toxic cellular effects of mHtt and improve neuronal survival. Brain-derived
+neurotrophic factor (BDNF), because of its functional interaction with HTT, has been evaluated in
+animal models of HD. GDNF-family of ligands (GFLs), GDNF (Glial-cell-line-derived neurotrophic
+factor), neurturin (NTN) and CNTF (Ciliary neurotrophicfactor) have also been shown to support
+striatal neurons viability in vitro and in vivo. When administered using rAAV2/1 vector in mice with
+QA-toxin lesion, BDNF resulted in reduced motor impairment and striatal damage but toxicity was
+observed with weight loss and seizure activity, showing that lower concentrations of BDNF were
+necessary for neuroprotection without side-effects109. Single ICV delivery of BDNF and noggin via
+rAAV4-BDNF/noggin treated R6/2 mice showed delayed deterioration of motor function and
+increased survival110. rAAV2-GDNF was also administered 2 weeks prior to a 3-nitropropionic acid
+(3NP) lesion in rats 111 or in the HD mouse model (N171-82Q mice)112 resulting in improved
+performances and reduced neuronal atrophy. Neurturin (NTN), shown to protect striatal projection
+in excitotoxic models of HD, improved the performance of N171-82Q transgenic HD mice (rotarod
+and clasping tests) after rAAV2-NTN (i.e. CERE-120) injection at 5 weeks of age but did not improve
+the weight of transgenic animals or their performance in the cognitive radial arm water maze task
+compared to control groups113. CNTF was shown to support striatal neurons viability in vitro and in
+vivo. However a study has shown that long-term expression of CNTF using the AAV2 vector increases
+pathology in the brain of R6/1 transgenic mice114. These results may be due to the high dose (2.7E12
+vg/ml rAAV2-CNTF injected unilaterally or bilaterally). Even neurotrophic factors have already been
+safely used in clinical trials. Altogether these results indicate that caution must be used to establish
+doses when considering viral delivery of neurotrophic factors to protect against toxic effects of mHTT
+while avoiding potential side effects.
+Direct therapeutic strategies have been developed to target the causative mHTT and reduce the
+synthesis of mutant protein and potentially prevent cellular damage. RNA interference strategies
+have shown that decreasing mHTT improves the HD phenotype in mouse and rat models112, 115-117.
+Using AAV vectors, different approaches have been developed using mHTT mRNA (SNP)-specific
+microRNAs and single hairpin RNAs to block formation of the mutant protein, and most recently,
+allele-specific blockage of transcription. Allele-specific methods selectively silencing the mHTT are
+the most attractive option for HD gene therapy. However, this approach is challenging, since the
+
+Page 17 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+17
+mutant gene only differs from the wt allele by the number of CAG repeats, making both alleles
+vulnerable. Importantly, some toxic effects of shRNA in vivo were suppressed when placed into
+artificial microRNA (miRNA) expression systems and miRNA-based approaches may provide more
+appropriate biological tools for expressing inhibitory RNAs in the brain118. Repression of mHTT
+production was also tested with zinc finger proteins (ZFPs), using long artificial ZFP chains designed to
+bind longer CAG repeats more effectively than shorter repeats. This reduced chromosomal
+expression of the mutant gene. In vivo, striatal rAAV2/1 delivery in R6/2 mice revealed repression of
+mHTT in the brain resulting in protein aggregate reduction and some improvement of motor and
+behavior performance establishing a preliminary proof-of-principle for synthetic transcription factor
+repressors in the brain119.
+Cholesterol metabolism is impaired in HD and restoring cholesterol metabolism is thus an interesting
+therapeutic target. In HD, a decrease of plasma 24S-OH cholesterol, the oxysterol produced by brain
+specific 24 Cholesterol hydroxylase (CYP46A1) follows disease progression proportionally to motor
+and neuropsychiatric dysfunction and MRI brain atrophy, together with lanosterol and lathosterol
+precursors (markers of cholesterol synthesis). Increased accumulation of cholesterol was observed in
+striatal neurons together with reduced levels of cholesterol metabolic precursors. CYP46A1 was
+recently shown to be decreased in the putamen of HD patients and R6/2 mice. Moreover, striatal
+injection of AAVrh10-CYP46A1 vector in R6/2 mice decreased neuronal atrophy, decreased HTT
+aggregates and improved motor deficits, as assessed by rotarod and clasping behavioral tests. It also
+restored levels of cholesterol and lanosterol and increased levels of desmosterol that were found in
+vitro to protect striatal neurons expressing mHTT from death120. These results strongly confirm that
+restoring cholesterol metabolism through CYP46A1 overexpression is a relevant therapeutic strategy
+in HD.
+
+Amyotrophic Lateral Sclerosis
+ALS is a rapidly progressive neurodegenerative disorder affecting motor neurons in the spinal cord,
+brainstem and cortex. All voluntary controlled muscles can be affected and most ALS patients die
+from respiratory failure 2 to 5 years from the onset of symptoms. 10-20% of ALS cases are inherited.
+The most studied mutations linked to these familial forms are located in the Cu/Zn superoxide
+dismutase 1 gene (SOD1)121. Thereby, SOD1-transgenic animals in which motor neurons degenerate
+and animals die shortly after onset of symptoms, are often used as human-like ALS models122. rAAV
+coding the IGF-1 was injected into respiratory and motor limb muscles of SOD1G93A mice taking
+
+Page 18 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+18
+advantage or the vector retrograde transport from presynaptic terminals of projecting neurons to
+the projecting cell nucleus. Vector was transported up to motor neurons of the spinal cord which
+allowed to extend survival and delay motor decline123. Lepore et al. used the same strategy but
+injected into lumbar spinal cord parenchyma of SOD1G93A mice. The long-term expression of IGF-1
+was followed by a delayed disease onset and an extended survival but only in male SOD1G93A
+mice124. The neuroprotective effect of IGF-1 in ALS was associated with decreased glial cell–mediated
+release of tumor necrosis factor-α and nitric oxide125. The same group also achieved promising
+results with a rAAV injection into the lateral and 4th ventricles of SOD1G93A mice126. More recently,
+ICV or IT injections of AAV vectors encoding microRNA against SOD1 improved disease outcome in
+SOD1G93A mice, with preservation of muscle innervation and neuroprotection127. The abundant
+evidence showing the importance of trophic factors to motor neurons as well as these preclinical
+results put forward a reliable strategy which could be brought to the clinic. In addition, IL-10
+overexpression using rAAV injection in the spinal cord of the SOD1G93A mice produces an immune
+modulatory effect with longer survival128. More than 80% of ALS cases are sporadic and most patients
+do not carry the SOD1 mutation. Aizawa et al. showed in 2010 a molecular link between reduced
+adenosine deaminase acting on RNA 2 (ADAR2) activity and TAR DNA-binding protein (TDP-43)
+pathology whose loss from the nucleus and positive cytoplasmic inclusions in motor neurons are
+characteristics of sporadic ALS129. Yamashita et al. showed that AAV-ADAR2 delivery in motor
+neurons of ADAR2 knockout mice (AR2) enabled the restoration of ADAR2 activity and also
+prevented the progression of motor dysfunction and neuronal death130. A few clinical trials using
+gene therapy in ALS have been started/completed (NCT00748501, NCT02039401, NCT01041222) but
+none with rAAV. Despite this, positive results obtained with preclinical studies abovementioned may
+lead to novel promising studies in the clinic.
+
+Spinal Muscular Atrophy
+SMA is an autosomal recessive neurodegenerative disease leading to infant mortality caused by a
+mutation in the gene survival of motor neuron (SMN). One approach to mitigating the effects of SMN
+loss of function is exogenous expression of its gene by introducing viral vectors into motor neurons.
+Several groups provided strong evidence for effective AAV-mediated gene therapy on SMA
+transgenic mice. AAV9-mediated gene delivery to replace the SMN protein at day one after birth in
+SMA mouse resulted in elevated levels of SMN expression and extended survival131. rAAV8-SMN was
+injected bilaterally into the lateral ventricles and the upper lumbar spinal cord in SMA mice allowing
+improvements in behavioral tests indicating a functional neuromuscular junction and increased
+
+Page 19 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+19
+survival from 15 to 50 days132. rAAV9 coding a codon-optimized version of the SMN injected into the
+facial vein at day one after birth resulted in a phenotypic correction, a significant increase in
+survival133, complete correction of motor function and a major increase of survival from 27 to over
+340 days134.
+As for SMA, gene therapy has been used to rescue the phenotype of SMA with respiratory distress
+type 1 mice. This disease is caused by a mutation in the IGHMBP2 gene. rAAV9-IGHMB2 injection
+restored protein levels, rescued motor function and increased life span135.
+As for ALS or neuropathic pain, intrathecal injection is a promising strategy and proof of concept to
+transduce motor neurons in juvenile farm pigs and monkeys have already been shown136 supporting
+the use of gene therapy in clinical studies. To date, one clinical trial is actually ongoing to evaluate
+safety and efficacy of intravenous delivery of self-complementary rAAV9-SMN as a potential
+treatment (Table 1).
+
+rAAV gene therapy for other disorders affecting the nervous system
+Epilepsy
+Epilepsy is mainly characterized by seizures caused by an imbalance between excitation and
+inhibition of electrical activities between neurons. Even if the cause of most cases of epilepsy is
+unknown, some result from a brain lesion inducing mostly focal seizures, whereas others are
+associated with genetic defects resulting in generalized seizures. The identification of genetic cases
+highlighted several ion channels that helped to understand and investigate epilepsy with the
+development of antiepileptic drugs targeting several ion channels. Seizures are often not sufficiently
+controlled, with current therapeutics, and new therapies are needed137. rAAV gene therapy has been
+used to control seizures in several animal models, mostly based on the overexpression of the
+neuropeptide Y (NPY). NPY is a 36 amino-acid member of the pancreatic polypeptide family which is
+an endogenous modulator of epileptic activity. AAV-mediated gene transfer to overexpress NPY in
+rats
+
+with
+
+electro-encephalogram
+
+(EEG)
+
+seizures
+
+induced
+
+by
+
+intrahippocampal
+
+or
+
+intracerebroventricular kainic acid injection, allowed delayed seizure onset and a reduction in
+seizures by 50-75%, 8 weeks after rAAV injection138. Because NPY activates many receptor subtypes
+and may result in unwanted side effects, Foti et al. developed a rAAV expressing a truncated form of
+NPY that primarily activates the NPY Y2 receptor and obtained a significantly prolonged latency of
+
+Page 20 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+20
+limbic seizures, one week after kainic acid injection139. AAV-mediated gene transfer of NPY was also
+shown to safely improve anticonvulsant activity in kainic acid treated rats without any glia activation
+or humoral immune response140. Other transgenes have been used to attenuate seizures. Galanin, a
+neuropeptide with anticonvulsant properties combined with a secretory signal, was overexpressed
+with beneficial effects in kainic acid treated rats141. GDNF overexpression also leads to a suppression
+of seizures in rat models of temporal lobe epilepsy142. Downregulation of adenosine kinase (ADK) in
+mice via AAV-mediated RNA interference completely abolished spontaneous recurrent seizures in
+ADK-transgenic mice143. Thus antiepileptogenic and antiseizure effects of these gene therapy
+approaches are promising via a decrease of excitatory signals or an increase of inhibitory signals. To
+date, no clinical trials with AAV-mediated gene transfer are currently on going but all these
+preclinical studies support their application in the clinic.
+
+Neuropathic pain
+Even if neuropathic pain is often accompanied by tissue injury, it is a complex state that seems to
+have no obvious cause. Analgesic agents are recommended as first-line treatments but analgesia has
+limitations such as a short half-life, lack of cellular specificity and undesired potential off-site effects.
+Tissue injury and thus the associated pain, is often chronic and localized and thereby suitable for the
+use of AAV-mediated gene therapies. A few studies have been carried out using AAV vectors to
+deliver several gene targets and treat neuropathic pain. In a model of sciatic nerve injury in WISTAR
+rats, AAV vector overexpressing the BDNF was injected in the dorsal horn of the spinal cord. One
+week after injection a rescue in several behavioral tasks was observed such as an alleviation of tactile
+allodynia and thermal hyperalgesia144. Another approach used injection of rAAV expressing the Ca2+
+channel-binding domain 3 (CBD3) into the lumbar dorsal root ganglion (DRG) in rats before the
+spared nerve injury (SNI). All injected rats presented a significant attenuation of behavioral changes
+in pain behavior such as hyperalgesia after touch with a pin or sensitivity to acetone stimulation145.
+The knockdown of the voltage-gated sodium channel Nav1.3 via rAAV expressing shRNA was also
+evaluated in rats with SNI. rAAV injections were performed into the DRG; a partial attenuation of
+nerve injury-induced mechanical allodynia was observed146. Intrathecal injection to treat diabetic
+neuropathic pain in diabetic Sprague Dawley rats also showed promising results with efficient
+transduction of DRGs and reduction of nociceptive hyperexcitability and neuropathic tactile allodynia
+associated with diabetic neuropathic pain147. This method is rapid, less invasive than DRG injection
+and clinically applicable. Intrathecal injection of AAV vector encoding shRNA against vanilloid
+receptor 1 (TRPV1) into the subarachnoid space of mice, three weeks after a SNI surgery showed a
+
+Page 21 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+21
+significant attenuation of thermal hyperalgesia in response to 50°C heat stimulation was observed
+from 7 days after treatment148. These encouraging results should prompt evaluation in human
+patients with chronic/diabetic neuropathic pain.
+
+Perspective
+There is today a tremendous amount of preclinical data demonstrating the relevance and the
+feasibility of AAV-based gene therapy to treat CNS disorders, not only for rare genetic diseases but
+also opening the door to new therapeutic strategies for more common severe complex conditions.
+These have already led to a number of phase I/II clinical applications in human patients with
+encouraging results that should allow further developments to treat larger numbers of patients.
+Further steps will need to focus on the development of new tools improving safety, efficacy and
+simplicity of gene delivery to the brain.
+A potential immune response to AAV vectors is still a matter of debate. Direct intraparenchymal
+delivery uses considerably lower doses and is less likely to have an impact on a potential immune
+response. The development of IT, ICV and eventually IV injection procedures will need much higher
+vector doses and will raise the question of immune reactions. Following IV delivery, systemic
+exposure to high doses of AAV vectors can trigger the activation of CD8+ T-cell responses directed
+against the viral capsid in a dose-dependent manner as observed in hemophilia clinical trials149. Many
+approaches are currently developed to address this crucial issue, immunological modulation in
+patients, de-targeting vectors using specific promoters and miRNA sequences150-154 and induction of
+immune tolerance155-157.
+Improved efficacy of AAV vectors will benefit from the characterization of new serotypes that
+progressively emerge from the screening of AAV capsid libraries developed by DNA shuffling of
+existing AAV capsid genes89, 158-160. This should allow to design customized tools, targeted to specific
+brain regions and for specific cell types. Intravenous delivery remains imperfect by the limited
+efficacy of AAV vectors to cross the BBB. The development of new tools to transiently increase
+permeability of the BBB and of new serotypes with higher crossing capacity90-92 will undoubtedly
+modify further strategies for safe and efficient CNS gene delivery. However, this will raise the
+consequent and challenging question on the capacity to produce sufficient amounts of vectors for
+future clinical applications in a large number of patients 161.
+
+Page 22 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+22
+
+References
+
+1.
+Choudhury SR, Hudry E, Maguire CA et al. Viral vectors for therapy of neurologic diseases.
+Neuropharmacology 2016.
+2.
+Hadaczek P, Eberling JL, Pivirotto P et al. Eight years of clinical improvement in MPTPlesioned primates after gene therapy with AAV2-hAADC. Mol Ther 2010;18:1458-1461.
+3.
+Mingozzi F, High KA. Therapeutic in vivo gene transfer for genetic disease using AAV: progress
+and challenges. Nat Rev Genet 2011;12:341-355.
+4.
+Rabinowitz JE, Rolling F, Li C et al. Cross-packaging of a single adeno-associated virus (AAV)
+type 2 vector genome into multiple AAV serotypes enables transduction with broad specificity. J Virol
+2002;76:791-801.
+5.
+Burger C, Gorbatyuk OS, Velardo MJ et al. Recombinant AAV viral vectors pseudotyped with
+viral capsids from serotypes 1, 2, and 5 display differential efficiency and cell tropism after delivery to
+different regions of the central nervous system. Mol Ther 2004;10:302-317.
+6.
+Davidson BL, Stein CS, Heth JA et al. Recombinant adeno-associated virus type 2, 4, and 5
+vectors: transduction of variant cell types and regions in the mammalian central nervous system.
+Proc Natl Acad Sci U S A 2000;97:3428-3432.
+7.
+Dodiya HB, Bjorklund T, Stansell J, 3rd et al. Differential transduction following basal ganglia
+administration of distinct pseudotyped AAV capsid serotypes in nonhuman primates. Mol Ther
+2010;18:579-587.
+8.
+Klein RL, Dayton RD, Tatom JB et al. AAV8, 9, Rh10, Rh43 vector gene transfer in the rat brain:
+effects of serotype, promoter and purification method. Mol Ther 2008;16:89-96.
+9.
+Cearley CN, Wolfe JH. Transduction characteristics of adeno-associated virus vectors
+expressing cap serotypes 7, 8, 9, and Rh10 in the mouse brain. Mol Ther 2006;13:528-537.
+10.
+Furman JL, Sama DM, Gant JC et al. Targeting astrocytes ameliorates neurologic changes in a
+mouse model of Alzheimer's disease. J Neurosci 2012;32:16129-16140.
+11.
+Lawlor PA, Bland RJ, Mouravlev A et al. Efficient gene delivery and selective transduction of
+glial cells in the mammalian brain by AAV serotypes isolated from nonhuman primates. Mol Ther
+2009;17:1692-1702.
+12.
+von Jonquieres G, Mersmann N, Klugmann CB et al. Glial promoter selectivity following AAVdelivery to the immature brain. PLoS One 2013;8:e65646.
+13.
+Weller ML, Stone IM, Goss A et al. Selective overexpression of excitatory amino acid
+transporter 2 (EAAT2) in astrocytes enhances neuroprotection from moderate but not severe
+hypoxia-ischemia. Neuroscience 2008;155:1204-1211.
+14.
+Simonato M, Bennett J, Boulis NM et al. Progress in gene therapy for neurological disorders.
+Nat Rev Neurol 2013;9:277-291.
+15.
+Leone P, Shera D, McPhee SW et al. Long-term follow-up after gene therapy for canavan
+disease. Sci Transl Med 2012;4:165ra163.
+16.
+Tardieu M, Zerah M, Husson B et al. Intracerebral administration of AAV rh.10 carrying
+human SGSH and SUMF1 cDNAs in children with MPSIIIA disease: results of a phase I/II trial. Hum
+Gene Ther 2014.
+17.
+Worgall S, Sondhi D, Hackett NR et al. Treatment of late infantile neuronal ceroid
+lipofuscinosis by CNS administration of a serotype 2 adeno-associated virus expressing CLN2 cDNA.
+Hum Gene Ther 2008;19:463-474.
+
+Page 23 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+23
+18.
+Gray SJ, Nagabhushan Kalburgi S, McCown TJ et al. Global CNS gene delivery and evasion of
+anti-AAV-neutralizing antibodies by intrathecal AAV administration in non-human primates. Gene
+Ther 2013.
+19.
+Meyer K, Ferraiuolo L, Schmelzer L et al. Improving single injection CSF delivery of AAV9mediated gene therapy for SMA: a dose-response study in mice and nonhuman primates. Mol Ther
+2015;23:477-487.
+20.
+Tse LV, Moller-Tank S, Asokan A. Strategies to circumvent humoral immunity to adenoassociated viral vectors. Expert Opin Biol Ther 2015;15:845-855.
+21.
+Bevan AK, Duque S, Foust KD et al. Systemic gene delivery in large species for targeting spinal
+cord, brain, and peripheral tissues for pediatric disorders. Mol Ther 2011;19:1971-1980.
+22.
+Foust KD, Nurre E, Montgomery CL et al. Intravascular AAV9 preferentially targets neonatal
+neurons and adult astrocytes. Nat Biotechnol 2009;27:59-65.
+23.
+Gray SJ, Matagne V, Bachaboina L et al. Preclinical differences of intravascular AAV9 delivery
+to neurons and glia: a comparative study of adult mice and nonhuman primates. Mol Ther
+2011;19:1058-1069.
+24.
+Zhang H, Yang B, Mu X et al. Several rAAV vectors efficiently cross the blood-brain barrier and
+transduce neurons and astrocytes in the neonatal mouse central nervous system. Mol Ther
+2011;19:1440-1448.
+25.
+Cox TM, Cachon-Gonzalez MB. The cellular pathology of lysosomal diseases. J Pathol
+2012;226:241-254.
+26.
+Fuller M, Meikle PJ, Hopwood JJ. Epidemiology of lysosomal storage diseases: an overview.
+2006.
+27.
+Bellettato CM, Scarpa M. Pathophysiology of neuropathic lysosomal storage disorders. J
+Inherit Metab Dis 2010;33:347-362.
+28.
+Fratantoni JC, Hall CW, Neufeld EF. Hurler and Hunter syndromes: mutual correction of the
+defect in cultured fibroblasts. Science 1968;162:570-572.
+29.
+Chen F, Vitry S, Hocquemiller M et al. alpha-L-Iduronidase transport in neurites. Mol Genet
+Metab 2006;87:349-358.
+30.
+Leinekugel P, Michel S, Conzelmann E et al. Quantitative correlation between the residual
+activity of beta-hexosaminidase A and arylsulfatase A and the severity of the resulting lysosomal
+storage disease. Hum Genet 1992;88:513-523.
+31.
+Hemsley KM, Hopwood JJ. Lessons learnt from animal models: pathophysiology of
+neuropathic lysosomal storage disorders. J Inherit Metab Dis 2010;33:363-371.
+32.
+Salegio EA, Samaranch L, Kells AP et al. Axonal transport of adeno-associated viral vectors is
+serotype-dependent. Gene Ther 2012.
+33.
+Rosenberg JB, Sondhi D, Rubin DG et al. Comparative Efficacy and Safety of Multiple Routes
+of Direct CNS Administration of Adeno-Associated Virus Gene Transfer Vector Serotype rh.10
+Expressing the Human Arylsulfatase A cDNA to Nonhuman Primates. Hum Gene Ther Clin Dev
+2014;25:164-177.
+34.
+Treleaven CM, Tamsett TJ, Bu J et al. Gene transfer to the CNS is efficacious in immuneprimed mice harboring physiologically relevant titers of anti-AAV antibodies. Mol Ther 2012;20:17131723.
+35.
+Cressant A, Desmaris N, Verot L et al. Improved behavior and neuropathology in the mouse
+model of Sanfilippo type IIIB disease after adeno-associated virus-mediated gene transfer in the
+striatum. J Neurosci 2004;24:10229-10239.
+36.
+Desmaris N, Verot L, Puech JP et al. Prevention of neuropathology in the mouse model of
+Hurler syndrome. Ann Neurol 2004;56:68-76.
+37.
+Ellinwood NM, Ausseil J, Desmaris N et al. Safe, Efficient, and Reproducible Gene Therapy of
+the Brain in the Dog Models of Sanfilippo and Hurler Syndromes. Mol Ther 2010.
+38.
+Baek RC, Broekman ML, Leroy SG et al. AAV-mediated gene delivery in adult GM1gangliosidosis mice corrects lysosomal storage in CNS and improves survival. PLoS One
+2010;5:e13468.
+
+Page 24 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+24
+39.
+McCurdy VJ, Johnson AK, Gray-Edwards HL et al. Sustained normalization of neurological
+disease after intracranial gene therapy in a feline model. Sci Transl Med 2014;6:231ra248.
+40.
+Janson C, McPhee S, Bilaniuk L et al. Clinical protocol. Gene therapy of Canavan disease: AAV2 vector for neurosurgical delivery of aspartoacylase gene (ASPA) to the human brain. Hum Gene
+Ther 2002;13:1391-1412.
+41.
+McPhee SW, Janson CG, Li C et al. Immune responses to AAV in a phase I study for Canavan
+disease. J Gene Med 2006;8:577-588.
+42.
+Passini MA, Watson DJ, Vite CH et al. Intraventricular brain injection of adeno-associated
+virus type 1 (AAV1) in neonatal mice results in complementary patterns of neuronal transduction to
+AAV2 and total long-term correction of storage lesions in the brains of beta-glucuronidase-deficient
+mice. J Virol 2003;77:7034-7040.
+43.
+Broekman ML, Baek RC, Comer LA et al. Complete correction of enzymatic deficiency and
+neurochemistry in the GM1-gangliosidosis mouse brain by neonatal adeno-associated virus-mediated
+gene delivery. Mol Ther 2007;15:30-37.
+44.
+Rafi MA, Zhi Rao H, Passini MA et al. AAV-mediated expression of galactocerebrosidase in
+brain results in attenuated symptoms and extended life span in murine models of globoid cell
+leukodystrophy. Mol Ther 2005;11:734-744.
+45.
+Fraldi A, Hemsley K, Crawley A et al. Functional correction of CNS lesions in an MPS-IIIA
+mouse model by intracerebral AAV-mediated delivery of sulfamidase and SUMF1 genes. Hum Mol
+Genet 2007;16:2693-2702.
+46.
+Liu G, Martins I, Wemmie JA et al. Functional correction of CNS phenotypes in a lysosomal
+storage disease model using adeno-associated virus type 4 vectors. J Neurosci 2005;25:9321-9327.
+47.
+Katz ML, Tecedor L, Chen Y et al. AAV gene transfer delays disease onset in a TPP1-deficient
+canine model of the late infantile form of Batten disease. Sci Transl Med 2015;7:313ra180.
+48.
+Chauhan AN, Lewis PD. A quantitative study of cell proliferation in ependyma and choroid
+plexus in the postnatal rat brain. Neuropathol Appl Neurobiol 1979;5:303-309.
+49.
+Haurigot V, Marco S, Ribera A et al. Whole body correction of mucopolysaccharidosis IIIA by
+intracerebrospinal fluid gene therapy. J Clin Invest 2013.
+50.
+Ribera A, Haurigot V, Garcia M et al. Biochemical, histological and functional correction of
+mucopolysaccharidosis type IIIB by intra-cerebrospinal fluid gene therapy. Hum Mol Genet
+2015;24:2078-2095.
+51.
+Yoon SY, Bagel JH, O'Donnell PA et al. Clinical Improvement of Alpha-mannosidosis Cat
+Following a Single Cisterna Magna Infusion of AAV1. Mol Ther 2016;24:26-33.
+52.
+Gurda BL, De Guilhem De Lataillade A, Bell P et al. Evaluation of AAV-mediated Gene Therapy
+for Central Nervous System Disease in Canine Mucopolysaccharidosis VII. Mol Ther 2015.
+53.
+Hinderer C, Bell P, Gurda BL et al. Intrathecal Gene Therapy Corrects CNS Pathology in a
+Feline Model of Mucopolysaccharidosis I. Mol Ther 2014.
+54.
+Elliger SS, Elliger CA, Aguilar CP et al. Elimination of lysosomal storage in brains of MPS VII
+mice treated by intrathecal administration of an adeno-associated virus vector. Gene Ther
+1999;6:1175-1178.
+55.
+Watson G, Bastacky J, Belichenko P et al. Intrathecal administration of AAV vectors for the
+treatment of lysosomal storage in the brains of MPS I mice. Gene Ther 2006;13:917-925.
+56.
+Yang B, Li S, Wang H et al. Global CNS transduction of adult mice by intravenously delivered
+rAAVrh.8 and rAAVrh.10 and nonhuman primates by rAAVrh.10. Mol Ther 2014;22:1299-1309.
+57.
+Miyake N, Miyake K, Asakawa N et al. Long-term correction of biochemical and neurological
+abnormalities in MLD mice model by neonatal systemic injection of an AAV serotype 9 vector. Gene
+Ther 2014;21:427-433.
+58.
+Rafi MA, Rao HZ, Luzi P et al. Intravenous injection of AAVrh10-GALC after the neonatal
+period in twitcher mice results in significant expression in the central and peripheral nervous systems
+and improvement of clinical features. Mol Genet Metab 2015;114:459-466.
+
+Page 25 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+25
+59.
+Naughton BJ, Duncan FJ, Murrey D et al. Amyloidosis, Synucleinopathy, and Prion
+Encephalopathy in a Neuropathic Lysosomal Storage Disease: The CNS-Biomarker Potential of
+Peripheral Blood. PLoS One 2013;8:e80142.
+60.
+Ruzo A, Marco S, Garcia M et al. Correction of pathological accumulation of
+glycosaminoglycans in CNS and peripheral tissues of MPSIIIA mice through systemic AAV9 gene
+transfer. Hum Gene Ther 2012.
+61.
+Weismann CM, Ferreira J, Keeler AM et al. Systemic AAV9 gene transfer in adult GM1
+gangliosidosis mice reduces lysosomal storage in CNS and extends lifespan. Hum Mol Genet 2015.
+62.
+Walia JS, Altaleb N, Bello A et al. Long-term correction of sandhoff disease following
+intravenous delivery of rAAV9 to mouse neonates. Mol Ther 2015;23:414-422.
+63.
+Chen YH, Claflin K, Geoghegan JC et al. Sialic Acid Deposition Impairs the Utility of AAV9, but
+Not Peptide-modified AAVs for Brain Gene Therapy in a Mouse Model of Lysosomal Storage Disease.
+Mol Ther 2012.
+64.
+Hardy J, Allsop D. Amyloid deposition as the central event in the aetiology of Alzheimer's
+disease. Trends Pharmacol Sci 1991;12:383-388.
+65.
+Hardy J, Bogdanovic N, Winblad B et al. Pathways to Alzheimer's disease. J Intern Med
+2014;275:296-303.
+66.
+Selkoe DJ. Alzheimer's disease: genes, proteins, and therapy. Physiol Rev 2001;81:741-766.
+67.
+Miners JS, Barua N, Kehoe PG et al. Abeta-degrading enzymes: potential for treatment of
+Alzheimer disease. J Neuropathol Exp Neurol 2011;70:944-959.
+68.
+Carty N, Nash KR, Brownlow M et al. Intracranial injection of AAV expressing NEP but not IDE
+reduces amyloid pathology in APP+PS1 transgenic mice. PLoS One 2013;8:e59626.
+69.
+Carty NC, Nash K, Lee D et al. Adeno-associated viral (AAV) serotype 5 vector mediated gene
+delivery of endothelin-converting enzyme reduces Abeta deposits in APP + PS1 transgenic mice. Mol
+Ther 2008;16:1580-1586.
+70.
+Fukuchi K, Tahara K, Kim HD et al. Anti-Abeta single-chain antibody delivery via adenoassociated virus for treatment of Alzheimer's disease. Neurobiol Dis 2006;23:502-511.
+71.
+Zhang YW, Thompson R, Zhang H et al. APP processing in Alzheimer's disease. Mol Brain
+2011;4:3.
+72.
+Weyer SW, Zagrebelsky M, Herrmann U et al. Comparative analysis of single and combined
+APP/APLP knockouts reveals reduced spine density in APP-KO mice that is prevented by APPsalpha
+expression. Acta Neuropathol Commun 2014;2:36.
+73.
+Endres K, Fahrenholz F. Regulation of alpha-secretase ADAM10 expression and activity. Exp
+Brain Res 2012;217:343-352.
+74.
+Fahrenholz F. Alpha-secretase as a therapeutic target. Curr Alzheimer Res 2007;4:412-417.
+75.
+Deng J, Habib A, Obregon DF et al. Soluble amyloid precursor protein alpha inhibits tau
+phosphorylation through modulation of GSK3beta signaling pathway. J Neurochem 2015;135:630637.
+76.
+Fol R, Braudeau J, Ludewig S et al. Viral gene transfer of APPsalpha rescues synaptic failure in
+an Alzheimer's disease mouse model. Acta Neuropathol 2015.
+77.
+Malkki H. Alzheimer disease: NGF gene therapy activates neurons in the AD patient brain.
+Nat Rev Neurol 2015;11:548.
+78.
+Kordower JH, Winn SR, Liu YT et al. The aged monkey basal forebrain: rescue and sprouting of
+axotomized basal forebrain neurons after grafts of encapsulated cells secreting human nerve growth
+factor. Proc Natl Acad Sci U S A 1994;91:10898-10902.
+79.
+Rafii MS, Baumann TL, Bakay RA et al. A phase1 study of stereotactic gene delivery of AAV2NGF for Alzheimer's disease. Alzheimers Dement 2014;10:571-581.
+80.
+Tuszynski MH, Yang JH, Barba D et al. Nerve Growth Factor Gene Therapy: Activation of
+Neuronal Responses in Alzheimer Disease. JAMA Neurol 2015;72:1139-1147.
+81.
+Pascual-Lucas M, Viana da Silva S, Di Scala M et al. Insulin-like growth factor 2 reverses
+memory and synaptic deficits in APP transgenic mice. EMBO Mol Med 2014;6:1246-1262.
+
+Page 26 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+26
+82.
+Kiyota T, Ingraham KL, Swan RJ et al. AAV serotype 2/1-mediated gene delivery of antiinflammatory interleukin-10 enhances neurogenesis and cognitive function in APP+PS1 mice. Gene
+Ther 2012;19:724-733.
+83.
+Kiyota T, Okuyama S, Swan RJ et al. CNS expression of anti-inflammatory cytokine interleukin4 attenuates Alzheimer's disease-like pathogenesis in APP+PS1 bigenic mice. FASEB J 2010;24:30933102.
+84.
+Spinney L. Alzheimer's disease: The forgetting gene. Nature 2014;510:26-28.
+85.
+Hudry E, Dashkoff J, Roe AD et al. Gene transfer of human Apoe isoforms results in
+differential modulation of amyloid deposition and neurotoxicity in mouse brain. Sci Transl Med
+2013;5:212ra161.
+86.
+Ghribi O. Potential mechanisms linking cholesterol to Alzheimer's disease-like pathology in
+rabbit brain, hippocampal organotypic slices, and skeletal muscle. J Alzheimers Dis 2008;15:673-684.
+87.
+Hudry E, Van Dam D, Kulik W et al. Adeno-associated virus gene therapy with cholesterol 24hydroxylase reduces the amyloid pathology before or after the onset of amyloid plaques in mouse
+models of Alzheimer's disease. Mol Ther 2010;18:44-53.
+88.
+Burlot MA, Braudeau J, Michaelsen-Preusse K et al. Cholesterol 24-hydroxylase defect is
+implicated in memory impairments associated with Alzheimer-like Tau pathology. Hum Mol Genet
+2015;24:5965-5976.
+89.
+Castle MJ, Turunen HT, Vandenberghe LH et al. Controlling AAV Tropism in the Nervous
+System with Natural and Engineered Capsids. Methods Mol Biol 2016;1382:133-149.
+90.
+Deverman BE, Pravdo PL, Simpson BP et al. Cre-dependent selection yields AAV variants for
+widespread gene transfer to the adult brain. Nat Biotechnol 2016;34:204-209.
+91.
+Choudhury SR, Fitzpatrick Z, Harris AF et al. In vivo selection yields AAV-B1 capsid for CNS and
+muscle gene therapy. Mol Ther 2016.
+92.
+Choudhury SR, Harris AF, Cabral DJ et al. Widespread Central Nervous System Gene Transfer
+and Silencing After Systemic Delivery of Novel AAV-AS Vector. Mol Ther 2015.
+93.
+Rocha EM, Smith GA, Park E et al. Glucocerebrosidase gene therapy prevents alphasynucleinopathy of midbrain dopamine neurons. Neurobiol Dis 2015;82:495-503.
+94.
+Oh SM, Chang MY, Song JJ et al. Combined Nurr1 and Foxa2 roles in the therapy of
+Parkinson's disease. EMBO Mol Med 2015;7:510-525.
+95.
+Kearns CM, Gash DM. GDNF protects nigral dopamine neurons against 6-hydroxydopamine in
+vivo. Brain Res 1995;672:104-111.
+96.
+Kirik D, Rosenblad C, Burger C et al. Parkinson-like neurodegeneration induced by targeted
+overexpression of alpha-synuclein in the nigrostriatal system. J Neurosci 2002;22:2780-2791.
+97.
+Sanftner LM, Sommer JM, Suzuki BM et al. AAV2-mediated gene delivery to monkey
+putamen: evaluation of an infusion device and delivery parameters. Exp Neurol 2005;194:476-483.
+98.
+Eslamboli A, Cummings RM, Ridley RM et al. Recombinant adeno-associated viral vector
+(rAAV) delivery of GDNF provides protection against 6-OHDA lesion in the common marmoset
+monkey (Callithrix jacchus). Exp Neurol 2003;184:536-548.
+99.
+Johnston LC, Eberling J, Pivirotto P et al. Clinically relevant effects of convection-enhanced
+delivery of AAV2-GDNF on the dopaminergic nigrostriatal pathway in aged rhesus monkeys. Hum
+Gene Ther 2009;20:497-510.
+100. Kells AP, Eberling J, Su X et al. Regeneration of the MPTP-lesioned dopaminergic system after
+convection-enhanced delivery of AAV2-GDNF. J Neurosci 2010;30:9567-9577.
+101. Forsayeth JR, Eberling JL, Sanftner LM et al. A dose-ranging study of AAV-hAADC therapy in
+Parkinsonian monkeys. Mol Ther 2006;14:571-577.
+102. Gasmi M, Brandon EP, Herzog CD et al. AAV2-mediated delivery of human neurturin to the
+rat nigrostriatal system: long-term efficacy and tolerability of CERE-120 for Parkinson's disease.
+Neurobiol Dis 2007;27:67-76.
+103. Herzog CD, Dass B, Holden JE et al. Striatal delivery of CERE-120, an AAV2 vector encoding
+human neurturin, enhances activity of the dopaminergic nigrostriatal system in aged monkeys. Mov
+Disord 2007;22:1124-1132.
+
+Page 27 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+27
+104. Marks WJ, Jr., Baumann TL, Bartus RT. Long-Term Safety of Patients with Parkinson's Disease
+Receiving rAAV2-Neurturin (CERE-120) Gene Transfer. Hum Gene Ther 2016.
+105. Herzog CD, Brown L, Kruegel BR et al. Enhanced neurotrophic distribution, cell signaling and
+neuroprotection following substantia nigral versus striatal delivery of AAV2-NRTN (CERE-120).
+Neurobiol Dis 2013;58:38-48.
+106. Marks WJ, Jr., Bartus RT, Siffert J et al. Gene delivery of AAV2-neurturin for Parkinson's
+disease: a double-blind, randomised, controlled trial. Lancet Neurol 2010;9:1164-1172.
+107. Vonsattel JP, DiFiglia M. Huntington disease. J Neuropathol Exp Neurol 1998;57:369-384.
+108. Vonsattel JP, Myers RH, Stevens TJ et al. Neuropathological classification of Huntington's
+disease. J Neuropathol Exp Neurol 1985;44:559-577.
+109. Kells AP, Henry RA, Connor B. AAV-BDNF mediated attenuation of quinolinic acid-induced
+neuropathology and motor function impairment. Gene Ther 2008;15:966-977.
+110. Benraiss A, Toner MJ, Xu Q et al. Sustained mobilization of endogenous neural progenitors
+delays disease progression in a transgenic model of Huntington's disease. Cell Stem Cell 2013;12:787799.
+111. McBride JL, During MJ, Wuu J et al. Structural and functional neuroprotection in a rat model
+of Huntington's disease by viral gene transfer of GDNF. Exp Neurol 2003;181:213-223.
+112. McBride JL, Ramaswamy S, Gasmi M et al. Viral delivery of glial cell line-derived neurotrophic
+factor improves behavior and protects striatal neurons in a mouse model of Huntington's disease.
+Proc Natl Acad Sci U S A 2006;103:9345-9350.
+113. Ramaswamy S, McBride JL, Han I et al. Intrastriatal CERE-120 (AAV-Neurturin) protects
+striatal and cortical neurons and delays motor deficits in a transgenic mouse model of Huntington's
+disease. Neurobiol Dis 2009;34:40-50.
+114. Denovan-Wright EM, Attis M, Rodriguez-Lebron E et al. Sustained striatal ciliary neurotrophic
+factor expression negatively affects behavior and gene expression in normal and R6/1 mice. J
+Neurosci Res 2008;86:1748-1757.
+115. Franich NR, Fitzsimons HL, Fong DM et al. AAV vector-mediated RNAi of mutant huntingtin
+expression is neuroprotective in a novel genetic rat model of Huntington's disease. Mol Ther
+2008;16:947-956.
+116. Harper SQ, Staber PD, He X et al. RNA interference improves motor and neuropathological
+abnormalities in a Huntington's disease mouse model. Proc Natl Acad Sci U S A 2005;102:5820-5825.
+117. Stanek LM, Sardi SP, Mastis B et al. Silencing mutant huntingtin by adeno-associated virusmediated RNA interference ameliorates disease manifestations in the YAC128 mouse model of
+Huntington's disease. Hum Gene Ther 2014;25:461-474.
+118. McBride JL, Boudreau RL, Harper SQ et al. Artificial miRNAs mitigate shRNA-mediated toxicity
+in the brain: implications for the therapeutic development of RNAi. Proc Natl Acad Sci U S A
+2008;105:5868-5873.
+119. Garriga-Canut M, Agustin-Pavon C, Herrmann F et al. Synthetic zinc finger repressors reduce
+mutant huntingtin expression in the brain of R6/2 mice. Proc Natl Acad Sci U S A 2012;109:E31363145.
+120. Boussicault L, Alves S, Lamaziere A et al. CYP46A1, the rate-limiting enzyme for cholesterol
+degradation, is neuroprotective in Huntington's disease. Brain 2016;139:953-970.
+121. Kunst CB. Complex genetics of amyotrophic lateral sclerosis. Am J Hum Genet 2004;75:933947.
+122. Higgins CM, Jung C, Xu Z. ALS-associated mutant SOD1G93A causes mitochondrial
+vacuolation by expansion of the intermembrane space and by involvement of SOD1 aggregation and
+peroxisomes. BMC Neurosci 2003;4:16.
+123. Kaspar BK, Llado J, Sherkat N et al. Retrograde viral delivery of IGF-1 prolongs survival in a
+mouse ALS model. Science 2003;301:839-842.
+124. Lepore AC, Haenggeli C, Gasmi M et al. Intraparenchymal spinal cord delivery of adenoassociated virus IGF-1 is protective in the SOD1G93A model of ALS. Brain Res 2007;1185:256-265.
+
+Page 28 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+28
+125. Dodge JC, Haidet AM, Yang W et al. Delivery of AAV-IGF-1 to the CNS extends survival in ALS
+mice through modification of aberrant glial cell activity. Mol Ther 2008;16:1056-1064.
+126. Dodge JC, Treleaven CM, Fidler JA et al. AAV4-mediated expression of IGF-1 and VEGF within
+cellular components of the ventricular system improves survival outcome in familial ALS mice. Mol
+Ther 2010;18:2075-2084.
+127. Dirren E, Aebischer J, Rochat C et al. SOD1 silencing in motoneurons or glia rescues
+neuromuscular function in ALS mice. Ann Clin Transl Neurol 2015;2:167-184.
+128. Ayers JI, Fromholt S, Sinyavskaya O et al. Widespread and efficient transduction of spinal cord
+and brain following neonatal AAV injection and potential disease modifying effect in ALS mice. Mol
+Ther 2015;23:53-62.
+129. Aizawa H, Sawada J, Hideyama T et al. TDP-43 pathology in sporadic ALS occurs in motor
+neurons lacking the RNA editing enzyme ADAR2. Acta Neuropathol 2010;120:75-84.
+130. Yamashita T, Chai HL, Teramoto S et al. Rescue of amyotrophic lateral sclerosis phenotype in
+a mouse model by intravenous AAV9-ADAR2 delivery to motor neurons. EMBO Mol Med
+2013;5:1710-1719.
+131. Foust KD, Wang X, McGovern VL et al. Rescue of the spinal muscular atrophy phenotype in a
+mouse model by early postnatal delivery of SMN. Nat Biotechnol 2010;28:271-274.
+132. Passini MA, Bu J, Roskelley EM et al. CNS-targeted gene therapy improves survival and motor
+function in a mouse model of spinal muscular atrophy. J Clin Invest 2010;120:1253-1264.
+133. Valori CF, Ning K, Wyles M et al. Systemic delivery of scAAV9 expressing SMN prolongs
+survival in a model of spinal muscular atrophy. Sci Transl Med 2010;2:35ra42.
+134. Dominguez E, Marais T, Chatauret N et al. Intravenous scAAV9 delivery of a codon-optimized
+SMN1 sequence rescues SMA mice. Hum Mol Genet 2011;20:681-693.
+135. Nizzardo M, Simone C, Rizzo F et al. Gene therapy rescues disease phenotype in a spinal
+muscular atrophy with respiratory distress type 1 (SMARD1) mouse model. Sci Adv 2015;1:e1500078.
+136. Passini MA, Bu J, Richards AM et al. Translational fidelity of intrathecal delivery of selfcomplementary AAV9-survival motor neuron 1 for spinal muscular atrophy. Hum Gene Ther
+2014;25:619-630.
+137. Galanopoulou AS, Buckmaster PS, Staley KJ et al. Identification of new epilepsy treatments:
+issues in preclinical methodology. Epilepsia 2012;53:571-582.
+138. Richichi C, Lin EJ, Stefanin D et al. Anticonvulsant and antiepileptogenic effects mediated by
+adeno-associated virus vector neuropeptide Y expression in the rat hippocampus. J Neurosci
+2004;24:3051-3059.
+139. Foti S, Haberman RP, Samulski RJ et al. Adeno-associated virus-mediated expression and
+constitutive secretion of NPY or NPY13-36 suppresses seizure activity in vivo. Gene Ther
+2007;14:1534-1536.
+140. Noe F, Vaghi V, Balducci C et al. Anticonvulsant effects and behavioural outcomes of rAAV
+serotype 1 vector-mediated neuropeptide Y overexpression in rat hippocampus. Gene Ther
+2010;17:643-652.
+141. Haberman RP, Samulski RJ, McCown TJ. Attenuation of seizures and neuronal death by
+adeno-associated virus vector galanin expression and secretion. Nat Med 2003;9:1076-1080.
+142. Kanter-Schlifke I, Georgievska B, Kirik D et al. Seizure suppression by GDNF gene therapy in
+animal models of epilepsy. Mol Ther 2007;15:1106-1113.
+143. Theofilas P, Brar S, Stewart KA et al. Adenosine kinase as a target for therapeutic antisense
+strategies in epilepsy. Epilepsia 2011;52:589-601.
+144. Eaton MJ, Blits B, Ruitenberg MJ et al. Amelioration of chronic neuropathic pain after partial
+nerve injury by adeno-associated viral (AAV) vector-mediated over-expression of BDNF in the rat
+spinal cord. Gene Ther 2002;9:1387-1395.
+145. Fischer G, Pan B, Vilceanu D et al. Sustained relief of neuropathic pain by AAV-targeted
+expression of CBD3 peptide in rat dorsal root ganglion. Gene Ther 2014;21:44-51.
+146. Samad OA, Tan AM, Cheng X et al. Virus-mediated shRNA knockdown of Na(v)1.3 in rat dorsal
+root ganglion attenuates nerve injury-induced neuropathic pain. Mol Ther 2013;21:49-56.
+
+Page 29 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+29
+147. Tan AM, Samad OA, Dib-Hajj SD et al. Virus-Mediated Knockdown of Nav1.3 in Dorsal Root
+Ganglia of STZ-Induced Diabetic Rats Alleviates Tactile Allodynia. Mol Med 2015;21:544-552.
+148. Hirai T, Enomoto M, Kaburagi H et al. Intrathecal AAV serotype 9-mediated delivery of shRNA
+against TRPV1 attenuates thermal hyperalgesia in a mouse model of peripheral nerve injury. Mol
+Ther 2014;22:409-419.
+149. Mingozzi F, High KA. Immune responses to AAV in clinical trials. Curr Gene Ther 2011;11:321330.
+150. Borel F, Kay MA, Mueller C. Recombinant AAV as a platform for translating the therapeutic
+potential of RNA interference. Mol Ther 2014;22:692-701.
+151. Geisler A, Jungmann A, Kurreck J et al. microRNA122-regulated transgene expression
+increases specificity of cardiac gene transfer upon intravenous delivery of AAV9 vectors. Gene Ther
+2011;18:199-209.
+152. Majowicz A, Maczuga P, Kwikkers KL et al. Mir-142-3p target sequences reduce transgenedirected immunogenicity following intramuscular adeno-associated virus 1 vector-mediated gene
+delivery. J Gene Med 2013;15:219-232.
+153. Qiao C, Yuan Z, Li J et al. Liver-specific microRNA-122 target sequences incorporated in AAV
+vectors efficiently inhibits transgene expression in the liver. Gene Ther 2011;18:403-410.
+154. Xie J, Xie Q, Zhang H et al. MicroRNA-regulated, systemically delivered rAAV9: a step closer to
+CNS-restricted transgene expression. Mol Ther 2011;19:526-535.
+155. Doerfler PA, Todd AG, Clement N et al. Copackaged AAV9 Vectors Promote Simultaneous
+Immune Tolerance and Phenotypic Correction of Pompe Disease. Hum Gene Ther 2016;27:43-59.
+156. Hinderer C, Bell P, Louboutin JP et al. Neonatal Systemic AAV Induces Tolerance to CNS Gene
+Therapy in MPS I Dogs and Nonhuman Primates. Mol Ther 2015;23:1298-1307.
+157. Mingozzi F, Buning H. Adeno-Associated Viral Vectors at the Frontier between Tolerance and
+Immunity. Front Immunol 2015;6:120.
+158. Grimm D, Lee JS, Wang L et al. In vitro and in vivo gene therapy vector evolution via
+multispecies interbreeding and retargeting of adeno-associated viruses. J Virol 2008;82:5887-5911.
+159. Koerber JT, Jang JH, Schaffer DV. DNA shuffling of adeno-associated virus yields functionally
+diverse viral progeny. Mol Ther 2008;16:1703-1709.
+160. Maheshri N, Koerber JT, Kaspar BK et al. Directed evolution of adeno-associated virus yields
+enhanced gene delivery vectors. Nat Biotechnol 2006;24:198-204.
+161. Grieger JC, Samulski RJ. Adeno-associated virus vectorology, manufacturing, and clinical
+applications. Methods Enzymol 2012;507:229-254.
+162. LeWitt PA, Rezai AR, Leehey MA et al. AAV2-GAD gene therapy for advanced Parkinson's
+disease: a double-blind, sham-surgery controlled, randomised trial. Lancet Neurol 2011;10:309-319.
+163. Mittermeyer G, Christine CW, Rosenbluth KH et al. Long-term evaluation of a phase 1 study
+of AADC gene therapy for Parkinson's disease. Hum Gene Ther 2012;23:377-381.
+164. Marks WJ, Jr., Ostrem JL, Verhagen L et al. Safety and tolerability of intraputaminal delivery
+of CERE-120 (adeno-associated virus serotype 2-neurturin) to patients with idiopathic Parkinson's
+disease: an open-label, phase I trial. Lancet Neurol 2008;7:400-408.
+165. Bartus RT, Baumann TL, Siffert J et al. Safety/feasibility of targeting the substantia nigra with
+AAV2-neurturin in Parkinson patients. Neurology 2013;80:1698-1701.
+166. Broekman ML, Tierney LA, Benn C et al. Mechanisms of distribution of mouse betagalactosidase in the adult GM1-gangliosidosis brain. Gene Ther 2009;16:303-308.
+167. Sargeant TJ, Wang S, Bradley J et al. Adeno-associated virus-mediated expression of betahexosaminidase prevents neuronal loss in the Sandhoff mouse brain. Hum Mol Genet 2011;20:43714380.
+168. Lin D, Fantz CR, Levy B et al. AAV2/5 vector expressing galactocerebrosidase ameliorates CNS
+disease in the murine model of globoid-cell leukodystrophy more efficiently than AAV2. Mol Ther
+2005;12:422-430.
+
+Page 30 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+30
+169. Macauley SL, Wong AM, Shyng C et al. An Anti-Neuroinflammatory That Targets Dysregulated
+Glia Enhances the Efficacy of CNS-Directed Gene Therapy in Murine Infantile Neuronal Ceroid
+Lipofuscinosis. J Neurosci 2014;34:13077-13082.
+170. Sondhi D, Scott EC, Chen A et al. Partial correction of the CNS lysosomal storage defect in a
+mouse model of juvenile neuronal ceroid lipofuscinosis by neonatal CNS administration of an adenoassociated virus serotype rh.10 vector expressing the human CLN3 gene. Hum Gene Ther
+2014;25:223-239.
+171. Passini MA, Dodge JC, Bu J et al. Intracranial delivery of CLN2 reduces brain pathology in a
+mouse model of classical late infantile neuronal ceroid lipofuscinosis. J Neurosci 2006;26:1334-1342.
+172. Winner LK, Beard H, Hassiotis S et al. A pre-clinical study evaluating AAVrh10-based gene
+therapy for Sanfilippo syndrome. Hum Gene Ther 2016.
+173. Heldermon CD, Ohlemiller KK, Herzog ED et al. Therapeutic efficacy of bone marrow
+transplant, intracranial AAV-mediated gene therapy, or both in the mouse model of MPS IIIB. Mol
+Ther 2010;18:873-880.
+174. Heldermon CD, Qin EY, Ohlemiller KK et al. Disease correction by combined neonatal
+intracranial AAV and systemic lentiviral gene therapy in Sanfilippo Syndrome type B mice. Gene Ther
+2013.
+175. Liu G, Chen YH, He X et al. Adeno-associated virus type 5 reduces learning deficits and
+restores glutamate receptor subunit levels in MPS VII mice CNS. Mol Ther 2007;15:242-247.
+176. Cearley CN, Wolfe JH. A single injection of an adeno-associated virus vector into nuclei with
+divergent connections results in widespread vector distribution in the brain and global correction of a
+neurogenetic disease. J Neurosci 2007;27:9928-9940.
+177. Piguet F, Sondhi D, Piraud M et al. Correction of Brain Oligodendrocytes by AAVrh.10
+Intracerebral Gene Therapy in Metachromatic Leukodystrophy Mice. Hum Gene Ther 2012;23:903914.
+178. Passini MA, Bu J, Fidler JA et al. Combination brain and systemic injections of AAV provide
+maximal functional and survival benefits in the Niemann-Pick mouse. Proc Natl Acad Sci U S A
+2007;104:9505-9510.
+179. Bradbury AM, Cochran JN, McCurdy VJ et al. Therapeutic Response in Feline Sandhoff Disease
+Despite Immunity to Intracranial Gene Therapy. Mol Ther 2013.
+180. Colle MA, Piguet F, Bertrand L et al. Efficient intracerebral delivery of AAV5 vector encoding
+human ARSA in non-human primate. Hum Mol Genet 2010;19:147-158.
+181. Zerah M, Piguet F, Colle MA et al. Intracerebral gene therapy using AAVrh.10-hARSA
+recombinant vector to treat patients with early-onset forms of metachromatic leukodystrophy:
+preclinical feasibility and safety assessments in non-human primates. Hum Gene Ther Clin Dev 2015.
+182. Sondhi D, Johnson L, De B et al. Long Term Expression and Safety of Administration of
+AAVrh.10hCLN2 to the Brain of Rats and Non-human Primates for the Treatment of Late Infantile
+Neuronal Lipofuscinosis. Hum Gene Ther Methods 2012.
+183. Ciron C, Cressant A, Roux F et al. Human alpha-iduronidase gene transfer mediated by adenoassociated virus types 1, 2, and 5 in the brain of nonhuman primates: vector diffusion and
+biodistribution. Hum Gene Ther 2009;20:350-360.
+184. Wolf DA, Lenander AW, Nan Z et al. Direct gene transfer to the CNS prevents emergence of
+neurologic disease in a murine model of mucopolysaccharidosis type I. Neurobiol Dis 2011;43:123133.
+185. Fu H, DiRosario J, Kang L et al. Restoration of central nervous system alpha-Nacetylglucosaminidase activity and therapeutic benefits in mucopolysaccharidosis IIIB mice by a
+single intracisternal recombinant adeno-associated viral type 2 vector delivery. J Gene Med
+2010;12:624-633.
+186. Hironaka K, Yamazaki Y, Hirai Y et al. Enzyme replacement in the CSF to treat metachromatic
+leukodystrophy in mouse model using single intracerebroventricular injection of self-complementary
+AAV1 vector. Sci Rep 2015;5:13104.
+
+Page 31 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+31
+187. Yamazaki Y, Hirai Y, Miyake K et al. Targeted gene transfer into ependymal cells through
+intraventricular injection of AAV1 vector and long-term enzyme replacement via the CSF. Sci Rep
+2014;4:5506.
+188. Spampanato C, De Leonibus E, Dama P et al. Efficacy of a combined intracerebral and
+systemic gene delivery approach for the treatment of a severe lysosomal storage disorder. Mol Ther
+2011;19:860-869.
+189. Rafi MA, Rao HZ, Luzi P et al. Extended Normal Life After AAVrh10-mediated Gene Therapy in
+the Mouse Model of Krabbe Disease. Mol Ther 2012.
+190. Polito VA, Cosma MP. IDS crossing of the blood-brain barrier corrects CNS defects in MPSII
+mice. Am J Hum Genet 2009;85:296-301.
+191. Jung SC, Park ES, Choi EN et al. Characterization of a novel mucopolysaccharidosis type II
+mouse model and recombinant AAV2/8 vector-mediated gene therapy. Mol Cells 2010;30:13-18.
+192. Duncan FJ, Naughton BJ, Zaraspe K et al. Broad functional correction of molecular
+impairments by systemic delivery of scAAVrh74-hSGSH gene delivery in MPS IIIA mice. Mol Ther
+2015;23:638-647.
+193. McCarty DM, DiRosario J, Gulaid K et al. Mannitol-facilitated CNS entry of rAAV2 vector
+significantly delayed the neurological disease progression in MPS IIIB mice. Gene Ther 2009;16:13401352.
+194. Hinderer C, Bell P, Gurda BL et al. Liver-directed gene therapy corrects cardiovascular lesions
+in feline mucopolysaccharidosis type I. Proc Natl Acad Sci U S A 2014;111:14894-14899.
+195. Murrey DA, Naughton BJ, Duncan FJ et al. Feasibility and safety of systemic rAAV9-hNAGLU
+delivery for treating mucopolysaccharidosis IIIB: toxicology, biodistribution, and immunological
+assessments in primates. Hum Gene Ther Clin Dev 2014;25:72-84.
+196. Rockwell HE, McCurdy VJ, Eaton SC et al. AAV-mediated gene delivery in a feline model of
+Sandhoff disease corrects lysosomal storage in the central nervous system. ASN Neuro 2015;7.
+197. Gray-Edwards HL, Brunson BL, Holland M et al. Mucopolysaccharidosis-like phenotype in
+feline Sandhoff disease and partial correction after AAV gene therapy. Mol Genet Metab 2015.
+198. Fu H, Kang L, Jennings JS et al. Significantly increased lifespan and improved behavioral
+performances by rAAV gene delivery in adult mucopolysaccharidosis IIIB mice. Gene Ther
+2007;14:1065-1077.
+199. Elliger SS, Elliger CA, Lang C et al. Enhanced secretion and uptake of beta-glucuronidase
+improves adeno-associated viral-mediated gene therapy of mucopolysaccharidosis type VII mice. Mol
+Ther 2002;5:617-626.
+200. Kiyota T, Yamamoto M, Schroder B et al. AAV1/2-mediated CNS gene delivery of dominantnegative CCL2 mutant suppresses gliosis, beta-amyloidosis, and learning impairment of APP/PS1
+mice. Mol Ther 2009;17:803-809.
+201. Saal KA, Koch JC, Tatenhorst L et al. AAV.shRNA-mediated downregulation of ROCK2
+attenuates degeneration of dopaminergic neurons in toxin-induced models of Parkinson's disease in
+vitro and in vivo. Neurobiol Dis 2015;73:150-162.
+202. Alto LT, Chen X, Ruhn KA et al. AAV-dominant negative tumor necrosis factor (DN-TNF) gene
+transfer to the striatum does not rescue medium spiny neurons in the YAC128 mouse model of
+Huntington's disease. PLoS One 2014;9:e96544.
+203. Boudreau RL, McBride JL, Martins I et al. Nonallele-specific silencing of mutant and wild-type
+huntingtin demonstrates therapeutic efficacy in Huntington's disease mice. Mol Ther 2009;17:10531063.
+204. Connor B, Sun Y, von Hieber D et al. AAV1/2-mediated BDNF gene therapy in a transgenic rat
+model of Huntington's disease. Gene Ther 2016;23:283-295.
+205. Klein RL, Hirko AC, Meyers CA et al. NGF gene transfer to intrinsic basal forebrain neurons
+increases cholinergic cell size and protects from age-related, spatial memory deficits in middle-aged
+rats. Brain Res 2000;875:144-151.
+
+Page 32 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+32
+206. McBride JL, Pitzer MR, Boudreau RL et al. Preclinical safety of RNAi-mediated HTT
+suppression in the rhesus macaque as a potential therapy for Huntington's disease. Mol Ther
+2011;19:2152-2162.
+207. Emborg ME, Carbon M, Holden JE et al. Subthalamic glutamic acid decarboxylase gene
+therapy: changes in motor function and cortical metabolism. J Cereb Blood Flow Metab 2007;27:501509.
+208. Stoica L, Todeasa SH, Cabrera GT et al. Adeno-associated virus-delivered artificial microRNA
+extends survival and delays paralysis in an amyotrophic lateral sclerosis mouse model. Ann Neurol
+2016;79:687-700.
+209. Wang H, Yang B, Qiu L et al. Widespread spinal cord transduction by intrathecal injection of
+rAAV delivers efficacious RNAi therapy for amyotrophic lateral sclerosis. Hum Mol Genet
+2014;23:668-681.
+210. Mussche S, Devreese B, Nagabhushan Kalburgi S et al. Restoration of cytoskeleton
+homeostasis after gigaxonin gene transfer for giant axonal neuropathy. Hum Gene Ther 2013;24:209219.
+211. Borel F, Gernoux G, Cardozo B et al. Therapeutic rAAVrh10 Mediated SOD1 Silencing in Adult
+SOD1(G93A) Mice and Nonhuman Primates. Hum Gene Ther 2016;27:19-31.
+212. Dufour BD, Smith CA, Clark RL et al. Intrajugular vein delivery of AAV9-RNAi prevents
+neuropathological changes and weight loss in Huntington's disease mice. Mol Ther 2014;22:797-810.
+213. Franz CK, Federici T, Yang J et al. Intraspinal cord delivery of IGF-I mediated by adenoassociated virus 2 is neuroprotective in a rat model of familial ALS. Neurobiol Dis 2009;33:473-481.
+214. Sorensen AT, Nikitidou L, Ledri M et al. Hippocampal NPY gene transfer attenuates seizures
+without affecting epilepsy-induced impairment of LTP. Exp Neurol 2009;215:328-333.
+215. Noe F, Pool AH, Nissinen J et al. Neuropeptide Y gene therapy decreases chronic spontaneous
+seizures in a rat model of temporal lobe epilepsy. Brain 2008;131:1506-1515.
+216. Haberman R, Criswell H, Snowdy S et al. Therapeutic liabilities of in vivo viral vector tropism:
+adeno-associated virus vectors, NMDAR1 antisense, and focal seizure sensitivity. Mol Ther
+2002;6:495-500.
+217. Storek B, Reinhardt M, Wang C et al. Sensory neuron targeting by self-complementary AAV8
+via lumbar puncture for chronic pain. Proc Natl Acad Sci U S A 2008;105:1055-1060.
+
+Illustration of routes of administration targeting the CNS by direct injection into the parenchyma or
+injection into the CSF via intracerebroventricular or intrathecal (cisternal or lombar) routes.
+
+Page 33 of 39
+
+Speed 3,
+3
+Dose Volume
+IS Stat
+µL/min 5
+3
+3,6
+max vg
+µL
+us
+3
+
+3
+
+WM (n=6)
+Can
+Phase I
+WM (n=12) LINCF Phase I
+WM (n=12) LINCF Phase I/II
+WM (n=12) MPSIIIA Phase I/II
+WM(n=12)/
+MPSIIIB Phase I/II
+Cer (n=4)
+WM (n=12) MLD Phase I/II
+StN (n=2)
+Par
+Phase II
+Str (n=4)
+Par
+Phase I
+Phase
+Put (n=8)
+Par
+I&II
+Put (n=6)/
+Par Phase I/II
+SN (n=4)
+Str (n=2)
+Par
+Phase I
+Str (n=2)
+Par
+Phase I
+Put (n=4)
+Par Phase I/II
+Put (n=2)
+Par
+Phase I
+NBM
+Alz
+Phase I
+(n=4/6)
+
+11
+
+13
+11
+16
+4
+
+2
+2
+rh10
+rh10
+
+ASP
+CLN2
+CLN2
+SGSH
+
+NSE
+CAG
+CAG
+PGK
+
+9.10
+12
+12
+1,8.10 - 3,2.10
+11
+11
+2,85.10 - 9.10
+11
+7,2.10
+
+4
+
+5
+
+NAGLU
+
+PGK
+
+4.10
+
+CAG
+CAG
+CMV
+
+12
+
+5
+16
+10
+
+rh10
+2
+2
+
+70
+
+2
+
+57
+
+2
+
+24
+10
+6
+10
+
+2
+2
+NA
+2
+
+10
+
+2
+
+ARSA
+GAD
+AADC
+NTN
+(CERE-120)
+
+NTN
+(CERE-120)
+
+GDNF
+AADC
+AADC
+AADC
+NGF
+(CERE-110)
+
+NGF
+
+12
+12
+
+1.10 - 4.10
+12
+2.10
+10
+11
+9.10 - 3.10
+
+3
+
+Ref
+
+3
+
+15
+
+900
+600
+1800
+720
+
+2
+2
+2
+0,5
+
+NA
+NA
+NA
+Y
+
+C
+C
+O
+C
+
+NA
+NCT00151216
+NCT01414985
+NCT01474343
+
+960
+
+0,5
+
+Y
+
+O
+
+ISRCTN19853672
+
+NA
+
+NA
+70
+200
+
+NA NA
+0,23 NA
+1
+N
+
+O
+C
+C
+
+NCT01801709
+NCT00643890
+NCT00229736
+NCT00252850
+NCT00400634
+
+NA
+
+17
+
+NA
+16
+
+162
+163
+106,
+
+CAG
+
+1,3.10 - 5,4.10
+
+11
+
+11
+
+80
+
+2
+
+NA
+
+C
+
+CAG
+
+9,4.10 - 2.4.10
+
+11
+
+12
+
+360
+
+2/3
+
+NA
+
+O
+
+NCT00985517
+
+165
+
+NA
+NA
+3
+NA
+
+NA
+NA
+NA
+NA
+
+O
+O
+O
+O
+
+NCT01621581
+NCT01973543
+NCT02418598
+NCT01395641
+
+NA
+NA
+NA
+NA
+
+40/80
+
+2
+
+NA
+
+C
+
+NCT00087789
+
+79
+
+NA
+
+NA
+
+NA NA
+
+NCT00876863
+
+NA
+
+NA
+
+NA
+
+NA
+
+O
+
+NCT02362438
+
+NA
+
+NA
+
+NA
+
+NA
+
+O
+
+NCT02725580
+
+NA
+
+NA
+
+NA
+
+NA
+
+O
+
+NCT02122952
+
+NA
+
+NA
+
+NA
+
+NA
+
+O
+
+NCT02716246
+
+NA
+
+10
+
+12
+
+CMV
+9.10 - 3.10
+NA
+11
+12
+NA 7,5.10 - 1,5.10
+NA
+11
+11
+NA
+3.10 - 9.10
+200/600
+NA
+NA
+NA
+10
+
+CAG
+
+1,2.10 - 1,2.10
+
+CAG
+
+2.10
+
+11
+
+11
+
+NA
+
+Alz
+
+Phase II
+
+25
+
+2
+
+NA
+
+GAN
+
+Phase I
+
+20
+
+9
+
+Gigaxonin
+
+JeT
+
+NA
+
+Lom
+
+CLN6
+
+Phase I/II
+
+6
+
+9
+
+CLN6
+
+CAG
+
+1,5.10 vg/kg
+
+(CERE-110)
+
+Identifier
+
+164
+
+IT
+
+7
+
+Intraparenchymal
+
+Injection Disease Clinical Inclu- SeroPromo Dose
+1
+2
+3 Transgene
+3,4
+site
+trial
+sion type
+-ter
+min vg
+
+13
+
+13
+
+SMA I Phase I/II
+
+15
+
+9
+
+SMN
+
+CAG
+
+PeV
+
+MPSIIIA Phase I/II
+
+9
+
+9
+
+SGSH
+
+U1a
+
+8
+
+PeV
+IV
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+33
+
+1
+
+6,7.10 - 3,3.10
+vg/kg
+12
+13
+5.10 - 1.10
+vg/kg
+
+14
+
+WM: White Matter; Cer: Cerebellum; StN: Subthalamique nucleus; Str: Striatum; Put: Putamen; SN:
+2
+Substancia Nigra; NBM: Nucleus Basalis of Meynert; Lom: Lombar; PeV: Peripheral vein; Can: Canavan; Par:
+Parkinson; Alz: Alzheimer; GAN: Giant Axonal Neuropathy; CLN6: Batten CLN6 disease; SMA I: Spinal Muscular
+3
+4
+5
+Atrophy type I; NA = not available; The CAG promoter designation includes the CBA and CB promoter; IS:
+6
+7
+8
+Immunosupressor; Y= Yes; N=No; O=Ongoing; C=Completed; IT: Intrathecal; IV: Intravenous.
+
+Page 34 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+34
+Promoter Dose min Dose Volume
+2,3
+vg
+max vg
+µL
+10
+10
+Tha/DCN or Hip
+GM1
+1
+BGAL
+CAG
+4.10 -7,2x10
+4/1
+9
+10
+Str
+GM2
+2
+HEX
+NA
+9,9.10 -1,4x10
+3
+7
+Cor/ Hip/ Tha
+GCL*
+2/5
+GALC
+CAG
+3,3.10
+12
+10
+Cor/ Hth /Cer
+INCL*
+5
+CLN1
+CAG
+1,2.10
+12
+10
+Str/ Hip /Cer
+JNCL*
+rh10
+CLN3
+CAG
+3.10
+0,5
+9
+Tha/Cer
+LINCL
+2 or 5
+CLN2
+CAG
+3,6.10
+18
+9
+Str
+MPS I
+2 or 5
+IDUA
+PGK
+1.10
+5
+9
+Str
+MPS IIIA
+rh10
+SGSH/SUMF1
+PGK
+7,5.10
+2,5
+9
+Str
+MPS IIIB
+2 or 5
+NAGLU
+PGK
+1.10
+5
+10
+Cor/ Cer
+MPS IIIB*
+5
+NAGLU
+CAG
+1,8.10
+12
+9
+Str
+MPS VII
+5
+GUSB
+NA
+2,4.10
+5
+10
+10
+Cor/Hip/Str
+MPS VII 1;9 or rh10
+GUSB
+GUSB
+1,2.10 - 1,3.10
+1
+9
+10
+Str or Cor
+MLD
+rh10
+ARSA
+CAG
+2,3.10 - 5.10
+1/2
+Hip/Hth/Cor/
+11
+NPD
+2
+ASM
+CMV
+1,2.10
+24
+Str/Cer
+11
+13
+Tha/ DCN
+GM1
+1 or rh8
+BGAL
+CAG
+3.10 - 1,2.10
+94
+11
+12
+Tha
+GM2
+1 or rh8
+HEX A
+CAG
+3.10 - 4,2.10
+70
+11
+12
+Str/WM
+MPS I
+5
+IDUA
+PGK
+5.10 - 2,1.10
+320
+11
+12
+Str/WM
+MPS IIIB
+5
+NAGLU
+PGK
+5.10 - 2,1.10
+320
+#
+11
+12
+WM or Str/Tha
+MLD
+5
+ARSA
+PGK
+3,8.10 - 1,9.10
+120
+#
+11
+12
+WM
+MLD
+rh10
+ARSA
+CAG
+2,2.10 - 1,1.10
+360
+#
+12
+12
+WM
+LINCL
+rh10
+CLN2
+CAG
+1,8.10 - 1,8.10
+180
+#
+10
+Str
+MPS I
+1 ; 2 or5
+IDUA
+PGK
+1,4.10
+100
+10
+ICV
+MPS I*
+8
+IDUA
+CAG
+2.10
+5
+9
+10
+IT
+MPSI
+2
+IDUA
+CMV
+2.10 - 4.10
+50-100
+9
+10
+CM
+MPS IIIA
+9
+SGSH
+CAG
+5.10 - 5.10
+5
+10
+10
+ICV
+MPS IIIA*
+5
+SGSH/SUMF1
+CMV
+1,2.10 - 6.10
+2
+10
+CM
+MPS IIIB
+9
+NAGLU
+CAG
+3.10
+NA
+10
+10
+CM
+MPS IIIB
+2
+NAGLU
+CMV
+1.10 - 5.10
+15
+11
+11
+IT
+MPS VII*
+2
+GUSB
+CMV
+1,5.10 - 5.10
+30-100
+10
+ICV
+MPS VII
+4
+GUSB
+RSV
+1.10
+10
+10
+ICV
+MPS VII*
+1 ; 2 or5
+GUSB
+GUSB
+1,8.10
+4
+10
+ICV
+GCL*
+1
+GALC
+CMV
+6.10
+4
+11
+ICV
+GM1*
+1
+BGAL
+CAG
+3,3.10
+4
+11
+11
+ICV
+MLD
+9 or 1
+ARSA
+CAG
+1,1.10 - 2,3.10
+20
+11
+ICV
+MLD
+1
+ARSA
+NA
+2.10
+20
+10
+ICV
+MSD*
+4 or 9
+SUMF1
+CMV
+1,2.10
+6
+13
+CM
+AMD
+1 or 9
+MANB
+GUSB
+1.10
+NA
+12
+CM
+MPS I
+9
+IDUA
+CMV/CAG
+1.10 vg/kg
+1mL
+12
+CM
+MPS I
+9
+IDUA
+CAG
+1.10 vg/kg
+1-2mL
+#
+13
+CM
+MPS IIIA
+9
+SGSH
+CAG
+2.10
+1mL
+#
+12
+CM
+MPS IIIB
+9
+NAGLU
+CAG
+6,5.10
+NA
+12
+CM
+MPS VII
+9 or rh10
+GUSB
+CAG
+5.10 vg/kg
+1-2mL
+1 ;2 ;4 ;5 ;8
+12
+ICV
+LINCL
+CLN2
+CAG
+2.10
+NA
+or 9
+
+Model Injection site
+
+#
+
+Mice
+Dog
+NHP
+Mice
+NHP
+
+Dog
+
+Disease
+
+CM
+
+MPSI
+
+Mice
+
+Rodent
+
+Intravenous
+
+Large animal
+
+Cat
+
+Intra-CSF
+
+Rodent
+
+Large animal
+
+Cat
+
+Intraparenchymal
+
+Rodent
+
+Page 35 of 39
+
+1
+
+TaV
+TaV
+TaV
+TeV
+JuV
+TeV
+TeV
+TaV
+TaV
+NA
+TaV
+
+GM1
+GM2
+GCL*
+GCL*
+MLD*
+MSD*
+MPS II*
+MPS II
+MPS IIIA
+MPS IIIA
+MPS IIIB
+
+Serotype
+
+2
+
+Transgene
+
+12
+
+9
+
+IDUA
+
+CAG
+
+3.10 vg/kg
+
+9
+9
+rh10
+2/5
+9
+4 or 9
+5
+8
+rh74
+9
+9
+
+BGAL
+HEX
+GALC
+GALC
+ARSA
+SUMF1
+IDS
+IDS
+SGSH
+SGSH
+NAGLU
+
+CAG
+NA
+CAG
+CAG
+CAG
+CMV
+CMV
+EF1α
+U1a
+CAG
+CMV
+
+1.10 - 3,0.10
+13
+3,5.10 vg/Kg
+9
+11
+7,6.10 - 2.10
+7
+1,38.10
+12
+2.10
+11
+2.10
+11
+1.10
+11
+1.10
+12
+5.10 vg/Kg
+12
+1.10
+13
+1.10 vg/Kg
+
+11
+
+13
+
+2
+
+Speed
+µL/min
+0,2/0,1
+NA
+NA
+NA
+1
+0,5
+0,5
+0,5
+0,5
+NA
+0,5
+0,5
+0,2
+0,5
+2
+2
+2
+2
+3
+0,5
+1
+NA
+1
+>5min
+NA
+NA
+NA
+<30sec
+NA
+0,5
+NA
+NA
+NA
+>10min
+>10min
+NA
+NA
+NA
+NA
+<10min
+NA
+>1min
+
+Ref
+38, 166
+167
+168
+169
+170
+171
+36
+172
+35
+173, 174
+175
+176
+177
+178
+39
+179
+37
+37
+180
+181
+182
+183
+184
+55
+49
+45
+50
+185
+54
+46
+42
+44
+43
+186
+187
+188
+51
+53
+156
+49
+50
+52
+
+>25min
+
+47
+
+1-2mL
+
+NA
+
+156
+
+200
+100
+25/10
+100
+100
+100
+NA
+200
+150-200
+200
+150-200
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+61
+62
+58, 189
+168
+57
+188
+190
+191
+192
+60
+59
+
+MPS IIIB
+MPS VII
+
+2
+9
+
+NAGLU
+GUSB
+
+CMV
+NA
+
+4.10
+12
+1.10
+
+100-150
+NA
+
+NA
+NA
+
+193
+
+Dog Cat
+
+CeV
+
+MPS I
+
+8
+
+IDUA
+
+TBG
+
+5.10 vg/Kg
+
+12
+
+1mL
+
+NA
+
+194
+
+CeV
+
+MPS VII*
+
+9 or rh10
+
+GUSB
+
+CAG
+
+2.10 vg/Kg
+
+13
+
+1-2 mL
+
+> 2min
+
+52
+
+NHP
+
+CeV
+
+MPS IIIB
+
+9
+
+NAGLU
+
+CMV
+
+1.10 - 2.10 vg/Kg
+
+5mL
+
+NA
+
+195
+
+Cat
+
+Tha/ICV
+
+GM2
+
+rh8
+
+HEX
+
+CAG
+
+8.10 - 1.10
+
+12
+
+340
+
+2 or 15
+
+TeV/ICV
+TaV/CM
+TeV/IT
+
+MSD*
+MPS IIIB
+MPS VII*
+
+4 or 9
+2
+2
+
+SUMF1
+NAGLU
+GUSB
+
+CMV
+CMV
+CMV
+
+10
+
+11
+
+1,2.10 -2.10
+10
+11
+5.10 - 4.10
+10
+11
+3.10 - 4.10
+
+103
+5-20
+NA
+
+NA
+> 2 min
+NA
+
+188
+
+Mice
+
+Large
+
+TaV
+NA
+
+Dog
+
+Large model
+1
+
+Large Rodent
+
+IP & CSF
+IV & CSF
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+35
+
+CeV/CM
+
+MPS VII*
+
+9 or rh10
+
+GUSB
+
+CAG
+
+2,8.10 -2.10 vg/Kg 1-2mL
+
+> 2 min
+
+52
+
+#
+
+11
+
+13
+
+13
+
+11
+
+12
+
+13
+
+63
+
+196
+
+Tha:Thalamus; Hth: Hypothalamus; DCN: Deep Cerebellar Nuclei; Hip: Hippocampus; Str: striatum; Cor: Cortex;
+Cer:Cerebellum; WM: White Matter; ICV: Intracerebroventricular; CM: Cisterna Magna; TaV: Tail Vein; TeV: Temporal Vein ;
+2
+3
+JuV: Jugular Vein ; CeV: Cephalic vein ; IT: Intrathecal ; IP: Intraparenchymal ; NA : not available ; The CAG promoter
+#
+designation includes the CBA and CB promoters; The study was performed using wild type model of the animal in order to
+study the AAV for the disease mentioned ;* Newborn animals.
+
+197
+
+198
+199
+
+Page 36 of 39
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+36
+Model
+
+Mice
+
+Rat
+
+Intraparenchymal
+
+Rodent
+
+Mice
+
+Page 37 of 39
+
+3
+
+3
+
+Disea- SeroPromoter Dose
+Dose
+3
+3
+Transgene
+Vol µL
+2
+34
+se
+type
+,
+min vg max vg
+ Disease affecting the CNS
+Hip/ Cor
+Alz 5 or 9
+NEP/IDE
+NA
+NA
+NA
+9
+Hip/ Cor
+Alz
+5
+ECE
+CAG
+4.10
+4
+9
+Hip/ Cor
+Alz
+2
+ScFv59
+CAG
+2.10
+8
+9
+Cor &/or Hip
+Alz
+5
+CYP46A1
+PGK
+2,4.10
+4
+10
+Hip
+Alz
+9
+AAPsα
+Synapsin
+2.10
+4
+Hip
+Alz
+8
+IGF-1/IGF-2
+EF1α
+NA
+1
+9
+Hip
+Alz
+2/1
+IL-10
+NA
+3.10
+2
+9
+Hip
+Alz
+1/2
+IL-4
+NA
+2.10
+2
+10
+Hip
+Alz
+1/2
+CCL2 mutant
+CAG
+2.10
+2
+10
+Str/Hip/ SN
+Par 2 or 5
+GBA1/ α-Synuclein
+Synapsin
+2.10
+10
+9
+SN
+Par
+2
+Nurr1 &/or Foxa2
+CMV
+1.10
+1
+7
+8
+SN
+Par
+1/2 shRNA anti ROCK2 or LIMK1 Synapsin
+2,5.10 – 1.10
+1
+9
+Str
+Par
+2
+NTN
+CAG
+4.10
+4
+10
+10
+Str
+Hun
+1
+DN-TNF
+CAG
+2.10 - 4,2.10
+6
+10
+Str
+Hun
+1
+mRNAs anti-Htt
+CAG
+1,8.10
+4
+10
+Str
+Hun
+1
+mRNAs anti-Htt
+mU6
+4.10
+10
+9
+Str
+Hun
+2
+NTN
+CAG
+4.10
+4
+9
+Str
+Hun
+2
+CNTF
+CAG
+2,7.10
+1
+10
+Str/Cer
+Hun
+1
+shHD2.1
+CMV
+6.10
+12
+9
+Str
+Hun
+1/2
+ZF11xHunt
+CAG
+4,4.10
+6
+5 or
+CAG or
+9
+Str
+Hun
+shCYP46A1
+6.10
+4
+rh10
+PU6
+9
+Str
+Hun
+2
+GDNF
+CAG
+4.10
+4
+8
+9
+Str
+Hun*
+2
+BDNF
+CAG
+8.10 -8.10
+5
+9
+Str
+Hun* 1/2
+BDNF
+CAG
+4.10
+4
+10
+Str
+Hun
+2
+GDNF
+CAG
+1,2.10
+4
+9
+Str
+Hun* 1/2
+HD70/HD20/HDh8/shHD2
+NSE
+3.0
+3
+9
+Med sep
+Alz
+NA
+NGF
+NSE
+6.10
+2
+ Disease affecting the spinal cord
+
+Injection site
+
+DCN
+
+1
+
+ALS
+
+1 or 2
+
+3
+
+Speed
+
+µL/min
+
+NA
+0,5
+1
+0,2
+0,2
+0,2
+NA
+NA
+NA
+1
+0,66
+0,5
+0,2
+0,5
+0,5
+NA
+2
+0,5
+0,25
+0,25
+
+Ref
+68-70
+69
+70
+87, 88
+76
+81
+82
+83
+200
+93
+94
+201
+102
+202
+117
+203
+113
+114
+116
+119
+
+0,2
+
+120
+
+0,2
+0,15
+NA
+0,5
+0,1
+NA
+
+112
+
+0,5
+
+125
+
+6,8.10
+68
+11
+3,6.10
+180
+11
+9,9.10
+150
+10
+11
+8,3.10 - 8,3.10 50-75
+11
+3.10
+150
+10
+11
+6.10 - 1,2.10
+20
+9
+11
+6.10 – 5.10
+200
+11
+3.10
+200
+10
+8,4.10
+21
+
+1
+NA
+NA
+NA
+2
+NA
+0,1-1
+1
+0,25
+
+206
+
+4.10
+
+10
+
+6
+
+109
+204
+111
+115
+205
+
+IGF-1
+
+NA
+
+siRNA
+AADC
+GDNF
+GDNF
+NTN
+GAD
+hAADC
+hAADC-2
+GDNF
+
+U6
+NA
+CMV
+CMV
+CAG
+NA
+CMV
+CMV
+CAG
+
+BDNF/ ΔB2Noggin
+
+NA
+
+3,7x10
+
+9
+
+3
+
+NA
+
+110
+
+CAG
+
+5.10
+12
+2,4.10
+11
+1,6.10 or
+11
+6,8.10
+12
+1,2.10 vg/Kg
+10
+10
+4.10 - 8.10
+10
+7,2.10
+12
+13
+2,7.10 - 3,3.10
+
+10
+
+2
+
+NA
+
+208
+
+10
+3
+
+NA
+
+127
+
+8
+20
+10
+
+NA
+0,5
+NA
+
+209
+
+5
+
+NA
+
+19
+
+12
+6
+
+NA
+NA
+
+132
+
+NPH
+
+Disease affecting the CNS
+Put
+Hun*
+1
+Cau/Put
+Par*
+2
+Put
+Par*
+2
+Put/ SN
+Par*
+2
+Cau/ Put
+Par*
+2
+STN
+Par*
+NA
+Put
+Par*
+2
+Put
+Par*
+2
+Str/SN
+Par*
+NA
+ Disease affecting the CNS
+
+Mice
+
+Large animal
+
+
+
+ICV
+
+Mice
+
+Rodent
+
+La
+rg
+e
+m
+od
+el
+
+IntraCSF
+
+
+
+Hun
+
+4
+
+Disease affecting the spinal cord
+CVL
+ALS
+9
+amiR SOD1
+ICV
+
+ALS
+
+6 or 9
+
+miRNA αSOD1
+
+CMV or
+GFAP
+
+IT
+ICV
+CM
+
+ALS
+ALS
+GAN
+
+rh10
+4
+9
+
+amiR-SOD1
+IGF-1 or VEGF or IGF-1+VEGF
+GAN
+
+Pol II
+Hb9
+CMV
+
+ICV
+
+SMA
+
+9
+
+SMN
+
+CAG
+
+SMN
+SMNI
+
+CAG/GUSB
+CAG
+
+ICV
+SMA
+8
+ICV
+SMA
+9
+ Disease affecting the spinal cord
+
+10
+
+vg/Kg
+10
+
+10
+
+5.10 -1,7.10
+9
+10
+1.10 - 5.10
+
+2
+100
+99
+103
+207
+101
+97
+98
+
+126
+210
+
+136
+
+1500
+
+NA
+
+136
+
+13
+
+6000
+
+NA
+
+136
+
+300
+
+NA
+
+211
+
+50300
+
+NA
+
+212
+
+NA
+10
+70
+100
+50
+NA
+200
+
+NA
+NA
+NA
+NA
+NA
+>1min
+NA
+
+131
+
+NA
+
+NA
+
+123
+
+6
+
+0,75
+
+124
+
+1
+
+NA
+
+128
+
+VH
+ALS
+2
+IGF-1
+CAG
+4,1.10
+5
+NA
+Hip: Hippocampus; Str: Striatum; SN: Substancia Nigra; DCN: Deep Cerebellar Nuclei; VGM: Ventral gray matter; Put:
+Putamen; Cau: Caudate; Cor: Cortex; Med Sep: Medial Septum; STN: Sub-Thalamique Nucleus; Ven: Ventricle; LC: lumbar
+cord; CM: Cisterna magna; ICV: IntraCerebroVentricular; JuV : Jugular Vein; TaV: Tail Vein; FaV: Facial vein; TeV: Temporal
+2
+vein; Qua: Quadriceps; LSC: Lumbar Spinal Cord; VH: Ventral Horn; Alz: Alzheimer; Hun: Huntington; Par: Parkinson; GAN:
+3
+4
+Giant Axonal Neuropathy; ALS: Amyotrophic Lateral Sclerosis; SMA: Spinal Muscular Atrophy; NA: Not available; The CAG
+promoter designation includes the CB and CBA promoter; *The study was performed using wild type model of the animal in
+order to study the disease mentioned
+
+213
+
+NHP
+
+Pig
+
+12
+
+IT
+
+SMA*
+
+9
+
+SMNI
+
+CAG
+
+3.10
+
+CM/IT
+
+SMA*
+
+9
+
+SMNI
+
+CAG
+
+2,5.10
+
+IT
+
+ALS*
+
+rh10
+
+miR SOD1
+
+U6/CAG
+
+6.10 vg/kg
+
+HTT-specific RNAi
+
+U6
+
+6,3.10 – 3.10
+
+CAG
+CMV
+PGK
+CAG
+CAG
+SYN1
+U6/CAG
+
+5.10
+11
+1.10
+10
+4,5.10
+11
+5.10
+14
+3,3.10 vg/kg
+11
+12
+1,5.10 - 2,1.10
+11
+2.10
+
+NA
+
+4.10 - 3.10
+
+CAG
+
+4,8.10
+
+CAG
+
+NA
+
+
+
+Hun
+
+9
+
+11
+
+12
+
+Mice
+
+Mice
+
+Mice
+
+ Disease affecting the spinal cord
+FaV
+SMA
+9
+SMN
+FaV
+SMA
+9
+SMN
+TeV
+SMA
+9
+SMN
+FaV
+SMA
+9
+SMN
+NA
+SMA
+9
+SMN
+TaV
+ALS
+9
+ADAR2
+TaV
+ALS rh10
+miR SOD1
+ Disease affecting the spinal cord
+IGF-1
+Qua
+ALS
+2
+GDNF
+ Disease affecting the spinal cord
+VGM
+ALS
+2
+IGF-1
+LSC
+Rat
+
+Rodent model
+Rodent model Rodent
+
+Intravenous
+Intramuscular
+1
+
+12
+
+Disease affecting the CNS
+JuV
+
+Intra SP
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+37
+
+ALS
+
+2
+
+IL-10
+
+11
+
+7
+
+10
+
+10
+
+10
+
+133
+134
+135
+19
+130
+211
+
+Page 38 of 39
+
+Epilepsy
+
+Hip
+Hip
+Hip
+Pir Cor
+Hip
+Inf Col
+
+Mice
+Rat
+Rat
+
+Rodent
+Rodent
+
+Intra-CSF
+
+Hip
+
+2
+
+3
+
+Dose min Dose max Volume
+
+Transgene
+
+Promoter
+
+8
+
+ADK
+
+gfaABC1D
+
+2.10
+
+Epilepsy
+Epilepsy
+Epilepsy
+Epilepsy
+Epilepsy
+
+1 and 2
+1
+2
+2
+1/2 or 2
+
+NSE
+CAG
+CAG
+CAG
+NSE
+
+Epilepsy
+
+NA
+
+NPY
+NPY
+GDNF
+NPY
+NPY
+FIB-GAL or
+GAL
+
+CMV
+
+1,75.10 -1.10
+
+Inf Col
+Epilepsy
+or Temp Cor
+Neuropathic pain (NP)
+
+
+
+1
+
+Serotype
+
+Mice
+Rodent
+
+Intraparenchymal
+
+
+
+Disease
+
+Rat
+
+Injection
+1
+site
+Epilepsy
+
+Model
+
+Intra SP
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+
+38
+
+vg
+
+vg
+
+Ref
+
+µL
+
+µL/min
+
+9
+
+2
+
+1
+
+143
+
+6.10
+10
+6,2.10
+9
+9
+4,1.10 - 6,3.10
+10
+10
+1,2.10 - 1,3.10
+9
+10
+6,4.10 - 1,3.10
+
+10
+
+6
+12
+3 or 6
+4
+6 or 12
+
+0,2
+1
+0,2
+NA
+NA
+
+214
+
+7
+
+1
+
+>9 min
+
+141
+
+9
+
+1
+
+>9 min
+
+216
+
+13
+
+10
+
+>2min
+
+148
+
+11
+
+5
+
+NA
+
+147
+
+10
+
+15
+
+>1min
+
+217
+
+9
+
+2
+
+>5min
+
+145
+
+2
+
+0,4
+
+146
+
+1
+
+>2min
+
+144
+
+NA
+
+NRIA or PINA
+
+CMV
+
+1.10
+
+shRNA anti
+TRPV1
+
+hU6
+
+2.10
+
+NA
+
+3,5.10
+
+CMV
+
+3.10
+
+9
+
+IT
+
+Chronic NP
+
+9
+
+IT
+
+Diabetic NP
+
+5
+
+IT
+
+Chronic NP
+
+8
+
+DRG
+
+Chronic NP
+
+6
+
+CBD3
+
+CMV
+
+5.10
+
+DRG
+
+Chronic NP
+
+2
+
+shRNA anti
+Nav1.3
+
+hU6
+
+2,7.10 - 1,4.10
+
+SGM
+
+Chronic NP
+
+NA
+
+BDNF
+
+CMV
+
+5.10 IU
+
+shRNA anti
+Nav1.3
+ppβEP and/or
+IL-10
+
+2
+
+Speed
+
+10
+
+5
+
+11
+
+Hip: Hippocampus; Pir Cor: Piriform Cortex; Inf Col: Inferior Colliculus; Temp Cor: Temporal Cortex; DRG: Dorsal Root
+2
+3
+Ganglion; SGM: Spinal Gray Matter; NA = not available; The CAG promoter designation includes the CBA promoter
+
+215
+142
+139
+138
+
+Human Gene Therapy
+AAV based gene therapy for CNS diseases (doi: 10.1089/hum.2016.087)
+This article has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof.
+Page 39 of 39
+
+39
+
+Figure 1
+
+

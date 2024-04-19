@@ -1,0 +1,826 @@
+Acta Pharmacologica Sinica (2015) 36: 149–157
+© 2015 CPS and SIMM All rights reserved 1671-4083/15
+www.nature.com/aps
+
+Review
+
+Regulatory networks between neurotrophins and
+miRNAs in brain diseases and cancers
+Jian SHI*
+Department of Neurology, Dept of Veterans Affairs Medical Center, San Francisco and University of California, San Francisco, CA
+94121, USA
+Neurotrophins are involved in many physiological and pathological processes in the nervous system. They regulate and modify signal
+transduction, transcription and translation in neurons. It is recently demonstrated that the neurotrophin expression is regulated by
+microRNAs (miRNAs), changing our views on neurotrophins and miRNAs. Generally, miRNAs regulate neurotrophins and their receptors
+in at least two ways: (1) miRNAs bind directly to the 3′ untranslated region (UTR) of isoform-specific mRNAs and post-transcriptionally
+regulate their expression; (2) miRNAs bind to the 3′ UTR of the regulatory factors of neurotrophins and regulate their expression. On
+the other hand, neurotrophins can regulate miRNAs. The results of BNDF research show that neurotrophins regulate miRNAs in
+at least three ways: (1) ERK stimulation enhances the activation of TRBP (HIV-1 TAR RNA-binding protein) and Dicer, leading to the
+upregulation of miRNA biogenesis; (2) ERK-dependent upregulation of Lin28a (RNA-binding proteins) blocks select miRNA biogenesis;
+(3) transcriptional regulation of miRNA expression through activation of transcription factors, including CREB and NF-κB. These
+regulatory processes integrate positive and negative regulatory loops in neurotrophin and miRNA signaling pathways, and also expand
+the function of neurotrophins and miRNAs. In this review, we summarize the current knowledge of the regulatory networks between
+neurotrophins and miRNAs in brain diseases and cancers, for which novel cutting edge therapeutic, delivery and diagnostic approaches
+are emerging.
+Keywords: neurotrophin; miRNA; BNDF; ERK; CREB; NF-κB; brain injury; neurodegenerative disease; cancer
+Acta Pharmacologica Sinica (2015) 36: 149–157; doi: 10.1038/aps.2014.135; published online 29 Dec 2014
+
+Introduction
+
+The neurotrophin family of growth factors includes nerve
+growth factor (NGF), brain-derived neurotrophic factor
+(BDNF), neurotrophin 3 (NT3) and neurotrophin 4 (NT4),
+which are important for both physiological and pathological
+processes[1–5]. There are two types of neurotrophin receptors:
+the low-affinity p75 neurotrophin receptor (NTR) and highaffinity tropomyosin-related kinase (TRK) receptors, including TRKA, TRKB and TRKC. All four neurotrophins may
+stimulate cells via p75NTR. NGF, BDNF, and NT4, and NT3
+also act via TRKA, TRKB, and TRKC respectively. NT3 binds
+most strongly to TRKC. However, under some circumstances
+it may also act via TRKA and TRKB. Several intracellular signaling pathways are activated by the binding of neurotrophins
+to TRK receptors, including the extracellular-signal-regulated
+kinase 1/2 (ERK1/2), phosphoinositide 3-kinase (PI3K), and
+phospholipase C (PLC) pathways[1, 2]. The signaling pathways
+* To whom correspondence should be addressed.
+E-mail Jian.shi@ucsf.edu
+Received 2014-09-04 Accepted 2014-11-14
+
+activated through p75NTR are more complicated and unclear,
+and several reviews discuss these pathways[6, 7]. In addition,
+p75NTR has been implicated as a direct regulator of neurogenesis[8, 9], and the increase in adult neurogenesis by NGF and
+its mimic may go through p75NTR pathways[10, 11]. Although
+these pathways activate many effects of neurotrophins, their
+most important function is to regulate specific changes in
+gene transcription. Neurotrophins can directly regulate the
+expression and activation of transcription factors, including
+cAMP-response element binding protein (CREB) and nuclear
+factor kappaB (NF-κB). Although neurotrophin stimulation
+can affect the expression of hundreds of genes, the networks
+between neurotrophins, transcription factors and their target
+genes are not fully understood. To date, most studies have
+focused on the neurotrophin-induced expression of proteinencoding genes. However, miRNAs are also transcriptionally
+induced by neurotrophins[12, 13].
+MicroRNAs (miRNAs) are 20–22 nucleotide non-coding
+RNA molecules, which regulate gene expression at the posttranscriptional level and have changed our evolutionary view
+of gene regulation[14, 15]. MiRNA genes are usually located in
+
+npg
+
+www.nature.com/aps
+Shi J et al
+
+npg
+150
+
+intergenic or intronic regions as individual or clustered genes.
+Several steps must occur before miRNAs can function, including transcription of primary miRNAs (pri-miRNAs), formation of precursor miRNAs (pre-miRNAs), pre-miRNA transportation out of the nucleus, and miRNA maturation. Many
+enzymes, including RNA polymerase II, Drosha, Exportin 5,
+Dicer and Argonaute (Ago), are involved in these processes,
+and more details can be found in several reviews[14–16]. The
+mature miRNAs remain in the Ago complex, and the antisense
+miRNAs (miRNAs*) are mostly degraded [12]. MiRNAs target mRNAs by preferentially binding to their 3′ untranslated
+regions (3’UTR), promoting their degradation or suppressing their translation into proteins, thereby silencing genes. A
+given miRNA can target approximately a hundred mRNAs,
+each of which has multiple binding sites, enhancing the overall effects. An mRNA can be targeted by dozens of miRNAs,
+thereby responding to different functions. However, approximately 30% of the human protein-coding genome is targeted
+by miRNAs[17]. Some mRNA transcripts contain a short 3′
+UTR and lack a miRNA binding domain. Many of these ‘short’
+mRNAs regulate key cellular functions such as DNA repair
+and proliferation[18].
+The complex network of miRNAs and the regulation of gene
+expression by miRNAs are not fully understood, although
+miRNA biogenesis and basic functions have been known for
+several years. Knowledge remains scarce about the upstream
+regulators of miRNAs that manage their transcriptional and
+post-transcriptional control, although thousands of miRNAs
+
+have been discovered. A new era of miRNA regulation is
+occurring in neurotrophin studies, although these too have
+already been studied for decades. Although this review is
+focused on the regulation between neurotrophins and miRNAs in cancer and brain diseases, this regulation is difficult to
+clarify due to the triangular, nonlinear relationship between
+neurotrophins and miRNAs. Neurotrophins can regulate the
+transcription of a subset of miRNAs and transcription factors,
+resulting in complex regulatory circuits involving positive and
+negative feedback loops (Figure 1). For this review, “neurotrophins” and “miRNAs” were used as keywords to search the
+MEDLINE electronic database for English-language articles
+reported between January 1994 and May 2014. Relevant articles were then scanned for additional studies.
+
+Regulation of neurotrophins by miRNAs
+
+Brain specific miRNAs were found to play important roles in
+neurotrophin expression soon after the recognition of miRNAs
+as fundamental regulators of gene expression. Because neurotrophins such as BDNF are key players in many neuronal
+functions including survival, synaptic plasticity and neurogenesis in the central nervous system (CNS), miRNAs should
+also be involved in most neurotrophin effects. Indeed, the
+interaction between BDNF and brain-specific miRNAs is an
+area of recent focus. Dicer1 is the key enzyme that processes
+pre-miRNA nucleotide duplexes. Many miRNAs were significantly decreased after Dicer1 was deleted in the mouse forebrain, including miR-124, miR-132, miR-137, miR-138, miR-
+
+Figure 1. The regulatory loops of neurotrophins (NTs), miRNAs and transcription factors. Green represents NT regulation of miRNAs through ERKTREP/Dicer, ERK-Lin28a, and ERK-CREB. Red denotes miRNA regulation of NTs by post-transcriptionally inhibiting CREB expression. Black shows the
+regulatory loop of NT (BDNF), MeCP2, and miR-132 that exists in brain diseases including Rett Syndrome, ischemia, HD and PD.
+Acta Pharmacologica Sinica
+
+www.chinaphar.com
+Shi J et al
+
+npg
+151
+
+29a, and miR-29c. Interestingly, the expression of BDNF and
+pro-BDNF were higher in Dicer1-deficient mice compared to
+controls[19]. This suggested that BDNF expression was suppressed by miRNAs in wild-type animals. Consistent with the
+Dicer1 deficiency results, studies of miR-132 and miR-182 support their roles as negative regulators of BDNF in human neuronal cells. Lower BDNF expression correlated with higher
+miR-132 and miR-182 expression in the serum of depressive
+patients[20]. However, it is unclear how these miRNAs affect
+BDNF expression. The mechanism by which miR-134 regulates BDNF may provide a clue. MiR-134 regulates BDNF
+expression by post-transcriptionally regulating CREB expression. The transcription factor CREB recruits its co-activators
+CREB-binding protein (CBP) and p300 into a transcriptional
+complex, activating CREB-dependent transcription[21]. CREB
+also mediates the transcription of BDNF. CREB can bind to
+several BDNF promoter elements and enhance its activitydependent regulation[22]. However, there are three partially
+complementary binding sites for miR-134 in the 3’UTR of the
+mouse CREB gene. One site is well-conserved, and miR-134
+can bind directly to it and inhibit the CREB translation. CREB
+inhibition will therefore inhibit BDNF gene expression. CREB,
+BDNF and miR-134 therefore comprise a regulatory loop
+(Figure 1). Consistently, BDNF and CREB are both downregulated when miR-134 is up-regulated in SIRT1Δ mice[23].
+NGF, NT3, TrkA, and p75NTR are also regulated by miRNAs in certain conditions. P75NTR is up-regulated in brain
+injuries and neurodegenerative diseases and is involved in
+apoptosis. The underlying mechanism of p75NTR upregulation is still unclear[10, 24]. Recently, it was reported that p75NTR
+expression is regulated by miR-592, and there is an inverse
+correlation between miR-592 and p75NTR levels. After cerebral ischemia, miR-592 levels dramatically decreased. In
+contrast, the p75NTR level significantly increased. There is
+a conserved miR-592 binding site in the 3’UTR of p75NTR.
+Importantly, miR-592 over-expression decreased the level of
+p75NTR , and in contrast, transduced anti-miR-592 caused a
+significant increase in the p75NTR protein level[25]. A miR-21
+binding site was identified in the NT3 3’UTR, and there was
+an inverse relationship between NT3 and miR-21 in cultured
+hippocampal neurons. Further, in the epileptic model, NT3
+mRNA levels decreased in the hippocampus following miR21 increase. Notably, miR-21 is a candidate for regulating NT3
+signaling in the hippocampus following status epileptics[26].
+Likewise, miR-221, a candidate regulator of NGF and TRKA,
+is highly conserved in vertebrates. Recently, it was reported
+that miR-221 could suppress NGF and TRKA at both the protein and mRNA levels. In respiratory syncytial virus (RSV)
+infected airways, the expression of NGF and TRKA were
+upregulated by silencing miR-221 expression in the infected
+cells, and this benefited viral production[27].
+MiRNAs regulate neurotrophins and their receptors in an
+isoform-specific way. There are two BDNF mRNA isoforms
+that translate to the same BDNF protein. Sequence analysis
+revealed that there were three miR-206 target sites in the long
+BDNF 3’UTR (BDNF-L), but only one in the short BDNF 3’UTR
+
+(BDNF-S). Transfection of pre-miR-206 repressed endogenous
+BDNF mRNA levels, and the suppressive effect was related
+to the miR-206 targeting sites in the BDNF-L 3’UTR but not
+the site in the BDNF-S[28]. Similarly, TRKC has two major
+protein isoforms detected in human brain samples: the fulllength, kinase-active receptor (FL-TRKC) and a truncated noncatalytic isoform (T-TRKC). Different functions were found
+for T-TRKC, apart from ligand competition with full-length
+receptors. FL-TRKC levels were significantly reduced by
+miR-151-3p alone. Significant T-TRKC downregulation was
+observed with the over-expression of miR-128, miR-485-3p,
+miR-765, and miR-768-5p[29]. Importantly, the overexpression
+of miR-128 and the inhibition of T-TRKC had the same effects,
+including increased cell number. Different miRNA regulation
+of different mRNA isoforms therefore mediates different functions in different situations.
+
+Regulation of miRNAs by neurotrophins
+
+BDNF may widely regulate miRNA biosynthesis by enhancing the function of Dicer, the general miRNA processing
+enzyme, via the MAPK/ERK pathway[30]. To enhance Dicer
+function, BDNF activates the MAPK/ERK signaling pathway
+through the TRKB receptors. Dicer and phospho-TRBP (HIV-1
+TAR RNA-binding protein) comprise the miRNA-generating
+complex. TRBP phosphorylation and Dicer expression are
+mediated by ERK. The phosphorylation of TRBP enhances
+miRNA production by increasing the stability of the miRNAgenerating complex with Dicer[31]. BDNF rapidly elevates
+Dicer, stabilizes the complex, and increases the levels of
+mature miRNAs. Remarkably, approximately 89.4% of detectable endogenous miRNAs were increased more than 2-fold by
+BDNF, whereas only 10.6% decreased to <50%[32] (Figure 1). In
+addition to the regulatory steps described above, miRNA biogenesis can be regulated at multiple steps by other transacting
+factors, including the Lin28 RNA-binding proteins[33]. Moreover, some BDNF-inhibited miRNAs that contain Lin28a binding sites in their terminal loop region were suppressed in their
+processing from pre-miRNA to mature miRNA by Lin28a[33]
+when Lin28a was elevated by BDNF. This could provide a
+mechanism for decreasing the levels of select mature miRNAs
+even in the context of Dicer elevation[32]. These findings are
+not only consistent with transcriptional specificity in response
+to BDNF but also with the increased knowledge of the regulatory processes of BDNF (Figure 1). This transcriptional
+regulation affects the functions of BDNF. For example, targets
+that are usually upregulated by BDNF, including AMPA glutamate receptor subunit GluA1 (GluA1), calcium calmodulindependent protein kinase II (CaMKIIα), and Homer2, failed to
+be upregulated by BDNF in Dicer-deficient neurons. A target
+normally downregulated by BDNF, the potassium-chloride
+cotransporter (KCC2), was nonresponsive to BDNF in Dicerdeficient neurons[32]. Taken together, at least three ERK related
+regulatory pathways function in BDNF regulated miRNA
+biogenesis: (1) the ERK dependent enhancement of TRBP and
+Dicer upregulates miRNA biogenesis; (2) the ERK dependent
+upregulation of Lin28a downregulates select miRNA expresActa Pharmacologica Sinica
+
+www.nature.com/aps
+Shi J et al
+
+npg
+152
+
+sion; (3) the activation of specific transcription factors, such
+as CREB, by BDNF. NGF and NT3 also can trigger the PI3K/
+AKT and MAPK/ERK signaling pathways through TRKA and
+TRKC[1, 2]. The question is whether NGF or NT3 can enhance
+miRNA expression by enhancing ERK and Dicer in TRKA or
+TRKC positive cells.
+Neurotrophins could also regulate the expression of miRNAs by regulating specific transcription factors, including
+CREB and NF-κB. The mechanism of miRNA transcription
+is the same as that of mRNAs, in which transcription factors
+play important roles. Neurotrophins regulate CREB activation through TRK receptors[1, 2], so neurotrophins may regulate
+miRNA expression by activating specific transcription factors. Computational searches revealed that several miRNAs,
+including miR-124a, miR-9, miR-29a/29b, and miR-132, contain a conserved CRE site in their promoters[34]. The ERK1/2
+dependent pathways regulating miR-212/132 discussed above
+also have CREB dependent and independent aspects. The
+miR-212/132 cluster had absolute fold changes >4 after BDNF
+treatment in cultured primary cortical mouse neurons. Some
+of the pri-miR-212/132 transcription in response to BDNF was
+dependent on the activation of ERK1/2 and Dicer, but others were dependent on the activation of ERK1/2 and CREB[35]
+(Figure 1). In the CREB dependent pathway, the phosphorylation of CREB by MSKs downstream of ERK1/2 was involved
+in pri-miR-212/132 transcription. CREB binding sites have
+been shown previously in the miR-212/132 and miR-9 loci.
+Importantly, recent studies demonstrated experimentally that
+miR-212/132 and miR-9 are regulated by CREB and involved
+in regulating neuronal morphogenesis[36–38]. Similarly, NF-κB
+can be regulated by p75NTR signaling[6]. Using selective
+NF-κB translocation and DNA binding inhibitors, miR-9, miR125b, and miR-146a up-regulation was shown to be sensitive
+to NF-κB[39]. Consistent with this result, the expression of miR146a was proved to be regulated by the p65 subunit of NF-κB
+in a Huntington cellular model[40]. Additionally, miR-21 was
+regulated by NF-κB and involved in the apoptosis of human
+myeloma cells[41].
+NGF induction of miRNA expression also depends on the
+activation of the ERK1/2 and CREB pathway. For example,
+the expression of miR-221 and miR-222 were induced by NGF
+stimulation in PC12 cells. This induction was ERK related,
+and these miRNAs might contribute to the mechanism of
+NGF related cell survival in PC12 cells. In fact, miR-221 and
+miR-222 are growth related and derived from the same primiRNA[42]. However, it is unclear whether NGF enhances the
+activation of Dicer after sustained ERK activation. Other PC12
+studies showed that additional miRNAs were modulated
+by NGF, including miR-21, miR-29c, miR-30c, miR-93, miR103, miR-207, miR-691, and miR-709. Among these miRNAs,
+significant CRE binding enrichment was identified in the
+promoter area, indicating that NGF regulated those miRNAs
+through the ERK and CREB pathway[43]. Notably, another
+study showed that NGF treatment increased the expression of
+miR-181a, miR-221 and miR-326 and decreased the expression
+of miR-106b, miR-126, miR-139-3p, miR-143, miR-210, and
+Acta Pharmacologica Sinica
+
+miR-532-3p. MiR-221 was dramatically up-regulated[44]. Interestingly, the authors of this paper found a Lin28a binding site
+in several miRNAs, including miR-139, mir-143[33] and miR532, after analyzing the terminal loop region of those miRNAs
+inhibited by NGF. NGF may downregulate those miRNAs
+by the same mechanism as BDNF, enhancing Lin28a through
+activated ERK signaling. The neurotrophin regulation of
+miRNA synthesis widely expands the functional network of
+neurotrophins, as one miRNA can regulate approximately one
+hundred mRNAs.
+
+The effects of neurotrophins and miRNAs in brain
+diseases
+
+Rett Syndrome and Huntington’s disease (HD) may have a
+similar regulatory loop mechanism of miR-132, methyl-CpG
+binding protein 2 (MeCP2) and BDNF. MeCP2 gene mutations
+cause Rett syndrome, a progressive neurologic developmental disorder. Interestingly, MeCP2 overexpression increased
+BDNF transcript levels, which consequently resulted in the
+activation of miR-132 through ERK dependent pathways.
+Increased miR-132 led to a decrease in the MeCP2 levels[45].
+This suggests a negative regulatory loop exists among miR132, BDNF, and MeCP2, shown in Figure 1. To support this
+notion, experimentally blocking miR-132 led to increased levels of MeCP2 and BDNF, and loss of MeCP2 decreased BDNF
+and miR-132[46]. In some Rett syndrome patients, miR-132
+may be abnormally upregulated, causing low levels of MeCP2
+and, in turn, leading to disease. In Huntington disease, the
+regulatory loop of miR-132, BDNF, and MeCP2 also exists.
+MiRNA expression analysis revealed that miR-9/9*, miR29b, and miR-124 were downregulated in HD patient brains,
+whereas miR-29a and miR-132 were up-regulated[47, 48]. However, a contradictory report showed decreased miR-132 in HD
+animal models, which may be caused by the different disease
+stages[48]. Upregulated miR-132 may suppress the expression
+of MeCP2 and then suppress the expression of BDNF. Suppressed expression of BDNF in striatal afferents may cause
+the neuronal death and behavioral dysfunction of HD. It is
+not clear that how the progressive loss of BDNF in cortical or
+subcortical afferents contributes to striatal atrophy and behavioral dysfunction in HD patients. However, we can find some
+clues from HD animal studies. In R6/2 transgenic mice, a HD
+animal model, decreased BDNF expression in the motor cortex
+and thalamic afferents started at 6 weeks and progressed until
+death at 13–15 weeks, coinciding with striatal neuronal loss
+and behavior dysfunction[49]. In addition, BDNF protein levels
+were significantly decreased in the striatum of Mecp2-deficient
+mice, which was caused by a BDNF trafficking dysfunction[50].
+Therefore, miR-132, BDNF, and MeCP2 are all involved in the
+regulatory mechanism of Rett Syndrome and HD.
+The regulatory loop of miR-132, BDNF, and MeCP2, as well
+as other miRNAs and factors, exists in Parkinson disease (PD).
+Several miRNAs were reported in epigenetic alterations of PD,
+including miR-132, miR-184, and miR-34a. A feedback loop
+between epigenetic mechanisms and miR-132, which may act
+as mediators of PD, was established via its repressive effect
+
+www.chinaphar.com
+Shi J et al
+
+npg
+153
+
+on MeCP2 and silent information regulator 1 (SIRT1)[51]. In a
+PD animal model, microarray and qPCR results confirmed a
+significant increase in miR-132 in affected rats. Nuclear receptor related 1 protein (Nurr1) is one of the known downstream
+targets of miR-132, and Nurr1 is essential in the neurogenesis
+of midbrain dopaminergic neurons. In PD rats, significant
+decreases in Nurr1 and BDNF expression in the mesencephalic neurons were observed, and BDNF is a direct target of
+Nurr1[52]. Unlike miR-132, miR-184 is a target of MeCP2. The
+expression of miR-184, a brain-specific miRNA, is repressed by
+the binding of MeCP2 to its promoter, inducing methylationspecific transcriptional repression. This relationship links
+DNA methylation to miR-184 activity, and this regulation
+affected synaptic plasticity[53]. The leucine-rich repeat kinase 2
+LRRK2 causes familial and sporadic PD. Increasing the level
+of miR-184* (antisense miR-184) attenuated the pathogenic
+LRRK2 effects in Drosophila[54]. These findings suggest that
+miR-184*, MeCP2, and LRRK2 are related to PD. MiR-184*,
+but not miR-184, acted on its targets directly, although most
+antisense miRNAs are predicted to be degraded after synthesis. Similar to miR-132, miR-34a also inhibited SIRT1, a gene
+that regulates cellular senescence, limited cellular longevity
+and increased apoptosi[55]. In addition, as a miR-34a target,
+CREB plays an important role in PD. CREB is necessary for
+the anchoring of CREB-binding protein (CBP), which contains
+a histone acetyltransferase (HAT) domain, and in turn co-activates CREB to exert its beneficial function on neuronal plasticity[51]. The suppression of CREB expression by miR-34a may
+also indirectly suppress BDNF expression and increase neuronal apoptosis. Here, miR-132, miR-184*, and miR-34a promote
+the epigenetic alterations of PD via DNA methylation, histone
+acetylation and the expression of BDNF and other factors.
+Neurotrophins and miRNAs regulate cell survival and function in brain injuries and diseases. The p75NTR expression
+levels in neurons are partly related to the expression of miR592, and there is an inverse correlation between miR-592 and
+p75NTR levels in the adult brain. In cerebral ischemia, an
+increase in p75NTR levels correlated with decreased miR-592
+levels. Importantly, overexpression of miR-592 in neurons
+decreased p75NTR expression levels and attenuated the activation of pro-apoptotic signaling and cell death induced by
+ischemic injury. These results suggest that miR-592, a key
+regulator of p75NTR expression and a suppressor of neuronal
+apoptosis, is a potential therapeutic candidate for ischemic
+injury[25]. MiR-132 and MeCP2 were involved in a preconditioning ischemia study. Downregulation of miR-132 in
+preconditioning ischemia induced a rapid increase in MeCP2
+protein in the mouse cortex. This increased the ischemic tolerance. BDNF expression may be increased by this upregulation
+of MeCP2 expression, and this is supposed to be the underlying mechanism of ischemic tolerance. These studies suggest
+that miR-132, MeCP2, and BDNF could serve as effectors of
+ischemic preconditioning-induced tolerance[56]. In addition,
+many overloaded miRNAs were found in Aicardi–Goutiéres
+syndrome (AGS) patients, whose symptoms include calcification of the basal ganglia, abnormal cerebral white matter and
+
+diffuse brain atrophy [57]. The genetic pathological mechanisms of AGS show that inherited or sporadic AGS mutations
+downregulate RNAse expression, thus inducing overload of
+many miRNAs, which in turn activate neurotoxic lymphocytes
+and inhibit angiogenesis. Interestingly, AGS caused more
+than 16-fold up-regulation of miR-134[57], which targets and
+decreases BDNF expression, thereby potentially causing neuronal apoptosis and brain atrophy.
+In a neurodegenerative cellular model, withdrawing NGF
+causes neuronal differentiation dysfunction and cell apoptosis. Because miR-21 enhanced neurotrophin signaling and
+controlled the neuronal differentiation induced by NGF, this
+miRNA preserved the neurite network and supported the
+viability of the neurons after NGF withdrawal[43]. MiR-21 also
+regulates the expression of NT3 in hippocampal neurons of
+status epileptic brains. There is a miR-21 binding site in the
+3’UTR of NT3. In several epilepsy models, NT3 mRNA levels
+decreased consistently with decreased neurite outgrowth and
+neuronal cell survival. Recently, it was found that miR-21
+expression levels inversely correlated with NT3 mRNA levels
+in hippocampal neuronal cultures. To mimic the episode of
+status epileptics, treatment with excess KCl, a depolarizing
+agent in the neurons, also resulted in an increase in miR-21
+and a decrease in NT3 mRNA. MiR-21 may also be a candidate for regulating NT3 signaling in the rat hippocampus
+following status epileptics[26]. Moreover, in a degenerative
+cellular model of Alzheimer’s disease, primary cultured neurons incubated with the amyloid beta 25–35 (Aβ25–35), pretreatment with neuropeptide Y (NPY) decreased miR-30a-5p
+and increased BDNF mRNA and protein levels. Accordingly,
+miR-30a-5p targeted the 3’UTR of BDNF and down-regulated
+BDNF protein levels in human neuronal cells[58]. Thus, the
+miR-30a-5p and BDNF alterations were present in AD-affected
+neurons. NPY, by influencing miRNA expression, may affect
+BDNF production and exert neuronal protective effects[59].
+
+The effects of neurotrophins and miRNAs in cancers
+
+Neurotrophins and miRNAs are all involved in cancer. Similar to many other growth factors, neurotrophin signaling
+is involved in several cancers, and TRK receptor activation
+can either enhance or suppress tumor growth. The miRNA
+expression levels are altered in many cancers, resulting in
+abnormal increases or decreases. As post-transcriptional regulators, miRNAs can either act as oncogenes or tumor suppressor genes. The crosstalk between neurotrophins and miRNAs
+will be a very interesting topic in cancer studies for identifying
+novel diagnosis and therapeutic methods. For example, the
+BDNF/TRKB pathway has a critical role in tumorigenesis,
+promoting proliferation, differentiation, angiogenesis and
+invasiveness in several tumors, including neuroblastoma,
+ovarian, breast, prostate and lung cancers. Among these
+tumors, the overexpression of BDNF/TRKB might provide an
+autocrine survival pathway, and has also been implicated in
+poor prognosis in those tumors[60–63]. Interestingly, miR-204
+has an equally important role in tumorigenesis, migration and
+invasion. In fact, the chromosomal locus containing miR-204
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Shi J et al
+
+npg
+154
+
+is frequently lost, resulting in its lower expression in ovarian
+cancers, breast cancers and pediatric renal tumors. BDNF was
+predicted to be a miR-204 target from several prediction algorithms, and this was proved experimentally. Recently, it was
+reported that loss of miR-204 resulted in BDNF/TRKB overexpression and activation of the AKT/mTOR/Rac1 signaling
+pathway, leading to cancer cell migration and invasion[13].
+Thus, miR-204 acts as a potent tumor growth and metastasis
+suppressor, inhibiting at least one of the BDNF-TRKB pathways. In addition to BDNF, NT3 can also activate TRKB signaling in some circumstances such as in breast cancers. Similarly, miR-200c is expressed in breast cancers, but is lost in the
+more aggressive triple negative breast cancers (TNBC). It is
+a potent repressor of the epithelial to mesenchymal transition
+that plays an important role in the ability of cells to acquire
+the traits necessary to metastasize. MiR-200c may serve as
+a potent modulator of subclass-specific gene expression networks in breast cancer, and may be a useful tool for the subclassification of breast cancers. Anoikis is a type of apoptosis
+that is triggered by cell detachment from the native extracellular matrix. In suspended anoikis resistant TNBC cells, the
+upregulation of both TRKB and NT3 suggests that they are
+necessary for survival in suspension. Importantly, miR-200c
+can directly target TRKB and NT3 to restore the anoikis sensitivity of TNBC cells[64]. In this study, NT3 was identified as
+a TRKB ligand capable of activating TRKB to induce anoikis
+resistance. Overexpression of miR-200c decreased both TRKB
+and NT3, thereby restoring anoikis sensitivity[64]. These results
+indicate that miRNAs, neurotrophins and their receptors comprise a possible therapeutic regimen to treat different types
+and stages of tumors, and can also be used as diagnostics for
+cancer detection and prediction.
+MiRNAs regulate different TRKC isoforms in cancers. The
+TRKC gene can be alternatively spliced, yielding different
+isoforms. These include FL-TRKC and T-TRKC, which differ functionally and have separate 3’UTRs. This structural
+difference supports the hypothesis that these two isoforms
+may be differentially regulated by distinct miRNAs. Interestingly, only the truncated TRKC isoform possesses the target
+sequences for miR-9, miR-125a, and miR-125b. Furthermore, overexpression of miR-9 and miR-125a/b suppressed
+the expression of the truncated TRKC receptor isoform and
+decreased the proliferation of SK-N-BE neuroblastoma cells[65].
+In SH-SY5Y neuroblastoma cells, miR-151-3p alone repressed
+FL-TRKC. Four other miRNAs, including miR-128, miR485-3p, miR-765, and miR-768-5p, repressed T-TRKC. In
+particular, miR-128 overexpression caused the same morphological changes in SH-SY5Y neuroblastoma cells that were
+observed using a siRNA specifically against truncated TRKC,
+as well as a significant increase in the cell number[29]. The
+isoform-specific regulation of TRKC by miRNAs suggests that
+neurotrophins and their receptors can mediate processes that
+are strongly linked to miRNA-dependent mechanisms.
+MiRNAs may be involved in the ligand-independent function of p75NTR in glioma. Some of the different functions
+
+Acta Pharmacologica Sinica
+
+stimulated by neurotrophins through their receptors appear to
+be ligand-independent. For example, several reports suggest
+a type of ligand-independent activation of p75NTR signaling. After the ligand binding site of p75NTR, Cys257, was
+deleted in the transmembrane domain, ligand-independent
+activity still occurred through several pathways that are normally activated by NGF binding to p75NTR[66]. MiRNAs are
+candidates to conduct the ligand independent function. Usually, p75NTR acts as a tumor suppressor, causing cellular
+apoptosis and suppressing metastatic invasion. However,
+p75NTR can also induce invasion and metastasis in glioma
+and melanoma. MiR-6165 resides in the 4th intron of p75NTR
+in both the human and rat genomes. However, an independent promoter for miR-6165 was not found, and its transcription was thought to occur through its host gene promoter,
+the p75NTR promoter. Endogenous miR-6165 is expressed
+together with p75NTR in several glioma cell lines and glioma
+primary tumors. Similar to the pro-apoptotic role of p75NTR,
+overexpression of pre-miR-6165 in U87, a human malignant
+glioma cell line, resulted in an elevated rate of apoptosis. MiR6165 functions on its target genes, including neural stem cellderived dendrite regulator (DAGLA) and Polycistin-1 (PKD1),
+but not on any p75NTR downstream pathways[67]. Therefore,
+the function of miR-6165 is p75NTR related but ligand independent.
+The miRNA delivery system is one of the important issues
+in the treatment of cancer and brain diseases. Without protection, miRNAs or siRNAs will be degraded in less than 30 min
+in the circulatory system. To avoid this, nanomedicine and
+nanotechnology methods are being applied to deliver miRNAs. They comprise a novel research field, focusing on formulating biocompatible therapeutic agents such as nanoparticles, nanocapsules, micellar systems, and conjugates[68]. A
+nano-carrier system is required to deliver DNA or RNA to
+cells, which enhances cell internalization and protects the
+nucleic acid from nuclease enzymatic degradation. In addition, nanoparticles may also protect neurons from neurotoxicity due to overloaded nucleic acid[57, 69]. Several nanoparticlebased delivery strategies have been developed in recent years,
+including poly (DL-lactide-co-glycolide) (PLGA) nanoparticles, an FDA-approved commercial material and the most
+well-studied degradable synthetic polymer in humans. They
+are effective drug delivery vehicles[70] and are particularly
+attractive carriers for delivering miRNAs and siRNAs. Most
+importantly, nanoparticles composed of PLGA loaded with
+a drug have recently been successfully delivered intranasally
+into the brain[71], and PLGA loaded with a different drug has
+been delivered orally into the circulatory system [72]. PLGA
+nanoparticle-delivering siRNAs or miRNAs have been used
+widely in cancer[73, 74] as well as Alzheimer’s disease in animal
+models[75]. Importantly, other chemicals, nucleic acids and
+proteins can be added to the PLGA matrix to extend the features of nanoparticles. The emergence of nanotechnology as
+a delivery mechanism trends toward clinical development of
+miRNA therapies in cancer and brain diseases.
+
+www.chinaphar.com
+Shi J et al
+
+npg
+155
+
+Conclusion and outlook
+
+While the main focus of previous neurotrophin studies was
+on their function, signal transduction and regulation, since
+the beginning of the miRNA era, research has focused on
+fundamental processes, genomic alterations and target genes.
+Recently, studies have identified new regulation of miRNAs and neurotrophins such as miR-6165 and BDNF. They
+explored positive and negative loops among miRNAs, neurotrophins and other factors, such as miR-132, MeCP2, and
+BDNF, and broadened our understanding of how these neurotrophins and miRNAs are interconnected to regulate many
+physical and pathological processes. However, these areas
+are very new, and published results obtained from Medline
+are so few that conclusions based on these preliminary reports
+should always be drawn cautiously.
+Nonetheless, promising findings are emerging from the
+initial series of studies and the notion that miRNAs and neurotrophins can direct therapeutic and diagnostic approaches.
+Notably, an inhibitor of miR-122 (miravirsen) is currently
+being tested in a phase 2A clinical trial to assess safety and
+tolerability in treatment-naive patients with chronic hepatitis C[76]. Studying the regulatory networks between neurotrophins and miRNAs might serve to find new targets for
+neurotrophic drugs[7]. To decrease the toxicity in normal cells,
+tumor-targeted nanoparticles have been developed and used
+to localize chemotherapeutics to tumors while enhancing efficacy[77]. Likewise, this strategy also can be used for the treatment of brain diseases by miRNAs or siRNAs to decrease the
+neurotoxicity from overloaded nucleic acids. For diagnostic
+approaches other than testing neurotrophin levels, miRNAs
+may provide novel diagnostic methods. Some miRNAs may
+be released through exosomes, as miR-16, and these secreted
+miRNAs are stable, transferable and functional in the recipient
+cells[78], suggesting that specific miRNAs are promising biomarkers for cancer and brain diseases.
+
+References
+1
+2
+3
+4
+5
+6
+7
+
+8
+
+9
+
+Segal RA. Selectivity in neurotrophin signaling: theme and variations.
+Annu Rev Neurosci 2003; 26: 299–330.
+Reichardt LF. Neurotrophin-regulated signalling pathways. Philos
+Trans R Soc Lond B Biol Sci 2006; 361: 1545–64.
+Allen SJ, Dawbarn D. Clinical relevance of the neurotrophins and their
+receptors. Clin Sci (Lond) 2006; 110: 175–91.
+Chao MV, Rajagopal R, Lee FS. Neurotrophin signalling in health and
+disease. Clin Sci (Lond) 2006; 110: 167–73.
+Park H, Poo MM. Neurotrophin regulation of neural circuit develop­
+ment and function. Nat Rev Neurosci 2013; 14: 7–23.
+Underwood CK, Coulson EJ. The p75 neurotrophin receptor. Int J
+Biochem Cell Biol 2008; 40: 1664–8.
+Longo FM, Massa SM. Small-molecule modulation of neurotrophin
+receptors: a strategy for the treatment of neurological disease. Nat
+Rev Drug Discov 2013; 12: 507–25.
+Young KM, Merson TD, Sotthibundhu A, Coulson EJ, Bartlett PF. p75
+neurotrophin receptor expression defines a population of BDNFresponsive neurogenic precursor cells. J Neurosci 2007; 27: 5146–
+55.
+Galvao RP, Garcia-Verdugo JM, Alvarez-Buylla A. Brain-derived
+neurotrophic factor signaling does not stimulate subventricular zone
+
+neurogenesis in adult mice and rats. J Neurosci 2008; 28: 13368–
+83.
+10 Shi J, Longo FM, Massa SM. A small molecule p75(NTR) ligand
+protects neurogenesis after traumatic brain injury. Stem Cells 2013;
+31: 2561–74.
+11 Scardigli R, Capelli P, Vignone D, Brandi R, Ceci M, La Regina F, et
+al. Neutralization of nerve growth factor impairs proliferation and
+differentiation of adult neural progenitors in the subventricular zone.
+Stem Cells 2014; 32: 2516–28.
+12 Numakawa T, Richards M, Adachi N, Kishi S, Kunugi H, Hashido K.
+MicroRNA function and neurotrophin BDNF. Neurochem Int 2011; 59:
+551–8.
+13 Imam JS, Plyler JR, Bansal H, Prajapati S, Bansal S, Rebeles J, et al.
+Genomic loss of tumor suppressor miRNA-204 promotes cancer cell
+migration and invasion by activating AKT/mTOR/Rac1 signaling and
+actin reorganization. PLoS One 2012; 7: e52397.
+14 Ambros V. The functions of animal microRNAs. Nature 2004; 431:
+350–5.
+15 Bartel DP. MicroRNAs: genomics, biogenesis, mechanism, and
+function. Cell 2004; 116: 281–97.
+16 Almeida MI, Reis RM, Calin GA. MicroRNA history: discovery, recent
+applications, and next frontiers. Mutat Res 2011; 717: 1–8.
+17 Filipowicz W, Bhattacharyya SN, Sonenberg N. Mechanisms of posttranscriptional regulation by microRNAs: are the answers in sight?
+Nat Rev Genet 2008; 9: 102–14.
+18 Sandberg R, Neilson JR, Sarma A, Sharp PA, Burge CB. Proliferating
+cells express mRNAs with shortened 3′ untranslated regions and
+fewer microRNA target sites. Science 2008; 320: 1643–7.
+19 Konopka W, Kiryk A, Novak M, Herwerth M, Parkitna JR, Wawrzyniak
+M, et al. MicroRNA loss enhances learning and memory in mice. J
+Neurosci 2010; 30: 14835–42.
+20 Li YJ, Xu M, Gao ZH, Wang YQ, Yue Z, Zhang YX, et al. Alterations of
+serum levels of BDNF-related miRNAs in patients with depression.
+PLoS One 2013; 8: e63648.
+21 Johannessen M, Delghandi MP, Moens U. What turns CREB on? Cell
+Signal 2004; 16: 1211–27.
+22 Hong EJ, McCord AE, Greenberg ME. A biological function for the
+neuronal activity-dependent component of Bdnf transcription in the
+development of cortical inhibition. Neuron 2008; 60: 610–24.
+23 Gao J, Wang WY, Mao YW, Graff J, Guan JS, Pan L, et al. A novel
+pathway regulates memory and plasticity via SIRT1 and miR-134.
+Nature 2010; 466: 1105–9.
+24 Wang T, Liu YY, Wang X, Yang N, Zhu HB, Zuo PP. Protective effects of
+octacosanol on 6-hydroxydopamine-induced Parkinsonism in rats via
+regulation of ProNGF and NGF signaling. Acta Pharmacol Sin 2010;
+31: 765–74.
+25 Irmady K, Jackman KA, Padow VA, Shahani N, Martin LA, Cerchietti
+L, et al. Mir-592 regulates the induction and cell death-promoting
+activity of p75NTR in neuronal ischemic injury. J Neurosci 2014; 34:
+3419–28.
+26 Risbud RM, Lee C, Porter BE. Neurotrophin-3 mRNA a putative target
+of miR21 following status epilepticus. Brain Res 2011; 1424: 53–9.
+27 Othumpangat S, Walton C, Piedimonte G. MicroRNA-221 modulates
+RSV replication in human bronchial epithelium by targeting NGF
+expression. PLoS One 2012; 7: e30030.
+28 Miura P, Amirouche A, Clow C, Belanger G, Jasmin BJ. Brainderived neurotrophic factor expression is repressed during myogenic
+differentia­tion by miR-206. J Neurochem 2012; 120: 230–8.
+29 Guidi M, Muinos-Gimeno M, Kagerbauer B, Marti E, Estivill X,
+Espinosa-Parrilla Y. Overexpression of miR-128 specifically inhibits
+the truncated isoform of NTRK3 and upregulates BCL2 in SH-SY5Y
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Shi J et al
+
+npg
+156
+
+neuroblastoma cells. BMC Mol Biol 2010; 11: 95.
+30 Schratt GM, Nigh EA, Chen WG, Hu L, Greenberg ME. BDNF regulates
+the translation of a select group of mRNAs by a mammalian target of
+rapamycin-phosphatidylinositol 3-kinase-dependent pathway during
+neuronal development. J Neurosci 2004; 24: 7366–77.
+31 Paroo Z, Ye X, Chen S, Liu Q. Phosphorylation of the human micro­
+RNA-generating complex mediates MAPK/Erk signaling. Cell 2009;
+139: 112–22.
+32 Huang YW, Ruiz CR, Eyler EC, Lin K, Meffert MK. Dual regulation of
+miRNA biogenesis generates target specificity in neurotrophin-induced
+protein synthesis. Cell 2012; 148: 933–46.
+33 Heo I, Joo C, Kim YK, Ha M, Yoon MJ, Cho J, et al. TUT4 in concert
+with Lin28 suppresses microRNA biogenesis through pre-microRNA
+uridylation. Cell 2009; 138: 696–708.
+34 Wu J, Xie X. Comparative sequence analysis reveals an intricate
+network among REST, CREB and miRNA in mediating neuronal gene
+expression. Genome Biol 2006; 7: R85.
+35 Remenyi J, Hunter CJ, Cole C, Ando H, Impey S, Monk CE, et al.
+Regulation of the miR-212/132 locus by MSK1 and CREB in response
+to neurotrophins. Biochem J 2010; 428: 281–91.
+36 Vo N, Klein ME, Varlamova O, Keller DM, Yamamoto T, Goodman RH,
+et al. A cAMP-response element binding protein-induced microRNA
+regulates neuronal morphogenesis. Proc Natl Acad Sci U S A 2005;
+102: 16426–31.
+37 Magill ST, Cambronne XA, Luikart BW, Lioy DT, Leighton BH, Westbrook
+GL, et al. microRNA-132 regulates dendritic growth and arborization
+of newborn neurons in the adult hippocampus. Proc Natl Acad Sci
+U S A 2010; 107: 20382–7.
+38 Laneve P, Gioia U, Andriotto A, Moretti F, Bozzoni I, Caffarelli E. A
+minicircuitry involving REST and CREB controls miR-9-2 expression
+during human neuronal differentiation. Nucleic Acids Res 2010; 38:
+6895–905.
+39 Lukiw WJ. NF-κB, cyrillicB-regulated micro RNAs (miRNAs) in primary
+human brain cells. Exp Neurol 2012; 235: 484–90.
+40 Ghose J, Sinha M, Das E, Jana NR, Bhattacharyya NP. Regulation of
+miR-146a by RelA/NFκB and p53 in STHdh(Q111)/Hdh(Q111) cells, a
+cell model of Huntington’s disease. PLoS One 2011; 6: e23837.
+41 Hu HY, Li KP, Wang XJ, Liu Y, Lu ZG, Dong RH, et al. Set9, NF-kappaB,
+and microRNA-21 mediate berberine-induced apoptosis of human
+multiple myeloma cells. Acta Pharmacol Sin 2013; 34: 157–66.
+42 Terasawa K, Ichimura A, Sato F, Shimizu K, Tsujimoto G. Sustained
+activation of ERK1/2 by NGF induces microRNA-221 and 222 in PC12
+cells. FEBS J 2009; 276: 3269–76.
+43 Montalban E, Mattugini N, Ciarapica R, Provenzano C, Savino M,
+Scagnoli F, et al. MiR-21 is an Ngf-modulated microRNA that supports
+Ngf signaling and regulates neuronal degeneration in PC12 cells.
+Neuromolecular Med 2014; 16: 415–30.
+44 Hamada N, Fujita Y, Kojima T, Kitamoto A, Akao Y, Nozawa Y, et al.
+MicroRNA expression profiling of NGF-treated PC12 cells revealed a
+critical role for miR-221 in neuronal differentiation. Neurochem Int
+2012; 60: 743–50.
+45 Meza-Sosa KF, Valle-Garcia D, Pedraza-Alva G, Perez-Martinez L. Role
+of microRNAs in central nervous system development and pathology.
+J Neurosci Res 2012; 90: 1–12.
+46 Klein ME, Lioy DT, Ma L, Impey S, Mandel G, Goodman RH. Homeo­
+static regulation of MeCP2 expression by a CREB-induced microRNA.
+Nat Neurosci 2007; 10: 1513–4.
+47 Packer AN, Xing Y, Harper SQ, Jones L, Davidson BL. The bifunctional
+microRNA miR-9/miR-9* regulates REST and CoREST and is down­
+regulated in Huntington’s disease. J Neurosci 2008; 28: 14341–6.
+48 Johnson R, Zuccato C, Belyaev ND, Guest DJ, Cattaneo E, Buckley
+Acta Pharmacologica Sinica
+
+NJ. A microRNA-based gene dysregulation pathway in Huntington’s
+disease. Neurobiol Dis 2008; 29: 438–45.
+49 Samadi P, Boutet A, Rymar VV, Rawal K, Maheux J, Kvann JC, et al.
+Relationship between BDNF expression in major striatal afferents,
+striatum morphology and motor behavior in the R6/2 mouse model of
+Huntington’s disease. Genes Brain Behav 2013; 12: 108–24.
+50 Roux JC, Zala D, Panayotis N, Borges-Correia A, Saudou F, Villard L.
+Modification of Mecp2 dosage alters axonal transport through the
+Huntingtin/Hap1 pathway. Neurobiol Dis 2012; 45: 786–95.
+51 Tan L, Yu JT, Tan L. Causes and consequences of microRNA dysregula­
+tion in neurodegenerative diseases. Mol Neurobiol 2014 Jun 29.
+[Epub ahead of print]
+52 Lungu G, Stoica G, Ambrus A. MicroRNA profiling and the role of
+microRNA-132 in neurodegeneration using a rat model. Neurosci Lett
+2013; 553: 153–8.
+53 Nomura T, Kimura M, Horii T, Morita S, Soejima H, Kudo S, et al.
+MeCP2-dependent repression of an imprinted miR-184 released by
+depolarization. Hum Mol Genet 2008; 17: 1192–9.
+54 Gehrke S, Imai Y, Sokol N, Lu B. Pathogenic LRRK2 negatively
+regulates microRNA-mediated translational repression. Nature 2010;
+466: 637–41.
+55 Yamakuchi M, Lowenstein CJ. MiR-34, SIRT1 and p53: the feedback
+loop. Cell Cycle 2009; 8: 712–5.
+56 Lusardi TA, Farr CD, Faulkner CL, Pignataro G, Yang T, Lan J, et al.
+Ischemic preconditioning regulates expression of microRNAs and a
+predicted target, MeCP2, in mouse cortex. J Cereb Blood Flow Metab
+2010; 30: 744–56.
+57 Pulliero A, Fazzi E, Cartiglia C, Orcesi S, Balottin U, Uggetti C, et al.
+The Aicardi-Goutieres syndrome. Molecular and clinical features of
+RNAse deficiency and microRNA overload. Mutat Res 2011; 717:
+99–108.
+58 Mellios N, Huang HS, Grigorenko A, Rogaev E, Akbarian S. A set of
+differentially expressed miRNAs, including miR-30a-5p, act as posttranscriptional inhibitors of BDNF in prefrontal cortex. Hum Mol
+Genet 2008; 17: 3030–42.
+59 Croce N, Gelfo F, Ciotti MT, Federici G, Caltagirone C, Bernardini S,
+et al. NPY modulates miR-30a-5p and BDNF in opposite direction
+in an in vitro model of Alzheimer disease: a possible role in neuro­
+protection? Mol Cell Biochem 2013; 376: 189–95.
+60 Au CW, Siu MK, Liao X, Wong ES, Ngan HY, Tam KF, et al. Tyrosine
+kinase B receptor and BDNF expression in ovarian cancers — effect
+on cell migration, angiogenesis and clinical outcome. Cancer Lett
+2009; 281: 151–61.
+61 Brodeur GM. Neuroblastoma: biological insights into a clinical
+enigma. Nat Rev Cancer 2003; 3: 203–16.
+62 Edsjo A, Lavenius E, Nilsson H, Hoehner JC, Simonsson P, Culp LA, et
+al. Expression of trkB in human neuroblastoma in relation to MYCN
+expression and retinoic acid treatment. Lab Invest 2003; 83: 813–
+23.
+63 Nakagawara A, Azar CG, Scavarda NJ, Brodeur GM. Expression and
+function of TRK-B and BDNF in human neuroblastomas. Mol Cell Biol
+1994; 14: 759–67.
+64 Howe EN, Cochrane DR, Cittelly DM, Richer JK. miR-200c targets
+a NF-kappaB up-regulated TrkB/NTF3 autocrine signaling loop to
+enhance anoikis sensitivity in triple negative breast cancer. PLoS One
+2012; 7: e49987.
+65 Laneve P, Di Marcotullio L, Gioia U, Fiori ME, Ferretti E, Gulino A, et
+al. The interplay between microRNAs and the neurotrophin receptor
+tropomyosin-related kinase C controls proliferation of human neuro­
+blastoma cells. Proc Natl Acad Sci U S A 2007; 104: 7957–62.
+66 Vilar M, Charalampopoulos I, Kenchappa RS, Reversi A, Klos-
+
+www.chinaphar.com
+Shi J et al
+
+npg
+157
+
+Applequist JM, Karaca E, et al. Ligand-independent signaling by
+disulfide-crosslinked dimers of the p75 neurotrophin receptor. J Cell
+Sci 2009; 122: 3351–7.
+67 Parsi S, Soltani BM, Hosseini E, Tousi SE, Mowla SJ. Experimental
+verification of a predicted intronic microRNA in human NGFR gene
+with a potential pro-apoptotic function. PLoS One 2012; 7: e35561.
+68 Dizaj SM, Jafari S, Khosroushahi AY. A sight on the current nano­
+particle-based gene delivery vectors. Nanoscale Res Lett 2014; 9:
+252.
+69 Pulliero A, Marengo B, Fenoglio D, Parodi A, Cereda C, Domenicotti
+C, et al. Prevention of lymphocyte neurotoxic effects by microRNA
+delivery. MicroRNA 2014; 2: 187–93.
+70 Danhier F, Ansorena E, Silva JM, Coco R, Le Breton A, Preat V. PLGAbased nanoparticles: an overview of biomedical applications. J
+Control Release 2012; 161: 505–22.
+71 Sharma D, Maheshwari D, Philip G, Rana R, Bhatia S, Singh M, et
+al. Formulation and optimization of polymeric nanoparticles for
+intranasal delivery of lorazepam using Box-Behnken design: in vitro
+and in vivo evaluation. Biomed Res Int 2014; 156010.
+72 Sankar R, Ravikumar V. Biocompatibility and biodistribution of
+suberoyl­anilide hydroxamic acid loaded poly (DL-lactide-co-glycolide)
+nanoparticles for targeted drug delivery in cancer. Biomed Pharma­
+cother. 2014 Jul 17. doi: 10.1016/j.biopha.2014.07.015.
+73 Jensen SA, Day ES, Ko CH, Hurley LA, Luciano JP, Kouri FM, et al.
+Spherical nucleic acid nanoparticle conjugates as an RNAi-based
+therapy for glioblastoma. Sci Transl Med 2013; 5: 209ra152.
+74 Arora S, Swaminathan SK, Kirtane A, Srivastava SK, Bhardwaj A,
+
+Singh S, et al. Synthesis, characterization, and evaluation of poly (D,Llactide-co-glycolide)-based nanoformulation of miRNA-150: potential
+implications for pancreatic cancer therapy. Int J Nanomed 2014; 9:
+2933–42.
+75 Tiwari SK, Agarwal S, Seth B, Yadav A, Nair S, Bhatnagar P, et al.
+Curcumin-loaded nanoparticles potently induce adult neurogenesis
+and reverse cognitive deficits in Alzheimer’s disease model via
+canonical Wnt/beta-catenin pathway. ACS Nano 2014; 8: 76–103.
+76 Janssen HL, Reesink HW, Lawitz EJ, Zeuzem S, Rodriguez-Torres M,
+Patel K, et al. Treatment of HCV infection by targeting microRNA. N
+Engl J Med 2013; 368: 1685–94.
+77 Mueller M, Reichardt W, Koerner J, Groettrup M. Coencapsulation of
+tumor lysate and CpG-ODN in PLGA-microspheres enables successful
+immunotherapy of prostate carcinoma in TRAMP mice. J Control
+Release 2012; 162: 159–66.
+78 Kosaka N, Iguchi H, Yoshioka Y, Takeshita F, Matsuki Y, Ochiya T.
+Secretory mechanisms and intercellular transfer of microRNAs in
+living cells. J Biol Chem 2010; 285: 17442–52.
+
+This work is licensed under the Creative
+Commons Attribution-NonCommercial-No
+Derivative Works 3.0 Unported License. To view a copy
+of this license, visit http://creativecommons.org/licenses/
+by-nc-nd/3.0/
+
+Acta Pharmacologica Sinica
+
+

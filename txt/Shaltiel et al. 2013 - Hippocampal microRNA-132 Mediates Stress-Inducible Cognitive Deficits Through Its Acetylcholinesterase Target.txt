@@ -1,0 +1,1127 @@
+Brain Struct Funct
+DOI 10.1007/s00429-011-0376-z
+
+ORIGINAL ARTICLE
+
+Hippocampal microRNA-132 mediates stress-inducible cognitive
+deficits through its acetylcholinesterase target
+G. Shaltiel • M. Hanan • Y. Wolf • S. Barbash •
+E. Kovalev • S. Shoham • H. Soreq
+
+Received: 7 November 2011 / Accepted: 29 December 2011
+Ó The Author(s) 2012. This article is published with open access at Springerlink.com
+
+Abstract Diverse stress stimuli induce long-lasting cognitive deficits, but the underlying molecular mechanisms
+are still incompletely understood. Here, we report three
+different stress models demonstrating that stress-inducible
+increases in microRNA-132 (miR-132) and consequent
+decreases in its acetylcholinesterase (AChE) target are
+causally involved. In a mild model of predator scentinduced anxiety, we demonstrate long-lasting hippocampal
+elevation of miR-132, accompanied by and associated
+with reduced AChE activity. Using lentiviral-mediated
+suppression of ‘‘synaptic’’ AChE-S mRNA, we quantified
+footshock stress-inducible changes in miR-132 and AChE
+and its corresponding cognitive damages. Stressed mice
+showed long-lasting impairments in the Morris water maze.
+In contrast, pre-stress injected AChE-suppressing lentivirus, but not a control virus, reduced hippocampal levels of
+both miR-132 and AChE and maintained similar cognitive
+performance to that of naı̈ve, non-stressed mice. To dissociate between miR-132 and synaptic AChE-S as potential causes for stress-inducible cognitive deficits, we further
+used engineered TgR mice with enforced over-expression
+
+of the soluble ‘‘readthrough’’ AChE-R variant without the
+30 -untranslated region binding site for miR-132. TgR mice
+displayed excess AChE-R in hippocampal neurons,
+enhanced c-fos labeling and correspondingly intensified
+reaction to the cholinergic agonist pilocarpine. They further showed excessive hippocampal expression of miR132, accompanied by reduced host AChE-S mRNA and the
+GTPase activator p250GAP target of miR-132. At the
+behavioral level, TgR mice showed abnormal nocturnal
+locomotion patterns and serial maze mal-performance in
+spite of their reduced AChE-S levels. Our findings attribute
+stress-inducible cognitive impairments to cholinergicmediated induction of miR-132 and consequently suppressed ACHE-S, opening venues for intercepting these
+miR-132-mediated damages.
+Keywords Acetylcholinesterase  P250GAP 
+Cholinergic  Cognition  MicroRNA-132 
+Psychological stress
+
+Introduction
+Shaltiel G and Hanan M contributed equally.
+
+Electronic supplementary material The online version of this
+article (doi:10.1007/s00429-011-0376-z) contains supplementary
+material, which is available to authorized users.
+G. Shaltiel  M. Hanan  Y. Wolf  S. Barbash  H. Soreq (&)
+The Edmond and Lily Safra Center of Brain Sciences,
+The Silberman Institute of Life Sciences,
+The Hebrew University of Jerusalem,
+Jerusalem 91904, Israel
+e-mail: soreq@cc.huji.ac.il
+E. Kovalev  S. Shoham
+Herzog Memorial Hospital, Jerusalem 91351, Israel
+
+Acute and chronic stress can both induce anxiety (McEwen
+and Gianaros 2011) and either impair learning and memory
+performance (Diamond et al. 1999; Nijholt et al. 2004) or
+enhance it (Blank et al. 2002). Manipulating cholinergic
+neurotransmission in the hippocampus, which receives
+extensive cholinergic innervations, changes the cognitive
+control over executive function and error monitoring
+(Carter et al. 1998), suggesting cholinergic involvement in
+stress responses. Recent studies associate acute and chronic
+stress reactions with specific microRNA (miR)-mediated
+silencing of affected transcripts (Meerson et al. 2010).
+MiRs are short (*22 nucleotides), non-coding RNAs that
+
+123
+
+Brain Struct Funct
+
+regulate various molecular pathways (Bartel 2009; Krol
+et al. 2010) by post-transcriptional gene silencing (Filipowicz et al. 2008; Rana 2007). Each miR may target
+several mRNAs, often in specific locations on their
+30 -untranslated region (30 -UTR) and can modulate entire
+pathways in a rheostat-like manner (Chen et al. 2004)
+[reviewed in (Soreq and Wolf 2011)]. However, the signaling pathway(s) controlling the levels of neuronal miRs,
+the corresponding miR-target interactions involved in their
+diverse functions and the consequent cognitive effects
+remain incompletely understood.
+MiR-132 is prominently neuronal-enriched, highly
+induced by the cAMP-response element binding protein
+(CREB). In cortical neurons, miR-132 enhances neuronal
+morphogenesis and neurite outgrowth by decreasing the
+levels of the Rho family member GTPase-activating protein, p250GAP (Vo et al. 2005). Mice engineered to overexpress miR-132 in forebrain neurons correspondingly
+show marked increase in dendrite spine density, accompanied by deficits in a novel object recognition test
+(Wayman et al. 2008). However, which neurotransmission
+signal(s) are responsible for miR-132 changes and which of
+its target(s) mediate these effects remained unanswered.
+Another target of miR-132 is the acetylcholine hydrolyzing enzyme acetylcholinesterase (AChE) (Shaked et al.
+2009; Meshorer and Soreq 2006). In acute psychological
+stress, activated cholinergic neurons display rapid, yet
+transient increases in a normally rare soluble AChE-R
+splice variant (Kaufer et al. 1998) that replaces the ‘‘synaptic’’ AChE variant (Kaufer et al. 1998; Meshorer et al.
+2002; Meshorer and Soreq 2006). In macrophages, AChE
+suppression by miR-132 accentuates cholinergic signaling
+(Shaked et al. 2009). In transfected neurons, tetracyclinecontrolled antisense suppression of AChE leads to
+enhanced dendrite extension and causes hyper-locomotion
+in engineered mice (Sklan et al. 2006). Taken together, we
+surmised that miR-132-mediated suppression of hippocampal AChE levels may enhance cholinergic signaling,
+contributing to the neurite extension, cognitive and locomotion impairments caused by stressful experiences.
+To challenge these predictions, we sought appropriate
+mouse models and experimental strategies. Our rationale
+was as follows: (1) If indeed stress-inducible changes in
+hippocampal miR-132 and AChE cause long-lasting effects,
+miR-132 increases and AChE activity decreases should be
+observed in different stress models and even several days
+after the initiation of psychological stress. (2) If the changes
+in miR-132 and ‘‘synaptic’’ AChE-S are inter-related, then
+preventing one would avoid the other, and if these changes
+are the cause for stress-induced cognitive deficits, then
+preventing them both from happening would avoid these
+deficits. (3) Alternatively, if miR-132 elevation by itself is
+sufficient to cause the stress phenotype and cognitive
+
+123
+
+malfunctioning, then maintaining miR-132 excess even
+under AChE-S suppression would cause cognitive deficits.
+To investigate this triple hypothesis, we employed three
+diverse stress paradigms: the acute predator scent test,
+acute unpredictable footshocks accompanied by hippocampal AChE knockdown, and engineered mice with an
+inherited anxiogenic-like phenotype (Salas et al. 2008) due
+to enforced excess of AChE-R, but with a depleted miR132 binding site which ensures continuous suppression of
+the host AChE-S, but not the transgenic AChE-R proteins
+(Shaked et al. 2009). In the two latter models, we also
+evaluated cognitive deficits evolving from the stress
+exposure.
+
+Methods
+Animals
+Mice were kept in an animal room at a constant temperature (22 ± 1°C) and a 12-h light/dark cycle with free
+access to food and water. They were tested in the same
+room under dim illumination (30 lux) by the same testers
+between 10 and 16 h. All experimental procedures were
+approved by The Hebrew University’s Committee for
+Animal Experimentation (NS-08-11485-4).
+Pharmacological intervention
+Intraperitoneal (i.p) injection of 0.1 ml of 25 mg/kg pilocarpine hydrochloride (Sigma, Rehovot, Israel), or saline
+followed 30 min habituation to a holding cage.
+Stereotactic surgeries
+Group housed C57Bl/6J 9 weeks old male mice underwent
+stereotactic surgery, after which they were singly-housed
+throughout all subsequent testing. Control mice were singly
+housed as well. Mice were anesthetized by i.p. injections of
+ketamine (50 mg/kg) (Forth Dodge, IA, USA) and domitor
+(0.5 mg/kg) (Orion Pharma, Espoo, Finland) mix, and then
+mounted in a stereotactic apparatus for intra-hippocampal
+injections. Coordinates of the injection sites (in mm) relative to bregma were AP: -2.0, L: 1.8, DV: -1.5. Bilateral
+injections of 0.5 ul lentiviral suspensions were conducted
+using a 10-l Glenco syringe (Houston, TX, USA). After
+each injection, the needle was left in situ for 5 min before
+being retracted to allow complete diffusion.
+Water maze test
+The water maze consisted of a round tank, 1.6 m in
+diameter, filled with water. Mice were trained to find the
+
+Brain Struct Funct
+
+location of a hidden platform (16 cm in diameter), submerged 1 cm below the water surface, using extra maze
+visual cues. The training part consisted of 4 trials per day,
+with a 1-h brake between trials, for 3 days. The escape
+latency, i.e., the time required by the mouse to find the
+platform and climb on it, was recorded for up to 60 s. Each
+mouse was allowed to remain on the platform for 30 s and
+was then moved from the maze to its home cage. If the
+mouse did not find the platform within 60 s, it was placed
+gently on the platform for 30 s, and then returned to its
+home cage. On the fourth day of the experiment, the
+platform was removed and a probe trial was conducted:
+mice were placed in the maze for 60 s, in which the
+number of crosses over the four quadrants of the maze was
+recorded. Increased swimming in the quadrant where the
+platform was originally placed was considered as an indication of spatial acquisition. One day after the end of
+behavioral tests mice were anesthetized by Isoflurane
+inhalation and decapitated. Brains were removed and two
+half sagital sections were immediately frozen in liquid
+nitrogen. One section was sliced in cryostat for Karnovsky–Roots staining experiments (Sternfeld et al. 2000) and
+the other was taken for mRNA measurements. In brief,
+AChE activity staining was conducted using the Karnovsky–Roots staining method (Karnovsky and Roots 1964;
+Kaufer et al. 1998). 40-um frozen sections were incubated
+at room temperature in soft shaking for 5 min. Staining
+solution contained 2 mM acetylthiocholine iodide (Sigma,
+Israel), dissolved in PBS, 5 mM sodium citrate, 3 mM
+cupric sulfate, 0.5 mM potassium ferricyanide, 0.1 mM
+butyrylcholinesterase specific inhibitor, ISO-OMPA.
+Two unit serial maze
+3- to 6-months-old female 30 UTR-null AChE and FVB/N
+mice were group housed. Only females were taken for this
+experiment due to their higher stress responsiveness compared with males (Goel and Bale 2010). Modular units
+placed in a series constitute this maze (Quartermain et al.
+1994). To complete one ‘‘run’’, a 22 h water-deprived
+mouse must choose between turning right or left to receive,
+at the end of the maze, a reward in the form of 40 ll of 5%
+sucrose and one ‘‘run’’ is considered complete. Then the
+mouse must shuttle back to the other end of the maze where
+it gets the same reward. There were 5 runs per session; one
+session per day. Quantitative measures of performance
+include number of left/right choice errors and ‘‘retrace
+errors’’—episodes in which a mouse moves in the wrong
+direction (toward the end without a reward) (Farchi et al.
+2007). Mice were euthanized 80–90 min after the behavioral experiment by an intra-peritoneal injection of
+200 mg/kg sodium pentobarbital (‘‘Pental’’). Brains were
+either fixed by transcardial perfusion with ice-cold 4%
+
+paraformaldehyde containing 4% sucrose (pH 7.4) or
+removed and kept frozen in -70°C.
+Predator scent exposure and footshock acute stress
+Group housed C57Bl/6J 9 weeks old male mice were
+placed on well-soiled cat litter for 10 min (in use by the cat
+for 2 days, sifted for stools) (Cohen et al. 2006) or were
+placed in a footshock delivery system (Campden Instruments, UK) where they received seven inescapable electric
+footshocks (0.3 mA; 2 ms) at unequal intervals over a total
+period of 120 min.
+Elevated plus maze
+Anxiety-related behaviors were tested in a Plexiglas plusshaped maze containing two dark and enclosed arms
+(30 9 5 cm with a 5 9 5 cm center area and 40 cm high
+walls) and two 30 9 5 cm open and lit arms, all elevated
+50 cm above ground. Individual mice were placed in the
+center of the maze, tracked for 5 min with a video
+camera, and then returned to their home cage. The plus
+maze was wiped clean between trials with a 10% alcohol
+solution.
+Lentiviral procedures
+The packaged virus was collected at 24 and 48 h posttransfection and concentrated using ultracentrifugation
+(70,000g, 2 h, 15°C). Dilutions of concentrated virus were
+followed by infection of HEK-293T cells with diluted
+virus. The resulting titer (*1 9 109 infectious particles
+per ml) was assessed for shRNA expressing viruses using
+puromycin selection and for GFP expressing viruses by cell
+fluorescence counting. Screening of two putative AChE
+shRNAs, sh799 and sh800, designed to down-regulate
+mouse/rat AChE levels was first conducted in neuronal-like
+PC12 cells and compared to a control shRNA (shCON) that
+does not target any mammalian gene. Both shRNAs
+reduced the AChE-S variant and suppressed AChE total
+activity in these cells, but only Sh799 down-regulated
+overall AChE mRNA levels (Online Resources Fig. 1).
+Viral infection of primary cortical cell culture
+Cerebral cortex was separated from the brain of 15th
+day embryos of FVB/N mice, minced, and cells plated
+on poly-L-ornithine coated 12-well plates in Neurobasal
+medium, 2% B27 supplement, 20% Glutamax and 20%
+Penicillin/streptomycin (Invitrogen, Grand Island, NY,
+USA). 72 h post-plating, 250 ul of non-concentrated
+medium containing viral particles was added to each well.
+
+123
+
+Brain Struct Funct
+
+RNA procedures
+RNA was extracted (RNeasy lipid tissue kit, Qiagen,
+Valencia, CA, USA), DNase treated and its integrity confirmed by gel electrophoresis.
+For SYBR green real-time PCR, cDNA synthesis (Promega, Madison, WI, USA) involved 1 lg RNA samples in
+20 ll reactions. Duplicate real-time reverse transcriptase
+(RT) PCR tests involved ABI prism 7900HT, SYBR green
+master mix (Applied biosystems, Foster City, CA, USA)
+and ROX, and a passive reference dye for signal normalization across the plate. Primer sequences are listed in
+Table 1. 18S rRNA or GAPDH was used as reference
+transcripts. Annealing temperature was 60°C for all primers. Serial dilution of samples served to evaluate primers
+efficiency and the appropriate cDNA concentration that
+yields linear changes. Melting curve analysis and amplicons sequencing verified the identity of end products.
+MicroRNA quantification using The TaqMan MicroRNA
+Assays (Applied Biosystems, Foster City, CA, USA) was
+conducted in two-step RT-PCR kit according to the manufacturer’s instructions. For miR-132 (Applied Biosystems,
+Foster City, CA, USA) measurements, a reference transcript of SNO-135 (Applied Biosystems) was used.
+
+to bregma. Images of each hippocampal sub-region were
+acquired and analyzed using AnalySIS software (SIS,
+Germany). Karnovsky staining of histochemical AChE
+activity was as in (Sternfeld et al. 2000). In situ hybridization was essential as described (Berson et al. 2008).
+AChE activity measurement
+AChE activity was measured by Ellman’s assay (Ellman
+et al. 1961) adjusted to multiwell plates and normalized
+TM
+according to the protein content of the cell lysate (DC
+protein assay, Bio-Rad, Hercules, CA, USA).
+Statistical analysis
+The following statistical analyses were done using
+STATISTICA9 and GraphPad Prism 5 software: Student’s
+t test, one-way ANOVA and two-way ANOVA with Tukey
+post hoc comparisons and Pearson’s correlation test.
+
+Results
+Elevated predator stress-inducible miR-132 associates
+with suppression of AChE-S
+
+Histochemistry and immunohistochemistry
+The AChE-R C-terminal peptide (ARP) was labeled by a
+rabbit polyclonal antibody (Berson et al. 2008). The common domain shared by both AChE variants was labeled
+with goat anti-human AChE (Santa Cruz, CA, USA, antibody N19). c-fos was stained using rabbit anti c-fos
+(Sigma, Rehovot, Israel). In co-localization studies, we
+used fluorescein (FITC)-labeled donkey anti-rabbit to
+visualize AChE-R and streptavidin-Cy3 to visualize general AChE. Two to three coronal brain sections were
+sampled at an estimated distance of 2.8–3.3 mm posterior
+
+Table 1 Primer sequences for
+SYBR green real-time PCR
+
+123
+
+Isoform
+
+Our first experimental model served to explore the interrelationship between a long-lasting stress phenotype,
+induced by predator scent, increases in hippocampal miR132 and decreases in AChE-S. Seven days following a
+predator scent stress (Fig. 1a), C57BI/6J mice subjected to
+an elevated plus maze (EPM) showed sustained anxiety.
+Compatible with previous reports on predator smell-stressed mice (Cohen et al. 2006), they spent less time in the
+maze open arms and more time in its closed arms and
+attempted fewer entries to the open arms compared to naı̈ve
+mice (Fig. 1b–d). Given that miR-132 targets the AChE
+
+Forward primer 50 –30
+
+Reverse primer 50 –30
+
+mAChE common
+
+cggaggctctcatcaatac
+
+accccgtaaaccagaaagtag
+
+mAChE-S
+mAChE-R
+
+ctgaacctgaagcccttagag
+gagcagggaatgcacaag
+
+ccgcctcgtccagagtat
+ggggaggtaaagaagagag
+
+hAChE-R
+
+cttcctccccaaattgctc
+
+ggggagaagagaggggttac
+
+mP250GAP
+
+accaactcagtgccaaaacc
+
+aacccagaattgaggaggtg
+
+m18S rRNA
+
+cgccgctagaggtgaaattc
+
+ttggcaaatgctttcgcgcgtc
+
+mGAPDH
+
+atcaagaagtggtgaagcag
+
+cctactccttggaggccatgt
+
+rAChE common
+
+cggacgctctcatcaatac
+
+acccccgtaaaccagaaagtag
+
+rAChE-S
+
+ctgaacctgaagcctttggag
+
+gcgctccgcctcgtccag
+
+rAChE-R
+
+gaacctgaagcctttgg
+
+ccttttctctctcccgtcct
+
+r18S rRNA
+
+cgccgctagaggtgaaattc
+
+ttggcaaatgctttcgcgcgtc
+
+Brain Struct Funct
+
+Fig. 2 Neuronal AChE and the GTPase activator p250GAP are both
+targets of miR-132. a The ‘seed’ region in miR-132 is complementary
+to the targeted 30 -UTR in the AChE-S and P250GAP transcripts
+[created using Targetscan and Pictar websites (Online Resources
+Table 1)]. b Hippocampal mP250GAP mRNA, but not mAChE-S
+levels are reduced in stressed compared to naı̈ve mice (Student’s
+t tests: *p \ 0.05), likely reflecting different balances between the
+rates of transcription and miR-132-mediated destruction of these two
+transcripts
+
+Fig. 1 Predator scent stress leads to inter-related miR-132 elevation
+and AChE and p250GAP suppression. a Mice were exposed to the
+predator scent test and 7 days later were tested in the elevated plus
+maze (EPM). b–d Compared to naı̈ve, stressed mice spent less time in
+the open EPM arms (b; Student’s t test: *p \ 0.05), more time in the
+closed EPM arms (c; *p \ 0.05) and attempted less entries to the
+open arms (d; *p \ 0.05). e AChE-S activation leads to miR-132
+up-regulation, which in return down-regulates the AChE-S transcript.
+f–h 7 days post predator scent exposure, hippocampal miR-132 is
+up-regulated by *220% (f; Student’s t test, t18 = -3.22, *p \ 0.01),
+AChE activity is reduced (g; Student’s t test, t23 = 2.00, *p \ 0.05)
+and hippocampal miR-132 levels show significant negative correlation to AChE activity (h; Pearson’s test: r = -0.55; p \ 0.01)
+
+mRNA transcript (Fig. 1e), we quantified hippocampal
+miR-132 levels, which we found to be higher by *220%
+compared to naı̈ve mice (Student’s t test: p \ 0.01;
+Fig. 1f), accompanied by 25% reduction in AChE activity
+(t test: p \ 0.05; Fig. 1g). A significant negative correlation between hippocampal miR-132 levels and AChE
+activity suggested causal relationship (Pearson’s test:
+r = -0.55; p \ 0.01; Fig. 1h), compatible with the
+capacity of miR-132 to suppress AChE activity in cultured
+primary neurons (Online Resources Fig. 2).
+Our previous findings showed stress-inducible increases
+in neuronal AChE gene expression (Meshorer et al. 2002;
+Meshorer and Soreq 2002). Given that mRNA levels reflect
+a steady state between its synthesis and degradation, we
+predicted that the observed decline in AChE activity
+could potentially mask a balance between increases in the
+‘‘synaptic’’ AChE-S mRNA and miR-132-induced decreases in its levels. To find more information on miR-132
+
+relationships with its neuronal targets, we quantified the
+major AChE-S mRNA and the p250GAP transcript, with
+predictably tighter hybridization and higher energy interaction with miR-132 (Fig. 2a). Intriguingly, p250GAP but
+not AChE mRNA levels were suppressed in the predator
+scent-stressed hippocampus (Student’s t test: p \ 0.05,
+Fig. 2b), suggesting less robust stress-inducible transcription and/or more efficient destruction of p250GAP mRNA
+under stress.
+AChE-S knockdown prevents miR-132 up-regulation
+and memory impairments
+Predicting that the stress-inducible changes in hippocampal
+miR-132/AChE-S impair the cholinoceptive capacities of
+hippocampal neurons (Gray et al. 1996), we next set out to
+establish an in vivo experimental model where these
+changes could be avoided. To achieve this goal, we introduced AChE knockdown. For this purpose, we used a precalibrated shACHE agent targeted to the exon2 common to
+the AChE-S and AChE-R transcripts (Fig. 3a) and which
+efficiently infected cultured primary neurons (Fig. 3b),
+reduced AChE activity by over 50% within 12–24 h postinfection (Fig. 3c) and suppressed AChE-S and AChE-R
+mRNA levels as well as the common domain shared by
+these two transcripts (Fig. 3d). Bilateral injection of this
+agent to the hippocampus CA1 region of this AChE-targeted lentiviral shRNA (shAChE) was then followed by a
+10-days healing period. At this time point, long after the
+transient stress-inducible increases in hippocampal AChE
+have ceased, histochemical staining showed reduced AChE
+activity in the hippocampus of lentiviral injected mice,
+with predictably larger reduction of AChE activity in
+
+123
+
+Brain Struct Funct
+
+AChE suppression prevents stress-inducible cognitive
+damages
+
+Fig. 3 Lentiviral mediated AChE-suppression in hippocampal neurons in vitro and in vivo. a The sh-799 agent is complementary to
+exon 2 in the endogenous mouse gene that is included in the two
+alternative transcripts. b Transduction efficiency of our GFP coding
+vector. Mouse primary cortical culture were transduced with vector
+coding for GFP (MOI = 1). Expression reveals high transduction
+efficiency, with more than 90% of cells being transduced. c Primary
+neuronal culture total AChE activity is suppressed 18, 24 and 48 h
+following viral infection with shAChE-S versus shCON. Two-way
+ANOVA: treatment (F1,10 = 18.97, *p \ 0.01), time (F2,10 = 1.39,
+p = NS) and interaction (F2,10 = 0.46, p = NS). d AChE splice
+variants mRNA levels in mouse cortical primary culture following
+treatment with sh799 versus shCON: overall AChE transcript was
+downregulated by 80% [n = 4 (sh799 and shCON); **p \ 0.02].
+AChE-S was down-regulated by 68% [n = 3 (sh799 and shCON);
+Mann–Whitney U test: *p \ 0.03], while the considerably lower
+AChE-R mRNA levels remained unchanged [n = 4 (sh799), n = 3
+(shCON); p = NS]. e Histochemical staining of AChE activity in
+shAChE or shCON treated hippocampal sections. f Reduced AChE
+activity in the shAChE versus shCON CA1 neuronal cell bodies and
+axons (relative to dentate gyrus; Student’s t test; t13 = 18.5,
+**p \ 0.001 and t13 = 5.24, *p \ 0.002, respectively)
+
+neuronal cell bodies compared to axons in the injected area
+(t test: p \ 0.001 and p \ 0.002, respectively; Fig. 3e, f)
+compared to hippocampi injected with a control virus.
+
+123
+
+Lentivirus-injected mice were subjected, 10 days postinjection, to unpredictable footshock stress compared to
+mice injected with a control virus (shCON) (Fig. 4a).
+Naı̈ve and non-injected mice exposed to the footshock
+stress were tested in comparison. Similar to predator scent,
+footshock stress alone led to 63% increase in hippocampal
+miR-132, and infection with control lentiviruses extended
+the effect to a twofold increase in miR-132 levels. The
+effects on miR-132 of both stress and the chronic state of
+infection were completely prevented following shAChE
+suppression (one-way ANOVA: p \ 0.003; Fig. 4b), suggesting that miR-132 elevation under stress is induced by
+the reduced cholinergic neurotransmission which is prevented by AChE suppression. In rotorod tests, injected
+mice showed normal performance reflecting unimpaired
+motor coordination (Online Resources. Fig. 3). Nevertheless, all of the stressed mice, regardless of their treatment
+spent less time in the open arms of the maze compared to
+naı̈ve mice (one-way ANOVA: p \ 0.001; Fig. 4c), demonstrating that preventing miR-132 increases failed to
+avoid the stress-inducible anxiety.
+In the Morris water maze test, both shAChE-injected
+stressed mice and naı̈ve mice learned to reach the hidden
+platform faster than either non-injected or shCON-injected
+stressed mice (post hoc test: p \ 0.05 for both, Fig. 4d),
+which exhibited spatial learning deficits. By the third day
+of learning trials, all four groups displayed the same escape
+latencies; however, in the probe test, shAChE-injected
+mice showed control-like spatial memory, unlike the deficits shown by the stressed non-injected and shCON-injected groups. Both naı̈ve and shAChE-injected stressed mice
+crossed more frequently over the missing platform quadrant, deviating from either non-injected or shCON-injected
+mice, at least in one time point; demonstrating better
+learning capacity to reach the hidden platform and
+reflecting better spatial memory (two-way ANOVA:
+p \ 0.05; Fig. 4e, f).
+shAChE-treated mice showed better cognitive performance that could potentially be due to the enforced
+decreases in AChE-S, the prevented increases in miR-132,
+corresponding changes in other transcripts (e.g., p250GAP)
+or to all of these reasons combined. To test for probable
+correlations between the measured molecular elements and
+the modified cognitive performance of stressed mice, we
+plotted the route traversed by each mouse in the first
+quadrant as a function of the levels of relevant RNA
+transcripts. Impressively, miR-132 levels in both control
+and shRNA-injected mice showed a significant correlation
+to the cognitive malfunction reflected in the route traversed
+in the missing platform quadrant during the probe test
+
+Brain Struct Funct
+
+Fig. 5 Hippocampal miR-132 levels show inverse association with
+the post-stress cognitive performance. a Significant negative correlation between hippocampal miR-132 levels and the route traversed in
+the missing platform quadrant (Q1) in the probe test (Pearson’s test:
+r = -0.58; p \ 0.01). b Suppressed hippocampal AChE-S (One-way
+ANOVA: F3,24 = 7.36, p \ 0.001; Post hoc: naı̈ve versus shCON
+**p \ 0.001; shCON versus shAChE **p \ 0.01) and inverse
+elevation in p250GAP (One-way ANOVA: F3,25 = 24.94,
+p \ 0.001; Post hoc: naı̈ve versus stress *p \ 0.05, versus shAChE
+***p \ 0.0001; stress versus shAChE ***p \ 0.0001) mRNA levels
+in naı̈ve, stressed, shCON stressed versus shAChE stressed mice.
+Note that neither AChE mRNA nor p250GAP mRNA levels showed
+association with the transverse route, attributing the cognitive decline
+to miR-132 itself
+Fig. 4 AChE knockdown prevents the cognitive decline following
+footshock stress. a Mice subjected to CA1 hippocampal injection of
+lentivirus-mediated knockdown of AChE (shAChE) or irrelevant
+control virus (shCON) and un-injected stressed and naı̈ve mice were
+exposed 3 weeks later to 7 unpredicted and inescapable footshock
+stress followed by EPM and Morris water maze (MWM) tests.
+b Hippocampal miR-132 mRNA levels increase by 63 and 100% in
+stressed and shCON stressed mice, but remained unchanged in
+shAChE stressed mice. ANOVA test: F3,28 = 6.14, p \ 0.003. Post
+hoc LSD test: naı̈ve versus stressed *p \ 0.05, versus shCONinfected and stressed ***p \ 0.001; shCON-infected and stressed
+versus shAChE-infected and stressed mice **p \ 0.01. c Naı̈ve mice
+spend more time in the EPM open arms than all stressed groups (oneway ANOVA: F3,28 = 8.49, p \ 0.001). d Naı̈ve and shAChEinfected stressed mice learn to reach the MWM hidden platform faster
+than stressed or shCON stressed mice. Two-way ANOVA: trial
+number (F11,323 = 12.33, p \ 0.001), treatment (F3,323 = 10.11,
+p \ 0.001), interaction (F33,323 = 0.75, p = NS). Bonferroni post
+hoc comparison—trial no. 9: naı̈ve versus stressed *p \ 0.05, versus
+shCON-infected and stressed *p \ 0.05, versus shAChE-infected and
+stressed p = NS. e Representative illustrations of mice swimming
+tracks in the MWM probe test (gray circles: place of the missing
+platform in quadrant #1): Bottom shAChE stressed mouse. Top
+shCON stressed mouse. f Naı̈ve and shAChE stressed groups display
+more crosses over the previously situated-platform quadrant. Twoway ANOVA: quadrant (F3,100 = 9.95, p \ 0.0001), treatment
+(F3,100 = 0.002, p = NS), interaction (F9,100 = 3.38, p \ 0.012).
+Bonferroni post hoc comparison for quadrant #1 (where the platform
+was previously situated): Naı̈ve versus stressed *p \ 0.05, versus
+shCON-infected and stressed *p \ 0.05, versus shAChE-infected and
+stressed p = NS; shCON-infected and stressed versus shAChEinfected and stressed *p \ 0.05
+
+(Pearson’s test: r = -0.58; p \ 0.01; Fig. 5a). Normal
+AChE mRNA levels were already retrieved at this time
+following footshock stress; however, stressed and control
+
+virus-injected mice but not stressed and shRNA injected
+mice showed AChE mRNA up-regulation (one-way
+ANOVA: p \ 0.001, Fig. 5b). Furthermore, as observed in
+the predator scent test, p250GAP was down-regulated
+following footshock stress, and intercepting AChE and
+miR-132 up-regulation resulted in enlarged p250GAP
+increases (one-way ANOVA: p \ 0.001; Fig. 5b). However, neither AChE-S mRNA nor p250GAP levels were
+associated to the cognitive performance.
+Chronic hippocampal miR-132 increases associate
+with AChE-S and p250GAP decreases
+To further challenge the causal association between miR132 and stress-inducible cognitive malfunctioning, we
+sought an experimental model where miR-132 would be
+elevated and AChE-S would be diminished. The AChE-R
+over-expressing TgR mice present such a system. In TgR
+mice, enforced expression of the human hAChE-R transcript leads to excessive ACh hydrolysis which in turn
+elevates brain miR-132 levels (Shaked et al. 2009). The
+elevated miR-132 may target nascent host AChE-S mRNA
+but not the transgenic 30 UTR-null AChE-R transcripts
+(Fig. 6a). Correspondingly, TgR mice show an anxiogeniclike phenotype accompanied by hyper-reactivity to nicotine
+(Salas et al. 2008). Hippocampal miR-132 levels increased
+by *2.7-fold in TgR mice compared to non-transgenic
+FVB/Ns (Student’s t test: p \ 0.001; Fig. 6b). This predictably led to suppression of both host AChE-S and yet
+
+123
+
+Brain Struct Funct
+
+Fig. 6 Hippocampal miR-132 elevation and suppressed AChE-S and
+p250GAP in TgR mice. a The mouse AChE gene in chromosome 5
+encodes the miR-132-targeted synaptic mAChE-S transcript, whereas
+the CMV-regulated transgenic 30 UTR-null human AChE-R is miR132 refractory. b Hippocampal miR-132 mRNA levels are increased
+by 2.7-fold in TgR compared to non-transgenic FVB/N mice
+(Student’s t test, t19 = 3.72, *p \ 0.001). c Hippocampal AChE-S
+and p250GAP mRNA levels, are both reduced in TgR versus FVB/N
+mice (Student’s t tests: *p \ 0.05)
+
+more so, of p250GAP levels (Student’s t test: p \ 0.05;
+Fig. 6c). Therefore, if AChE-S suppression could by itself
+prevent stress-inducible cognitive decline, TgR mice should
+show no such decline; but if miR-132 increases are the
+cause, then these mice should present a stress phenotype.
+Chronic AChE-S suppression associates
+with intensified cholinergic hyper-excitation
+The AChE-R transgene avoids miR-132 surveillance owing
+to the lack of its native 30 -UTR (Fig. 7a). Therefore, the TgR
+brain presents continuous excess of AChE-R which cannot
+be suppressed, mimicking prolonged conditions of stress
+(Meshorer and Soreq 2006). Of note, choline acetyl transferase (ChAT)-expressing cholinergic neurons appeared in
+the engineered brains in normal numbers and size, with a
+normal symmetric distribution between right and left hemispheres. In general, the engineered AChE-R protein accumulated in cholinoceptive brain regions that tend to express
+the primary synaptic AChE-S variant [e.g., the CA1 and
+dentate gyrus (DG) in the hippocampus and the entorhinal cortex]. Typically, the neuronal cytoplasm, nucleus
+and dendrite(s), but not axons, were stained (Fig. 7b–e).
+Furthermore, TgR mice presented an extreme sensitivity to
+cholinergic stimulators. Thus, intraperitoneal exposure to
+25 mg/kg of the muscarinic agonist pilocarpine (Dickson
+and Alonso, 1997) induced massive up-regulation of
+AChE-R in multiple cholinergic brain regions (Fig. 7f, g).
+Specifically, the hippocampus and entorhinal cortex showed
+
+123
+
+Fig. 7 miR-132-refractory AChE excess induces cholinergic hyperreactivity. a Mouse AChE-S, but not transgenic AChE-R with a
+truncated 30 -UTR, is recognized by miR-132. b CA1 TgR neurons
+display higher than background expression of human AChE-R
+mRNA. c–d CA1 and dentate gyrus (DG) TgR neurons express
+higher than background human AChE-R protein. f–g Schemes of TgR
+coronal brain sections showing mouse and transgenic-human AChE-R
+labeling patterns in hippocampal regions (e.g., dentate gyrus, DG,
+CA1), subcortical regions [e.g. red nucleus (RN), lateral hypothalamus (LH), amygdala (Amyg)] and in the entrohinal cortex (Ent Cx).
+Large and small green circles denote intense or faint transgenic
+protein expression, respectively. Green triangles show intracellular
+increases (up) or decreases (down) in host and transgenic protein
+expression under pilocarpine treatment, respectively
+
+Brain Struct Funct
+
+numerous AChE-expressing cells with further intensified
+labeling under pilocarpine treatment. Under control conditions, several regions showed intense AChE-R labeling; but,
+pilocarpine treatment caused massive AChE-R elevation
+throughout the hippocampus (Fig. 7f). Yet more specifically, both TgR and strain-matched FVB/N control mice
+showed intensified labeling under pilocarpine administration
+compared to saline-injected mice of the Ca2?-responsive
+CREB-dependent c-fos mRNA, associated with contextual
+fear conditioning (two-way ANOVA: p \ 0.05; Fig. 8a).
+The c-fos labeling pattern largely overlapped the observed
+
+Fig. 8 Pilocarpine induces robust hyperactivation of transgene and
+c-fos expression in the TgR brain. a Pilocarpine induces CA1 c-fos
+and AChE-R protein increases in TgR mice. b Pilocarpine-induced
+c-fos activation in the CA1 TgR hippocampus: two-way ANOVA
+shows a significant effect of treatment (F1,19 = 226, p \ 0.0001) with
+a significant interaction between strain and treatment (F2,19 = 5.88,
+p \ 0.05). c AChE-R labeling associates with c-fos activation.
+Pearson’s test: for saline r = 0.86, p \ 0.05 and for pilocarpine
+r = 0.77, p \ 0.05
+
+AChE protein increases in the hippocampal CA1 region of
+the transgenic mice, revealing an hyper-excitatory sensitivity (Frankland et al. 2004) with c-fos significantly correlated
+to AChE-R labeling (Pearson’s test: saline r = 0.86,
+p \ 0.05; pilocarpine r = 0.77, p \ 0.05; Fig. 8b, c).
+TgR mice show motion and cognitive malfunctioning
+Nocturnal activity monitoring of TgR mice versus nontransgenic controls revealed interchangeable hyper- and
+hypo-locomotion activity of the transgenics during the
+dark, but not the light phase of the day compared to controls (Fig. 9a, ANOVA repeated measures: p \ 0.001).
+Given parallel, yet distinct changes in the nocturnal activity
+of mice over-expressing the synaptic AChE-S variant
+(Cohen et al. 2002), the altered nocturnal activity of the
+TgR mice likely reflects changes in cholinergic signaling.
+At the molecular level, hippocampal host AChE-S protein
+amounts were 55% reduced in TgR mice compared to
+FVB/N controls (t test: p \ 0.01; Fig. 9b). To evaluate
+learning capacities and adaptive behavior, we subjected
+
+Fig. 9 TgR mice show nocturnal hyper locomotion, suppressed
+ACHE-S and impaired memory. a Nocturnal locomotion patterns of
+TgR versus FVB/N mice. One-way ANOVA: Light F1,22 = 0.4,
+p = NS; Dark F1,22 = 79.02, p \ 0.001. b Reduced hippocampal
+mAChE-S protein levels in TgR mice compared to FVB/N mice
+(Student’s t test: t13 = 2.71, *p \ 0.01). c A serial maze task requires
+a water-deprived mouse to find a sweetened water reward at each end
+of the maze. The mouse must shuffle five times between the two ends
+of the maze to obtain five rewards. d TgR mice display lower serial
+maze performance than FVB/Ns. Right/left errors: F1,33 = 9.97;
+Retrace errors: F1,33 = 9.37, *p \ 0.005. ANOVA with repeated
+measures reveals a significant transgene effect in the two measures of
+performance
+
+123
+
+Brain Struct Funct
+
+these mice to the serial choice maze and measured the
+animals’ ability to avoid right or left turning and/or retrace
+errors (See Fig. 9c for a scheme of the maze). The cognitive test was conducted during the light phase of the day
+where no changes in total locomotion activity were
+observed between the two tested groups. TgR mice displayed significantly more right/left choice errors and
+retrace errors compared to control FVB/N mice (two-way
+ANOVA: p \ 0.005; Fig. 9d). Close examination of videotaped maze behavior revealed two major types of error:
+‘‘trapping behavior’’—running in a repeated path several
+times without correction, and lack of spatial orientation
+with respect to reward location, manifested in repeated
+visits at the end of the maze where the last reward was
+given and hence no reward was to be expected. Our tests of
+sensory-motor function did not reveal deficits (Online
+Resources: Methods) and thus excluded the possibility that
+trapping behavior was due to the secondary effects of the
+transgenic intervention.
+Stress-inducible total alterations and inter-individual
+variability in miR-132 and p250GAP
+Our working hypothesis predicted that the key processes
+which are activated under stress conditions would be common to different animal strains and stress paradigms.
+Therefore, we compared the outcome of the three models we
+studied integrated together by calculating the percentage
+change under stress in specific hippocampal transcripts. This
+analysis again showed increases in miR-132 in both the
+predator scent (t test: p \ 0.01) and the AChE-R excess
+models (p \ 0.01), but not in the footshock stress under
+shAChE, which led to miR-132 decreases (p \ 0.05); an
+accompanying decline in p250GAP in both models
+(p \ 0.01 and p \ 0.05 for the predator scent and AChE-R
+excess models, respectively) with miR-132 increases. In
+addition, in all three models, the stress-inducible changes in
+the hippocampal levels of miR-132 and its p250GAP and
+AChE targets showed inverse patterns of individual variability. Thus, both predator-stressed C57BI/6J and the
+chronically anxious TgR FVB/N mice showed larger interanimal hippocampal miR-132 variability compared to matched controls. Inversely, they both presented smaller
+p250GAP variability under stress than in control mice
+(Fig. 10, Online Resources Fig. 4), suggesting that miR-132
+changes serve to mitigate p250GAP variability under stress
+in these two models. In comparison, C57BI/6J mice subjected to shAChE knockdown predictably showed a tendency to reduce AChE levels (60–80% of control levels;
+p \ 0.05), while p250GAP levels were elevated in this
+model (p \ 0.5; Fig. 10). These findings are compatible
+with the hypothesis that the inter-individual variability in
+hippocampal miR-132 is inversely interlocked with that of
+
+123
+
+Fig. 10 Integrated analysis of the 3 stress models. Shown in fold
+changes from controls are the inter-animal variability values and mean
+changes in hippocampal miR-132, AChE and p250GAP transcript
+levels in the predator scent (a, Student’s t test: miR-132 **p \ 0.01,
+AChE p = NS, p250GAP **p \ 0.01), footshock (b, Student’s t test:
+miR-132 *p \ 0.05, AChE *p \ 0.05, p250GAP *p \ 0.05) and
+transgenic AChE (c, Student’s t test: miR-132 **p \ 0.01, AChE
+*p \ 0.05, p250GAP *p \ 0.05) stress models employed in our study.
+d Scheme of the proposed mechanism involved
+
+p250GAP. Our analysis thus attributes the observed stressinducible cholinergic hyper-excitation to the feed-forward
+regulation of miR-132 and AChE transcripts, and shows that
+avoiding p250GAP reduction and the corresponding breadth
+of inter-individual variability in miR-132 associates with
+stress-inducible cholinergic hyper excitation and cognitive
+impairments (Fig. 10d).
+
+Discussion
+Using three different mouse stress models, we found longlasting stress-inducible enhancement of both the levels
+and the individual variability in hippocampal miR-132
+
+Brain Struct Funct
+
+expression. This phenomenon was accompanied by the
+suppression of the levels of hippocampal AChE and the
+GTPase activator p250GAP, which are both validated
+miR-132 targets. Knockdown of AChE production greatly
+limited miR-132 increases in a footshock stress model,
+suggesting continuous surveillance by cholinergic signaling
+of miR-132 levels in the hippocampal which is disrupted
+under psychological stress due to AChE over-production.
+Suppressing AChE further prevented footshock stressinducible damages in cognition, but not anxiety, attributing
+to miR-132 a regulatory role over post-stress cognition but
+not anxiety. Corroborating this finding, engineered mice
+with chronic excess of both miR-132 and engineered AChE
+showed an anxiogenic-like phenotype, impaired locomotion and cognition, and cholinergic hyper-excitation when
+exposed to pilocarpine. Of note, hippocampal AChE
+mRNA levels remained elevated 7 days following predator
+scent test and 14 days following footshock stress accompanied by chronic hippocampal lentiviral infection. In the
+pre-frontal cortex, we found weeks-long elevation of AChE
+following mild stress (Meshorer et al. 2005). In the hippocampus, we noted such elevation during 1 h and 1 day
+post-stress (Kaufer et al. 1998, Nijholt et al. 2004). AChE
+levels were normal in mice 14 days following footshock
+stress alone thus indicates the transient nature of this stress
+in the hippocampus.
+In predator-stressed C57BI/6J mice and in FVB/N mice
+with engineered over-expression of AChE, we found elevated inter-animal variability of hippocampal miR-132
+levels which was accompanied by narrower variability of
+its p250GAP target, suggesting causal links between miR132 and this neuronal protein. Given the in-bred features of
+these mouse strains, we hypothesized that the stressinducible inter-animal variability in hippocampal miR-132
+reflects life-long differences in individual experience
+which mediate these changes. Reinforcing this notion,
+personal experience determines much of the stress reactions in human patients with post-traumatic stress disorder
+(Feder et al. 2009).
+Both miR-132 and AChE transcription are controlled by
+CREB (Shaked et al. 2009), which is notably involved in
+learning and memory, neural growth and by the neuronal
+growth factor BDNF associated with cholinergic functioning (Cogswell et al. 2008; Im et al. 2010; Wayman
+et al. 2008). Correspondingly, individual differences in
+response to chronic stress were recently attributed to hippocampal BDNF (Taliaz et al. 2011). Also, contextual fear
+conditioning increases pri-miR-132 levels in the mouse
+hippocampus (Ponomarev et al. 2010) and in the hippocampus of chronically-stressed rats (Meerson et al. 2010),
+and the cholinergic agonist pilocarpine leads to a transient
+up-regulation of pri- and mature-miR-132 (Nudelman et al.
+2010). The observed pilocarpine and nicotine-inducible
+
+(Salas et al. 2008) hyper-excitation in TgR mice is likely
+due to the failure of miR-132 in these mice to suppress
+AChE. This hypothesis is reinforced by the co-expression
+of TgR AChE with the early immediate protein c-fos,
+which is expressed in neurons whose activity is strongly
+stimulated by synaptic input (Dragunow and Faull 1989;
+Frankland et al. 2004). c-fos is also essential for hippocampus-dependent learning and memory (Fleischmann
+et al. 2003) and represents part of the signal transduction
+cascade underlying the molecular basis of long-term
+potentiation (Miyamoto 2006), suggesting relevance for the
+observed cognitive impairments in TgR mice. In stressed
+wild type mice, however, activation of the AChE glucocorticoid-responsive element also takes place (Meshorer
+and Soreq 2006). This might reduce ACh levels and consequently suppress CREB-inducible miR-132 transcription,
+regaining homeostasis. Hippocampal miR-132 was not
+up-regulated following stress when AChE-S was suppressed is compatible with proposed inter-locked regulation of these two stress-inducible genes (Fig. 10d).
+Cre-lox mediated deletion of miR-132 in newborn
+hippocampal neurons decreases dendrite length and
+arborization in adult mice (Magill et al. 2010), supporting a
+long-lasting role for miR-132 in neuronal differentiation,
+synaptogenesis and maintenance. The GTPase activator
+p250GAP emerges as an additional target of miR-132
+which is involved in mediating the stress-inducible cognitive malfunctioning. Suppressing p250GAP in cultured
+cortical neurons enhances neurite sprouting, similar to the
+neurological reaction following stress (Kawashima et al.
+2010). Both neuronal activity and the GABAA inhibitor
+bicuculline induce miR-132 transcription, which further
+down-regulates p250GAP and might enhance neurite
+growth (Wayman et al. 2008). Also, miR-132 is up-regulated during post-natal development, when massive neurite
+sprouting occurs; miR-132-targeted antisense oligonucleotides attenuate neurite growth (Ponomarev et al. 2010).
+The reported link between p250GAP and the NMDA
+receptor (Nakazawa et al. 2003) further supports a causal
+role in the post-stress cognitive impairments for p250GAP
+suppression. Likewise, engineered anti-sense suppression
+of AChE modulates neuronal sprouting in the mouse hippocampus (Sklan et al. 2006). Our findings of miR-132
+excess in the hippocampus of mature TgR mice and in
+footshock-stressed mice over a month after the insult, and
+7 days post-predator scent stress are compatible with the
+hypothesis that the long-term dual suppression of AChE
+and p250GAP in the hippocampus might serve as a compensatory mechanism to balance the damages associated
+with excessive neuronal sprouting.
+AChE suppression prevents both miR-132 increases and
+the accompanying cognitive malfunctioning that suggests
+the stress-associated changes in neurite sprouting is a
+
+123
+
+Brain Struct Funct
+
+pivotal cause of these damages, and opens new venues for
+treating trauma patients by mitigating irreversible changes
+in their neuronal network. Nevertheless, our study did not
+exclude the involvement of other experimentally validated
+miR-132 targets. For example, the miR-132-targeted lightinduced transcription regulatory factor X 4 (RFX4),
+abundant in the supra-chiasmatic nucleus (SCN) of the
+hypothalamus, regulates biological clocks and rhythms
+(Alvarez-Saavedra et al. 2011; Cheng and Obrietan 2007).
+In wild type mice, miR-132 levels are lower during the
+dark part of the circadian cycle in the SCN (Cheng et al.
+2007). The nocturnal locomotive fluctuations in the TgR
+mice may therefore reflect circadian variations in ACh levels, (Erb et al. 2001) which lead to uncontrolled miR-132
+and RFX4 levels. The miR-132/-212 cluster also targets the
+Rett syndrome-related MeCP2 co-factor of the neuronal
+transcription silencer REST (Klein et al. 2007). REST
+binding to the regulatory huntingtin protein is impaired
+during the progression of Huntington’s disease (Packer et al.
+2008), suggesting parallel stress-associated effects. Inversely, rapid ischemic pre-conditioning, which protects the
+brain from subsequent prolonged ischemia (Lusardi et al.
+2010) is accompanied by miR-132 decreases and MeCP2
+increases. MiR-132 also targets the fragile-X mental retardation protein FMRP, knockdown of which abolishes the
+morphological effects of miR-132 transfection. This suggests competitive interaction between FMRP and p250GAP
+which may balance out the miR-132-mediated effect on
+neuronal sprouting (Wayman et al. 2008). In addition,
+miR-132 is predicted to target several ion channels, and
+might thus affect cell excitability; correspondingly, overexpressed pre-miR-132 potentiates glutamate, NMDA, or
+K?-mediated depolarization of cultured neurons, suggesting
+global involvement in regulating neurotransmission and
+plasticity (Wibrand et al. 2010; Edbauer et al. 2010) which
+may either be direct or function through p250GAP. The
+multitude targets of neuronal-expressed miRs thus point at
+combinatorial, rather than single miR-target relevance.
+Acknowledgments The authors are grateful to Drs. O. Cohen and
+G. Zimmerman (Jerusalem) for their contribution to this study. Also
+acknowledged is support by the Israel Science Foundation Legacy
+Heritage Biomedical Science Partnership (Grant No. 378/11), the
+Gatsby Foundation and the German Research Foundation Trilateral
+Cooperation Program (to H.S.). G.S. was the incumbent of an Eshkol
+post-doctoral fellowship by the Israel Ministry of Science, M.H. and
+S.B. were both awarded pre-doctoral fellowships by the Edmond and
+Lily Safra Center for Brain Sciences.
+Conflict of interest
+of interest.
+
+The authors declare that they have no conflict
+
+Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits
+any noncommercial use, distribution, and reproduction in any medium,
+provided the original author(s) and source are credited.
+
+123
+
+References
+Alvarez-Saavedra M, Antoun G, Yanagiya A, Oliva-Hernandez R,
+Cornejo-Palma D, Perez-Iratxeta C, Sonenberg N, Cheng HY
+(2011) miRNA-132 orchestrates chromatin remodeling and
+translational control of the circadian clock. Hum Mol Genet
+20(4):731–751. doi:10.1093/hmg/ddq519
+Bartel DP (2009) MicroRNAs: target recognition and regulatory
+functions. Cell 136(2):215–233. doi:10.1016/j.cell.2009.01.002
+Berson A, Knobloch M, Hanan M, Diamant S, Sharoni M, Schuppli
+D, Geyer BC, Ravid R, Mor TS, Nitsch RM, Soreq H (2008)
+Changes in readthrough acetylcholinesterase expression modulate amyloid-beta pathology. Brain 131(Pt 1):109–119
+Blank T, Nijholt I, Eckart K, Spiess J (2002) Priming of long-term
+potentiation in mouse hippocampus by corticotropin-releasing
+factor and acute stress: implications for hippocampus-dependent
+learning. J Neurosci 22(9):3788–3794
+Carter CS, Braver TS, Barch DM, Botvinick MM, Noll D, Cohen JD
+(1998) Anterior cingulate cortex, error detection, and the online
+monitoring of performance. Science 280(5364):747–749
+Chen CZ, Li L, Lodish HF, Bartel DP (2004) MicroRNAs modulate
+hematopoietic lineage differentiation. Science 303(5654):83–86
+Cheng HY, Obrietan K (2007) Revealing a role of microRNAs in the
+regulation of the biological clock. Cell Cycle 6(24):3034–3035
+pii: 5106
+Cheng HY, Papp JW, Varlamova O, Dziema H, Russell B, Curfman
+JP, Nakazawa T, Shimizu K, Okamura H, Impey S, Obrietan K
+(2007) MicroRNA modulation of circadian-clock period and
+entrainment. Neuron 54(5):813–829
+Cogswell JP, Ward J, Taylor IA, Waters M, Shi Y, Cannon B, Kelnar
+K, Kemppainen J, Brown D, Chen C, Prinjha RK, Richardson
+JC, Saunders AM, Roses AD, Richards CA (2008) Identification
+of miRNA changes in Alzheimer’s disease brain and CSF yields
+putative biomarkers and insights into disease pathways. J Alzheimers Dis 14(1):27–41
+Cohen O, Erb C, Ginzberg D, Pollak Y, Seidman S, Shoham S,
+Yirmiya R, Soreq H (2002) Neuronal overexpression of ‘readthrough’ acetylcholinesterase is associated with antisense-suppressible behavioral impairments. Mol Psychiatry 7(8):874–885
+Cohen H, Kaplan Z, Matar MA, Loewenthal U, Kozlovsky N, Zohar J
+(2006) Anisomycin, a protein synthesis inhibitor, disrupts
+traumatic memory consolidation and attenuates posttraumatic
+stress response in rats. Biol Psychiatry 60(7):767–776
+Diamond DM, Park CR, Heman KL, Rose GM (1999) Exposing rats
+to a predator impairs spatial working memory in the radial arm
+water maze. Hippocampus 9(5):542–552
+Dickson CT, Alonso A (1997) Muscarinic induction of synchronous
+population activity in the entorhinal cortex. J Neurosci 17:
+6729–6744
+Dragunow M, Faull R (1989) The use of c-fos as a metabolic marker
+in neuronal pathway tracing. J Neurosci Methods 29(3):261–265
+Edbauer D, Neilson JR, Foster KA, Wang CF, Seeburg DP, Batterton
+MN, Tada T, Dolan BM, Sharp PA, Sheng M (2010) Regulation
+of synaptic structure and function by FMRP-associated microRNAs miR-125b and miR-132. Neuron 65(3):373–384. doi:
+10.1016/j.neuron.2010.01.005
+Ellman GL, Courtney KD, Andres V Jr, Feather-Stone RM (1961) A
+new and rapid colorimetric determination of acetylcholinesterase
+activity. Biochem Pharmacol 7:88–95
+Erb C, Troost J, Kopf S, Schmitt U, Loffelholz K, Soreq H, Klein J
+(2001) Compensatory mechanisms enhance hippocampal acetylcholine release in transgenic mice expressing human acetylcholinesterase. J Neurochem 77(2):638–646
+Farchi N, Ofek K, Podoly E, Dong H, Xiang YY, Diamant S, Livnah
+O, Li J, Hochner B, Lu WY, Soreq H (2007) Peripheral site
+
+Brain Struct Funct
+acetylcholinesterase blockade induces RACK1-associated neuronal remodeling. Neurodegener Dis 4(2–3):171–184
+Feder A, Nestler EJ, Charney DS (2009) Psychobiology and molecular
+genetics of resilience. Nat Rev Neurosci 10(6):446–457. doi:
+10.1038/nrn2649
+Filipowicz W, Bhattacharyya SN, Sonenberg N (2008) Mechanisms of
+post-transcriptional regulation by microRNAs: are the answers in
+sight? Nat Rev Genet 9(2):102–114
+Fleischmann A, Hvalby O, Jensen V, Strekalova T, Zacher C, Layer
+LE, Kvello A, Reschke M, Spanagel R, Sprengel R, Wagner EF,
+Gass P (2003) Impaired long-term memory and NR2A-type
+NMDA receptor-dependent synaptic plasticity in mice lacking
+c-fos in the CNS. J Neurosci 23(27):9116–9122
+Frankland PW, Bontempi B, Talton LE, Kaczmarek L, Silva AJ
+(2004) The involvement of the anterior cingulate cortex in
+remote contextual fear memory. Science 304(5672):881–883.
+doi:10.1126/science.1094804
+Goel N, Bale TL (2010) Sex differences in the serotonergic influence
+on the hypothalamic-pituitary-adrenal stress axis. Endocrinology
+151(4):1784–1794
+Gray R, Rajan AS, Radcliffe KA, Yakehiro M, Dani JA (1996)
+Hippocampal synaptic transmission enhanced by low concentrations of nicotine. Nature 383(6602):713–716. doi:10.1038/
+383713a0
+Im H-I, Hollander JA, Bali P, Kenny PJ (2010) MeCP2 controls BDNF
+expression and cocaine intake through homeostatic interactions
+with microRNA-212. Nat Neurosci 13(9):1120-–127. http://www.
+nature.com/neuro/journal/v13/n9/abs/nn.2615.html#supplementaryinformation
+Karnovsky MJ, Roots L (1964) A ‘‘Direct-Coloring’’ thiocholine
+method for cholinesterases. J Histochem Cytochem 12:219–221
+Kaufer D, Friedman A, Seidman S, Soreq H (1998) Acute stress
+facilitates long-lasting changes in cholinergic gene expression.
+Nature 393(6683):373–377
+Kawashima H, Numakawa T, Kumamaru E, Adachi N, Mizuno H,
+Ninomiya M, Kunugi H, Hashido K (2010) Glucocorticoid
+attenuates brain-derived neurotrophic factor-dependent upregulation of glutamate receptors via the suppression of microRNA-132
+expression. Neuroscience 165(4):1301–1311. doi:10.1016/j.neuro
+science.2009.11.057
+Klein ME, Lioy DT, Ma L, Impey S, Mandel G, Goodman RH (2007)
+Homeostatic regulation of MeCP2 expression by a CREBinduced microRNA. Nat Neurosci 10(12):1513–1514
+Krol J, Loedige I, Filipowicz W (2010) The widespread regulation of
+microRNA biogenesis, function and decay. Nat Rev Genet
+11(9):597–610. doi:10.1038/nrg2843
+Lusardi TA, Farr CD, Faulkner CL, Pignataro G, Yang T, Lan J, Simon
+RP, Saugstad JA (2010) Ischemic preconditioning regulates
+expression of microRNAs and a predicted target, MeCP2, in
+mouse cortex. J Cereb Blood Flow Metab 30(4):744–756. doi:
+10.1038/jcbfm.2009.253
+Magill ST, Cambronne XA, Luikart BW, Lioy DT, Leighton BH,
+Westbrook GL, Mandel G, Goodman RH (2010) MicroRNA-132
+regulates dendritic growth and arborization of newborn neurons
+in the adult hippocampus. Proc Natl Acad Sci USA 107(47):
+20382–20387. doi:10.1073/pnas.1015691107
+McEwen BS, Gianaros PJ (2011) Stress- and allostasis-induced brain
+plasticity. Annu Rev Med 62:431–445. doi:10.1146/annurevmed-052209-100430
+Meerson A, Cacheaux L, Goosens KA, Sapolsky RM, Soreq H,
+Kaufer D (2010) Changes in brain microRNAs contribute to
+cholinergic stress reactions. J Mol Neurosci 40(1–2):47–55
+Meshorer E, Bryk B, Toiber D, Cohen J, Podoly E, Dori A, Soreq H
+(2005) SC35 promotes sustainable stress-induced alternative
+splicing of neuronal acetylcholinesterase mRNA. Mol Psychiatry
+10(11):985–997
+
+Meshorer E, Soreq H (2002) Pre-mRNA splicing modulations in
+senescence. Aging Cell 1(1):10–16
+Meshorer E, Soreq H (2006) Virtues and woes of AChE alternative
+splicing in stress-related neuropathologies. Trends Neurosci
+29(4):216–224
+Meshorer E, Erb C, Gazit R, Pavlovsky L, Kaufer D, Friedman A,
+Glick D, Ben-Arie N, Soreq H (2002) Alternative splicing and
+neuritic mRNA translocation under long-term neuronal hypersensitivity. Science 295(5554):508–512
+Miyamoto E (2006) Molecular mechanism of neuronal plasticity:
+induction and maintenance of long-term potentiation in the
+hippocampus. J Pharmacol Sci 100(5):433–442
+Nakazawa T, Watabe AM, Tezuka T, Yoshida Y, Yokoyama K,
+Umemori H, Inoue A, Okabe S, Manabe T, Yamamoto T (2003)
+p250GAP, a novel brain-enriched GTPase-activating protein for
+Rho family GTPases, is involved in the N-methyl-d-aspartate
+receptor signaling. Mol Biol Cell 14(7):2921–2934. doi:10.1091/
+mbc.E02-09-0623
+Nijholt I, Farchi N, Kye M, Sklan EH, Shoham S, Verbeure B, Owen
+D, Hochner B, Spiess J, Soreq H, Blank T (2004) Stress-induced
+alternative splicing of acetylcholinesterase results in enhanced
+fear memory and long-term potentiation. Mol Psychiatry 9(2):
+174–183
+Nudelman AS, DiRocco DP, Lambert TJ, Garelick MG, Le J,
+Nathanson NM, Storm DR (2010) Neuronal activity rapidly
+induces transcription of the CREB-regulated microRNA-132, in
+vivo. Hippocampus 20(4):492–498. doi:10.1002/hipo.20646
+Packer AN, Xing Y, Harper SQ, Jones L, Davidson BL (2008) The
+bifunctional microRNA miR-9/miR-9* regulates REST and
+CoREST and is downregulated in Huntington’s disease. The
+Journal of neuroscience : the official journal of the Society for
+Neuroscience 28(53):14341–14346. doi:10.1523/JNEUROSCI.
+2390-08.2008
+Ponomarev ED, Veremeyko T, Barteneva N, Krichevsky AM, Weiner
+HL (2010) MicroRNA-124 promotes microglia quiescence and
+suppresses EAE by deactivating macrophages via the C/EBP[alpha]-PU.1 pathway. Nat Med advance online publication.
+http://www.nature.com/nm/journal/vaop/ncurrent/abs/nm.2266.
+html#supplementary-information
+Quartermain D, Mower J, Rafferty MF, Herting RL, Lanthorn TH
+(1994) Acute but not chronic activation of the NMDA-coupled
+glycine receptor with D-cycloserine facilitates learning and
+retention. Eur J Pharmacol 257(1–2):7–12
+Rana TM (2007) Illuminating the silence: understanding the structure
+and function of small RNAs. Natl Rev Mol Cell Biol 8(1):
+23–36
+Salas R, Main A, Gangitano DA, Zimmerman G, Ben-Ari S, Soreq H,
+De Biasi M (2008) Nicotine relieves anxiogenic-like behavior in
+mice that overexpress the read-through variant of acetylcholinesterase but not in wild-type mice. Mol Pharmacol 74(6):1641–
+1648
+Shaked I, Meerson A, Wolf Y, Avni R, Greenberg D, Gilboa-Geffen
+A, Soreq H (2009) MicroRNA-132 potentiates cholinergic antiinflammatory signaling by targeting acetylcholinesterase. Immunity 31(6):965–973
+Sklan EH, Berson A, Birikh KR, Gutnick A, Shahar O, Shoham S,
+Soreq H (2006) Acetylcholinesterase Modulates Stress-Induced
+Motor Responses Through Catalytic and Noncatalytic Properties.
+Biol Psychiatry 60:741–751
+Soreq H, Wolf Y (2011) NeurimmiRs: microRNAs in the neuroimmune interface. Trends Mol Med 17(10):548–555
+Sternfeld M, Shoham S, Klein O, Flores-Flores C, Evron T, Idelson
+GH, Kitsberg D, Patrick JW, Soreq H (2000) Excess ‘‘readthrough’’ acetylcholinesterase attenuates but the ‘‘synaptic’’
+variant intensifies neurodeterioration correlates. Proc Natl Acad
+Sci USA 97(15):8647–8652
+
+123
+
+Brain Struct Funct
+Taliaz D, Loya A, Gersner R, Haramati S, Chen A, Zangen A (2011)
+Resilience to chronic stress is mediated by hippocampal brainderived neurotrophic factor. The Journal of neuroscience : the
+official journal of the Society for Neuroscience 31(12):
+4475–4483. doi:10.1523/JNEUROSCI.5725-10.2011
+Vo N, Klein ME, Varlamova O, Keller DM, Yamamoto T, Goodman
+RH, Impey S (2005) A cAMP-response element binding proteininduced microRNA regulates neuronal morphogenesis. Proc Natl
+Acad Sci USA 102(45):16426–16431
+Wayman GA, Davare M, Ando H, Fortin D, Varlamova O, Cheng
+HY, Marks D, Obrietan K, Soderling TR, Goodman RH, Impey
+
+123
+
+S (2008) An activity-regulated microRNA controls dendritic
+plasticity by down-regulating p250GAP. Proc Natl Acad Sci
+USA 105(26):9093–9098
+Wibrand K, Panja D, Tiron A, Ofte ML, Skaftnesmo KO, Lee CS,
+Pena JT, Tuschl T, Bramham CR (2010) Differential regulation
+of mature and precursor microRNA expression by NMDA and
+metabotropic glutamate receptor activation during LTP in the
+adult dentate gyrus in vivo. Eur J Neurosci 31(4):636–645. doi:
+10.1111/j.1460-9568.2010.07112.x
+
+

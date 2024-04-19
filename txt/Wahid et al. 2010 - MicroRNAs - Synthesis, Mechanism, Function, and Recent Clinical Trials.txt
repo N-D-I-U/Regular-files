@@ -1,0 +1,1770 @@
+Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+Contents lists available at ScienceDirect
+
+Biochimica et Biophysica Acta
+j o u r n a l h o m e p a g e : w w w. e l s e v i e r. c o m / l o c a t e / b b a m c r
+
+Review
+
+MicroRNAs: Synthesis, mechanism, function, and recent clinical trials
+Fazli Wahid a, Adeeb Shehzad a, Taous Khan b,⁎, You Young Kim a,⁎
+a
+b
+
+School of life Sciences and Biotechnology, College of Natural sciences, Kyungpook National University, 1370 Sangeok-dong, Buk-ku, Taegu 702-701, Korea
+Department of Pharmacy, COMSATS Institute of Information Technology, Abbottabad, Pakistan
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 18 May 2010
+Received in revised form 30 June 2010
+Accepted 30 June 2010
+Available online 7 July 2010
+Keywords:
+miRNA
+Small RNAs
+miRNA based gene regulations
+miRNA therapeutics
+mRNA degradation
+
+a b s t r a c t
+MicroRNAs (miRNAs) are a class of small, endogenous RNAs of 21–25 nucleotides (nts) in length. They play
+an important regulatory role in animals and plants by targeting speciﬁc mRNAs for degradation or translation
+repression. Recent scientiﬁc advances have revealed the synthesis pathways and the regulatory mechanisms
+of miRNAs in animals and plants. miRNA-based regulation is implicated in disease etiology and has been
+studied for treatment. Furthermore, several preclinical and clinical trials have been initiated for miRNAbased therapeutics. In this review, the existing knowledge about miRNAs synthesis, mechanisms for
+regulation of the genome, and their widespread functions in animals and plants is summarized. The current
+status of preclinical and clinical trials regarding miRNA therapeutics is also reviewed. The recent ﬁndings in
+miRNA studies, summarized in this review, may add new dimensions to small RNA biology and miRNA
+therapeutics.
+© 2010 Elsevier B.V. All rights reserved.
+
+1. Introduction
+The ﬁrst small RNA, lin-4, was discovered in 1993 through a
+genetic screening in nematodes. Later in the same year, the regulation
+of lin-14 by lin-4 was discovered, which demonstrated the regulatory
+function of small RNAs [1,2]. The shorter lin-4 RNA is now recognized
+as the origin of an abundant class of small regulatory RNAs, known as
+microRNAs (miRNAs). Currently, miRNA-directed gene regulation is
+an active area of study. Hundreds of miRNAs have been discovered by
+cloning and size-fractionated RNA techniques [3–5]. The recent
+development of high-throughput sequencing technologies [6,7] and
+computational and bioinformatics prediction methods has greatly
+enhanced research on miRNAs including regulatory targets and
+possible functions [8–11]. A number of miRNAs are known for
+functions in diverse processes including cell proliferation, cell death,
+fat metabolism, neuronal patterning, hematopoietic differentiation,
+immunity, and control of leaf and ﬂower development [12].
+Computational techniques and bioinformatics algorithms for ﬁnding
+genes regulated by miRNAs have suggested that these examples
+represent very few of the total miRNA system.
+In animals, miRNAs are synthesized from primary miRNAs (primiRNAs) in two stages by the action of two RNase III-type proteins:
+Drosha in the nucleus and Dicer in the cytoplasm [13]. In plants, the
+two-step processing of pri-miRNA into mature miRNA occurs entirely
+in the nucleus and is carried out by a single RNase III enzyme, DCL1
+
+⁎ Corresponding authors. Kim is to be contacted at Tel.: + 82 53 950 6354; fax: + 82
+53 943 2762. Khan, Tel.: + 92 992383591 5; fax: + 92 992383441.
+E-mail addresses: taouskhan@ciit.net.pk (T. Khan), yykim@knu.ac.kr (Y.Y. Kim).
+0167-4889/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.bbamcr.2010.06.013
+
+(Dicer-like 1) [14]. The mature miRNAs are then bound by Argonaute
+(Ago) subfamily proteins. These miRNAs target mRNAs and thereby
+function as posttranscriptional regulators [13].
+Developments in the miRNA ﬁeld are increasing steadily. This is
+clearly evident in the studies of miRNAs in various diseases, ranging
+from Alzheimer's to diabetes. Recently, miRNA research has been
+accelerated by technological advancements in RNA-based therapies.
+miRNAs are now being studied for their potential as a new generation
+of drugs.
+This review highlights our understanding of miRNAs following the
+report of lin-4 RNA and its regulation of lin-14. The major topics
+discussed include miRNA synthesis and regulatory mechanisms. The
+functions of miRNAs in gene regulatory pathways and several recent
+preclinical and clinical trials are also summarized.
+2. miRNA synthesis in animals
+miRNAs are deﬁned as 21–25 nucleotide single-stranded RNAs
+(ssRNAs), which are produced from hairpin shaped precursors [15].
+miRNAs transcripts are then processed after their synthesis. In recent
+years, there has been signiﬁcant effort to investigate the processing of
+miRNAs in animals and plants. In animals, genes for miRNAs are
+transcribed to a primary miRNA (pri-miRNA). The pri-miRNA is
+processed within the nucleus to a precursor miRNA (pre-miRNA) by
+Drosha, a class 2 RNase III enzyme. Next, the transport of pre-miRNAs
+to the cytoplasm is mediated by exportin-5 (EXP-5). In the cytoplasm,
+they are further processed to become mature miRNAs by Dicer an
+RNase III type protein and loaded onto the Argonaute (ago) protein to
+produce the effector RNA-induced silencing complex (RISC).
+
+1232
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+2.1. Genome, genes, and transcriptions
+The identiﬁcation of the lin-4 RNA in 1993 opened windows for a
+new era in the ﬁeld of miRNA genomics; this era truly, began in 2000
+with the discovery of the let-7 RNA in Caenorhabditis elegans [16,17].
+In the same year, the let-7 gene and let-7 RNA were detected in
+humans, Drosophila, and other bilateral animals [18]. Since then,
+thousands of miRNAs and miRNA genes have been reported by
+cloning and other molecular biology techniques. Moreover, other
+miRNAs and miRNA genes have been predicted with the help of
+bioinformatics and computational technology tools. A recent study
+reported 154 C. elegans, 152 Drosophila melanogaster, 337 Danio rerios
+(zebraﬁsh), 475 Gallus gallus (chicken), 695 human, and 187
+Arabidopsis thaliana miRNAs [13]. It is worth noting that the miRNA
+database “miRBase” reports an indeed larger number of human
+miRNA than the reported ﬁgures. miRNAs have even been reported in
+simple multicellular organisms [19]. Evolutionary studies show that
+some miRNAs are phylogenetically conserved in bilaterian animals.
+More than half of the C. elegans miRNA genes have been found to have
+homologs in humans [13].
+Early researchers discovered that the majority of miRNAs are
+located in intergenic regions, whereas a few were annotated in
+intronic regions [3,5]. Approximately half of all known miRNAs are
+found in close proximity to other miRNAs. These clustered miRNAs are
+expressed as poly-cistronic primary transcripts. A few cases showed
+that some miRNAs can be transcribed from their own promoter as
+mono-cistronic primary transcripts [20,21]. Based on their genomic
+locations, miRNA genes can be classiﬁed as intronic miRNAs in coding
+transcription units (TUs), intronic miRNAs in noncoding TU, exonic
+miRNAs in coding TU, and exonic miRNAs in noncoding TU (Fig. 1).
+
+RNA polymerase II (Pol II) is mainly responsible for the
+transcription of miRNA genes [21,22], but a small group associated
+with Alu repeats can be transcribed by RNA polymerase III (Pol III)
+[23]. Pol II-dependent miRNA gene expression enables temporal
+control, so that a speciﬁc set of miRNAs can be synthesized according
+to speciﬁc conditions and cell types. The product of Pol II- or Pol IIImediated expression is known as the primary miRNA (pri-miRNA),
+which are usually several kilobases long and contain local stem loop
+structures.
+2.2. Nuclear processing
+A number of different proteins are involved in miRNA processing
+(Fig. 2). All animal miRNAs are ﬁrst processed in the nucleus. The primiRNA produced by Pol II is cleaved at the stem of the hairpin
+structure, which releases an approximately 60–70 nt hairpin
+structure, known as the precursor miRNA (pre-miRNA) [24,25]. This
+processing step is performed by Drosha, which requires the DiGeorge
+syndrome critical region in gene 8 (DGCR8) in humans and Pasha in D.
+melanogaster or C. elegans as a cofactor [20,26–29]. Drosha, in
+conjunction with either DGCR8 or Pasha, forms a large complex
+known as the microprocessor complex [26,28]. Mouse models showed
+that DGCR8 genes are important for developmental processes. DGCR8
+and Drosha are largely conserved in animals [30–33]. Typically,
+metazoan pri-miRNAs are comprised of about 33 base pairs (bp) of
+the stem loop and a terminal loop and single-strand RNA (ssRNA)
+ﬂanking segments. DGCR8 interacts with the ssRNA segment and
+guides Drosha to slice pri-miRNA. Drosha cleaves RNA duplexes about
+11 bp away from the ssRNA-stem loop junction and thus processes
+the pri-miRNA to the pre-miRNA with a 5′-phosphate group and an
+approximately 2 nt 3′ overhang [20,34,35].
+2.3. Transportation by exportin-5
+Pre-miRNAs are transported into the cytoplasm for further
+processing to become mature miRNAs. The transport of the premiRNA occurs through nuclear pore complexes, which are large
+proteinaceous channels embedded in the nuclear membrane [36]. The
+transport of the pre-miRNA is mediated by the RanGTP-dependent
+nuclear transport receptor exportin-5 (EXP5) [37–39]. One proposed
+model of miRNA transport posits that the export of the pre-miRNA is
+initiated when the EXP5 recognizes the N14-bp double-stranded RNA
+(ds-RNA) stem loop with a 3′ overhang followed by cooperative
+binding to both the pre-miRNA and GTP-bound cofactor Ran in the
+nucleus. The pre-miRNA bound EXP5 exports out of the nucleus,
+where hydrolysis of the GTP results in the release of the pre-miRNA
+[37,40–42].
+2.4. Cytoplasmic processing and Argonaute loading
+
+Fig. 1. Schematic illustration of the genomic organization and structure of miRNA genes.
+The miRNAs can be divided into four distinct groups on the basis of their genomic
+location (a) intronic miRNAs in coding transcription units (TUs), for example, the mir101-2 cluster. The mir-101-2 cluster is found in the intron of a non-coding RNA
+gene, HSPC338. (b) Intronic miRNAs in noncoding TU, such as the mir-135a-2 cluster.
+(c) Exonic miRNAs in coding TU, of which the mir-985 is a well known example that is
+found in the CACNG8 gene. (d) Exonic miRNAs in noncoding TU, such as mir-206. The
+hairpin illustrates miRNA stem loops, and boxes show the protein coding regions
+(exon). The ﬁgure shows a rough schematic.
+
+The nuclear cleavage process by Drosha deﬁnes one end of the
+mature miRNA. The pre-miRNA is released in the cytoplasm by means
+of EXP5 and is subsequently processed by an endonuclease cytoplasmic RNase III enzyme Dicer to create a mature miRNA [43–46]. Dicer is
+a highly speciﬁc enzyme that measures about 22 nt from the
+preexisting terminus of the pre-miRNA and cleaves the miRNA strand.
+Dicer is a highly conserved protein that exists in almost all eukaryotic
+organisms. Some organisms have multiple types of Dicers; for
+example, D. melanogaster contains Dicer-1 and Dicer-2, each having
+different roles. Dicer-1 is required for miRNA maturation, whereas
+Dicer-2 is required for the maturation of siRNA [47].
+Dicer works in close proximity with other proteins including RNAi
+deﬁcient-4 (RDE-4) in C. elegans, R2D2, fragile X mental retardation 1
+(FMR1) in D. melanogaster, and the Argonaute family proteins (Ago
+family protein) in several other organisms [48–51]. Recently, it was
+shown that D. melanogaster Dicer-1 requires Loquacious (LOQS; also
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+1233
+
+known as R3D1), which contains three dsRNA binding motifs for premiRNA processing [52–54]. The human Dicer is associated with two
+closely related proteins, trans-activation response RNA-binding
+protein (TRBP) and protein kinase, interferon-inducible doublestranded RNA-dependent activator (PRKRA, also known as PACT)
+[55–57]. The Dicer-associated proteins do not seem to be required for
+any processing activity themselves, but rather they contribute in the
+formation of the RNA-induced silencing complex [55–57]. However,
+the speciﬁc roles of these proteins have yet to be determined.
+According to the current model, after the generation of an
+approximately 22 nt miRNA duplex by Dicer cleavage, the miRNA
+duplex is incorporated into an Ago family protein complex. This
+generates an effector complex. Mostly one strand of the miRNA
+(passenger strand or miRNA⁎) is degraded, whereas the other strand
+remains bound to Ago as mature miRNA (guide strand or miRNA). Yet,
+in a few cases, miRNA⁎ are loaded into RISC and therefore remains
+functional. Recent evidence has shown that the thermodynamic
+stability of the two ends of the duplex may determine which strand is
+to be selected [58]. Dicer, in conjunction with other interacting
+proteins (TRBP and/or PACT in human and LOQS in ﬂy) and Ago
+family proteins, contributes to RISC assembly by forming a RISC
+loading complex (RLC) [55,59–62]. The exact mechanism regarding to
+the role of RLC in RNA loading to Ago is not known. However, evidence
+suggests that after the processed miRNA duplexes are released from
+Dicer, the stable end of the miRNA duplex binds to interacting
+proteins in the RLC, and the unstable end associates with the Ago
+proteins [49,62]. It has been demonstrated that the endo-nucleolytic
+enzyme activity of the Ago protein is responsible for the removal of
+the miRNA passenger strands [63]. Most of the miRNAs contain
+mismatches in the middle, and some Ago proteins lack “slicer”
+activity, making the passenger strand of the miRNA resistant to
+cleavage. Evidence suggests that an RNA Helicase (yet to be
+identiﬁed) mediates the unwinding and removal of the unselected
+strand of the miRNA duplex. After loading, the miRNA guides the RISC
+to its target mRNA, which is silenced through degradation or
+translation repression [13,14].
+3. miRNA synthesis in plants
+Homologs of Drosha and its cofactors (DGCR8/Pasha) have not
+been conﬁrmed in plants, which suggests that Drosha-dependent
+stepwise processing is absent in plants. Genetic studies showed that
+Dicer like-1 (DCL-1) is solely responsible for plant miRNA processing.
+The HASTY (HST) homologue of exportin-5 mediates the export of
+miRNAs from the nucleus to the cytoplasm. The loading of the miRNA
+to the Argonaute family proteins (Ago) is carried out in the nucleus or
+in the cytoplasm (Fig. 3).
+3.1. Genes and their transcription in plants
+
+Fig. 2. The animal miRNA synthesis pathway. The microRNA (miRNA) genes are
+transcribed by RNA polymerase II (Pol II), which results in the production of a primiRNA. Drosha, along with DiGeorge syndrome critical region gene-8 (DGCR-8; Pasha
+in ﬂies), mediates the initial processing step (primary processing) that produces a ~ 65
+nucleotide (nt) pre-miRNA. The pre-miRNA has a short stem of 2–3 nt 3′ overhangs,
+which is recognized by exportin 5 (EXP5) that mediates transport to cytoplasm. In the
+cytoplasm, RNase III Dicer is thought to catalyze the second processing step (secondary
+processing), which generates the miRNA/miRNA* duplex. Dicer, TRBP or PACT (LOQS in
+ﬂies), and Argonaute1–4 (Ago 1–4) (Argonaute 1 in ﬂies) are responsible for premiRNA processing and RISC (RNA-induced silencing complex) assembly. An unknown
+helicase is thought to mediate unwinding of the duplex. One strand of the duplex
+remains the mature miRNA (miRNA) on Ago, whereas the miRNA* or passenger strand
+is degraded. The ﬁgure shows the mammalian miRNA synthesis pathway and ﬂy factors
+are in the squares.
+
+In 2002, the ﬁrst small RNA in plants was discovered through
+cloning of a small RNA in rice and Arabidopsis. This suggested that a
+small portion of cloned small RNAs correspond to miRNAs [64,65].
+Recently, advanced genetics, direct cloning and sequencing, and
+bioinformatics and computational prediction methods have revealed
+many new miRNAs and their functions in Arabidopsis and other plant
+species [66]. A recent study reported 959 miRNAs genes from 10 plant
+species including mosses, dicots, and monocots [66]. Some plant
+miRNA genes have multiple isoforms (paralogs) that probably arose
+by the process of gene duplication and diversiﬁcation. Plant miRNAs
+are generally conserved in evolutionary processes ranging from
+mosses to ﬂowering plants [67–69]. Most of the miRNA genes are
+annotated to intergenic regions, and unlike animal miRNAs, plants
+miRNAs are not arranged in clusters [66]. The majority of plant
+miRNAs analyzed have been found to have their own transcriptional
+units that are transcribed into a primary transcript (pri-miRNA) by
+
+1234
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+polymerase II [66]. Plant miRNA precursors are quite diverse in
+structure, and the stem loops are usually longer than those of animal
+pri-miRNAs. Studies have shown that the 5′ cap is present in most
+plant miRNAs [70]. Most of the plant miRNAs have poly-adenylated
+tails; however, the exact role of polyadenylation is still unknown [71].
+
+3.2. Dicer processing and methylation
+Plant miRNA processing is entirely dependent on Dicer-like
+proteins. Various studies in A. thaliana and other plants have revealed
+that DCL1 is important for miRNA processing [72]. DCL1 is a nuclear
+protein which indicates that mature miRNAs in plants might be
+synthesized in the nucleus [73]. The functional loss of DCL1 greatly
+reduces the accumulation of miRNAs and causes pleiotropic developmental defects, revealing the role of DCL1 in miRNA maturation
+[72,74–76]. Recent studies have shown that the processing of primiRNAs to pre-miRNAs by DCL1 also requires two other proteins,
+HYPONASTIC LEAVES1 (HYL1) and SERRATE (SE). HYL1 is a member
+of the ds-RNA-binding protein family in Arabidopsis, and SE encodes a
+C2H2 zinc ﬁnger motif, which plays a general role in the biogenesis of
+miRNAs [77–80].
+Plant miRNA methylation occurs after Dicer processing, which
+distinguishes it from animal miRNAs. Hua Enhancer (HEN1), a
+methyltransferase, may be responsible for methylation and has a
+general role in miRNA processing in plants [66]. Recently, it was
+demonstrated that HEN1 adds a methyl group onto the 2′ OH of the 3′
+terminal nucleotide [81]. The molecular mass of an endogenous
+miRNA is approximately 14 Da larger than that of an in vitro
+synthesized unmodiﬁed miRNA, indicating the presence of a methyl
+group in plants [82].
+
+3.3. Argonaute loading and transportation
+The resulting methylated miRNA/miRNA* duplex is loaded onto
+the Ago protein to generate RISC. The Ago family proteins are
+composed of three distinctive domains: the PAZ, MID, and PIWI
+domains [83]. The Ago protein PAZ domains bind to RNA and PIWI
+domains in a folded structure similar to RNase H [84]. The miRNA*
+strand is degraded, which results in the formation of RISC with one
+mature miRNA. Like in animals, the strand selection is made through
+thermodynamic stability [58,85]. Different types of Ago proteins have
+been reported in Arabidopsis, and most of these contain the catalytic
+site for slicer activity [86].
+HST is a plant homolog of exportin-5 and plays a role in plant
+miRNA export from the nucleus to cytoplasm [87,88]. An HST mutant
+showed pleiotropic phenotypes and a reduced accumulation of
+miRNAs, indicating that this protein functions as a nuclear export
+receptor [88–90]. Evidence showed that mature miRNA abundance is
+higher than that of miRNA* in both cellular compartments. These facts
+suggest that either RISC loading occurs in the nucleus followed by
+transportation of miRISC to the cytoplasm or RISC loading occurs in
+the cytoplasm after the transportation of the miRNA/miRNA* duplex.
+
+Fig. 3. The plant miRNA synthesis pathway. The miRNA genes are transcribed by RNA
+polymerase II (Pol II), which results in the production of the pri-miRNA. DCL1 in
+association with SE and HYL1 performs the ﬁrst processing step (primary processing),
+which produces the pre-miRNA. DCL1 and HYL1 are also responsible for the second
+processing step (secondary processing) to produce the miRNA/miRNA* duplex. HEN1
+mediates methylation in plant miRNA synthesis, which adds methyl groups to both
+strand of the miRNA/miRNA* duplex. Hasty (HST) is thought to be responsible for
+nuclear export of miRNA in plants. Argonaute loading occurs in the nucleus or
+cytoplasm (ﬁgure shows cytoplasmic Argonaute loading). Some unknown helicase is
+thought to mediate unwinding of the duplex. The passenger strand (miRNA*) is
+degraded, and the other strand remains the mature strand with the Ago proteins.
+
+4. Mechanism
+miRNAs guide miRISC to speciﬁcally recognize messenger RNA
+(mRNA) and downregulate gene expression by one of the two
+posttranscriptional mechanisms: (i) translational repression and (ii)
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+1235
+
+Fig. 4. Possible mechanisms for miRNA gene regulation. Unregulated mRNAs engage with the initiation factor eIF4F complex, which is composed of eIF4A, eIF4E and eIF4G subunits
+and recruits ribosomal subunits, which form circularized structures that enhance translation (upper left). When miRISC binds to target mRNAs, a high degree of miRNA–mRNA
+complementarity facilitates Ago-catalyzed degradation of target mRNA sequences through mRNA cleavage mechanisms (lower left). Alternatively, central mismatches prevent
+degradation and facilitate translational repression by any of four (a–d) possible mechanisms (right): (a) miRISCs bind to target mRNAs and represses initiation at the cap recognition
+stage, or at (b) the 60S ribosomal recruitment stage, (c) miRISC can prevent mRNA to circularize (d) miRISC attachment to target mRNAs also facilitates premature separation from
+ribosomes, which represses translation at the postinitiation stage.
+
+mRNA cleavage (Fig. 4). Initially, it was proposed that lin-4 RNA
+represses translation of C. elegans lin-14 mRNA [2]. Current studies
+suggest that if miRISC contains a heterologous RNA recognition factor,
+then it facilitates miRISC to recognize and speciﬁcally represses mRNA
+in spite of lacking miRNA binding sites [90]. Studies indicate that most
+miRNA binding sites in animal mRNAs lie in the 3′ UTR as multiple
+copies. Animal miRNAs bind with mismatches and bulges through
+Watson–Crick base pairing [91]. In contrast, the miRNA binding sites
+in plant mRNAs lie in the centre of the complementary regions, and
+most plant miRNAs contain a high degree of sequence complementarity to their target mRNA sequence [92–94].
+The degree of miRNA–mRNA complementarity is a major
+determinant of the regulatory mechanism process. The high degree
+of complementarity enables the Ago-catalyzed degradation of target
+mRNA sequences through the mRNA cleavage mechanism process. In
+contrast, a central mismatch omits degradation and facilitates the
+translational repression mechanism.
+4.1. Translation repression
+The exact mechanism for the repression of target mRNA translation
+by miRISC is still unknown. Whether repression occurs at the
+translational initiation or posttranslational level still needs to be
+determined. However, the current model suggests that the eIF4F
+complex is involved in translational initiation. The subunits of the eIF4F
+complex include eIF4A, eIF4E, and eIF4G. The mRNA 5′ terminal cap is
+recognized by eIF4E and thus starts the initiation process. eIF3, another
+initiation factor, interacts with eIF4G and contributes to the 40S
+ribosomal subunit assembly at the 5′ end of the mRNA to enable the
+
+preinitiation complex. The elongation process is initiated by joining of
+the 60S ribosomal subunit at the AUG codon of the mRNA and the 40S
+preinitiation complex. eIF4G and eIF3 also interact with the polyAbinding protein PABP1. The mRNA molecule becomes circular as a
+result of this process, and the translation efﬁciency is thereby improved.
+In some viral mRNAs, the translation initiation process is facilitated
+without any initiation factors through internal ribosome sites (IRES),
+which require only a subset of the initiation factors [92].
+Whether a miRNA inhibits translation through inhibition of
+initiation or elongation is typically determined by two sets of
+criterion. For the ﬁrst option, the density gradient centrifugation
+technique is used to determine whether mRNAs are present in the
+complex mRNA–protein (mRNP) system (initiation inhibition), or in
+the form of large polysomes (elongation inhibition). The second
+criterion is tested by determining whether inhibited mRNAs containing IRES sequences are resistant to repression [92,95]. In testing this,
+some studies reported data supporting repressed initiation [95–98],
+whereas others provide evidence for inhibition of the post-initiation
+processes [99–101]. However, none of the above criteria alone is
+sufﬁcient to explain repressed initiation or inhibition of postinitiation
+processes. The existing discrepancies show that repression may occur
+either at the initiation step or at a later stage in the translation process.
+In 2006, Petersen et al. proposed a possible mechanism through
+which miRISC may exert its action by repressing the elongation
+process. An inhibited mRNA can be associated with polysomes, but
+when the initiation process is rapidly blocked with hippuristanol, the
+ribosomes quickly become detached in a miRNA-dependent manner.
+Based on these results, it was suggested that miRISC promotes early
+ribosome dissociation from mRNAs. Recently, three different models
+
+1236
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+have been proposed to explain the mechanism by which miRISC
+represses the initiation mechanism (Fig. 4). First, miRISCs were shown
+to compete with eIF4E for binding to the mRNA 5′ cap structure,
+which results in the failure of the translation initiation process
+[97,102]. However, some studies contradict this model and suggest
+that either GW182 or a downstream factor could be the eIF4E
+competitor [103]. The second model suggests that miRISC prevents
+the mRNA from circularizing, resulting in translation inhibition [104–
+107]. The C-C chemokine receptor 4-negative on TATA (CCR4–NOT)
+complex is composed of multiple proteins, namely chemokine (C-C
+motif) receptor 4 (CCR4), chromatin assembly factor 1 subunit
+(CAF1), and NOT1–NOT5. These regulate gene expression and may
+be involved in miRISC translation inhibition [107–110]. The third
+model proposes that miRISC may inhibit the assembly of the 60S
+ribosomal subunit with the 40S preinitiation complex. In this process,
+the 40S ribosomes are attached to the targeted mRNA, but the 60S
+ribosomal subunit fails to join the 40S subunit, resulting in translation
+repression [111,112].
+Another possible mechanism of miRNA mediated translational
+repression is that miRNA/RISC may mediate translation repression
+through accumulation of target mRNAs in processing bodies (Pbodies) [113]. P-bodies lack any translation machinery, and thus, it is
+suggested that P-bodies containing mRNAs are not involved in the
+translation process [113]. The accumulation of mRNA in a miRNAsdependent manner suggests that miRNAs are increasing the ribosome-free mRNA and cause translation repression.
+4.2. mRNA degradation
+Previously, it has been shown that when miRNAs have a high
+degree of sequence complementarity, then target mRNA degradation
+processes are facilitated through Ago protein slicer activity. The fact
+that mRNAs are reduced with an abundance of miRNAs suggests that
+miRNAs are responsible for mRNA degradation processes [104–
+106,114,115]. Recent studies have suggested that not only the Agocatalyzed mRNA degradation process is responsible for the mRNA
+degradation, but other mechanisms such as deadenylation, decapping,
+and exonucleolytic digestion of mRNA are also involved [104–106].
+mRNA degradation by miRNA requires Ago, GW182, and the cellular
+decapping and deadenylation machinery [103]. The exact process of
+target selection has yet to be determined. However, it has been shown
+that the number, type, and position of mismatches in the miRNA/
+mRNA duplex play a critical role in the selection of the degradation or
+translational repression mechanisms [116].
+5. Functions of miRNAs in animals
+miRNAs have key roles in the regulation of distinct processes in
+mammals. They provide a key and powerful tool in gene regulation
+and thus a potential novel class of therapeutic targets. miRNAs play an
+evolutionarily conserved developmental role and diverse physiological functions in animal. miRNAs largely exhibit limited complementarity with their target mRNAs in animals, but this is still sufﬁcient to
+regulate several physiological processes. It has been suggested that
+they repress the initiation step of the translation process, which may
+be followed by mRNA degradation [117]. Loss-of-function mutations
+of the ﬁrst two identiﬁed miRNAs in C. elegans, lin-4 (abnormal cell
+lineage-4) and let-7 (lethal-7), caused defects in larvae developmental processes [1,118]. It has been suggested that lin-4 regulates the
+early developmental stages, whereas let-7 plays an important role in
+the late developmental processes in C. elegans and possibly some
+other animals [119,120]. The lsy-6 (laterally symmetric-6) miRNA
+induces cell fate of two morphologically distinct neurons, ASE left
+(ASEL) and ASE right (ASER). lsy-6 is expressed in the ASEL neurons
+and inhibits the expression of its target gene, cog-1 (connection of
+gonad defective-1), which results in the loss of asymmetry. mir-273 in
+
+the ASER neurons, activated by the lsy-6 target cog-1, inhibits the
+translation of die-1 (dorsal intercalation and elongation defect-1).
+This leads to the down-regulation of lsy-6 and the subsequent
+expression of the GCY-5 (guanylyl cyclase-5) receptor in the ASER
+[121,122].
+Two miRNAs, bantam and lin-14, were identiﬁed in D. melanogaster, and studies suggest that overexpression of bantam induces
+growth and inhibits apoptosis [123]. It is known that miR-14
+suppresses cell death and is involved in fat metabolism by acting on
+D. melanogaster IL1-beta convertase (DRICE), which is upregulated in
+the absence of miR-14 [124]. Furthermore, two groups of Notch target
+genes contain conserved motifs in their 3′ UTR, which are complementary to the sequences of a related group of miRNAs [125,126].
+miR-7 regulates the GY-box motif, and reduction in mir-7 expression
+leads to a reduced expression of downstream Notch targets, such as
+Cut, resulting in reduced vein spacing and thickening of the veins
+[125,126].
+A knockout gene strategy has been used in different mammals to
+study the role of miRNAs in mammalian developmental processes. A
+Dicer knockout was made in zebraﬁsh [127], and this revealed a role
+of the mir-430 family members, which are highly expressed in
+zebraﬁsh zygotic development, in neurogenesis. mir-430 expression
+was also observed in the early developmental processes in frogs
+[128,129]. Recent studies have suggested that late-stage mouse
+development is under the control of miRNAs, which is supported by
+the regulation of Hox genes by miR-196. mir-196 is expressed in the
+hind limb, it cleaves its target Hoxa B8, and it inhibits the translation
+of Hoxc8, Hoxd8, and Hoxa7 [130,131]. miR-196 acts upstream of Hox
+B8 and Sonic hedgehog (SHH) in limb development [131]. The
+muscle-speciﬁc miRNA, miR-1, targets heart and neural crest
+derivatives-expressed protein 2 (HAND2), which results in muscle
+degeneration and premature differentiation of cardiomyocytes [132].
+mir-181, which is expressed in the B lymphocytes of bone marrow and
+the thymus of mice, causes an increase in B lymphocytes and regulates
+mouse hematopoietic lineage differentiation [133]. Similarly, the
+expression of mir-143 has been reported in human fat tissues and has
+been shown to regulate fat differentiation by increasing the
+extracellular signal-regulated kinase-5 (ERK5) level [134]; indeed,
+ERK5 is the predicted potential target gene for miR-143 [135]. This
+shows the involvement of miR-143 in adipocyte differentiation by the
+regulation of ERK5 protein levels. Some miRNAs regulate diverse
+physiological processes, including miR-375 and miR-16. mir-375 is
+expressed in the pancreatic islet and inhibits glucose-induced insulin
+secretion through regulation of its target gene Myotrophin, indicating
+that miR-375 is an inhibitor of glucose-stimulated insulin secretion
+[136]. It has also been shown that mir-375 is highly expressed in the
+pituitary gland of zebraﬁsh embryos, indicating a role for miR-375 in
+the secretion of hormones [137]. Similarly, miR-16 causes AU-rich
+element-mediated mRNA instability and degradation [138]. miR-16 in
+humans has a limited complementarity to AREs but is sufﬁcient to
+destabilize ARE-containing mRNAs. In addition, mir-155 lies in the
+noncoding BIC RNA transcript and is involved in innate immunity, as
+evidenced by the rapid induction in B lymphocytes and T lymphocytes
+either after antigen exposure or due to some inﬂammatory mediators
+[139]. miR-155 targets PU.1 and c-Maf transcription factors, which
+result in the negative regulation of IgG1 and T-cell lineage by
+differentiation of T helper type 1 and type 2 cells [140,141]. Recently,
+it has been found that some endogenous miRNAs participate in
+antiviral defense mechanisms. miR-32 exhibits inhibitory effects
+against the retrovirus type 1 (PFV-1) and protects human cells from
+PFV-1 [142]. The role of miRNAs in different types of cancer was
+shown in a study on chronic lymphocyte leukemia; mir-15a and mir16-1 are located at chromosome 13q14 and have been found to be
+deleted in the majority of cases of chronic lymphocytic leukemia
+[143]. mir-15a and mir-16-1 are upregulated in B-cell lymphomas and
+exert tumor suppressor activities by inhibiting B-cell lymphoma 2
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+(Bcl2) functions [144]. Similarly, mir-17-92 clusters are located on
+human chromosome 13q31, which is augmented in some tumors and
+is frequently ampliﬁed in B-cell lymphomas. This overexpression of
+mir-17-92 induces c-Myc-mediated tumorigenesis and suppresses
+apoptosis in mouse models of human B-cell lymphoma [145]. In
+addition, mir-372 and mir-373, which are expressed in primary
+human ﬁbroblasts, induced tumorigenesis through targeting the
+tumor suppressor gene LATS2 [146]. Speciﬁcally, mir-372 and mir373 are expressed in testicular tumors of the germ cell [146].
+Based on the above evidence, it can be concluded that miRNAs
+control various physiological processes in humans and other animals
+through diverse targets. Several of the reported animal miRNAs and
+their biological functions are summarized in Table 1.
+6. Functions of miRNAs in plants
+Like in animals, miRNAs also play crucial roles in plants at various
+developmental stages and facilitate organ identity maintenance [14].
+Plant development is a highly regulated process that is controlled at
+many levels. Plant miRNAs are highly complementary to conserved
+target mRNAs, which allows fast and conﬁdent bioinformatics
+identiﬁcation of plant miRNA targets [156]. The major class of
+miRNA-targeted genes is comprised of transcription factors and Fbox (a motif that was ﬁrst identiﬁed in cyclin F) proteins, which
+constitute major plant developmental regulatory networks [157]. In
+plants, miRNA regulatory functions can be divided into three major
+categories. First, miRNAs are capable of deﬁning distinct expression
+patterns of their targets, in which miRNAs and their targets are
+expressed on adjoining nonoverlapping domains. Second, miRNAs
+prevent variations in the pattern and expression levels of their targets
+by sharing overlapping expression domains. Third, miRNAs are
+involved in the temporal regulation of target gene accumulation
+[158], which regulates developmental transitions.
+The ﬁrst evidence for the importance of miRNAs in plant
+development came from mutants impaired in small RNA biogenesis
+or function, which exhibited altered growth patterns. Many developmental defects result from this type of impaired miRNA activity. The
+role of miRNAs in target accumulation was demonstrated by target
+gene expression pattern expansion in the absence of miRNA
+regulation. This restricting action was proposed based on mir-165/
+166 regulation of prohibitin (PHB) in Arabidopsis and maize rolled leaf
+
+1237
+
+1 (RLD1) in maize [159]. The mir-165/166 genes are important for
+establishing and maintaining abaxial polarity. In the same way,
+mutations within the mir-165/166 complementary site of the maize
+homeodomain leucine zipper (HD-ZIP) gene RLD1 adaxialize leaf
+primordia causes an overaccumulation of RLD1-mRNA [160]. When
+mir-165/166 was identiﬁed and the mutations were mapped to the
+miRNA complementary site, it was hypothesized that the altered
+phenotypes resulted from the loss of miRNA-directed regulation
+[161]. The prediction tools for plant miRNA targets and other
+methodologies have been used to study the regulatory impact of
+miR-167 and its target genes, ADP ribosylation factors 6 and 8 (ARF6
+and 8). Two recent reports revealed the regulatory role of miR-167 in
+plant reproductive development [162]. The ARF6 and ARF8 genes
+regulate stamen development in the immature ﬂowers. It was shown
+that miR-167 causes the degradation of ARF6- and ARF8-encoded
+mRNAs [163]. miR-167 may also repress ARF6 expression at the
+translational level. The mir-167-overexpressing Arabidopsis recapitulates ARF6/ARF8 double-mutant phenotypes, in which the plants
+produce ﬂowers with short stamens and anthers lose the ability to
+release pollen. Mutations of the mir-167 target sites for ARF6 or ARF8
+result in abnormal expression of these genes in both ovules and
+anthers, where mir-167 is normally present. The promoter activity of
+mir-167 was studied with respect to four members of the mir-167
+family, which illustrated the essential roles of these members. The
+plant hormones auxin, gibberellic acid (GA), and abscisic acid (ABA)
+play critical roles in the regulation of developmental processes such as
+embryogenesis, cell division, elongation, differentiation, and organogenesis [164].
+One of the important mediators in the GA-dependent pathway is
+GAMYB, which controls GA-activated genes. mir-159 is regulated by
+GA and targets the GAMYB genes MYB33 and MYB65 [165].
+Overexpression of mir-159 leads to a late ﬂowering phenotype
+[165,166]. Developmental defects such as hyponastic leaves were
+observed in transgenic plants expressing the miRNA-resistant version
+of MYB33 and the double-mutant mir-159ab [166,167]. These defects
+were diminished in the quadruple mutant of mir-159ab, MYB33 and
+MYB65, conclusively demonstrating the role of miRNA-based regulation of the MYB genes in these phenotypes [168].
+Furthermore, miR-164 prevents the alteration and facilitates the
+precise control of the expression level of target genes in the Auxin
+signal transduction pathways and leaf patterning [169]. miR-164
+
+Table 1
+Animal miRNAs and their biological functions.
+miRNAs
+
+Target gene
+
+Biological functions
+
+Species
+
+Reference
+
+bantam
+let-7
+lin-4
+lsy-6
+miR-1
+miR-7
+miR-14
+miR-15a, miR-16-1
+miR-16
+miR-17-92
+miR-32
+miR-143
+miR-143, miR-145
+miR-146
+miR-155
+miR-181
+miR-196
+miR-223
+miR-273
+miR-372, miR-373
+miR-375
+miR-430
+SVmiRNAs
+
+HID
+lin-41, HBL-1
+lin-14, lin-28
+COG-1
+HAND 2
+Notch targets
+Caspase?
+Bcl2
+Several
+c-Myc, E2F1
+Retrovirus PFV1
+ERK5
+Unknown
+c-Myc, ROCK1
+PU-1, c-Maf
+unknown
+HOXA7, HOXB8, HOXC8, HOXD8
+NFI-A, Mef2c
+DIE-1
+LATS2
+Myotrophin
+?
+SV40 viral mRNAs
+
+Cell death and proliferation
+Regulation of developmental timing
+Physiological condition and developmental timing
+Neuronal cell fate and developmental timing
+Cardiomyocyte differentiation and proliferation
+Notch signaling
+Cell death and proliferation
+Down-regulated in B cell chronic lymphocyte leukemia
+AU-rich element mediated mRNA instability
+Upregulated in B-cell lymphoma
+Antiviral defense
+Adipocyte differentiation
+Downregulated in colonic adenocarcinoma
+Development and function of immune system
+T-cell development and in innate immunity
+Regulation of hematopoietic cell fate
+Development?
+Regulation of granulocytic maturation
+Neuronal cell fate and developmental timing
+
+D. melanogaster
+C. elegans
+C. elegans
+C. elegans
+Mus musculus
+D. melanogaster
+D. melanogaster
+
+[149]
+[17,148]
+[1,147]
+[121]
+[132]
+[125,126]
+[124]
+[143,144]
+[138]
+[145,155]
+[142]
+[134]
+[154]
+[151,152]
+[139–141]
+[137]
+[130]
+[150]
+[122]
+[146]
+[136]
+[128]
+[153]
+
+Insulin secretions
+Brain morphogenesis
+Susceptibility to cytotoxic T cells
+
+Homo sapiens
+H. sapiens
+H. sapiens
+H. sapiens
+H. sapiens
+Mouse
+M. musculus
+M. musculus
+H. sapiens
+C. elegans
+M. musculus
+D. rerio
+
+1238
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+controls the activity of the NAM, ATAF, and CUC (NAC) transcription
+factors, which regulate signaling processes. A balance exists between
+these, but overexpression of mir-164 causes the down-regulation of
+CUP SHAPED COTYLEDON (CUC1), (CUC2), and the NAC family genes,
+which results in the induction of lateral leaﬁng and rooting [170].
+These observations suggest that closely interrelated miRNA family
+members that target the same set of genes can have different
+functions in plant development, which expands the role of miRNAs in
+the Auxin signaling pathways. A similar role has been observed in the
+process of leaf initiation by miR-156, which regulates 10 members of
+the SQUAMOSA promoter-binding-like (SPL) gene family and is
+expressed in an opposite pattern than these factors. miR-156
+regulates SPL9 and has the same temporal expression pattern.
+Reduced activity of miR-156 results in an increased expression of
+SPL9 [171].
+In Arabidopsis, the miR-172 targeted gene APETALA2 (AP2)
+controls the developmental timing of ﬂowers. The overexpression of
+mir-172 leads to loss-of-function mutants, which exhibit developmental ﬂoral defects such as absence of petals and sepal transformation into carpels [172]. Many miRNA families target a single class of
+gene products including miR-319, which targets the TEOSINTE
+BRANCHED1, CYCLOIDEA, and PCF (TCP) transcription factors.
+Furthermore, the overexpression of mir-319 leads to patchy leaf
+shapes and delayed ﬂowering times [173]. The miR-319-resistant
+TCP4 gene causes deviant seedlings with no apical meristems. Several
+miRNAs are closely connected to signaling mediators that respond to
+plant hormones, such as miR-393, which targets TRANSPORT
+INHIBITOR RESPONSE 1 (TIR1) and three F-box proteins [156]. The
+F-box proteins act as auxin receptors and mediate degradation in
+response to auxin [174]. In addition, miRNAs target transcription
+factors, such as in the case of miR-162 that targets DCL1 or miR-168
+that targets Ago1 [175,176]. miRNA targeting of DCL1 and Ago1
+suggests a feedback mechanism, whereby miRNAs negatively regulate
+their activity. Some of the known plant miRNAs and their biological
+functions are summarized in Table 2. Based on the above discussion, it
+is clear that miRNAs play a vital role in the regulation of many
+developmental and other processes in plants.
+
+7. Current clinical trials
+Recent understanding of the importance of miRNAs has attracted
+the interest of the biomedical research community. Researchers
+believe that miRNAs are the next important class of therapeutic
+
+molecules after siRNA. These will have signiﬁcant advantages over
+siRNAs due to many therapeutic applications.
+The misregulation of several miRNAs is linked to the development
+of certain diseases in humans and other organisms [184]. It has been
+demonstrated that the restoration of misregulated miRNAs to their
+normal levels can reduce or even eliminate diseases including tumors
+in animal models [184]. Because miRNAs are naturally occurring
+molecules, there are certain advantages in their application as
+therapeutic agents. Worldwide researchers have validated the theory
+of “miRNA replacement therapy,” which involves introducing synthetic miRNAs or miRNA mimetics into diseased tissues in an attempt
+to restore normal proliferation, apoptosis, cell cycle, and other cellular
+functions that have been affected by the misregulation of one or more
+miRNAs [185,186]. In contrast, some researchers have utilized miRNA
+inhibitors in an effort to increase the endogenous levels of therapeutic
+proteins [187]. Thus, in theory, inhibition of a speciﬁc miRNA linked to
+a given disease can remove the block of expression of a therapeutic
+protein. On the other hand, the administration of a miRNA mimetic
+can increase the endogenous miRNA population, therefore suppressing a harmful gene. In many cases, the reactivation or inhibition of
+these miRNA-regulated pathways leads to a signiﬁcant therapeutic
+responses [188]. The pioneering groups of specialized pharmaceutical
+companies have initiated studies on creating viable therapeutic
+candidates with miRNA inhibitors and miRNA mimetics in diverse
+ﬁelds such as cancer, cardiovascular diseases, neurological disorders,
+and viral infections [185]. miRNAs are making their way in the
+pharmaceutical industry as therapeutic and diagnostic targets.
+A miRNA-dependent posttranscriptional gene silencing process
+has been proven effective in organisms ranging from plants to
+nematodes and from fruit ﬂies to humans at cell culture level. In 2008,
+a leading pharmaceutical company called Santaris announced the
+initiation of clinical trials with SPC3649, an LNA-based (locked nucleic
+acid) antisense molecule against miR-122, for the treatment of
+hepatitis C [185]. miR-122 has been found to affect hepatitis C virus
+(HCV) replication, which also has a role in cholesterol synthesis [189].
+Due to these potential applications and its expression in the liver,
+miR-122 has become a favorite target for ﬁrst-generation miRNAbased therapeutic development programs. Trials are already in
+progress and include 48 healthy volunteers to evaluate the safety of
+the drug and other factors. So far, the company has reported that
+results are encouraging, and phase 2 clinical trials in HCV patients are
+planned [190].
+According to the National Cancer Institute (USA), liver cancer is the
+third most common cause of cancer deaths in men and the tenth most
+
+Table 2
+Plant miRNAs and their biological functions in different plant species.
+miRNAs
+
+Target gene
+
+Biological functions
+
+Species
+
+Reference
+
+miR156
+miR157
+miR158
+miR159
+miR160
+miR162
+miR164
+miR164a
+miR164c
+miR165/miR166
+miR167
+miR168
+miR170/171
+miR172
+miR319
+miR319/JAW
+miR390
+miR393
+miR395
+miR408
+
+SPL
+SPL
+PP2
+MYBTFS:GAMYB, MYB33
+ARF
+DCL1
+NAC-TF: CUC1, CUC2
+NAC-TF: CUC1, CUC2
+NAC-TF: CUC1, CUC2
+HD-ZIP, PHB
+ARF6 and 8
+AGO1
+SCL
+AP2
+TCP
+BHLH TFS: TCPS
+TAS3
+F-box protein: TIR1
+Sulfate transporter
+Plantacyanin, laccases
+
+Development transition time
+Developmental timing
+Unknown
+Floral identity and ﬂower development
+Leaf and root development, auxin response, ﬂoral organ identity
+
+A. thaliana
+Gossypium hirsutum
+A. thaliana
+A. thaliana
+Glycine max
+A. thaliana
+A. thaliana
+A. thaliana
+A. thaliana
+A. thaliana
+A. thaliana
+A. thaliana
+Populus trichocarpa
+Oryza sativa, A. thaliana
+A. thaliana
+
+[171]
+[177]
+[72]
+[165]
+[178]
+[175]
+[182]
+[169]
+[183]
+[159]
+[163]
+[176]
+[179]
+[172,180]
+[173]
+[173]
+[181]
+[157]
+[156]
+[157]
+
+Shoot and root development
+Leaf development, patterning, and polarity
+Floral identity and ﬂower development
+Meristem maintenance, vascular development and organ polarity
+Auxin response
+Root development
+Developmental timing and ﬂoral organ identity
+Leaf development
+Leaf development, patterning and polarity
+Auxin response, developmental timing, lateral organ polarity
+Hormone signaling for plant development
+Stress response
+Stress response
+
+Zea mays
+A. thaliana
+O. sativa
+A. thaliana
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+1239
+
+Table 3
+Recent preclinical and clinical trials based on miRNA therapeutics.
+Government identiﬁera or
+reference
+
+Disease or condition
+
+Trial title
+
+Targeted status
+
+Location
+
+Asthma
+
+miRNA analysis in premenstrual asthma
+
+Unspeciﬁed
+
+The Ohio State University,
+NCT00837395
+Columbus, United States
+Mayo Clinic, Florida, United States NCT00909350
+
+Barrett's esophagus, esophageal miRNA expression in upper gastroin-testinal mucosal Unspeciﬁed
+adenocarcinoma
+tissue
+Cancer and liver infection
+miR-34a mimetics
+miRNA 34a and
+tumor p53 protein
+Cancer, acute leukemia
+AML miRNA therapy
+Unspeciﬁed
+myelogenous
+Epstein–Barr virus and herpes Herpes virus therapy
+Unspeciﬁed
+simplex virus infection
+HCV infection
+Hepatitis C therapy
+Unspeciﬁed
+HCV infection
+Anti-mir-122 oligo
+miRNA122
+HCV infection,
+SPC-3649
+miRNA122
+hypercholesterolemia
+Hepatitis C
+miRNA-122 clinical course of patients with chronic
+Unspeciﬁed
+HCV infection
+Healthy
+Safety study of SPC3649 in healthy men
+Unspeciﬁed
+
+Rosetta Genomics
+
+[186]
+
+Mirna Therapeutic
+
+185
+
+Rosetta Genomics
+
+[185]
+
+Rosetta Genomics
+Alnylam
+Santaris Pharma
+
+[185]
+[189]
+[190]
+NCT00980161
+
+Studying biomarkers in cell samples from patients
+with acute myeloid leukemia
+Lungs and non-small cell cancer Osolo miRNA therapy
+Melanoma
+miRNA expression and function in cutaneous
+malignant melanoma
+Naevi malignant melanoma
+Expression patterns of miRNA processing enzyme
+Dicer
+Pregnant women
+miRNA proﬁle in umbilical cord blood NK cells
+
+Unspeciﬁed
+
+National Taiwan University
+Hospital
+Hvidovre University Hospital,
+Denmark, Santaris Pharma
+Miragen Therapeutics
+Miragen Therapeutics
+Rosetta Genomics
+Tel Aviv Sourasky Medical Center,
+Israel
+National Cancer Institute (NCI)
+
+miRNA let-7a-1
+Unspeciﬁed
+
+Mirna Therapeutic
+Rigshospitalet, Denmark
+
+[185]
+NCT00536029
+
+Unspeciﬁed
+
+NCT00862914
+
+Prostate cancer
+Pulmonary arterial
+hypertension
+Renal cell carcinoma
+
+Prostate cancer miRNA
+Expression and signiﬁcance of miRNA
+
+Unspeciﬁed
+Unspeciﬁed
+
+miRNA expression in renal cell carcinoma
+
+Unspeciﬁed
+
+Sepsis
+
+Circulating miRNAs as biomarkers of sepsis
+
+Unspeciﬁed
+
+Skin Cancer
+Transplant
+
+Expression levels of miRNA processing enzymes Dicer Unspeciﬁed
+and Drosha in epithelial skin cancer
+CMV miRNA expression in vivo and Immune Evasion Unspeciﬁed
+
+Unspeciﬁed
+Unspeciﬁed
+Unspeciﬁed
+
+Antagomirs
+Anti-inﬂammatory miRNA
+Anticancer miRNA
+
+Ruhr-University Bochum,
+Germany
+National Taiwan University
+Hospital, Taiwan
+Mirna Therapeutics
+The Ohio State University,
+Columbus, U.S.
+The 1st Afﬁliated Hospital, Sun
+Yet-sen University, China
+Changhai Hospital, Shanghai,
+China
+Ruhr-University Bochum,
+Germany
+University of Alberta Hospital,
+Canada
+Alnylam
+Alnylam
+Alnylam
+
+Heart failure
+Heart failure
+HIV/AIDS infection
+Inﬂammatory bowel disease
+
+miRNA inhibitors
+miRNA mimetics
+HIV therapy
+miRNA in inﬂammatory bowel disease
+
+Leukemia
+
+a
+
+miRNA 208a
+Unspeciﬁed
+Unspeciﬁed
+Unspeciﬁed
+
+Unspeciﬁed
+
+Unspeciﬁed
+Unspeciﬁed
+Unspeciﬁed
+
+NCT00688012
+[185]
+[185]
+[185]
+NCT00734331
+NCT01057199
+
+NCT00751569
+[185]
+NCT00806312
+NCT00743054
+NCT00862290
+NCT00849914
+NCT00677482
+[185]
+[185]
+[185]
+
+Source: www.clinicaltrials.gov.
+
+common in women. Rosetta Genomics has commenced in in vivo
+studies with its miRNA-based liver cancer therapeutic program in
+collaboration with Isis Pharmaceuticals. The project, joining Isis's
+widespread understanding of antisense chemistry and Rosetta
+Genomics' knowledge in miRNA technologies, is the companies' ﬁrst
+attempt at exploring the role of miRNAs as master switches of the
+human body to treat cancer. In September 2008, Rosetta Genomics
+moved its miRNA-based liver cancer therapeutics project with Isis
+Pharmaceuticals to Regulus Therapeutics, a joint venture between
+Alnylam Pharmaceuticals and Isis Pharmaceuticals that is focused on
+the development of miRNA-based therapeutics [191,192].
+Rosetta Genomics together with Columbia University Medical
+Center (CUMC) has proposed its ﬁrst diagnostic test for regulatory
+approval. The test distinguishes between squamous and nonsquamous lung cancer [193]. GlaxoSmithKline and Regulus Therapeutics
+formed a strategic alliance for the development of novel miRNAtargeted drugs for inﬂammatory diseases [194]. Asuragen initiated the
+ﬁrst ever miRNA-based diagnostic test. The test is designed to
+differentiate between pancreatic cancer and pancreatitis, which
+often have similar symptoms. Asuragen performed a trial in which
+60 samples from patients were evaluated by the newly developed
+
+assay. The assay demonstrated remarkable results in distinguishing
+between the two conditions, in which 95% of the samples were
+accurately identiﬁed [195]. Miragen has announced plans to focus on
+identifying targets which are related to cardiovascular diseases,
+primarily relating to heart failure [196]. The recent preclinical and
+clinical trials based on miRNA therapeutics are summarized in Table 3.
+The process of developing any drug is very expensive and is
+characterized by numerous hurdles with a very high chance of failure.
+The development of miRNA-targeted drugs is very challenging due to
+the lack of experience, and studies are still in their early stages. Although
+miRNA clinical trials are still in their infancy; nevertheless, the available
+data indicate the great potential of miRNAs in diagnosis and therapy.
+8. Future prospectives
+A large number of miRNAs and their functions have been
+discovered, and more are expected to be explored in the near future
+due to rapidly expanding sequencing power. Although the miRNA
+synthesis pathway in animals and plants has been well researched
+over the past decade, many questions have yet to be answered.
+Speciﬁcally, the precise structures of the complexes including the
+
+1240
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+Microprocessor, EXP5, HST, and Dicer-RISC in association with the
+targeted mRNA remain to be determined. The exact biochemical role
+of many factors associated with the miRNA biogenesis such as PACT,
+LOQS, HEN1, SE, and HYL1 have yet to be revealed. In addition, more
+protein factors associated with miRNA synthesis and mechanisms are
+expected to be determined in future. Moreover, the signiﬁcance and
+enzymology of the modiﬁcations such as uridylation, adenylation, and
+methylation of miRNAs are still a mystery.
+The majority of evolutionarily conserved miRNAs belong to multiple
+gene families, and one of the challenges is to understand the functional
+relationship among the members of the miRNA families. A large number
+of miRNAs have multiple target genes; therefore, researchers will have
+to determine the regulatory relationship between multiple members of
+a miRNA gene family and multiple target genes.
+The scaling up of miRNAs from the laboratory to the pharmaceutical industry is ongoing. Whereas the swift technological developments to date are encouraging, there are still a number of risks
+associated with this research. For example, it is unclear whether
+successfully inhibiting miRNA in chronic diseases will have meaningful results. Typically, tissue culture cell lines express less miRNAs than
+tissues and thus may not be as rate limiting for disease treatment in
+vivo. Furthermore, there are additional general hurdles such as drug
+delivery to the right organs or tissues and choosing the appropriate
+technology to modulate the miRNA expression. These hurdles will
+certainly make the road towards miRNA therapeutics a very rough
+one; however, a number of therapeutic programs with similar initial
+problems have been proven to be successful.
+References
+[1] R.C. Lee, R.L. Feinbaum, V. Ambros, The C. elegans heterochronic gene lin-4
+encodes small RNAs with antisense complementarity to lin-14, Cell 75 (1993)
+843–854.
+[2] B. Wightman, I. Ha, G. Ruvkun, Posttranscriptional regulation of the heterochronic gene lin-14 by lin-4 mediates temporal pattern formation in C. elegans,
+Cell 75 (1993) 855–862.
+[3] N.C. Lau, P.L. Lim, E.G. Weinstein, D.P. Bartel, An abundant class of tiny RNAs with
+probable regulatory roles in Caenorhabditis elegans, Science 294 (2001) 858–862.
+[4] R.C. Lee, V. Ambros, An extensive class of small RNAs in Caenorhabditis elegans,
+Science 294 (2001) 862–864.
+[5] M. Lagos-Quintana, R. Rauhut, W. Lendeckel, T. Tuschl, Identiﬁcation of novel
+genes coding for small expressed RNAs, Science 294 (2001) 853–858.
+[6] C. Lu, S.S. Tej, S. Luo, C.D. Haudenschild, B.C. Meyers, P.J. Green, Elucidation of the
+small RNA component of the transcriptome, Science 309 (2005) 1567–1569.
+[7] M. Margulies, M. Egholm, W.E. Altman, S. Attiya, J.S. Bader, L.A. Bemben, J. Berka,
+M.S. Braverman, Y.J. Chen, Z. Chen, S.B. Dewell, L. Du, J.M. Fierro, X.V. Gomes, B.C.
+Godwin, W. He, S. Helgesen, C.H. Ho, G.P. Irzyk, S.C. Jando, M.L. Alenquer, T.P.
+Jarvie, K.B. Jirage, J.B. Kim, J.R. Knight, J.R. Lanza, J.H. Leamon, S.M. Lefkowitz, M.
+Lei, J. Li, K.L. Lohman, H. Lu, V.B. Makhijani, K.E. McDade, M.P. McKenna, E.W.
+Myers, E. Nickerson, J.R. Nobile, R. Plant, B.P. Puc, M.T. Ronan, G.T. Roth, G.J.
+Sarkis, J.F. Simons, J.W. Simpson, M. Srinivasan, K.R. Tartaro, A. Tomasz, K.A. Vogt,
+G.A. Volkmer, S.H. Wang, Y. Wang, M.P. Weiner, P. Yu, R.F. Begley, J.M. Rothberg,
+Genome sequencing in microfabricated high-density picolitre reactors, Nature
+437 (2005) 376–380.
+[8] E.C. Lai, P. Tomancak, R.W. Williams, G.M. Rubin, Computational identiﬁcation of
+Drosophila MicroRNA genes, Genome Biol. 4 (2003) R42.
+[9] J.W. Nam, K.R. Shin, J. Han, Y. Lee, V.N. Kim, B.T. Zhang, Human microRNA
+prediction through a probabilistic co-learning model of sequence and structure,
+Nucleic Acids Res. 33 (2005) 3570–3581.
+[10] S.C. Li, C.Y. Pan, W.C. Lin, Bioinformatics discovery of microRNA precursor from
+human ESTs and introns, BMC Genomics 7 (2006) 164.
+[11] T.H. Huang, B. Fan, F.M. Rothschild, Z.L. Hu, K. Li, S.H. Zhao, MiR Finder: an
+improved approach and software implementation for genome-wide fast
+microRNA precursor scans, BMC Bioinform. 8 (2007) 341.
+[12] L. He, G.J. Hannon, MicroRNAs: small RNAs with a big role in gene regulation, Nat.
+Rev. Genet. 5 (2004) 522–531.
+[13] V.N. Kim, J. Han, M.C. Siomi, Biogenesis of small RNAs in animals, Nat. Rev. Mol.
+Biol. 10 (2009) 126–139.
+[14] W.M. Jones-Rhoades, D.P. Bartel, B. Bartel, MicroRNAs and their regulatory roles
+in plants, Annu. Rev. Plant Biol. 57 (2006) 19–53.
+[15] V. Ambros, B. Bartel, D.P. Bartel, C.B. Burge, J.C. Carrington, X. Chen, G. Dreyfuss, S.R.
+Eddy, S. Grifﬁths-Jones, M. Marshall, M. Matzke, G. Ruvkun, T. Tuschl, A
+uniform system for microRNA annotation, RNA-Publ. RNA Soc. 9 (2003)
+277–279.
+[16] B.J. Reinhart, F.J. Slack, M. Basson, J.C. Bettinger, A.E. Pasquinelli, A.E. Rougvie, H.R.
+Horvitz, G. Ruvkun, The 21 nucleotide let-7 RNA regulates developmental timing in
+Caenorhabditis elegans, Nature 403 (2000) 901–906.
+
+[17] F.J. Slack, M. Basson, Z. Liu, V. Ambros, H.R. Horvitz, G. Ruvkun, The lin-41 RBCC
+gene acts in the C. elegans heterochronic pathway between the let-7 regulatory
+RNA and the LIN-29 transcription factor, Mol. Cell. Biol. 5 (2000) 659–669.
+[18] A.E. Pasquinelli, B.J. Reinhart, F. Slack, M.Q. Martindale, M.I. Kuroda, B. Maller, D.C.
+Hayward, E.E. Ball, B. Degnan, P. Müller, J. Spring, A. Srinivasan, M. Fishman, J.
+Finnerty, J. Corbo, M. Levine, P. Leahy, E. Davidson, G. Ruvkun, Conservation across
+animal phylogeny of the sequence and temporal regulation of the 21 nucleotide let7 heterochronic regulatory RNA, Nature 408 (2000) 86–89.
+[19] A. Grimso, M. Srivastava, B. Fahey, B.J. Woodcroft, R.H. Chiang, N. King, B.M.
+Degnan, D.S. Rokhsar, D.P. Bartel, Early origins and evolution of microRNAs and
+Piwi-interacting RNAs in animals, Nature 455 (2008) 1193–1197.
+[20] Y. Lee, C. Ahn, J. Han, H. Choi, J. Kim, J. Yim, J. Lee, P. Provost, O. Radmark, S. Kim,
+V.N. Kim, The nuclear RNase III Drosha initiates microRNA processing, Nature
+425 (2003) 415–419.
+[21] X. Cai, C.H. Hagedorn, B.R. Cullen, Human MicroRNAs are processed from capped,
+polyadenylated transcripts that can also function as mRNAs, RNA-Publ. RNA Soc.
+10 (2004) 1957–1966.
+[22] Y. Lee, M. Kim, J. Han, K.H. Yeom, S. Lee, S.H. Baek, V.N. Kim, MicroRNA genes are
+transcribed by RNA polymerase II, EMBO J. 23 (2004) 4051–4060.
+[23] G.M. Borchert, W. Lanier, B.L. Davidson, RNA polymerase III transcribes human
+microRNAs, Nat. Struct. Mol. Cell Biol. 13 (2006) 1097–1101.
+[24] Y. Lee, K. Jeon, J.T. Lee, S. Kim, V.N. Kim, MicroRNA maturation: stepwise
+processing and subcellular localization, EMBO J. 21 (2002) 4663–4670.
+[25] Y. Zeng, B.R. Cullen, Sequence requirements for micro RNA processing and
+function in human cells, RNA-Publ. RNA Soc. 9 (2003) 112–123.
+[26] J. Han, Y. Lee, K.H. Yeom, Y.K. Kim, H. Jin, V.N. Kim, The Drosha–DGCR8 complex
+in primary microRNA processing, Genes Dev. 18 (2004) 3016–3027.
+[27] A.M. Denli, B.B.J. Tops, R.H.A. Plasterk, R.F. Ketting, G.J. Hannon, Processing of
+primary microRNAs by the Microprocessor complex, Nature 432 (2004)
+231–235.
+[28] R.I. Gregory, K.P. Yan, G. Amuthan, T. Chendrimada, B. Doratotaj, N. Cooch, R.
+Shiekhattar, The Microprocessor complex mediates the genesis of microRNAs,
+Nature 432 (2004) 235–240.
+[29] M. Landthaler, A. Yalcin, T. Tuschl, The human DiGeorge syndrome critical region
+gene 8 and its D. melanogaster homolog are required for miRNA biogenesis, Curr.
+Biol. 14 (2004) 2162–2167.
+[30] Y. Wang, R. Medvid, C. Melton, R. Jaenisch, R. Blelloch, DGCR8 is essential for
+microRNA biogenesis and silencing of embryonic stem cell self-renewal, Nat.
+Genet. 39 (2007) 380–385.
+[31] V. Filippov, V. Solovyev, M. Filippova, S.S. Gill, A novel type of RNase III family
+proteins in eukaryotes, Gene 245 (2000) 213–221.
+[32] H. Wu, H. Xu, L.J. Miraglia, S.T. Crooke, Human RNase III is a 160-kDa protein
+involved in preribosomal RNA processing, J. Biol. Chem. 275 (2000)
+36957–36965.
+[33] K.R. Fortin, R.H. Nicholson, A.W. Nicholson, Mouse ribonuclease III cDNA
+structure, expression analysis, and chromosomal location, BMC Genomics 3
+(2002) 26.
+[34] J. Han, Y. Lee, K.H. Yeom, J.W. Nam, I. Heo, J.K. Rhee, S.Y. Sohn, Y. Cho, B.T. Zhang,
+V.N. Kim, Molecular basis for the recognition of primary microRNAs by the
+Drosha–DGCR8 complex, Cell 125 (2006) 887–901.
+[35] Y. Zeng, B.R. Cullen, Efﬁcient processing of primary microRNA hairpins by Drosha
+requires ﬂanking nonstructured RNA sequences, J. Biol. Chem. 280 (2005)
+27595–27603.
+[36] S. Nakielny, G. Dreyfuss, Transport of proteins and RNAs in and out of the
+nucleus, Cell 99 (1999) 677–690.
+[37] E. Lund, S. Guttinger, A. Calado, J.E. Dahlberg, U. Kutay, Nuclear export of
+microRNA precursors, Science 303 (2004) 95–98.
+[38] R. Yi, Y. Qin, L.G. Macara, B.R. Cullen, Exportin-5 mediates the nuclear export of
+pre-microRNAs and short hairpin RNAs, Genes Dev. 17 (2003) 3011–3016.
+[39] M.T. Bohnsack, K. Czaplinski, D. Gorlich, Exportin 5 is a RanGTP-dependent
+dsRNA-binding protein that mediates nuclear export of pre-miRNAs, RNA-Publ.
+RNA Soc. 10 (2004) 185–191.
+[40] C. Gwizdek, B.O. Nazari, A.M. Brownawell, A. Doglio, E. Bertrand, L.G. Macara, C.
+Dargemont, Exportin-5 mediates nuclear export of minihelix-containing RNAs, J.
+Biol. Chem. 278 (2003) 5505–5508.
+[41] E. Basyuk, F. Suavet, A. Doglio, R. Bordonne, E. Bertrand, Human let stem-loop
+precursors harbor features of RNase III cleavage products, Nucleic Acids Res. 31
+(2003) 6593–6597.
+[42] Y. Zeng, B.R. Cullen, Structural requirements for pre-microRNA binding and
+nuclear export by Exportin 5, Nucleic Acids Res. 32 (2004) 4776–4785.
+[43] A. Grishok, A.E. Pasquinelli, D. Conte, N. Li, S. Parrish, I. Ha, D.L. Baillie, A. Fire, G.
+Ruvkun, C.C. Mello, Genes and mechanisms related to RNA interference regulate
+expression of the small temporal RNAs that control C. elegans developmental
+timing, Cell 106 (2001) 23–34.
+[44] G. Hutvagner, J. McLachlan, A.E. Pasquinelli, E. Bálint, T. Tuschl, P.D. Zamore, A
+cellular function for the RNAinterference enzyme Dicer in the maturation of the
+let 7 small temporal RNA, Science 293 (2001) 834–838.
+[45] R.F. Ketting, S.E.J. Fischer, E. Bernstein, T. Sijen, G.J. Hannon, R.H.A. Plasterk, Dicer
+functions in RNA interference and in synthesis of small RNA involved in
+developmental timing in C. elegans, Genes Dev. 15 (2001) 2654–2659.
+[46] S.W. Knight, B.L. Bass, A role for the RNase III enzyme DCR-1 in RNA interference
+and germ line development in Caenorhabditis elegans, Science 293 (2001)
+2269–2271.
+[47] Y.S. Lee, K. Nakahara, J.W. Pham, K. Kim, Z. He, E.J. Sontheimer, R.W. Carthew,
+Distinct roles for Drosophila Dicer-1 and Dicer-2 in the siRNA/miRNA silencing
+pathways, Cell 117 (2004) 69–81.
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+[48] H. Tabara, E. Yigit, H. Siomi, C. Mello, The dsRNA binding protein RDE-4 interacts
+with RDE-1, DCR-1, and a DExH-box helicase to direct RNAi in C. elegans, Cell 109
+(2002) 861–871.
+[49] Q. Liu, T.A. Rand, S. Kalidas, F. Du, H.E. Kim, D.P. Smith, X. Wang, R2D2, a bridge
+between the initiation and effector steps of the Drosophila RNAi pathway,
+Science 301 (2003) 1921–1925.
+[50] S.M. Hammond, S. Boettcher, A.A. Caudy, R. Kobayashi, G.J. Hannon, Argonaute 2,
+a link between genetic and biochemical analyses of RNAi, Science 293 (2001)
+1146–1150.
+[51] M.A. Carmell, Z. Xuan, M.Q. Zhang, G.J. Hannon, The Argonaute family: tentacles
+that reach into RNAi, developmental control, stem cell maintenance, and
+tumorigenesis, Genes Dev. 16 (2002) 2733–2742.
+[52] K. Forstemann, Y. Tomari, T. Du, V.V. Vagin, A.M. Denli, D.P. Bratu, C. Klattenhoff,
+W.E. Theurkauf, P.D. Zamore, Normal microRNA maturation and germ-line stem
+cell maintenance requires Loquacious, a double-stranded RNA-binding domain
+protein, PLoS Biol. 3 (2005) e236.
+[53] F. Jiang, X. Ye1, X. Liu, L. Fincher, D. McKearin, Q. Liu, Dicer-1 and R3D1-L catalyze
+microRNA maturation in Drosophila, Genes Dev. 19 (2005) 1674–1679.
+[54] K. Saito, A. Ishizuka, H. Siomi, M.C. Siomi, Processing of pre-microRNAs by the
+Dicer-1–Loquacious complex in Drosophila cells, PLoS Biol. 3 (2005) e235.
+[55] T.P. Chendrimada, R.I. Gregory, E. Kumaraswamy, J. Norman, N. Cooch, K.
+Nishikura, R. Shiekhattar, TRBP recruits the Dicer complex to Ago2 for microRNA
+processing and gene silencing, Nature 436 (2005) 740–744.
+[56] A.D. Haase, L. Jaskiewicz, H. Zhang, S. Laine, R. Sack, A. Gatignol, W. Filipowicz,
+TRBP, a regulator of cellular PKR and HIV-1 virus expression, interacts with Dicer
+and functions in RNA silencing, EMBO Rep. 6 (2005) 961–967.
+[57] Y. Lee, I. Hur, S.Y. Park, Y.K. Kim, M.R. Suh, V.N. Kim, The role of PACT in the RNA
+silencing pathway, EMBO J. 25 (2006) 522–532.
+[58] A. Khvorova, A. Reynolds, S.D. Jayasena, Functional siRNAs and miRNAs exhibit
+strand bias, Cell 115 (2003) 209–216.
+[59] E. Maniataki, Z. Mourelatos, A human, ATP-independent, RISC assembly machine
+fueled by pre-miRNA, Genes Dev. 19 (2005) 2979–2990.
+[60] I.J. MacRae, E. Ma, M. Zhou, C.V. Robinson, J.A. Doudna, In vitro reconstitution of
+the human RISC-loading complex, Proc. Natl Acad. Sci. USA 105 (2008) 512–517.
+[61] R.I. Gregory, T.P. Chendrimada, N. Cooch, R. Shiekhattar, Human RISC couples
+microRNA biogenesis and posttranscriptional gene silencing, Cell 123 (2005)
+631–640.
+[62] Y. Tomari, C. Matranga, B. Haley, N. Martinez, P.D. Zamore, A protein sensor for
+siRNA asymmetry, Science 306 (2004) 1377–1380.
+[63] S. Diederichs, D.A. Haber, Dual role for argonautes in microRNA processing and
+posttranscriptional regulation of microRNA expression, Cell 131 (2007) 1097–1108.
+[64] C. Llave, K.D. Kasschau, M.A. Rector, J.C. Carrington, Endogenous and silencingassociated small RNAs in plants, Plant Cell 14 (2002) 1605–1619.
+[65] M.F. Mette, J.V.D. Winden, M. Matzke, A.J. Matzke, Short RNAs can identify new
+candidate transposable element families in Arabidopsis, Plant Physiol. 130 (2002) 6–9.
+[66] X. Chen, MicroRNA metabolism in plants, Curr. Top. Microbiol. Immunol. 20
+(2008) 117–136.
+[67] C. Maher, L. Stein, D. Ware, Evolution of Arabidopsis microRNA families through
+duplication events, Genome Res. 16 (2006) 510–519.
+[68] T. Arazi, M. Talmor-Neiman, R. Stav, M. Riese, P. Huijser, D.C. Baulcombe, Cloning
+and characterization of micro-RNAs from moss, Plant J. 43 (2005) 837–848.
+[69] M.J. Axtell, D.P. Bartel, Antiquity of microRNAs and their targets in land plants,
+Plant Cell 17 (2005) 1658–1673.
+[70] Z. Xie, E. Allen, N. Fahlgren, A. Calamar, S.A. Givan, J.C. Carrington, Expression of
+Arabidopsis MIRNA genes, Plant Physiol. 138 (2005) 2145–2154.
+[71] M. Megraw, V. Baev, V. Rusinov, S.T. Jensen, K. Kalantidis, A.G. Hatzigeorgiou,
+MicroRNA promoter element discovery in Arabidopsis, RNA-Publ. RNA Soc. 12
+(2006) 1612–1619.
+[72] B.J. Reinhart, E.G. Weinstein, M.W. Rhoades, B. Bartel, D.P. Bartel, MicroRNAs in
+plants, Genes Dev. 16 (2002) 1616–1626.
+[73] I. Papp, M.F. Mette, W. Aufsatz, L. Daxinger, S.E. Schauer, A. Ray, J.V.D. Winden, M.
+Matzke, A.J. Matzke, Evidence for nuclear processing of plant micro RNA and
+short interfering RNA precursors, Plant Physiol. 132 (2003) 1382–1390.
+[74] A. Ray, J.D. Lang, T. Golden, S. Ray, SHORT INTEGUMENT (SIN1), a gene required
+for ovule development in Arabidopsis, also controls ﬂowering time, Development
+122 (1996) 2631–2638.
+[75] S.E. Jacobsen, M. Running, E.M. Meyerowitz, Disruption of an RNA helicase/
+RNAse III gene in Arabidopsis causes unregulated cell division in ﬂoral meristems,
+Development 126 (1999) 5231–5243.
+[76] W. Park, J. Li, R. Song, J. Messing, X. Chen, CARPEL FACTORY, a Dicer homolog, and
+HEN1, a novel protein, act in microRNA metabolism in Arabidopsis thaliana, Curr.
+Biol. 12 (2002) 1484–1495.
+[77] C. Lu, N. Fedoroff, A mutation in the Arabidopsis HYL1 gene encoding a dsRNA
+binding protein affects responses to abscisic acid, auxin, and cytokinin, Plant Cell
+12 (2000) 2351–2366.
+[78] A. Hiraguri, R. Itoh, N. Kondo, Y. Nomura, D. Aizawa, Y. Murai, H. Koiwa, M. Seki,
+K. Shinozaki, T. Fukuhara, Speciﬁc interactions between Dicer-like proteins and
+HYL1/DRB-family dsRNA-binding proteins in Arabidopsis thaliana, Plant Mol.
+Biol. 57 (2005) 173–188.
+[79] D. Lobbes, G. Rallapalli, D.D. Schmidt, C. Martin, J. Clarke, SERRATE: a new player
+on the plant microRNA scene, EMBO Rep. 7 (2006) 1052–1058.
+[80] L. Yang, Z. Liu, F. Lu, A. Dong, H. Huang, SERRATE is a novel nuclear regulator in
+primary microRNA processing in Arabidopsis, Plant J. 47 (2006) 841–850.
+[81] Z. Yang, Y.W. Ebright, B. Yu, X. Chen, HEN1 recognizes 21–24 nt small RNA
+duplexes and deposits a methyl group onto the 2′ OH of the 3′ terminal
+nucleotide, Nucleic Acids Res. 34 (2006) 667–675.
+
+1241
+
+[82] B. Yu, Z. Yang, J. Li, S. Minakhina, M. Yang, R.W. Padgett, R. Steward, X. Chen,
+Methylation as a crucial step in plant microRNA biogenesis, Science 307 (2005)
+932–935.
+[83] F. Wahid, T. Khan, K.H. Hwang, Y.Y. Kim, Piwi-interacting RNAs (piRNAs) in
+animals: the story so far, Afr. J. Biotechnol. 8 (2009) 4002–4006.
+[84] J.J. Song, S.K. Smith, G.J. Hannon, L. Joshua-Tor, Crystal structure of Argonaute
+and its implications for RISC slicer activity, Science 305 (2004) 1434–1437.
+[85] D.S. Schwarz, G. Hutvagner, T. Du, Z. Xu, N. Aronin, P.D. Zamore, Asymmetry in
+the assembly of the RNAi enzyme complex, Cell 115 (2003) 199–208.
+[86] A. Herr, Pathways through the small RNA world of plants, FEBS Lett. 579 (2005)
+5879–5888.
+[87] K.M. Bollman, M.J. Aukerman, M.Y. Park, C. Hunter, T.Z. Berardini, R.S. Poethig,
+HASTY the Arabidopsis ortholog of exportin 5/MSN5, regulates phase change and
+morphogenesis, Development 130 (2003) 1493–1504.
+[88] M.Y. Park, G. Wu, A. Gonzalez-Sulser, H. Vaucheret, R.S. Poethig, Nuclear
+processing and export of microRNAs in Arabidopsis, Proc. Natl Acad. Sci. USA 102
+(2005) 3691–3696.
+[89] G. Meister, M. Landthaler, A. Patkaniowska, Y. Dorsett, G. Teng, T. Tuschl, Human
+Argonaute2 mediates RNA cleavage targeted by miRNAs and siRNAs, Mol. Cell 15
+(2004) 185–197.
+[90] A. Telfer, R.S. Poethig, HASTY: a gene that regulates the timing of shoot
+maturation in Arabidopsis thaliana, Development 125 (1998) 1889–1898.
+[91] R.S. Pillai, C.G. Artus, W. Filipowicz, Tethering of human Ago proteins to mRNA
+mimics the miRNA-mediated repression of protein synthesis, RNA-Publ. RNA
+Soc. 10 (2004) 1518–1525.
+[92] W.C. Richard, J.S. Erik, Origins and mechanisms of miRNAs and siRNAs, Cell 136
+(2009) 642–655.
+[93] C. Llave, Z. Xie, K.D. Kasschau, J.C. Carrington, Cleavage of scarecrow-like mRNA
+targets directed by a class of Arabidopsis miRNA, Science 297 (2002) 2053–2056.
+[94] G. Tang, B.J. Reinhart, D.P. Bartel, P.D. Zamore, A biochemical framework for RNA
+silencing in plants, Genes Dev. 17 (2003) 49–63.
+[95] D.T. Humphreys, B.J. Westman, D.I. Martin, T. Preiss, Micro-RNAs control
+translation initiation by inhibiting eukaryotic initiation factor 4E/cap and poly
+(A) tail function, Proc. Natl Acad. Sci. USA 102 (2005) 16961–16966.
+[96] M. Kiriakidou, G.S. Tan, S. Lamprinaki, M.D. Planell-Saguer, P.T. Nelson, Z.
+Mourelatos, An mRNA m7G cap binding-like motif within human Ago2 represses
+translation, Cell 129 (2007) 1141–1151.
+[97] G. Mathonnet, M.R. Fabian, Y.V. Svitkin, A. Parsyan, L. Huck, T. Murata, S. Biffo, W.C.
+Merrick, E. Darzynkiewicz, R.S. Pillai, MicroRNA inhibition of translation
+initiation in vitro by targeting the cap-binding complex eIF4F, Science 317
+(2007) 1764–1767.
+[98] X.C. Ding, H. Grosshans, Repression of C. elegans microRNA targets at the
+initiation level of translation requires GW182 proteins, EMBO J. 28 (2009)
+213–222.
+[99] K. Seggerson, L. Tang, E.G. Moss, Two genetic circuits repress the Caenorhabditis
+elegans heterochronic gene lin-28 after translation initiation, Dev. Biol. 243
+(2002) 215–225.
+[100] P.A. Maroney, Y. Yu, J. Fisher, T.W. Nilsen, Evidence that micro-RNAs are
+associated with translating messenger RNAs in human cells, Nat. Struct. Mol.
+Biol. 13 (2006) 1102–1107 1.
+[101] C.P. Petersen, M.E. Bordeleau, J. Pelletier, P.A. Sharp, Short RNAs repress
+translation after initiation in mammalian cells, Mol. Cell 21 (2006) 533–542.
+[102] R. Thermann, M.W. Hentze, Drosophila miR2 induces pseudo-polysomes and
+inhibits translation initiation, Nature 447 (2007) 875–878.
+[103] A. Eulalio, E. Huntzinger, E. Izaurralde, GW182 interaction with Argonaute is
+essential for miRNA-mediated translational repression and mRNA decay, Nat.
+Struct. Mol. Biol. 15 (2008) 346–353.
+[104] I. Behm-Ansmant, J. Rehwinkel, T. Doerks, A. Stark, P. Bork, E. Izaurralde, mRNA
+degradation by miRNAs and GW182 requires both CCR4:NOT deadenylase and
+DCP1:DCP2 decapping complexes, Genes Dev. 20 (2006) 1885–1898.
+[105] A.J. Giraldez, Y. Mishima, J. Rihel, R.J. Grocock, S.V. Dongen, K. Inoue, A.J. Enright,
+A.F. Schier, Zebraﬁsh MiR-430 promotes deadenylation and clearance of
+maternal mRNAs, Science 312 (2006) 75–79.
+[106] L. Wu, J. Fan, J.G. Belasco, MicroRNAs direct rapid deadenylation of mRNA, Proc.
+Natl Acad. Sci. USA 103 (2006) 4034–4039.
+[107] M. Wakiyama, K. Takimoto, O. Ohara, S. Yokoyama, Let-7microRNA-mediated
+mRNA deadenylation and translational repression in a mammalian cell-free
+system, Genes Dev. 21 (2007) 1857–1862.
+[108] B. Yongli, S. Christopher, C. Yueh-Chin, A.C. Martine, L. Hai-Yan, L.D. Clyde, The
+CCR4 and CAF1 proteins of the CCR4–NOT complex are physically and
+functionally separated from NOT2, NOT4, and NOT5, Mol. Cell. Biol. 10 (1999)
+6642–6651.
+[109] L. Hai-Yan, B. Vasudeo, C.A. Deborah, R. Juri, M. Matthias, L.D. Clyde, The NOT
+proteins are part of the CCR4 transcriptional complex and affect gene expression
+both positively and negatively, EMBO J. 17 (1998) 1096–1106.
+[110] R.S. Pillai, S.N. Bhattacharyya, C.G. Artus, T. Zoller, N. Cougot, E. Basyuk, E.
+Bertrand, W. Filipowicz, Inhibition of translational initiation by Let-7 microRNA
+in human cells, Science 309 (2005) 1573–1576.
+[111] T.P. Chendrimada, K.J. Finn, X. Ji, D. Baillat, R.I. Gregory, S.A. Liebhaber, A.E.
+Pasquinelli, R. Shiekhattar, MicroRNA silencing through RISC recruitment of eIF6,
+Nature 447 (2007) 823–828.
+[112] Y. Wang, S. Juranek, H. Li, G. Sheng, T. Tuschl, D.J. Patel, Structure of an argonaute
+silencing complex with a seed-containing guide DNA and target RNA duplex,
+Nature 456 (2008) 921–926.
+[113] M.A. Valencia-Sanchez, J. Liu, G.J. Hannon, R. Parker, Control of translation and
+mRNA degradation by miRNAs and siRNAs, Genes Dev. 20 (2006) 515–524.
+
+1242
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+
+[114] S. Bagga, J. Bracht, S. Hunter, K. Massirer, J. Holtz, R. Eachus, A.E. Pasquinelli,
+Regulation by let-7 and lin-4 miRNAs results in target mRNA degradation, Cell
+122 (2005) 553–563.
+[115] L.P. Lim, N.C. Lau, P. Garrett-Engele, A. Grimson, J.M. Schelter, J. Castle, D.P. Bartel,
+P.S. Linsley, J.M. Johnson, Microarray analysis shows that some microRNAs
+down-regulate large numbers of target mRNAs, Nature 433 (2005) 769–773.
+[116] L.M. Aleman, J. Doench, P.A. Sharp, Comparison of siRNA induced off-target RNA
+and protein effects, RNA-Publ. RNA Soc. 13 (2007) 385–395.
+[117] M. Kato, F.J. Dlacj, MicroRNAs: small molecules with big roles—C. elegans to
+human cancer, Biol. Cell 100 (2008) 71–81.
+[118] B.J. Reinhart, F.J. Slack, M. Basson, A.E. Pasquinelli, J.C. Bettinger, The 21nucleotide let-7 RNA regulates developmental timing in Caenorhabditis elegans,
+Nature 403 (2000) 901–906.
+[119] M. Boehm, F. Slack, A developmental timing microRNA and its target regulate life
+span in C. elegans, Science 310 (2005) 1954–1957.
+[120] S.Y. Lin, S.M. Johnson, M. Abraham, M.C. Vella, A. Pasquinelli, The C. elegans
+hunchback homolog, hbl-1, controls temporal patterning and is a probable
+microRNA target, Dev. Cell 4 (2003) 639–650.
+[121] R.J. Johnston, O. Hobert, A microRNA controlling left/right neuronal asymmetry
+in Caenorhabditis elegans, Nature 426 (2003) 845–849.
+[122] S. Chang, R.J. Johnston Jr, C. Frøkjær-Jensen, S. Lockery, O. Hobert, MicroRNAs
+actsequentially and asymmetrically to control chemosensory laterality in the
+nematode, Nature 430 (2004) 785–798.
+[123] R. Nolo, C.M. Morrison, C. Tao, X. Zhang, G. Halder, The bantam microRNA is a
+target of the hippo tumor-suppressor pathway, Curr. Biol. 16 (2006) 1895–1904.
+[124] P. Xu, S.Y. Vernooy, M. Guo, B.A. Hay, The Drosophila microRNA mir-14 suppresses
+cell death and is required for normal fat metabolism, Curr. Biol. 13 (2003) 790–795.
+[125] A. Stark, J. Brennecke, R.B. Russell, S.M. Cohen, Identiﬁcation of Drosophila
+microRNA targets, PLoS Biol. 1 (2003) 1–13.
+[126] E.C. Lai, B. Tam, G.M. Rubin, Pervasive regulation of Drosophila Notch target genes by
+GY-box, Brd-box, and Kbox- class microRNAs, Genes Dev. 19 (2005) 1067–1080.
+[127] E. Wienholds, M.J. Koudijs, E.F.J. Van, E. Cuppen, R.H. Plasterk, The microRNAproducing enzyme Dicer1 is essential for zebraﬁsh development, Nat. Genet. 35
+(2003) 217–218.
+[128] A.J. Giraldez, R.M. Cinalli, M.E. Glasner, A.J. Enright, J.M. Thomson, S. Baskerville,
+S.M. Hammond, D.P. Bartel, A.F. Schier, MicroRNAs regulate brain morphogenesis in zebraﬁsh, Science 308 (2005) 833–838.
+[129] T. Watanabe, A. Takeda, K. Mise, T. Okuno, T. Suzuki, N. Minami, H. Imai, Stagespeciﬁ expression of microRNAs during Xenopus development, FEBS Lett. 579
+(2005) 318–324.
+[130] S. Yekta, I.H. Shih, D.P. Bartel, MicroRNA-directed cleavage of HOXB8 mRNA,
+Science 304 (2004) 594–596.
+[131] E. Hornstein, J.H. Mansﬁeld, S. Yekta, J.K. Hu, B.D. Harfe, The microRNA miR-196 acts
+upstream of Hoxb8 and Shh in limb development, Nature 438 (2005) 671–674.
+[132] Y. Zhao, E. Samal, D. Srivastava, Serum response factor regulates a musclespeciﬁc microRNA that targets Hand2 during cardiogenesis, Nature 436 (2005)
+214–220.
+[133] C.Z. Chen, L. Li, H.F. Lodish, D.P. Bartel, MicroRNAs modulate hematopoietic
+lineage differentiation, Science 303 (2004) 83–86.
+[134] C. Esau, X. Kang, E. Peralta, E. Hanson, E.G. Marcusson, L.V. Ravichandran, Y. Sun,
+S. Koo, R.J. Perera, R. Jain, N.M. Dean, S.M. Freier, C.F. Bennett, B. Lollo, R. Griffey,
+MicroRNA-143 regulates adipocyte differentiation, J. Biol. Chem. 279 (2004)
+52361–52365.
+[135] B.P. Lewis, I.H. Shih, M.W. Jones-Rhoades, D.P. Bartel, C.B. Burge, Prediction of
+mammalian microRNA targets, Cell 115 (2003) 787–798.
+[136] M.N. Poy, L. Eliasson, J. Krutzfeldt, S. Kuwajima, X. Ma, P.E. Macdonald, S. Pfeffer,
+T. Tuschl, N. Rajewsky, P. Rorsman, M. Stoffel, A pancreatic islet-speciﬁc
+microRNA regulates insulin secretion, Nature 432 (2004) 226–230.
+[137] E. Wienholds, W.P. Kloosterman, E. Miska, E. Alvarez-Saavedra, E. Berezikov, D.E.
+Bruijn, H.R. Horvitz, S. Kauppinen, R.H. Plasterk, MicroRNA expression in
+zebraﬁsh embryonic development, Science 309 (2005) 310–311.
+[138] Q. Jing, S. Huang, S. Guth, T. Zarubin, A. Motoyama, J. Chen, D.F. Padova, S.C. Lin, H.
+Gram, J. Han, Involvement of microRNA in AU-rich element-mediated mRNA
+instability, Cell 120 (2005) 623–634.
+[139] T.H. Thai, D.P. Calado, S. Casola, K.M. Ansel, C. Xiao, Y. Xue, A. Murphy, D.
+Frendewey, D. Valenzuela, J.L. Kutok, M. Schmidt-Supprian, N. Rajewsky, G.
+Yancopoulos, A. Rao, K. Rajewsky, Regulation of the germinal center response by
+microRNA-155, Science 316 (2007) 604–608.
+[140] E. Vigorito, K.L. Perks, C. Abreu-Goodger, S. Bunting, Z. Xiang, S. Kohlhaas,
+P.P. Das, E.A. Miska, A. Rodriguez, A. Bradley, K.G. Smith, C. Rada, A.J.
+Enright, K.M. Toellner, I.C. Maclennan, M. Turner, MicroRNA-155 regulates
+the generation of immunoglobulin classswitched plasma cells, Immunity
+27 (2007) 847–859.
+[141] A. Rodriguez, E. Vigorito, S. Clare, V.M. Warren, P. Couttet, R.D. Soond, V.S.
+Dongen, J.S. Grocock, P.P. Das, A.E. Miska, D. Vetrie, K. Okkenhaug, J.A. Enright, G.
+Dougan, M. Turner, A. Bradley, Requirement of bic/microRNA-155 for normal
+immune function, Science 316 (2007) 608–611.
+[142] C.H. Lecellier, P. Dunoyer, K. Arar, J. Lehmann-Che, S. Eyquem, C. Himber, A. Saib,
+O. Voinnet, A cellular microRNA mediates antiviral defense in human cells,
+Science 308 (2005) 557–560.
+[143] G.A. Calin, C.D. Dumitru, M. Shimizu, R. Bichi, S. Zupo, Frequent deletions and
+down-regulation of micro-RNA genes miR15 and miR16 at 13q14 in chronic
+lymphocytic leukemia, Proc. Natl Acad. Sci. USA 99 (2002) 15524–15529.
+[144] A. Cimmino, G.A. Calin, M. Fabbri, M.V. Iorio, M. Ferracin, miR-15 and miR-16
+induce apoptosis by targeting BCL2, Proc. Natl Acad. Sci. USA 102 (2005)
+13944–13949.
+
+[145] L. He, J.M. Thomson, M.T. Hemann, E. Hernando-Monge, D. Mu, A microRNA
+polycistron as a potential human oncogene, Nature 435 (2005) 828–833.
+[146] P.M. Voorhoeve, C. le Sage, M. Schrier, A.J. Gillis, H. Stoop, A genetic screen
+implicates miRNA-372 and miRNA-373 as oncogenes in testicular germ cell
+tumors, Cell 124 (2006) 1169–1181.
+[147] E.G. Moss, R.C. Lee, V. Ambros, The cold shock domain protein LIN-28 controls
+developmental timing in C. elegans and is regulated by the lin-4 RNA, Cell 88
+(1997) 637–646.
+[148] J.E. Abrahante, A.L. Daul, M. Li, M.L. Volk, J.M. Tennessen, E.A. Miller, A.E. Rougvie,
+The Caenorhabditis elegans hunchback-like gene lin-57/hbl-1 controls developmental time and is regulated by microRNAs, Dev. Cell 4 (2003) 625–637.
+[149] J. Brennecke, D.R. Hipfner, A. Stark, R.B. Russell, S.M. Cohen, bantam encodes a
+developmentally regulated microRNA that controls cell proliferation and
+regulates the proapoptotic gene hid in Drosophila, Cell 113 (2003) 25–36.
+[150] F. Fazi, A. Rosa, A. Fatica, V. Gelmetti, M.L. De Marchis, C. Nervi, I. Bozzoni, A
+minicircuitry comprised of microRNA-223 and transcription factors NFI-A and C/
+EBPα regulates human granulopoiesis, Cell 123 (2005) 819–831.
+[151] T.C. Chang, D. Yu, S.Y. Lee, A.E. Wentzel, E.D. Arking, M.K. West, V.C. Dang, T.A.
+Tikhonenko, T.J. Mendell, Widespread microRNA repression by Myc contributes
+to tumorigenesis, Nat. Genet. 40 (2008) 43–50.
+[152] S.L. Lin, A. Chiang, D. Chang, S.Y. Ying, Loss of mir-146a function in hormone
+refractory prostate cancer, RNA-Publ. RNA Soc. 14 (2008) 417–424.
+[153] C.S. Sullivan, A.T. Grundhoff, S. Tevethia, J.M. Pipas, D. Ganem, SV40-encoded
+microRNAs regulate viral gene expression and reduce susceptibility to cytotoxic
+T cells, Nature 435 (2005) 682–686.
+[154] M.Z. Michael, S.M. O, Connor, H.P.N.G. Van, G.P. Young, R.J. James, Reduced
+accumulation of speciﬁc microRNAs in colorectal neoplasia, Mol. Cancer Res. 1
+(2003) 882–891.
+[155] K.A. O'Donnell, E.A. Wentzel, K.I. Zeller, C.V. Dang, J.T. Mendell, c-Myc-regulated
+microRNAs modulate E2F1 expression, Nature 435 (2005) 839–843.
+[156] M.W. Rhoades, D.P. Bartel, Computational identiﬁcation of plant micro-RNAs and
+their targets, including a stress-induced miRNA, Mol. Cell 14 (2004) 787–799.
+[157] R. Sunkar, J.K. Zhu, Novel and stress-regulated microRNAs and other small RNAs
+from Arabidopsis, Plant Cell 16 (2004) 2001–2019.
+[158] G. Damien, miRacle in plant development: role of microRNAs in cell
+differentiation and patterning, Semin. Cell Dev. Biol. 19 (2008) 586–595.
+[159] J. Kim, J.H. Jung, J.L. Reyes, Y.S. Kim, S.Y. Kim, K.S. Chung, MicroRNA-directed
+cleavage of ATHB15mRNA regulates vascular development in Arabidopsis
+inﬂorescence stems, Plant J. 42 (2005) 84–94.
+[160] M.T. Juarez, J.S. Kui, J. Thomas, B.A. Heller, M.C. Timmermans, MicroRNAmediated repression of rolled leaf1 speciﬁes maize leaf polarity, Nature 428
+(2004) 84–88.
+[161] M.W. Rhoades, B.J. Reinhart, L.P. Lim, C.B. Burge, B. Bartel, D.P. Bartel, Prediction
+of plant microRNA targets, Cell 110 (2002) 513–520.
+[162] P. Ru, L. Xu, H. Ma, H. Huang, Plant fertility defects induced by the enhanced
+expression of microRNA167, Cell Res. 16 (2006) 457–465.
+[163] M.F. Wu, Q. Tian, J.W. Reed, Arabidopsis microRNA167 controls patterns of ARF6
+and ARF8 expression, and regulates both female and male reproduction,
+Development 133 (2006) 4211–4421.
+[164] D.E. Richards, K.E. King, T. Ait-Ali, N.P. Harberd, How gibberellin regulates plant
+growth and development: a molecular genetic analysis of gibberellin signaling,
+Annu. Rev. Plant Physiol. Plant Mol. Biol. 52 (2001) 67–88.
+[165] P. Achard, A. Herr, D.C. Baulcombe, N.P. Harberd, Modulation of ﬂoral development
+by a gibberellin-regulated microRNA, Development 131 (2004) 3357–3365.
+[166] R. Schwab, J.F. Palatnik, M. Riester, C. Schommer, M. Schmid, D. Weigel, Speciﬁc
+effects of microRNAs on the plant transcriptome, Dev. Cell 8 (2005) 517–527.
+[167] A.A. Millar, F. Gubler, The Arabidopsis GAMYB-like genes, MYB33 and MYB65, are
+microRNA-regulated genes that redundantly facilitate anther development,
+Plant Cell 17 (2005) 705–721.
+[168] R.S. Allen, J. Li, M.I. Stahle, A. Dubroue, F. Gubler, A.A. Millar, Genetic analysis
+reveals functional redundancy and the major target genes of the Arabidopsis
+miR159 family, Proc. Natl Acad. Sci. USA 104 (2007) 16371–16376.
+[169] K. Nikovics, T. Blein, A. Peaucelle, T. Ishida, H. Morin, M. Aida, P. Laufs, The
+balance between the MIR164A and CUC2 genes controls leaf margin serration in
+Arabidopsis, Plant Cell 18 (2006) 2929–2945.
+[170] H.S. Guo, Q. Xie, J.F. Fei, N.H. Chua, MicroRNA directs mRNA cleavage of the
+transcription factor NAC1 to down-regulate auxin signals for Arabidopsis lateral
+root development, Plant Cell 17 (2005) 1376–1386.
+[171] J.W. Wang, R. Schwab, B. Czech, E. Mica, D. Weigel, Dual effects of miR156targeted SPL genes and CYP78A5/KLUH on plastochron length and organ size in
+Arabidopsis thaliana, Plant Cell 20 (2008) 1231–1243.
+[172] M.J. Aukerman, H. Sakai, Regulation of ﬂowering time and ﬂoral organ identity by a
+microRNA and its APETALA2-like target genes, Plant Cell 15 (2003) 2730–2741.
+[173] J.F. Palatnik, E. Allen, X. Wu, C. Schommer, R. Schwab, J.C. Carrington, D. Weigel,
+Control of leaf morphogenesis by microRNAs, Nature 425 (2003) 257–263.
+[174] S. Kepinski, O. Leyser, The Arabidopsis F-box protein TIR1 is an auxin receptor,
+Nature 435 (2005) 446–451.
+[175] Z. Xie, K.D. Kasschau, J.C. Carrington, Negative feedback regulation of Dicer-Like1
+in Arabidopsis by microRNA-guided mRNA degradation, Curr. Biol. 13 (2003)
+784–789.
+[176] H. Vaucheret, F. Vazquez, P. Crete, D.P. Bartel, The action of ARGONAUTE1 in the
+miRNA pathway and its regulation by the miRNA pathway are crucial for plant
+development, Genes Dev. 18 (2004) 1187–1197.
+[177] C.X. Qiu, F.L. Xie, Y.Y. Zhu, K. Guo, S.Q. Huang, L. Nie, Z.M. Yang, Computational
+identiﬁcation of microRNAs and their targets in Gossypium hirsutum expressed
+sequence tags, Gene 395 (2007) 49–61.
+
+F. Wahid et al. / Biochimica et Biophysica Acta 1803 (2010) 1231–1243
+[178] T. Dezulian, J.F. Palatnik, D. Huson, D. Weigel, Conservation and divergence of
+microRNA families in plants, Genome Biol. 6 (2005) P13.
+[179] S. Lu, Y.H. Sun, R. Shi, C. Clark, L. Li, V.L. Chiang, Novel and mechanical stressresponsive microRNAs in Populus trichocarpa that are absent from Arabidopsis,
+Plant Cell 17 (2005) 2186–2203.
+[180] X. Chen, A microRNA as a translational repressor of APETALA2 in Arabidopsis
+ﬂower development, Science 303 (2004) 2022–2025.
+[181] B. Zhang, X. Pan, T.A. Anderson, Identiﬁcation of 188 conserved maize
+microRNAs and their targets, FEBS Lett. 580 (2006) 3753–3762.
+[182] H.S. Guo, Q. Xie, J.F. Fei, N.H. Chua, MicroRNA directs mRNA cleavage of the
+transcription factor NAC1 to down-regulate auxin signals for Arabidopsis lateral
+root development, Plant Cell 17 (2005) 1376–1386.
+[183] C.C. Baker, P. Sieber, F. Wellmer, E.M. Meyerowitz, The early extra petals1 mutant
+uncovers a role for microRNA miR164c in regulating petal number in Arabidopsis,
+Curr. Biol. 15 (2005) 303–315.
+[184] G. Vicki, Tapping miRNA-regulated pathways, Genet. Eng. Biotechnol. News 28
+(2008) No.5.
+[185] B. Janet, H. Amir, Therapy analysis—microRNA; update analysis, Pharmaprojects
+29 (2008).
+[186] R.S. Nina, E. Marciano, E. Meiri, Y. Spector, N. Rosenfeld, N. Moskovits, Z.
+Bentwich, M. Oren, Transcriptional activation of miR-34a contributes to p53mediated apoptosis, Mol. Cell 26 (2007) 731–743.
+[187] S.M. George, MicroRNA gets down to business, Nat. Biotechnol. 25 (2007) 631–638.
+
+1243
+
+[188] E.C. Maria, O. Teague, H. Kylie, D.H. Van, B. Mark, D.H. Van, N. Perry, P.
+Wagaarachch, A.R. Sarah, C.G. Print, L.M. Hull, MicroRNA-regulated pathways
+associated with endometriosis, Mol. Endocrinol. 23 (2009) 265–275.
+[189] J. Elmen, M. Lindow, S. Schutz, M. Lawrence, A. Petri, S. Obad, M. Lindholm, M.
+Hedtnarn, H. Frydenlund, U. Berger, S. Gullans, P. Kearney, P. Sarnow, E.M.
+Straarup, S. Kauppinen, LNA-mediated microRNA silencing in non-human
+primates, Nature 452 (2008) 896–899.
+[190] Santaris Pharma, News Release, Santaris Pharma begins human clinical testing of
+the world's ﬁrst medicine targeted at a human microRNA, May 28 2008, pp. 1–4.
+[191] Rosetta Genomics, Initiates in vivo studies, Drug Clinical Trials (2007) (http://
+www.emaxhealth.com/95/18136.html).
+[192] Company focus: Diagnostics, Rosetta Genomics (2009) (http://www.rosettagenomics.com).
+[193] H. Ohad, Rosetta Genomics: Mining genes from junk (Part II), (2008) (http://
+seekingalpha.com/article/72184-rosetta-genomics-mining-genes-from-junkpart-ii).
+[194] L.J. O Neill, A renaissance of interest innate immunity: will new treatments for
+rheumatoid arthritis emerge? Future medicine–future, Rheumatol 3 (2008) 203–205.
+[195] Asuragen, press release, Austin, Texas, Asuragen Launches the First Validated
+microRNA Diagnostic Assay (2008) (http://www.asuragen.com).
+[196] Portfolio Company News, Boulder, CO, Miragen Therapeutics, Inc Receives $8M
+in Venture Capital Financing for Development of MicroRNA-based Therapies
+(2008) (http://www.atlasventure.com).
+
+

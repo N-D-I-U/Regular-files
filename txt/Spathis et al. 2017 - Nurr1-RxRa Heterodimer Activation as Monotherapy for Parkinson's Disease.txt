@@ -1,0 +1,573 @@
+SEE COMMENTARY
+
+Nurr1:RXRα heterodimer activation as monotherapy
+for Parkinson’s disease
+Athanasios D. Spathisa,1, Xenophon Asvosb, Despina Ziavraa, Theodoros Karampelasa, Stavros Topouzisc, Zoe Courniaa,
+Xiaobing Qingd, Pavlos Alexakosa, Lisa M. Smitsd, Christina Dallae, Hardy J. Rideouta, Jens Christian Schwambornd,
+Constantin Tamvakopoulosa, Demosthenes Fokasb, and Demetrios K. Vassilatisa,1
+a
+Center for Clinical Research, Experimental Surgery, and Translational Research, Biomedical Research Foundation of the Academy of Athens, Athens 11527,
+Greece; bDepartment of Materials Science and Engineering, University of Ioannina, Ioannina 45110, Greece; cDepartment of Pharmacy, University of Patras,
+Patras 26504, Greece; dLuxembourg Centre for Systems Biomedicine, University of Luxembourg, Esch-sur-Alzette L-4367, Luxembourg; and eDepartment
+of Pharmacology, Medical School, National and Kapodistrian University of Athens, Athens 11527, Greece
+
+Edited by Michael K. Lee, University of Minnesota, Minneapolis, MN, and accepted by Editorial Board Member Gregory A. Petsko February 22, 2017 (received
+for review October 16, 2016)
+
+Parkinson’s disease
+
+| target validation | neuroprotection
+
+P
+
+arkinson’s disease (PD) is a common neurodegenerative
+disease characterized by the progressive loss of dopaminergic
+(DAergic) neurons in the substantia nigra (SN), leading to
+striatal dopamine (DA) deficiency (1). Current medications replenish DA and offer temporary symptomatic relief to patients;
+however, chronic treatments cause serious side effects in almost
+all patients, including abnormal involuntary movements (AIMs)
+and dyskinesias, limiting their efficacy (2). Moreover, DA replacement does not impede neurodegeneration, and PD pathology
+progresses (3). Despite considerable advances in our understanding
+of PD pathophysiology, pharmacologic strategies to prevent neurodegeneration remain elusive, and the disease remains incurable.
+Therefore, validation of novel targets that diminish DA replacement side effects and halt or slow disease progression is an
+urgent unmet clinical need (4).
+Nurr1 (NR4A2), a nuclear receptor, is a promising candidate,
+implicated in both DA biosynthesis and DAergic neuron survival.
+Nurr1 is expressed in developing and mature DAergic neurons and
+is required for both survival and final complete DAergic differentiation (5, 6). Nurr1 enhances in vitro and in vivo transcription of
+tyrosine hydroxylase (TH), the rate-limiting enzyme of DA biosynthesis, and of GTP cyclohydrolase I (GCH1), the first enzyme in
+the biosynthesis of tetrahydrobiopterin (BH4), an essential cofactor
+for TH activity (7, 8). Decreased Nurr1 levels have been strongly
+associated with PD and reduced DAergic neuron survival.
+Nurr1 ablation in adult mice leads to dystrophic DAergic axons (9),
+loss of striatal DA (10), and behavioral features of parkinsonism
+www.pnas.org/cgi/doi/10.1073/pnas.1616874114
+
+during aging (11). Nurr1 mutations decreasing its mRNA have
+been found in patients with familial and sporadic PD (12, 13).
+Given the role of Nurr1 in PD, we theorized that pharmacologic
+activation of Nurr1 could serve as monotherapy for PD, offering
+both disease modification and symptomatic relief.
+Nurr1 binds to DNA as a monomer, homodimer, or heterodimer
+with retinoid X receptor (RXR)α or RXRγ. Because Nurr1 heterodimerizes with RXRα in midbrain DAergic neurons (14), we
+postulated that synthetic ligands that bind to the RXRα-binding
+pocket would be the preferred approach. RXRα is a heterodimer
+partner of several nuclear receptors, and existing synthetic RXRα
+ligands activate several RXRα heterodimers (15). Two such ligands,
+XCT0135908 and bexarotene (14, 16), have been shown to activate
+Nurr1:RXRα as well as other RXRα heterodimers. Bexarotene, an
+approved antineoplastic agent activates RXRα heterodimers with
+liver X receptor (LXR), peroxisome proliferator-activated receptor
+gamma (PPARγ), and Nurr1, has shown promising results in animal models of Alzheimer’s disease and PD (16, 17), but these results have not been replicated (18, 19). In vitro, XCT0135908 (14)
+activates Nurr1:RXRα heterodimers and RXRα:RXRα homodimers (17), but its bioavailability is unknown.
+Here we show that XCT0135908 does not reach the brain and is
+essentially inactive in vivo. Rational compound design and synthetic
+chemistry enabled us to design BRF110, a selective Nurr1:RXRα
+agonist with combinatorial neuroprotective and symptomatic benefits in preclinical mouse models, validating Nurr1:RXRα heterodimer activation as a promising monotherapy for PD.
+Significance
+In Parkinson’s disease (PD), dopamine (DA)-producing neurons
+gradually degenerate, leading to DA deficiency and to the main
+symptoms of PD. Current medications do not impede neurodegeneration, but relieve symptoms by replenishing DA; however, their chronic use causes serious side effects. We targeted a
+protein required for the development and function of DA neurons
+by designing a chemical compound that, by activating this protein,
+increases DA and improves symptoms without current treatment
+side effects while simultaneously preventing neuron loss in PD
+mice. Our findings point to a monotherapy that can both impede
+PD progression and concurrently improve symptoms of PD.
+Author contributions: A.D.S., D.F., and D.K.V. designed research; A.D.S., X.A., D.Z., T.K.,
+Z.C., X.Q., P.A., C.D., and H.J.R. performed research; L.M.S., J.C.S., C.T., and D.F. contributed new reagents/analytic tools; A.D.S., X.A., S.T., Z.C., X.Q., C.D., H.J.R., J.C.S., C.T., D.F.,
+and D.K.V. analyzed data; and S.T. and D.K.V. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission. M.K.L. is a Guest Editor invited by the Editorial
+Board.
+See Commentary on page 3795.
+1
+
+To whom correspondence may be addressed. Email: dvassilatis@bioacademy.gr or
+thansp@hotmail.com.
+
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1616874114/-/DCSupplemental.
+
+PNAS | April 11, 2017 | vol. 114 | no. 15 | 3999–4004
+
+NEUROSCIENCE
+
+Parkinson’s disease (PD) is a progressive neurodegenerative disorder characterized by the loss of dopaminergic (DAergic) neurons in
+the substantia nigra and the gradual depletion of dopamine (DA).
+Current treatments replenish the DA deficit and improve symptoms but induce dyskinesias over time, and neuroprotective therapies are nonexistent. Here we report that Nuclear receptor-related 1
+(Nurr1):Retinoid X receptor α (RXRα) activation has a double therapeutic potential for PD, offering both neuroprotective and symptomatic improvement. We designed BRF110, a unique in vivo active
+Nurr1:RXRα-selective lead molecule, which prevents DAergic neuron
+demise and striatal DAergic denervation in vivo against PD-causing
+toxins in a Nurr1-dependent manner. BRF110 also protects against
+PD-related genetic mutations in patient induced pluripotent stem cell
+(iPSC)-derived DAergic neurons and a genetic mouse PD model. Remarkably, besides neuroprotection, BRF110 up-regulates tyrosine hydroxylase (TH), aromatic l-amino acid decarboxylase (AADC), and GTP
+cyclohydrolase I (GCH1) transcription; increases striatal DA in vivo;
+and has symptomatic efficacy in two postneurodegeneration PD
+models, without inducing dyskinesias on chronic daily treatment.
+The combined neuroprotective and symptomatic effects of BRF110
+identify Nurr1:RXRα activation as a potential monotherapeutic approach for PD.
+
+Results
+XCT0135908 in Vivo: Low Stability and Low Brain Penetration.
+
+XCT0135908 was administered to mice to test its bioactivity. Intraperitoneal or intracerebroventricular injections of XCT0135908
+(1 and 10 mg/kg) did not result in any changes in expression
+of midbrain genes, such as c-jun or TH, at various time points
+after administration. LC-MS/MS (liquid chromatography-tandem
+mass spectrometry) analysis of blood plasma or brain homogenates and targeted search of the parent compound at 1 and 2 h
+after i.p. administration of XCT0135908 (1 μg/kg) indicated low
+compound stability and minimal brain penetration (brain/blood
+<0.03) (Fig. S1).
+Discovery of the Nurr1:RXRα Activator BRF110. Because specific
+Nurr1:RXRα activators do not exist (20), we confronted the
+challenge to discover compounds that would be specific for
+Nurr1:RXRα heterodimers, stable in vivo, and brain-penetrant.
+Based on existing chemical structures and their function on
+RXRα in a variety of assays, we synthesized several series of
+compounds (termed BRFs). Human DAergic neuroblastoma
+SHSY-5Y cells cotransfected with a DR5-luciferase reporter
+construct, along with human Nurr1 and RXRα expression plasmids (Fig. 1 A and B), were treated with each of the experimental compounds at varying concentrations. Compounds active
+in vitro were routinely administered i.p. in mice (at 1 μg/kg), and
+brain penetration was evaluated by LC-MS/MS. This scheme and
+meticulous structure–activity relation analysis resulted in the
+identification of BRF110 (Fig. 1C and Figs. S2 and S3), which
+activates Nurr1:RXRα heterodimers (EC50 ∼900 nM; Fig. S4).
+In silico docking simulations show that BRF110 complements
+the hydrophobic L-shaped binding pocket of RXRα [Protein Data
+Bank (PDB) ID code 1MV9]. The carboxylic group of BRF110,
+with the participation of a water molecule, forms a hydrogen bond
+with the backbone amide of A327 and a salt bridge with the side
+chain of R316. The phenyl ring of BRF110 participates in π–π
+interactions with F346 and stabilizes the molecule in the RXRαbinding pocket, contributing to target affinity (calculated ΔG,
+−16.7 kcal/mol) (Fig. 1D and Fig. S5A). These simulations were
+validated by methyl or ethyl ester carboxylic group modifications,
+which abolished activation, increasing EC50 by 50- to 100-fold
+(Fig. S5B). In addition, halogenation of the BRF110 phenyl ring
+disturbs the π–π interactions with F346 and also increases the
+EC50 by approximately sevenfold (Fig. S5C).
+
+Fig. 1. Discovery of BRF110, specificity for Nurr1:RXRα heterodimers, and i.p.
+administration in mice. (A) Schematic representation of the screening transactivation assay. (B) Typical results. (C) Chemical structure of BRF110. (D) Schematic
+representation of BRF110 interactions within the RXRα (PDB ID code 1MV9)binding pocket. BRF110 (magenta) docked onto RXRα (green; PDB ID code
+1MV9). Hydrogen bonds and amino acids are indicated. (E) Comparison of
+DR5-Luc induction by BRF110 (1 μM) and XCT (1 μM) via activation of Nurr1:RXRα
+heterodimers. (F) Cellular assay indicating that BRF110 activates Nurr1:RXRα
+heterodimers but not Nurr1:RXRγ heterodimers. (G) Retroviral-mediated knockdown of endogenous Nurr1 in SHSY5Y cells as measured by qPCR. (H) Activation by
+BRF110 of DR5-luciferase reporter plasmid introduced into SHSY-5Y cells infected
+with either a control retrovirus or the retrovirus carrying shNurr1 sequences.
+(I) Gal4-DNA–binding domain and Nurr1, Nur77, VDR, RXRγ, PPARγ, and RXRα
+ligand-binding domain fusions cotransfected with RXRα:vp16 fusions activated by
+BRF110 at the indicated concentrations.
+
+Specificity of BRF110 for Nurr1:RXRα Heterodimers and Brain
+Penetration. BRF110 activated Nurr1:RXRα heterodimers (Fig.
+
+1E), but did not activate Nurr1:RXRγ heterodimers (Fig. 1F), indicating that it is specific for RXRα and does not bind to Nurr1. In
+naïve SHSY-5Y cells, BRF110 activated endogenous Nurr1:RXRα
+heterodimers, as verified by loss of activity after knockdown of
+Nurr1 by ∼60% using a retrovirus carrying shNurr1 sequences (Fig.
+1G), indicating that Nurr1 is required for BRF110 activity (Fig. 1H).
+To test off-target effects of BRF110 besides Nurr1:RXRα heterodimers, we fused the ligand-binding domains of Nurr1, RXRα,
+and a variety of related nuclear receptors to the GAL4 DNAbinding domain to create chimeric proteins, and also fused the
+ligand-binding domain of RXRα with VP16. These molecular chimeras were cotransfected in pairs with RXRα:VP16 along with
+a GAL4-responsive luciferase reporter in SHSY-5Y cells stimulated
+with BRF110. BRF110 strongly activated Nurr1GAL4:RXRαVP16
+heterodimer chimeras, but failed to activate other RXRαVP16
+heterodimer chimeras with vitamin D receptor VDRGAL4,
+RXRγGAL4, PPARγGAL4, or RXRαGAL4 homodimer chimeras
+(Fig. 1I). Nur77GAL4:RXRαVP16 heterodimers were partially
+activated, but Nur77, unlike Nurr1, is not associated with PD, and
+Nur77 knockdown enhances cell survival (21). The foregoing experiments indicate the high degree of selectivity of BRF110.
+BRF110 (1 mg/kg) administered i.p. in mice reached the brain,
+with an approximate half-life of ∼1.5 h in both blood and brain as
+assessed by LC-MS/MS (brain/blood concentration area under
+the curve ratio, 1.7; Fig. S6) and was bioactive, increasing midbrain
+4000 | www.pnas.org/cgi/doi/10.1073/pnas.1616874114
+
+c-jun expression. These experiments indicate that BRF110 has the
+necessary properties to test our monotherapeutic PD hypothesis of
+Nurr1:RXRα heterodimer activation.
+BRF110 Induces Transcription of DA Biosynthesis Genes and Protects
+DAergic Cell Lines and Human Induced Pluripotent Stem Cell-Derived
+DAergic Neurons Against PD-Associated Damage. Nurr1 regulates
+
+the transcription of DA biosynthesis genes (7, 8); however,
+whether this is mediated by Nurr1:RXRα heterodimers is unknown. In SHSY-5Y cells, BRF110 increased the expression
+of the three genes required for DA biosynthesis, TH by ∼90%
+(n = 6; P = 0.0374, t test), aromatic L-amino acid decarboxylase
+(AADC) by ∼70% (n = 6; P < 0.0001, t test), and GCH1 by
+∼42% (n = 6; P < 0.0001, t test) (Fig. 2A), indicating that this upregulation depends on Nurr1:RXRα heterodimer activation.
+We examined the neuroprotective capability of Nurr1:RXRα
+heterodimer activation in SHSY-5Y cells in which death was induced
+by either oxidative stress-related H2O2 or mitochondria complex I
+inhibitor 1-methyl-4-phenylpyridinium (MPP+) (Fig. 2B). BRF110
+(12.5 μM) did not promote cell differentiation or cell proliferation,
+but significantly increased cell survival against varying concentrations
+of the toxic stimuli (P < 0.0001, two-way ANOVA) in a dosedependent manner (Fig. 2C). The protection conferred by BRF110
+was Nurr1-dependent, because it was abrogated by knockdown of
+Spathis et al.
+
+SEE COMMENTARY
+
+Fig. 2. Induction of DA biosynthesis gene expression and of neuroprotection in cell lines and in patient iPSC-derived DAergic neurons. (A) Expression levels of
+the three DA biosynthesis genes (TH, AADC, and GCH1) mediated by the activation of Nurr1:RXRα by BRF110 (12.5 μM), as assessed by qPCR. n = 8. (B) SHSY-5Y
+cell viability increases with BRF110 treatment, as measured by the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay, after exposure to
+varying concentrations (0–16 μM) of H2O2. (C) BRF110 concentration-dependent SHSY-5Y cell viability, as measured by the MTT assay, after exposure to
+varying concentrations (0–4 mM) of MPP+. (D) BRF110-mediated SHSY-5Y cell viability against MPP+ (2 mM) is dependent on Nurr1 levels, as determined by
+retroviral knockdown of Nurr1. (E) BRF110 treatment of primary rat cortical neurons reduces apoptotic death induced by cotransfecting LRRK2-G2019S or
+control WT LRRK2 cDNAs with CMV GFP, as measured by DAPI staining. (F–I) Representative DAPI (F and H) and GFP (G and I) confocal images. (J) Survival of
+human iPSC-derived DAergic neurons exposed to MPP+ (0.5 and 1.0 mM for 24 h) and receiving vehicle or BRF110. (K and L) BRF110 treatment preserves
+DAergic neuron projections, as determined by TH immunofluorescence of surviving iPSC-derived DAergic neurons after exposure to MPP+. (M–R) PD patient
+iPSC-derived DAergic neurons with the LRRK2-G2019S mutation or corrected mutation (GC). BRF110 treatment rescues neurite number (M), neurite length
+(N), and neurite branching (O) phenotypes. (P–R) Representative images stained with TuJ, TH, and DAPI.
+
+Spathis et al.
+
+test), and neurite branching by 650% (P < 0.01, one-way
+ANOVA; P < 0.05, Kruskal–Wallis test) (Fig. 2 M–O). During the
+14-d BRF110 treatment of these cells, we did not see any effect on
+TuJ1(+)/TH(−) neurons or on DAergic neurons with a WT genotype.
+The foregoing experiments demonstrate the in vitro potential
+of Nurr1:RXRα activation to shield human DAergic neurons
+from diverse PD-related neuronal death stimuli, such as toxins
+and the LRRK2-G2019S mutation.
+Neuroprotection of BRF110 in Vivo in Preclinical Mouse PD Models.
+
+We assessed the neuroprotective effects of Nurr1:RXRα heterodimer
+activation in vivo in two established preclinical C57BL/6 mouse PD
+models: acute 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)
+and unilateral 6-hydroxydopamine (6-OHDA) injection in the SN.
+Intraperitoneal injections of BRF110 (10 mg/kg) every 12 h, starting
+12 h before toxin administration, were continued for 6 d in the
+MPTP model and for 14 d in the 6-OHDA model. To distinguish
+phenotypic effects, lasting 4–8 h (see below), from neuroprotection,
+BRF110 administration was discontinued 24–36 h before behavioral and histological examination of the mice. In the MPTP model,
+mice receiving BRF110 had considerably improved motor coordination (>100%) (n = 5; P < 0.0001, one-way ANOVA) compared with vehicle-injected mice, as assessed by the accelerating
+rotarod test (Fig. 3A). SN unbiased stereologic neuronal counting
+showed that TH(+) midbrain neuron survival per side was increased by 31% (n = 5; P = 0.0003, one-way ANOVA) in BRF110treated mice, to a value not significantly different from that in
+control mice (Fig. 3 B and C). In addition, BRF110 protected SN
+axonal projections to the striatum, doubling the number of
+remaining terminals (n = 5; P < 0.0001, one-way ANOVA) (Fig. 3
+D and E). This neuroprotective effect was BRF110-dependent,
+PNAS | April 11, 2017 | vol. 114 | no. 15 | 4001
+
+NEUROSCIENCE
+
+endogenous Nurr1 mRNA (Figs. 1G and 2D). The neuroprotective
+effects of BRF110 extend to damage induced by the PD-associated
+mutation G2019S in the leucine‐rich repeat kinase 2 (LRRK2) gene,
+the most common genetic defect associated with clinical PD (22).
+Rat cortical neurons cotransfected with CMV-GFP (cytomegalovirus promoter-driven GFP) for identification and CMV-LRRK2G2019S cDNAs show increased apoptosis, as assessed by DAPI
+staining and compared with control neurons cotransfected with a
+WT LRRK2 cDNA. We did not observe neuronal differentiation
+effects on BRF110 treatment, although it reduced apoptosis to
+control levels, comparable to those of the LRRK2 inhibitor
+GSK2578215A (P < 0.0001, one-way ANOVA) (Fig. 2 E–I).
+The translational therapeutic potential of BRF110 was assessed in
+human midbrain-specific induced pluripotent stem cell (iPSC)-derived DAergic neurons, as indicated by positive staining and quantitative PCR (qPCR) for the neuronal markers MAP2, TH, FoxA2,
+Lmx1, and En1 (Fig. S7). BRF110 doubled the number of surviving
+MPP+-intoxicated neurons compared with vehicle (P < 0.0008, twoway ANOVA) (Fig. 2 J–L). The surviving control neurons had fewer
+and retreating projections, indicating compromised function (Fig.
+2K), whereas the neurons that received BRF110 retained a complex
+network of projections and contacts (Fig. 2L).
+In addition, we tested BRF110 in iPSC-derived DAergic neurons from a PD patient carrying the LRRK2-G2019S mutation.
+These neurons showed contracted neurites with reduced branching, phenomena that can be reversed on correction (LRRK2GC)
+of the LRRK2-G2019S mutation (22). Treatment of the LRRK2G2019S DAergic neurons with BRF110 (12.5 μM) for 14 d
+(Fig. 2 M–Q) increased neurite length by 83% (P < 0.0007, oneway ANOVA; P < 0.01, Kruskal–Wallis test), neurite number by
+38% (P < 0.0001, one-way ANOVA; P < 0.001, Kruskal–Wallis
+
+the day after surgery. Unbiased stereology showed that the vehicletreated AAV-ASYN–injected animals had a 44% decrease in
+TH(+) and NeuN(+) midbrain neurons compared with the AAVGFP–injected side (Fig. 4 G–I and Fig. S8B). In contrast, in the
+BRF110-treated AAV-ASYN–injected animals, unbiased stereology showed that the number of TH(+) midbrain neurons was
+increased by ∼47% (P < 0.05, Wilcoxon test; P = 0.00214, Mann–
+Whitney U test) and NeuN(+) midbrain neurons (P < 0.05, Wilcoxon test; P = 0.00214, Mann–Whitney U test) compared with
+AAV-ASYN–injected animals treated with vehicle (Fig. 4G).
+Striatal innervation of unilaterally AAV-ASYN–injected brains
+resulted in a dramatic depletion of TH(+) axons by almost 85% in
+vehicle-treated mice, whereas in BRF110-treated mice, striatal
+TH(+) axons were increased by more than fivefold (P < 0.001,
+one-way ANOVA; P < 0.0156, Wilcoxon test) (Fig. 4 J L).
+
+Fig. 3. BRF110 protects DAergic neurons against MPTP toxicity. (A) Improved
+rotarod test performance of C57BL/6 mice exposed to MPTP and receiving BRF110
+treatment for 7 d. (B) Stereological counting of SN TH(+) neurons (average/side) in
+control C57BL/6 mice and mice exposed to MPTP and receiving either vehicle or
+BRF110 treatment. (C) Images of TH immunohistochemistry (IHC) in the SN of
+control C57BL/6 mice and mice exposed to MPTP and receiving either vehicle or
+BRF110 treatment. (D) Images of TH IHC of SN DAergic projections to the striatum
+in C57BL/6 mice exposed to MPTP and receiving either vehicle or BRF110 treatment. (E) Quantitation of TH IHC DAergic projections to the striatum of C57BL/6
+mice exposed to MPTP and receiving either vehicle or BRF110 treatment.
+(F) Stereological counting of SN TH(+) neurons of control WT 129SV mice
+and mice exposed to MPTP and receiving either vehicle or BRF110 treatment
+(average/side) (first three bars) and of Nurr1+/− 129SV mice exposed to MPTP
+and receiving either vehicle or BRF110 treatment (last three bars).
+
+because a once-daily injection regimen (20 mg/kg) was ineffective.
+BRF110 neuroprotection against MPTP toxicity was equally effective in 129sv WT mice (vehicle 2,500 ± 91 vs. BRF110 3,250 ±
+92; n = 4; P = 0.000571, t test; P < 0.001, one-way ANOVA), but
+was abolished in Nurr1+/− 129sv mice. The number of TH(+)
+neurons was significantly lower in Nurr1+/− 129sv mice compared
+with 129sv WT mice (2,710 ± 91, n = 4 vs. 3,250 ± 92, n = 4; P =
+0.00298, t test), confirming that the in vivo neuroprotective effects
+of BRF110 require Nurr1:RXRα heterodimers (Fig. 3F).
+Nurr1:RXRα activation showed even more striking effects in
+the 6-OHDA model. Mice receiving BRF110 exhibited a dramatic reduction (by approximately eightfold) in apomorphineinduced contralateral turns (n = 5; P = 0.0159, Mann–Whitney
+U test) (Fig. 4A), whereas motor coordination was almost entirely restored to control levels, as evaluated by the rotarod test
+(P < 0.0001, one-way ANOVA; P = 0.0079, Mann–Whitney
+U test) (Fig. 4B). The number of surviving TH(+) neurons in the
+SN of BRF110-treated mice was increased by 47% (P < 0.05,
+one-way ANOVA; P = 0.0317, Mann–Whitney U test) to the level
+of complete restoration, as indicated by unbiased stereological
+neuronal counting (Fig. 4 C and D). Total midbrain neuronal
+determination by NueN staining showed similar results (Fig. S8A).
+Striatal innervation, which was practically obliterated in the
+vehicle-treated control mice, also showed a 10-fold higher
+preservation of TH(+) DAergic projections (P < 0.0001, one-way
+ANOVA; P = 0.0159, Mann–Whitney U test) (Fig. 4 E and F).
+Because the predictive validity of toxin-based mouse PD
+models for neuroprotection in humans is questionable, we proceeded to test the effect of BRF110 in a mouse model, in which
+adeno-associated viruses (AAVs) overexpressing WT α-synuclein
+(ASYN) under the chicken β-actin promoter were injected unilaterally, along with contralateral injections of AAV-GFP. Treatment
+with BRF110 (10 mg/kg every 12 h for 2 wk) or vehicle was started
+4002 | www.pnas.org/cgi/doi/10.1073/pnas.1616874114
+
+Fig. 4. BRF110 neuroprotection against 6-OHDA and AAV-ASYN toxicity in
+mice. (A) Decreased number of apomorphine-induced contralateral turns in
+C57BL/6 mice injected unilaterally with 6-OHDA and treated daily with either
+vehicle or BRF110 for 13 d, showing greater than eightfold improvement.
+n = 5. (B) Rotarod test of mice subjected to unilateral injection of 6-OHDA
+and receiving either vehicle or BRF110, showing 12-fold improvement with
+BRF110 treatment. n = 5. (C) SN TH IHC images of mice receiving unilateral
+injections of 6-OHDA and treated with either vehicle or BRF110. (D) Stereological counting of SN TH(+) neurons in mice receiving unilateral injections of
+6-OHDA and treated daily with either vehicle or BRF110, which increased the
+number of TH(+) neurons by 47%. n = 5. (E and F) Striatum TH IHC of mice
+receiving 6-OHDA injections and treatment with either vehicle or BRF110,
+showing 10-fold increased innervation. n = 5. (G) Stereological counting of SN
+TH(+) neurons of mice receiving unilateral injections of AAV-ASYN and
+treated daily with either vehicle or BRF110, which increased the number of
+TH(+) neurons by 48%. n = 7. (H and I) SN TH IHC images of mice receiving
+unilateral injections of AAV-ASYN and contralateral injections of AAV-GFP
+and treated with either vehicle or BRF110. (J and K) Striatum TH IHC of mice
+receiving injections of AAV-ASYN or AAV-GFP and treated with either vehicle or BRF110, showing 10-fold increased innervation (L). n = 7.
+
+Spathis et al.
+
+A Single Dose of BRF110 Increases DA Biosynthesis in Vivo and Improves
+Symptoms in Two Postneurodegeneration PD Models. Based on the
+
+BRF110 Chronic Dosing Does Not Induce Dyskinesias. We next compared BRF110 with L-DOPA in terms of causing AIMs. Mice
+treated daily with L-DOPA starting at 21 d after unilateral
+6-OHDA injection exhibited severe hyperkinetic dyskinesias/AIMs
+within 7 d (Fig. 5 J and K). In contrast, similar daily BRF110
+(10 mg/kg) administration for at least 2 wk resulted in consistently improved motor coordination (Fig. 5 H and I) without
+dyskinesias/AIMs (P = 0.0061, two-way ANOVA; P = 0.0043,
+Mann–Whitney U test) (Fig. 5K). These experiments exemplify
+the simultaneous symptomatic usefulness of Nurr1:RXRα activation devoid of undesirable complications.
+
+Discussion
+Drug discovery efforts for PD traditionally have been aimed either at symptomatic DA replacement treatments and alleviation
+of dyskinesias or at neuroprotection (24, 25). Neuroprotective
+approaches, although aimed at the core of PD pathology, so far
+have not delivered the expected results (26).
+We selected Nurr1 as the target for disease-modifying and
+symptomatic relief for PD because it is strongly associated with
+PD. Nurr1 mutations have been identified in familial and sporadic
+cases of the disease (12, 13), and reduced levels of Nurr1 are associated with PD in both patients and animal models. In addition,
+Nurr1 is involved in DA biosynthesis (6, 7). We chose to target
+Nurr1 through its heterodimerization partner RXRα, limiting the
+activation of other Nurr1 molecules. Our data indicate that activation
+of Nurr1:RXRα by BRF110 can provide neuroprotection that can
+halt PD-associated neuronal loss in both toxin and genetic preclinical
+mouse models of PD. In addition, we have demonstrated that the
+
+NEUROSCIENCE
+
+Nurr1:RXRα activation in the transcriptional regulation of DA
+biosynthesis genes, we tested whether BRF110 could increase
+DA levels in vivo. A single i.p. injection of BRF110 (10 mg/kg) in
+WT mice increased midbrain TH gene expression (n = 4; P =
+0.0396, t test) within 4 h (Fig. 5A). Striatal DA and DA metabolite levels were increased as well, and their ratio remained
+constant, indicating physiological DA catabolism (Fig. 5B). Aiming
+to model PD based on human genetic data, we also tested whether
+BRF110 could increase DA levels in ASYN transgenic mice (23).
+A single i.p. injection of BRF110 (10 mg/kg) increased striatal
+DA levels (n = 4; P = 0.01069, t test) and DA metabolite levels in
+the ASYN transgenic mice compared with mice receiving vehicle
+(Fig. 5C). The effect of BRF110 was limited to DA biosynthesis,
+because noradrenaline levels remained unaffected (Fig. 5D).
+We subsequently tested whether the DA increase could
+translate to symptomatic relief in postdegeneration PD mouse
+models based on MPTP or 6-OHDA (Fig. 5 E and F). A single
+dose of BRF110 (10 mg/kg i.p.) at 8 d after acute MPTP injection
+or 5–6 wk after unilateral 6-OHDA injection significantly improved temporarily motor coordination in both models (P =
+0.01 and 0.0001, respectively, one-way ANOVA) at 4 h after
+dosing (Fig. 5 G and H) and induced contralateral turns in the
+6-OHDA model (P < 0.0001, one-way ANOVA) (Fig. 5I), an
+effect similar to that of levodopa (L-DOPA). In these models,
+symptom improvement from BFF110 disappeared by 8 h after
+dosing. These experiments indicate that Nurr1:RXRα activation
+
+can indeed offer symptomatic relief in rodents, further supporting our monotherapy hypothesis.
+
+SEE COMMENTARY
+
+The foregoing experiments demonstrate the DAergic neuroprotective effects of Nurr1:RXRα activation in both toxin-based
+and ASYN genetic preclinical animal models of PD.
+
+Fig. 5. BRF110 induces DA biosynthesis and symptomatic relief without dyskinesias in PD mouse models. (A) qPCR of TH expression levels in mouse midbrain
+at 4 h after i.p. administration of vehicle or BRF110 (10 mg/kg). (B) DA and DA metabolite levels at 4 h after i.p. administration of vehicle or BRF110 (10 mg/kg)
+in WT mice as assessed by HPLC. n = 4. (C) DA and DA metabolite levels at 4 h after i.p. administration of vehicle or BRF110 (10 mg/kg) in ASYN transgenic mice, as
+assessed by HPLC. n = 4. (D) Noradrenaline levels at 4 h after i.p. administration of vehicle or BRF110 (10 mg/kg), as assessed by HPLC. (E and F) Schematic
+representations of the treatment regimens. (G) Accelerating rotarod latency times of MPTP-treated mice at 4 h after i.p. administration of vehicle or BRF110
+(10 mg/kg). (H) Accelerating rotarod latency times of 6-OHDA–treated mice at 4 h after i.p. administration of vehicle or BRF110 (10 mg/kg). (I) Spontaneous
+contralateral turns per minute of 6-OHDA–treated mice at 4 h after i.p. administration of vehicle, BRF110 (10 mg/kg), or L-DOPA. (J and K) Schematic of the
+treatment regimen (J) and AIMS (K) of mice at 5 wk after 6-OHDA treatment, after 2 wk of daily i.p. administration of BRF110 (10 mg/kg) or L-DOPA.
+
+Spathis et al.
+
+PNAS | April 11, 2017 | vol. 114 | no. 15 | 4003
+
+effects of BRF110 both in vitro and in vivo depend on Nurr1 expression, validating the therapeutic target. Because of the divergent
+toxin and genetic insults that we used in our PD models, our data
+indicate that various pathways leading to DAergic neuron demise can
+be overcome by BRF110 activation, implying coordinated control of a
+complex neuroprotective network by Nurr1:RXRα.
+BRF110 also increases DA levels in vivo and offers symptomatic
+relief in two postdegeneration PD animal models at the neuroprotective dose. This dual activity indicates that unlike most efforts
+aimed at finding new therapeutic approaches for the treatment of
+PD, Nurr1:RXRα activation offers a unique combined efficacy distinct from that of other targets. Moreover, as opposed to the
+excessive DA stimulation induced by DA replacement therapies,
+BRF110 apparently finely regulates DA production in a more
+physiological manner via the transcriptional activation of the DA
+biosynthesis genes (TH, GCH1, and AADC), without affecting
+DA catabolism and without eliciting dyskinesias. This effect has
+been corroborated by the use of a lentiviral tricistronic vector
+expressing TH, GCH1, and AADC that alleviates PD symptoms
+in primates without dyskinesias (27). A current phase 1/2 clinical
+trial using a virtually identical lentiviral vector offers similar
+symptomatic relief in PD patients (28).
+Our experiments show that a single molecule activating a
+single target achieves a double therapeutic advantage for PD
+in vivo. Because BRF110 neuroprotection extends to PD patient
+iPSC-derived DAergic neurons, Nurr1:RXRα activation has the
+potential to benefit PD patients. We believe that our findings
+strongly support the use of Nurr1:RXRα activation as a monotherapy for PD.
+
+In Vitro Studies in Neuroblastoma Cell Lines. Naive SH-SY5Y neuroblastoma
+cells were cultured in RPMI 1640 and 10% FBS and harvested at indicated
+time points. Transient transfections were performed using Lipofectamine
+2000 (Invitrogen) for 4–6 h in Opti-MEM I (Invitrogen).
+Mice. Mice were housed at the Animal Care Facilities of the Academy of
+Athens in a pathogen-free room under a controlled 12-h light/12-h dark cycle
+and with free access to food and water. Animal breeding and handling were
+performed in accordance with the European Communities Council Directive
+86/609/EEC guidelines, and all animal procedures were approved by the
+Academy of Athens Institutional Animal Care and Use Committee (certified
+with ISO 9001:2008). PD mouse models for MPTP, 0.6-OHDA, and ASYN AAV
+were generated following established protocols. In brief, we used an acute
+MPTP regimen of four 20-mg/kg MPTP injections given 2 h apart. 6-OHDAHCl in saline containing 0.02% ascorbic acid was injected intracerebrally and
+unilaterally at the level of the median forebrain bundle (MFB) in anesthetized mice. Recombinant AAVs (AAV-ASYN and AAV-GFP) were injected
+stereotactically into the right and left SN, respectively. Experimenters were
+blinded to the animal groups for all animal experiments and analyses.
+Statistics. Statistical analyses were performed using GraphPad Prism 4. Significance was assessed with one-way ANOVA followed by Bonferroni’s post
+hoc test and by the nonparametric Mann–Whitney U test or Kruskal–Wallis
+test unless indicated otherwise. A P value <0.05 was considered significant.
+In the figures, error bars represent ± SEM, and *P < 0.05, **P < 0.01, and
+***P < 0.001.
+
+The materials and methods used in these experiments are described in detail
+in SI Materials and Methods.
+
+ACKNOWLEDGMENTS. We thank Drs. L. Stefanis, A. S. Charonis, K. Vougas,
+and A. Efstratiadis for encouragement; Drs. T. Perlmann and M. Spillantini
+for the Nurr1+/− and ASYN transgenic mice, respectively, and Dr. M. Makishima
+and RIKEN for constructs. This work was partially supported by the Michael J.
+Fox Foundation (D.K.V.), a Cooperation grant from the General Secretariat
+of Research and Technology (to D.K.V.), TransMed Grant EU FP7 REGPOT CT2010-245928 (to D.K.V.), and SEE-DRUG Grant EU FP7 REGPOT CT-2011285950 (to S.T.).
+
+1. Meissner WG (2012) When does Parkinson’s disease begin? From prodromal disease
+to motor signs. Rev Neurol (Paris) 168(11):809–814.
+2. Athauda D, Foltynie T (2015) The ongoing pursuit of neuroprotective therapies in
+Parkinson disease. Nat Rev Neurol 11(1):25–40.
+3. Fahn S (2006) A new look at levodopa based on the ELLDOPA study. J Neural Transm
+Suppl 70(Suppl):419–426.
+4. Meissner WG, et al. (2011) Priorities in Parkinson’s disease research. Nat Rev Drug
+Discov 10(5):377–393.
+5. Zetterström RH, et al. (1997) Dopamine neuron agenesis in Nurr1-deficient mice.
+Science 276(5310):248–250.
+6. Saucedo-Cardenas O, et al. (1998) Nurr1 is essential for the induction of the dopaminergic phenotype and the survival of ventral mesencephalic late dopaminergic
+precursor neurons. Proc Natl Acad Sci USA 95(7):4013–4018.
+7. Kim KS, et al. (2003) Orphan nuclear receptor Nurr1 directly transactivates the promoter activity of the tyrosine hydroxylase gene in a cell-specific manner. J Neurochem
+85(3):622–634.
+8. Gil M, et al. (2007) Regulation of GTP cyclohydrolase I expression by orphan receptor
+Nurr1 in cell culture and in vivo. J Neurochem 101(1):142–150.
+9. Kadkhodaei B, et al. (2009) Nurr1 is required for maintenance of maturing and adult
+midbrain dopamine neurons. J Neurosci 29(50):15923–15932.
+10. Kadkhodaei B, et al. (2013) Transcription factor Nurr1 maintains fiber integrity and
+nuclear-encoded mitochondrial gene expression in dopamine neurons. Proc Natl Acad
+Sci USA 110(6):2360–2365.
+11. Zhang L, Le W, Xie W, Dani JA (2012) Age-related changes in dopamine signaling in Nurr1deficient mice as a model of Parkinson’s disease. Neurobiol Aging 33(5):1001.e7–1001.e16.
+12. Le WD, et al. (2003) Mutations in NR4A2 associated with familial Parkinson disease.
+Nat Genet 33(1):85–89.
+13. Sleiman PM, et al. (2009) Characterisation of a novel NR4A2 mutation in Parkinson’s
+disease brain. Neurosci Lett 457(2):75–79.
+14. Wallen-Mackenzie A, et al. (2003) Nurr1-RXR heterodimers mediate RXR ligandinduced signaling in neuronal cells. Genes Dev 17(24):3036–3047.
+15. Pérez E, Bourguet W, Gronemeyer H, de Lera AR (2012) Modulation of RXR function
+through ligand design. Biochim Biophys Acta 1821(1):57–69.
+16. Cramer PE, et al. (2012) ApoE-directed therapeutics rapidly clear β-amyloid and reverse deficits in AD mouse models. Science 335(6075):1503–1506.
+17. McFarland K, et al. (2013) Low-dose bexarotene treatment rescues dopamine neurons
+and restores behavioral function in models of Parkinson’s disease. ACS Chem Neurosci
+4(11):1430–1438.
+18. Veeraraghavalu et al. (2013) Comment on “ApoE-directed therapeutics rapidly clear
+β-amyloid and reverse deficits in AD mouse models.” Science 340(6135):924-f.
+19. Volakakis N, et al. (2015) Nurr1 and retinoid X receptor ligands stimulate Ret signaling in dopamine neurons and can alleviate α-synuclein–disrupted gene expression.
+J Neurosci 35(42):14370–14385.
+
+20. Vaz B, de Lera ÁR (2012) Advances in drug design with RXR modulators. Expert Opin
+Drug Discov 7(11):1003–1016.
+21. Wei X, et al. (2016) Contra-directional coupling of Nur77 and Nurr1 in neurodegeneration: A novel mechanism for memantine-induced anti-inflammation and
+anti-mitochondrial impairment. Mol Neurobiol 53(9):5876–5892.
+22. Reinhardt P, et al. (2013) Genetic correction of a LRRK2 mutation in human iPSCs links
+parkinsonian neurodegeneration to ERK-dependent changes in gene expression. Cell
+Stem Cell 12(3):354–367.
+23. Tofaris GK, et al. (2006) Pathological changes in dopaminergic nerve cells of the
+substantia nigra and olfactory bulb in mice transgenic for truncated human alphasynuclein(1-120): Implications for Lewy body disorders. J Neurosci 26(15):3942–3950.
+24. Rascol O, Perez-Lloret S, Ferreira JJ (2015) New treatments for levodopa-induced
+motor complications. Mov Disord 30(11):1451–1460.
+25. Schapira AH (2011) Monoamine oxidase B inhibitors for the treatment of Parkinson’s
+disease: A review of symptomatic and potential disease-modifying effects. CNS Drugs
+25(12):1061–1071.
+26. Stocchi F (2014) Therapy for Parkinson’s disease: What is in the pipeline? Neurotherapeutics
+11(1):24–33.
+27. Jarraya B, et al. (2009) Dopamine gene therapy for Parkinson’s disease in a nonhuman
+primate without associated dyskinesia. Sci Transl Med 1(2):2ra4.
+28. Palfi S, et al. (2014) Long-term safety and tolerability of ProSavin, a lentiviral vectorbased gene therapy for Parkinson’s disease: A dose-escalation, open-label, phase
+1/2 trial. Lancet 383(9923):1138–1146.
+29. Ho CC, Rideout HJ, Ribe E, Troy CM, Dauer WT (2009) The Parkinson disease protein
+leucine-rich repeat kinase 2 transduces death signals via Fas-associated protein with
+death domain and caspase-8 in a cellular model of neurodegeneration. J Neurosci
+29(4):1011–1016.
+30. Reinhardt P, et al. (2013) Derivation and expansion using only small molecules of human
+neural progenitors for neurodegenerative disease modeling. PLoS One 8(3):e59252.
+31. Klein RL, King MA, Hamby ME, Meyer EM (2002) Dopaminergic cell loss induced by
+human A30P alpha-synuclein gene transfer to the rat substantia nigra. Hum Gene
+Ther 13(5):605–612.
+32. Cao S, Theodore S, Standaert DG (2010) Fcγ receptors are required for NF-κB signaling,
+microglial activation, and dopaminergic neurodegeneration in an AAV-synuclein
+mouse model of Parkinson’s disease. Mol Neurodegener 5:42.
+33. Paxinos G, Franklin KBJ (2001) The Mouse Brain in Stereotaxic Coordinates (Academic,
+San Diego), 2nd Ed.
+34. Vila M, et al. (2000) Alpha-synuclein up-regulation in substantia nigra dopaminergic neurons following administration of the parkinsonian toxin MPTP. J Neurochem 74(2):721–729.
+35. Jackson-Lewis V, Przedborski S (2007) Protocol for the MPTP mouse model of
+Parkinson’s disease. Nat Protoc 2(1):141–151.
+36. Friesner RA, et al. (2006) Extra precision glide: docking and scoring incorporating a model
+of hydrophobic enclosure for protein-ligand complexes. J Med Chem 49(21):6177–6196.
+
+Materials and Methods
+
+4004 | www.pnas.org/cgi/doi/10.1073/pnas.1616874114
+
+Spathis et al.
+
+

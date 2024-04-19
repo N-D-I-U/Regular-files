@@ -1,0 +1,870 @@
+Immunity
+
+Article
+MicroRNA-132 Potentiates Cholinergic
+Anti-Inflammatory Signaling
+by Targeting Acetylcholinesterase
+Iftach Shaked,1,2 Ari Meerson,1,2 Yochai Wolf,1 Ran Avni,1 David Greenberg,1 Adi Gilboa-Geffen,1 and Hermona Soreq1,*
+1Department of Biological Chemistry, The Institute of Life Sciences, The Hebrew University of Jerusalem, 91904 Jerusalem, Israel
+2These authors contributed equally to this work
+*Correspondence: soreq@cc.huji.ac.il
+DOI 10.1016/j.immuni.2009.09.019
+
+SUMMARY
+
+MicroRNAs (miRNAs) contribute to both neuronal and
+immune cell fate, but their involvement in intertissue
+communication remained unexplored. The brain, via
+vagal secretion of acetylcholine (ACh), suppresses
+peripheral inflammation by intercepting cytokine
+production; therefore, we predicted that microRNAs
+targeting acetylcholinesterase (AChE) can attenuate
+inflammation. Here, we report that inflammatory
+stimuli induced leukocyte overexpression of the
+AChE-targeting miR-132. Injected locked nucleic
+acid (LNA)-modified anti-miR-132 oligonucleotide
+depleted miR-132 amounts while elevating AChE in
+mouse circulation and tissues. In transfected cells,
+a mutated 30 UTR miR-132 binding site increased
+AChE mRNA expression, whereas cells infected
+with a lentivirus expressing pre-miR-132 showed
+suppressed AChE. Transgenic mice overexpressing
+30 UTR null AChE showed excessive inflammatory
+mediators and impaired cholinergic anti-inflammatory regulation, in spite of substantial miR-132
+upregulation in brain and bone marrow. Our findings
+identify the AChE mRNA-targeting miR-132 as a functional regulator of the brain-to-body resolution of
+inflammation, opening avenues for study and therapeutic manipulations of the neuro-immune dialog.
+INTRODUCTION
+MicroRNAs (miRNAs) are evolutionarily conserved short noncoding RNAs that regulate multiple molecular pathways in
+specific cell or tissue types (Ambros, 2004; Landgraf et al.,
+2007; Lim et al., 2003); however, their relevance for systemic
+interactions such as brain-body signaling is yet unknown. miRNAs often bind their mRNA targets based on sequence complementarity in specific locations on the 30 untranslated region (UTR)
+of the mRNA, termed miRNA response elements (MREs). This
+leads to translational repression and/or degradation of the
+mRNA. Each miRNA potentially binds multiple mRNAs (Krek
+et al., 2005). miRNA expression varies with cell type, tissue,
+and developmental stage (Baek et al., 2008) and spans both
+
+neural and immune cells (Liang et al., 2007; Plasterk, 2006).
+Specifically, bacterial endotoxin- or lipopolysaccharide (LPS)exposed human monocytes overproduce several miRNAs, e.g.,
+miR-146a, 155, and 132, whereas cytokines such as TNF upregulate miR-155 and 125b (Tili et al., 2007) and immune regulators
+like IFN-b reduce miR-122 as part of an antiviral protection
+response (Pedersen et al., 2007). The NF-kB-dependent miR146a targets the tumor necrosis factor (TNF) receptor-associated
+factor 6 (TRAF6) (Taganov et al., 2006). miR-155 targets the interleukin-1 signaling pathway in monocytes (Ceppi et al., 2009) as
+well as angiotensin II type I receptor in fibroblasts (Martin et al.,
+2006) and regulates T cell differentiation and antibody response
+through the JNK kinase pathway, which activates the AP-1
+complex (Rodriguez et al., 2007). miR-155 null mice are immune
+deficient (Thai et al., 2007), suggesting that LPS-induced miRs
+regulate immunity. Our study focused on the inflammation-associated role(s) of miR-132, which has demonstrated function and
+high expression in the brain (Cheng et al., 2007).
+We predicted miR involvement in brain-body communication
+such as the neuro-endocrine modulation of inflammation
+(De Kloet et al., 1998; McEwen, 2007), whereby innate immunity
+is regulated by acetylcholine (ACh) to optimize the resolution of
+inflammation (Sternberg, 2006). Specifically, afferent fibers of
+the vagus nerve signal the presence of circulating proinflammatory cytokines to the brain (Watkins and Maier, 1999). Reciprocally, efferent vagus nerve fibers release ACh, which binds a7
+nicotinic receptors on macrophages, intercepts the nuclear
+translocation of NFkB, and inhibits the production of proinflammatory mediators (de Jonge et al., 2005; Metz and Tracey,
+2005; Watkins and Maier, 1999). Activation of this ‘‘cholinergic
+reflex’’ has been shown to alleviate inflammatory disease,
+including endotoxemia (Pavlov et al., 2007), sepsis (van Westerloo et al., 2005), colitis (Pullan et al., 1994), pancreatitis (van
+Westerloo et al., 2006), ischemia reperfusion (Altavilla et al.,
+2006), and acute lung injury (Su et al., 2007). At the tissue level,
+synaptophysin-positive nerve endings interact with spleen
+macrophages, and surgical ablation of the splenic nerve indicates that these interactions are required for the cholinergic
+anti-inflammatory control of endotoxemia (Rosas-Ballina et al.,
+2008). Thus, brain-body communication through ACh is intimately involved in the regulation of inflammation.
+ACh is hydrolyzed by acetylcholinesterase (AChE) and butyrylcholinesterase (BChE) (Soreq and Seidman, 2001); therefore, high
+amounts of these enzymes could potentially negate the cholinergic anti-inflammatory signal (Ofek et al., 2007). Supporting
+Immunity 31, 965–973, December 18, 2009 ª2009 Elsevier Inc. 965
+
+Immunity
+miR-132 Restricts Inflammation by Targeting AChE
+
+this notion, AChE inhibition restricts inflammation in both the
+peripheral and the central nervous system (CNS) (Pollak et al.,
+2005; Pavlov et al., 2009). We therefore predicted that microRNAs
+targeting AChE can attenuate inflammation.
+RESULTS
+AChE Is Downregulated after LPS Exposure
+In murine splenocytes, AChE (but not BChE; Figure S1A available online) mRNA, protein, and activity were all substantially
+reduced 24 hr after LPS (endotoxin, a Toll-like receptor TLR4
+ligand) treatment (Figures 1A–1C). The post-LPS downregulation
+of AChE could be reproduced in vivo, by intraperitoneal (i.p.)
+injection of LPS that upregulated interleukin (IL)-6 and IL-1b
+while reducing serum AChE activity (Figures 1D–1F), suggesting
+that systemic reduction of AChE activity is an integral part of the
+postinflammatory response.
+miRNAs Targeting AChE Are Induced by LPS
+in Both Mice and Humans
+To find miRNAs that could potentially downregulate cholinesterases, we used PicTar (Krek et al., 2005), miRanda (John et al.,
+2004), and an in-house target prediction algorithm. To test whether
+the in silico-identified miRNAs respond to inflammation, we used an
+in-house spotted microarray. No miRNAs were predicted to target
+both AChE and BChE, and miRNAs induced by immune challenges
+did not include sequences that could target BChE (Figure S1B). In
+contrast, two miRNAs complementary to AChE’s 30 UTR were
+induced by LPS: miR-132 and miR-182* (processed from the
+same precursor molecule as miR-182; sequences and alignments
+in Figures S1C and S1D), compatible with the immune modulation
+of AChE activity in nucleated blood cells (Pick et al., 2006). miR-132
+and miR-182* are intergenically encoded and dissimilar. Binding
+sites for miR-132 and 182* at bases 961 and 704 of AChE 30
+UTR, respectively (Figure S1C), showed high conservation across
+species, supporting their physiological relevance.
+Spotted array analysis showed that miR-132, among others,
+was consistently upregulated in primary human macrophages
+by LPS (Figure 1G) as well as by additional immunogens, e.g.,
+the TLR9 ligand CpG oligonucleotide (ODN) 2006, which is
+known to react to LPS (Figures S1E and S1F; Tables S2 and
+S3 of array results; Hartmann et al., 1999). QRT-PCR validation
+confirmed that LPS exposure elevates miR-132 and 182* but
+not other hematopoietic miRs (e.g., miR-181a), in a dose-dependent manner (Figure 1H; Figure S1G). This increase, which
+occurred 12–24 hr after the onset of inflammation, was paralleled
+by a reduction in AChE protein (Figures 1A–1C; Figure S1H) that
+could enable the attenuation of inflammation by ACh in a physiological system. Supporting this notion, AChE reduction was
+observed both in the bone marrow (BM) and spleen of LPSinjected FVB-N mice (Figures 1A–1C and 1F) and in humanand mouse-derived cell lines (Figure S2). Both AChE-targeting
+miRNAs increased in an LPS dose-dependent manner, peaking
+at 1 mg/ml LPS (Figure S1G) and at 24 hr postexposure in cultured
+macrophages, and LPS-exposed mice reached double the
+expression seen in bone marrow (BM) and splenocytes of control
+mice at the same time point (Figure 1I). Taken together, these
+results indicate inherent involvement of changes in miR-132
+and miR-182* in the inflammatory reaction to LPS exposure.
+966 Immunity 31, 965–973, December 18, 2009 ª2009 Elsevier Inc.
+
+Figure 1. LPS-Induced Downregulation of AChE In Vivo and Ex Vivo
+Suggests Involvement of miR-132 Predicted to Target AChE mRNA
+(A) QRT-PCR for AChE mRNA normalized to GAPDH in splenocytes of FVB-N
+mice 3–24 hr after LPS. Bars indicate SD, n = 3 or more per bar.
+(B) AChE protein in splenocytes, 24 hr after LPS, normalized to actin (n = 3
+per group). Antibodies used to target AChE are described in Experimental
+Procedures.
+(C) AChE’s hydrolytic activity in splenocytes of FVB-N mice 24 hr after LPS.
+**p < 0.01; bars, SEM (n = 3 per group).
+(D–F) FVB-N mice serum titers of IL-6 (D), IL-1b (E), and AChE activity (F) 3 hr
+(cytokines) and 24 hr (AChE activity) after LPS treatment. Bars indicate SD
+from triplicates (n = 3 per group).
+(G) Scatter plot of representative spotted miRNA array in primary human
+macrophages. Each black spot represents a particular miRNA, with those
+above the dashed lines upregulated. Spots representing miRNAs 132 and
+182* are red and blue, respectively.
+(H) QRT-PCR for miRs-132, 182*, and 181a (a non-LPS-responding miRNA
+serving as control) in human macrophages. Bars indicate SD from triplicates.
+(I) QRT-PCR for miR-132 in bone marrow (BM) or spleen of LPS-injected FVBN mice compared to controls (n = 3 per group). Bars indicate SD; *p = 0.04.
+
+Anti-miR-132 Oligonucleotide Elevates AChE Activity
+in Intestine, Serum, and Bone Marrow
+To manipulate miR-132 amounts in vivo, we intravenously injected
+FVB-N mice with 3 daily 3.3 mg/kg doses of a phosphorothioated,
+
+Immunity
+miR-132 Restricts Inflammation by Targeting AChE
+
+accompanied by increases in AChE but not BChE (data not
+shown) activity in the small intestine, serum, and bone marrow
+(Figure 2C). Likewise, AChE protein expression increased in
+anti-132-treated mice (Figure 2D). In individual mice, relative
+spleen miR-132 expression (in anti-132-, scr-, and mock-treated
+groups) showed an inverse correlation when plotted against
+serum AChE activities of the same mice (Figure 2E), suggesting
+that miR-132 is a major systemic regulator of AChE. These findings further demonstrate that the anti-132 oligonucleotide can
+serve to manipulate the systemic expression of AChE.
+
+Figure 2. Counteracting miR-132 In Vivo by an LNA-Anti-miR Oligo
+Elevates Serum AChE Activity
+(A) Anti-miR-132 and scrambled control oligonucleotides (Sigma) had fulllength phosphorothioate backbones and >50% LNA bases (in red).
+(B) Quantification of QRT-PCR for miR-132 and miR-182* in bone marrow (BM)
+and spleen of FVB-N mice injected i.v. with 3.3 mg anti-miR-132 or scrambled
+(scr) oligo daily for 3 days and sacrificed 24 hr after last injection. Bars indicate
+SD; *p = 0.04 (n = 4 per group).
+(C) Quantification of AChE catalytic activity in intestine, sera, and bone marrow
+(BM) of mice as in (B). Averages in red. *p = 0.04. Anti-miR132-injected mice
+(n = 7) represented by squares, triangles, and diamonds; scrambled (scr)
+oligo-injected or nontreated mice represented by white symbols (n = 8 or 6).
+(D) Immunoblot for AChE in intestine of anti-132-treated and control mice as in
+(B). Recombinant AChE used as positive control (C). b-Tubulin was used as
+loading control (n = 6 per group).
+(E) Spleen miR-132 levels are inversely associated with serum AChE activity.
+Inset: R value (n = 20).
+
+LNA-modified oligonucleotide (Elmen et al., 2008) complementary
+to mature miR-132 (anti-132) or a scrambled sequence control
+oligonucleotide (scr) (Figure 2A). 24 hr after the last injection,
+anti-132-treated mice showed dramatic reductions in miR-132
+but not miR-182* expression in both BM and spleen (Figure 2B),
+
+Regulation of AChE by LPS Shows an Inverse Pattern
+to miR-132, 182* Changes
+In the RAW 264.7 murine macrophage-derived cell line, LPS
+exposure induced robust increases of nitric oxide (NO), IL-6,
+and TNF-a within 24 hr, reflecting an inflammatory response.
+This was accompanied by robust decreases in AChE activity
+(Figure S2B) and a marked elevation in miR-132 and miR-182*
+expression, whereas AChE mRNA expression was essentially
+unchanged in this test (Figures S2D–S2F). By 24 hr after exposure, both human-derived U937 cells and mouse-derived RAW
+264.7 cells showed reduced AChE activity (Figure S2C), similar
+to that achieved by treatment with 10 mM of the selective AChE
+inhibitor, BW 284 C51 (Figure S2D). Inversely, ACh blocked the
+LPS-induced increase in NO as efficiently as dexamethasone
+(Figure S2E). Also, untreated cells showed NF-kB labeling in
+the cytoplasm, whereas LPS exposure shifted NF-kB labeling
+to the nucleus, but coexposure to both LPS and ACh inhibited
+this translocation (data not shown), demonstrating the cholinergic anti-inflammatory reflex.
+The ‘‘Cister’’ algorithm (Frith et al., 2001) identified binding
+motifs for inflammation-associated transcription factors in the
+5 kb genomic regions upstream of the miR-132 and miR-182*
+precursors (Figures S3A and S3B), suggesting that the promoters of both of these AChE-targeting miRs bind AP-1, involved in cellular proliferation, transformation, and death (Shaulian and Karin, 2002). AP-1 is composed of members of the Jun
+and Fos family of transcription factors, and c-Jun plays essential
+roles in the immune responses of pattern recognition receptors
+(Akira, 2006). For miR-132, the Cister algorithm also identified
+the calcium-response element CRE. Its binding protein, CREB,
+responds to cholinergic signals via the a7 nicotinic ACh receptor
+(Bitner et al., 2007) as a late event in inflammatory reactions (Kang
+et al., 2007). Thus, miRNAs targeting AChE mRNA, like AChE
+itself, emerged as likely mediators of inflammatory reactions.
+Mutation or Deletion of the miR-132 Binding Site in
+AChE mRNA Elevates AChE Activity in Transfected Cells
+To more directly test for regulation of AChE by miR-132, we
+transfected CHO cells with AChE expression vectors encoding
+either a native UTR or UTR with mutated miR-132 MRE. CHO
+cells express miR-132 at about 20 fmoles/mg (104 molecules
+per ng RNA), higher than the basal expression in mouse splenocytes yet lower than that in the mouse cortex (Figure 3A). In
+contrast, CHO cells have almost no endogenous AChE (Figure 3B). After transfection, cells expressing the 30 UTR-mutated
+construct produced higher AChE activities than those expressing the native 30 UTR control, validating the importance of the
+miR-132 MRE in regulation of AChE (Figure 3B).
+Immunity 31, 965–973, December 18, 2009 ª2009 Elsevier Inc. 967
+
+Immunity
+miR-132 Restricts Inflammation by Targeting AChE
+
+Figure 3. miR-132 Regulates AChE Activity in Cultured Cells
+(A) QRT-PCR amplification plot for miR-132 in mice brain, CHO cells, and
+mouse spleen.
+(B) Quantification of AChE activity in CHO cells transfected (n = 3) with equal
+amounts of AChE expression vector with native 30 -UTR or UTR with pointmutated miR-132 binding site or GFP expression vector that served as control
+for transfection efficiency. Bars indicate SD; **p = 0.001 (n = 3).
+(C) Scheme of the pre-miR-132 overexpression vector, with sequences for
+pre- (in black) and mature miR-132 (in red).
+(D) AChE activity of bone-marrow-derived macrophages infected with lentivirus overexpressing pre-miR-132 or a scrambled sequence. **p = 0.004,
+Mann-Whitney U test.
+
+Overexpression of miR-132 via Lentiviral Infection
+Downregulates AChE Activity in Primary Cultured Cells
+To further test the regulation of AChE by miR-132, we overexpresed miR-132 by infecting BM-derived macrophages, extracted from FVB-N mice, with either a pre-miR-132 expression
+vector or a control vector containing a scrambled sequence (Figure 3C). 72 hr after infection, AChE activity of BM cells infected
+by the miR-132 vector was downregulated by 60% (Figure 3D)
+relative to cells infected with scrambled vector. Together with
+the above mutation studies, these findings demonstrate that
+creating miR-132 loss of function by ablating the miR-132
+binding site elevates, whereas implementing miR-132 gain of
+function by enhancing miR-132 expression through lentiviral
+infection suppresses, AChE expression.
+Mice Overexpressing 30 UTR Null AChE Lack
+Cholinergic Immune Suppression and
+Show High Basal miR-132 Expression
+Transgenic mice expressing the TgR construct (Figure 4A;
+Gilboa-Geffen et al., 2007; Sternfeld et al., 2000) served to challenge in vivo the importance of AChE regulation by miRs in the
+968 Immunity 31, 965–973, December 18, 2009 ª2009 Elsevier Inc.
+
+context of the anti-inflammatory reflex. Because of the absence
+of the functionally relevant MRE, we predicted that AChE activity
+in TgR mice should not be suppressed by miR-132, even when
+it is elevated after inflammatory insults, and that ACh should
+therefore fail to attenuate innate immunity reactions, e.g., the
+response to LPS (Scheme, Figure 4B). Supporting this hypothesis, intestinal explants from TgR mice, in addition to showing
+elevated AChE activity (Figure 4C) and AChE protein expression
+(Figure 4D), displayed higher basal amounts of circulation cytokines (IL-1b and Il-6 and IL-10) compared to FVB-N counterparts. The cytokine overproduction in the TgR intestine could
+be rebalanced with i.p. injection of the ACh receptor agonist
+nicotine (Figures 4E–4G), demonstrating that the cholinergic
+suppression of inflammation was not impaired in these mice
+because of missing ACh receptors and/or downstream signaling. AChE protein in TgR intestine reached similar amounts as
+those in anti-132-treated mice (Figure 4D), consistent with the
+role of miR-132 as a major physiological regulator of ACh
+signaling.
+Mice notably respond to LPS administration with dynamic
+changes in their body temperature. First, they develop hyperthermia that is thereafter followed by hypothermia (due to peripheral vasodilatation) (Splawinski et al., 1977). To assess the
+impact of 30 UTR null AChE overexpression on this robust physiological response, rectal temperatures were measured in FVBN and TgR mice after i.p. injection of LPS. TgR mice notably
+differed from FVB-N wild-type mice both in their lower basal
+body temperatures and in their LPS fever response. Whereas
+FVB-N mice display transient hyperthermia, TgR mice respond
+to LPS by initial hypothermia followed by prolonged hyperthermia (Figure 4H). TgR mice further showed higher expression
+of miR-132 than wild-type mice, in the periphery, BM, and the
+brain, especially in the pyrogenic cytokine-responding hypothalamus (Figure 4I; Blatteis, 2007), suggesting feedback regulation
+between miR-132 and AChE expression that spans both body
+and relevant regions in the brain.
+In agreement with the effects in intestinal tissue, BM-derived
+macrophages from both wild-type and TgR mice overproduced
+IL6, IL12, and TNF-a when challenged with LPS ex vivo; however,
+coadministration of LPS and ACh prevented this increase in FVBN but not TgR-derived macrophages (Figures 4J–4L), demonstrating that excessive ACh hydrolysis impairs the cholinergic
+anti-inflammatory response. TgR mice further presented excessive leukocyte recruitment into the peritoneum after thioglycolate
+injection, displayed by higher numbers of Mac-1- (CD11b, a
+complement receptor typical of activated macrophages) expressing cells than control mice (Figures S3C and S3D), suggesting systemically deregulated immunity in these mice.
+DISCUSSION
+Our findings demonstrate that AChE-targeting miR-132 can
+attenuate inflammation by reducing AChE amounts, thus
+enhancing the brain’s ability to govern inflammation via cholinergic signaling. We found that excessive inflammation upregulates miR-132. In miR-132-expressing cultured cells, ectopic
+AChE expression was elevated by introducing a point mutation
+in the native miR-132 MRE. Infection with lentivirus expressing
+pre-miR-132 suppressed AChE in cultured BM cells. Depleting
+
+Immunity
+miR-132 Restricts Inflammation by Targeting AChE
+
+Figure 4. Mice Overexpressing 30 -UTR Null AChE Show Deregulated, ACh-Refractory Immune Responses
+(A) 30 -UTR null AChE sequence in the TGR mice.
+(B) Working hypothesis: inflammation-induced miRs control AChE activity to
+enable the anti-inflammatory cholinergic reflex (Metz and Tracey, 2005); the
+suggested mechanism is disrupted in TgR mice.
+(C) TgR mice show significantly higher intestinal AChE activity compared to
+FVB-N wild-type mice. **p = 0.002 (U test, n = 8). Bars indicate SEM.
+(D) Immunoblot for AChE in intestine of TgR (n = 4) and control FVB-N (n = 4)
+mice. Anti-132-treated mice (as in Figure 2) showed elevated AChE expression
+comparable to TgR transgenics. b-Tubulin was used as loading control.
+(E–G) Intestinal explants from TgR mice display higher basal expression of
+cytokines, IL1, and IL6 (C; *p = 0.002, **p = 105), and IL10 (D; *p = 0.02)
+
+miR-132 in vivo in the BM and spleen increased peripheral AChE
+activity in the intestine, serum, and bone marrow. TgR mice,
+overexpressing MRE null AChE, lost the ability to attenuate
+inflammation by cholinergic signaling, although their excessive
+inflammatory response was quenchable by nicotine, a cholinergic agonist not hydrolyzed by AChE. Despite expressing
+miR-132 at high amounts, TgR MRE null mice lacked the ability
+to benefit from the regulation of AChE expression by miRNAs.
+The nervous system was shown to profoundly regulate the
+innate immune system. Direct innervation of lymphatic organs
+(Pavlov et al., 2007) or inflamed tissues (Tracey, 2007) restricts
+the inflammatory burden. Neurotransmitters and neuropeptides
+bind to specific receptors expressed by leukocytes, inhibiting
+production of proinflammatory mediators (Sternberg, 2006).
+Neuronal and leukocyte miRNAs can thus provide a fine-tuning
+tool for these sensitive neuro-immune checkpoints.
+We focused our current study on miR-132, well characterized
+by others in brain neurons, because of its robust induction in
+leukocytes after LPS. miR-132 is upregulated by the cAMPresponse element binding protein (CREB) (Vo et al., 2005) and
+downregulated by the RE1 silencing transcription factor (REST)
+(Conaco et al., 2006), compatible with a role in regulating cholinergic communication. AChE, in turn, is a stress-induced gene
+(Kaufer et al., 1998; Meshorer et al., 2002; Meshorer and Soreq,
+2002); its upregulation induces lymphopoiesis and thrombopoiesis (Gilboa-Geffen et al., 2007; Pick et al., 2006). Our findings
+suggest that the poststress surge in these processes can be
+terminated by miR-132-mediated downregulation of AChE.
+To assess the involvement of miRs in the inflammatory reflex,
+we tested both in vivo and in vitro systems. Supportive evidence
+was found in murine and human macrophage-derived cell lines
+known to respond to LPS by production of proinflammatory
+mediators; in primary human macrophages; and in primary peritoneal and bone marrow macrophages obtained from transgenic
+and control mice, as well as in intestinal explants and in naive
+FVB-N mice as an in vivo model.
+The miR-AChE regulation module is likely to also exist in the
+brain itself, where both miR-132 (Cheng et al., 2007) and AChE
+(Soreq and Seidman, 2001) are found at higher concentrations
+than in other tissues. Several reports further tie AChE and miR132 to the same neuronal processes, e.g., the circadian clock
+within the SCN. AChE peaks during sleeping phases and reaches a minimum during activity hours (Schiebeler and von
+Mayersbach, 1974). Inversely, miR-132 expression is high during
+the day, when it contributes to the photic resetting of the clock
+(Cheng et al., 2007). Our findings suggest that this reflects
+a causal relationship between AChE and miR-132 expression.
+In humans, circulation AChE, cytokine amounts, and the
+susceptibility to disease and inflammation all increase with age
+
+compared to FVB/N controls that is quenchable by nicotine. n = 8, bars indicate SEM.
+(H) Rectal temperatures in FVB-N and TgR mice after i.p. injection of 2 mg/kg
+LPS. *p < 0.03; bars indicate SEM.
+(I) QRT-PCR for miR-132 in bone marrow (BM) and brain hypothalamus of TgR
+mice, normalized to FVB-N controls. Bars indicate SEM; *p = 0.046.
+(J–L) Cytokine (IL-6, IL-12, TNF-a) amounts in bone marrow macrophages
+from FVB-N (WT) and TgR mice, naive and treated with LPS, with or without
+ACh. Bars indicate SD. ***p = 0.0005, *p = 0.03 (n = 3 per group).
+
+Immunity 31, 965–973, December 18, 2009 ª2009 Elsevier Inc. 969
+
+Immunity
+miR-132 Restricts Inflammation by Targeting AChE
+
+(Sklan et al., 2004), and excessive cytokine amounts are a major
+cause of tissue injury and organ failure (Wang et al., 2004).
+Inherited impairments in AChE-targeting miRs can hence be
+detrimental, which raises the possibility for miR-based diagnostics of susceptibility to inflammatory and cholinergic-related maladies. After heart failure, miR-212 (Thum et al., 2007), identical in
+its ‘‘seed’’ sequence to miR-132, is upregulated, whereas AChE
+activity decreases (Dunlap et al., 2003). These two miRNAs are
+encoded in tandem within 300 bp in the human genome and
+may share the same primary transcript, suggesting common
+regulation.
+miRNAs regulating signaling networks have potential both as
+research tools and as a unique class of therapeutic targets
+(Baek et al., 2008). Experimentally validated approaches include,
+but are not limited to, synthetic RNAs that contain the binding
+sites of miRNAs and function as ‘‘decoys’’ to competitively
+inhibit the function of specific miRs (Care et al., 2007); miRNA
+expression vectors that restore or overexpress specific miRNAs
+to achieve a long-term effect on their mRNA targets (Voorhoeve
+et al., 2006); double-stranded miRNA mimics and pre-miRNA
+stem-loops to achieve transient upregulation; and chemically
+protected antisense oligonucleotides (Elmen et al., 2008;
+Krutzfeldt et al., 2005) for manipulating the amounts and activity
+of miRNA transcripts. Here, we employed the fourth method to
+upregulate AChE amounts in the circulation by inhibiting miR132 and the third method to suppress AChE by miR-132 overexpression. Thus, different circumstances may call for different
+manipulations of the AChE transcript; for example in Alzheimer
+disease (Berson et al., 2008; Giacobini, 2003; Rees et al., 2003)
+or in a stress and anxiety state (Sklan et al., 2004), AChE activity
+should be limited whereas in organophosphate poisoning it
+should be enhanced (Evron et al., 2007; Wolfe et al., 1987).
+Inflammatory restriction via innervation is not limited to parasympathetic cholinergic signaling. Neuro-immune regulation is
+also exerted by sympathetic adrenergic, neuroendocrine hypothalamic-pituitary-adrenal (HPA), and hypothalamic-pituitarygonadal (HPG) pathways (Sternberg, 2006). Neuropeptides of
+the peripheral nervous system (PNS) also play a role in controlling immunity. For instance, pancreatic neurons control islet
+inflammation and insulin resistance by secreting substance P
+(Razavi et al., 2006). miR-132-mediated control of inflammation
+hence potentially represents a wider phenomenon.
+In conclusion, we define a unique evolutionarily conserved
+miRNA-gene target relationship, which regulates brain-body
+communication, cholinergic signaling, and inflammation and
+which may be relevant for numerous other processes. Additionally, we propose that proteins that are located at neuro-immune
+crossroads (like AChE) are likely to be regulated by miRNAs and
+thus provide new targets for research as well as for diagnostic
+and therapeutic intervention. The ‘‘micromanagement’’ of brainbody communication thus merits special attention.
+EXPERIMENTAL PROCEDURES
+In Vivo Methods
+Young (6- to 10-week-old) female FVB-N mice were injected i.v. with 3 daily 3.3
+mg doses of an oligonucleotide complementary to mature miR-132 (anti-132)
+or a scrambled sequence control oligonucleotide (scr) in PBS. The oligonucleotides (from Sigma-Proligo) had full-length phosphorothioate backbones and
+>50% LNA bases (Elmen et al., 2008), as indicated in Figure 2A. 24 hr after the
+
+970 Immunity 31, 965–973, December 18, 2009 ª2009 Elsevier Inc.
+
+last injection, the animals were sacrificed and blood and tissue samples were
+collected. Mice from the same batch were used for single i.p. injection with
+5 mg LPS in PBS or PBS alone; blood samples were collected after 2 hr and
+animals were sacrificed after 48 hr.
+Body temperatures were measured according to Habicht (1981) by rectal
+insertion of a thermocouple. To obtain a steady measurement, the probe
+had to be inserted exactly 1.5 cm. Mice were restrained in a plastic device,
+in full compliance with the guidelines of animal maintenance personnel. No
+anesthesia was used that could affect body temperature. The study was
+approved by The Hebrew University’s Ethics Committee for Animal Experimentation.
+Lentiviral Expression
+miRNA expression vectors containing either a pre-miR-132 overexpression
+cassette or a scrambled sequence for control were from GeneCopoeia
+(Germantown, MD). 0.7 mg of envelope plasmid, 1 mg of packaging plasmid,
+and 1 mg miR vector were added to 250 ml of serum-free DMEM medium supplemented with 1 mM glutamine and 50 mg/ml gentamycin. 10 ml of 1 mg/ml
+polyethylenimine (PEI, Sigma) was added and the mix was vortexed and incubated for 10 min at RT. HEK293T cells, grown to 90% confluence, were
+washed with PBS and 5 ml of serum-free medium was added. Cells were
+transduced with the PEI/plasmids mix. 4 hr later, 0.5 ml of fetal calf serum
+(FCS) was added. Medium with virions was collected after 24 and 48 hr, filtered
+through 0.22 mm-pore filters, and stored in aliquots at 70 C. Bone marrow
+(BM)-derived macrophages from FVB-N mice were infected with the various
+virions. Cells were harvested 72 hr after infection.
+Intestinal Explants Extraction
+FVB-N or TgR mice were injected i.p. with either 400 mg/kg nicotine (Sigma,
+Israel) or saline twice a day for 3 consecutive days. 24 hr after the last injection,
+mice were sacrificed, and a 20 cm section of the small intestine was dissected, washed in cold PBS, and cut into 2.5 cm explants that were cleaned
+by cotton swab and incubated for 24 hr in RPMI-1640 medium supplemented
+with 10% heat-inactivated fetal calf serum (FCS), 50 mM b-mercaptoethanol,
+1 mM glutamine, and 50 mg/ml gentamycin, to be extracted for further
+assessments.
+Prediction of miR Target Sites
+30 UTR sequences were retrieved from the Entrez Nucleotide database (http://
+www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Nucleotide). For each gene, the
+sequence from the end of the coding sequence (CDS) to the polyadenylation
+(PolyA) signal was used. The polyA signal was found through the Entrez Nucleotide database documentation or manually for sequences that were not documented. When more than one PolyA signal was found, each PolyA signal
+dictated a separate 30 UTR sequence to be retrieved. The 30 UTR sequences
+were reverse complemented to comply with the application of UTR-miRs
+binding prediction. Human and mouse AChE 30 UTR sequences were verified
+via the NCBI Expressed Sequence Tags database (dbEST) (Boguski et al.,
+1993). AChE and butyrylcholinesterase (BChE) were retrieved from the Entrez
+Nucleotide database or by matching mammalian cloned sequences to the
+human sequences through NCBI nucleotide-nucleotide BLAST (blastn). 470
+mature human miR sequences were retrieved from miRBase Sequences
+(Release 9.0) (Griffiths-Jones et al., 2006). For each miR sequence and for
+each 30 UTR reverse complement sequence, a fasta file was created in the
+UNIX environment. Each miR fasta file was aligned with each 30 UTR fasta
+sequence with a Perl script and the EMBOSS application ‘‘wordcount’’ that
+finds all exact matches of a given length between two sequences. Prediction
+was simplified to an exact seven word length complementarity of the 50 seed
+of the miRs, bases 1 to 7 or 2 to 8, with the 30 UTR of the target gene. All other
+seven word length matches were omitted from further considerations. miRNAs
+predicted to target the AChE and BChE mRNAs by our algorithm were scrutinized for evolutionary conservation of their putative binding sites on the
+30 UTR of AChE splice variants by alignment to the 30 UTR of AChE mRNA
+from four other mammals (Mus musculus, Pan troglodytes, Bos taurus, and
+Pongo pygmaeus). The longest possible 30 UTR of human AChE (3118 b from
+stop codon to end of GeneBank entry) includes 146 miR recognition elements
+(MRE), 15 of which were conserved in AChE from Mus musculus, Pan troglodytes, Rattus norvegicus, and Rhesus macaque. In comparison, only 24 miRs
+
+Immunity
+miR-132 Restricts Inflammation by Targeting AChE
+
+were predicted to bind the 30 UTR sequence of human BChE. Four of these were
+conserved in Mus musculus, Pan troglodytes, Bos taurus, and Pongo pygmaeus, none similar to the AChE-targeted miRs. For further analysis, we used
+a shorter (and prevalent) 964 b 30 UTR sequence. The analysis was repeated
+with PicTar (Krek et al., 2005) and miRanda (John et al., 2004) algorithms.
+Preparation of Primary Human Macrophages
+We used primary human macrophages because of our finding that human
+patients who were injected intravenously with LPS showed deregulated
+cholinergic status (Ofek et al., 2007). Pathogen-negative leukopacks (Buffy
+coat) (Davies and Gordon, 2005) obtained from the Blood Bank at the Hadassah Medical Center (Ein Kerem) were transferred into 50 ml conical tubes
+(10 ml/tube) and diluted 1:2 with Dulbecco’s phosphate-buffered saline
+(PBS, Biological Industries, Beit Haemek, Israel). The diluted blood was gently
+layered on top of 20 ml of lymphocyte separation medium (LSM) over Ficoll
+(MP Biomedicals, Solon, OH) without mixing the layers. After centrifugation
+(500 3 g, 30 min, 20 C, without brake), three layers were obtained (plasma
+and platelets, lymphocytes, erythrocytes and granulocytes). The upper phase
+was drawn with a Pasteur pipette until reaching 2 mm above the interphase
+cloud, and then 5 to 10 ml interphase lymphocytes were drawn gently with
+a 1 ml pipette, washed once with 45 ml PBS, and centrifuged (400 3 g, 10 min,
+room temp.). Pellets from all tubes were resuspended in a total of 40 ml PBS.
+An aliquot of cells was counted in a hemacytometer by using 0.5% Trypan Blue
+Solution (Biological Industries) to determine cell number and viability. Cells
+were then centrifuged (200 3 g, 5 min, room temp) and resuspended at
+a concentration of 5 3 106 cells/ml in RPMI-1640 (Sigma, St. Louis, MO) supplemented with 2.5% heat-inactivated (56 C, 30 min) human serum (Sigma).
+10 ml of cell suspension were plated in 75 ml flasks and incubated (2 hr,
+37 C, 5% CO2). Nonadherent cells were then removed and the adherent
+monocytes washed three times with warm PBS. Cells were incubated for
+2 hr in 10 ml per dish of RPMI-1640 supplemented with LPS-free 10% fetal
+bovine serum (FBS), 2 mM L-Glutamine and 0.5% penicillin plus streptomycin
+(GIBCO, Carlsbad, CA) and washed three times with warm PBS and 10 ml of
+complete RPMI supplemented with 10 U/ml granulocyte-monocyte colonystimulating factor (GM-CSF, Sigma, G5035) added every 2–3 days. By day
+7, monocytes were differentiated to macrophages. Escherichia coli LPS
+(Sigma) was added to the growth medium to a final concentration of 1 mg/ml,
+which was found optimal to induce innate immune reaction. For comparison,
+we added 1 mM of the TLR9 ligand CpG 2006 (type B; 50 -TCGTCGTTTTGT
+CGTTTTGTCGTT-30 ; Microsynth GmbH) for 24 hr. Cells were washed 2–3
+times with cold PBS, then incubated in 5 ml of cold filtered PBS + EDTA 2
+mM (pH 7.2) for 10–15 min on ice. Flasks were then tapped firmly to loosen
+cell attachment, and cells were gently scraped and collected by centrifugation
+(4 C, 800 rpm, 10 min). Immunostaining, cell sorting by fluorescent activated
+cell sorter, and quantitative RT-PCR were as detailed in Supplemental Data.
+Spotted Array
+The mirVana oligo set (Ambion, Austin, TX; Catalog number 1564V1) was used
+to construct our in-house array with >200 spotted probes complementary to
+known human and mouse miRs. To compose the array, the mirVana probeset
+was dissolved in 33SSC to a final concentration of 20 mM, and each oligo was
+printed on Ultragaps slides (Corning, Corning, NY) six or more times, via the
+MicroGrid spotter (Genomic Solutions, Holliston, MA). Dye-swapping tests
+served to exclude dye-specific labeling differences (Dombkowski et al.,
+2004). Labeling used the CyDye reactive dye pack (Amersham, NSW,
+Australia) as instructed. Prehybridization was in preheated 53SSC, 1%
+BSA, 0.1% SDS (42 C, 45 min). Cy3- and Cy5-labeled fragmented RNA
+(3 mg each) were added to the hybridization solution (33SSC, 0.1% SDS,
+10 mg polyA, 20 mg tRNA), heated at 95 C for 4 min for eliminating secondary
+structures, and applied to the slides in hybridization chambers (Corning, NY)
+for 15 hr at 64 C. Hybridized slides were successively washed in: 13SSC,
+0.1% SDS (5 min); 0.13SSC, 0.1% SDS (5 min); and 0.13SSC (3 3 1.5 min)
+and dried by centrifugation (1000 3 g). Scanning and quantification was
+adapted from Ben-Ari et al. (2006).
+
+fection of an AChE expression vector. All cells were grown in a humidified
+atmosphere at 37 C, 5% CO2. Human U937 cells were grown in 5 ml flasks
+in RPMI-1640 supplemented with 10% FCS and 2 mM L-glutamine. RAW
+264.7 and CHO cells were grown in 5 ml flasks in Dulbecco’s modified Eagle’s
+medium (DMEM, Biological Industries) supplemented with 10% fetal bovine
+serum (FBS) and 2 mM L-glutamine (Biological Industries). BW284c51 (BW;
+Sigma), a specific AChE inhibitor, was administered at a final concentration
+of 10 mM. Acetylcholine chloride (ACh; Sigma) was administered at a final
+concentration of 100 mM.
+Inflammatory Biomarker Measurements
+Griess method (Green et al., 1982) was used to determine NO levels in conditioned medium from macrophage cultures. 100 ml of each sample + 100 ml of
+Griess reagent (1% sulfanylamide/0.1% naphthylethylenediamine dihydrochloride/2.5% H3PO4) were incubated for 10–20 min at room temp. Absorbance was read at 546 nm in a micro-ELISA reader (Guimaraes-Sternberg
+et al., 2006). TNF-a, IL-6, IL-10, and IL-1b expression was measured by
+enzyme-linked immunosorbent assay (ELISA) according to manufacturer’s
+procedures (R&D Systems kits, MTA00, M6000B, respectively). All absorbance results were normalized via standard curves. Rectal temperatures
+were measured in 4 mice per group of 8-week-old FVB-N and strain-matched
+TgR mice after i.p. injection of 2 mg/kg LPS. Cholinesterase catalytic activity
+measurement was as in Ofek et al. (2007) via 5 3 105 M tetraisopropyl pyrophosphoramide (iso-OMPA, Sigma), a specific butyrylcholinesterase (BChE)
+inhibitor, to assay for AChE-specific or total cholinesterase activity. Each
+sample was assayed in n = 3 or more.
+Transfection
+The wild-type and mutated 30 UTR sequence of human AChE with appropriate
+restriction sites (Genscript, Piscataway, NJ) was ligated into the AChE expression vector CMV-AChE (Ben Aziz Aloya et al., 1993) via standard molecular
+cloning techniques. Transfection of RAW 264.7 and CHO cells was performed
+with Lipofectamine 2000 (Invitrogen, Carlsbad, CA) with 3 mg of oligo vector
+DNA per sample. In brief, cells were brought to 80%–90% confluence at the
+time of transfection. For each transfection sample, 3 mg oligo or plasmid and
+the lipofectamine reagent were both diluted in 0.25–1 ml of unsupplemented
+growth medium. After 5 min the diluted oligo and lipofectamine were combined,
+incubated for 20 min, and added to the cells. Medium was replaced at 6 hr and
+cells harvested 24 hr posttransfection. A GFP expression vector served as
+negative control for AChE activity and to assay transfection efficiency.
+Bone Marrow Culture
+Bone marrow cells were prepared from femurs and tibiae of 8- to 12-week-old
+female FVB/N wild-type or AChE-R overexpressing TgR mice as previously
+described (Lutz et al., 1999), with minor modifications. Surgically removed
+cleaned bones were left in 70% ethanol for 2–5 min for disinfection and
+washed with PBS, and the marrow was flushed with PBS in a syringe with
+a 0.45 mm diameter needle. Clusters within the marrow suspension were disintegrated by vigorous pipetting. After one wash in PBS, about 1–1.5 3 107
+leukocytes were obtained per femur or tibia. Cells were seeded in 25 ml flasks
+(Nunc TM) at 4 3 105 cells/ml with RPMI-1640 medium supplemented with
+10% heat-inactivated fetal calf serum (FCS), 50 mM b-mercaptoethanol, 1 mM
+glutamine, 50 mg/ml gentamycin, and 200 U/ml recombinant murine granulocyte macrophage-stimulating factor, rmGM-CSF (Sigma). Freshly prepared
+medium was added every 3 days and cells were used on day 11 of culture
+(maximum of CD11c expression as checked by FACS analysis).
+ACCESSION NUMBERS
+The microarray data are available in the Gene Expression Omnibus (GEO)
+database (http://www.ncbi.nlm.nih.gov/gds) under the accession numbers
+GSE19094.
+SUPPLEMENTAL DATA
+
+Cell Line Cultures
+Mouse RAW-264.7 and U937 cells provided macrophage-derived cell lines.
+CHO cells practically do not express AChE and thus were convenient for trans-
+
+Supplemental Data include Supplemental Results, Supplemental Experimental Procedures, three figures, and three tables and can be found
+
+Immunity 31, 965–973, December 18, 2009 ª2009 Elsevier Inc. 971
+
+Immunity
+miR-132 Restricts Inflammation by Targeting AChE
+
+with this article online at http://www.cell.com/immunity/supplemental/
+S1074-7613(09)00496-8.
+ACKNOWLEDGMENTS
+} ttingen for critical evaluation of
+The authors are grateful to F. Eckstein, Go
+this manuscript and to Eyal Soreq, Jerusalem, for the cover picture. This study
+was supported by European Communities’ Specific Targeted Research
+(LSHG-CT-2006-037277), the German Ministry of Science DIP-G 3.2, the
+US-Israel Binational Science Fund (2003028-01), and The Hebrew University
+of Jerusalem’s Johnson’s and Johnson Fund for Innovative Science. I.S.
+was the incumbent of postdoctoral fellowships from The Lady Davis and the
+Israel Psychobiology Foundations.
+Received: December 12, 2008
+Revised: June 18, 2009
+Accepted: September 24, 2009
+Published online: December 10, 2009
+REFERENCES
+Akira, S. (2006). TLR signaling. Curr. Top. Microbiol. Immunol. 311, 1–16.
+Altavilla, D., Guarini, S., Bitto, A., Mioni, C., Giuliani, D., Bigiani, A., Squadrito,
+G., Minutoli, L., Venuti, F.S., Messineo, F., et al. (2006). Activation of the cholinergic anti-inflammatory pathway reduces NF-kappab activation, blunts TNFalpha production, and protects againts splanchic artery occlusion shock.
+Shock 25, 500–506.
+
+Davies, J.Q., and Gordon, S. (2005). Isolation and culture of human macrophages. Methods Mol. Biol. 290, 105–116.
+de Jonge, W.J., van der Zanden, E.P., The, F.O., Bijlsma, M.F., van Westerloo,
+D.J., Bennink, R.J., Berthoud, H.R., Uematsu, S., Akira, S., van den Wigngaard, R.M., and Boeckxstaens, G.E. (2005). Stimulation of the vagus nerve
+attenuates macrophage activation by activating the Jak2-STAT3 signaling
+pathway. Nat. Immunol. 6, 844–851.
+De Kloet, E.R., Vreugdenhil, E., Oitzl, M.S., and Joels, M. (1998). Brain corticosteroid receptor balance in health and disease. Endocr. Rev. 19, 269–301.
+Dombkowski, A.A., Thibodeau, B.J., Starcevic, S.L., and Novak, R.F. (2004).
+Gene-specific dye bias in microarray reference designs. FEBS Lett. 560, 120–124.
+Dunlap, M.E., Bibevski, S., Rosenberry, T.L., and Ernsberger, P. (2003). Mechanisms of altered vagal control in heart failure: Influence of muscarinic receptors and acetylcholinesterase activity. Am. J. Physiol. Heart Circ. Physiol. 285,
+H1632–H1640.
+Elmen, J., Lindow, M., Schutz, S., Lawrence, M., Petri, A., Obad, S., Lindholm,
+M., Hedtjarn, M., Hansen, H.F., Berger, U., et al. (2008). LNA-mediated microRNA silencing in non-human primates. Nature 452, 896–899.
+Evron, T., Greenberg, D., Mor, T.S., and Soreq, H. (2007). Adaptive changes in
+acetylcholinesterase gene expression as mediators of recovery from chemical
+and biological insults. Toxicology 233, 97–107.
+Frith, M.C., Hansen, U., and Weng, Z. (2001). Detection of cis-element clusters
+in higher eukaryotic DNA. Bioinformatics 17, 878–889.
+Giacobini, E. (2003). Cholinergic function and Alzheimer’s disease. Int. J. Geriatr. Psychiatry 18, S1–S5.
+
+Baek, D., Villen, J., Shin, C., Camargo, F.D., Gygi, S.P., and Bartel, D.P. (2008).
+The impact of microRNAs on protein output. Nature 455, 64–71.
+
+Gilboa-Geffen, A., Lacoste, P.P., Soreq, L., Cizeron-Clairac, G., Le Panse, R.,
+Truffault, F., Shaked, I., Soreq, H., and Berrih-Aknin, S. (2007). The thymic
+theme of acetylcholinesterase splice variants in myasthenia gravis. Blood
+109, 4383–4391.
+
+Ben-Ari, S., Toiber, D., Sas, A.S., Soreq, H., and Ben-Shaul, Y. (2006). Modulated splicing-associated gene expression in P19 cells expressing distinct
+acetylcholinesterase splice variants. J. Neurochem. 97 (Suppl 1), 24–34.
+
+Green, L.C., Wagner, D.A., Glogowski, J., Skipper, P.L., Wishnok, J.S., and
+Tannenbaum, S.R. (1982). Analysis of nitrate, nitrite, and [15N]nitrate in biological fluids. Anal. Biochem. 126, 131–138.
+
+Ben Aziz Aloya, R., Seidman, S., Timberg, R., Sternfeld, M., Zakut, H., and
+Soreq, H. (1993). Expression of a human acetylcholinesterase promoterreporter construct in developing neuromuscular junctions of Xenopus
+embryos. Proc. Natl. Acad. Sci. USA 90, 2471–2475.
+
+Griffiths-Jones, S., Grocock, R.J., van Dongen, S., Bateman, A., and Enright,
+A.J. (2006). miRBase: microRNA sequences, targets and gene nomenclature.
+Nucleic Acids Res. 34, D140–D144.
+
+Ambros, V. (2004). The functions of animal microRNAs. Nature 431, 350–355.
+
+Berson, A., Knobloch, M., Hanan, M., Diamant, S., Sharoni, M., Schuppli, D.,
+Geyer, B.C., Ravid, R., Mor, T.S., Nitsch, R.M., and Soreq, H. (2008). Changes
+in readthrough acetylcholinesterase expression modulate amyloid-beta
+pathology. Brain 131, 109–119.
+
+Guimaraes-Sternberg, C., Meerson, A., Shaked, I., and Soreq, H. (2006).
+MicroRNA modulation of megakaryoblast fate involves cholinergic signaling.
+Leuk. Res. 30, 583–595.
+Habicht, G.S. (1981). Body temperature in normal and endotoxin-treated mice
+of different ages. Mech. Ageing Dev. 16, 97–104.
+
+Bitner, R.S., Bunnelle, W.H., Anderson, D.J., Briggs, C.A., Buccafusco, J.,
+Curzon, P., Decker, M.W., Frost, J.M., Gronlien, J.H., Gubbins, E., et al.
+(2007). Broad-spectrum efficacy across cognitive domains by alpha7 nicotinic
+acetylcholine receptor agonism correlates with activation of ERK1/2 and
+CREB phosphorylation pathways. J. Neurosci. 27, 10578–10587.
+
+Hartmann, G., Weiner, G.J., and Krieg, A.M. (1999). CpG DNA: A potent signal
+for growth, activation, and maturation of human dendritic cells. Proc. Natl.
+Acad. Sci. USA 96, 9305–9310.
+
+Blatteis, C.M. (2007). The onset of fever: New insights into its mechanism.
+Prog. Brain Res. 162, 3–14.
+Boguski, M.S., Lowe, T.M.J., and Tolstoshev, C.M. (1993). dbEST—database
+for [ldquo]expressed sequence tags. Nat. Genet. 4, 332–333.
+
+Kang, Y.J., Kim, S.O., Shimada, S., Otsuka, M., Seit-Nebi, A., Kwon, B.S.,
+Watts, T.H., and Han, J. (2007). Cell surface 4-1BBL mediates sequential
+signaling pathways ‘downstream’ of TLR and is required for sustained TNF
+production in macrophages. Nat. Immunol. 8, 601–609.
+
+Care, A., Catalucci, D., Felicetti, F., Bonci, D., Addario, A., Gallo, P., Bang,
+M.L., Segnalini, P., Gu, Y., Dalton, N.D., et al. (2007). MicroRNA-133 controls
+cardiac hypertrophy. Nat. Med. 13, 613–618.
+
+Kaufer, D., Friedman, A., Seidman, S., and Soreq, H. (1998). Acute stress
+facilitates long-lasting changes in cholinergic gene expression. Nature 393,
+373–377.
+
+Ceppi, M., Pereira, P.M., Dunand-Sauthier, I., Barras, E., Reith, W., Santos,
+M.A., and Pierre, P. (2009). MicroRNA-155 modulates the interleukin-1
+signaling pathway in activated human monocyte-derived dendritic cells.
+Proc. Natl. Acad. Sci. USA 106, 2735–2740.
+
+Krek, A., Grun, D., Poy, M.N., Wolf, R., Rosenberg, L., Epstein, E.J., MacMenamin, P., da Piedade, I., Gunsalus, K.C., Stoffel, M., and Rajewsky, N. (2005).
+Combinatorial microRNA target predictions. Nat. Genet. 37, 495–500.
+
+Cheng, H.Y., Papp, J.W., Varlamova, O., Dziema, H., Russell, B., Curfman,
+J.P., Nakazawa, T., Shimizu, K., Okamura, H., Impey, S., and Obrietan, K.
+(2007). microRNA modulation of circadian-clock period and entrainment.
+Neuron 54, 813–829.
+Conaco, C., Otto, S., Han, J.J., and Mandel, G. (2006). Reciprocal actions of
+REST and a microRNA promote neuronal identity. Proc. Natl. Acad. Sci.
+USA 103, 2422–2427.
+
+972 Immunity 31, 965–973, December 18, 2009 ª2009 Elsevier Inc.
+
+John, B., Enright, A.J., Aravin, A., Tuschl, T., Sander, C., and Marks, D.S.
+(2004). Human MicroRNA targets. PLoS Biol. 2, e363.
+
+Krutzfeldt, J., Rajewsky, N., Braich, R., Rajeev, K.G., Tuschl, T., Manoharan,
+M., and Stoffel, M. (2005). Silencing of microRNAs in vivo with ‘antagomirs’.
+Nature 438, 685–689.
+Landgraf, P., Rusu, M., Sheridan, R., Sewer, A., Iovino, N., Aravin, A., Pfeffer, S.,
+Rice, A., Kamphorst, A.O., Landthaler, M., et al. (2007). A mammalian microRNA
+expression atlas based on small RNA library sequencing. Cell 129, 1401–1414.
+Liang, Y., Ridzon, D., Wong, L., and Chen, C. (2007). Characterization of microRNA expression profiles in normal human tissues. BMC Genomics 8, 166.
+
+Immunity
+miR-132 Restricts Inflammation by Targeting AChE
+
+Lim, L.P., Glasner, M.E., Yekta, S., Burge, C.B., and Bartel, D.P. (2003). Vertebrate microRNA genes. Science 299, 1540.
+Lutz, M.B., Kukutsch, N., Ogilvie, A.L., Rossner, S., Koch, F., Romani, N., and
+Schuler, G. (1999). An advanced culture method for generating large quantities
+of highly pure dendritic cells from mouse bone marrow. J. Immunol. Methods
+223, 77–92.
+Martin, M.M., Lee, E.J., Buckenberger, J.A., Schmittgen, T.D., and Elton, T.S.
+(2006). MicroRNA-155 regulates human angiotensin II type 1 receptor expression in fibroblasts. J. Biol. Chem. 281, 18277–18284.
+McEwen, B.S. (2007). Physiology and neurobiology of stress and adaptation:
+Central role of the brain. Physiol. Rev. 87, 873–904.
+Meshorer, E., and Soreq, H. (2002). Pre-mRNA splicing modulations in senescence. Aging Cell 1, 6–10.
+Meshorer, E., Erb, C., Gazit, R., Pavlovsky, L., Kaufer, D., Friedman, A., Glick,
+D., Ben-Arie, N., and Soreq, H. (2002). Alternative splicing and neuritic
+mRNA translocation under long-term neuronal hypersensitivity. Science 295,
+508–512.
+
+Sklan, E.H., Lowenthal, A., Korner, M., Ritov, Y., Landers, D.M., Rankinen, T.,
+Bouchard, C., Leon, A.S., Rice, T., Rao, D.C., et al. (2004). Acetylcholinesterase/paraoxonase genotype and expression predict anxiety scores in
+Health, Risk Factors, Exercise Training, and Genetics study. Proc. Natl.
+Acad. Sci. USA 101, 5512–5517.
+Soreq, H., and Seidman, S. (2001). Acetylcholinesterase—new roles for an old
+actor. Nat. Rev. Neurosci. 2, 294–302.
+Splawinski, J.A., Zacny, E., and Gorka, Z. (1977). Fever in rats after intravenous
+E. coli endotoxin administration. Pflugers Arch. 368, 125–128.
+Sternberg, E.M. (2006). Neural regulation of innate immunity: A coordinated
+nonspecific host response to pathogens. Nat. Rev. Immunol. 6, 318–328.
+Sternfeld, M., Shoham, S., Klein, O., Flores-Flores, C., Evron, T., Idelson, G.H.,
+Kitsberg, D., Patrick, J.W., and Soreq, H. (2000). Excess ‘‘readthrough’’ acetylcholinesterase attenuates but the ‘‘synaptic’’ variant intensifies neurodeterioration correlates. Proc. Natl. Acad. Sci. USA 97, 8647–8652.
+
+Metz, C.N., and Tracey, K.J. (2005). It takes nerve to dampen inflammation.
+Nat. Immunol. 6, 756–757.
+
+Su, X., Lee, J.W., Matthay, Z.A., Mednick, G., Uchida, T., Fang, X., Gupta, N.,
+and Matthay, M.A. (2007). Activation of the alpha7 nAChR reduces acidinduced acute lung injury in mice and rats. Am. J. Respir. Cell Mol. Biol. 37,
+186–192.
+
+Ofek, K., Krabbe, K.S., Evron, T., Debecco, M., Nielsen, A.R., Brunnsgaad, H.,
+Yirmiya, R., Soreq, H., and Pedersen, B.K. (2007). Cholinergic status modulations in human volunteers under acute inflammation. J. Mol. Med. 85,
+1239–1251.
+
+Taganov, K.D., Boldin, M.P., Chang, K.J., and Baltimore, D. (2006). NF-kappaB-dependent induction of microRNA miR-146, an inhibitor targeted to
+signaling proteins of innate immune responses. Proc. Natl. Acad. Sci. USA
+103, 12481–12486.
+
+Pavlov, V.A., Ochani, M., Yang, L.H., Gallowitsch-Puerta, M., Ochani, K., Lin,
+X., Levi, J., Parrish, W.R., Rosas-Ballina, M., Czura, C.J., et al. (2007). Selective
+alpha7-nicotinic acetylcholine receptor agonist GTS-21 improves survival in
+murine endotoxemia and severe sepsis. Crit. Care Med. 35, 1139–1144.
+
+Thai, T.-H., Calado, D.P., Casola, S., Ansel, K.M., Xiao, C., Xue, Y., Murphy, A.,
+Frendewey, D., Valenzuela, D., Kutok, J.L., et al. (2007). Regulation of the
+germinal center response by microRNA-155. Science 316, 604–608.
+
+Pavlov, V.A., Parrish, W.R., Rosas-Ballina, M., Ochani, M., Puerta, M., Ochani,
+K., Chavan, S., Al-Abed, Y., and Tracey, K.J. (2009). Brain acetylcholinesterase activity controls systemic cytokine levels through the cholinergic antiinflammatory pathway. Brain Behav. Immun. 23, 41–45.
+Pedersen, I.M., Cheng, G., Wieland, S., Volinia, S., Croce, C.M., Chisari, F.V.,
+and David, M. (2007). Interferon modulation of cellular microRNAs as an antiviral mechanism. Nature 449, 919–922.
+Pick, M., Perry, C., Lapidot, T., Guimaraes-Sternberg, C., Naparstek, E.,
+Deutsch, V., and Soreq, H. (2006). Stress-induced cholinergic signaling
+promotes inflammation-associated thrombopoiesis. Blood 107, 3397–3406.
+Plasterk, R.H. (2006). Micro RNAs in animal development. Cell 124, 877–881.
+Pollak, Y., Gilboa, A., Ben-Menachem, O., Ben-Hur, T., Soreq, H., and Yirmiya,
+R. (2005). Acetylcholinesterase inhibitors reduce brain and blood interleukin1beta production. Ann. Neurol. 57, 741–745.
+Pullan, R.D., Rhodes, J., Ganesh, S., Mani, V., Morris, J.S., Williams, G.T.,
+Newcombe, R.G., Russell, M.A., Feyerabend, C., Thomas, G.A., et al.
+(1994). Transdermal nicotine for active ulcerative colitis. N. Engl. J. Med.
+330, 811–815.
+Razavi, R., Chan, Y., Afifiyan, F.N., Liu, X.J., Wan, X., Yantha, J., Tsui, H., Tang,
+L., Tsai, S., Santamaria, P., et al. (2006). TRPV1+ sensory neurons control
+beta cell stress and islet inflammation in autoimmune diabetes. Cell 127,
+1123–1135.
+Rees, T., Hammond, P.I., Soreq, H., Younkin, S., and Brimijoin, S. (2003).
+Acetylcholinesterase promotes beta-amyloid plaques in cerebral cortex.
+Neurobiol. Aging 24, 777–787.
+Rodriguez, A., Vigorito, E., Clare, S., Warren, M.V., Couttet, P., Soond, D.R.,
+van Dongen, S., Grocock, R.J., Das, P.P., Miska, E.A., et al. (2007). Requirement of bic/microRNA-155 for normal immune function. Science 316,
+608–611.
+Rosas-Ballina, M., Ochani, M., Parrish, W.R., Ochani, K., Harris, Y.T., Huston,
+J.M., Chavan, S., and Tracey, K.J. (2008). Splenic nerve is required for cholinergic antiinflammatory pathway control of TNF in endotoxemia. Proc. Natl.
+Acad. Sci. USA 105, 11008–11013.
+Schiebeler, H., and von Mayersbach, H. (1974). Circadian variations of acetylcholine esterase (E.C.3.1.1.7) in rat brains. Int. J. Chronobiol. 2, 281–289.
+Shaulian, E., and Karin, M. (2002). AP-1 as a regulator of cell life and death.
+Nat. Cell Biol. 4, E131–E136.
+
+Thum, T., Galuppo, P., Wolf, C., Fiedler, J., Kneitz, S., van Laake, L.W.,
+Doevendans, P.A., Mummery, C.L., Borlak, J., Haverich, A., et al. (2007).
+MicroRNAs in the human heart: A clue to fetal gene reprogramming in heart
+failure. Circulation 116, 258–267.
+Tili, E., Michaille, J.J., Cimino, A., Costinean, S., Dumitru, C.D., Adair, B.,
+Fabbri, M., Alder, H., Liu, C.G., Calin, G.A., and Croce, C.M. (2007). Modulation
+of miR-155 and miR-125b levels following lipopolysaccharide/TNF-alpha stimulation and their possible roles in regulating the response to endotoxin shock.
+J. Immunol. 179, 5082–5089.
+Tracey, K.J. (2007). Physiology and immunology of the cholinergic antiinflammatory pathway. J. Clin. Invest. 117, 289–296.
+van Westerloo, D.J., Giebelen, I.A., Florquin, S., Daalhuisen, J., Bruno, M.J., de
+Vos, A.F., Tracey, K.J., and van der Poll, T. (2005). The cholinergic anti-inflammatory pathway regulates the host response during septic peritonitis. J. Infect.
+Dis. 191, 2138–2148.
+van Westerloo, D.J., Giebelen, I.A., Florquin, S., Bruno, M.J., Larosa, G.J.,
+Ulloa, L., Tracey, K.J., and van der Poll, T. (2006). The vagus nerve and nicotinic receptors modulate experimental pancreatitis severity in mice. Gastroenterology 130, 1822–1830.
+Vo, N., Klein, M.E., Varlamova, O., Keller, D.M., Yamamoto, T., Goodman,
+R.H., and Impey, S. (2005). A cAMP-response element binding proteininduced microRNA regulates neuronal morphogenesis. Proc. Natl. Acad.
+Sci. USA 102, 16426–16431.
+Voorhoeve, P.M., le Sage, C., Schrier, M., Gillis, A.J., Stoop, H., Nagel, R., Liu,
+Y.P., van Duijse, J., Drost, J., Griekspoor, A., et al. (2006). A genetic screen
+implicates miRNA-372 and miRNA-373 as oncogenes in testicular germ cell
+tumors. Cell 124, 1169–1181.
+Wang, H., Liao, H., Ochani, M., Justiniani, M., Lin, X., Yang, L., Al-Abed, Y.,
+Wang, H., Metz, C., Miller, E.J., et al. (2004). Cholinergic agonists inhibit
+HMGB1 release and improve survival in experimental sepsis. Nat. Med. 10,
+1216–1221.
+Watkins, L.R., and Maier, S.F. (1999). Implications of immune-to-brain
+communication for sickness and pain. Proc. Natl. Acad. Sci. USA 96,
+7710–7713.
+Wolfe, A.D., Rush, R.S., Doctor, B.P., Koplovitz, I., and Jones, D. (1987).
+Acetylcholinesterase prophylaxis against organophosphate toxicity. Fundam.
+Appl. Toxicol. 9, 266–270.
+
+Immunity 31, 965–973, December 18, 2009 ª2009 Elsevier Inc. 973
+
+

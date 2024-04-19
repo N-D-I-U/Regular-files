@@ -1,0 +1,1153 @@
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+Review
+
+MicroRNAs in learning, memory,
+and neurological diseases
+Wenyuan Wang,1,2,3 Ester J. Kwon,1,2,3 and Li-Huei Tsai1,2,3,4,5
+1
+
+Picower Institute for Learning and Memory, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA;
+Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA;
+3
+Howard Hughes Medical Institute, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA; 4Stanley
+Center for Psychiatric Research, Broad Institute, Cambridge, Massachusetts 02139, USA
+2
+
+MicroRNAs (miRNAs) represent a class of small regulatory noncoding RNAs 22 bp in length that mediate post-transcriptional silencing of gene expression via the recognition of specific sequences in target messenger (m)RNAs. The current body
+of literature suggests that miRNAs are fine-tuning regulators of gene expression profiles in a wide range of biological processes, from development to cancer. Many miRNAs are highly expressed in the adult nervous system in a spatially and temporally controlled manner in normal physiology, as well as in certain pathological conditions. These findings emphasize that
+gene regulation networks based on miRNA activities may be particularly important to brain function, and that perturbation of these networks may result in abnormal brain function. Indeed, miRNAs have been implicated in various aspects of
+dendrite remodeling and synaptic plasticity, as well as in experience-dependent adaptive changes of neural circuits in the
+postnatal developmental and adult brain. Recent advances in methods of next-generation sequencing, such as RNA-seq,
+offer the means to quantitatively evaluate the functions of miRNAs in a genome-wide manner in large cohorts of
+samples. These new technologies have already yielded valuable information and are expanding our understanding of
+miRNA-based mechanisms in higher-order brain processing, including learning and memory and cognition, as well as in
+neuropsychiatric disorders.
+[Supplemental material is available for this article.]
+
+Long-term memory (LTM) is established via the stable modification of neural circuits, which includes alterations in the patterning and strength of synaptic connections and the integration and
+maintenance of new synapses in existing circuits. These enduring
+modifications require the synthesis of proteins (Martin et al.
+2000; Kandel 2001; Lynch 2004). Remarkable progress has been
+made in understanding the cellular and molecular mechanisms
+that underlie this process in the past decade; several cell-signaling
+cascades and proteins have emerged as key regulators of learning
+and memory, such as cAMP/PKA, ERK/MAPK, mTOR signaling
+pathway, NMDA/AMPA receptor signaling, CaMKII, and cAMPresponse element binding protein (CREB) (Lynch 2004). In a
+sense, the most critical signaling pathway for the regulation of
+long-lasting memory formation is that containing CREB and its
+downstream targets (Silva et al. 1998; Barco et al. 2003). For this
+reason, CREB is often referred to as “the master of memory
+genes.” Although the majority of protein synthesis occurs at the
+cell body in neurons, local protein translation can occur at the
+synapse. A subset of mRNAs, presumably in a dormant state,
+can be transported to synapses by RNA-binding protein complexes and subjected to “on-demand” translation in response to synaptic activity, contributing to alterations in synaptic number and
+strength (Sutton and Schuman 2006). This is intriguing because
+this spatially restricted form of translation enables proteins to
+be synthesized and possibly retained specifically at synapses, depending upon the form of stimulation.
+
+During development, miRNAs have been shown to function
+as master regulators that fine-tune the expression of proteins involved in the proliferation, differentiation, cell cycling, and apoptosis of stem cells. For this role, the expression of miRNAs must
+be precisely orchestrated, and dysregulated miRNA profiles are often associated with diseases such as cancer (Esteller 2011). The
+study of miRNA in the brain has also centered upon neural development, and it is now clear that miRNAs play a pivotal role in nervous
+system developmental phenomena such as neural patterning,
+the establishment and maintenance of cell identity, as well as adult
+neurogenesis (Coolen and Bally-Cuif 2009; Schratt 2009; Sayed
+and Abdellatif 2011). More recently, miRNA function in the adult
+nervous system has been revealed to be involved in neuronal
+plasticity, including the regulation of synaptic protein synthesis,
+dendritic spine morphogenesis, and plasticity-related diseases.
+Evidence for miRNA involvement in physiological higher-order
+brain functions such as learning, memory, emotions, and mental
+illness is also emerging (Forero et al. 2010; Bredy et al. 2011; Salta
+and De Strooper 2012).
+Two parallel approaches have been undertaken to investigate
+miRNA function in the nervous system. One involves the disruption of miRNA biogenesis pathways, which affects the expression
+of all miRNAs, and the second utilizes the silencing of single
+miRNAs in specific brain regions or cell-types. It is worth noting
+that proteins involved in miRNAs biogenesis have pleiotropic
+functions, making it difficult to interpret the results of genetic approaches. Also, dependent on the material or model used, there
+may be different results. Nevertheless, both approaches have
+yielded valuable information toward our understanding of
+miRNA function in physiological and pathological conditions.
+In addition, the advent of widely available deep-sequencing
+
+5
+
+Corresponding author
+E-mail lhtsai@mit.edu
+Article is online at http://www.learnmem.org/cgi/doi/10.1101/lm.026492.112.
+
+19:359 –368 # 2012 Cold Spring Harbor Laboratory Press
+ISSN 1549-5485/12; www.learnmem.org
+
+359
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning and memory
+
+DGCR8
+
+MeCP2
+
+Ran-GTP
+
+Drosha
+
+CREB
+
+Pol II
+
+Pri-miRNA
+
+Exp5
+
+Pre-miRNA
+Dicer
+TARBP
+
+miRNA
+
+nucleus
+RISC
+
+RISC
+target mRNA
+
+Plasticity
+signaling pathways
+
+Downregulation of
+protein expression
+
+Local downregulation
+of protein expression
+Dicer
+RISC
+
+Synaptic
+activity
+
+Figure 1. Biogenesis of miRNAs. In the nucleus, precursor pri-miRNA is typically transcribed by PolII into long hairpin structures. Pri-miRNA is subsequently cleaved by the microprocessor complex, which includes DCGR8 and Drosha, into pre-miRNA. Pre-miRNA is then exported out of the nucleus by
+Exp5 and Ran-GTP. Pre-miRNA can then be further cleaved into a RNA duplex by Dicer/TARBP, whereby they mediate down-regulation of protein expression via RISC. There is evidence that pre-mRNA can also be transported to synapses, where they can mediate local down-regulation of protein expression.
+There are examples that there are regulatory feedback loops in which genes regulated by miRNA can act on pathways that lead to activation of epigenetic
+factors, e.g., CREB and MeCP2, which regulate miRNA transcription in the nucleus. These epigenetic regulation pathways can also be stimulated by synaptic activity.
+
+technology, such as RNA-Seq, makes it feasible to sequence the
+transcriptome of patient cohorts in order to identify important
+roles for miRNA in neuropsychiatric diseases such as schizophrenia and autism (Jacquier 2009; Wang et al. 2009).
+The translational control of protein synthesis plays a crucial
+role in regulating the individual behaviors of the thousands of
+synapses located on the dendritic tree. The ability of miRNAs to
+fine-tune protein expression seems well suited for the regulation
+of synaptic plasticity, learning, and memory (Kandel 2009). In
+the following sections, we discuss the known functions of
+miRNAs in regulating learning and memory, and speculate about
+questions which future research might address.
+
+mechanisms and that Pol II-associated transcription factors may
+also be involved in transcriptional control of miRNA expression.
+
+Nuclear processing
+Following transcription, the pri-miRNA is then cleaved by the microprocessor complex, a large protein complex that includes the
+nuclear RNase III Drosha and its cofactor DiGeorge syndrome critical region gene 8 (DGCR8). The product of this process is a 70
+nucleotide (nt) precursor miRNA (pre-miRNA). The pre-miRNA
+forms a “mini helix motif” secondary structure that consists of a
+short stem loop and a 2– 3-nt overhang. The pre-miRNA can be
+recognized and transported out of the nucleus by interacting
+with Exportin 5 and Ran-GTP (Bartel 2004; Kim et al. 2009).
+
+MicroRNA biogenesis and expression
+in the adult nervous system
+
+Cytoplasmic processing
+
+miRNA biogenesis
+
+Following transport into the cytoplasm, pre-miRNA is further processed by the cytoplasmic RNase III enzyme, Dicer, into a mature
+21– 25-nt miRNA duplex. Dicer is a highly conserved protein that
+is widely expressed in most tissues and cell types, and is usually associated with a double-stranded RNA-binding protein (dsRBD)containing partner such as the TAR RNA-binding protein (TRBP)
+in humans (Chendrimada et al. 2005). One strand of the
+pre-miRNA, the passenger strand, is degraded, while the other,
+the guide strand, is assembled into the Argonaut protein complex
+to generate the RNA-induced silencing complex (RISC). The RISC
+then guides the binding of the mature miRNA to the 3′
+
+Transcription
+A schematic of miRNA biogenesis is shown in Figure 1. The majority of microRNA genes are transcribed by RNA polymerase II (Pol II),
+with a few exceptions being transcribed by RNA polymerase III. The
+product of miRNA gene transcription is the primary miRNA
+(pri-miRNA). Promoter analysis of miRNA genes reveals that a significant number of miRNA promoter sequences contain Pol II elements such as TATA boxes (Kim and Nam 2006), suggesting that
+miRNA and protein-coding mRNA transcription share similar
+www.learnmem.org
+
+360
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning and memory
+
+untranslated region (3′ UTR) of target messenger RNAs (mRNAs)
+based on complementarity, resulting in either translational repression or mRNA degradation via the RISC machinery. The recognition of target mRNA by the RISC/miRNA complex generally
+relies on a seed region spanning nucleotides 2– 8 at the 5′ end of
+the miRNA, although atypical and marginal sites have also been
+described (Bartel 2009). This limited sequence complementarity
+between a miRNA and its target mRNAs allows a single miRNA
+to regulate the expression of many different mRNAs (Brodersen
+and Voinnet 2009). For a more detailed discussion of miRNA biosynthesis, target verification, and action mechanism, there are a
+number of excellent reviews (Bartel 2004, 2009; Kim et al. 2009;
+Krol et al. 2010b).
+
+expressed throughout tissues analyzed, whereas mature miR-318
+is spatially restricted to distinct cell types and central nervous system regions (Obernosterer et al. 2006).
+Another intriguing observation is that miRNA precursors are
+also detected in synaptic fractions at levels comparable to whole
+tissue, whereas mature miRNAs are predominantly associated
+with soluble components of the synaptic fractions, implying a local processing of miRNA precursors (Lugli et al. 2008). Related to
+this, proteins important for miRNA processing and function, including Dicer, eIF2C (Lugli et al. 2005), Fragile X Mental
+Retardation protein (FMRP) (Feng et al. 1997; Dictenberg et al.
+2008), Armitage of the RISC complex in Drosophila, and its mammalian homolog MOV10, are all presented at dendrites (Ashraf
+et al. 2006; Banerjee et al. 2009). However, so far it remains unclear how they are transported ultimately to dendrites and how
+their activities are regulated.
+
+microRNA expression in the adult nervous system
+The human nervous system is anatomically and functionally sophisticated, exemplified by the extraordinary diversity of neural
+cell types that are connected in precise circuitries to orchestrate
+specific behavioral repertoires. Additional complexity comes
+from the intricate morphological specializations of axons, dendrites, and synapses in individual neurons. This complexity is likely generated by temporal and spatial regulation of gene expression
+profiles throughout the development of the nervous system. In
+the adult brain, gene expression is under constant control, not
+only in each specific brain region and cell type, but also in conditions such as in rest or active states, or upon external stimulation.
+In conjunction with histone modification and DNA methylation,
+miRNAs control gene expression in an epigenetic manner, in
+which protein expression is regulated post-transcriptionally. The
+majority of miRNAs display tissue-specific expression (Bartel
+2004; Landgraf et al. 2007), with over half of currently identified
+miRNA expressed or enriched in the brain (Kosik and Krichevsky
+2005). A subset of brain miRNAs also exhibits temporally regulated
+expression patterns (Kim et al. 2004; Sempere et al. 2004; Landgraf
+et al. 2007).
+miRNAs may play an important role in mnemonic neural circuitry by functioning in various brain regions and cell types. A survey of miRNA expression profiles in the adult brain revealed that a
+number of miRNAs are expressed specifically in the hippocampus
+and cortex, suggesting that they might be particularly engaged in
+the regulatory network involved in synaptic plasticity and memory formation (Bak et al. 2008). Efforts to identify miRNAs that localize to subcellular compartments in the neuron have also
+yielded interesting results. Using laser capture dissection and multiplex RT–PCR, Kye et al. (2007) reported that miR-26a is highly
+enriched in dendrites compared to the soma (Kye et al. 2007).
+Further investigation into miRNAs enriched in synaptic fractions
+revealed that, while the majority of miRNAs known to be expressed in the brain are detectable in synaptic fractions, a subset
+of miRNAs is significantly enriched in synaptic fractions compared
+to total forebrain expression levels. Some examples of synaptically
+enriched miRNAs include miR-200c, miR-339, and miR-322, as
+well as miR-318, miR-29a, miR-7, and miR-137 (Lugli et al. 2008;
+Siegel et al. 2009). A number of miRNAs enriched in distal axons
+of sympatheic neurons were also identified, including miR-15bm
+miR-16, miR204, and miR-221 (Natera-Naranjo et al. 2010).
+Furthermore, a recent study systematically analyzed miRNA expression profiles in several neuronal cell-types using a combination of miRNA tagging and affinity-purification (miRAP) with
+cell type-specific genetic manipulations. The investigators revealed that glutamatergic and GABAergic neurons, and even subtypes of GABAergic neurons, have distinct miRNAs expression
+profiles, highlighting that miRNA expression is differentially regulated in distinct types of neurons (He et al. 2012). This concept is
+supported by an observation that pre-miR-138-2 is ubiquitously
+www.learnmem.org
+
+Activity-dependent regulation of miRNA
+expression in the adult brain
+While miRNAs control the translation of their target mRNAs, they
+themselves are under tight regulation, most likely via the same
+mechanisms that control mRNA transcription, splicing, and editing. Activity-dependent regulation of gene expression is crucial
+for synaptic plasticity and memory formation, and this is true for
+many miRNAs as well. A recent study showed that miR-132 expression is rapidly increased following potassium chloride (KCl)- and
+bicuculline-mediated neuronal activation (Wayman et al. 2008).
+This increase was attenuated by inhibition of the CREB signaling
+pathway, suggesting that neuronal activity-dependent regulation
+of miR-132 expression occurs via CREB-dependent mechanisms.
+miR-212, which resides in the same gene locus as miR-132, is likely
+also to be under the control of CREB (Wayman et al. 2008;
+Nudelman et al. 2010). Thus, similar to many learning and memory genes, miRNAs can be regulated in a neuronal activitydependent manner (Silva et al. 1998). Furthermore, a recent study
+demonstrated that miR-125a levels were reduced in synaptoneurosomes upon (S)-3,5-dihydroxyphenylglycine (DHPG; an mGluR1/
+5 agonist) treatment, suggesting that activity may affect the turnover ratio of miRNAs (Muddashetty et al. 2011). Krol et al.
+(2010a) demonstrated that miRNAs in neurons decay much faster
+than in non-neuronal cells, and there was activity-dependent
+changes in the turnover rate. These studies indicate that neuronal
+activity is one mechanism for higher metabolism of miRNAs in
+neurons.
+A unique feature of miRNA transcription is that miRNAs
+clustered together in the genome may be transcribed together
+as a single pri-miRNA, which is then processed into individual
+mature miRNAs. This makes the examination of miRNA expression relatively complicated. A survey of the potential mechanisms responsible for the regulation of the miR-3792410
+cluster demonstrated that this entire cluster is regulated at the
+transcriptional level by neuronal activity in a Mef2-dependent
+manner, and that at least three members of this cluster,
+miR-134, miR-329, and miR-381, are necessary for the activityinduced elaboration of dendritic spines (Fiore et al. 2009). It is
+important to note that although these results suggest that all
+members of this cluster are affected by KCl and BDNF treatment,
+individual miRNAs may have different activities depending on
+the availably of their targets or the half-life of individual
+miRNA, and therefore not all miRNAs in the cluster are necessarily involved in dendrite outgrowth, such as miR-495 and
+miR-541; these miRNAs may instead be involved in other aspects
+of activity-dependent remodeling of synaptic plasticity. Another
+example of post-transcriptional regulation of miRNA expression
+comes from the study of miR-376 cluster; certain isoforms of
+361
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning and memory
+
+Somatic transcriptional control of synapse formation
+and maturation in the adult brain
+
+miR-376 undergo adenosine-to-inosine editing, which occurs
+only in specific brain regions (Kawahara et al. 2007). One speculation is that these post-transcriptional modifications may be regulated in an activity-dependent manner as well.
+
+The formation of new memories requires not just local protein
+translation, but also depends upon the de novo transcription of
+specific mRNAs. Studies done on the sea slug Aplysia and mice suggested that CREB-dependent gene expression is an important and
+conserved mechanism in the consolidation of LTM. Activation of
+CREB by extracellular stimuli, such as behavioral experiences,
+leads to the expression of proteins that stabilize the structural
+and functional changes in synapses necessary for encoding specific memory traces. As such, CREB has been considered as the most
+critical transcription factor in memory formation (Silva et al.
+1998; Lynch 2004; Kandel 2009).
+Given the importance of CREB for memory formation, it is of
+particular interest to know that CREB expression is also under the
+control of miRNAs. miRNA-134 was shown to localize to both the
+soma and dendrites of primary cultured neurons and to regulate
+dendritic spine development by targeting LimK1 mRNA, which
+can be suppressed by BDNF (Schratt et al. 2006). A recent study
+showed that miR-134 is involved in modulating LTM via the regulation of CREB mRNA, which subsequently affects BDNF expression. In addition, the investigators also demonstrated that
+miR-134 expression was up-regulated in mice expressing an inactive form of Sirtuin 1, suggesting the tightly controlled miRNA expression might be epigenetically regulated (Gao et al. 2010). In
+summary, miR-134 mediates decreased CREB-mediated BDNF expression by targeting CREB mRNA and therefore impacts learning
+and memory by “regulating the regulator”.
+miR-124 is extensively involved in the silencing of nonneuronal genes during brain development, and is therefore seen
+as an important factor for preserving neuronal identity. In a study
+by the Kandel group, the investigators expanded the known functions of miR-124 to include the regulation of learning and memory
+in the adult brain. Using massive parallel sequencing, investigators
+identified 170 distinct miRNAs in Aplysia, nine of which are enriched in the brain. Furthermore, they found that miR-124 is exclusively enriched in sensory neurons of Aplysia, both in the cell body
+and processes. Functionally, miR-124 constrains serotonin-induced synaptic plasticity via regulation of CREB (Rajasethupathy
+et al. 2009). Stimulation of neuronal activity by serotonin, which
+has been shown to be critical for the formation of memory in
+Aplysia, leads to a robust decrease in mature miR-124, but not
+pre-miR-124 expression, and this reduction is mediated by MAPK
+signaling. Importantly, the investigators demonstrated that the increased level of miR-124 impairs, whereas reducing the level of
+miR-124 enhances serotonin-induced long-term facilitation
+(LTF). This effect was mediated by the transcriptional regulation
+of CREB and CREB-mediated signaling pathways, which results
+in an enhancement in serotonin-induced synaptic plasticity.
+This study elegantly provides a functional link between miR-124
+activity and expression of its target gene, CREB (Rajasethupathy
+et al. 2009).
+In addition to being a miRNA target, CREB also regulates
+miRNA transcription, as discussed previously. In another example
+of miRNA playing a role in negative feedback regulation, it was
+shown that miR-132 and MeCP2 act on each other for homeostatic control. MeCP2 is a target of miR-132, whereas decreased
+MeCP2 expression reduces miR-132 levels in vivo, presumably resulting in decreased down-regulation of MeCP2 for homeostatic
+regulation (Klein et al. 2007). Based on these observations, it is
+reasonable to conclude that the learning and memory deficiency
+in adult MeCP2 knockout mice is at least partially mediated by
+loss of MeCP2-regulated miRNA expression (McGraw et al.
+2011). miRNA regulation of MeCP2 will be discussed in further detail later (Edbauer et al. 2010; Impey et al. 2010).
+
+MicroRNA regulation of synaptic plasticity,
+learning, and memory
+Regulation of local protein synthesis at the synapse
+It is generally accepted that long-term memory (LTM) formation
+is dependent on new protein expression, and that local protein
+synthesis in the neuronal dendrite is critical for the synaptic
+changes induced by neuronal activity (Sutton and Schuman
+2006). This process must be precisely controlled, as neurons
+need to selectively modify interconnections in response to different types and strengths of inputs. Therefore, an understanding of
+the regulation of local protein synthesis is crucial to the study of
+learning and memory and synaptic plasticity, both under physiological conditions and in disease states.
+A series of studies demonstrated that proteins associated with
+the miRNA biogenesis pathway, such as Dicer, Argonaute, and the
+Fragile X mental retardation protein (FMRP), are all expressed
+within the RNA granules of dendrites distal to the nucleus (Jin
+et al. 2004; Dictenberg et al. 2008). In Drosophila, the RISC complex protein, Armitage, was shown to be present at the synapse
+and to function as a negative regulator of long-lasting memory.
+The presence of Armitage in this system is inversely correlated
+to synaptic protein synthesis and is likely involved in a
+miRNA-mediated down-regulation of calcium/calmodulindependent kinase II (CaMKII) (Ashraf et al. 2006). Similarly, two
+other components of the RISC complex, elF2c and Dicer, are
+also present in dendritic spines and at the postsynaptic density
+(PSD). Treatment of cells with either NMDA or Ca2+ releases
+Dicer and elF2c from the PSD (Lugli et al. 2005). Although the specific miRNAs involved in these studies remain to be determined,
+these works collectively support the hypothesis that miRNAs are
+involved in dendritic protein translation essential for memory
+storage and other cognitive tasks.
+Specific miRNAs that are involved in the regulation of dendritic arborization and synaptogenesis in the adult brain are just
+beginning to be identified. The FMRP protein is associated with
+miR-125b and miR-132 in the brain, and these miRNAs have opposing effects on dendritic spine morphology. While miR-125b
+negatively regulates synaptic plasticity via targeting NR2A
+mRNA, miR-132 overexpression increases dendritic protrusion
+width and mEPSC amplitude (Edbauer et al. 2010). This is consistent with the positive effect of miR-132 on dendrite branching
+through repression of p250GAP (Wayman et al. 2008). A functional
+screen in primary cultured neurons identified miRNAs enriched
+or depleted in synaptosomes (Siegel et al. 2009). Particularly interesting was miR-138, which is a negative regulator of dendritic
+spine size due to, at least in part, APT1 down-regulation. APT1 is
+a depalmitoylation enzyme, indicating that miR-138 may be regulating the membrane localization of a whole class of proteins.
+The same group reported that dendritic miR-134 increases drastically upon stimulation and consequently promotes dendritogenesis by inhibiting the translational repressor Pumilio2 (Fiore et al.
+2009). Moreover, miR-485 colocalizes with one of its targets,
+synaptic vesicle protein SV2A, in dendrites and was shown to regulate dendritic spine number and synapse formation in an activitydependent homeostatic manner (Cohen et al. 2011). In Drosophila,
+miRNA down-regulation pathways and several miRNAs, such as
+bantam and miR-12, are suggested to be involved in regulating
+synapse-specific plasticity during long-term olfactory habituation
+(McCann et al. 2011).
+www.learnmem.org
+
+362
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning and memory
+
+Direct evidence of miRNA regulation
+in learning and memory
+
+behaviors may result from long-lasting structural and functional
+modifications of synapses that ultimately lead to an increased
+adaptive response toward the reward effects of cocaine, which
+eventually leads to uncontrolled drug intake (Luscher and
+Bellone 2008; Luscher and Malenka 2011). Given the important
+roles that miRNAs have in synaptic plasticity, it is not surprising
+that multiple studies have demonstrated the involvement of
+miRNAs in cocaine addiction. Extended exposure to cocaine leads
+to marked miR-212 up-regulation in the dorsal striatum of rats, a
+region involved in the development of compulsive cocaine use,
+and this miR-212 increase is concomitant with the increase of total and phosphorylated CREB (Hollander et al. 2010). These investigators found that the overexpression of miR-212 significantly
+amplifies CREB-mediated signaling, at least partially through
+the activation of Raf1, a CREB kinase, and increases expression
+of the CREB coactivator, TORC (Hollander et al. 2010). In a following study by the same group, it was shown that MeCP2 and
+miR-212 regulate each other’s expression in a negative feedback
+loop, and shows that this homeostatic regulation regulates
+cocaine-mediated BDNF expression in the dorsal striatum, thereby influencing cocaine intake (Im et al. 2010). Given the critical
+role for CREB in the regulation of BDNF expression, these data collectively indicate that the interplay between MeCP2, miR-212,
+CREB, and BDNF might play a key role in the development of addictive behaviors.
+In a miRNA profiling screen of cocaine-induced plasticity
+genes, it was shown that the miRNAs let-7d and miR-124 are
+down-regulated, whereas miR-181a is up-regulated in a mesolimbic dopaminergic system under chronic cocaine administration
+(Chandrasekar and Dreyer 2009; Saba et al. 2012). Additionally,
+specific deletion of the miRNA processing protein Ago2 in dopamine receptor D2-expressing neurons in mice resulted in an alleviation of cocaine addiction and the dysregulation of a distinct group
+of miRNAs in the striatum (Schaefer et al. 2010), suggesting that
+these miRNAs may contribute to various facets of addictive behavior. Finally, next-generation miRNA sequencing, microRNA-Seq,
+was used to identify cocaine-regulated miRNAs in the nucleus
+accumbens and striatal synapses. A number of miRNAs were identified that exhibit cocaine-induced expression changes, such as the
+miR-8 family members miR-429 and miR-200a/b (Eipper-Mains
+et al. 2011).
+miRNAs are also involved in modulating brain physiology
+underlying alcohol addiction. In the adult mammalian brain, alcohol exposure rapidly up-regulates miR-9 expression levels in the
+striatum and supraoptic nucleus (SON). This up-regulated miR-9
+then affects the expression of alternatively spliced voltage-activated potassium channel (BK) mRNA variants by binding to specific
+BK 3′ UTR sequences (Pietrzykowski et al. 2008). These data suggest a potential role for microRNAs in the regulation of alternatively spliced mRNA in drug addiction and abuse. Additionally,
+miRNAs-mediated mechanisms were also involved in opioid addiction, such as miR-23b, let-7, and miR-190 (Wu et al. 2008; He
+et al. 2010; Zheng et al. 2010). Overall, these studies support a
+role for miRNAs in already highly sophisticated molecular mechanisms of addiction, and advocate further research in this field. A
+summary of miRNAs discussed in this section is found in
+Supplemental Table 1.
+
+As previously discussed, multiple studies have provided evidence
+that miRNA pathways are involved in the regulation of synaptic
+plasticity by controlling protein synthesis in response to external
+stimulation. Davis et al. (2008) reported that the specific deletion
+of Dicer in CaMKII positive neurons, which knocks out gene expression in excitatory neurons in the cortex and hippocampus during
+development, results in an array of phenotypes including microcephaly,reduceddendriticbranch arborization,andtheelongation
+of dendritic spines with no concomitant change in spine density
+(Davis et al. 2008). However, the consequence of aberrant miRNA
+expression in the fully developed brain remains unclear. To investigate this question, Konopka et al. (2010) created a Dicer mutant mouse using a tamoxifen-inducible CreERT2 driven by the
+CaMKII promoter, enabling the neuronal deletion of Dicer in the
+mature mouse brain (Konopka et al. 2010). Interestingly, these mutant mice displayed increased performance in several behavioral
+tests of learning and memory, such as the Morris water maze and
+trace fear conditioning, 12 wk following the induction of Dicer
+deletion. The induction of LTP, recorded from hippocampal CA1
+synapses of mutant animals, was comparable to wild type, while
+permeability transition pore (PTP) recordings were enhanced.
+Neurons in the mutant animals exhibit elongated filopodia-like
+dendritic spines and an increased translation of synaptic plasticity-related proteins such as BDNF and MMP-9 (Konopka et al.
+2010). The data presented in this study suggest that miRNA regulates the translation of genes important for synaptic plasticity, possibly by increasing the threshold of activity-dependent gene
+expression or by decreasing the efficiencyof local protein synthesis.
+In line with these studies, it was demonstrated that in Drosophila
+long last memory formation is controlled by the miRNA-mediated
+silencing complex RISC. Furthermore, Armitage, a key component
+of RISC, is localized to synapses under basal conditions, but degraded upon neural activity or the induction of LTM, implying
+that synaptic protein synthesis essential for establishment of stable
+memory is regulated by RISC activity (Ashraf et al. 2006).
+As mentioned above, the NAD-dependent deacetylase, Sirt1,
+is necessary for normal associative learning in the contextual fear
+memory task, and this function requires crosstalk with miR-134,
+which directly influences CREB-dependent signaling (Gao et al.
+2010; Michan et al. 2010). Transgenic overexpression of miR-132
+in mice leads to increased spine density, but also impairs the ability
+of mice to perform in novel object recognition. In addition, transgenic miR-132 mice exhibited a decrease in the expression of
+MeCP2, a confirmed miR-132 target (Hansen et al. 2010). Taken together, these studies support the concept of an integrated network
+in learning and memory that involves miRNA activity and epigenetic modifiers such as MeCP2 and Sirt1 to fine-tune gene expression patterns (Levenson and Sweatt 2005).
+A recent study implicated miR-128b in fear-extinction memory formation (Lin et al. 2011). Investigators demonstrated that
+although miR-134 and miR-128b were both up-regulated after
+fear conditioning, only miR-128b was significantly affected by extinction training. Knockdown of miR-128b impaired the formation of fear-extinction memory, indicating that miR-128b is
+specific to the extinction learning-induced memory. As discussed
+previously, miR-124 is involved in the sensory-motor memory
+paradigm of Aplysia (Rajasethupathy et al. 2009). Taken together,
+it is evident that miRNAs are involved in various types of memory,
+and their mechanism might be evolutionally conserved.
+
+MicroRNAs in neurological diseases associated
+with impaired learning, memory, and cognition
+miRNAs in neurodegenerative disease
+
+microRNAs in drug addiction
+
+Cognitive decline, characterized by increasing difficulties in learning, memory, information processing, reasoning, language, and
+other higher brain functions, can begin as early as young adulthood
+
+Cocaine addiction is generally considered to be a disorder of neuroplasticity (Kauer and Malenka 2007). Compulsive drug-seeking
+www.learnmem.org
+
+363
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning and memory
+
+in humans, and gradually accelerates as a person ages, particularly
+in age-related neurodegenerative disorders such as Alzheimer’s disease and frontotemporal lobar degeneration (FTLD) (Yankner et al.
+2008; Salthouse 2009). In Parkinson’s and Huntington’s diseases,
+cognitive symptoms such as executive dysfunction and learning,
+memory, and attention deficits are prominent, and are often more
+disabling than are the hallmark motor symptoms (Rubinsztein
+and Carmichael 2003; Samii et al. 2004).
+The activity of miRNAs, as well as dysregulated miRNA
+processing, have been directly implicated in the pathogenesis of
+complex neurodegenerative diseases. In several recent mouse
+studies, the Dicer enzyme was inactivated either in specific brain
+regions or during particular time windows, and the results clearly
+emphasize the importance of miRNAs for neuronal survival in
+these neurodegenerative diseases (Bilen et al. 2006; Kim et al.
+2007; Schaefer et al. 2007; Davis et al. 2008; Hebert et al. 2010).
+For example, the conditional knockout of Dicer in midbrain dopaminergic neurons using dopamine transporter (DAT) Cre results
+in progressive dopaminergic neuron loss. It was further shown
+that miR-133b is depleted in patients with Parkinson’s disease,
+as well as in Dicer mutant mice. Functional experiments have
+shown that miR-133b regulates the maturation and function of
+dopaminergic neurons through a negative feedback loop by
+suppressing the expression of Pitx3, a transcription factor important for long-term survival and maintenance of the dopaminergic neurons in the midbrain, which in turn regulates
+miR-133b transcription (Kim et al. 2007). Interestingly, the depletion of Dicer in dopamine receptor-1 (DR-1) expressing striatal
+neurons, which receive inputs from DAT neurons, results in no
+significant increase in cell death, although the mice display a
+range of phenotypes including ataxia and front and hind limb
+clasping. However, no specific miRNAs was investigated in this
+study (Cuellar et al. 2008). The comparison of miRNA expression
+profiles between DAT and DR-1 positive cells could likely identify
+miRNAs not essential for DR-1 neuron survival, but required for
+their proper function. In another seminal study, Gehrke et al.
+(2020) elegantly demonstrated that LRRK2, mutations of which
+cause familial and sporadic Parkinson’s disease, interact with
+miRNA pathways to regulate protein synthesis; specifically, let-7
+and miR-184∗ have been identified in mediating the pathogenic
+LRRK2 effect (Gehrke et al. 2010). Studies profiling miRNAs in
+the brain tissue from Parkinson’s disease patients have identified
+a decrease of miR-34b/c both at late (clinical) and early stages
+(pre-motor stage) of the disease, suggesting that miR-34b/c dysregulation may be one of the pathogenic triggers that ultimately
+compromises cell viability (Minones-Moyano et al. 2011). In
+contrast to these human studies, a recent study demonstrated
+significantly unregulated miR-34c in the hippocampus of aged
+and AD mice models, concomitant with impaired memory function (Zovoilis et al. 2011). In addition, genetic polymorphisms
+located at the 3′ UTR of the Parkinson’s risk factor gene, fibroblast growth factor 20 (FGF20), disrupt the complementary binding of miR-433 with FGF20 mRNA, which presumably inhibits
+miR-433-mediated down-regulation of FGF20 expression (Wang
+et al. 2008a).
+The regulation of amyloid precursor protein (APP) by
+miRNAs has been suggested by several different studies. For example, miR-101 was shown to regulate APP expression in cultured
+neurons by targeting a site on the 3′ UTR of APP, and inhibition
+of endogenous miR-101 increases APP levels in vivo (Vilardo
+et al. 2010). Smith et al. (2011) observed a down-regulation of
+miR-124 in human Alzheimer’s disease brains, which may suggest
+aberrant splicing of APP by an indirect mechanism (Smith et al.
+2011). Furthermore, the translational control of b-secretase 1
+(BACE1), an enzyme involved in the production of b-amyloid
+from APP, by miRNAs has also been well-documented; these
+www.learnmem.org
+
+miRNAs include miR-107, miR-298, miR-328, miR-29a/b-1, and
+miR-9 (Hebert et al. 2008; Wang et al. 2008b; Boissonneault
+et al. 2009). In addition, variation in the miR-659 binding site
+in the 3′ UTR of the progranulin gene was suggested to be a risk
+factor for TDP43-positive FTD (Rademakers et al. 2008). Finally,
+at least 15 miRNAs have been found to be dysregulated in
+prion-induced neurodegeneration (Saba et al. 2008).
+The dysregulation of miRNA has also been strongly implicated in hereditary polyglutamine diseases. The huntingtin (Htt)
+protein directly interacts with the miRNA processing protein
+Ago2, and both are presented in “p bodies,” cytoplasmic foci
+that contain translationally repressed mRNAs with bound proteins; furthermore, the depletion of Htt compromises miRNAmediated gene silencing (Savas et al. 2008). The reduced expression of Dicer dramatically enhances polyQ toxicity in
+Drosophila and human cells induced by overexpression of pathogenic SCA3 and t protein (Bilen et al. 2006). A number of specific
+miRNAs were also identified in both murine models of
+Huntington’s disease and in the brain tissue of Huntington’s disease patients, such asmiR-34b, miR-9/9∗ , and miR-29b (Hebert
+et al. 2008; Packer et al. 2008; Gaughwin et al. 2011). These
+miRNAs have also been shown to regulate BACE1 translation, suggesting the existence of a shared microRNA regulatory cascade that
+contributes to the pathogenesis of Alzheimer’s and Huntington’s
+diseases.
+
+microRNAs in neuropsychiatric disorders
+Schizophrenia
+Schizophrenia is characterized by cognitive impairments, by positive symptoms such as hallucinations, delusions, and disorganized thinking, and by negative symptoms such as decreased
+emotional expression and apathy (van Os and Kapur 2009). An
+excellent example that suggests an association between miRNA
+function and schizophrenia comes from studies of 22q11.2
+microdeletions. An estimated one-third of all individuals who
+carry this chromosomal defect eventually develop schizophrenialike symptoms (Pulver et al. 1994; Murphy et al. 1999). Stark et al.
+(2008) generated a mouse model with a deletion of the corresponding human chromosomal segment, which includes nearly
+all the functional genes affected by the human 22q11.2 deletion,
+including the miRNA processing protein, DGCR8 (Stark et al.
+2008). These mice exhibit abnormal microRNA biogenesis due
+to the loss of DGCR8 function, and the subsequent impaired expression of a subset of miRNAs, including miR-134 (Burmistrova
+et al. 2007), which is directly implicated in learning and memory
+(Gao et al. 2010). The behavioral defects displayed by these mice
+are accompanied by abnormal dendrite and spine morphogenesis, which may result from dysregulated miRNA expression.
+Our understanding of schizophrenia etiology has been revolutionized over the past several years by improvements in rapid
+DNA sequencing and analysis technology that enable genomewide association studies (GWAS) of large patient populations.
+In a collaborative effort to identify common single nucleotide
+polymorphisms (SNPs) associated with a risk of schizophrenia,
+it was reported that the SNP rs1625579, localized in an intronic
+region of a large transcript proposed to encode the pri-miR-137,
+is one of the SNPs most significantly associated with risk of
+schizophrenia (Ripke et al. 2011). More importantly, four out of
+10 genome-wide significant loci significantly associated with
+the risk of schizophrenia were also predicted miR-137 target
+genes that have recently been validated (Kwon et al. 2011). This
+is intriguing, as miR-137 is known to regulate both neuronal
+maturation and adult neurogenesis (Smrt et al. 2010; Szulwach
+et al. 2010). Further mechanistic analyses will be necessary to
+364
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning and memory
+
+ascertain the contribution of the observed variants to the schizophrenia phenotype. The genome locus encoding miR-137 is embedded in a CpG island, and its expression is inversely regulated
+by MeCP2 mediated DNA methylation (Balaguer et al. 2010;
+Szulwach et al. 2010). In sum, these data collectively highlight
+an integral epigenetic regulatory mechanism involving the interplay of miR-137 with chromatin-modifying enzymes that might
+contribute to the cognitive and/or behavioral abnormalities of
+schizophrenia.
+Additionally, altered expression of miRNAs was found in the
+postmortem brain tissue of schizophrenia patients (Perkins et al.
+2007; Beveridge et al. 2008; Gardiner et al. 2011), several of which
+were experimentally verified, such as miR-181b, Let-7g, miR-26b,
+miR-30b, miR29b, and miR-106b. Additionally, genetic or pharmacological disruption of NMDA receptor signaling, which is
+strongly implicated in the behavioral disturbances of schizophrenia, leads to the reduced expression of miR-219 in the prefrontal
+cortex of mice, concomitant with an up-regulation of its target
+gene, CaMKII, suggesting that miR-219 may contribute to
+NMDA hypofunction in schizophrenia (Kocerha et al. 2009).
+Considering the heterogeneity of schizophrenia and the ability
+of each miRNA to affect the expression of hundreds of target
+genes, understanding the impact of miRNAs to the pathophysiology of schizophrenia necessitates deeper and larger-scale studies
+in the future.
+
+of miR-132 leads to increased MeCP2 levels, while the overexpression of miR-132 decreases MeCp2 levels. In vivo, the loss of
+MeCP2 in mice reduces miR-132 expression levels (Klein et al.
+2007). These studies suggest the presence of a feedback loop involving miRNAs that may be important for the homeostatic regulation of MeCP2 during critical periods of development (Klein
+et al. 2007; Hansen et al. 2010). Such a relationship would also
+be particularly relevant in the pathogenesis of neuropsychiatric
+disease (Ramocki and Zoghbi 2008). Interestingly, viral-mediated
+MeCP2 knockdown in the dorsal striatum of rats results in increases of both miR-132 and miR-212, which is cocaine-dependent,
+and which in turn regulates MeCP2 (Hollander et al. 2010; Im
+et al. 2010). The discrepancy between these two sets of studies
+may be due to the difference of the species studied (mice vs. rat)
+or the brain region investigated, as the latter primarily focused
+on striatum. Note that in the latter study, MeCP2 regulates
+miR-132 expression only under the extended cocaine access condition, indicating that this regulation is likely activity dependent.
+Nevertheless, since these two miRNAs are both regulated by CREB
+to rapidly induce their transcription (Nudelman et al. 2010) and
+their activities are sufficient to modulate dendritic plasticity, it
+is plausible to conclude that homeostatic regulation of miRNAs
+by MeCP2 and CREB and/or neuronal activity is important for
+experience-dependent neuronal plasticity, and disruption of this
+regulation may contribute to RTT pathoetiology.
+Efforts to identify miRNAs that are regulated by MeCP2 in
+vivo has recently advanced rapidly using genome-wide DNA sequencing analysis and microarray, followed by quantitative
+(q)PCR (Urdinguio et al. 2010; Wu et al. 2010). In these studies,
+both up- and down-regulated miRNAs are observed following alterations in MeCP2, and most of these miRNA genes are bound
+by MeCP2 in their pri-miRNA transcript promoter region. For example, miR-137, which has been shown to be up-regulated in
+MeCP2-null adult neural stem cells, is also up-regulated in the cerebella of MeCP2-null mice (Wu et al. 2010). miRNAs involved in
+neurological disorders are summarized in Supplemental Table 2.
+
+Autism spectrum disorders (ASDs)
+Thanks to the advance of the next-generation sequence, GWAS
+and CNV studies in the past several years have yielded insights
+into our understanding of the etiology of ASD. However, so far little is known about the potential importance of miRNAs in disease
+progression. Here we cover two well-known “single gene” ASD,
+Fragile X syndrome and Rett syndrome.
+Fragile X syndrome is caused by the loss of FMRP, a RNA-binding protein, and is characterized by severe mental retardation.
+FMRP has been shown to interact with the miRNA biosynthesis
+proteins Argonaute2 (AGO2), EIF2C2, RISC, and Dicer, which
+strongly suggests that FMRP may function in miRNA-mediated
+gene regulation. However, no difference has been found between
+the miRNA profiles of brain tissue from FMRP knockout mice
+and their age-matched littermates, arguing that FMRP may be
+more relevant to mechanisms of miRNA transport or target recognition than to biogenesis (Landgraf et al. 2007). In support of this
+notion, a recent study found that FMRP associates with a dozen different miRNAs and that two of these, miR-125b and miR-132, oppositely regulate dendritic spine morphology and synaptic
+physiology (Edbauer et al. 2010). FMRP knockdown also ameliorates the effect of miR-125b and miR-132 overexpression on dendritic spine morphology. These investigators also identified the
+NMDAR NR2A subunit to be a target of miR-125b, and found
+that NR2A mRNA is associated with FMRP. These observations support the idea that the function of FMRP is, at least partly, to bring
+miRNA and mRNA into the same RISC protein complex, and likely
+facilitates target recognition.
+Rett syndrome (RTT) is a postnatal neurodevelopmental disorder cause by mutations in the MECP2 gene. Both loss- and
+gain-of-function mutations in the MeCP2 protein can profoundly
+affect brain development and lead to a spectrum of abnormal
+behavioral phenotypes and cognitive deficits (Chahrour and
+Zoghbi 2007). Given the critical role of MeCP2 in postnatal brain
+development and the overwhelming evidence that miRNAs regulate neuronal differentiation, dendrite spine morphology, and
+synaptic plasticity, it is reasonable to assume that these moieties
+regulate gene expression in a coordinated manner. We know
+that MeCP2 translation is regulated by miR-132—the blockade
+www.learnmem.org
+
+Conclusions and outlook
+In the past five years, significant progress has been made in our
+understanding of miRNAs and their functions in learning, memory, and mental illness. However, this new knowledge likely represents just the tip of the iceberg compared to what we expect to
+learn in the next decade. We believe that a great number of
+miRNA mechanisms will be elucidated in the next few years given
+the combination of new technology and international collaborative efforts. There are several avenues that will significantly contribute to our understanding of miRNA function in normal
+physiology and malfunction in diseases such as mental illness
+and severe psychiatric disease. The most promising technology
+is next-generation sequencing, in particular, whole-genome sequencing and RNA-Seq. The ability to rapidly and inexpensively
+sequence the human genome will make it feasible to sequence
+the genomes of groups of afflicted individuals, thereby enabling
+scientists to discover the genetic causes of complex disorders. In
+addition, techniques including RNA-Seq will enable us to quantify the relative expression levels of miRNAs and their target transcripts and to evaluate the effects of dysregulated expression,
+thereby clearly defining roles for the large number of miRNAs expressed in the human brain.
+
+Acknowledgments
+We thank Dr. Alison Mungenast for critical reading of the manuscript. W.W. and E.J.K. were supported by a postdoctoral fellowship from the Simons Foundation. L.-H.T. is an investigator of
+365
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning and memory
+
+the Howard Hughes Medical Institute and an investigator of the
+Simons Foundation Autism Research Initiative (SFARI).
+
+miR379 –410 cluster regulates activity-dependent dendritogenesis by
+fine-tuning Pumilio2 protein levels. EMBO J 28: 697 –710.
+Forero DA, van der Ven K, Callaerts P, Del-Favero J. 2010. miRNA genes and
+the brain: Implications for psychiatric disorders. Hum Mutat 31:
+1195 –1204.
+Gao J, Wang WY, Mao YW, Graff J, Guan JS, Pan L, Mak G, Kim D, Su SC,
+Tsai LH. 2010. A novel pathway regulates memory and plasticity via
+SIRT1 and miR-134. Nature 466: 1105 –1109.
+Gardiner E, Beveridge NJ, Wu JQ, Carr V, Scott RJ, Tooney PA, Cairns MJ.
+2011. Imprinted DLK1-DIO3 region of 14q32 defines a
+schizophrenia-associated miRNA signature in peripheral blood
+mononuclear cells. Mol Psychiatry. doi: 10.1038/mp.2011.78.
+Gaughwin PM, Ciesla M, Lahiri N, Tabrizi SJ, Brundin P, Bjorkqvist M. 2011.
+Hsa-miR-34b is a plasma-stable microRNA that is elevated in
+pre-manifest Huntington’s disease. Hum Mol Genet 20: 2225 –2237.
+Gehrke S, Imai Y, Sokol N, Lu B. 2010. Pathogenic LRRK2 negatively
+regulates microRNA-mediated translational repression. Nature 466:
+637 – 641.
+Hansen KF, Sakamoto K, Wayman GA, Impey S, Obrietan K. 2010.
+Transgenic miR132 alters neuronal spine density and impairs novel
+object recognition memory. PLoS One 5: e15497. doi: 10.1371/
+journal.pone.0015497.
+He Y, Yang C, Kirkmire CM, Wang ZJ. 2010. Regulation of opioid tolerance
+by let-7 family microRNA targeting the m opioid receptor. J Neurosci 30:
+10251 –10258.
+He M, Liu Y, Wang X, Zhang MQ, Hannon GJ, Huang ZJ. 2012.
+Cell-type-based analysis of MicroRNA profiles in the mouse brain.
+Neuron 73: 35 – 48.
+Hebert SS, Horre K, Nicolai L, Papadopoulou AS, Mandemakers W,
+Silahtaroglu AN, Kauppinen S, Delacourte A, De Strooper B. 2008. Loss
+of microRNA cluster miR-29a/b-1 in sporadic Alzheimer’s disease
+correlates with increased BACE1/b-secretase expression. Proc Natl Acad
+Sci 105: 6415 –6420.
+Hebert SS, Papadopoulou AS, Smith P, Galas MC, Planel E, Silahtaroglu AN,
+Sergeant N, Buee L, De Strooper B. 2010. Genetic ablation of Dicer in
+adult forebrain neurons results in abnormal t hyperphosphorylation
+and neurodegeneration. Hum Mol Genet 19: 3959 –3969.
+Hollander JA, Im HI, Amelio AL, Kocerha J, Bali P, Lu Q, Willoughby D,
+Wahlestedt C, Conkright MD, Kenny PJ. 2010. Striatal microRNA
+controls cocaine intake through CREB signalling. Nature 466: 197 –202.
+Im HI, Hollander JA, Bali P, Kenny PJ. 2010. MeCP2 controls BDNF
+expression and cocaine intake through homeostatic interactions with
+microRNA-212. Nat Neurosci 13: 1120 –1127.
+Impey S, Davare M, Lesiak A, Fortin D, Ando H, Varlamova O, Obrietan K,
+Soderling TR, Goodman RH, Wayman GA. 2010. An activity-induced
+microRNA controls dendritic spine formation by regulating Rac1-PAK
+signaling. Mol Cell Neurosci 43: 146 – 156.
+Jacquier A. 2009. The complex eukaryotic transcriptome: Unexpected
+pervasive transcription and novel small RNAs. Nat Rev Genet 10:
+833 – 844.
+Jin P, Alisch RS, Warren ST. 2004. RNA and microRNAs in fragile X mental
+retardation. Nat Cell Biol 6: 1048 –1053.
+Kandel ER. 2001. The molecular biology of memory storage: A dialogue
+between genes and synapses. Science 294: 1030 –1038.
+Kandel ER. 2009. The biology of memory: A forty-year perspective.
+J Neurosci 29: 12748 –12756.
+Kauer JA, Malenka RC. 2007. Synaptic plasticity and addiction. Nat Rev
+Neurosci 8: 844 –858.
+Kawahara Y, Zinshteyn B, Sethupathy P, Iizasa H, Hatzigeorgiou AG,
+Nishikura K. 2007. Redirection of silencing targets by
+adenosine-to-inosine editing of miRNAs. Science 315: 1137 –1140.
+Kim VN, Nam JW. 2006. Genomics of microRNA. Trends Genet 22: 165 – 173.
+Kim VN, Han J, Siomi MC. 2009. Biogenesis of small RNAs in animals. Nat
+Rev Mol Cell Biol 10: 126 –139.
+Kim J, Krichevsky A, Grad Y, Hayes GD, Kosik KS, Church GM,
+Ruvkun G. 2004. Identification of many microRNAs that copurify
+with polyribosomes in mammalian neurons. Proc Natl Acad Sci 101:
+360 – 365.
+Kim J, Inoue K, Ishii J, Vanti WB, Voronov SV, Murchison E, Hannon G,
+Abeliovich A. 2007. A MicroRNA feedback circuit in midbrain
+dopamine neurons. Science 317: 1220 –1224.
+Klein ME, Lioy DT, Ma L, Impey S, Mandel G, Goodman RH. 2007.
+Homeostatic regulation of MeCP2 expression by a CREB-induced
+microRNA. Nat Neurosci 10: 1513 –1514.
+Kocerha J, Faghihi MA, Lopez-Toledano MA, Huang J, Ramsey AJ,
+Caron MG, Sales N, Willoughby D, Elmen J, Hansen HF, et al. 2009.
+MicroRNA-219 modulates NMDA receptor-mediated neurobehavioral
+dysfunction. Proc Natl Acad Sci 106: 3507 – 3512.
+Konopka W, Kiryk A, Novak M, Herwerth M, Parkitna JR, Wawrzyniak M,
+Kowarsch A, Michaluk P, Dzwonek J, Arnsperger T, et al. 2010.
+MicroRNA loss enhances learning and memory in mice. J Neurosci 30:
+14835 –14842.
+
+References
+Ashraf SI, McLoon AL, Sclarsic SM, Kunes S. 2006. Synaptic protein
+synthesis associated with memory is regulated by the RISC pathway in
+Drosophila. Cell 124: 191– 205.
+Bak M, Silahtaroglu A, Moller M, Christensen M, Rath MF, Skryabin B,
+Tommerup N, Kauppinen S. 2008. MicroRNA expression in the adult
+mouse central nervous system. RNA 14: 432 –444.
+Balaguer F, Link A, Lozano JJ, Cuatrecasas M, Nagasaka T, Boland CR,
+Goel A. 2010. Epigenetic silencing of miR-137 is an early event in
+colorectal carcinogenesis. Cancer Res 70: 6609 –6618.
+Banerjee S, Neveu P, Kosik KS. 2009. A coordinated local translational
+control point at the synapse involving relief from silencing and MOV10
+degradation. Neuron 64: 871 –884.
+Barco A, Pittenger C, Kandel ER. 2003. CREB, memory enhancement and
+the treatment of memory disorders: Promises, pitfalls and prospects.
+Expert Opin Ther Targets 7: 101 –114.
+Bartel DP. 2004. MicroRNAs: Genomics, biogenesis, mechanism, and
+function. Cell 116: 281 –297.
+Bartel DP. 2009. MicroRNAs: Target recognition and regulatory functions.
+Cell 136: 215 –233.
+Beveridge NJ, Tooney PA, Carroll AP, Gardiner E, Bowden N, Scott RJ,
+Tran N, Dedova I, Cairns MJ. 2008. Dysregulation of miRNA 181b in the
+temporal cortex in schizophrenia. Hum Mol Genet 17: 1156 –1168.
+Bilen J, Liu N, Burnett BG, Pittman RN, Bonini NM. 2006. MicroRNA
+pathways modulate polyglutamine-induced neurodegeneration. Mol
+Cell 24: 157 –163.
+Boissonneault V, Plante I, Rivest S, Provost P. 2009. MicroRNA-298 and
+microRNA-328 regulate expression of mouse b-amyloid precursor
+protein-converting enzyme 1. J Biol Chem 284: 1971 –1981.
+Bredy TW, Lin Q, Wei W, Baker-Andresen D, Mattick JS. 2011. MicroRNA
+regulation of neural plasticity and memory. Neurobiol Learn Mem 96:
+89 –94.
+Brodersen P, Voinnet O. 2009. Revisiting the principles of microRNA target
+recognition and mode of action. Nat Rev Mol Cell Biol 10: 141 –148.
+Burmistrova OA, Goltsov AY, Abramova LI, Kaleda VG, Orlova VA,
+Rogaev EI. 2007. MicroRNA in schizophrenia: Genetic and expression
+analysis of miR-130b (22q11). Biochemistry (Mosc) 72: 578 –582.
+Chahrour M, Zoghbi HY. 2007. The story of Rett syndrome: From clinic to
+neurobiology. Neuron 56: 422 –437.
+Chandrasekar V, Dreyer JL. 2009. microRNAs miR-124, let-7d and
+miR-181a regulate cocaine-induced plasticity. Mol Cell Neurosci 42:
+350 –362.
+Chendrimada TP, Gregory RI, Kumaraswamy E, Norman J, Cooch N,
+Nishikura K, Shiekhattar R. 2005. TRBP recruits the Dicer complex to
+Ago2 for microRNA processing and gene silencing. Nature 436:
+740 –744.
+Cohen JE, Lee PR, Chen S, Li W, Fields RD. 2011. MicroRNA regulation of
+homeostatic synaptic plasticity. Proc Natl Acad Sci 108: 11650 –11655.
+Coolen M, Bally-Cuif L. 2009. MicroRNAs in brain development and
+physiology. Curr Opin Neurobiol 19: 461 –470.
+Cuellar TL, Davis TH, Nelson PT, Loeb GB, Harfe BD, Ullian E, McManus MT.
+2008. Dicer loss in striatal neurons produces behavioral and
+neuroanatomical phenotypes in the absence of neurodegeneration.
+Proc Natl Acad Sci 105: 5614 –5619.
+Davis TH, Cuellar TL, Koch SM, Barker AJ, Harfe BD, McManus MT,
+Ullian EM. 2008. Conditional loss of Dicer disrupts cellular and tissue
+morphogenesis in the cortex and hippocampus. J Neurosci 28:
+4322 – 4330.
+Dictenberg JB, Swanger SA, Antar LN, Singer RH, Bassell GJ. 2008. A direct
+role for FMRP in activity-dependent dendritic mRNA transport links
+filopodial-spine morphogenesis to fragile X syndrome. Dev Cell 14:
+926 –939.
+Edbauer D, Neilson JR, Foster KA, Wang CF, Seeburg DP, Batterton MN,
+Tada T, Dolan BM, Sharp PA, Sheng M. 2010. Regulation of synaptic
+structure and function by FMRP-associated microRNAs miR-125b and
+miR-132. Neuron 65: 373 –384.
+Eipper-Mains JE, Kiraly DD, Palakodeti D, Mains RE, Eipper BA,
+Graveley BR. 2011. microRNA-Seq reveals cocaine-regulated expression
+of striatal microRNAs. RNA 17: 1529 – 1543.
+Esteller M. 2011. Non-coding RNAs in human disease. Nat Rev Genet 12:
+861 –874.
+Feng Y, Gutekunst CA, Eberhart DE, Yi H, Warren ST, Hersch SM. 1997.
+Fragile X mental retardation protein: Nucleocytoplasmic shuttling and
+association with somatodendritic ribosomes. J Neurosci 17: 1539 –1547.
+Fiore R, Khudayberdiev S, Christensen M, Siegel G, Flavell SW, Kim TK,
+Greenberg ME, Schratt G. 2009. Mef2-mediated transcription of the
+
+www.learnmem.org
+
+366
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning and memory
+
+Report of potential linkage on chromosome 22q12-q13.1: Part 1. Am
+J Med Genet 54: 36 – 43.
+Rademakers R, Eriksen JL, Baker M, Robinson T, Ahmed Z, Lincoln SJ, Finch N,
+Rutherford NJ, Crook RJ, Josephs KA, et al. 2008. Common variation in
+the miR-659 binding-site of GRN is a major risk factor for TDP43-positive
+frontotemporal dementia. Hum Mol Genet 17: 3631 –3642.
+Rajasethupathy P, Fiumara F, Sheridan R, Betel D, Puthanveettil SV,
+Russo JJ, Sander C, Tuschl T, Kandel E. 2009. Characterization of small
+RNAs in Aplysia reveals a role for miR-124 in constraining synaptic
+plasticity through CREB. Neuron 63: 803 – 817.
+Ramocki MB, Zoghbi HY. 2008. Failure of neuronal homeostasis results in
+common neuropsychiatric phenotypes. Nature 455: 912 –918.
+Ripke S, Sanders AR, Kendler KS, Levinson DF, Sklar P, Holmans PA, Lin DY,
+Duan J, Ophoff RA, Andreassen OA, et al. 2011. Genome-wide
+association study identifies five new schizophrenia loci. Nat Genet
+43: 969 –976.
+Rubinsztein DC, Carmichael J. 2003. Huntington’s disease: Molecular basis
+of neurodegeneration. Expert Rev Mol Med 5: 1 – 21.
+Saba R, Goodman CD, Huzarewich RL, Robertson C, Booth SA. 2008. A
+miRNA signature of prion induced neurodegeneration. PLoS One 3:
+e3652. doi: 10.1371/journal.pone.0003652.
+Saba R, Storchel PH, Aksoy-Aksel A, Kepura F, Lippi G, Plant TD,
+Schratt GM. 2012. Dopamine-regulated microRNA MiR-181a controls
+GluA2 surface expression in hippocampal neurons. Mol Cell Biol 32:
+619 –632.
+Salta E, De Strooper B. 2012. Non-coding RNAs with essential roles in
+neurodegenerative disorders. Lancet Neurol 11: 189 –200.
+Salthouse TA. 2009. When does age-related cognitive decline begin?
+Neurobiol Aging 30: 507 –514.
+Samii A, Nutt JG, Ransom BR. 2004. Parkinson’s disease. Lancet 363:
+1783 –1793.
+Savas JN, Makusky A, Ottosen S, Baillat D, Then F, Krainc D, Shiekhattar R,
+Markey SP, Tanese N. 2008. Huntington’s disease protein contributes to
+RNA-mediated gene silencing through association with Argonaute and
+P bodies. Proc Natl Acad Sci 105: 10820 – 10825.
+Sayed D, Abdellatif M. 2011. MicroRNAs in development and disease.
+Physiol Rev 91: 827 –887.
+Schaefer A, O’Carroll D, Tan CL, Hillman D, Sugimori M, Llinas R,
+Greengard P. 2007. Cerebellar neurodegeneration in the absence of
+microRNAs. J Exp Med 204: 1553 –1558.
+Schaefer A, Im HI, Veno MT, Fowler CD, Min A, Intrator A, Kjems J,
+Kenny PJ, O’Carroll D, Greengard P. 2010. Argonaute 2 in dopamine 2
+receptor-expressing neurons regulates cocaine addiction. J Exp Med
+207: 1843 –1851.
+Schratt G. 2009. Fine-tuning neural gene expression with microRNAs. Curr
+Opin Neurobiol 19: 213 –219.
+Schratt GM, Tuebing F, Nigh EA, Kane CG, Sabatini ME, Kiebler M,
+Greenberg ME. 2006. A brain-specific microRNA regulates dendritic
+spine development. Nature 439: 283 –289.
+Sempere LF, Freemantle S, Pitha-Rowe I, Moss E, Dmitrovsky E, Ambros V.
+2004. Expression profiling of mammalian microRNAs uncovers a subset
+of brain-expressed microRNAs with possible roles in murine and
+human neuronal differentiation. Genome Biol 5: R13. doi: 10.1186/
+gb-2004-5-3-r13.
+Siegel G, Obernosterer G, Fiore R, Oehmen M, Bicker S, Christensen M,
+Khudayberdiev S, Leuschner PF, Busch CJ, Kane C, et al. 2009. A
+functional screen implicates microRNA-138-dependent regulation of
+the depalmitoylation enzyme APT1 in dendritic spine morphogenesis.
+Nat Cell Biol 11: 705 –716.
+Silva AJ, Kogan JH, Frankland PW, Kida S. 1998. CREB and memory. Annu
+Rev Neurosci 21: 127 –148.
+Smith P, Al Hashimi A, Girard J, Delay C, Hebert SS. 2011. In vivo regulation
+of amyloid precursor protein neuronal splicing by microRNAs.
+J Neurochem 116: 240 –247.
+Smrt RD, Szulwach KE, Pfeiffer RL, Li X, Guo W, Pathania M, Teng ZQ,
+Luo Y, Peng J, Bordey A, et al. 2010. MicroRNA miR-137 regulates
+neuronal maturation by targeting ubiquitin ligase mind bomb-1. Stem
+Cells 28: 1060 –1070.
+Stark KL, Xu B, Bagchi A, Lai WS, Liu H, Hsu R, Wan X, Pavlidis P, Mills AA,
+Karayiorgou M, et al. 2008. Altered brain microRNA biogenesis
+contributes to phenotypic deficits in a 22q11-deletion mouse model.
+Nat Genet 40: 751 –760.
+Sutton MA, Schuman EM. 2006. Dendritic protein synthesis, synaptic
+plasticity, and memory. Cell 127: 49 –58.
+Szulwach KE, Li X, Smrt RD, Li Y, Luo Y, Lin L, Santistevan NJ, Li W, Zhao X,
+Jin P. 2010. Cross talk between microRNA and epigenetic regulation in
+adult neurogenesis. J Cell Biol 189: 127 –141.
+Urdinguio RG, Fernandez AF, Lopez-Nieva P, Rossi S, Huertas D, Kulis M,
+Liu CG, Croce CM, Calin GA, Esteller M. 2010. Disrupted microRNA
+expression caused by Mecp2 loss in a mouse model of Rett syndrome.
+Epigenetics 5: 656 –663.
+van Os J, Kapur S. 2009. Schizophrenia. Lancet 374: 635 –645.
+
+Kosik KS, Krichevsky AM. 2005. The elegance of the MicroRNAs: A
+neuronal perspective. Neuron 47: 779 – 782.
+Krol J, Busskamp V, Markiewicz I, Stadler MB, Ribi S, Richter J, Duebel J,
+Bicker S, Fehling HJ, Schubeler D, et al. 2010a. Characterizing
+light-regulated retinal microRNAs reveals rapid turnover as a common
+property of neuronal microRNAs. Cell 141: 618– 631.
+Krol J, Loedige I, Filipowicz W. 2010b. The widespread regulation of
+microRNA biogenesis, function and decay. Nat Rev Genet 11: 597 –610.
+Kwon E, Wang W, Tsai LH. 2011. Validation of schizophrenia-associated
+genes CSMD1, C10orf26, CACNA1C and TCF4 as miR-137 targets. Mol
+Psychiatry. doi: 10.1038/mp.2011.170.
+Kye MJ, Liu T, Levy SF, Xu NL, Groves BB, Bonneau R, Lao K, Kosik KS. 2007.
+Somatodendritic microRNAs identified by laser capture and multiplex
+RT-PCR. RNA 13: 1224 –1234.
+Landgraf P, Rusu M, Sheridan R, Sewer A, Iovino N, Aravin A, Pfeffer S,
+Rice A, Kamphorst AO, Landthaler M, et al. 2007. A mammalian
+microRNA expression atlas based on small RNA library sequencing.
+Cell 129: 1401 –1414.
+Levenson JM, Sweatt JD. 2005. Epigenetic mechanisms in memory
+formation. Nat Rev Neurosci 6: 108 –118.
+Lin Q, Wei W, Coelho CM, Li X, Baker-Andresen D, Dudley K, Ratnu VS,
+Boskovic Z, Kobor MS, Sun YE, et al. 2011. The brain-specific microRNA
+miR-128b regulates the formation of fear-extinction memory. Nat
+Neurosci 14: 1115 –1117.
+Lugli G, Larson J, Martone ME, Jones Y, Smalheiser NR. 2005. Dicer and
+eIF2c are enriched at postsynaptic densities in adult mouse brain and
+are modified by neuronal activity in a calpain-dependent manner.
+J Neurochem 94: 896 –905.
+Lugli G, Torvik VI, Larson J, Smalheiser NR. 2008. Expression of microRNAs
+and their precursors in synaptic fractions of adult mouse forebrain.
+J Neurochem 106: 650 –661.
+Luscher C, Bellone C. 2008. Cocaine-evoked synaptic plasticity: A key to
+addiction? Nat Neurosci 11: 737 –738.
+Luscher C, Malenka RC. 2011. Drug-evoked synaptic plasticity in addiction:
+From molecular changes to circuit remodeling. Neuron 69: 650 –663.
+Lynch MA. 2004. Long-term potentiation and memory. Physiol Rev 84:
+87 –136.
+Martin SJ, Grimwood PD, Morris RG. 2000. Synaptic plasticity and
+memory: An evaluation of the hypothesis. Annu Rev Neurosci 23:
+649 –711.
+McCann C, Holohan EE, Das S, Dervan A, Larkin A, Lee JA, Rodrigues V,
+Parker R, Ramaswami M. 2011. The Ataxin-2 protein is required for
+microRNA function and synapse-specific long-term olfactory
+habituation. Proc Natl Acad Sci 108: E655 –E662.
+McGraw CM, Samaco RC, Zoghbi HY. 2011. Adult neural function requires
+MeCP2. Science 333: 186. doi: 10.1126/science.1206593.
+Michan S, Li Y, Chou MM, Parrella E, Ge H, Long JM, Allard JS, Lewis K,
+Miller M, Xu W, et al. 2010. SIRT1 is essential for normal cognitive
+function and synaptic plasticity. J Neurosci 30: 9695 –9707.
+Minones-Moyano E, Porta S, Escaramis G, Rabionet R, Iraola S,
+Kagerbauer B, Espinosa-Parrilla Y, Ferrer I, Estivill X, Marti E. 2011.
+MicroRNA profiling of Parkinson’s disease brains identifies early
+downregulation of miR-34b/c which modulate mitochondrial
+function. Hum Mol Genet 20: 3067 –3078.
+Muddashetty RS, Nalavadi VC, Gross C, Yao X, Xing L, Laur O, Warren ST,
+Bassell GJ. 2011. Reversible inhibition of PSD-95 mRNA translation by
+miR-125a, FMRP phosphorylation, and mGluR signaling. Mol Cell 42:
+673 –688.
+Murphy KC, Jones LA, Owen MJ. 1999. High rates of schizophrenia in adults
+with velo-cardio-facial syndrome. Arch Gen Psychiatry 56: 940 –945.
+Natera-Naranjo O, Aschrafi A, Gioio AE, Kaplan BB. 2010. Identification
+and quantitative analyses of microRNAs located in the distal axons of
+sympathetic neurons. RNA 16: 1516 –1529.
+Nudelman AS, DiRocco DP, Lambert TJ, Garelick MG, Le J, Nathanson NM,
+Storm DR. 2010. Neuronal activity rapidly induces transcription of the
+CREB-regulated microRNA-132, in vivo. Hippocampus 20: 492 –498.
+Obernosterer G, Leuschner PJ, Alenius M, Martinez J. 2006. Posttranscriptional regulation of microRNA expression.RNA 12:1161 –1167.
+Packer AN, Xing Y, Harper SQ, Jones L, Davidson BL. 2008. The bifunctional
+microRNA miR-9/miR-9∗ regulates REST and CoREST and is
+downregulated in Huntington’s disease. J Neurosci 28: 14341 –14346.
+Perkins DO, Jeffries CD, Jarskog LF, Thomson JM, Woods K, Newman MA,
+Parker JS, Jin J, Hammond SM. 2007. microRNA expression in the
+prefrontal cortex of individuals with schizophrenia and schizoaffective
+disorder. Genome Biol 8: R27. doi: 10.1186/gb-2007-8-2-r27.
+Pietrzykowski AZ, Friesen RM, Martin GE, Puig SI, Nowak CL, Wynne PM,
+Siegelmann HT, Treistman SN. 2008. Posttranscriptional regulation of
+BK channel splice variant stability by miR-9 underlies neuroadaptation
+to alcohol. Neuron 59: 274 –287.
+Pulver AE, Karayiorgou M, Wolyniec PS, Lasseter VK, Kasch L, Nestadt G,
+Antonarakis S, Housman D, Kazazian HH, Meyers D, et al. 1994.
+Sequential strategy to identify a susceptibility gene for schizophrenia:
+
+www.learnmem.org
+
+367
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning and memory
+
+Vilardo E, Barbato C, Ciotti M, Cogoni C, Ruberti F. 2010. MicroRNA-101
+regulates amyloid precursor protein expression in hippocampal
+neurons. J Biol Chem 285: 18344 –18351.
+Wang G, van der Walt JM, Mayhew G, Li YJ, Zuchner S, Scott WK,
+Martin ER, Vance JM. 2008a. Variation in the miRNA-433 binding site
+of FGF20 confers risk for Parkinson disease by overexpression of
+a-synuclein. Am J Hum Genet 82: 283 –289.
+Wang WX, Rajeev BW, Stromberg AJ, Ren N, Tang G, Huang Q, Rigoutsos I,
+Nelson PT. 2008b. The expression of microRNA miR-107 decreases early
+in Alzheimer’s disease and may accelerate disease progression through
+regulation of b-site amyloid precursor protein-cleaving enzyme 1. J
+Neurosci 28: 1213 –1223.
+Wang Z, Gerstein M, Snyder M. 2009. RNA-Seq: A revolutionary tool for
+transcriptomics. Nat Rev Genet 10: 57 – 63.
+Wayman GA, Davare M, Ando H, Fortin D, Varlamova O, Cheng HY,
+Marks D, Obrietan K, Soderling TR, Goodman RH, et al. 2008. An
+activity-regulated microRNA controls dendritic plasticity by
+down-regulating p250GAP. Proc Natl Acad Sci 105: 9093 –9098.
+
+www.learnmem.org
+
+Wu Q, Law PY, Wei LN, Loh HH. 2008. Post-transcriptional regulation of
+mouse mu opioid receptor (MOR1) via its 3′ untranslated region: A role
+for microRNA23b. FASEB J 22: 4085 –4095.
+Wu H, Tao J, Chen PJ, Shahab A, Ge W, Hart RP, Ruan X, Ruan Y, Sun YE.
+2010. Genome-wide analysis reveals methyl-CpG-binding protein
+2-dependent regulation of microRNAs in a mouse model of Rett
+syndrome. Proc Natl Acad Sci 107: 18161 – 18166.
+Yankner BA, Lu T, Loerch P. 2008. The aging brain. Annu Rev Pathol 3: 41 –66.
+Zheng H, Chu J, Zeng Y, Loh HH, Law PY. 2010. Yin Yang 1
+phosphorylation contributes to the differential effects of m-opioid
+receptor agonists on microRNA-190 expression. J Biol Chem 285:
+21994 –22002.
+Zovoilis A, Agbemenyah HY, Agis-Balboa RC, Stilling RM, Edbauer D, Rao P,
+Farinelli L, Delalle I, Schmitt A, Falkai P, et al. 2011. microRNA-34c is a
+novel target to treat dementias. EMBO J 30: 4299 – 4308.
+Received April 3, 2012; accepted in revised form May 24, 2012.
+
+368
+
+Learning & Memory
+
+Downloaded from learnmem.cshlp.org on August 2, 2018 - Published by Cold Spring Harbor Laboratory Press
+
+MicroRNAs in learning, memory, and neurological diseases
+Wenyuan Wang, Ester J. Kwon and Li-Huei Tsai
+Learn. Mem. 2012, 19:
+Access the most recent version at doi:10.1101/lm.026492.112
+
+Supplemental
+Material
+References
+
+http://learnmem.cshlp.org/content/suppl/2012/08/08/19.9.359.DC1
+
+This article cites 8 articles, 4 of which can be accessed free at:
+http://learnmem.cshlp.org/content/19/9/359.full.html#ref-list-1
+
+License
+Email Alerting
+Service
+
+Receive free email alerts when new articles cite this article - sign up in the box at the
+top right corner of the article or click here.
+
+© 2012 Cold Spring Harbor Laboratory Press
+
+

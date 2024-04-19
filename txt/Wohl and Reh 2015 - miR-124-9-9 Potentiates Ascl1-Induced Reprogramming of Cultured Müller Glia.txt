@@ -1,0 +1,1765 @@
+RESEARCH ARTICLE
+
+miR-124-9-9* Potentiates Ascl1-Induced
+€ller Glia
+Reprogramming of Cultured Mu
+Stefanie Gabriele Wohl and Thomas Andrew Reh
+The M€
+uller glia of fish provide a source for neuronal regeneration after injury, but they do not do so in mammals. We previously showed that lentiviral gene transfer of the transcription factor Achaete-scute homolog 1 (Ascl1/Mash1) in murine M€
+uller
+glia cultures resulted in partial reprogramming of the cells to retinal progenitors. The microRNAs (miRNAs) miR-124-9-9* facilitate neuronal reprogramming of fibroblasts, but their role in glia reprogramming has not been reported. The aim of this
+study was to test whether (1) lentiviral gene transfer of miR-124-9-9* can reprogram M€
+uller glia into retinal neurons and (2)
+miR-124-9-9* can improve Ascl1-induced reprogramming. Primary M€
+uller glia cultures were generated from postnatal day (P)
+11/12 mice, transduced with lentiviral particles, i.e., miR-124-9-9*-RFP, nonsense-RFP, Ascl1-GFP, or GFP-control. Gene
+expression and immunofluorescence analyses were performed within 3 weeks after infection.
+1. Overexpression of miR-124-9-9* induced the expression of the proneural factor Ascl1 and additional markers of neurons,
+including TUJ1 and MAP2.
+2. When Ascl1 and miR-124-9-9* were combined, 50 to 60% of M€
+uller glia underwent neuronal reprogramming, whereas
+Ascl1 alone results in a 30 to 35% reprogramming rate.
+3. Analysis of the miR-124-9-9* treated glial cells showed a reduction in the level of Ctdsp1 and Ptbp1, indicating a critical
+role for the REST pathway in the repression of neuronal genes in M€
+uller glia.
+Our data further suggest that miR-124-9-9* and the REST complex may play a role in regulating the reprogramming of M€
+uller
+glia to progenitors that underlies retinal regeneration in zebrafish.
+GLIA 2016;64:743–762
+
+Key words: retina, neuronal differentiation, microRNA, REST, Ctdsp1/SCP1, Ptbp1/PTB
+
+Introduction
+
+T
+
+he adult mammalian central nervous system (CNS) largely
+lacks regenerative capacity. However, recent reports show that
+glial cells can be reprogrammed and can potentially serve as a
+source for new neurons to replace those lost by injury or disease
+(Goldman, 2014; Guo et al., 2014; Heinrich et al., 2012, 2014;
+Niu et al., 2013; Robel et al., 2011). This approach has advantages, since the cells are produced in situ and transplantation is
+not required. A variety of factors have been used to successfully
+reprogram fibroblasts, P19 carcinoma cells, and glia into neurons.
+Several groups have shown that overexpression of key proneural
+transcription factors such as Sox2, NeuroD1, and Ascl1 causes a
+significant percentage of astrocytes (Corti et al., 2012; Guo et al.,
+2014; Heinrich et al., 2012; Niu et al., 2013) or NG2 glia
+(Heinrich et al., 2014) to differentiate into neurons.
+
+In the retina, M€
+uller glia are the predominant glia (for
+review see (Bringmann et al., 2006; Reichenbach and Bringmann, 2013)) and express some genes that are also expressed
+by neural progenitor cells (NPCs) (Bernardos et al., 2007;
+Das et al., 2006; Jadhav et al., 2009; Ooto et al., 2004;
+Roesch et al., 2008). In non-mammalian vertebrates such as
+fish, retinal injury induces M€
+uller glia to re-enter the cell
+cycle, de-differentiate and generate new neurons. (Goldman
+2014; Lenkowski and Raymond, 2014; Ramachandran et al.,
+2010). In mammals however, this potential is very limited
+(L€offler et al., 2015); the ability to proliferate decreases with
+age (Close et al., 2006; Ueki and Reh, 2013) and very few
+neurons are generated after injury in adult mammalian retina,
+even after multiple injections of mitogens (Karl et al., 2008)
+for review see (Fischer and Reh, 2003; Goldman, 2014; Karl
+
+View this article online at wileyonlinelibrary.com. DOI: 10.1002/glia.22958
+Published online January 6, 2016 in Wiley Online Library (wileyonlinelibrary.com). Received Sep 29, 2015, Accepted for publication Dec 2, 2015.
+Address correspondence to Thomas A. Reh, Department of Biological Structure, University of Washington, 1959 Pacific Street NE, 98195 Seattle, WA, USA.
+E-mail: tomreh@u.washington.edu
+From the Department of Biological Structure, University of Washington, Seattle, Washington
+Additional Supporting Information may be found in the online version of this article.
+
+C 2016 Wiley Periodicals, Inc. 743
+V
+
+and Reh, 2010; Wohl et al., 2012). We recently reported that
+lentiviral-mediated expression of Ascl1 was sufficient to reprogram 30% of dissociated M€
+uller glia to a neurogenic state.
+However, many of the cells failed to generate neurons, even
+though they expressed Ascl1 (Pollak et al., 2013). Thus, additional factors are likely necessary for full reprogramming of
+M€
+uller glia and complete retinal regeneration in mice.
+Many studies have highlighted the importance of
+miRNAs in the regulation of cell fate and stable patterns of
+gene expression (for review see (Filipowicz et al., 2008; Sundermeier and Palczewski, 2012)). One miRNA that plays an
+important role during neurogenesis is miR-124, a brain
+enriched miRNA, expressed in differentiating and mature
+neurons, but not in non-neuronal cells, including glia (Cheng
+et al., 2009; Conaco et al., 2006; Krichevsky et al., 2006;
+Makeyev et al., 2007; Papagiannakopoulos and Kosik, 2009;
+Smirnova et al., 2005). miR-124 (also known as miR-124a)
+is encoded by three genes (miR-124a-1, miR-124a-2,
+miR-124a-3) (Conaco et al., 2006; Deo et al., 2006) and the
+mature sequence is highly conserved from C. elegans to
+humans (Lagos-Quintana et al., 2002). Another brain enriched
+miRNA involved in neurogenesis is miR-9. miR-9 is also
+encoded by three genes (miR-9-1, miR-9-2, miR-9-3), but in
+contrast to miR-124, where only one mature miRNA exists,
+each of the miR-9 genes gives rise to two mature miRNAs,
+miR-9 (which is the 5’ strand, miR-9-5p) and miR-9* (which
+is the 3’ strand, miR-9-3p) (Conaco et al., 2006).
+Gain of function experiments with miR-124 alone or in
+combination with miR-9/9* in embryonic stem cells (ESCs)
+(Krichevsky et al., 2006; Maiorano and Mallamaci, 2009)
+and NPCs (Cheng et al., 2009; Maiorano and Mallamaci,
+2009), show that miR-124 promotes neuronal differentiation,
+while inhibiting glial genes. Moreover, miR-124-9-9*, has
+been shown to reprogram fibroblasts (Yoo et al., 2011), and
+miR-124 alone can increase retinoic acid-induced neurogenesis in P19 stem cells (Makeyev et al., 2007). miR-124 and
+miR-9/9* target components of the REST complex, known
+to repress neuronal gene expression in non-neuronal cells
+(Nesti et al., 2014; Wu and Xie, 2006; Yeo et al., 2005). The
+REST complex is composed of the RE1-silencing transcription factor, REST, also known as neuron-restrictive silencer
+factor NRSF (Chong et al., 1995; Schoenherr and Anderson,
+1995); the REST corepressor 1, also known as CoREST,
+encoded by Rcor1 (Andres et al., 1999); and the carboxyterminal domain RNA polymerase II polypeptide A small
+phosphatase 1 (Ctdsp1), also known as small c-terminal
+domain phosphatase 1, SCP1 (Nesti et al., 2014; Visvanathan
+et al., 2007; Yeo et al., 2005). In light of these previous studies, we tested whether the REST pathway was active in
+M€
+uller glia, repressing neuronal gene expression and stabilizing their phenotype. Specifically, we tested whether miR-124744
+
+9-9* overexpression would reprogram M€
+uller glia into neuronal progenitors and neurons, either alone or in combination
+with Ascl1, and if the reprogramming mechanism involves
+RNA downregulation of members of the REST complex.
+Here we report that miRNAs miR-124, miR-9, and
+miR-9* can promote M€
+uller glia reprogramming. Lentiviral
+gene transfer of miR-124-9-9*-induced cells to express genes
+normally present in retinal progenitor cells and neurons. Furthermore, the combination of Ascl1 and miR-124-9-9*
+yielded in 60% newly generated neurons from M€
+uller glia
+primary cultures. Two of the known targets in the REST
+pathway, Ctdsp1/SCP1 and the polypyrimidine tract binding
+protein 1 (Ptbp1/PTB), were reduced in the miR-124-9-9*
+infected glia, while the neuronal Ptbp2 was increased. These
+results support a role for the REST pathway in neuronal gene
+silencing in M€
+uller glia cells, and show that targeting this
+pathway with miRNAs is an effective method to promote
+reprogramming of these cells.
+
+Materials and Methods
+Animals
+All mice were used in accordance with University of Washington
+Institutional Animal Care and Use Committee approved protocols
+(UW-IACUC). All experiments were carried out on C57BL/6J mice
+(Jackson). Experiments to test Ascl1 induction were performed on
+mAscl1-creER:flox-Stop-flox tdTomato (gift from Dr. Jane Johnson).
+
+Plasmids and Viral Production
+pLemir-9-124, encoding for miR-9/9* and miR-124 pri-transcripts
+together with turbo-RFP reporter [(Yoo et al., 2011), plasmid
+#31779], and the control turbo-RFP plasmid pLemir-NS encoding
+for non-specific hairpins (here referred as nonsense/ns, plasmid
+#32809) were purchased from Addgene and inserted into lentiviral
+vectors using the Lenti-XTM HTX packaging system protocol (Clontech). PLOC-hASCL1-IRES-turboGFP(nuc) and control PLOCIRES-turboGFP(nuc) viral vectors were generated as described previously (Pollak et al., 2013). Dominant-negative (dn)Ctdsp1, wildtype
+(wt)Ctdsp1 plasmids were obtained from Dr. Soo-Kyung Lee,
+dnREST and wtREST plasmid from Dr. Gail Mandel, and used for
+DNA transfection.
+
+M€
+uller Glia Primary Culture
+M€
+uller glia were dissociated from postnatal day (P) 11/12 mice and
+grown in Neurobasal medium with N2 (supplemental factor),
+tetracycline-free 10% fetal bovine serum (FBS, Clontech), and epidermal growth factor (EGF, R&D Systems, 100 ng/mL) as described
+before (Ueki et al., 2012). The in vitro experiments are limited to
+the age of P12. Although M€
+uller glia from mice older than P12 can
+be cultured, they do not grow and do not form confluent monolayers, which are required for successful reprogramming experiments.
+The thymidine analog 5-ethynyl-2’deoxyuridine (EdU, Invitrogen, 1
+lM) was added to follow progeny of proliferating M€
+uller glia. To
+activate Cre recombinase in the Ascl1-creER:flox-Stop-flox tdTomato
+
+Volume 64, No. 5
+
+Wohl and Reh: miRNAs in Glial Reprogramming
+
+M€uller glia cultures, 4-hydroxytamoxifen (Sigma, 1 nM) was added
+to the medium after passage.
+
+Transfection
+For RNA transfection, we used mimics (artificial miRNAs, 20 nM–
+1 mM) and antagomiRs (antisense miRNAs, 20 nM) purchased from
+Thermo Scientific in combination with mCherry RNA and/or
+miRNA-GFP sensors (1 mg/mL each). To generate mRNA for transfection, we used the pSLU plasmid as described previously (Hayashi
+et al., 2010) and the Ambion mMessage mMachine (AM1345;
+Ambion) according to manufacturer’s instructions. We also used
+dnCtdsp1, wtCtdsp1, dnREST, wtREST and mCherry or ns-RFP
+control plasmids (500 ng/well of a 24-well plate) for DNA transfection. M€uller glia from either C57/BL6J or mAscl-creER:flox-Stopflox tdTomato mice were transfected using Dharmafect transfection
+reagent in Optimem medium, in accordance with manufacturer’s
+instructions, one day post passage. After transfection, the media was
+changed to neuronal media (1% FBS with B27 supplemental factor).
+For reference and to test functionality, both, miR-GFP sensors
+and miR-124-9-9*-RFP lentiviral vectors have been tested on human
+embryonic kidney cell line HEK293. Cultures were analyzed 6 h to
+6 days post-transfection/transduction.
+
+Immunofluorescent Labelings
+M€
+uller glia were cultured on Poly-D-lysine (PDL) and Matrigel (Corning) covered coverslips in 24-well plates. Cells were fixed with 2%
+paraformaldehyde (PFA). EdU labeling was carried out using Click-iT
+EdU Kit (Invitrogen). For immunofluorescent staining, cells were
+incubated in blocking solution (5% milk block: 2.5 g nonfat milk
+powder in 50 mL PBS; with 0.5% Triton-X100) for 1 h at RT. Primary antibodies (Table 3) were incubated in 5% milk block overnight, secondary antibodies (Invitrogen/Molecular Probes, and Jackson
+ImmunoResearch, 1:500–1,000) for 1 h at RT and counterstained
+with 40 ,6-diamidino-2-phenylindole (DAPI, Sigma, 1:1,000).
+
+Microscopy, Cell Counts, and Statistical Analysis
+Live imaging was performed using Zeiss Observer D1 with AxioCam. Fixed cells were analyzed by Olympus FV1000 confocal
+microscope. Five to 10 random fields per coverslip, one to two coverslips per condition, at 2003 magnification were counted for every
+condition, of at least five independent experiments. Values are
+expressed as mean 6 SEM. Statistical analysis were performed by
+Student’s t-test for independent samples combined with Levene’s test
+for equality of variances. Holm-Bonferroni method was used to correct for multiple comparisons.
+
+Lentiviral Gene Transfer
+
+Results
+
+Lentiviral particles were added in neuronal medium (see above)
+together with brain derived neurotrophic factor (hBDNF, R&D Systems 10 ng/ml), fibroblast growth factor (bFGF, R&D Systems, 100
+ng/mL), glia derived neurotrophic factor (rGDNF, R&D Systems,
+10 ng/mL), and the Rho-associated kinase (ROCK) inhibitor Thiazovinin (Sigma Aldrich, 10 nM) (Watanabe et al., 2007). M€
+uller glia
+were transduced with lentiviral vectors expressing miR-124-9-9*-RFP
+and ns-RFP at 5-7DIV, and analyzed 2, 5, 8, and 12 days posttransduction. In other experiments, M€
+uller glia were first transduced
+with lentiviral vectors expressing Ascl1-GFP or control GFP at 57DIV, then with either miR-124-9-9*-RFP or ns-RFP lentiviral vectors at 9-10DIV, and analyzed at 15-21DIV.
+
+miR-124 is Absent in Most M€
+uller Glia
+Previous studies have shown that miR-124 is not highly
+expressed in glia (Cheng et al., 2009; Smirnova et al., 2005),
+including adult M€
+uller glia (Sanuki et al., 2011). In order to
+analyze the expression levels of miR-124 together with other
+miRNAs in P11/12 M€
+uller glia cultures, we used either RTqPCR or miR-GFP sensors (Fig. 1A). By RT-qPCR we found
+low levels of miR-124 and miR-9* (Fig. 1B) in dissociated cultures of M€
+uller glial cells (naive). By contrast, miR-9 displayed
+high levels, similar to those of miR-24 and several let-7 family
+members known to be present in glia (La Torre et al., 2013;
+Patterson et al., 2014; Shenoy et al., 2015; Smirnova et al.,
+2005). Next, we compared the expression levels of miRNAs
+from dissociated naive M€
+uller glia with those from newborn
+(P0) mouse retinas, which contain a mix of immature neurons
+and progenitor cells. Normalization to P0 retinas showed that
+M€
+uller glia have much less miR-124, less miR-9, let-7a, and let7f, but show comparable levels of miR-24 and let-7b (Fig. 1C).
+To confirm the findings of the RT-qPCR analysis, we
+used miRNA-sensors. miR-GFP sensors contain mRNA for
+GFP with a specific 3’ UTR that have consensus binding sites
+for a particular miRNA. Therefore, if the particular miRNA
+is absent, GFP mRNA is stable and translated (Fig. 1D). In
+the presence of the miRNA, the sensor mRNA will be
+degraded or its translation will be blocked (Fig. 1D’). First,
+M€
+uller glia cells were transfected with miR-124-GFP sensor
+and mCherry transfection control. mCherry RNA transfection
+resulted in expression in almost every M€
+uller glia after 2 to 3
+
+Reverse Transcriptase Quantitative PCR (RT-qPCR)
+for mRNA and miRNA
+Cells were lysed in Qiazol and RNA was extracted and purified with
+a miRNeasy Mini Kit in accordance to manufacturer’s instructions
+(Qiagen). For conventional mRNA analysis, cDNA was synthetized
+using the iScript cDNA Synthesis Kit (Bio-Rad; primers are listed in
+Table 1). For miRNAs, stem-loop RT primers were used to produce
+cDNA for specific miRNAs (Fiedler et al., 2010). RT-qPCR was
+performed using SsoFast Eva Green Supermix (Bio-Rad) on a BioRad Thermocycler. Primers used are shown in Table 2. At least six
+biological replicates (n) were used; every n consisted of 6 to 10 mice
+of one litter. Reactions were run in triplicates or duplicates for RT or
+–RT samples. Values were normalized to beta actin and/or 5sRNA.
+Delta DCt between treatment (miR-124-9-9*, Ascl1-GFP, and Ascl1GFP/miR-124-9-9*) and corresponding controls (ns-RFP or GFP)
+were calculated and are expressed together with standard error of the
+mean (SEM).
+
+May 2016
+
+745
+
+TABLE 1: RT-qPCR Primers
+
+Gene name
+
+Forward sequence (5’ to 3’)
+
+Reverse sequence (3’ to 5’)
+
+Actb (beta actin)
+
+GGCTGTATTCCCCTCCATCG
+
+CCAGTTGGTAACAATGCCATGT
+
+Aqp4
+
+CTTTCTGGAAGGCAGTCTCAG
+
+CCACACCGAGCAAAACAAAGA T
+
+Ascl1 (m)
+
+GCAACCGGGTCAAGTTGGT
+
+GTCGTTGGAGTAGTTGGGGG
+
+Ascl1 (h)
+
+CATCTCCCCCAACTACTCCA
+
+CAGTTGGTGAAGTCGAGAAGC
+
+Atoh7
+
+ATCACCCCTACCTCCCTTTCC
+
+CGAAGAGCCTCTGCCCATA
+
+Ctdsp1
+
+GAAGTCAGCAGTTTCCCAGAAG
+
+GCGCCATTTTCCTCCACCA
+
+Dcx (doublecortin)
+
+GCAATGGGGACCCCTTTTTC
+
+GGTGTAGATGTTCCTAACCGC
+
+Gapdh
+
+GGCATTGCTCTCAATGACAA
+
+CTTGCTCAGTGTCCTTGCTG
+
+Glul (glutamine synthetase)
+
+TGAACAAAGGCATCAAGCAAATG
+
+CAGTCCAGGGTACGGGTCTT
+
+Hes5
+
+AGTCCCAAGGAGAAAAACCGA
+
+GCTGTGTTTCAGGTAGCTGAC
+
+Isl1 (islet 1)
+
+TATCCAGGGGATGACAGGAAC
+
+GCTGTTGGGTGTATCTGGGAG
+
+Lin28b
+
+AGAATGCAGTCTACCTCCTCAG
+
+CCTCCCACTTCTCTTGGTGC
+
+Map2
+
+CTCAGCACCGCTAACAGAGG
+
+CATTGGCGCTTCGGACAAG
+
+Nefm (neurofilament-M)
+
+ACAGCTCGGCTATGCTCAG
+
+CGGGACAGTTTGTAGTCGCC
+
+Onecut2
+
+CCACGCCATGAGTATGTCCTG
+
+CGTCAGCGTAGTGTAGGTGTT
+
+Otx2
+
+TATCTAAAGCAACCGCCTTACG
+
+AAGTCCATACCCGAAGTGGTC
+
+Pou4F1(Brn3a)
+
+TGGACATCGTCTCCCAGAGTA
+
+GTGTTCATGGTGTGGTAAGTG
+
+Ptbp1
+
+CCTCTCCGTATGCAGGAGC
+
+CCGTAGACGCCGAAGAGAATAA
+
+Ptbp2
+
+ATGGACGGAATTGTCACTGAGG
+
+TGCCACTCATATTAGAGTTGGGG
+
+Rcor (CoREST)
+
+GTGCCCGACTTCGATCCTG
+
+GATGTACTCGTCCAGTTTTGCT
+
+Rest
+
+CATGGCCTTAACCAACGACAT
+
+CGACCAGGTAATCGCAGCAG
+
+Rlbp1
+
+GGCACTTTCCGCATGGTTC
+
+CCGGGTCTCCTCCTTTTCAT
+
+S100b
+
+TGGTTGCCCTCATTGATGTCT
+
+CCCATCCCCATCTTCGTCC
+
+Slc1a3 (GLAST)
+
+ACCAAAAGCAACGGAGAAGAG
+
+GGCATTCCGAAACAGGTAACTC
+
+Tubb3 (beta III tubulin)
+
+TAGACCCCAGCGGCAACTAT
+
+GTTCCAGGTTCCAAGTCCACC
+
+days (Fig. 1E). Approximately 65% of all transfected
+mCherry1 cells were also GFP1; meaning they did not
+express sufficient levels of miR-124 to prevent the sensor
+expression (Fig. 1F-F’,H). To validate miR-124-GFP sensor
+functionality, miR-124 mimics were added to the glial cultures along with the sensors. The miR-124 mimics caused a
+large reduction in the number of cells expressing the sensor
+(Fig. 1G-G’,H). We also tested miR-124-GFP sensors on
+HEK293 cells, known to lack most miRNAs, to verify their
+functionality (Supp. Info. Fig. S1A-A’’).
+Next, we used a sensor for miR-9 to confirm the RTqPCR data. We first tested miR-9-GFP sensors for functionality in HEK293 cells (Supp. Info. Fig. S1B-B’’). When the
+sensor was transfected into cultured glia, we found very few
+green cells (less than 10%), indicating that 90% of M€
+uller
+746
+
+glia in vitro have sufficient levels of miR-9 to prevent sensor
+expression (Supp. Info. Fig. S2A’-A’’,C). We confirmed that
+the sensor was reporting correctly by co-transfection of miR-9
+antagomiR, which resulted in an increase in sensor expression
+(Supp. Info. Fig. S2B’-B’’,C).
+Taken together, the RT-qPCR and transfection data
+show that miR-124 and miR-9* are expressed at low levels in
+the majority of dissociated P11/12 M€
+uller glia; however,
+miR-9 is expressed by glia but in lower levels than in progenitors/immature neurons.
+miR-124-9-9* Overexpression Leads to
+Upregulation of Progenitor and Neuronal Genes
+To determine whether miR-124-9-9* can promote M€
+uller glia
+reprogramming into neurons, we used a viral approach which
+Volume 64, No. 5
+
+May 2016
+
+Forward sequence (50 to 30 )
+
+CGG CCT GAG GTA GTA
+GGT TG
+
+CGC CCT GAG GTA GTA
+GGT TG
+
+CGC CGC TGA GGT AGT
+AGA TTG
+
+GCG GCC TGG AAT GTA
+AAG AA
+
+GCC GGT CTT TGG TTA
+TCT AGC
+
+GCG CCC CAT AAA GCT
+AGA TAA C
+
+CCG TTA AGG CAC GCG
+GTG A
+
+CGC CTG GCT CAG TTC
+AGC A
+
+GCC ATA CCA CCC TGA
+ACG
+
+miRNA
+
+let-7a
+
+let-7b
+
+let-7f
+
+miR-1
+
+miR-9
+
+miR-9*
+
+miR-124
+
+miR-24
+
+5s
+
+TABLE 2: RT-qPCR Primers for miRNAs
+
+TGC AGG GTC CGA GGT
+ATT CG
+
+GCA GCT CTT CAT TTA
+CGG TCC A
+
+GGA TGA CTC AAC GCG
+GGC TA
+
+AGG TGG AGC TTT GGA
+TGG TG
+
+TTT CCT CGA CCG CAC
+CAC TC
+
+CAG TTC AGC AGG GTC
+ATA GG
+
+GCT TGC GTG TTA TTT
+CCT GAT GG
+
+GCA CGC TAG GGA ACA
+TCA GG
+
+GCT TGC GTG TTA TTT
+CCT GAT GG
+
+Reverse sequence (30 to 50 )
+
+ACT GCT GCG CTG CAG GGT CCG AGG TAT TCG GCG CAG
+CAG TAA AGC CTA
+
+CTC GAG ACG CAG CTC TTC ATT TAC GGT CCA GCG TCT
+CGA GCT GTT CCT
+
+TGT ATC TTG CGG ATG ACT CAA CGC GGG CTA GCA AGA
+TAC AGG CAT TCA
+
+AGC TAC TCG CAG GTG GAG CTT TGG ATG GTG GCG AGT
+AGC TAC TTT CGG
+
+AAA TCG CAG CTT TCC TCG ACC GCA CCA CTC GCT GCG
+ATT TTC ATA CAG
+
+TCG CGA CTG CCA GTT CAG CAG GGT CAT AGG GCA GTC
+GCG AAT ACA TAC
+
+CGC TAC ACG CTT GCG TGT TAT TTC CTG ATG GCG TGT
+AGC GAA CTA TAC A
+
+ATC AGG TAG CGC ACG CTA GGG AAC ATC AGG GCT ACC
+TGA TAA CCA CAC
+
+CGC TAC ACG CTT GCG TGT TAT TTC CTG ATG GCG TGT
+AGC GAA CTA TAC A
+
+Stem loop RT primer (30 to 50 )
+
+Wohl and Reh: miRNAs in Glial Reprogramming
+
+747
+
+TABLE 3: Primary Antibodies
+
+Antibody
+
+Concentration
+
+Company, Catalog #
+
+rat anti RFP
+
+1:500
+
+Antibodies online, ABIN334653
+
+chicken anti GFP
+
+1:250
+
+Abcam, ab13970
+
+mouse anti beta III tubulin (TUJ1)
+
+1:1,000
+
+Covance, MMS-435P
+
+mouse anti MAP2
+
+1:200
+
+Sigma, M4403
+
+goat anti doublecortin (Dcx)
+
+1:100
+
+Santa Cruz, sc-8066
+
+rabbit anti Neurofilament (NF)-M
+
+1:250
+
+Millipore, AB1987
+
+rabbit anti Calbindin
+
+1:1,000
+
+Millipore, AB1778
+
+rabbit anti Calretinin
+
+1:1000
+
+SWANT, 7697
+
+mouse anti Ascl1
+
+1:200
+
+BD Pharmingen, 556604
+
+has been previously described to reprogram fibroblasts to neurons (Yoo et al., 2011). To ensure functionality, we transfected miR-124-9-9*-transduced HEK293 cells with miR124-GFP sensor. None of the miR-124-9-9*- transduced cells
+were positive for GFP implying that miR-124 was overexpressed successfully (Supp. Info. Fig. S1C-C’’). As a control,
+we used nonsense (ns)-RFP lentiviral vectors, which encodes
+for a non-specific hairpin. Dissociated M€
+uller glial cells were
+transduced after 6-9DIV, when they reached confluence (Fig.
+2A). RT-qPCR for miRNAs revealed that miR-124-9-9* lentiviral particle-transduction resulted in increased levels of
+miR-124, miR-9, and miR-9*, while other miRNAs remained
+unaffected (Fig. 2B). Interestingly, miR-124 displayed a fourcycle increase as compared with naive controls. miR-9 and
+miR-9* were increased by about two cycles after transduction.
+We cannot explain why miR-9 and miR-9* levels are not
+increasing in a similar manner as miR-124 does. However, in
+case of miR-9, it is probably due to the fact that naive glia
+express this miRNA at higher levels. Next, we analyzed
+mRNA levels of genes expressed highly in retinal progenitors,
+but normally not in M€
+uller glia. RT-qPCR data showed that
+there was a significant upregulation for the retinal progenitor
+genes Ascl1 and Hes5 (Fig. 2C). Otx2 and Islet1, two genes
+expressed in retinal neurons early in their differentiation
+(Boije et al., 2014) also increased. Interestingly, these two
+genes were also upregulated after Ascl1 transduction (Pollak
+et al., 2013). Besides progenitor genes, we found increased
+RNA levels of neuronal genes such as Neurofilament-M (NFM), doublecortin (Dcx), MAP2, and TUJ1 but not Brn3a
+(Fig. 2D). These results are consistent with the hypothesis
+that miR-124-9-9* can promote retinal progenitor gene
+expression and reprogram the cells to a neurogenic state, possibly by reducing expression of some target gene(s). We also
+748
+
+analyzed the expression levels of glial genes. We found that
+genes such as retinaldehyde binding protein 1 (Rlbp1, which
+encodes for the cellular retinaldehyde binding protein
+Cralbp), glutamine synthetase (Glul, also known as
+glutamate-ammonia ligase, GS), S100b calcium binding protein b, solute carrier family 1 member 3 (glial high affinity
+glutamate transporter, Slc1a3, also known as GLAST, Eaat1),
+and Aquaporin4 (Aqp4) were significantly downregulated as
+compared with controls, consistent with the loss of glial identity (Fig. 2E).
+To further confirm Ascl1 induction after miR-124-9-9*
+overexpression we used cultured M€
+uller glia from AsclcreER:flox-Stop-flox tdTomato mice, in media containing 4hydroxytamoxifen to allow reporter expression. We transfected
+them with the miR-124, miR-9, and miR-9* mimics
+(500 nM each, Fig. 3A). We found an increase in tdTomato1
+cells over time with a sixfold increase 6 days post-transfection
+(Fig. 3B,D).
+To determine whether miR-124-9-9* transduction
+reprograms M€
+uller glia to neurons, we labeled the cultures
+with EdU and neuronal markers, TUJ1 and MAP2. Five to
+12 days after miR-124-9-9* transduction, 15% of all proliferating RFP1 cells were TUJ11 (controls <5%) and had a
+neuronal morphology (Fig. 4A-A’’’,B-B’’,E). The increase in
+TUJ1 was consistent with the RT-qPCR data (Fig. 2D). We
+also used MAP2 as a marker for more mature neurons (Fig.
+4C-C’’’,D-D’’). Five days after miR-124-9-9* transduction,
+no noticeable MAP2 signals were detected in RFP1EdU1
+cells; however, after 8 to 12 days, 11 to 15% of all
+RFP1EdU1 cells were MAP21 (Fig. 4E’) reflecting the
+MAP2 mRNA increase we observed before (Fig. 2D). The
+transduction efficiency for miR-124-9-9*-RFP infection was
+60%, and the control nonsense-RFP transduction was
+Volume 64, No. 5
+
+Wohl and Reh: miRNAs in Glial Reprogramming
+
+FIGURE 1: miR-124 levels are low in cultured naive M€
+uller glia cells. A, Cell culture and transfection (TF) scheme. B, miRNA RT-qPCR
+to evaluate levels miRNAs in naive glia including miR-124, miR-9, and miR-9*. Levels of miR-124 are lower than the majority of other
+miRNAs known to be present in M€
+uller glia (e.g., let-7). C, miRNA RT-qPCR from dissociated M€
+uller glia normalized against miRNA levels
+from P0 retinae: levels of miR-124 but also miR-9 are lower in M€
+uller glia when compared with newborn retinas than every other miRNA
+tested. D, Scheme of miR-124 sensor mechanism. In the absence of miR124, GFP mRNA is translated into GFP protein. In the presence
+of miR-124, the 3’ UTR region of the GFP mRNA is targeted by miR-124 resulting in repression of GFP protein expression (D’). E, Transfection of mCherry RNA results in expression of almost every M€
+uller glia in culture (99%). F, G, miR-124-GFP sensor expression in cultured M€
+uller glia together with mCherry transfection control. F, F’, Most M€
+uller glia do not have miR-124 (GFP1). G, G’, After
+transfection of miR-124 mimics (artificial miRNA), the sensor signal is knocked down in almost every cell 1d post-transfection (1dpTF). H,
+Number of miR-124-GFP sensor1 cells in naive and mimic transfected M€
+uller glia. Mean 6 SEM, Student’s t-test: *P < 0.05; **: P < 0.01;
+scale bar in E: 50 lm, in F’, G’: 100 lm. TF: transfection.
+
+80%. In miR-124-9-9*-transduced cultures we observed cell
+survival of 60% over the culture period as compared with
+controls (not shown).
+In order to investigate whether miR-124-9-9*transduced M€
+uller glia results in a variety of different types of
+May 2016
+
+neurons, we tested additional neuronal markers. Approximately 3% of all RFP1EdU1 cells were positive for the early
+neuronal marker Dcx, which has been reported to be
+expressed in miR-124-expressing migrating neurons ((Volvert
+et al., 2014); Fig. 5A-A’’’). Approximately 5% of all
+749
+
+FIGURE 2: Viral expression of miR-124-9-9* in M€
+uller glia cells results in change in upregulation of neuronal genes. A, Cell culture and
+transduction scheme. B, miRNA RT-qPCR analysis showed that miR-124, miR-9, and miR-9* were significantly upregulated in M€
+uller glia
+after transduction (TD) while other miRNAs were unaffected. C, RT-qPCR revealed upregulation of progenitor genes Ascl1, Hes5, Otx2,
+and Islet1. D, In addition to progenitor genes, neuronal genes including Neurofilament (NF)-M, Dcx, MAP2, and TUJ1 were upregulated.
+E, Analysis of glial gene expression revealed that Rlbp1, Glul, S100b, Slc1a3, and Aqp4 were downregulated. Mean 6 SEM. Students ttest: *P < 0.05; **: P < 0.01.
+
+RFP1EdU1 cells were labeled for Neurofilament-M (Fig. 5BB’’’). Occasional cells (less than 2%) expressed the markers
+Calbindin (Fig. 5C-C’) and Calretinin (Fig. 5D-D’), proteins
+normally present in amacrine and horizontal cells (both interneurons) in the retina. Interestingly, some of these cells displayed complex morphological structures (Fig. 5C’’,D’’)
+consistent with retinal amacrine and ganglion cell types.
+750
+
+miR-124-9-9* Facilitates M€
+uller Glia Reprogramming
+by Ascl1
+We previously reported that Ascl1-GFP overexpression can
+reprogram M€
+uller glia to a neurogenic state, activating progenitor genes and inducing the cells to generate neurons.
+However, we found that only about 30% of the M€
+uller glial
+cells were reprogrammed by Ascl1 (Pollak et al., 2013).
+Volume 64, No. 5
+
+Wohl and Reh: miRNAs in Glial Reprogramming
+
+FIGURE 3: miR-124, miR-9, and miR-9* mimics induce Ascl1 expression in M€
+uller glia. A, Cell culture and transfection scheme. 4Hydroxytamoxifen to activate the Cre recombinase was added to medium at the time of miR-124-9-9* or control mimics transfection, 1
+day post passage. B, C, Live images of Ascl-creER:flox-stop-flox tdTomato M€
+uller glia cultures 6 days post-miR-124-9-9* mimics or control mimic transfection (500 nM). tdTomato1 cells are shown as red fluorescent image merged with gray scale in order to visualize the
+entire cell including fine processes. B’, C’, phase, images. D, Time-course of the number of tdTomato1 cells per field after mimic transfection. Scale bars: 100 lm. TF: transfection.
+
+Therefore, we tested whether miR-124-9-9* can synergize
+with Ascl1 and improve the reprogramming process. We
+tested various paradigms including (a) both factors together
+one day post passage and (b) first miR-124-9-9* and 2 to 4
+days later Ascl1. Finally decided to induce Ascl1 expression
+May 2016
+
+on the first day after passage, followed by miR-124-9-9* (3–4
+days after Ascl1 induction, Fig. 6A,B). RT-qPCR confirmed
+that Ascl1 levels increased significantly and to similar levels in
+cells expressing Ascl1 alone, or in combination with miR124-9-9*, as compared with GFP-controls (Fig. 6C). We also
+751
+
+FIGURE 4: Overexpression of miR-124-9-9* results in about 15% TUJ11 glia derived neurons 8 to 12 days after transduction. A–D, Immunofluorescent labeling of miR-124-9-9*-transduced M€
+uller glia with antibodies against TUJ1, MAP2, and RFP. Nuclei are stained with
+DAPI, proliferative cells with EdU. E, Relative number of newly generated TUJ11 neurons (TUJ11RFP1EdU1) of the total number of
+RFP1EdU1 cells 5, 8, and 12 days post-miR-124-9-9* and nonsense (ns) transduction (dpTD). E’, Relative number of newly generated
+MAP21 neurons (MAP21RFP1EdU1) of the total number of RFP1EdU1 cells 8, and 12 days after miR-124-9-9* and nonsense (ns) transduction in relation to TUJ11 neurons. Mean 6 SEM. Student’s t-test: *P < 0.05; **P < 0.01. Scale bars: 50 lm.
+
+752
+
+Volume 64, No. 5
+
+Wohl and Reh: miRNAs in Glial Reprogramming
+
+FIGURE 5: miR-124-9-9* induces expression of various neuronal markers in M€
+uller glia including doublecortin (Dcx), Calbindin, Calretinin,
+and Neurofilament-M. A–D: Immunofluorescent labeling of miR-124-9-9*-transduced M€
+uller glia with antibodies against Dcx (A-A’’’),
+Neurofilament-M (B-B’’’), Calbindin (C-C’’), and Calretinin (D-D’’), and RFP. Nuclei are stained with DAPI, proliferative cells with EdU.
+Some cells have also neuron specific structures such as complex process endings (box 1 in C, C’, in higher magnification in C’’) or knotlike structures (box 2 in D, D’, in higher magnification in D’’). Scale bars 50 lm.
+
+found increased levels of miR-124, miR-9, and miR-9* in Ascl1/
+miR-124-9-9* co-transduced cells, confirming successful overexpression of the miRNAs in co-transduced cultures (Fig. 6D).
+miR-124-9-9* levels in the co-transduced cultures were similar to
+levels in miR-124-9-9* single transduced cultures (Fig. 2B).
+However, we also observed an upregulation of let-7a and let-7b
+after co-transduction, which was not seen after miR-124-9-9*
+overexpression (Figs. 2B and 6D). In addition, we observed significantly increased levels of miR-124 after Ascl1 transduction,
+consistent with a previous report in P19 cells (Yu et al., 2008).
+Next, we tested the expression of key retinal developmental genes, specific to particular cell types. Atoh7, Islet1,
+and Onecut2 are expressed early in retinal neurogenesis and
+are important for generation of retinal ganglion cells and
+other early-generated cell types, whereas Otx2 is necessary for
+May 2016
+
+photoreceptors and bipolar cells (Boije et al., 2014). Ascl1
+transduction resulted in a significant upregulation of all of
+these genes, in accordance to our previous study (Pollak
+et al., 2013). After co-transduction with Ascl1 and miR-1249-9*, all tested progenitor genes were significantly upregulated
+and only Atoh7 showed an increase in expression compared
+with Ascl1 alone (Fig. 6E). Next, we analyzed mRNA levels
+of glial genes. After Ascl1 single transduction, we found a significant downregulation of Rlbp, Glul, Slc1a3, and Aqp4,
+consistent with the data of our previous study (Pollak et al.,
+2013) and that of other reports about the loss of glial properties after Ascl1 induction (Wurm et al., 2009). After transduction of Ascl1 in combination with miR-124-9-9*, similar
+results were found, only Slc1a3, the gene for Glast, was lower
+expressed as in Ascl1 transduced cultures (Fig. 6F).
+753
+
+FIGURE 6: Ascl1-GFP co-transduction with miR-124-9-9* results in an altered expression of miRNAs and several neuronal and glial
+mRNAs. A, Cell culture and transduction scheme. B, Live images of 16DIV M€
+uller glia infected with Ascl1-GFP/miR-124-9-9*-RFP lentiviral
+vectors (8 days post-Ascl1 and 4 days post-miR-124-9-9* transduction). C: RT-qPCR confirmed similar levels of upregulated Ascl1 in
+both, Ascl1 and Ascl1/miR-124-9-9*-transduced cells. D, miRNA RT-qPCR analysis showed that miR-124 is upregulated in Ascl1transduced cells. Besides miR-124, miR-9/9*, miR-24, and some members of the let-7 family were also increased in Ascl1/miR-124-9-9*
+co-transduced M€
+uller glia. E, RT-qPCR showed upregulation of progenitor and neuronal genes in Ascl1. Co-transduction resulted in a further increase of Atoh7, while all other genes were unaffected. F, Analysis of glial gene expression revealed that Rlbp, Glul, Slc1a3, and
+Aqp4 were downregulated after both, Ascl1 and Ascl1/miR-124-9-9* with lower Scl1a3 levels after Ascl1/miR-124-9-9*. Mean 6 SEM.
+Students t-test: *P < 0.05; **P < 0.01. Scale bar 100 lm.
+
+754
+
+Volume 64, No. 5
+
+Wohl and Reh: miRNAs in Glial Reprogramming
+
+FIGURE 7: Ascl1-GFP co-transduction with miR-124-9-9* results in more MAP21 and TUJ11 neurons. A–C, Immunofluorescent staining
+with antibodies against MAP2 and GFP. Nuclei are counterstained with DAPI, proliferating cells with EdU. A-A’, 8 days after Ascl1, B-B’,
+8 days after Ascl1 and 4 days after miR-124-9-9*, and C-C’, 8 days after GFP control vector transduction. Boxes in A–C are shown in
+higher magnification in A’–C’, respectively. M€
+uller glia-derived neurons (MAP21GFP1EdU1) are indicated by blue arrows, EdU-negative
+neuronal survivors are indicated by yellow arrows. Big nuclei from non-neuronal cells are indicated by asterisks which are almost absent
+in the double infected cultures. D, MAP21GFP1EdU1 cells of the total number of GFP1EdU1 cells after Ascl1 alone or co-transduction.
+E, TUJ11GFP1EdU1 cells of the total number of GFP1EdU1 cells after Ascl1 alone or co-transduction. F, Relative number of Ascl1-GFP
+and control-GFP cells of total EdU1 cells. Scale bars in A–C: 100 lm, A’–C’: 50 lm. Mean 6 SEM. Student’s t-test: *P < 0.05; **P < 0.01.
+
+Although RT-qPCR did not show any changes in expression levels of retinal developmental genes, except for Atoh7, we
+analyzed the cultures for more general neuronal markers
+MAP2 and TUJ1, and quantified the numbers of newly generated (EdU1) neurons. We found that 30% of the total
+GFP1EdU1 cells expressed MAP21 in Ascl1-transduced cultures (Fig. 7A-A’, blue arrows, D) similar to our previous
+May 2016
+
+results (Pollak et al., 2013). In Ascl1/miR-124-9-9* cotransduced cultures however, the fraction of newly generated
+neurons was 63% (Fig. 7B-B’, blue arrows, D), which represents a further increase of the newly generated fraction by 33%
+as compared with Ascl1 alone. The fraction of
+MAP21GFP1EdU1 cells in control wells was <2% (Fig. 7CC’,D). In all cultures, there were a small numbers of retinal
+755
+
+neurons that survived the dissociation and culture period.
+These cells are also MAP21 but could be distinguished from
+newly generated neurons because of their lack of EdU (Fig.
+7A’,B’ yellow arrows). In addition, in Ascl1-transduced cultures, we found a noticeable number of cells with big nuclei
+(Fig. 7A’ asterisks), which are the most prevalent cell type in
+control cultures (Fig. 7C’ asterisks), indicating incomplete
+reprogramming. In Ascl1/miR-124-9-9* co-transduced cultures
+however, these cells were rare (Fig. 7B’ asterisks).
+Next, we counted numbers of TUJ11GFP1EdU1 cells
+for Ascl1 alone and Ascl1/miR-124-9-9* co-transduced cultures and compared them to the GFP-controls. In controls,
+there were very few TUJ11 cells (<1%) that were labeled
+with EdU; by contrast, in Ascl1-transduced cultures, 37% of
+total GFP1EdU1 cells expressed TUJ1 (Fig. 7E), in accordance with our previous study (Pollak et al., 2013). Interestingly, similar neuronal fractions have been also reported
+recently after astrocyte reprogramming with Ascl1 (Masserdotti et al., 2015). However, in cultures transduced with both
+Ascl1 and miR-124-9-9*, 59% of the total GFP1EdU1 cells
+were labeled with TUJ1, an increase of 22% as compared
+with Ascl1 alone. For all three conditions, we obtained transduction efficiencies over 90% (Fig. 7F) and cell survival of
+between 54% (co-transduced) and 62% (Ascl1 alone) over
+the culture period (not shown). Taken together, the results
+show that the combination of Ascl1 with miR-124-9-9*
+results in larger fractions of glial-derived, newly generated
+neurons that are MAP21 and TUJ11.
+Ctdsp1 and Ptbp1 of the REST Complex are
+Downregulated in miR-124-9-9*-Transduced
+M€
+uller Glia
+The mechanisms through which miR-124-9-9* promotes
+reprogramming may be related to those through which it regulates neurogenesis. To determine whether some of the same
+targets were involved, we focused on target genes of miR-124
+and miR-9/9* that are down-regulated in neurogenesis, but
+are also expressed in M€
+uller glia. We used Targetscan (http://
+www.targetscan.org/) and miRbase (http://www.mirbase.org/)
+to screen for these targets (Table 4). We compared expression
+levels of target genes in M€
+uller glia with a previously generated cDNA microarray analysis of P12 cultured M€
+uller glia
+(Pollak et al., 2013). We focused on miR-124 targets, since
+this miRNA showed the highest increase in RT-qPCR. We
+found a significant decrease in Ctdsp1 and Ptbp1 gene levels
+in miR-124-9-9*-transduced M€
+uller glia as compared with
+controls (Fig. 8A, Table 4, blue lines). Both genes are highly
+expressed in cultured M€
+uller glia and known targets of miR124 (Makeyev et al., 2007; Visvanathan et al., 2007; Yeo
+et al., 2005). We also observed an increase of Ptbp2, a gene
+negatively regulated by Pbtb1 and known to be upregulated
+756
+
+in neuronal cells (Boutz et al., 2007; Makeyev et al., 2007).
+Other potential targets, including CoREST (Volvert et al.,
+2014; Wu and Xie, 2006), and also REST itself, Ezh2 (Neo
+et al., 2014) and a variety of other genes (data not shown, see
+Table 4) showed no significant changes in mRNA levels in
+the miR-124-9-9* infected cultures. In order to confirm the
+repressor characteristics of Ctdsp1 and REST, we transfected
+M€
+uller glia with dnCtdsp1 and dnREST plasmids (Supp.
+Info. Fig. S3A). Ascl-creER: flox-Stop-flox tdTomato M€
+uller
+glia cell cultures were used to test for Ascl1 induction. We
+found increased numbers of tdTomato1 cells after dnCtdsp1,
+but not after wtCtdsp1 plasmid transfection (Supp. Info. Fig.
+S3B-B’,C-C’, respectively), confirming that inhibition of
+Ctdsp1 has the same effect on Ascl1 induction as miR-124-99* overexpression. Moreover, 6 days after transfection with
+either dnCtdsp1 or dnREST, we found MAP21EdU1 neurons (Supp. Info. Fig. S3D-D’,E-E’), although plasmid transfections were less efficient than viral transduction (6% vs.
+60% respectively), and so, the results are not directly comparable. Nevertheless, using this approach, we find that inhibition of the REST pathway leads to upregulation of Ascl1 and
+neuronal reprogramming.
+
+Discussion
+miRNAs have been reported to play important roles in glial
+development and maintenance (Buller et al., 2012; Georgi
+and Reh, 2011; Kuang et al., 2012; Zheng et al., 2010) for
+review see (Bian et al., 2013) and in gliosis (Mor et al., 2011;
+Wang et al., 2015). However, to our knowledge, this is the
+first report to show they can be used to reprogram glia to a
+neurogenic state. Here we show for the first time that the
+miRNAs, more precisely miR-124-9-9*, can promote the
+expression of neuronal progenitor genes, like Ascl1 in the
+glia, and ultimately reprogram the glial cells into neuronal
+cells. In addition, if miR-124-9-9* is combined with Ascl1, it
+potentiates M€
+uller glia reprogramming, yielding more neurons than with either miR-124-9-9* or Ascl1 alone. We also
+found a significant downregulation of Ctdsp1 and Ptbp1
+mRNA, both components of the REST complex, suggesting
+that this repressive pathway functions in glia to maintain their
+phenotype and prevent reprogramming to neurons.
+A Role for miRNAs in Reprogramming NonNeuronal Cells to Neurons
+Overexpression of key proneural transcription factors such as
+NeuroD, Brn2, Myt1l, Sox2, and Ascl1 can cause a significant percentage of fibroblasts, P19 cells, astroglia, or NG2
+glia to differentiate into neurons (Caiazzo et al., 2011; Corti
+et al., 2012; Heinrich et al., 2012, 2014; Pang et al., 2011;
+Pollak et al., 2013; Vierbuchen et al., 2010). In our previous
+studies, we found that overexpression of Ascl1 was sufficient
+Volume 64, No. 5
+
+Wohl and Reh: miRNAs in Glial Reprogramming
+
+TABLE 4: miR-124, miR-9, miR-9* Target Screen and mRNA Expression Levels of Target Genes in P12 M€
+uller Glia
+(Microarray). [Color table can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+
+Gene Name Name
+
+P12 glia in vitro
+
+miRNA sites target scan/
+miRBase
+miR-124 miR-9 miR-9* Others
+
+Ctdsp1
+
+Carboxy-terminal domain, RNA polymerase II, polypeptide A 11
+
+4
+
+–
+
+–
+
+6
+
+Ptbp1
+
+Polypyrimidine tract binding protein 1
+
+11
+
+1
+
+1
+
+–
+
+22
+
+Rcor
+
+REST corepressor 1, CoREST
+
+9
+
+2
+
+1
+
+–
+
+>30
+
+REST
+
+RE1-silencing transcription factor
+
+9
+
+–
+
+2
+
+–
+
+>30
+
+Sox9
+
+SRY-box containing gene 9
+
+11
+
+1
+
+–
+
+1
+
+NA
+
+Lhx2
+
+LIM homeobox protein 2
+
+11
+
+1
+
+–
+
+–
+
+1
+
+Plekhm3
+
+Pleckstrin homology domain containing, family M, member 3 10
+
+4
+
+–
+
+–
+
+18
+
+Ptgn
+
+Protogenin
+
+7
+
+3
+
+3
+
+2
+
+>30
+
+Vim
+
+Vimentin
+
+13
+
+1
+
+-
+
+1
+
+Lin28a
+
+LIM homeobox protein 2a
+
+7
+
+–
+
+1
+
+–
+
+>30
+
+Lin28b
+
+LIM homeobox protein 2b
+
+7
+
+1
+
+3
+
+–
+
+>30
+
+Ezh2
+
+Enhancer of zeste homolog 2
+
+10
+
+1
+
+–
+
+–
+
+>30
+
+Lhx9
+
+LIM homeobox protein 9
+
+6
+
+1
+
+1
+
+3
+
+NA
+
+Cdkn1b
+
+Cyclin-dependent kinase inhibitor 1B
+
+11
+
+1
+
+1
+
+1
+
+NA
+
+Kdm5a
+
+Lysine (K)-specific demethylase 5A
+
+9
+
+1
+
+6
+
+2
+
+NA
+
+Gria3
+
+Glutamate receptor, ionotropic, AMPA3 (alpha 3)
+
+11
+
+3
+
+1
+
+2
+
+NA
+
+Sfrp1
+
+Secreted frizzled-related protein 1
+
+12
+
+1
+
+1
+
+1
+
+NA
+
+Socs5
+
+Suppressor of cytokine signaling 5
+
+9
+
+1
+
+2
+
+1
+
+NA
+
+ROCK2
+
+Rho-associated coiled-coil containing protein kinase 2
+
+11
+
+1
+
+1
+
+1
+
+NA
+
+Mbd2
+
+Methyl-CpG binding domain protein 2
+
+11
+
+1
+
+2
+
+1
+
+NA
+
+Arnt
+
+Aryl hydrocarbon receptor nuclear translocator
+
+10
+
+1
+
+3
+
+1
+
+NA
+
+Bcl6
+
+B-cell leukemia/lymphoma 6
+
+9
+
+1
+
+1
+
+1
+
+NA
+
+BCl2l11
+
+BCL2-like 11 (apoptosis facilitator)
+
+8
+
+4
+
+3
+
+2
+
+NA
+
+Blue lines: downregulated targets of miR-124-9-9* in the present study; gray lines: targets of all three miRNAs which did not change; white
+lines: reported genes of at least one miRNA from the triplet which did not change.
+NA: not analyzed.
+
+to promote partial reprogramming in mouse M€
+uller glia (Pollak et al., 2013). Interestingly, miRNAs have been reported to
+reprogram fibroblasts or P19 cells into neurons, and moreover, potentiate transcription factor-induced reprogramming.
+The miRNAs miR-124 and miR-9 are highly enriched
+in the CNS, and are known to be regulators of neurogenesis
+(Cheng et al., 2009; Krichevsky et al., 2006; Lim et al.,
+2005; Neo et al., 2014; Smirnova et al., 2005; Yu et al.,
+2008). Moreover, miR-124, alone or in combination with
+miR-9/9*, has been reported to reprogram fibroblasts (Yoo
+et al., 2011) and P19 cells (Visvanathan et al., 2007) into
+May 2016
+
+functional neurons and can substitute for proneural transcription factors. However, there are no previous reports that this
+approach would also apply to glial cells.
+Here we show for the first time that overexpression of
+miR-124-9-9* can also reprogram M€
+uller glia to produce
+neurons, without any additional neurogenic reprogramming
+factors. Overexpression of miR-124-9-9* causes an increase in
+progenitor genes, including Ascl1, and neuronal genes (e.g.,
+Dcx); a significant percentage of the cells expressed neuronal
+markers (e.g., MAP2, TUJ1) and showed morphological characteristics of neurons. These results are consistent with
+757
+
+FIGURE 8: miR-124-9-9* targets Ctdsp1 and Ptbp1 and appears to act via the REST/CoREST/Ctdsp1/Ptbp1 pathway. A, RT-qPCR of miR124-9-9*-transduced M€
+uller glia showed downregulation of Ctdsp1 and Ptbp1 but upregulation of Ptbp2. Ctdsp1 and Ptbp1 are components of the REST complex which silences neuronal genes in non-neuronal cells. Since these components are downregulated while Ptbp2
+is upregulated, M€
+uller glia reprogramming appears to utilize the same mechanism as fibroblast reprogramming or neurogenesis. This
+mechanism is shown in B. For simplification, only the inhibitory interactions are shown. Inactive/silenced components are displayed in
+gray. In non-neuronal or progenitor cells, the REST complex, which has REST, CoREST, and MeCP2 in its core, represses the expression
+of neuronal genes (e.g., Ascl1) and targets brain-enriched miRNAs including miR-124, miR-9/9*. The REST complex is stabilized by
+Ctdsp1 and is also indirectly supported by Ptbp1. Ptbp1 also represses Ptbp2. In neuronal cells and miR-124-9-9*reprogrammed cells,
+the members of the REST core complex are targeted and silenced by miR-124, miR-9/9* which leads to expression of neuronal genes
+including Ascl1. These targets are here Ctdsp1 and Ptbp1. Modified after (Abrajano et al., 2009b; Sun et al., 2013; Visvanathan et al.,
+2007; Wu and Xie, 2006; Xue et al., 2013). The stars mark the factors which changed after miR-124-9-9* overexpression in converted
+M€
+uller glia. t-test: *P < 0.05; **P < 0.01. Ctdsp1: carboxy-terminal domain, RNA polymerase II, polypeptide A; Ptbp1: polypyrimidine
+tract binding protein 1; Ptbp2: polypyrimidine tract binding protein 2; REST: RE1-silencing transcription factor; CoREST: Co-repressor of
+REST; MeCP2: methyl CpG-binding protein2; Ascl1: Achaete-scute homolog bHLH transcription factor.
+
+previous reports in migrating neuronal progenitors (Volvert
+et al., 2014), P19 cells (Visvanathan et al., 2007), and fibroblasts (Yoo et al., 2011) where Dcx, Ngn2 together with NeuroD, and TUJ1 expression increased either because of
+increasing endogenous miR-124 expression (during neurogenesis) or vector mediated miR-124 overexpression (reprogramming). Interestingly, miR-124-9-9* overexpression alone can
+reprogram a small percentage of fibroblasts to neurons, but is
+much more effective when combined with other proneural
+transcription factors (Yoo et al., 2011). Moreover, miR-124
+alone can also induce modest neuronal reprogramming in
+P19 cells (Visvanathan et al., 2007) but noticeable neuronal
+758
+
+differentiation in neuroblastoma cells (Makeyev et al., 2007),
+without any other factors. These results suggest that cells in
+the neural lineage including glia, are more likely to be reprogrammed by miR-124 than cells from different lineages, such
+as fibroblasts.
+We also found that the combination of Ascl1 and miR124-9-9* resulted in a higher fraction of reprogrammed cells,
+when compared with that observed with Ascl1 alone. This
+synergistic effect has also been reported in fibroblasts (Ambasudhan et al., 2011; Yoo et al., 2011) as well as in P19 cells
+(Yu et al., 2008), but not for any glia cell type yet. The synergy may be in part due to the fact that Ascl1 overexpression
+Volume 64, No. 5
+
+Wohl and Reh: miRNAs in Glial Reprogramming
+
+causes an increase of endogenous miR-124 (Yu et al., 2008),
+and the induction of neurogenesis induces miR-124 (Conaco
+et al., 2006; Makeyev et al., 2007; Yu et al., 2008), and miR9-9* (Sempere et al., 2004).
+miR-124-9-9* Act via the REST Complex by
+Repressing Specific Components
+One of the major mechanisms by which miR-124 regulates
+neuronal gene expression is via its repression of the antineuronal
+REST/CoREST/Ctdsp1/Ptbp1/Ptbp2
+pathway
+(Chong et al., 1995; Conaco et al., 2006; Makeyev et al.,
+2007; Nesti et al., 2014; Schoenherr and Anderson, 1995;
+Visvanathan et al., 2007; Wu and Xie, 2006; Xue et al.,
+2013; Yeo et al., 2005), summarized in Fig. 8B. The REST
+complex consists of REST itself, CoREST, and the methyl
+CpG binding protein 2 (MeCP2) and is stabilized by Ctdsp1.
+In non-neuronal cells, REST targets neuronal genes as well as
+miR-124, miR-9, and miR-9* and represses their expression.
+In neurons and in their precursors, miR-124, miR-9, and
+miR-9* target members of the REST complex, which allows
+expression of neuronal genes.
+Our results show that Ctdsp1 is reduced by expression
+of miR-124-9-9* in M€
+uller glia, consistent with previous
+reports in other cell types (Visvanathan et al., 2007). Ctdsp1
+is recruited by REST and is required for REST function
+(Nesti et al., 2014; Yeo et al., 2005). Since REST targets a
+variety of neuronal genes including Dcx (Mandel et al.,
+2011) and Ascl1 (Wu and Xie, 2006), this mechanism may
+explain why we see increases in these genes after miR-124-99* overexpression in M€
+uller glia. We also found a decrease of
+Ptbp1, and an increase of Ptbp2 mRNA after miR-124-9-9*
+overexpression in M€
+uller glia. In the brain, Ptbp2 (neuronal
+PTB/nPTB) protein has been reported to be specifically
+expressed in post-mitotic neurons, whereas Ptbp1 is restricted
+to NPCs, glia, and other non-neuronal cells (Boutz et al.,
+2007). Ptbp1 represses the alternative splicing of neuronal
+genes in non-neuronal tissue (Makeyev et al., 2007). This
+repression is due in part to Ptbp1-induced alternative splicing
+of Ptbp2 mRNA, leading to nonsense-mediated decay (Boutz
+et al., 2007). During neuronal differentiation, the increasing
+levels of miR-124 cause a reduction in Pbtp1, which leads to
+the accumulation of correctly spliced Ptbp2 protein (Makeyev
+et al., 2007). In addition, Ptbp1 blocks miR-124-mediated
+silencing of the REST complex, while miR-124 targets
+Ctdsp1 and leads to destabilization of the REST complex.
+Ptbp1 has been reported to compete with miR-124 on the 3’
+UTR of Ctdsp1 and therefore stabilize the REST complex. If
+Ptbp1 is antagonized, Ptbp1-mediated inhibition of miR-124
+is abolished, and this leads to expression of a large number of
+neuronal genes, including miR-124, miR-9, and miR-9* (Xue
+et al., 2013). The studies using miR-124-9-9* in reprogramMay 2016
+
+ming of mature cells have so far used cells from non-neural
+tissues, where Ptbp1, Ctdsp1, and/or REST function represses
+neuronal gene expression (Ambasudhan et al., 2011; Makeyev
+et al., 2007; Visvanathan et al., 2007; Yoo et al., 2011; Yu
+et al., 2008). Our results now indicate that this pathway also
+plays a role in M€
+uller glia conversion into neurons, since
+dnCtdsp1 and dnREST plasmids cause an upregulation of
+Ascl1 (tdTomato1 cells) and Map21EdU1 neurons 6 days
+post-transfection. Since in our study miR-124-9-9* overexpression decreases Ctdsp1 and Ptbp1 mRNA and increases
+Ptbp2, Ascl1 and other neuronal genes in M€
+uller glia, and
+moreover, inhibition of REST or Ctdsp1 resulted in M€
+uller
+glia conversion into neurons, our results indicate that the
+REST pathway is also actively repressing neuronal genes in
+M€
+uller glia, and probably also in other glia types of the
+brain.
+The REST complex has been reported to be an evolutionary conserved transcriptional regulator that acts globally
+to silence genes (Yeo et al., 2005). There is increasing evidence that the REST complex is responsible for the repression
+of neuronal genes in glia. For example, a recent report from
+the laboratories of François Guillemot and Magdalena G€otz
+demonstrated that REST blocks reprogramming in astrocytes
+(Masserdotti et al., 2015). Moreover, Abrajano et al. used
+ChIP-chip analysis to show that REST and CoREST occupy
+sites at promoters of many neuronal genes in astrocytes and
+oligodendrocytes (Abrajano et al., 2009a). REST is also
+upregulated after bone morphogenetic protein (BMP)induced astrocyte differentiation and dnREST or shRNA
+against REST induce neuronal gene expression in astrocytes
+(Koyama et al., 2010). GFAP1 astrocytes derived from
+Rest2/2 radial glia-like NPCs co-express many neuronal
+genes, like NeuN, MAP2, and Dcx (Soldati et al., 2012).
+Our results extend these reports to M€
+uller glia and further
+suggest that attempts to reprogram astrocytes in the brain
+may also find miR-124-9-9* as a useful additional/synergistic
+reprogramming factor.
+
+Summary and Future Directions
+Here we show for the first time that miR-124-9-9* can reprogram M€
+uller glia. Overexpression of these miRNAs resulted
+in an upregulation of progenitor and neuronal genes; morphological changes to neuron-like cells; and the expression of
+the neuronal markers MAP2 and TUJ1. Moreover, miR-1249-9* in combination with Ascl1 potentiated M€
+uller glia
+reprogramming, yielding more neurons than with either miR124-9-9* or Ascl1 alone. Furthermore, two established targets
+of miR-124-9-9*, Ctdsp1 and Ptbp1, were reduced in M€
+uller
+glia after miR-124-9-9* expression. Since both are components of the REST complex, we propose that miR-124-9-9*
+reprogramming acts via blocking the repression of neuronal
+759
+
+genes by the REST pathway. Our results show that a combination of proneural activation and REST repression will more
+effectively reprogram mouse M€
+uller glia to generate neurons
+in vitro.
+It is possible that the type of reprogramming that we
+have described here in vitro might also be used to stimulate
+retinal regeneration in vivo. In zebrafish, a type of regulated
+reprogramming occurs after retinal injury, in which the M€uller
+glia generate new progeny that act as neuronal progenitors.
+One of the early events in this natural reprogramming phenomenon is the expression of Ascl1 in the M€
+uller glial cells.
+Our results show that miR-124-9-9* can induce Ascl1 expression in the M€
+uller glia, suggesting that this may be an initiating event in fish retinal regeneration. We recently reported that
+transgenic expression of Ascl1 in M€
+uller glia of young mice
+endows them with the capacity for regenerating new neurons
+after retinal injury (Ueki et al., 2015). The results of the present study indicate that combining miR-124-9-9* might potentiate this in vivo regeneration from mouse M€
+uller glia, possibly
+allowing regeneration even in adult animals.
+
+Acknowledgment
+Grant sponsor: National Eye Institute; Grant number: NEI
+R01EY021482; Grant sponsor: Foundation Fighting Blindness (to T.A.R.); Grant number: TA-RM-0614-0650-UWA;
+Grant sponsor: Deutsche Forschungsgemeinschaft (DFG);
+Grant number: Wo 2010/1-1; Grant sponsor: NEI; Grant
+number: P30EY01730
+The authors thank Dr. Jane Johnson for providing the
+Ascl-creER:flox-Stop-flox tdTomato mouse and Drs. SooKyung Lee and Gail Mandel for providing the Ctdsp1 and
+REST plasmids, respectively. The authors thank Drs. Olivia
+Bermingham-McDonogh and Akina Hoshino for helpful
+manuscript comments, Russell J. Taylor, Kristen E. Cox, and
+Laura Chipman for technical assistance.
+
+References
+Abrajano JJ, Qureshi IA, Gokhan S, Zheng D, Bergman A, Mehler MF. 2009a.
+Differential deployment of REST and CoREST promotes glial subtype specification and oligodendrocyte lineage maturation. PLoS One 4:e7665.
+Abrajano JJ, Qureshi IA, Gokhan S, Zheng D, Bergman A, Mehler MF.
+2009b. REST and CoREST modulate neuronal subtype specification, maturation and maintenance. PLoS One 4:e7936.
+Ambasudhan R, Talantova M, Coleman R, Yuan X, Zhu S, Lipton SA, Ding S.
+2011. Direct reprogramming of adult human fibroblasts to functional neurons
+under defined conditions. Cell Stem Cell 9:1132118.
+Andres ME, Burger C, Peral-Rubio MJ, Battaglioli E, Anderson ME, Grimes J,
+Dallman J, Ballas N, Mandel G. 1999. CoREST: a functional corepressor
+required for regulation of neural-specific gene expression. Proc Natl Acad Sci
+USA 96:987329878.
+Bernardos RL, Barthel LK, Meyers JR, Raymond PA. 2007. Late-stage neuronal progenitors in the retina are radial M€
+uller glia that function as retinal
+stem cells. J Neurosci 27:702827040.
+
+760
+
+Bian S, Xu TL, Sun T. 2013. Tuning the cell fate of neurons and glia by microRNAs. Curr Opin Neurobiol 23:9282934.
+Boije H, MacDonald RB, Harris WA. 2014. Reconciling competence and transcriptional hierarchies with stochasticity in retinal lineages. Curr Opin Neurobiol 27:68–74.
+Boutz PL, Stoilov P, Li Q, Lin CH, Chawla G, Ostrow K, Shiue L, Ares MJ,
+Black DL. 2007. A post-transcriptional regulatory switch in polypyrimidine
+tract-binding proteins reprograms alternative splicing in developing neurons.
+Genes Dev 21:163621652.
+Bringmann A, Pannicke T, Grosche J, Francke M, Wiedemann P, Skatchkov
+SN, Osborne NN, Reichenbach A. 2006. M€
+uller cells in the healthy and diseased retina. Prog Retin Eye Res 25:397–424.
+Buller B, Chopp M, Ueno Y, Zhang L, Zhang RL, Morris D, Zhang Y, Zhang ZG.
+2012. Regulation of serum response factor by miRNA-200 and miRNA-9 modulates oligodendrocyte progenitor cell differentiation. Glia 60:190621914.
+Caiazzo M, Dell’Anno MT, Dvoretskova E, Lazarevic D, Taverna S, Leo D,
+Sotnikova TD, Menegon A, Roncaglia P, Colciago G, Russo G, Carninci P,
+Pezzoli G, Gainetdinov RR, Gustincich S, Dityatev A, Broccoli V. 2011. Direct
+generation of functional dopaminergic neurons from mouse and human fibroblasts. Nature 476:2242227.
+Cheng LC, Pastrana E, Tavazoie M, Doetsch F. 2009. miR-124 regulates adult
+neurogenesis in the subventricular zone stem cell niche. Nat Neurosci 12:
+399–408.
+Chong JA, Tapia-Ramirez J, Kim S, Toledo-Aral JJ, Zheng Y, Boutros MC,
+Altshuller YM, Frohman MA, Kraner SD, Mandel G. 1995. REST: A mammalian silencer protein that restricts sodium channel gene expression to neurons. Cell 80:9492957.
+Close JL, Liu J, Gumuscu B, Reh TA. 2006. Epidermal growth factor receptor
+expression regulates proliferation in the postnatal rat retina. Glia 54:94–104.
+Conaco C, Otto S, Han JJ, Mandel G. 2006. Reciprocal actions of REST and
+a microRNA promote neuronal identity. Proc Natl Acad Sci USA 103:
+242222427.
+Corti S, Nizzardo M, Simone C, Falcone M, Donadoni C, Salani S, Rizzo F,
+Nardini M, Riboldi G, Magri F, Zanetta C, Faravelli I, Bresolin N, Comi GP.
+2012. Direct reprogramming of human astrocytes into neural stem cells and
+neurons. Exp Cell Res 318:152821541.
+Das AV, Mallya KB, Zhao X, Ahmad F, Bhattacharya S, Thoreson WB, Hegde
+GV, Ahmad I. 2006. Neural stem cell properties of M€
+uller glia in the mammalian retina: regulation by Notch and Wnt signaling. Dev Biol 299:283–302.
+Deo M, Yu JY, Chung KH, Tippens M, Turner DL. 2006. Detection of mammalian microRNA expression by in situ hybridization with RNA oligonucleotides. Dev Dyn 235:253822548.
+Fiedler SD, Carletti MZ, Christenson LK. 2010. Quantitative RT-PCR methods
+for mature microRNA expression analysis. Methods Mol Biol 630:49–64.
+Filipowicz W, Bhattacharyya SN, Sonenberg N. 2008. Mechanisms of posttranscriptional regulation by microRNAs: are the answers in sight? Nat Rev
+Genet 9:1022114.
+Fischer AJ, Reh TA. 2003. Potential of M€
+uller glia to become neurogenic retinal progenitor cells. Glia 43:70276.
+Georgi SA, Reh TA. 2011. Dicer is required for the maintenance of notch signaling and gliogenic competence during mouse retinal development. Dev
+Neurobiol 71:115321169.
+Goldman D. 2014. M€
+uller glial cell reprogramming and retina regeneration.
+Nat Rev Neurosci 15:4312442.
+Guo Z, Zhang L, Wu Z, Chen Y, Wang F, Chen G. 2014. In vivo direct reprogramming of reactive glial cells into functional neurons after brain injury and in
+an Alzheimer’s disease model. Cell Stem Cell 14:188–202.
+Hayashi T, Lamba DA, Slowik A, Reh TA, Bermingham-McDonogh O. 2010. A
+method for stabilizing RNA for transfection that allows control of expression
+duration. Dev Dyn 239:203422040.
+Heinrich C, Bergami M, Gascon S, Lepier A, Vigano F, Dimou L, Sutor B,
+otz M. 2014. Sox2-mediated conversion of NG2 glia into
+Berninger B, G€
+
+Volume 64, No. 5
+
+Wohl and Reh: miRNAs in Glial Reprogramming
+induced neurons in the injured adult cerebral cortex. Stem Cell Rep 3:
+100021014.
+Heinrich C, G€
+otz M, Berninger B. 2012. Reprogramming of postnatal astroglia
+of the mouse neocortex into functional, synapse-forming neurons. Methods
+Mol Biol 814:4852498.
+Jadhav AP, Roesch K, Cepko CL. 2009. Development and neurogenic potential of M€
+uller glial cells in the vertebrate retina. Prog Retin Eye Res 28:
+2492262.
+Karl MO, Hayes S, Nelson BR, Tan K, Buckingham B, Reh TA. 2008. Stimulation of neural regeneration in the mouse retina. Proc Natl Acad Sci USA 105:
+19508219513.
+Karl MO, Reh TA. 2010. Regenerative medicine for retinal diseases: activating
+endogenous repair mechanisms. Trends Mol Med 16:193–202.
+Koyama MS, Kelly C, Shehzad Z, Penesetti D, Castellanos FX, Milham MP.
+2010. Reading networks at rest. Cereb Cortex 20:254922559.
+Krichevsky AM, Sonntag KC, Isacson O, Kosik KS. 2006. Specific microRNAs
+modulate embryonic stem cell-derived neurogenesis. Stem Cells 24:
+8572864.
+Kuang Y, Liu Q, Shu X, Zhang C, Huang N, Li J, Jiang M, Li H. 2012. Dicer1
+and MiR-9 are required for proper Notch1 signaling and the Bergmann glial
+phenotype in the developing mouse cerebellum. Glia 60:173421746.
+La Torre A, Georgi S, Reh TA. 2013. Conserved microRNA pathway regulates
+developmental timing of retinal neurogenesis. Proc Natl Acad Sci USA 110:
+E2362-E2370.
+Lagos-Quintana M, Rauhut R, Yalcin A, Meyer J, Lendeckel W, Tuschl T.
+2002. Identification of tissue-specific microRNAs from mouse. Curr Biol 12:
+7352739.
+Lenkowski JR, Raymond PA. 2014. M€
+uller glia: Stem cells for generation and
+regeneration of retinal neurons in teleost fish. Prog Retin Eye Res 40:94–123.
+Lim LP, Lau NC, Garrett-Engele P, Grimson A, Schelter JM, Castle J, Bartel
+DP, Linsley PS, Johnson JM. 2005. Microarray analysis shows that some
+microRNAs downregulate large numbers of target mRNAs. Nature 433:
+7692773.
+L€
+offler K, Sch€
+afer P, V€
+olkner M, Holdt T, Karl MO. 2015. Age-dependent
+M€
+uller glia neurogenic competence in the mouse retina. Glia 63:180921824.
+Maiorano NA, Mallamaci A. 2009. Promotion of embryonic cortico-cerebral
+neuronogenesis by miR-124. Neural Dev 4:40.
+Makeyev EV, Zhang J, Carrasco MA, Maniatis T. 2007. The MicroRNA miR124 promotes neuronal differentiation by triggering brain-specific alternative
+pre-mRNA splicing. Mol Cell 27:4352448.
+Mandel G, Fiondella CG, Covey MV, Lu DD, Loturco JJ, Ballas N. 2011.
+Repressor element 1 silencing transcription factor (REST) controls radial
+migration and temporal neuronal specification during neocortical development. Proc Natl Acad Sci USA 108:16789216794.
+Masserdotti G, Gillotin S, Sutor B, Drechsel D, Irmler M, Jorgensen HF, Sass
+S, Theis FJ, Beckers J, Berninger B, Guillemot F, G€
+otz M. 2015. Transcriptional Mechanisms of Proneural Factors and REST in Regulating Neuronal
+Reprogramming of Astrocytes. Cell Stem Cell 17:74–88.
+Mor E, Cabilly Y, Goldshmit Y, Zalts H, Modai S, Edry L, Elroy-Stein O,
+Shomron N. 2011. Species-specific microRNA roles elucidated following
+astrocyte activation. Nucleic Acids Res 39:371023723.
+Neo WH, Yap K, Lee SH, Looi LS, Khandelia P, Neo SX, Makeyev EV, Su IH.
+2014. MicroRNA miR-124 controls the choice between neuronal and astrocyte
+differentiation by fine-tuning Ezh2 expression. J Biol Chem 289:
+20788220801.
+
+Ooto S, Akagi T, Kageyama R, Akita J, Mandai M, Honda Y, Takahashi M.
+2004. Potential for neural regeneration after neurotoxic injury in the adult
+mammalian retina. Proc Natl Acad Sci USA 101:13654213659.
+Pang ZP, Yang N, Vierbuchen T, Ostermeier A, Fuentes DR, Yang TQ, Citri
+A, Sebastiano V, Marro S, Sudhof TC, Wernig M. 2011. Induction of human
+neuronal cells by defined transcription factors. Nature 476:2202223.
+Papagiannakopoulos T, Kosik KS. 2009. MicroRNA-124: micromanager of
+neurogenesis. Cell Stem Cell 4:3752376.
+Patterson M, Gaeta X, Loo K, Edwards M, Smale S, Cinkornpumin J, Xie
+Y, Listgarten J, Azghadi S, Douglass SM, Pellegrini M, Lowry WE. 2014. let-7
+miRNAs can act through notch to regulate human gliogenesis. Stem Cell Rep
+3:7582773.
+Pollak J, Wilken MS, Ueki Y, Cox KE, Sullivan JM, Taylor RJ, Levine EM, Reh
+TA. 2013. ASCL1 reprograms mouse M€
+uller glia into neurogenic retinal progenitors. Development 140:261922631.
+Ramachandran R, Fausett BV, Goldman D. 2010. Ascl1a regulates M€
+uller glia
+dedifferentiation and retinal regeneration through a Lin-28-dependent, let-7
+microRNA signalling pathway. Nat Cell Biol 12:110121107.
+Reichenbach A, Bringmann A. 2013. New functions of M€
+uller cells. Glia 61:
+6512678.
+Robel S, Berninger B, G€
+otz M. 2011. The stem cell potential of glia: Lessons
+from reactive gliosis. Nat Rev Neurosci 12:88–104.
+Roesch K, Jadhav AP, Trimarchi JM, Stadler MB, Roska B, Sun BB, Cepko CL. 2008.
+The transcriptome of retinal M€
+uller glial cells. J Comp Neurol 509:2252238.
+Sanuki R, Onishi A, Koike C, Muramatsu R, Watanabe S, Muranishi Y, Irie S,
+Uneo S, Koyasu T, Matsui R, Cherasse Y, Urade Y, Watanabe D, Kondo M,
+Yamashita T, Furukawa T. 2011. miR-124a is required for hippocampal axogenesis and retinal cone survival through Lhx2 suppression. Nat Neurosci 14:
+112521134.
+Schoenherr CJ, Anderson DJ. 1995. The neuron-restrictive silencer factor
+(NRSF): A coordinate repressor of multiple neuron-specific genes. Science
+267:136021363.
+Sempere LF, Freemantle S, Pitha-Rowe I, Moss E, Dmitrovsky E, Ambros V.
+2004. Expression profiling of mammalian microRNAs uncovers a subset of
+brain-expressed microRNAs with possible roles in murine and human neuronal differentiation. Genome Biol 5:R13.
+Shenoy A, Danial M, Blelloch RH. 2015. Let-7 and miR-125 cooperate to
+prime progenitors for astrogliogenesis. Embo J 34:118021194.
+Smirnova L, Grafe A, Seiler A, Schumacher S, Nitsch R, Wulczyn FG. 2005.
+Regulation of miRNA expression during neural cell specification. Eur J Neurosci 21:146921477.
+Soldati C, Bithell A, Johnston C, Wong KY, Teng SW, Beglopoulos V,
+Stanton LW, Buckley NJ. 2012. Repressor element 1 silencing transcription
+factor couples loss of pluripotency with neural induction and neural differentiation. Stem Cells 30:4252434.
+Sun AX, Crabtree GR, Yoo AS. 2013. MicroRNAs: Regulators of neuronal
+fate. Curr Opin Cell Biol 25:2152221.
+Sundermeier TR, Palczewski K. 2012. The physiological impact of microRNA
+gene regulation in the retina. Cell Mol Life Sci 69:273922750.
+Ueki Y, Karl MO, Sudar S, Pollak J, Taylor RJ, Loeffler K, Wilken MS, Reardon
+S, Reh TA. 2012. P53 is required for the developmental restriction in M€
+uller
+glial proliferation in mouse retina. Glia 60:157921589.
+Ueki Y, Reh TA. 2013. EGF stimulates M€
+uller glial proliferation via a BMPdependent mechanism. Glia 61:7782789.
+
+Nesti E, Corson GM, McCleskey M, Oyer JA, Mandel G. 2014. C-terminal
+domain small phosphatase 1 and MAP kinase reciprocally control REST stability and neuronal differentiation. Proc Natl Acad Sci USA 111:E3929-E3936.
+
+Ueki Y, Wilken MS, Cox KE, Chipman L, Jorstad N, Sternhagen K, Simic M,
+Ullom K, Nakafuku M, Reh TA. 2015. Transgenic expression of the proneural
+transcription factor Ascl1 in M€
+uller glia stimulates retinal regeneration in
+young mice. Proc Natl Acad Sci USA 112:13717213722.
+
+Niu W, Zang T, Zou Y, Fang S, Smith DK, Bachoo R, Zhang CL. 2013. In vivo
+reprogramming of astrocytes to neuroblasts in the adult brain. Nat Cell Biol
+15:116421175.
+
+Vierbuchen T, Ostermeier A, Pang ZP, Kokubu Y, Sudhof TC, Wernig M.
+2010. Direct conversion of fibroblasts to functional neurons by defined factors. Nature 463:103521041.
+
+May 2016
+
+761
+
+Visvanathan J, Lee S, Lee B, Lee JW, Lee SK. 2007. The microRNA miR-124
+antagonizes the anti-neural REST/SCP1 pathway during embryonic CNS
+development. Genes Dev 21:7442749.
+
+Wurm A, Erdmann I, Bringmann A, Reichenbach A, Pannicke T. 2009. Expression and function of P2Y receptors on M€
+uller cells of the postnatal rat retina.
+Glia 57:168021690.
+
+Volvert ML, Prevot PP, Close P, Laguesse S, Pirotte S, Hemphill J, Rogister F,
+Kruzy N, Sacheli R, Moonen G, Deiters A, Merkenschlager M, Chariot A,
+Malgrange B, Godin JD, Nguyen L. 2014. MicroRNA targeting of
+CoREST controls polarization of migrating cortical neurons. Cell Rep 7:
+116821183.
+
+Xue Y, Ouyang K, Huang J, Zhou Y, Ouyang H, Li H, Wang G, Wu
+Q, Wei C, Bi Y, Jiang L, Cai Z, Sun H, Zhang K, Zhang Y, Chen J, Fu XD.
+2013. Direct conversion of fibroblasts to neurons by reprogramming PTBregulated microRNA circuits. Cell 152:82–96.
+
+Wang CY, Yang SH, Tzeng SF. 2015. MicroRNA-145 as one negative regulator of astrogliosis. Glia 63:194–205.
+Watanabe K, Ueno M, Kamiya D, Nishiyama A, Matsumura M, Wataya T,
+Takahashi JB, Nishikawa S, Nishikawa S, Muguruma K, Sasai Y. 2007. A
+ROCK inhibitor permits survival of dissociated human embryonic stem cells.
+Nat Biotechnol 25:6812686.
+
+Yeo M, Lee SK, Lee B, Ruiz EC, Pfaff SL, Gill GN. 2005. Small CTD
+phosphatases function in silencing neuronal gene expression. Science 307:
+596–600.
+Yoo AS, Sun AX, Li L, Shcheglovitov A, Portmann T, Li Y, Lee-Messer C,
+Dolmetsch RE, Tsien RW, Crabtree GR. 2011. MicroRNA-mediated conversion of human fibroblasts to neurons. Nature 476:2282231.
+
+Wohl SG, Schmeer CW, Isenmann S. 2012. Neurogenic potential of stem/progenitor-like cells in the adult mammalian eye. Prog Retin Eye Res 31:2132242.
+
+Yu JY, Chung KH, Deo M, Thompson RC, Turner DL. 2008. MicroRNA miR124 regulates neurite outgrowth during neuronal differentiation. Exp Cell Res
+314:261822633.
+
+Wu J, Xie X. 2006. Comparative sequence analysis reveals an intricate network among REST, CREB and miRNA in mediating neuronal gene expression.
+Genome Biol 7:R85.
+
+Zheng K, Li H, Zhu Y, Zhu Q, Qiu M. 2010. MicroRNAs are essential for the
+developmental switch from neurogenesis to gliogenesis in the developing
+spinal cord. J Neurosci 30:824528250.
+
+762
+
+Volume 64, No. 5
+
+

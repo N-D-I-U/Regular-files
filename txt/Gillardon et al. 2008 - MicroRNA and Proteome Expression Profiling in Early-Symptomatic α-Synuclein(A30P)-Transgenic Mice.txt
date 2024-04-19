@@ -1,0 +1,853 @@
+Proteomics Clin. Appl. 2008, 2, 697–705
+
+697
+
+DOI 10.1002/prca.200780025
+
+RESEARCH ARTICLE
+
+MicroRNA and proteome expression profiling in
+early-symptomatic Æ-synuclein(A30P)-transgenic mice
+Frank Gillardon1, Matthias Mack2, Wolfgang Rist1, Cathrin Schnack1,
+Martin Lenter1, Tobias Hildebrandt1 and Bastian Hengerer1
+1
+2
+
+Boehringer Ingelheim Pharma GmbH & Co. KG, Biberach an der Riss, Germany
+Mannheim University of Applied Sciences, Mannheim, Germany
+
+The a-synuclein has been implicated in the pathophysiology of Parkinson’s disease (PD), because
+mutations in the alpha-synuclein gene cause autosomal-dominant hereditary PD and fibrillary
+aggregates of alpha-synuclein are the major component of Lewy bodies. Since presynaptic accumulation of a-synuclein aggregates may trigger synaptic dysfunction and degeneration, we have
+analyzed alterations in synaptosomal proteins in early symptomatic a-synuclein(A30P)-transgenic mice by two-dimensional differential gel electrophoresis. Moreover, we carried out microRNA expression profiling using microfluidic chips, as microRNA have recently been shown to
+regulate synaptic plasticity in rodents and to modulate polyglutamine-induced protein aggregation and neurodegeneration in flies. Differentially expressed proteins in a-synuclein(A30P)transgenic mice point to alterations in mitochondrial function, actin dynamics, iron transport,
+and vesicle exocytosis, thus partially resembling findings in PD patients. Oxygen consumption of
+isolated brain mitochondria, however, was not reduced in mutant mice. Levels of several microRNA (miR-10a, -10b, -212, -132, -495) were significantly altered. One of them (miR-132) has been
+reported to be highly inducible by growth factors and to be a key regulator of neurite outgrowth.
+Moreover, miR-132-recognition sequences were detected in the mRNA transcripts of two differentially expressed proteins. MicroRNA may thus represent novel biomarkers for neuronal malfunction and potential therapeutic targets for human neurodegenerative diseases.
+
+Received: July 29, 2007
+Revised: December 11, 2007
+Accepted: December 13, 2007
+
+Keywords:
+MicroRNA / Parkinson / Synaptosome / Transgenic mice
+
+1
+
+Introduction
+
+Parkinson’s disease (PD) is diagnosed postmortem by the
+selective loss of dopaminergic neurons in the substantia
+nigra and the presence of intraneuronal protein deposits
+termed Lewy bodies. Biochemical analysis led to the identification of a-synuclein as a major component of Lewy bodies
+
+Correspondence: Dr. Frank Gillardon, Boehringer Ingelheim
+Pharma GmbH & Co. KG, CNS Research, Birkendorfer Str. 65,
+88397 Biberach an der Riss, Germany
+Fax: 149-7351-549-8928
+E-mail: Frank.Gillardon@bc.boehringer-ingelheim.com
+Abbreviations: HMG-CoA, 3-hydroxy-3-methyl-glutaryl-CoA;
+MG-CoA, 3-methylglutaconyl-CoA; miRNA, microRNA; PD, Parkinson’s disease
+
+© 2008 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+in PD brains. In the healthy brain, a-synuclein is abundantly
+expressed in central neurons and localizes to presynaptic
+terminals, where it may regulate synaptic vesicle mobilization. Certain point mutations in the a-synuclein gene cause
+autosomal-dominant hereditary Parkinson’s disease (PD).
+The corresponding amino acid exchanges (A30P, E46K,
+A53T) favor aggregation of a-synuclein both in vitro and in
+vivo [1, 2]. Gene multiplications in the wild-type a-synuclein
+gene have also been linked to rare familial forms of PD. Although the pathomechanisms underlying familial and
+sporadic PD remain enigmatic, mitochondrial or proteasomal dysfunction and oxidative stress appear to be major
+contributors [1, 2]. Recent histological and biochemical analysis of brain samples revealed that about 90% of a-synuclein
+aggregates localize to presynaptic endings where they seem
+to affect synaptic structure and function [3]. Several transgenic mouse models overexpressing mutant a-synuclein
+
+www.clinical.proteomics-journal.com
+
+698
+
+F. Gillardon et al.
+
+have been generated that age-dependently exhibit a-synuclein immunoreactive intraneuronal inclusions, locomotor
+dysfunction and loss of dopaminergic synapses, thus partially mimicking PD [4, 5]. To gain insight into the mechanisms of a-synuclein-mediated neurotoxicity, we performed a
+brain proteome analysis of the a-synuclein(A30P)-transgenic
+mice mouse model for PD [6] using 2-D DIGE. Since aggregation of mutant a-synuclein may start within presynaptic
+terminals before being retrogradely transported and sequestered into somatic Lewy bodies [3], we focused on alterations
+in synaptosomal proteins in early symptomatic transgenic
+mice.
+In addition, we performed a differential expression analysis for microRNA (miRNA) using microarray technology.
+MiRNA are non-coding transcripts of 19–24 nucleotides that
+are processed from double-stranded hairpin precursors by an
+RNase termed Dicer [7]. The mature single-stranded miRNA
+is then translocated to the RNA-induced silencing complex
+that suppresses translation of the target mRNA. Recent evidence indicates that in multicellular organisms, hundreds of
+miRNA can regulate the translation of about one third of the
+coding mRNA [7]. MiRNA have been shown to modulate
+stem-cell differentiation, hematopoiesis, muscle development, insulin secretion, cholesterol metabolism, and
+immune responses. Aberrant miRNA expression has been
+implicated in cancer and heart disease [8]. In the mammalian nervous system, expression of various miRNA increases
+during development and may influence neural patterning,
+cell specification and axonal path finding [7, 9]. In mature
+neurons, depolarization causes a sixfold increase in miR-134
+expression. Brain-specific miR-134 seems to block translation of dendritic mRNA (e.g. LIM-domain kinase 1), thereby
+regulating synaptic plasticity and spine size [10]. Furthermore, growth factor treatment induced a rapid and persistent
+neuronal expression of miR-132 that promotes neurite outgrowth by targeting p250GAP, a regulator of Rho/Rac signaling [11]. Recent findings indicate that miRNA may also
+play a role in neurodegeneration [12]. General reduction of
+miRNA processing by knocking down Dicer activity massively enhances neurodegeneration in fruit flies that overexpress pathogenic Ataxin-3 or Tau protein [12]. Transgenic
+overexpression of miRNA ban suppressed neurodegeneration. Notably, ban overexpression did not alter aggregation of
+toxic proteins or execution of programmed cell death [12].
+Taken together, changes in miRNA expression may represent
+a molecular signature of alterations in neuronal structure or
+function and may contribute to neuronal survival in the
+context of human neurodegenerative diseases [13, 14].
+
+2
+
+Materials and methods
+
+2.1 Animals
+Generation and characterization of homozygous (Thy1)-human a-synuclein(A30P)-transgenic mice (line 31H) have
+© 2008 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+Proteomics Clin. Appl. 2008, 2, 697–705
+
+been described in detail elsewhere [6]. Age- and sex-matched,
+non-transgenic C57BL/6 mice were used as controls. All
+animal procedures were approved by the Federal Animal
+Care Committee.
+
+2.2 Subcellular fractionation
+Synaptosomal fractions were isolated by differential
+centrifugation using standard protocols. Enrichment of
+presynaptic marker proteins was assessed in previous
+studies [15, 16]. Briefly, mice (n = 4 per group) were killed
+by cervical dislocation followed by decapitation. The brains
+were rapidly removed and placed into ice-cold homogenization buffer containing 50 mM MOPS, pH 7.4, 320 mM
+sucrose, 0.2 mM DTT, 100 mM KCl, 0.5 mM MgCl2,
+0.01 mM EDTA, 1 mM EGTA, and phosphatase/protease
+inhibitor cocktails (Roche, Mannheim, Germany). All subsequent steps were performed at 47C. The brains were
+cross-sectioned at Bregma -2.8 mm. The cerebellum was
+discarded. The cortex containing scattered proteinase Kresistant a-synuclein aggregates and the brainstem showing abundant histopathology at 12 months of age [6] were
+separately microdissected. Tissue samples were homogenized in 1:10 w/v homogenization buffer with 12 strokes
+in a Teflon-glass douncer. The homogenate was centrifuged
+for 10 min at 8006g followed by centrifugation of the
+supernatant at 92006g for 15 min. The resulting pellet
+(P2), representing the crude synaptosomal fraction, and
+the supernatant (S2) were solubilized in lysis buffer containing 30 mM Tris, 8 M urea, 4% w/v CHAPS, pH 8.5
+(GE Healthcare, Freiburg, Germany). Proteins in the S2
+supernatant were precipitated using the 2D Clean-up Kit
+before solubilization as described in the manufacturer’s
+protocol (GE Healthcare). Aliquots were taken for protein
+determination using the modified Bio-Rad protein assay
+(Bio-Rad, München, Germany) before freezing the samples
+at 2807C.
+Metabolically active mitochondria were isolated using
+the Mitochondria Isolation Kit (Sigma, Taufkirchen, Germany) [16]. Mice (n = 3 per group) were killed and brain
+regions were microdissected as described above. Tissue
+samples were homogenized in 1:10 w/v ice-cold extraction
+buffer (200 mM mannitol, 1 mM EGTA, 70 mM sucrose,
+2 mg/mL BSA, 10 mM HEPES, pH 7.5) using a Teflon-glass
+potter homogenizer (10 strokes, 400 rpm). All steps were
+performed at 47C. The homogenate was centrifuged for
+4 min at 14006g. The supernatant was subsequently centrifuged for 5 min at 30 7006g. The P2 pellet containing
+myelin, synaptosomes and mitochondria was resuspended
+in 2 mL extraction buffer and centrifuged for 3 min at
+8006g. The supernatant was again centrifuged for 5 min at
+32 5006g and the resulting pellet was resuspended in
+120 mL extraction buffer. Aliquots were taken for determination of protein concentration using the Pierce BCA kit
+(Pierce, Bonn, Germany).
+www.clinical.proteomics-journal.com
+
+699
+
+Proteomics Clin. Appl. 2008, 2, 697–705
+
+2.3 Mitochondrial respiration
+Mitochondrial oxygen consumption was monitored in the
+mitochondrial fractions using an Oxygraph-2k system which
+is equipped with two chambers and polarographic oxygen
+sensors (Oroboros, Innsbruck, Austria) [16, 17]. Mitochondria (0.4 mg at 1 mg/mL) were incubated at 257C in respiration buffer (100 mM KCl, 1 mM MgCl2, 75 mM mannitol,
+25 mM sucrose, 1 mM KH2PO4, 0.5 mg/mL BSA, 10 mM
+Tris-HCl, pH 7.4). Oxygen consumption was initiated by
+administration of pyruvate and malate (5 mM each). Thereafter, state 3 respiration was triggered by administration of
+ADP (375 mM). Carbonylcyanide-4-(trifluoromethoxy)-phenylhydrazone (FCCP, 1 mM) was then added to measure
+uncoupled respiration. Rotenone (5 mM) was subsequently
+administered to inhibit complex I activity. Finally, the complex II substrate succinate was added (5 mM) and respiration
+measurement was completed. Values were normalized to
+protein content.
+2.4 Gel electrophoresis and immunoblotting
+The 2-D DIGE was performed according to the manufacturer’s instructions (GE Healthcare) with minor modifications [18, 19]. In short, samples (four biological replicates per group) in lysis buffer were set to a protein concentration of 2 mg/mL and centrifuged at 12 0006g for
+10 min to remove insoluble material. Proteins (50 mg/sample) were labeled with 400 pmol Cy3 or Cy5 cyanine dye. As
+internal standard aliquots of each sample were pooled and
+labeled with Cy2 dye. To exclude preferential labeling of the
+dyes, samples were also reverse labeled. The two differentially labeled samples plus the internal standard were combined and an equal volume of 2x sample buffer (8 M urea,
+4% w/v CHAPS, 2% w/v DTT, 2% v/v Pharmalyte) was
+added. Finally, DeStreak Rehydration solution (plus 0.5% v/v
+Pharmalyte) was added to a final volume of 450 mL. IPG
+strips (Immobiline DryStrip, 24 cm, pH 3–10 NL, GE
+Healthcare, Germany) were rehydrated in the presence of
+protein samples for 12 h at 30 V. IEF was performed using an
+Ettan IPGphor (GE Healthcare) at a maximum current of
+50 mA/strip as follows: 300 V for 3 h, 1000 V for 6 h, and
+8000 V for 7 h. Following equilibration, the IPG strips were
+placed on top of 12.5% polyacrylamide gels. SDS polyacrylamide gel electrophoresis was conducted overnight in an
+Ettan DALT twelve electrophoresis system (GE Healthcare) at
+20 mA/gel and 207C in a buffer containing 25 mM Tris,
+192 mM glycine, and 0.2% w/v SDS. The 2-D DIGE was
+performed twice (two gel replicates/sample) generating
+similar results. NEPHGE, pH 3–10 NL (four independent
+biological replicates per group) was performed by Wita (Teltow, Germany).
+All gels were scanned between the low-fluorescent glass
+plates using a Typhoon 9400 laser scanner (GE Healthcare).
+Gel images were analyzed automatically using DeCyder
+software version 5.0 (Differential In-gel Analysis and Biolog© 2008 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+ical Variation Analysis) (GE Healthcare), which performs
+spot detection, in-gel normalization, spot matching, and statistical analysis of protein abundance levels between different gels. Software algorithms and statistical confidence are
+described in detail by others [20]. Protein spots of interest
+were excised from the gels using an Ettan Spot Picker robot
+(GE Healthcare). Gel pieces were incubated in 100 mL ACN
+for 5 min and subsequently dried in a vacuum centrifuge.
+Gel pieces were rehydrated with 5 mL of 50 mM ammonium
+bicarbonate containing 20 ng/mL trypsin (sequencing grade,
+Promega, Mannheim, Germany) for 30 min at 47C. Thereafter, proteins were digested overnight at 377C. The resulting
+peptides were eluted with 20 mL of 0.1% v/v TFA by sonication for 15 min.
+Proteins (20 mg/lane) were separated on 12% polyacrylamide minigels and subsequently transferred to nitrocellulose membranes using a wet transfer system (Bio-Rad,
+München, Germany). After blocking in buffer containing
+20 mM Tris, pH 7.4, 500 mM NaCl, 0.1% Tween 20, and
+5% BSA for 90 min, the membranes were incubated overnight with an affinity-purified sheep polyclonal antibody
+against transferrin (1 mg/mL, Bethyl Laboratories, Montgomery, TX). HRP-conjugated secondary antibodies and
+enhanced chemiluminescence reagents (ECL kit; GE
+Healthcare) were used for detection. Membranes were
+checked for protein load and protein transfer using a
+commercial kit (MemCode Reversible Protein Stain Kit,
+Pierce, Rockford, IL) that reversibly stains for total protein.
+Densitometric analysis of immunoblots was performed
+using Quantity One (Bio-Rad).
+2.5 MS
+MS/MS analysis was performed with an UltiMate
+nanoHPLC system (LC Packings, Amsterdam, Netherlands)
+connected to a QSTAR XL quadrupole TOF hybrid mass
+spectrometer (ABI Sciex, Toronto, Canada) [21]. The dried
+peptide sample was dissolved in 10 mL of 2% ACN, 0.1%
+TCA, applied to a precolumn (PepMap C18, 0.365 mm)
+(Dionex, Idstein, Germany) and separated using an analytical column (PepMap C18, 0.0756150 mm) (Dionex) at a
+flow rate of 250 nL/min. The mobile phases were A = 2%
+ACN, 0.1% formic acid and B = 80% ACN, 0.1% formic acid.
+The gradient for separation was 5–50% B in 30 min, 50–
+100% B in 2 min. A survey scan from m/z 350 to 1300 was
+performed for 1 s with subsequent two MS/MS scans for 2 s
+each. Precursor ions were dynamically excluded for 120 s.
+Under script control (Analyst, ABI Sciex) the acquired product ion spectra were submitted to the MASCOT database
+search engine (Matrix Science, London, UK) against the
+Swiss-Prot database with the following search parameters:
+maximum of one missed trypsin cleavage, cysteine carbamidomethylation, methionine oxidation, and a maximum
+0.20 Da error tolerance in both the MS and MS/MS data. All
+hits were manually verified using accepted rules for peptide
+fragmentation [21].
+www.clinical.proteomics-journal.com
+
+700
+
+F. Gillardon et al.
+
+2.6 Assay of 3-methylglutaconyl-CoA hydratase
+Brainstem tissue samples were suspended in 200 mL PBS by
+repeated pipetting and sonicated three times on ice for 15 s
+at 8 W at 45-s intervals. An aliquot of the homogenate (5–
+7 mg) was added to the 3-methylglutaconyl-CoA hydratase
+assay. Protein was estimated using the method of Bradford
+(Bio-Rad). The hydratase assay mixture contained, in a final
+volume of 25 mL, 100 mM Tris-HCl pH 8.0, 10 mM EDTA,
+1 mg/mL BSA and 10 mM 3-methylglutaconyl-CoA or glutaconyl-CoA. After incubation at 377C for 60 min, the reaction
+was terminated by the addition of 2.5 mL of 2 mM HCl. The
+samples were homogenized and the assay tubes were placed
+on ice. After 5 min, the homogenates were brought to pH 6
+with 2 mM KOH, 1 mM MES pH 6 and centrifuged at
+21 0006g for 10 min at 47C. The supernatant was transferred to an HPLC vial. The products of the reaction,
+3-hydroxy-3-methylglutaryl-CoA, or 3-hydroxyglutaryl-CoA
+were detected at 260 nm using the HPLC system as described previously [22].
+2.7 MicroRNA expression analysis
+MiRNA expression profiling was performed using LC Sciences microfluidic chip technology (LC Sciences, Houston,
+TX). Briefly, mice (n = 3 per group) were killed by decapitation, the brains were rapidly removed and the brainstems
+were microdissected as described above. Brainstem tissue
+samples were homogenized and total RNA was extracted
+using Trizol reagent according to the manufacturer’s protocol (Invitrogen, Paisley, UK) with minor modifications. In
+brief, RNA was precipitated using 1.5 mL isopropyl alcohol/
+1 mL of Trizol reagent. The extracts were incubated at -207C
+overnight and subsequently centrifuged at 12 0006g for
+10 min at 47C to precipitate low-molecular weight RNA. The
+RNA pellets were resuspended in RNase-free water for OD
+measurements. OD 260 nm/280 nm ratios were all above 1.8
+and OD 260 nm/230 nm ratios were above 1.5. Following
+administration of three volumes of 100% ethanol, 1/10 volume of 3 M NaOAc, pH 4.8, and 10 mM EDTA, samples were
+shipped on dry ice to LC Sciences for chip analysis. Chip
+design, assay protocol, and data analysis are described in
+detail elsewhere (www.lcsciences.com). Total RNA samples
+(10 mg each) were size fractionated using a YM-100 Microcon
+centrifugal filter (Millipore, Bedford, MA) and the small
+RNA (,300 nt) were 3’-extended with a poly(A) tail using
+poly(A) polymerase. An oligonucleotide tag was then ligated
+to the poly(A) tail for fluorescent dye staining. RNA samples
+from a-synuclein(A30P)-transgenic and control mice were
+labeled with green-fluorescent Cy3 dye and red-fluorescent
+Cy5 dye, respectively. Both samples were then hybridized to
+the same mParaflo microfluidic chip (#MRA-1002) (LC Sciences) containing 266 unique mature mouse miRNA probes
+in triplicate. On the microfluidic chip, each detection probe
+consisted of a chemically modified nucleotide coding segment complementary to target miRNA (from miRBase,
+© 2008 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+Proteomics Clin. Appl. 2008, 2, 697–705
+
+http://microrna.sanger.ac.uk/sequences/) and a spacer segment of polyethylene glycol to extend the coding segment
+away from the substrate. The detection probes were made by
+in situ synthesis using photogenerated reagent chemistry.
+The hybridization melting temperatures were balanced by
+chemical modifications of the detection probes. Hybridization used 100 mL 6 x SSPE buffer (0.90 M NaCl, 60 mM
+Na2HPO4, 6 mM EDTA, pH 6.8) containing 25% formamide
+at 347C. After hybridization, fluorescence images were collected using a laser scanner (GenePix 4000B, Molecular Devices, Sunnyvale, CA) and digitized using Array-Pro image
+analysis software (Media Cybernetics, Bethesda, MD). Data
+were analyzed by first subtracting the background and then
+normalizing the signals. Finally, the ratio of the Cy3/Cy5
+signals (log2 transformed) and p-values of the t-test were
+calculated. Differentially detected signals were those with pvalues ,0.01.
+2.8 Gene expression profiling
+Affymetrix (Affymetrix, Santa Clara, CA) genechip (HGU133AB) analysis was performed by Gene Logic (Gene
+Logic, Gaithersburg, MD) using human postmortem brain
+samples.
+
+3
+
+Results
+
+3.1 Proteome analysis
+Using 2-D DIGE analysis of murine brainstem tissue, we
+detected about 1000 spots per gel. Protein spots that were
+present in all gels (four biological replicates per group) and
+showed statistically significant differences (p,0.05, t-test,
+DeCyder, Biological Variation Analysis) were selected for
+further analysis. By these criteria, 11 spots were found to be
+differentially expressed in a-synuclein(A30P) overexpressing
+mice compared to non-transgenic controls. Three spots were
+very faint and thus could not be identified unambiguously by
+MS. Seven differentially expressed proteins were identified
+in the P2/S2 fractions and are listed in Table 1. Magnified
+sections of representative gel images are shown in Fig. 1.
+The two transferrin spots at pI values of 6.2 and 6.0 (Fig. 1)
+may represent apotransferrin and monoferric transferrin as
+shown by others [23]. In order to increase detection of membrane proteins and spot resolution [24], we analyzed the
+synaptosomal P2 fraction (four independent biological
+replicates per group) also by NEPHGE and used second dimension gels 24630 cm in size (Supporting Information
+Fig. 1). However, additional deregulated synaptosomal proteins were not detected by NEPHGE.
+By immunoblotting using a commercially available antitransferrin antibody and densitometric analysis we verified a
+significant increase in transferrin (194 6 21% of non-transgenic controls, mean 6 SD) in brainstem lysates of a-synuclein(A30P) overexpressing mice (Fig. 2). Notably, two mitowww.clinical.proteomics-journal.com
+
+701
+
+Proteomics Clin. Appl. 2008, 2, 697–705
+Table 1. Changes in brainstem protein levels in alpha-synuclein(A30P)-transgenic mice compared to wild-type animals
+
+Protein
+
+Accession
+no.
+
+Average
+ratioa)
+
+MASCOT
+score
+
+Sequencecoverage (%)
+
+Brainstem P2 fraction
+Methylglutaconyl-CoA hydratase, mitochondrial precursor
+ATP synthase alpha chain, mitochondrial precursor
+LIM and SH3 domain protein (LASP-1)
+Vesicle-fusing ATPase
+
+Q9JLZ3
+QO3265
+Q61792
+P18708
+
+21.94
+21.52
+11.21
+11.29
+
+250
+393
+184
+203
+
+17.5
+13.0
+15.0
+10.5
+
+Brainstem S2 fraction
+Methylglutaconyl-CoA hydratase, mitochondrial precursor
+Sorting nexin-12 (SDP8 protein)
+Ubiquitin-conjugating enzyme E2 L3
+Serotransferrin precursor (Transferrin)
+LIM and SH3 domain protein (LASP-1)
+
+Q9JLZ3
+O70493
+P68037
+Q921I1
+Q61792
+
+21.95
+11.45
+11.45
+11.30
+11.21
+
+197
+213
+144
+1020
+283
+
+17.0
+33.0
+29.0
+46.0
+11.5
+
+a) Average ratio: negative values indicate decreased protein levels in transgenic mice.
+
+3.2 Respiration of isolated mitochondria
+
+Figure 1. 2-D DIGE of brainstem synaptosome fractions from asynuclein(A30P)-transgenic mice (left panels) and wild-type animals (right panels). Magnified sections from representative gel
+images showing the decrease in 3-methylglutaconyl-CoA hydratase (upper row, arrowhead) and the increase in transferrin
+(lower row, arrowheads) in transgenic mice.
+
+Impairment of mitochondrial oxidative phosphorylation has
+been reported in PD and pharmacological inhibition causes a
+Parkinsonian phenotype in animal models [2]. To analyze the
+functional significance of mitochondrial proteome alterations, we monitored the respiration rate of crude mitochondrial preparations using the Oxygraph-2k system (Oroboros).
+As shown in Fig. 3A, basal mitochondrial respiration in the
+presence of malate and pyruvate did not differ between
+a-synuclein(A30P) overexpressing mice and control animals
+(n = 3 per group). ADP-stimulated state 3 respiration and
+FCCP-triggered uncoupled respiration were also unchanged
+in mitochondria purified from brainstem tissue.
+3.3 3-Methylglutaconyl-CoA hydratase activity
+
+Figure 2. Immunoblot analysis of transferrin levels in brainstem
+S2 fractions. An increase in transferrin is detectable in lysates of
+four a-synuclein(A30P) overexpressing mice (lanes 1, 3, 5, 7)
+compared to wild-type controls (lanes 2, 4, 6, 8).
+
+chondrial proteins were significantly down-regulated in
+mutant mice as compared to controls. ATP synthase (EC
+3.6.3.14) is involved in mitochondrial oxidative phosphorylation and 3-methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+(Fig. 1) is active in mitochondrial energy metabolism.
+Affymetrix genechip (HG-U133AB) analysis revealed an
+age-dependent decline in 3-methylglutaconyl-CoA hydratase
+mRNA levels in the human brain. More importantly, a significant (p,0.05, ANOVA) reduction in 3-methylglutaconylCoA hydratase mRNA expression by approximately 20% was
+also observed in several brain areas of PD patients (e.g. substantia nigra, caudate nucleus, nucleus ambiguus, putamen,
+frontal cortex) compared to age-matched controls (n10
+samples each).
+© 2008 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+Protein levels of 3-methylglutaconyl-CoA hydratase declined
+by approximately 50% in a-synuclein(A30P)-transgenic mice
+(Table 1). In order to also monitor enzyme function, we tested brainstem extracts (n = 3 per group) for hydratase activity
+using two different substrates, 3-methylglutaconyl-CoA and
+glutaconyl-CoA. However, 3-methylglutaconyl-CoA hydratase activity was below the detection limit of our assay probably due to the very low amounts of enzyme present in the
+extracts (Fig. 1).
+3.4 MicroRNA expression analysis
+Small RNA isolated from a-synuclein(A30P)-transgenic and
+control mice brainstem tissue (n = 3 per group) were labeled
+with green-fluorescent Cy3 dye and red-fluorescent Cy5 dye,
+respectively. Both samples were then hybridized to the same
+microfluidic chip containing 266 unique mouse miRNA
+probes in triplicate. The RNA extracts were of good quality
+and produced strong signals on the chips with low noise
+levels. Figure 3B displays representative regions of chip
+www.clinical.proteomics-journal.com
+
+702
+
+F. Gillardon et al.
+
+Proteomics Clin. Appl. 2008, 2, 697–705
+
+mouse miRNA) level is equal to Cy5 (mutant a-synucleintransgenic mouse miRNA) level. The color is green when
+Cy3 level is higher than Cy5 level. The color is red when Cy3
+level is lower than Cy5 level. MiRNA that were modulated on
+three chips with a p-value ,0.01 were considered differentially expressed and are listed in Table 2. Signal intensities of
+miR-10a, and -10b are low, indicating that these miRNA are
+weakly expressed in the murine brainstem, whereas miR212, -495, and -132 are present at moderate to high levels.
+Although the miRNA listed in Table 2 were all down-regulated, there was no general decline in miRNA expression in
+the brainstems of mutant a-synuclein overexpressing mice.
+Using computational target prediction algorithms (miRanda, miRBase, Targetscan) we could identify sortin nexin-12
+and ubiquitin-conjugating enzyme E2 as potential targets for
+miR-132 as has been reported by others [25, 26]. The increase
+in these proteins in the brainstem of our mutant a-synuclein-transgenic mice shown by 2-D DIGE analysis (Table 1)
+would be consistent with the decline in miR-132 levels
+detected on microchips (Table 2).
+Table 2. Changes in brainstem microRNA levels in alpha-synuclein(A30P)-transgenic mice (Cy5 signal) compared to
+wild-type mice (Cy3 signal)
+
+Figure 3. (A) Representative measurements of mitochondrial
+oxygen consumption (oxygen flux is shown in red on the right
+vertical axis; oxygen concentration is shown in blue). Mitochondria-enriched fractions were prepared from the mouse brainstem
+and administered into the Oxygraph-2k analytical chamber
+(mito). Basal respiration after adding malate/pyruvate (mal/pyr)
+did not significantly differ between a-synuclein(A30P)-transgenic
+mice (right panel) and wild-type animals (left panel). ADP stimulated state 3 respiration and FCCP triggered uncoupled respiration reflecting mitochondrial respiratory capacity were also
+unchanged. (B) Representative regions of microRNA chip images. The Cy3 and Cy5 intensity images are color-coded. Red signals indicate miRNA that are highly expressed in the mouse
+brainstem. In the Cy3/Cy5 ratio image the color is yellow when
+Cy3 (wild-type mouse microRNA) level is equal to Cy5 (mutant asynuclein-transgenic mouse microRNA) level. The color is green
+when Cy3 level is higher than Cy5 level. The color is red when
+Cy3 level is lower than Cy5 level.
+
+images. The Cy3 and Cy5 intensity images are pseudocolored. As the signal intensity increases from 1 to 55 000,
+the corresponding color changes from blue to green, to yellow, and to red. Red signals indicate miRNA that are expressed at high levels in the mouse brainstem. Brainstem-enriched miRNA with averaged signal intensities higher than
+20 000 included miR-7a, -7b, -7c, -7d, -7e, -7f, -7g, -7i, -9, -9*,
+-16, -21, -23a, -23b, -27b, -26a, -26b, -29a, -29b, -29c, -30a-5p,
+-30b, -30c, -30d, -98, -124a, -124b, -125b, -125b, -126-3p, -128a,
+-128b, -132, -181a, -218, -434-3p, and -709. In the Cy3/Cy5
+ratio image (Fig. 3B), the color is yellow when Cy3 (wild-type
+© 2008 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+Probe_ID
+
+Cy3 signal
+
+Cy5 signal
+
+Log2 (Cy5/Cy3)
+
+mmu-miR-10b
+mmu-miR-10a
+mmu-miR-212
+mmu-miR-132
+mmu-miR-495
+
+592
+656
+5339
+27 598
+12 214
+
+210
+326
+3408
+19 052
+9114
+
+21.4
+20.9
+20.6
+20.5
+20.5
+
+4
+
+Discussion
+
+In the human a-synuclein(A30P)-transgenic mouse model
+for PD, behavioral impairment and a-synuclein aggregation
+starts at approximately 12 months of age [6]. In a recent
+study using 2-DE, oxidative modifications in two glycolytic
+enzymes were detected in a-synuclein(A30P)-transgenic
+mice brains compared to non-transgenic controls [27]. In this
+study, however, end-stage mice and total brain homogenates
+were analyzed. In order to detect early pathogenic events
+within vulnerable compartments, we tested a-synuclein
+(A30P) overexpressing mice at the onset of motor dysfunction, microdissected brainstem tissue and enriched the
+synaptosomal fraction, where aggregated a-synuclein may
+exert its pathogenic effects [3, 6]. Using 2-D DIGE, we
+detected changes in proteins involved in mitochondrial
+function, iron transport, actin dynamics, and vesicle exocytosis. Lack of neuronal cell loss and absence of glial activation
+in our transgenic mouse model might explain why these
+alterations in protein levels were only moderate ranging
+from 250 to 145%. Changes in actin cytoskeletal proteins
+www.clinical.proteomics-journal.com
+
+Proteomics Clin. Appl. 2008, 2, 697–705
+
+and mitochondrial proteins (e.g. ATP synthase subunits)
+were also detected in proteomic studies analyzing heads
+from early symptomatic a-synuclein(A30P)-transgenic Drosophila melanogaster [28] and autopsy brain tissue from
+sporadic PD patients, respectively [29]. Isotope-coded affinity
+tag-based analysis of mitochondria-enriched fractions from
+nigral tissue revealed 119 differentially-expressed proteins in
+PD patients, including subunits of the mitochondrial electron transport complexes [30]. Detailed immunoblot analysis
+of the electron transport complexes demonstrated specific
+changes in complex I subunit composition in the PD frontal
+cortex [31]. Although these proteomic data point to similar
+functional defects in patients and animal models, there is
+only minor overlap in the proteins identified.
+Mitochondrial dysfunction seems to play a central role in
+PD and a significant reduction in mitochondrial complex I
+catalytic activity has been shown in brain tissue of sporadic
+PD patients [2, 31]. In our study, respiration of mitochondria
+enriched from brainstem tissue did not differ between early
+symptomatic (12-months-old) a-synuclein(A30P)-transgenic
+mice and controls. Consistently, unchanged brain mitochondrial respiration was recently reported in two mouse
+lines that overexpress double mutant a-synuclein(A30P/
+A53T) [32]. On the other hand, mitochondrial complex IV
+activity declined by about 80% in the spinal cord of symptomatic a-synuclein(A53T)-transgenic mice. In contrast to the
+aforementioned mouse lines, this line exhibits a massive loss
+of central neurons [33].
+The factors underlying differences in vulnerability
+remain enigmatic. Our proteomic data do not show a compensatory up-regulation of potential neuroprotective proteins (e.g. HSP, glycolytic enzymes), whereas protein levels of
+mitochondrial ATP synthase alpha chain and 3-methylglutaconyl-CoA (MG-CoA) hydratase significantly decreased in
+the mutant mice. In order to monitor enzyme function, we
+tested brainstem extracts for MG-CoA hydratase activity [22].
+However, catalytic activity was below the detection limit of
+our assay probably due to the very low amounts of enzyme
+present in the mouse brainstem extracts. On the other hand,
+mRNA levels of MG-CoA hydratase were also reduced in
+affected brain regions of PD patients pointing to a pathophysiological function. MG-CoA hydratase catalyses the
+hydration of MG-CoA to 3-hydroxy-3-methyl-glutaryl-CoA
+(HMG-CoA) in the leucine degradation pathway. HMG-CoA
+is then converted to acetoacetate and acetyl-CoA [22].
+Reduced mitochondrial MG-CoA hydratase activity in
+humans results in psychomotor retardation with progressive
+neurological symptoms. The ketone bodies acetoacetate and
+3-hydroxybutyrate represent a major alternative to glucose as
+energy substrate in the mammalian brain. Moreover,
+administration of ketone bodies protected cultured midbrain
+neurons against the mitochondrial complex I inhibitor
+MPP1 and increased survival of a-synuclein(A53T)-transgenic Caenorhabditis elegans exposed to rotenone [34, 35].
+A pivotal role of iron-mediated free radical stress has
+been emphasized in PD and transcranial sonography has
+© 2008 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+703
+demonstrated iron accumulation in the substantia nigra of
+early symptomatic familial and sporadic PD patients [36, 37].
+Extracellular iron is bound to transferrin and is internalized
+by cells via the transferrin receptor. The significant increase
+in brainstem transferrin levels in our a-synuclein(A30P)
+overexpressing mice may be indicative of an enhanced iron
+uptake. Sorting nexin-12 (SNX12) is a member of the SNX3/
+Grd19 group of cellular trafficking proteins [38]. Notably,
+SNX3 is involved in transport of internalized transferrin
+receptors to recycling endosomes and of epidermal growth
+factor receptors to lysosomes. LIM and SH3 domain protein
+(LASP-1) is an actin-associated protein that is concentrated at
+neuronal synapses where it may be involved in actin cytoskeleton reorganization contributing to synaptic plasticity
+[39]. LASP-1 also binds to dynamin, which is critically
+required for synaptic vesicle endocytosis [40, 41]. Vesiclefusion ATPase (also known as N-ethylmaleimide-sensitive
+fusion protein) is broadly required for intracellular membrane fusion including calcium-sensitive synaptic vesicle
+exocytosis [42]. Interestingly, alterations in epidermal growth
+factor receptor trafficking and synaptic vesicle dynamics
+have been detected in Parkin-deficient cells and a-synuclein
+(A30P) overexpressing neurons, respectively [43, 44].
+Our miRNA expression analysis led to the identification
+of numerous brainstem-enriched miRNA. More importantly,
+we demonstrate for the first time that miRNA expression
+changes in a transgenic mouse model for PD in the absence
+of neuronal cell loss. Recent studies in cultured primary
+neurons demonstrated that expression of miR-132 significantly increases following growth factor administration or
+neuronal depolarization [11, 25]. Transfection with miR-132
+expression vectors enhances neuronal excitability by glutamate [25]. The decline in miR-132 levels in our a-synuclein(A30P)-transgenic mice may thus represent a molecular
+signature for a concomitant decrease in neurotrophic support and/or neuronal activity in the affected brainstem.
+Moreover, the decrease in miR-132 may contribute to the
+increased expression of its predicted targets sortin nexin-12
+and ubiquitin-conjugating enzyme E2 [25, 26]. After submission of this manuscript, Kim and coworkers reported a
+decrease of miR-133b in midbrain samples from PD patients
+[45]. MiRNA-133b modulates the differentiation of embryonic rat dopaminergic neurons in culture by targeting the
+transcription factor Pitx3 [45]. It will be important to identify
+and validate the mRNAs targets of miR-132, -133b, -212, and
+-495 in the ageing brain. Recent evidence suggests that
+miRNA might be drug targets for the treatment of human
+diseases and can be specifically blocked in vivo [46]. Thus,
+analysis of miRNA expression in biopsy specimen from diseased human brain combined with target mRNA identification may provide new therapeutic options.
+
+The authors thank Sandra Felk, Susanne Zach, and Jessica
+Bretzel for excellent technical assistance. We also thank Dr. Carina Ittrich for help with genechip data analysis. We are grateful to
+www.clinical.proteomics-journal.com
+
+704
+
+F. Gillardon et al.
+
+Prof. Christian Haass and Prof. Philipp Kahle for providing
+breeding pairs of mutant a-synuclein transgenic mice. This project was in part supported by the Landesstiftung Baden-Württemberg (P-LS-Prot/42).
+
+5
+
+Proteomics Clin. Appl. 2008, 2, 697–705
+Tg2576 mice occur before amyloid plaque deposition. Proteomics 2007, 7, 605–616.
+[17] Gnaiger, E., Bioenergetics at low oxygen: dependence of
+respiration and phosphorylation on oxygen and adenosine
+diphosphate supply. Respir. Physiol. 2001, 128, 277–297.
+
+The authors have declared no conflict of interest.
+
+[18] Tonge, R., Shaw, J., Middleton, B., Rowlinson, R. et al., Validation and development of fluorescence two-dimensional
+gel electrophoresis proteomics technology. Proteomics
+2001, 1, 377–396.
+
+References
+
+[19] Viswanathan, S., Ünlü, M., Minden, J. S., Two-dimensional
+difference gel electrophoresis. Nat. Protoc. 2006, 1, 1351–
+1358.
+
+[1] Shults, C. W., Lewy bodies. Proc. Natl. Acad. Sci. USA 2006,
+103, 1661–1668.
+[2] Dawson, T. M., Dawson, V. L., Molecular pathways of neurodegeneration in Parkinson’s disease. Science 2003, 302,
+819–822.
+[3] Kramer, M. L., Schulz-Schaeffer, W. J., Presynaptic a-synuclein aggregates, not Lewy bodies, cause neurodegeneration in dementia with Lewy bodies. J. Neurosci. 2007, 27,
+1405–1410.
+[4] Dawson, T. M., Mandir, A. S., Lee, M. K., Animal models of
+PD: pieces of the same puzzle? Neuron 2002, 35, 219–222.
+[5] Melrose, H. L., Lincoln, S. J., Tyndall, G. M., Farrer, M. J.
+Parkinson’s disease: a rethink of rodent models. Exp. Brain
+Res. 2006, 173, 196–204.
+[6] Freichel, C., Neumann, M., Ballard, T., Müller, V. et al.,. Agedependent cognitive decline and amygdala pathology in asynuclein transgenic mice. Neurobiol. Ageing, 2007, 28,
+1421–1435.
+[7] Kosik, K. S., The neuronal microRNA system. Nature Rev.
+Neurosci. 2006, 7, 911–919.
+[8] Williams, A. E., Functional aspects of animal microRNAs.
+Cell. Mol. Life Sci. 2008, 65, 545–562.
+[9] Miska, E. A., Alvarez-Saavedra, E., Townsend, M., Yoshii, A.
+et al., Microarray analysis of microRNA expression in the
+developing mammalian brain. Genome Biol. 2004, 5, R68.
+[10] Schratt, G. M., Tuebing, F., Nigh, E. A., Kane, C. G. et al., A
+brain-specific microRNA regulates dendritic spine development. Nature 2006, 439, 283–289.
+[11] Vo, N., Klein, M. E., Varlamova, O., Keller, D. M. et al., A
+cAMP-response element binding protein-induced microRNA regulates neuronal morphogenesis. Proc. Natl. Acad.
+Sci. USA 2005, 102, 16426–16431.
+[12] Bilen, J., Liu, N., Burnett, B. G., Pittman, R. N., Bonini, N. M.,
+MicroRNA pathways modulate polyglutamine-induced
+neurodegeneration. Mol. Cell 2006, 24, 157–163.
+
+[20] Friedman, D. B., Quantitative proteomics for two-dimensional gels using difference gel electrophoresis. In: Matthiesen, R. (Ed.), Methods in Molecular Biology, Humana Press
+Totowa, NJ, 2007, vol. 367.
+[21] Boldt, K., Rist, W., Weiss, S. M., Weith, A., Lenter, M. C.,
+FPRL-1 induces modifications of migration-associated proteins in human neutrophils. Proteomics 2006, 6, 4790–4799.
+[22] Mack, M., Schniegler-Mattox, U., Peters, V., Buckel, W. et al.,
+Biochemical characterization of human 3-methylglutaconylCoA hydratase and ist role in leucine metabolism. FEBS J.
+2006, 273, 2012–2022.
+[23] Richards, M. P., Huang T. L., Metalloprotein analysis by capillary isoelectric focusing. J. Chromatogr. B. Biomed. Sci.
+Appl. 1997, 690, 43–54.
+[24] Nowalk, A. J., Nolder, C., Clifton, D. R., Carroll, J. A., Comparative proteome analysis of subcellular fractions from
+Borrelia burgdorferi by NEPHGE and IPG. Proteomics 2006,
+6, 2121–2134.
+[25] Cheng, H. M., Papp, J. W., Varlamova, O., Dziema, H. et al.,
+microRNA modulation of circadian-clock period and
+entrainment. Neuron 2007, 54, 813–829.
+[26] John, B., Enright, A. J., Aravin, A., Tuschl, T. et al., Human
+microRNA targets. PloS Biology 2004, 2, 1862–1879.
+[27] Poon, H. F., Fraisier, M., Shreve, N., Calabrese, V. et al.,
+Mitochondrial associated metabolic proteins are selectively
+oxidized in A30P a-synuclein transgenic mice – a model of
+familial Parkinson’s disease. Neurobiol. Dis. 2005, 18, 492–
+498.
+[28] Xun, Z., Sowell, R. A., Kaufman, T. C., Clemmer, D. E. Protein
+expression in a Drosophila model of Parkinson’s disease. J.
+Proteome Res. 2007, 6, 348–357.
+[29] Basso, M., Giraudo, S., Corpillo D., Bergamasco, B. et al.,
+Proteome analysis of human substantia nigra in Parkinson’s
+disease. Proteomics 2004, 4, 3943–3952.
+
+[13] Ashraf, S. I., Kunes, S., A trace of silence: memory and
+microRNA at the synapse. Curr. Opin. Neurobiol. 2006, 16,
+535–539.
+
+[30] Jin, J., Hulette, C., Wang, Y., Zhang, T. et al., Proteomic
+identification of a stress protein, mortalin/mthsp70/Grp75.
+Relevance to Parkinson disease. Mol. Cell. Proteomics 2006,
+5, 1193–1204.
+
+[14] Bilen, J., Liu, N., Bonini, N. M., A new role for microRNA
+pathways. Modulation of degeneration induced by pathogenic human disease proteins. Cell Cycle 2006, 5, 2835–
+2838.
+
+[31] Keeney, P. M., Xie, J., Capaldi, R. A., Bennett, J. P. Parkinson’s disease brain mitochondrial complex I has oxidatively
+damaged subunits and is functionally impaired and misassembled. J. Neurosci. 2006, 26, 5256–5264.
+
+[15] Luabeya, M. K., Vanisberg, M. A., Jeanjean, A. P., Baudhuin,
+P. et al., Fractionation of human brain by differential and
+isopynic equilibration techniques. Brain Res. Protocols
+1997, 1, 83–90.
+
+[32] Stichel, C. C., Zhu, X., Bader, V., Linnartz, B. et al., Mono- and
+double-mutant mouse models of Parkinson’s disease display severe mitochondrial damage. Hum. Mol. Gen. 2007,
+16, 3377–3393.
+
+[16] Gillardon, F. G., Rist, W., Kussmaul, L., Vogel, J. et al., Proteomic and functional alterations in brain mitochondria from
+
+[33] Martin, L. J., Pan, Y., Price, A. C., Sterling, W. et al., Parkinson’s disease a-synuclein transgenic mice develop neuronal
+
+© 2008 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+www.clinical.proteomics-journal.com
+
+Proteomics Clin. Appl. 2008, 2, 697–705
+
+705
+
+mitochondrial degeneration and cell death. J. Neurosci.
+2006, 26, 41–50.
+
+is a component of central nervous system synapses and
+dendritic spines. J. Neurosci. Res. 2004, 78, 38–48.
+
+[34] Kashiwaya, Y., Takeshima, T., Mori, N., Clarke, K., Veech, R.
+L., D-b-hydroxybutyrate protects neurons in models of Alzheimer’s and Parkinson’s disease. Proc. Natl. Acad. Sci. USA
+2000, 97, 5440–5444.
+
+[40] Okamoto, C. T., Li, R., Zhang, Z., Jeng, Y. Y., Chew, C. S.,
+Regulation of protein and vesicle trafficking at the apical
+membrane of epithelial cells. J. Contr. Release 2002, 78, 35–
+41.
+
+[35] Ved, R., Saha, S., Westlung, B., Perier, C. et al., Similar patterns of mitochondrial vulnerability and rescue induced by
+genetic modification of a-synuclein, parkin, and DJ-1 in
+Caenorhabditis elegans. J. Biol. Chem. 2005, 280, 42655–
+42668.
+
+[41] Robinson, P. J., How to fill a synapse. Science 2007, 316,
+551–553.
+
+[36] Berg, D., Gerlach, M., Youdim, M. B. H., Double, K. L. et al.,
+Brain iron pathways and their relevance to Parkinson’s disease. J. Neurochem., 2001, 79, 225–236.
+
+[43] Fallon, L., Belanger, C. M. L., Corera, A. T., Kontogiannea, M.
+et al., A regulated interaction with UIM protein Eps15 implicates parkin in EGF receptor trafficking and PI(3)K-Akt signaling. Nat. Cell Biol. 2006, 8, 834–842.
+
+[37] Schweitzer, K. J., Brüssel, T., Leitner, P., Krüger, R. et al.,
+Transcranial ultrasound in different monogenetic subtypes
+of Parkinson’s disease. J. Neurol., 2007, in press.
+
+[42] Zhao, C., Slevin, J. T., Whiteheart, S. W., Cellular functions of
+NSF: not just SNAPs and SNAREs. FEBS Lett. 2007, 581,
+2140–2149.
+
+[44] Gitler, A. D., Shorter, J., Prime time for a-synuclein. J. Neurosci., 2007, 27, 2433–2434.
+
+[38] Worby, C. A., Dixon, J. E., Sorting out the cellular functions
+of the sorting nexins. Nat. Rev. Mol. Cell Biol. 2002, 3, 919–
+931.
+
+[45] Kim, J., Inoue, K., Ishii, J., Vanti, W. B. et al., A microRNA
+feedback circuit in midbrain dopamine neurons. Science
+2007, 317, 1220–1224.
+
+[39] Phillips, G. R., Anderson, T. R., Florens, L., Gudas, C. et al.,
+Actin-binding proteins in a postsynaptic preparation: Lasp-1
+
+[46] Hammond, S. M., MicroRNA therapeutics: a new niche for
+antisense nucleic acids. Trends Mol. Med. 2006, 12, 99–101.
+
+© 2008 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+www.clinical.proteomics-journal.com
+
+

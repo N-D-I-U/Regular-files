@@ -1,0 +1,847 @@
+THE JOURNAL OF BIOLOGICAL CHEMISTRY VOL. 288, NO. 8, pp. 5506 –5517, February 22, 2013
+© 2013 by The American Society for Biochemistry and Molecular Biology, Inc. Published in the U.S.A.
+
+Nuclear Import and Export Signals Control the Subcellular
+Localization of Nurr1 Protein in Response to Oxidative Stress*
+Received for publication, November 22, 2012, and in revised form, December 28, 2012 Published, JBC Papers in Press, January 2, 2013, DOI 10.1074/jbc.M112.439190
+
+Ángel Juan García-Yagüe‡§¶1, Patricia Rada‡§¶1, Ana I. Rojo‡储, Isabel Lastres-Becker‡§¶2, and Antonio Cuadrado‡§¶3
+From the ‡Centro de Investigación Biomédica en Red Sobre Enfermedades Neurodegenerativas (CIBERNED), Madrid, the
+§
+Departamento de Bioquímica e Instituto de Investigaciones Biomédicas “Alberto Sols,” Consejo Superior de Investigaciones
+Científicas and Universidad Autónoma de Madrid (CSIC-UAM), Madrid, the ¶Instituto de Investigación Sanitaria La Paz (IDIPAZ),
+Madrid, and the 储Departamento de Bioquímica y Biología Molecular, Facultad de Medicina, Universidad Complutense de Madrid,
+Madrid, Spain
+
+Orphan receptor Nurr1 participates in the acquisition and
+maintenance of the dopaminergic cell phenotype, modulation
+of inflammation, and cytoprotection, but little is known about
+its regulation. In this study, we report that Nurr1 contains a
+bipartite nuclear localization signal (NLS) within its DNA binding domain and two leucine-rich nuclear export signals (NES) in
+its ligand binding domain. Together, these signals regulate
+Nurr1 shuttling in and out of the nucleus. Immunofluorescence
+and immunoblot analysis revealed that Nurr1 is mostly nuclear.
+A Nurr1 mutant lacking the NLS failed to enter the nucleus. The
+Nurr1 NLS sequence, when fused to green fluorescent protein,
+led to nuclear accumulation of this chimeric protein, indicating
+that this sequence was sufficient to direct nuclear localization of
+Nurr1. Furthermore, two NES were characterized in the ligand
+binding domain, whose deletion caused Nurr1 to accumulate
+predominantly in the nucleus. The Nurr1 NES was sensitive to
+CRM1 and could function as an independent export signal when
+fused to green fluorescent protein. Sodium arsenite, an agent
+that induces oxidative stress, promoted nuclear export of ectopically expressed Nurr1 in HEK293T cells, and the antioxidant
+N-acetylcysteine rescued from this effect. Similarly, in dopaminergic MN9D cells, arsenite induced the export of endogenous Nurr1, resulting in the loss of expression of Nurr1-dependent genes. This study illustrates that Nurr1 shuttling between
+the cytosol and nucleus is controlled by specific nuclear import
+and export signals and that oxidative stress can unbalance the
+distribution of Nurr1 to favor its cytosolic accumulation.
+
+* This work was supported in part by Grant SAF2010-172218 from the Spanish Ministry of Science and Innovation.
+Both authors contributed equally to this work and should be considered first
+authors.
+2
+Recipient of a Ramón y Cajal Contract provided by the Spanish Ministry of
+Science and Innovation. To whom correspondence may be addressed:
+Instituto de Investigaciones Biomédicas “Alberto Sols” UAM-CSIC, c/Arturo
+Duperier 4, 28029 Madrid, Spain. Tel.: 34-915854383; Fax: 34-915854401;
+E-mail: ilbecker@iib.uam.es.
+3
+To whom correspondence may be addressed: Instituto de Investigaciones
+Biomédicas “Alberto Sols” UAM-CSIC, c/Arturo Duperier 4, 28029 Madrid,
+Spain. Tel.: 34-915854383; Fax: 34-915854401; E-mail: antonio.cuadrado@
+uam.es.
+1
+
+5506 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+Transcription factor Nurr1 (NOT/NR4A2) together with
+Nur77 (NGIF-B/NR4A1) and Nor-1 (MINOR/NR4A3) constitute the orphan receptor subfamily of the steroid nuclear hormone receptors (1). These three receptors trans-activate target
+genes through monomer binding to a consensus nerve growth
+factor-responsive element (NBRE)4 sequence (AAAGGTCA)
+or homodimer binding to the palindromic NurRE sequence
+(AAAT(G/A)(C/T)CA) (2, 3). Unlike most other nuclear receptors, crystal structure and NMR data indicate that orphan
+receptors can function as ligand-independent transcription
+factors because the putative ligand binding domain is occupied
+by several bulky hydrophobic side chains (4, 5). Nurr1 can also
+heterodimerize with the 9-cis-retinoic acid receptor to mediate
+retinoid signaling (6, 7).
+Nurr1 participates in a variety of biological processes such as
+development and survival of dopaminergic neurons (8), regulation of macrophage inflammatory genes (9), and progression of
+cancer cells by suppressing apoptosis (10 –12). Nurr1 is
+expressed predominantly in the substantia nigra, ventral tegmental area, and limbic areas of the brain and is responsible for
+acquisition and maintenance of neuronal dopaminergic phenotypes. It controls dopamine metabolism by inducing the expression of tyrosine hydroxylase, monoamine vesicular transporter
+2 (VMAT2), L-aromatic amino acid descarboxylase (AADC),
+etc. (13, 14). In humans, mutations in the Nurr1 gene have been
+associated with neurological diseases, including Parkinson disease, schizophrenia, and manic depression (14 –17). In animal
+models, homozygous Nurr1 knock-out mice are lethal due to
+lack of mesencephalic dopaminergic neurons, which are known
+to degenerate in Parkinson disease, and heterozygous mice
+exhibit high vulnerability to the parkinsonian toxin 1-methyl4-phenyl-1,2,3,6-tetrahydropyridine (8, 14, 18). Nurr1 also
+4
+
+The abbreviations used are: NBRE, nerve growth factor-responsive element;
+AADC, aromatic L-amino acid decarboxylase; CRM1, chromosome region
+maintenance 1l EGFP, enhanced green fluorescent protein; NAC, N-acetylcysteine; NES, nuclear export signal; NLS, nuclear localization signal; Nurr1,
+nuclear receptor related 1; Nur77, nuclear receptor 77; VMAT2, vesicular
+monoamine oxidase; ANOVA, analysis of variance.
+
+VOLUME 288 • NUMBER 8 • FEBRUARY 22, 2013
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+Background: Little is known about the regulation of transcription factor Nurr1.
+Results: We identified a bipartite NLS and two NES signals implicated in its subcellular trafficking, and we report that oxidative
+stress induces nuclear export of Nurr1.
+Conclusion: Nurr1 shuttles between the cytoplasm and nucleus, and its subcellular localization is modified by stress.
+Significance: Nurr1 subcellular localization will help understand its function under physiopathological conditions.
+
+Nuclear Import and Export of Nurr1
+
+EXPERIMENTAL PROCEDURES
+Cell Culture and Reagents—Human embryonic kidney
+(HEK) 293T cells were grown in Dulbecco’s modified Eagle’s
+medium (DMEM) (Sigma) supplemented with 10% fetal bovine
+serum (FBS) (Invitrogen) and 80 ␮g/ml gentamycin. MN9D is
+an immortalized dopaminergic neuronal cell line derived from
+mouse mesencephalon. MN9D cells were cultured in high glucose DMEM, supplemented with 10% FBS and 80 ␮g/ml gentamicin. Human neuroblastoma SH-SY5Y cells were grown in
+DMEM containing 10% FBS, 100 units/ml penicillin, and 100
+␮g/ml streptomycin. Sodium arsenite, leptomycin B, and
+N-acetylcysteine (NAC) were from Sigma.
+Plasmids—Vector pCI-HA-CRM1 was provided by Dr. Alan
+Diehl (University of Pennsylvania, Philadelphia). Vectors
+pGL3-NBRE3⫻Luc and pGL3-TkLuc were provided by Dr.
+Philippe Lefebvre (INSERM Institut Pasteur de Lille, Lille,
+France). pcDNA3.1-Nurr1-V5His was generated using Nurr1
+wild-type fragment from vector pCMX-Nurr1 provided by Dr.
+FEBRUARY 22, 2013 • VOLUME 288 • NUMBER 8
+
+Kazuhiko Umesono (Kyoto University, Kyoto, Japan). pCMXNurr1 was used as a template to generate Nurr1 PCR insert with
+oligonucleotides that introduce EcoRV and NotI restriction
+sites at both ends (Table 1, pcDNA3.1-Nurr1-V5His). Nurr1
+NES and NLS mutants were generated with the Gene Tailor
+site-directed mutagenesis system (Invitrogen) using as template pcDNA3.1-Nurr1-V5His. Oligonucleotides to generate
+Nurr1 NES1*, Nurr1 NES2*, and Nurr1 NES1/2*, Nurr1 NLS1*,
+Nurr1 NLS2*, and Nurr1 NLS1/2* mutants are described in
+Table 1. pEGFP-NES1, pEGFP-NES2, pEGFP-NLS1, and
+pEGFP-NLS2 were generated introducing sequences of NES1,
+NES2, NLS1, and NLS2 on pEGFP-C1 with the oligonucleotides shown in Table 1. Forward and complementary oligonucleotides were annealed at a final oligonucleotide concentration of 100 pM at 80 °C for 2 min. The mixture was then slowly
+cooled to 4 °C with a thermal profile of 1 °C/min. 50 pM of double-stranded oligonucleotide was 5⬘-end-phosphorylated using
+T4 polynucleotide kinase (Promega, Fitchburg, WI) with 1 mM
+ATP. Cloning was performed using restriction enzymes
+BamHI/BglII.
+Luciferase Assays—HEK293T cells were seeded in 24-well
+plates (75,000 cells per well), cultured for 16 h, and transfected
+with luciferase reporter plasmid pGL3-NBRE3⫻Luc and
+pGL3-TkLuc using the calcium phosphate method. After 24 h
+of transfection, cells were lysed and assayed for luciferase activity with the luciferase assay system (Promega), according to the
+manufacturer’s instructions. Relative light units were measured
+in a GLOMAX 96-microplate luminometer (Promega).
+Preparation of Nuclear and Cytosolic Extracts—MN9D,
+SH-SY5Y, and HEK293T cells were seeded in p100 plates (2 ⫻
+106 cells/plate). HEK293T cells were transfected with calcium
+phosphate, and after 24 h, cells were treated with 100 ␮M
+sodium arsenite for 30, 60, or 90 min. Cytosolic and nuclear
+fractions were prepared as described previously (38). Briefly,
+cells were washed with cold PBS and harvested by centrifugation at 1100 rpm for 10 min. The cell pellet was resuspended in
+3 pellet volumes of cold buffer A (20 mM HEPES, pH 7.0, 0.15
+mM EDTA, 0.015 mM EGTA, 10 mM KCl, 1% Nonidet P-40, 1
+mM phenylmethylsulfonyl fluoride, 20 mM NaF, 1 mM sodium
+pyrophosphate, 1 mM sodium orthovanadate, 1 ␮g/ml leupeptin) and incubated in ice for 30 min. Then the homogenate was
+centrifuged at 500 ⫻ g for 5 min. The supernatants were taken
+as the cytosolic fraction. The nuclear pellet was resuspended in
+5 volumes of cold buffer B (10 mM HEPES, pH 8.0, 0.1 mM
+EDTA, 0.1 mM NaCl, 25% glycerol, 1 mM phenylmethylsulfonyl
+fluoride, 20 mM NaF, 1 mM sodium pyrophosphate, 1 mM
+sodium orthovanadate, 1 ␮g/ml leupeptin). After centrifugation in the same conditions indicated above, the nuclei were
+resuspended in loading buffer containing 0.5% SDS. The cytosolic and nuclear fractions were resolved in SDS-PAGE and
+immunoblotted with the indicated antibodies.
+Immunocytochemistry—HEK293T cells were seeded in 24well plates (75,000 cells per well) on poly-D-Lys-covered slides,
+cultured for 16 h, and transfected with calcium phosphate.
+After 24 h, cells were treated with 100 ␮M sodium arsenite for
+30 or 60 min. Then cells were washed with cold PBS and fixed in
+4% paraformaldehyde for 15 min at room temperature. After
+three 5-min washes with PBS, cells were permeabilized with
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+5507
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+modulates the inflammatory response in midbrain astrocytes
+and microglia, suggesting a role in protection against these processes that are intimately linked to neurodegeneration (19).
+Other functions associated with Nurr1 include regulation of
+osteocalcin in osteoblasts (20, 21), aldosterone synthase in
+adrenal cortex (22), and aromatase in ovarian granulosa cells
+(23). Moreover, Nurr1 participates in development of some
+colorectal, bladder, and lung cancers (24 –26). Therefore, a
+characterization of physiological and pathological mechanisms
+that regulate Nurr1 transcriptional activity may provide better
+evidence on the relevance of this transcription factor as a new
+therapeutic target for these diseases.
+Nurr1 is regulated primarily by phosphorylation by ERK or
+AKT, sumoylation by protein inhibitor of activated STAT-␥, or
+dimerization with glucocorticoid or retinoid receptors (6, 16,
+27–31). However, little is known about a possible mechanism
+involved in regulation of its subcellular localization under both
+basal and stimulus-induced conditions. Cytoplasm-nucleus
+and nucleus-cytoplasm trafficking through nuclear pores is
+mediated by a variety of nuclear importin and exportin proteins (32) that recognize the NLS (33) or NES (34) on cargo
+proteins and facilitate their transport in a Ran GTPase-dependent manner. In the case of nuclear export, CRM1 (chromosome region maintenance-1) has been characterized as a
+nuclear exportin for many transcription factors (35), including
+Nur77 (36), but so far there is no evidence indicating that Nurr1
+might be a cargo for this exportin. Post-translational modifications such as phosphorylation, acetylation, and oxidation may
+alter the cytoplasmic to nuclear ratios of proteins (3, 19 –24).
+Among these modifications, oxidative stress has been associated with significant alterations in nuclear transport (37) and
+may be of great relevance in neurodegenerative diseases and
+other pathologies.
+In this study, we have characterized two NLS and two NES,
+which are responsive to CRM1 in Nurr1. We also provide evidence that oxidative stress provokes nuclear export of Nurr1.
+These results uncover a new mechanism of regulation of nuclear/cytoplasm shuttling of Nurr1 that explain how oxidative
+stress participates in loss of Nurr1 transcriptional activity.
+
+Nuclear Import and Export of Nurr1
+TABLE 1
+Primers used for subcloning and site-directed mutagenesis
+Mutated nucleotides are in boldface. Restrictions sites used or subcloned in pCDNA3.1-Nurrl-V5His are underlined. Adapter sequences for subcloning NLS1, NLS2, NES1,
+and NES1 are also underlined.
+
+Gene product
+
+Primers (forward and reverse)
+
+Tyrosine hydroxylase
+
+5⬘-GGTATACGCCACGCTGAAGG-3⬘
+5⬘-TAGCCACAGTACCGTTCCAGA-3⬘
+5⬘-GCGAGCATCTCTTATCTCATTGG-3⬘
+5⬘-AAATGCTGATCCCAACAACTATCA-3⬘
+5⬘-GGCGACGATTTCGCTCTTTG-3⬘
+5⬘-TCATTGGAGCCCTTTAGCCG-3⬘
+5⬘-TCCTTCCTGGGCATGGAG-3⬘
+5⬘-AGGAGGAGCAATGATCTTGATCTT-3⬘
+
+VMAT2
+AADC
+
+␤-Actin
+
+0.25% Nonidet P-40 for 10 min. The slides were incubated with
+primary antibodies for 1.5 h at 37 °C in a humidified chamber.
+Then cells were washed three times with PBS and incubated
+with secondary antibodies for 45 min under the same conditions. To visualize the nuclei, cells were stained with DAPI. The
+fluorescence images were captured using appropriate filters in a
+Leica DMIRE2TCS SP5 confocal microscope (Nussloch, Germany). The lasers used were Ar 488 nm for green fluorescence,
+Ar/HeNe 543 nm for red fluorescence, and Ar 351 nm/364 nm
+for UV fluorescence. Densitometric quantification of fluorescence intensity was performed with the ImageJ version 1.46r
+software. Several confocal pictures taken with a ⫻40 objective,
+accounting for a total of 100 cells per experimental condition,
+were analyzed with two threshold density levels as follows: one
+
+5508 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+for the most fluorescent compartment (nucleus or cytoplasm)
+and another for the whole cell. These measurements allowed
+calculation of an average density of nuclear or cytosolic fluorescence. The integrated densities of nuclei or cytoplasm were
+then divided by the integrated densities of the whole cells to
+obtain the mean percentage of nuclear or cytoplasmic Nurr1 ⫾
+S.E. Primary antibodies used in immunocytochemistry were
+mouse anti-V5 (Invitrogen) and rabbit anti-HA (Abcam, Cambridge, UK). Secondary antibodies were Alexa Fluor 488-conjugated goat anti-mouse IgG and Alexa Fluor 546-conjugated
+goat anti-rabbit IgG (Molecular Probes).
+Immunoblotting—The primary antibodies used were anti-V5
+(Invitrogen), anti-HA (Abcam), anti-GAPDH (Merck), and
+anti-Nurr1 (sc-990), anti-␤-actin (sc-1616), and anti-lamin B
+(sc-6217) (Santa Cruz Biotechnology). Cells were washed
+once with cold PBS and lysed on ice with RIPA lysis buffer
+(150 mM NaCl, 25 mM Tris-HCl, pH 7.5, 1% Nonidet P-40, 1%
+sodium deoxycholate, 0.1% SDS, 1 mM phenylmethylsulfonyl
+fluoride, 1 mM NaF, 1 mM sodium pyrophosphate, 1 mM sodium
+orthovanadate, 1 ␮g/ml leupeptin, 1 mM EGTA). Precleared
+cell lysates were resolved in SDS-PAGE and transferred to
+Immobilon-P membranes (Millipore, Billerica, MA). These
+membranes were analyzed using the primary antibodies indicated above, and the appropriate peroxidase-conjugated secVOLUME 288 • NUMBER 8 • FEBRUARY 22, 2013
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+TABLE 2
+Primers used in quantitative RT-PCR
+
+Nuclear Import and Export of Nurr1
+
+ondary antibodies. Proteins were detected by enhanced chemiluminescence (GE Healthcare).
+Analysis of mRNA Levels—MN9D cells were plated on p60
+plates, and total RNA was extracted using TRIzol reagent
+(Invitrogen) as described (39). One microgram of RNA from
+each experimental condition was treated with DNase (Invitrogen) and reverse-transcribed using High Capacity RNA-tocDNA kit (Applied Biosystems). Quantitative PCR was performed with 20 ng of cDNA in a 10-␮l reaction mixture that
+contained 0.3 ␮M primers and nucleotides, buffer, and Taq
+polymerase within the SYBR Green I master mix (Applied Biosystems). Amplification was conducted in a 96-well Step One
+Plus real time PCR system (Applied Biosystems). PCR cycles
+proceeded as follows: initial denaturation for 10 min at 95 °C
+and then 40 cycles of denaturation (15 s, 95 °C), annealing (30 s,
+60 °C), and extension (30 s, 60 °C). Primer sequences are
+reported in Table 2. Data analysis is based on the ⌬⌬Ct method
+with normalization of the raw data to housekeeping genes as
+described in the manufacturer’s manual (Applied Biosystems).
+Statistical Analysis—Data are presented as means ⫾ S.E. The
+Prism version 5.03 software for Windows (GraphPad, San
+Diego, CA) was used as described in each figure legend.
+
+RESULTS
+Nurr1 Is a Predominantly Nuclear Protein—In preliminary
+experiments, we analyzed the subcellular distribution of Nurr1
+in two dopaminergic cells lines, SH-SY5Y and MN9D, of
+human and murine origin, respectively. As shown in Fig. 1, A
+FEBRUARY 22, 2013 • VOLUME 288 • NUMBER 8
+
+FIGURE 2. Putative bipartite NLS sequence in Nurr1. A, primary structure of
+mouse Nurr1 depicting amino acid sequences between residues 287–314
+and 338 –350 corresponding to putative bipartite sides NLS1 and NLS2,
+respectively. AF1 and AF2, activating function 1 and 2; A/B, ligand-independent domains A and B; DBD, DNA binding domain; LBD, ligand binding
+domain. B, comparison of putative NLS1 and NLS2 sides of mouse Nurr1 with
+NLSs from other nuclear proteins. C, comparison of putative NLS1 and NLS2
+from Nurr1 with other mouse orphan receptors. D, phylogenetic conservation of putative NLS1 and NLS2. The highlighted residues correspond to the
+assumed sites that conform to the standard and atypical NLS sequences.
+
+and B, subcellular fractionation assays demonstrated that a
+majority of Nurr1 is located in the nucleus, and a minor fraction
+is present in the cytosol in both cell types. We generated a
+V5-tagged version of mouse Nurr1 to identify and characterize
+import and export signals. In HEK293T cells transfected with
+an expression vector for Nurr1-V5, subcellular fractionation
+assays (Fig. 1C) and immunofluorescence staining (Fig. 1D)
+indicated that ectopically expressed Nurr1 exhibits a similar
+distribution as endogenous protein in dopaminergic cells, with
+a tendency to be located at the nucleus. Densitometric quantification of confocal images of Nurr1-transfected cells further
+indicated that more than 80% of Nurr1 is localized in the
+nucleus under basal homeostatic conditions (Fig. 1E).
+Identification of Nuclear Localization Signals in Nurr1—
+Analysis of the Nurr1 sequence tentatively suggested one bipartite nuclear localization signal at positions 287–314, located
+within the DNA binding domain (Fig. 2A). This putative NLS
+(termed here NLS1) conforms to the consensus structure of
+typical NLS (ZZX(10 –20)ZZZ, where Z is Lys or Arg and X is any
+amino acid), as those found in other nuclear proteins such as
+nucleoplasmin, p73, p53, and NRF2 (Fig. 2B) and also in other
+orphan receptors (Fig. 2C). Moreover, this sequence is conserved among Nurr1 of different vertebrates (Fig. 2D). In addition, we found a putative atypical NLS (termed here NLS2)
+consisting of scattered Arg and Lys residues in a small stretch of
+12 amino acids at positions 338 –350, also in the DNA binding
+domain (Fig. 2, A and D). This sequence was also conserved in
+other orphan receptors (Fig. 2C). To determine whether these
+NLSs are functional, we made point mutants of Nurr1-V5,
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+5509
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+FIGURE 1. Subcellular distribution of Nurr1. A and B, cytosolic (C) and
+nuclear (N) fractions of dopaminergic cell lines SH-SY5Y and MN9D show
+subcellular localization of endogenous Nurr1. C, cytosolic and nuclear fractions of HEK293T cells transfected with expression vector for V5-tagged
+mouse Nurr1 (pcDNA3.1-Nurr1-V5) show subcellular distribution of ectopically expressed Nurr1. Upper panels, immunoblots with anti-Nurr1 antibody;
+middle panels, immunoblots with anti-␤-actin antibody as a control for cytosolic protein load; lower panels, anti-lamin B as a control for nuclear protein
+load. D, immunofluorescence analysis of Nurr1-V5 with anti-V5 antibody in
+HEK293T-transfected cells. Bar indicates 10 ␮m. E, densitometric quantification of the subcellular distribution of Nurr1 calculated from representative
+cell fields according to D. Values correspond to the mean percentage of Nurr1
+fluorescence in cytosol and nucleus ⫾ S.E. (n ⫽ 100 cells). ***, p ⬍ 0.001 versus
+cytoplasmic fluorescence according to a Student’s t test.
+
+Nuclear Import and Export of Nurr1
+
+where some Lys or Arg residues had been mutated to Ala to
+generate Nurr1-NLS1*, Nurr1-NLS2*, and Nurr1-NLS1/2* carrying mutations in the putative NLS1, NLS2, or both, respectively (Fig. 3A). HEK293T cells were transfected with these constructs and analyzed by immunofluorescence (Fig. 3, B and C)
+and cell fractionation (Fig. 3, D and E). Both approaches indicated that wild-type Nurr1 was mostly nuclear, although all
+NLS mutants were mostly cytosolic. In additional experiments,
+HEK293T cells were co-transfected with expression vectors for
+Nurr1 and Nurr1-NLS mutants and a luciferase reporter construct carrying three tandem sequences of the Nurr1-responsive element (NBRE-3⫻Luc). As shown in Fig. 3, F and G, wildtype Nurr1 activated this reporter in a dose-dependent manner.
+By contrast, the Nurr1-NLS2* mutant did not activate this
+reporter even though it was expressed to a similar level as wildtype Nurr1. These results indicate that both regions NLS1 and
+
+5510 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+NLS2 are part of a bipartite NLS and that both sequences are
+required for nuclear localization of Nurr1.
+We made chimeric proteins with EGFP fused at its carboxylterminal end with either NLS1 or NLS2 to generate EGFPNLS1 and EGFP-NLS2 (Fig. 4A). As shown in Fig. 4, B and C, in
+HEK293T-transfected cells, EGFP was localized at both the
+nucleus and cytoplasm with higher levels in the nucleus. EGFPNLS1 exhibited a similar distribution as EGFP alone. However,
+EGFP-NLS2 was strictly nuclear and accumulated in nuclear
+bodies. These results indicate that although both NLS1 and
+NLS2 are required to drive Nurr1 to the nucleus (Fig. 3), the
+NLS2 sequence is strong enough to translocate at least EGFP.
+Identification of Nuclear Export Signals in Nurr1—An in
+silico search for nuclear export signals with the NetNes program (Center for Biological Sequence Analysis, Technical University of Denmark) suggested two putative NES in the Nurr1
+VOLUME 288 • NUMBER 8 • FEBRUARY 22, 2013
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+FIGURE 3. Both NLS1 and NLS2 are required for nuclear localization of Nurr1. A, point mutants used to characterize NLS1 and NLS2. B, subcellular
+localization of V5-tagged wild-type Nurr1, Nurr1-NLS1*, Nurr1-NLS2*, and double mutant Nurr1-NLS1/2* analyzed by immunofluorescence with anti-V5
+antibody in HEK293T-transfected cells. Bar indicates 10 ␮m. C, densitometric quantification of the distribution of Nurr1 calculated from representative cell
+fields according to B. Values correspond to the mean percentage of Nurr1 in the nucleus ⫾ S.E. (n ⫽ 100 cells). ***, p ⬍ 0.001 versus Nurr1 according to a
+Student’s t test. D, cytosolic (C) and nuclear (N) fractions of HEK293T cells transfected under the same conditions as in B. E, densitometric quantification of
+protein levels from representative blots like those in D normalized to GAPDH. Data are means ⫾ S.E. (n ⫽ 3). ***, p ⬍ 0.001 versus the nuclear fraction of the
+wild-type group according to a Student’s t test. F, induction of NBRE-driven luciferase expression in HEK293T cells ectopically expressing Nurr1 and Nurr1NLS2*. Cells were co-transfected with empty vector or expression vector for Nurr1 or Nurr1-NLS2* (0.2 and 0.4 ␮g) and either pGL3-NBRE3⫻Luc or pGL3-TkLuc
+as a control. Cells were incubated for 16 h under serum-free conditions and analyzed for luciferase activity. Each point is the mean ⫾ S.E. (n ⫽ 3). ***, p ⬍ 0.001
+comparing groups of 0.2 ␮g and 0.4 ␮g, respectively, with a Student’s t test. G, immunoblots of cells transfected as in F, showing expression of V5-tagged Nurr1
+and Nurr1-NLS2*.
+
+Nuclear Import and Export of Nurr1
+
+FIGURE 4. NLS2 but not NLS1 is sufficient to confer nuclear import capacity. A, fusion proteins used for analysis of the subcellular localization of EGFP.
+B, subcellular localization by direct fluorescence of EGFP fusion proteins in
+HEK293T transfected cells. Bar indicates 10 ␮m. C, densitometric quantification of the distribution of Nurr1 from representative cell fields according to B.
+Values correspond to the mean percentage of nuclear fluorescence ⫾ S.E.
+(n ⫽ 100 cells). ***, p ⬍ 0.001 versus EGFP as determined with a Student’s t
+test.
+
+sequence at positions 443– 445 (NES1) and 568 –577 (NES2)
+(Fig. 5A). Both sequences conform to the consensus motif
+LX(1–3)LX(2–3)LXL where L is Leu and X is any amino acid.
+These sequences are similar to functional NES found in other
+proteins subjected to nuclear/cytoplasm shuttling such as
+I␬B-␣, TFIIIA, hDM2, p53, p73, PKI-␣, and Nrf2 (Fig. 5B).
+Moreover, both putative NES are conserved in orphan receptors Nur77 and Nor-1 (Fig. 5C) and in Nurr1 from several vertebrates, including human, mouse, rat, Xenopus, and fish (Fig.
+5D).
+Nuclear export of proteins depends in many cases on exportin CRM1. Therefore, to determine whether the two putative
+NES sequences are functional, we generated V5-tagged point
+mutants of Nurr1, where critical Leu and Ile residues had been
+changed to Ala to generate Nurr1-NES1*, Nurr1-NES2*, and
+Nurr1-NES1/2* (Fig. 6A). HEK293T cells were co-transfected
+FEBRUARY 22, 2013 • VOLUME 288 • NUMBER 8
+
+with expression vectors for these proteins and for HA-tagged
+CRM1. Cell fractionation (Fig. 6, B–F) and immunofluorescence (Fig. 6, G–K) assays indicated that wild type and point
+mutants were mostly nuclear. However, in the presence of
+CRM1, wild-type Nurr1 was redistributed to the cytosol,
+whereas mutants in NES1, NES2, or both remained mostly
+nuclear (Fig. 6, F and K). These results indicate that both NES
+sequences participate in nuclear export of Nurr1.
+To further determine the relevance of each NES, we made chimeras of EGFP fused at the carboxyl terminus with either NES1
+(EGFP-NES1) or NES2 (EGFP-NES2) (Fig. 7A). HEK293T cells
+were co-transfected with expression vectors for these proteins
+and analyzed by immunofluorescence (Fig. 7, B and C). EGFP
+was mostly nuclear as expected and insensitive to CRM1-mediated export. By contrast, EGFP-NES1 was already cytoplasmic even in the absence of ectopically expressed HA-CRM1,
+suggesting that this NES1 is so strong that it can be exported
+with endogenous exportins. EGFP-NES2 yielded a mixed cytoplasmic and nuclear pattern and required overexpression of
+HA-CRM1 to be exported efficiently to the cytoplasm. These
+results indicate that both NESs are functional but that NES1 is
+the strongest.
+Oxidative Stress Provokes Nuclear Exclusion of Nurr1—Oxidative stress affects the subcellular localization of various proteins. Therefore, we determined whether the localization of
+Nurr1 is susceptible to regulation by sodium arsenite, which
+interacts with sulfhydryl groups, depletes glutathione, and is a
+well established inducer of oxidative stress (40). HEK293T cells
+were transfected with V5-tagged wild-type Nurr1. After transfections, cells were maintained in serum-free medium for 16 h
+and then treated with sodium arsenite (100 ␮M). Under these
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+5511
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+FIGURE 5. Putative NES1 and NES2 sequences in Nurr1. A, primary structure
+of mouse Nurr1 depicting amino acid sequences between residues 443– 452
+and 568 –577 corresponding to putative NES1 and NES2, respectively. B, comparison of putative NES1 and NES2 of mouse Nurr1 with NESs from other
+nuclear proteins. C and E, comparison of putative NES1 and NES2 from Nurr1
+with other mouse orphan receptors. D and F, phylogenetic conservation of
+putative NES1 and NES2. The highlighted residues correspond to the putative
+sites that conform to the consensus sequence for an NES.
+
+Nuclear Import and Export of Nurr1
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+FIGURE 6. CRM1 requires NES1 and NES2 to export Nurr1. A, outline of the amino acid substitutions in Nurr1-NES1* and Nurr1-NES2*. B–E, HEK293T cells
+co-transfected with expression vectors for HA-tagged CRM1 and either V5-tagged wild-type Nurr1 (B), Nurr1-NES1* (C), Nurr1-NES2* (D), and Nurr1-NES1/2* (E).
+F, densitometric quantification of protein levels from representative blots like those in B–E. Cytosolic and nuclear fractions were normalized with ␤-actin and
+lamin B, respectively, and then represented as fold of change versus the Nurr1 group without CRM1. Data are means ⫾ S.E. (n ⫽ 3). ***, p ⬍ 0.001 versus the
+group of nuclear Nurr1 without transfection of CRM1 according to a Student’s t test. G–J, immunofluorescence staining of HEK293T cells transfected with the
+indicated expression vectors. Bar indicates 10 ␮m. K, densitometric quantification of the subcellular distribution of Nurr1-NES mutants from representative cell
+fields according to G–J. Values correspond to the mean percentage of nuclear fluorescence ⫾ S.E. (n ⫽ 100 cells). ***, p ⬍ 0.001 versus the group of nuclear Nurr1
+without transfection of CRM1 as determined with a Student’s t test.
+
+5512 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+VOLUME 288 • NUMBER 8 • FEBRUARY 22, 2013
+
+Nuclear Import and Export of Nurr1
+
+FIGURE 7. NES1 and NES2 are sufficient to confer export capacity to EGFP.
+A, fusion proteins used for analysis of the subcellular localization of EGFP.
+B, subcellular localization of EGFP fusion proteins in HEK293T cells co-transfected with HA-tagged CRM1 and EGFP and EGFP-NES1 and EGFP-NES2 as
+indicated. Bar indicates 10 ␮m. C, densitometric quantification of the subcellular distribution of EGFP fusion proteins from representative cell fields
+according to B. Values correspond to the mean percentage of nuclear fluorescence ⫾ S.E. (n ⫽ 100 cells). ***, p ⬍ 0.001 versus EGFP without transfection of
+CRM1. ###, p ⬍ 0.001 versus EGFP with transfection of CRM1, as determined
+with a Student’s t test.
+
+conditions, sodium arsenite induced a time-dependent translocation of Nurr1 to the cytosol that was abrogated when cells
+were preincubated with the oxidant blocker NAC (10 mM, 3 h)
+(Fig. 8, A–C). Consistently, arsenite reduced the transcriptional
+activity of Nurr1 toward the NBRE-driven luciferase reporter,
+and NAC reversed this constraint (Fig. 8D). These results suggest that oxidative stress induces the nuclear exclusion of
+Nurr1, either by preventing import or accelerating export,
+resulting in loss of its transcriptional activity.
+NES2 Participates in the Redox-dependent Export of Nurr1—
+To analyze in more detail these two possibilities, we compared
+the subcellular distribution of V5-tagged wild-type Nurr1 and
+the NES mutants Nurr1-NES1*, Nurr1-NES2*, and Nurr1NES1/2* following 30, 60, and 90 min of incubation with arsenite (Fig. 9). Sodium arsenite induced a time-dependent transloFEBRUARY 22, 2013 • VOLUME 288 • NUMBER 8
+
+cation to the cytosol of wild-type Nurr1-V5 (Fig. 9, A and E) and
+Nurr1-NES1* (Fig. 9, B and F). By contrast, Nurr1-NES2* (Fig.
+9, C and G) and Nurr1-NES1/2* (Fig. 9, D and H) were unresponsive to sodium arsenite. These results indicate that oxidative stress favors export of Nurr1 through the use of the NES2
+sequence.
+To gain further insight into this effect, we analyzed the subcellular distribution of the same mutants by immunofluorescence (Fig. 10, A–D and E). Wild-type Nurr1-V5 redistributed
+to the cytoplasm after treatment with sodium arsenite (100 ␮M,
+60 min). Similarly, Nurr1-NES1*, harboring NES2 but not
+NES1, also responded to sodium arsenite, rendering Nurr1
+cytosolic. By contrast, Nurr1-NES2* and NES1/2*, both lacking
+NES2, were resistant to sodium arsenite-induced translocation.
+Hence, these results indicate that NES2, but not NES1, is sensitive to redox regulation.
+Nuclear Export of Nurr1 Results in Loss of Dopaminergic
+Phenotype—The functional relevance of arsenite-induced
+changes in the subcellular localization of Nurr1 was addressed
+in the dopaminergic cell line MN9D. As shown in Fig. 11, A and
+C, in this cell line endogenous Nurr1 redistributed to the cytosol in response to arsenite with similar kinetics as found for
+ectopically expressed Nurr1-V5 in HEK293T cells. Moreover,
+this change was prevented by preincubating the cells with the
+CRM1 inhibitor leptomycin B, further demonstrating that the
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+5513
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+FIGURE 8. Sodium arsenite induces Nurr1 nuclear export that is reversed
+by NAC. HEK293T cells were transfected with expression vector for Nurr1-V5,
+serum-starved for 16 h, and treated with vehicle (0.1% ethanol) or NAC (3h, 10
+mM). Then cells were treated with sodium arsenite (As, 100 ␮M) for the indicated times. A and B, protein blots of cytosolic and nuclear fractions of cells
+treated with vehicle or NAC, respectively. C, densitometric quantification of
+cytosolic and nuclear protein levels from representative blots of A and B.
+Cytosolic and nuclear fractions were normalized with GAPDH and lamin B,
+respectively, and then represented as fold of change versus the group at 0 min
+with vehicle. Values correspond to the mean ⫾ S.E. (n ⫽ 3). Statistical analysis
+was performed with one-way ANOVA followed by Newman-Keuls multiple
+comparison test. ***, p ⬍ 0.001 versus nuclear Nurr1 at time 0 min. ###, p ⬍
+0.001 versus cytosolic Nurr1 at time 0 min. D, effect of sodium arsenite and
+NAC on the Nurr1-dependent regulation of NBRE-3⫻Luc. Cells were co-transfected with expression vector for Nurr1 and either pGL3-NBRE3⫻Luc or
+pGL3-TkLuc as a control. Then cells were placed in serum-free medium and
+pretreated with vehicle or NAC (1 h) prior to addition of sodium arsenite. After
+16 h, cells were analyzed for luciferase activity. Each point is the mean ⫾ S.E.
+(n ⫽ 3). Statistical analysis was performed with a two-way ANOVA followed by
+Bonferroni post hoc test. *, p ⬍ 0.05 and ***, p ⬍ 0.001 comparing vehicle
+versus 5 mM NAC-treated groups. ##, p ⬍ 0.01 and ###, p ⬍ 0.001 comparing
+vehicle versus 10 mM NAC-treated groups.
+
+Nuclear Import and Export of Nurr1
+
+FIGURE 9. Cell fractionation analysis of the subcellular localization of
+Nurr1 in response to sodium arsenite (As). HEK293T cells were transfected
+with expression vectors for Nurr1-V5 versions, serum-starved for 16 h, and
+treated with sodium arsenite (100 ␮M). A–D, lysates of cytosolic and nuclear
+fractions from cells expressing wild-type Nurr1-V5, Nurr1-NES1*, Nurr1NES2*, and Nurr1-NES1/2*, respectively. E–H, densitometric quantification of
+cytosolic and nuclear protein levels from representative blots of A–D, respectively. Cytosolic and nuclear fractions were normalized with GAPDH and
+lamin B, respectively, and then represented as fold of change versus the Nurr1
+group at 0 min. Each value is the mean ⫾ S.E. (n ⫽ 3). Statistical analysis was
+performed with one-way ANOVA followed by Newman-Keuls multiple comparison test. ***, p ⬍ 0.001 versus nuclear Nurr1 at 0 min. ###, p ⬍ 0.001 versus
+cytosolic Nurr1 at 0 min.
+
+redistribution is a consequence of accelerated export (Fig. 11, B
+and C). Finally, we analyzed in this dopaminergic cell line the
+expression of three Nurr1-regulated genes, namely tyrosine
+hydroxylase, vesicular monoamine transporter 2 (VMAT2),
+and AADC. As shown in Fig. 11, D–F, the messenger RNA
+levels of these three genes dropped to about 50% after 6 h in the
+presence of arsenite. Taken together, these results indicate that
+oxidative stress promotes the nuclear export of Nurr1 resulting
+in reduction of Nurr1-regulated gene expression and loss of the
+dopaminergic phenotype.
+
+DISCUSSION
+The regulation of transcription factor Nurr1 is ill-defined.
+Like the other orphan nuclear receptors, it appears to function
+independently of ligands. So far, Nurr1 has been reported to be
+regulated by dimerization and post-translational modifications
+
+5514 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+(41, 42). In this study, we report for the first time that Nurr1 is
+also regulated at the level of subcellular localization. Nurr1 has
+a bipartite NLS, which we termed NLS1/NLS2, that is implicated in its nuclear localization. We also report the identification of two NES signals involved in its nuclear export to the
+cytosol. It is not clear why Nurr1 contains more than one NLS
+and one NES. However, several other proteins enclose multiple
+import and export signals (43). In connection with the orphan
+receptors, it has been reported that Nur77, a related member of
+the orphan receptor family, possesses two NLSs and three NES
+signals that are implicated in its redistribution from the nucleus
+to the cytoplasm (44). Of note, it has been reported recently that
+Nur77 is exported from the nucleus by the exportin CRM1 (36).
+The presence of several regulatory signals may confer superior
+versatility to integrate alternative mechanisms of subcellular
+regulation.
+Nurr1 presented a predominantly nuclear localization,
+although there was a minor fraction in the cytosol. This led us to
+identify two NES signals that respond to the exportin CRM1,
+which we termed NES1 and NES2. These two NES appear to be
+conserved in other orphan receptors (44). It has been reported
+that stimulation with NGF induces export of the Nur77/retinoic acid receptor dimer to the cytosol by using this NES (44).
+Nurr1 mediates the expression of a battery of genes involved
+in dopaminergic cell differentiation, modulation of inflammation, and cytoprotection (14, 19, 45). Such events are downregulated by oxidative stress. Therefore, we speculated that oxidant conditions might inhibit Nurr1 transcriptional activity. In
+this study, we found that arsenite, a typical inducer of oxidative
+stress that depletes glutathione levels (40), led to nuclear export
+of Nurr1. Indeed, NES2 acted as a redox sensor. In fact, this
+effect was abrogated by the oxidant blocker NAC.
+Our results demonstrating arsenite-induced nuclear export
+of Nurr1 are consistent with a recent report showing cytoplasVOLUME 288 • NUMBER 8 • FEBRUARY 22, 2013
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+FIGURE 10. Immunofluorescence analysis of the subcellular localization
+of Nurr1 in response to sodium arsenite (As). HEK293T cells were transfected with expression vectors for V5-tagged Nurr1, Nurr1-NES1*, Nurr1NES2*, or Nurr1-NES1/2*. Cells were serum-starved for 16 h and then submitted to sodium arsenite (100 ␮M) for 60 min. A–D, representative confocal
+images. Bar indicates 10 ␮m. E, densitometric quantification of the distribution of Nurr1 calculated from representative cell fields according to A. Values
+correspond to the mean percentage of nuclear Nurr1 fluorescence ⫾ S.E. (n ⫽
+100 cells). ***, p ⬍ 0.001 versus vehicle groups according to a Student’s t test.
+
+Nuclear Import and Export of Nurr1
+
+mic localization of Nurr1 in glutamate-treated neurons (46).
+Moreover, it has been reported that Nurr1 exhibits a cytoplasmic localization in some bladder tumors (26). Although those
+studies did not explore the molecular mechanisms involved in
+nucleus-cytoplasm shuttling of Nurr1, they provide further evidence on pathological mechanisms that lead to the nuclear
+exclusion of Nurr1.
+In agreement with the response of Nurr1 to sodium arsenite
+as reported here, Nur77 is translocated from the nucleus to the
+FEBRUARY 22, 2013 • VOLUME 288 • NUMBER 8
+
+cytosol by H2O2 treatment in HEK293 cells, as well as by 6-hydroxydopamine in dopaminergic SH-SY5Y cells (47). Similar
+results have been found for Nor1, the other orphan receptor
+member (46). Most likely, the mechanism of export in response
+to oxidative stress is conserved in these proteins and involves
+the use of the conserved NES (47). The molecular mechanisms
+that convert this NES in a redox sensor for nuclear export are
+not clear. One possibility is the participation of nearby cysteines
+that, through disulfide bonding, might induce conformational
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+5515
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+FIGURE 11. Effect of sodium arsenite (As) on the subcellular localization of endogenous Nurr1 and the dopaminergic phenotype of MN9D cells. A, cells
+were serum-starved for 16 h and then treated with sodium arsenite (100 ␮M) for the indicated times. B, in parallel experiments cells were pretreated with the
+CRM1 inhibitor leptomycin B (LMB) (1 nM, 1 h). C, densitometric quantification of cytosolic and nuclear protein levels from representative blots of A and B.
+Cytosolic and nuclear fractions were normalized with GAPDH and lamin B, respectively, and then represented as fold of change versus the Nurr1 group at 0 min.
+Values correspond to the mean ⫾ S.E. (n ⫽ 3). Statistical analysis was performed with one-way ANOVA followed by Newman-Keuls multiple comparison test.
+***, p ⬍ 0.001 versus nuclear Nurr1 at 0 min. ###, p ⬍ 0.001 versus cytosolic Nurr1 at 0 min. D–F, quantitative RT-PCR determination of messenger RNA levels for
+tyrosine hydroxylase (TH), VMAT2, and AADC following incubation with sodium arsenite (100 ␮M). Values correspond to the mean ⫾ S.E. (n ⫽ 5). Statistical
+analysis was performed with one-way ANOVA followed by Newman-Keuls multiple comparison test. *, p ⬍ 0.05; **, p ⬍ 0.01 and ***, p ⬍ 0.001 versus the group
+at 0 min.
+
+Nuclear Import and Export of Nurr1
+
+REFERENCES
+1. Zhao, Y., and Bruemmer, D. (2010) NR4A orphan nuclear receptors: transcriptional regulators of gene expression in metabolism and vascular biology. Arterioscler. Thromb. Vasc. Biol. 30, 1535–1541
+2. Wilson, T. E., Fahrner, T. J., Johnston, M., and Milbrandt, J. (1991) Identification of the DNA-binding site for NGFI-B by genetic selection in
+yeast. Science 252, 1296 –1300
+3. Giguère, V. (1999) Orphan nuclear receptors. From gene to function. Endocr. Rev. 20, 689 –725
+4. Wang, Z., Benoit, G., Liu, J., Prasad, S., Aarnisalo, P., Liu, X., Xu, H.,
+Walker, N. P., and Perlmann, T. (2003) Structure and function of Nurr1
+identifies a class of ligand-independent nuclear receptors. Nature 423,
+555–560
+5. Codina, A., Benoit, G., Gooch, J. T., Neuhaus, D., Perlmann, T., and
+Schwabe, J. W. (2004) Identification of a novel co-regulator interaction
+surface on the ligand binding domain of Nurr1 using NMR footprinting.
+J. Biol. Chem. 279, 53338 –53345
+6. Sacchetti, P., Dwornik, H., Formstecher, P., Rachez, C., and Lefebvre, P.
+(2002) Requirements for heterodimerization between the orphan nuclear
+receptor Nurr1 and retinoid X receptors. J. Biol. Chem. 277, 35088 –35096
+7. Aarnisalo, P., Kim, C. H., Lee, J. W., and Perlmann, T. (2002) Defining
+requirements for heterodimerization between the retinoid X receptor and
+the orphan nuclear receptor Nurr1. J. Biol. Chem. 277, 35118 –35123
+8. Zetterström, R. H., Solomin, L., Jansson, L., Hoffer, B. J., Olson, L., and
+Perlmann, T. (1997) Dopamine neuron agenesis in Nurr1-deficient mice.
+Science 276, 248 –250
+9. Hanna, R. N., Shaked, I., Hubbeling, H. G., Punt, J. A., Wu, R., Herrley, E.,
+Zaugg, C., Pei, H., Geissmann, F., Ley, K., and Hedrick, C. C. (2012) NR4A1
+(Nur77) deletion polarizes macrophages toward an inflammatory pheno-
+
+5516 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+type and increases atherosclerosis. Circ. Res. 110, 416 – 427
+10. Holla, V. R., Wu, H., Shi, Q., Menter, D. G., and DuBois, R. N. (2011)
+Nuclear orphan receptor NR4A2 modulates fatty acid oxidation pathways
+in colorectal cancer. J. Biol. Chem. 286, 30003–30009
+11. Ke, N., Claassen, G., Yu, D. H., Albers, A., Fan, W., Tan, P., Grifman, M.,
+Hu, X., Defife, K., Nguy, V., Meyhack, B., Brachat, A., Wong-Staal, F., and
+Li, Q. X. (2004) Nuclear hormone receptor NR4A2 is involved in cell
+transformation and apoptosis. Cancer Res. 64, 8208 – 8212
+12. Kolluri, S. K., Bruey-Sedano, N., Cao, X., Lin, B., Lin, F., Han, Y. H., Dawson, M. I., and Zhang, X. K. (2003) Mitogenic effect of orphan receptor
+TR3 and its regulation by MEKK1 in lung cancer cells. Mol. Cell. Biol. 23,
+8651– 8667
+13. Arenas, E. (2005) Engineering a dopaminergic phenotype in stem/precursor cells. Role of Nurr1, glia-derived signals, and Wnts. Ann. N.Y. Acad.
+Sci. 1049, 51– 66
+14. Jankovic, J., Chen, S., and Le, W. D. (2005) The role of Nurr1 in the
+development of dopaminergic neurons and Parkinson’s disease. Prog.
+Neurobiol. 77, 128 –138
+15. Grimes, D. A., Han, F., Panisset, M., Racacho, L., Xiao, F., Zou, R., Westaff,
+K., and Bulman, D. E. (2006) Translated mutation in the Nurr1 gene as a
+cause for Parkinson’s disease. Mov. Disord. 21, 906 –909
+16. Jacobsen, K. X., MacDonald, H., Lemonde, S., Daigle, M., Grimes, D. A.,
+Bulman, D. E., and Albert, P. R. (2008) A Nurr1 point mutant, implicated
+in Parkinson’s disease, uncouples ERK1/2-dependent regulation of tyrosine hydroxylase transcription. Neurobiol. Dis. 29, 117–122
+17. Buervenich, S., Carmine, A., Arvidsson, M., Xiang, F., Zhang, Z., Sydow,
+O., Jönsson, E. G., Sedvall, G. C., Leonard, S., Ross, R. G., Freedman, R.,
+Chowdari, K. V., Nimgaonkar, V. L., Perlmann, T., Anvret, M., and Olson,
+L. (2000) NURR1 mutations in cases of schizophrenia and manic-depressive disorder. Am. J. Med. Genet. 96, 808 – 813
+18. Alavian, K. N., Scholz, C., and Simon, H. H. (2008) Transcriptional regulation of mesencephalic dopaminergic neurons: the full circle of life and
+death. Mov. Disord. 23, 319 –328
+19. Saijo, K., Winner, B., Carson, C. T., Collier, J. G., Boyer, L., Rosenfeld,
+M. G., Gage, F. H., and Glass, C. K. (2009) A Nurr1/CoREST pathway in
+microglia and astrocytes protects dopaminergic neurons from inflammation-induced death. Cell 137, 47–59
+20. Lammi, J., Rajalin, A. M., Huppunen, J., and Aarnisalo, P. (2007) Cross-talk
+between the NR3B and NR4A families of orphan nuclear receptors.
+Biochem. Biophys. Res. Commun. 359, 391–397
+21. Pirih, F. Q., Tang, A., Ozkurt, I. C., Nervina, J. M., and Tetradis, S. (2004)
+Nuclear orphan receptor Nurr1 directly transactivates the osteocalcin
+gene in osteoblasts. J. Biol. Chem. 279, 53167–53174
+22. Bassett, M. H., Suzuki, T., Sasano, H., White, P. C., and Rainey, W. E.
+(2004) The orphan nuclear receptors NURR1 and NGFIB regulate adrenal
+aldosterone production. Mol. Endocrinol. 18, 279 –290
+23. Wu, Y., Ghosh, S., Nishi, Y., Yanase, T., Nawata, H., and Hu, Y. (2005) The
+orphan nuclear receptors NURR1 and NGFI-B modulate aromatase gene
+expression in ovarian granulosa cells. A possible mechanism for repression of aromatase expression upon luteinizing hormone surge. Endocrinology 146, 237–246
+24. Li, X., and Tai, H. H. (2009) Activation of thromboxane A2 receptors
+induces orphan nuclear receptor Nurr1 expression and stimulates cell
+proliferation in human lung cancer cells. Carcinogenesis 30, 1606 –1613
+25. Holla, V. R., Mann, J. R., Shi, Q., and DuBois, R. N. (2006) Prostaglandin E2
+regulates the nuclear receptor NR4A2 in colorectal cancer. J. Biol. Chem.
+281, 2676 –2682
+26. Inamoto, T., Czerniak, B. A., Dinney, C. P., and Kamat, A. M. (2010)
+Cytoplasmic mislocalization of the orphan nuclear receptor Nurr1 is a
+prognostic factor in bladder cancer. Cancer 116, 340 –346
+27. Carpentier, R., Sacchetti, P., Ségard, P., Staels, B., and Lefebvre, P. (2008)
+The glucocorticoid receptor is a co-regulator of the orphan nuclear receptor Nurr1. J. Neurochem. 104, 777–789
+28. Sacchetti, P., Carpentier, R., Ségard, P., Olivé-Cren, C., and Lefebvre, P.
+(2006) Multiple signaling pathways regulate the transcriptional activity of
+the orphan nuclear receptor NURR1. Nucleic Acids Res. 34, 5515–5527
+29. Zhang, T., Jia, N., Fei, E., Wang, P., Liao, Z., Ding, L., Yan, M., Nukina, N.,
+Zhou, J., and Wang, G. (2007) Nurr1 is phosphorylated by ERK2 in vitro
+
+VOLUME 288 • NUMBER 8 • FEBRUARY 22, 2013
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+changes that expose NES2. This has been suggested for the
+transcription factor Nrf2 (48). However, we have not found
+cysteine residues that could likely participate in such a regulatory mechanism. Alternatively, phosphorylation of critical residues might increase the affinity of NES2 for CRM1. Indeed, it
+has been reported that CRM1 together with Ran-GTP participates in the export of several phosphoproteins (49), and evidence indicates that Nurr1 is regulated by phosphorylation
+(16). Further work will be required to determine how phosphorylation and other post-translational modifications of Nurr1
+govern its subcellular localization.
+Nuclear export of Nur77 leads to its mitochondrial translocation (50). However, we have not detected Nurr1 in mitochondria (data not shown), and most likely this function of Nur77 is
+related to sensitization of cells to oxidative stress-induced cell
+death (47, 50). In the case of Nurr1, we propose that nuclear
+export is just a mechanism to shut down the expression of its
+target genes.
+We speculate that this switch-off system could play an
+important role in the pathogenesis of several neurodegenerative disorders like Parkinson disease, where oxidative stress is
+very relevant. In fact, two genetic variants of Nurr1 (deletion of
+Thr-291 and point mutation T245G) have been described in
+patients with Parkinson disease (51). These mutations result in
+a marked decrease in Nurr1 mRNA levels and subsequent loss
+of the dopaminergic phenotype. In line with this hypothesis,
+MN9D cells lost their Nurr1-dependent gene expression in
+response to arsenite-induced oxidative stress. Future studies
+will be required to determine whether oxidant inhibition of the
+nuclear localization of Nurr1 may participate in loss of dopaminergic phenotype in pathologies like Parkinson disease or
+contribute to tumor development.
+
+Nuclear Import and Export of Nurr1
+
+FEBRUARY 22, 2013 • VOLUME 288 • NUMBER 8
+
+40. Watanabe, T., and Hirano, S. (2012) Metabolism of arsenic and its toxicological relevance. Arch. Toxicol. 85, 577–588
+41. Maxwell, M. A., and Muscat, G. E. (2006) The NR4A subgroup. Immediate
+early response genes with pleiotropic physiological roles. Nucl. Recept.
+Signal. 4, e002
+42. Wingate, A. D., and Arthur, J. S. (2006) Post-translational control of
+Nur77. Biochem. Soc. Trans. 34, 1107–1109
+43. Theodore, M., Kawai, Y., Yang, J., Kleshchenko, Y., Reddy, S. P., Villalta, F.,
+and Arinze, I. J. (2008) Multiple nuclear localization signals function in the
+nuclear import of the transcription factor Nrf2. J. Biol. Chem. 283,
+8984 – 8994
+44. Katagiri, Y., Takeda, K., Yu, Z. X., Ferrans, V. J., Ozato, K., and Guroff, G.
+(2000) Modulation of retinoid signaling through NGF-induced nuclear
+export of NGFI-B. Nat. Cell Biol. 2, 435– 440
+45. Bensinger, S. J., and Tontonoz, P. (2009) A Nurr1 pathway for neuroprotection. Cell 137, 26 –28
+46. Boldingh Debernard, K. A., Mathisen, G. H., and Paulsen, R. E. (2012)
+Differences in NGFI-B, Nurr1, and NOR-1 expression and nucleocytoplasmic translocation in glutamate-treated neurons. Neurochem. Int. 61,
+79 – 88
+47. No, H., Bang, Y., Lim, J., Kim, S. S., Choi, H. S., and Choi, H. J. (2010)
+Involvement of induction and mitochondrial targeting of orphan nuclear
+receptor Nur77 in 6-OHDA-induced SH-SY5Y cell death. Neurochem.
+Int. 56, 620 – 626
+48. Li, W., Yu, S. W., and Kong, A. N. (2006) Nrf2 possesses a redox-sensitive
+nuclear exporting signal in the Neh5 transactivation domain. J. Biol.
+Chem. 281, 27251–27263
+49. Güttler, T., and Görlich, D. (2011) Ran-dependent nuclear export mediators. A structural perspective. EMBO J. 30, 3457–3474
+50. Cao, X., Liu, W., Lin, F., Li, H., Kolluri, S. K., Lin, B., Han, Y. H., Dawson,
+M. I., and Zhang, X. K. (2004) Retinoid X receptor regulates Nur77/TR3dependent apoptosis (corrected) by modulating its nuclear export and
+mitochondrial targeting. Mol. Cell. Biol. 24, 9705–9725
+51. Le, W. D., Xu, P., Jankovic, J., Jiang, H., Appel, S. H., Smith, R. G., and
+Vassilatis, D. K. (2003) Mutations in NR4A2 associated with familial Parkinson disease. Nat. Genet. 33, 85– 89
+
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+5517
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+and its phosphorylation up-regulates tyrosine hydroxylase expression in
+SH-SY5Y cells. Neurosci. Lett. 423, 118 –122
+30. Galleguillos, D., Vecchiola, A., Fuentealba, J. A., Ojeda, V., Alvarez, K.,
+Gómez, A., and Andrés, M. E. (2004) PIAS␥ represses the transcriptional
+activation induced by the nuclear receptor Nurr1. J. Biol. Chem. 279,
+2005–2011
+31. Jo, A. Y., Kim, M. Y., Lee, H. S., Rhee, Y. H., Lee, J. E., Baek, K. H., Park,
+C. H., Koh, H. C., Shin, I., Lee, Y. S., and Lee, S. H. (2009) Generation of
+dopamine neurons with improved cell survival and phenotype maintenance using a degradation-resistant nurr1 mutant. Stem Cells 27,
+2238 –2246
+32. Görlich, D., and Kutay, U. (1999) Transport between the cell nucleus and
+the cytoplasm. Annu. Rev. Cell Dev. Biol. 15, 607– 660
+33. Jans, D. A., and Hübner, S. (1996) Regulation of protein transport to the
+nucleus. Central role of phosphorylation. Physiol. Rev. 76, 651– 685
+34. Wen, W., Meinkoth, J. L., Tsien, R. Y., and Taylor, S. S. (1995) Identification of a signal for rapid export of proteins from the nucleus. Cell 82,
+463– 473
+35. Kosugi, S., Hasebe, M., Tomita, M., and Yanagawa, H. (2008) Nuclear
+export signal consensus sequences defined using a localization-based
+yeast selection system. Traffic 9, 2053–2062
+36. Sun, Z., Cao, X., Jiang, M. M., Qiu, Y., Zhou, H., Chen, L., Qin, B., Wu, H.,
+Jiang, F., Chen, J., Liu, J., Dai, Y., Chen, H. F., Hu, Q. Y., Wu, Z., Zeng, J. Z.,
+Yao, X. S., and Zhang, X. K. (2012) Inhibition of ␤-catenin signaling by
+nongenomic action of orphan nuclear receptor Nur77. Oncogene 31,
+2653–2667
+37. Patel, V. P., and Chu, C. T. (2011) Nuclear transport, oxidative stress, and
+neurodegeneration. Int. J. Clin. Exp. Pathol. 4, 215–229
+38. Rojo, A. I., Salinas, M., Martín, D., Perona, R., and Cuadrado, A. (2004)
+Regulation of Cu/Zn-superoxide dismutase expression via the phosphatidylinositol 3-kinase/Akt pathway and nuclear factor-␬B. J. Neurosci. 24,
+7324 –7334
+39. Lastres-Becker, I., Ulusoy, A., Innamorato, N. G., Sahin, G., Rábano, A.,
+Kirik, D., and Cuadrado, A. (2012) ␣-Synuclein expression and Nrf2 deficiency cooperate to aggravate protein aggregation, neuronal death, and
+inflammation in early-stage Parkinson’s disease. Hum. Mol. Genet. 21,
+3173–3192
+
+Nuclear Import and Export Signals Control the Subcellular Localization of Nurr1
+Protein in Response to Oxidative Stress
+Ángel Juan García-Yagüe, Patricia Rada, Ana I. Rojo, Isabel Lastres-Becker and
+Antonio Cuadrado
+J. Biol. Chem. 2013, 288:5506-5517.
+doi: 10.1074/jbc.M112.439190 originally published online January 2, 2013
+
+Access the most updated version of this article at doi: 10.1074/jbc.M112.439190
+
+Click here to choose from all of JBC's e-mail alerts
+This article cites 51 references, 17 of which can be accessed free at
+http://www.jbc.org/content/288/8/5506.full.html#ref-list-1
+
+Downloaded from http://www.jbc.org/ at Health Sciences & Human Services Library on July 26, 2019
+
+Alerts:
+• When this article is cited
+• When a correction for this article is posted
+
+

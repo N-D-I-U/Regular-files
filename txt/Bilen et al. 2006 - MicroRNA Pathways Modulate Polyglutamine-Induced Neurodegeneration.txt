@@ -1,0 +1,638 @@
+Molecular Cell 24, 157–163, October 6, 2006 ª2006 Elsevier Inc. DOI 10.1016/j.molcel.2006.07.030
+
+MicroRNA Pathways
+Modulate Polyglutamine-Induced
+Neurodegeneration
+Julide Bilen,1 Nan Liu,1 Barrington G. Burnett,3
+Randall N. Pittman,3 and Nancy M. Bonini1,2,*
+1
+Department of Biology
+2
+Howard Hughes Medical Institute
+University of Pennsylvania
+3
+Department of Pharmacology
+University of Pennsylvania School of Medicine
+Philadelphia, Pennsylvania 19104
+
+Summary
+Nine human neurodegenerative diseases are due to
+expansion of a CAG repeat- encoding glutamine within
+the open reading frame of the respective genes. Polyglutamine (polyQ) expansion confers dominant toxicity, resulting in neuronal degeneration. MicroRNAs
+(miRNAs) have been shown to modulate programmed
+cell death during development. To address whether
+miRNA pathways play a role in neurodegeneration,
+we tested whether genes critical for miRNA processing modulated toxicity induced by the spinocerebellar
+ataxia type 3 (SCA3) protein. These studies revealed
+a striking enhancement of polyQ toxicity upon reduction of miRNA processing in Drosophila and human
+cells. In parallel genetic screens, we identified the
+miRNA bantam (ban) as a potent modulator of both
+polyQ and tau toxicity in flies. Our studies suggest
+that ban functions downstream of toxicity of the
+SCA3 protein, to prevent degeneration. These findings
+indicate that miRNA pathways dramatically modulate
+polyQ- and tau-induced neurodegeneration, providing
+the foundation for new insight into therapeutics.
+Introduction
+Human polyQ diseases are due to the expansion of
+a CAG repeat within the open reading frame of the respective genes (Zoghbi and Orr, 2000). The polyQ expansion confers dominant toxicity, resulting in progressive
+neuronal dysfunction and loss. In such diseases, the
+pathogenic protein accumulates, typically in nuclear inclusions. Although it is unclear how these accumulations
+contribute to disease pathogenesis, several lines of evidence support the idea that a conformational change
+occurs in the disease protein associated with reduced
+solubility, enhanced oligomerization, and toxicity (Muchowski and Wacker, 2005). Studies with animal models
+and patient tissue indicate that the protein accumulations contain chaperones and components of the ubiquitin-proteasome system, suggesting that the toxic,
+misfolded protein triggers a stress response to lower
+the amount of disease protein. A number of suppressors
+of neurodegeneration in animal models have coupled
+reduced protein accumulation, or modulation of ability to
+handle misfolded protein, to mitigation of degeneration
+(Bilen and Bonini, 2005).
+*Correspondence: nbonini@sas.upenn.edu
+
+Short Article
+
+Although modifiers that implicate protein misfolding
+pathways have been defined, cellular pathways that
+link polyQ toxicity and degeneration of the cell are less
+clear. Morphological analysis of degenerating neurons
+reveals that they appear to undergo condensation of
+the nucleus and cytoplasm; however, other hallmarks
+of programmed cell death, such as apoptotic bodies
+and fragmentation of nuclear DNA are not observed
+(Jackson et al., 1998; Turmaine et al., 2000). Studies in
+Drosophila have shown that the baculoviral protein
+P35, which potently inhibits caspase activity, is largely
+ineffective at mitigating polyQ-induced degeneration
+(Jackson et al., 1998; Warrick et al., 1998). Autophagy,
+which couples reduced protein accumulation with cell
+survival, is thought to be involved, as are dApaf-1/Dark
+activities for the Huntington’s disease protein (Ravikumar et al., 2004; Sang et al., 2005).
+miRNA pathways have been implicated in developmental apoptosis, normal developmental processes,
+and cancer (Ambros, 2004; Bartel, 2004; Caldas and
+Brenton, 2005). In Drosophila, the miRNAs ban, mir-14,
+and select other miRNAs have been shown to modulate
+programmed cell-death genes (Brennecke et al., 2003;
+Leaman et al., 2005; Xu et al., 2003). SCA3 is one of
+the polyQ diseases and is among the most common
+dominantly inherited ataxias (Zoghbi and Orr, 2000). To
+address a possible role for miRNAs in neuronal maintenance, we tested whether compromising miRNA processing modulated polyQ pathogenesis. Our findings
+extend the processes modulated by miRNAs to human
+neurodegenerative diseases.
+Results
+Reduced miRNA Processing Dramatically Enhances
+Ataxin-3- and tau-Induced Neurodegeneration
+in Drosophila
+We tested whether miRNAs modulated polyQ pathogenesis in Drosophila by downregulating miRNA processing
+with the dicer mutation and then determining the effect
+on Ataxin-3-induced neurodegeneration. Dicer activity
+is essential for miRNA processing in flies and vertebrates (Bernstein et al., 2001; Hutvagner et al., 2001).
+Drosophila has two dicer genes: dicer-1 (dcr-1) is critical
+for maturation of miRNAs, whereas dcr-2 modulates
+generation of small interfering RNAs (siRNAs) (Lee
+et al., 2004). Flies were generated that expressed the
+pathogenic polyQ protein and were also mutant for
+dcr-1 activity in the eye.
+Expression of truncated pathogenic Ataxin-3 induces
+degeneration, which is characterized by partial loss of
+pigmentation and retinal structure (Figure 1A; Warrick
+et al., 1998). dcr-1 mutation dramatically enhanced degeneration due to the pathogenic protein, such that
+the eye was now severely degenerate with complete
+loss of pigmentation (Figure 1B). Because loss of dcr-1
+alone affects eye morphology (Figure 1C; Lee et al.,
+2004), we also examined the effects of a second gene
+critical for miRNA maturation, R3D1/loquacious. R3D1
+is a dsRNA binding protein that is required for the
+
+Molecular Cell
+158
+
+Figure 1. Reducing miRNA Processing Enhances polyQ and tau Toxicity in Drosophila
+(A–C) External eyes of 1 day flies. (A) SCA3trQ61 normally shows weak degeneration. Eye
+genotype: ey-FLP; gmr-gal4 UAS-SCA3trQ61/+; FRT82B. (B) SCA3tr-Q61 degeneration in dcr-1 is dramatically enhanced. Eye
+genotype: ey-FLP; gmr-gal4 UAS-SCA3trQ61/+; FRT82B dcr-1Q11147X. (C) Loss of
+dcr-1 activity alone. Eye genotype: ey-FLP;;
+FRT82B dcr-1Q11147X.
+(D–G) External eye and retinal sections. Arrow
+highlights retinal thickness, which reflects
+severity of degeneration. (D) SCA3tr-Q78
+causes partial degeneration. Genotype gmrgal4 UAS-SCA3tr-Q78/+. (E) Loss of R3D1
+enhances degeneration, with less pigmentation and little retinal tissue compared to control (D). Genotype: R3D1f00791/R3D1f00791;
+gmr-gal4 UAS-SCA3tr-Q78/+. (F) Loss of
+dcr-2, which modulates siRNA production,
+has no effect on polyQ toxicity. Eye genotype:
+FRT42D dcr-2L811fsX; gmr-gal4 UAS-SCA3trQ78/ey-gal4 UAS-FLP. (G) Control flies
+bearing driver line alone with loss of R3D1
+have normal retinal morphology. Genotype:
+R3D1f00791/R3D1f00791; gmr-gal4/+.
+(H–J) Hoechst staining of retinal sections of 1 day flies. (I) Expression of full-length pathogenic Ataxin-3 causes mild retinal degeneration, seen
+as reduced retinal depth compared to (H) normal. (J) Reducing miRNA processing by mutation of R3D1 enhances degeneration, seen as the
+dramatically reduced retinal thickness. Genotypes: (H) Oregon-R, (I) gmr-GAL4/ UAS-SCA3-Q84, and (J) R3D1f00791/R3D1f00791; gmr-GAL4/
+UAS-SCA3-Q84.
+(K–N) Normal or mutant (R406W) human tau causes degeneration that is enhanced by loss of R3D1. Genotypes: gmr-gal4 in trans to UAS-tau or
+UAS-tau.R406W with or without R3D1f00791/R3D1f00791.
+Bar in (A), 100 mm for eyes in (A)–(G); bar in (K), 100 mm for (K)–(N).
+
+activity of Dcr-1 in miRNA processing (Forstemann et al.,
+2005; Jiang et al., 2005). We confirmed that flies homozygous for the hypomorphic allele R3D1f00791 had reduced miRNA processing and that R3D1 mutation had
+no effect on transcription from the Gal4-UAS system
+(Figures S1A and S1B in the Supplemental Data available with this article online). Loss of R3D1 alone had
+minimal effects on the eye (Figure 1G). However, reduction of R3D1 activity dramatically enhanced SCA3trQ78-induced neural degeneration (Figures 1D and 1E).
+This confirmed that miRNA pathways normally play
+a protective role in polyQ-induced neurodegeneration.
+We considered whether reduction of miRNA processing enhanced SCA3 pathogenesis through the same
+type of degeneration pathways that normally occur
+upon pathogenic polyQ protein expression or whether
+reduction of miRNA processing modulated programmed cell death, which then enhanced the phenotype. To address this, we determined whether we could
+detect features of programmed cell death when expressing the disease protein alone or upon enhanced
+degeneration. TUNEL assays and western immunoblots
+for activated caspase failed to reveal an effect in polyQ
+pathology or with reduced R3D1 activity, and coexpression of the baculoviral anticaspase protein P35 had minimal effect (Figure S2). These data support the idea that
+reduction of miRNA activity enhances degeneration by
+modulating pathways that normally contribute to polyQ
+toxicity.
+To further test the specificity of miRNA pathways in
+neurodegeneration, we determined whether reduction
+of siRNA activity affects polyQ toxicity. In contrast to
+loss of dcr-1 and reduction of R3D1, loss of dcr-2, which
+
+reduces siRNAs, had little or no effect on polyQ-induced
+neurodegeneration (Figures 1D and 1F). These data indicated that siRNA-dependent pathways do not modulate
+polyQ toxicity; rather, protective activity appears specific to miRNA-dependent pathways.
+We then addressed the broader role of miRNA pathways in neurodegeneration. We first determined that
+reduction of R3D1 activity enhanced not only pathogenicity of truncated forms of Ataxin-3 but also of
+the full-length pathogenic protein (Figures 1H–1J). To
+extend these findings beyond polyQ disease, we then
+examined the effect on tau. Abnormal tau accumulation
+is associated with Alzheimer’s disease and frontotemperal dementia (Lee et al., 2001). In Drosophila, expression of normal or pathogenic tau induces severe neurodegeneration, reflected by a severely disrupted eye
+phenotype (Figures 1K and 1M; Wittmann et al., 2001).
+Reduction of R3D1 activity dramatically enhanced tau
+toxicity (Figures 1L and 1N). These data indicate that
+the miRNA pathway not only modulates polyQ toxicity
+but also toxicity of other proteins associated with human neurodegenerative disease.
+Blocking miRNA Processing Dramatically Enhances
+Ataxin-3 Toxicity in Human Cells
+Given these observations in flies, we addressed whether
+these findings extended to human cells. To do this, we
+expressed normal and pathogenic full-length Ataxin-3
+protein in human HeLa cells in culture, in the presence
+of normal or reduced Dicer activity. HeLa cells were
+treated with siRNA directed to the dicer sequence; this
+treatment lowered dicer activity, as shown by reduced
+expression and processing of endogenous Dicer targets
+
+miRNA Suppression of Neurodegeneration
+159
+
+Figure 2. Reducing miRNA Processing Enhances Ataxin-3 Toxicity in Human Cells
+(A–D) Human HeLa cells expressing At3-Q29-GFP or At3-Q72-GFP and treated with control siRNA or siRNA to dicer. (A and B) Cells expressing
+the control Ataxin-3 have similar viability with or without dicer siRNA treatment. (C and D) Cells expressing pathogenic Ataxin-3 normally
+(C) show little toxicity by 24 hr but (D) show dramatically enhanced death, reflected in condensed cells with altered morphology, upon dicer
+knockdown.
+(E) Cell death of GFP-positive cells after 24 hr detected by uptake of propidium iodide; mean 6 SEM (n = 3 independent experiments; *p < 0.001
+compared to GFP or At3-Q29-GFP treated with control or dicer siRNA; At3-Q72-GFP with dicer siRNA is also significantly different [p < 0.001]
+from At3-Q72-GFP with control siRNA).
+(F) Increased cell death induced by At3-Q72-GFP with dicer knockdown is mitigated by transfection of the purified small RNA fraction back into
+HeLa cells. (*p < 0.002 compared to At3-Q72-GFP with dicer siRNA).
+
+(Figures S1C and S1D). Reduction of Dicer had no effect
+on cells expressing a control protein (GFP) or on cells
+expressing wild-type Ataxin-3 (At3-Q29-GFP) over the
+time course of the studies (Figures 2A and 2B). This is
+similar to previous studies showing that reduction of
+Dicer in vertebrate cells in culture has minimal effects
+over short time frames (Fukagawa et al., 2004).
+We then examined the effect of reducing Dicer activity
+in the presence of pathogenic Ataxin-3. These studies
+revealed dramatically enhanced cell loss due to pathogenic Ataxin-3 when Dicer activity is reduced: whereas
+normally, after 24 hr, there was only a modest effect of
+the pathogenic protein on cell viability, with loss of dicer,
+70%–80% of the cells were dead (Figures 2C–2E). The
+enhancement was specific to dicer siRNA treatment,
+as treatment with a control siRNA of random sequence
+had no effect (Figure 2E). We confirmed that reduction
+of Dicer had no effect on expression level of the transgenes or Ataxin-3 protein (Figure S1E). Moreover, the
+enhanced cell loss was mitigated upon transfecting cells
+with the purified small RNA fraction that contains total
+HeLa cell miRNAs (Figure 2F). Taken together, these
+studies demonstrated a striking effect of compromising
+miRNA processing on cell loss induced by pathogenic
+polyQ protein in Drosophila in vivo and in human cells.
+The ban miRNA Suppresses SCA3 Degeneration
+In parallel to these studies, we performed an overexpression EP screen for modifiers of the degenerative
+eye phenotype of flies expressing pathogenic human
+Ataxin-3 protein. We then tested if any of these modifiers
+also affected other biological processes, to define additional activities of the modifier genes. Among the identified modifiers, several also affected Hid-induced programmed cell death. Genetic analysis indicated that
+five of these modifiers mapped to the same genomic
+region; subsequent molecular analysis revealed these
+to be upregulation alleles of the miRNA ban (Figure 3A).
+
+Whereas, normally, strong expression of pathogenic
+SCA3tr-Q78 protein induces severe degeneration, upregulation of ban strikingly suppressed external pigmentation loss and restored internal retinal structure (Figures 3B–3D). Remobilization of the EP elements from
+the ban gene to generate precise excision banex alleles
+reverted the suppression (Figure 3E). We also determined if various UAS-ban transgenic lines (Brennecke
+et al., 2003) had the ability to modulate polyQ toxicity.
+Expression of a construct bearing only a 100 bp region
+containing the ban miRNA suppressed degeneration,
+restoring external and internal eye structures toward
+normal (UAS-banD, Figure 3F). However, a control UAS
+construct, driving a 6.7 kb genomic fragment that encompassed the ban region but lacked the predicted ban
+miRNA hairpin, did not suppress (UAS-banB, Figure 3G).
+Further control studies confirmed that ban had no effect
+on the level of UAS-transgene expression from the GAL4UAS system (Figure 4I). Taken together, these data indicate that upregulation of the ban miRNA suppresses
+neurodegeneration induced by pathogenic SCA3tr-Q78.
+The ban miRNA functions in growth as well as programmed cell death (Brennecke et al., 2003). We noted
+that ban upregulation not only suppressed polyQ toxicity but also caused a large eye phenotype (Figure 3D). To
+rule out the possibility that simply enlarging the eye can
+suppress polyQ degeneration, we tested other genes
+that enlarge the eye. These genes had no effect on
+SCA3tr-Q78-induced neurodegeneration (Figure S3), indicating that suppression of polyQ degeneration was
+specific to ban.
+To further rule out developmental effects of ban, we
+examined the ability of ban to suppress neurodegeneration in the adult. To do this, we used a rhodopsin1 promoter GAL4 line, which directs expression to photoreceptor neurons (PR), initiating at terminal stages of
+retinal formation. When expressed in this manner, upregulation of ban alone had no effect on eye structure, cell
+
+Molecular Cell
+160
+
+proliferation, or growth but still strikingly mitigated
+SCA3-induced neural degeneration (Figure S4). These
+data indicate that ban is a potent suppressor of polyQ
+neurodegeneration in adult stages.
+We then tested whether ban was effective at mitigating pathogenicity of other proteins associated with
+human neurodegenerative disease. These studies revealed that ban mitigated degeneration induced by not
+only truncated but also full-length, pathogenic forms of
+Ataxin-3 (Figure S5). Moreover, upregulation of ban suppressed tau-induced degeneration (Figure S5). These
+findings indicate that ban mitigates neurotoxicity induced by multiple proteins associated with human disease, including pathogenic Ataxin-3 and tau.
+Loss of ban Enhances SCA3-Associated
+Neurodegeneration
+These studies raised the question whether the ban
+miRNA normally plays a role in pathological conditions
+and therefore could be one of the miRNAs that functions
+to protect against polyQ toxicity, which is affected by
+reduction of dcr-1 and R3D1 gene function. Because
+complete loss of function of ban is lethal, we reduced
+ban activity by placing hypomorphic alleles in trans
+to a ban deletion line (banEP3208 or banEP3622, in trans
+to banD1). Whereas these alleles upregulate ban activity
+in the presence of a GAL4 driver line, in the absence of
+GAL4, these alleles decrease endogenous ban function
+(Hipfner et al., 2002). We then analyzed retinal degeneration of flies expressing pathogenic SCA3tr-Q78 protein
+directly by the glass multiple reporter (gmr) promoter,
+rather than using the GAL4-UAS system. Flies bearing
+gmr-SCA3tr-Q78 were born with a slightly degenerate
+internal retinal structure (Figures 3H and 3K). Reduction
+of ban activity enhanced SCA3tr-Q78-induced degeneration, such that flies were now born with more severe
+neuronal loss (Figures 3I–3K). These findings indicated
+that not only does upregulation of ban activity mitigate
+
+Figure 3. The miRNA ban Modulates Neurodegeneration Induced by
+Pathogenic Ataxin-3
+
+(A) Genomic region of ban with insertion sites of EP alleles and ban
+transgenes noted. UAS-banB and UAS-banD from Brennecke et al.
+(2003). B, BamH1 site.
+(B–G) Suppression of polyQ toxicity by upregulation of ban. External
+eyes (top) and internal retinal sections (bottom) of 1 day flies. (B)
+Control fly bearing only the driver line. (C) SCA3tr-Q78 induces
+severe retinal degeneration with loss of pigmentation and collapse
+of retinal structure. (D) Coexpression of banB90.1 with SCA3tr-Q78
+gives normal pigmentation and improved retinal structure. (E) Reversion of EP element reverts suppression, such that flies now show
+severe degeneration. (F) Coexpression of UAS-banD, a transgene
+bearing the ban miRNA (Brennecke et al., 2003), improves retinal
+structure. (G) Coexpression of UAS-banB, a genomic fragment encompassing the region, but deleted for the ban miRNA (Brennecke
+et al., 2003), gives severe degeneration. Genotypes: (B) gmr-gal4/+,
+(C) gmr-GAL4 UAS-SCA3tr-Q78/+, and gmr-GAL4 UAS-SCA3trQ78 in trans to (D) banB90.1, (E) banex, (F) UAS-banD, or (G) UAS-banB.
+(H–K) Loss of ban function enhances Ataxin-3 degeneration. (H) Normally, flies expressing gmr-SCA3tr-Q78 have mild degeneration by
+pseudopupil assay. (I and J) With reduction of endogenous ban, neuronal loss is enhanced. Genotypes: gmr-SCA3tr-Q78 in (H) a normal
+background, with (I) banEP3266/banD1 or (J) banEP3208/banD1. (K) PR
+quantitation of flies expressing SCA3tr-Q78 with normal (top,
+average 6.3 6 0.1 PR) or reduced levels of endogenous ban (bottom,
+average 5.1 6 0.3 PR for both genotypes, values significantly different from control, p < 0.001). Mean 6 SEM (n = 3 independent
+experiments).
+Bar in (B), 100 mm for eyes in (B)–(G).
+
+miRNA Suppression of Neurodegeneration
+161
+
+Figure 4. ban Has No Effect on Protein Level or Endogenous Stress
+Response
+Immunostaining of the retina for polyQ protein (A–E, anti-HA, red) or
+stress-induced Hsp70 (F–H, anti-Hsp70, green) of (A) 4 hr and (B–E
+and F–H) 7 day flies expressing SCA3tr-Q78 in the adult. (A) Control
+flies expressing SCAtr-Q78 at 4 hr after eclosion of the adult show
+diffuse protein. (B and C) By 7 days, the pathogenic protein has accumulated in NI ([C], overlay of protein and Hoechst [blue] for nuclei).
+(D) Coexpression of banB90.1 has no effect on NI. ImageJ analysis
+confirmed no significant effect on size of inclusions (1.0 6 0.1 arbitrary units for control; 1.0 6 0.1 for ban allele) or intensity of immunostaining (1.00 6 0.02 arbitrary units for control; 1.00 6 0.12 for
+ban allele). (E) Coexpression of human hsp70 reduces accumulation,
+such that fewer and more weakly immunostained inclusions are
+seen (ImageJ indicates a decrease to w60% of control). (F–H) Immunostaining for stress-induced Hsp70 in 7 day flies expressing
+SCA3tr-Q78 alone, with ban, or with human Hsp70. Flies of genotype
+UAS-SCA3tr-Q78/+; rh1-GAL4/+ in trans to +, banB90.1, or UAShuman-Hsp70. (I) Western immunoblot of control flies, flies expressing pathogenic protein alone (Q78), and flies coexpressing pathogenic protein with ban. Anti-HA is the total level of pathogenic
+protein, 3B5H10 is sensitive to the level of protein in a toxic conformation (Brooks et al., 2004). Flies of genotype: UAS-SCA3tr-Q78/+;
+rh1-GAL4/+ in trans to + or banB90.1. ImageJ analysis confirmed no
+significant effect of ban on protein level. (J) Western immunoblot
+for stress-induced Hsp70 (dHsp70). Flies expressing pathogenic
+protein alone (Q78), with banex (Q78 + banex), or with banB90.1
+(Q78 + banB90.1) show similarly increased levels of dHsp70. This indicates a minimal change in the level of endogenous stress response
+to disease protein with (94% 6 3%, mean 6 SEM, three independent
+experiments) or without ban (set to 100%). There is no significant
+effect on dHsp70 with ban, but dHsp70 is reduced by human
+Hsp70 (Q78 + hHsp70) to 66% of Q78 levels.
+
+Ataxin-3 toxicity but that endogenous ban activity also
+normally helps protect against polyQ-induced neurodegeneration. The enhancement of degeneration upon
+reduction of miRNA processing was more severe than
+with reduction of ban alone (Figure S6), indicating that
+miRNAs in addition to ban modulate polyQ toxicity.
+
+The ban miRNA Suppresses Degeneration
+Downstream of polyQ Protein Toxicity
+To reveal further insight into the biological activity of ban
+in polyQ suppression, we determined whether ban upregulation modulated the accumulation, level, or inherent
+toxicity of the pathogenic polyQ protein. First, we asked
+whether ban suppression was associated with a reduction in level or accumulation of the pathogenic protein
+into inclusions. We used the adult-onset disease model
+in these studies, where inclusion formation takes place
+over days, allowing sensitive analysis of protein level
+and accumulation. When expressed in this manner, the
+pathogenic protein was initially diffuse at 1 day but then
+accumulated into nuclear inclusions over 7 days (Figures 4A–4C). Upregulation of ban did not alter the level
+of the pathogenic protein compared to controls, nor did
+ban affect protein accumulation into inclusions—the inclusions that formed in the presence of added ban were
+similar to those in the absence of added ban (Figure 4D).
+In contrast, the suppressor Hsp70 decreased accumulation of the pathogenic protein into inclusions (Figure 4E).
+Thus, ban suppression was not associated with a change
+in the level or accumulation of the pathogenic protein.
+To further address ban function, we determined
+whether the cellular response to the polyQ protein, revealed by antibodies that selectively detect the stressinduced form of endogenous Hsp70 (dHsp70), was
+altered upon upregulation of ban. Both immunohistochemistry and western immunoblot analysis indicated
+that the endogenous stress response was not altered
+by ban (Figures 4F–4H and 4J). We also tested the reactivity of the polyQ protein to a monoclonal antibody
+(3B5H10) that detects pathogenic forms of polyQ protein (Brooks et al., 2004). This analysis revealed similar
+immunoreactivity in control flies compared to those
+with degeneration suppressed by ban (Figure 4I). These
+data suggest that ban modulates cellular pathogenicity
+downstream of protein accumulation and inherent protein toxicity.
+As noted, ban upregulation suppresses Hid-induced
+cell death (Brennecke et al., 2003). Thus, one possibility
+was that hid was a target of ban in SCA3 degeneration.
+To test this, we generated flies not only homozygous
+mutant for hid but also expressing pathogenic polyQ.
+Flies lacking hid showed no change in neurodegeneration (Figure S7). Further testing of other proteins of
+apoptotic pathways (P35, DIAP1, DIAP2, and dApaf-1/
+Dark) showed that none of these manipulations modulated SCA3 neurodegeneration (Figure S7). We also
+determined that upregulation of ban does not modulate
+autophagy (Table S1), which has been implicated in cell
+survival in polyQ toxicity (Ravikumar et al., 2004). These
+data indicate that targets of ban or other miRNAs that
+modulate polyQ degeneration are distinct from hid
+and other genes tested that regulate programmed cell
+death pathways. Together these data suggest that ban
+activity defines distinct targets that modulate neurodegeneration.
+Discussion
+Our study reveals a striking role for miRNA-regulated
+pathways in modulation of polyQ toxicity in both flies
+and human cells. Notably, reduction of genes that affect
+
+Molecular Cell
+162
+
+miRNA processing, but not siRNA processing, in Drosophila modulates polyQ degeneration, underscoring
+the specificity to miRNA pathways. In Drosophila, one
+of these miRNAs is ban, which modulates cell survival
+upon polyQ- and tau-induced neurodegeneration. Moreover, reduction of miRNA processing in human cells also
+strikingly enhanced polyQ toxicity, indicating that miRNAs also play a protective role in human cells. These
+data suggest that ban and potentially additional miRNAs
+are involved in mitigating polyQ- and tau-induced neurodegeneration.
+miRNA Pathways Modulate polyQ and tau
+Neurodegeneration
+Given the role of miRNAs in modulation of developmental programmed cell death, we tested whether miRNA
+pathways modulated neurodegeneration. We addressed
+this by reducing miRNA processing in flies and in human
+cells in the presence of pathogenic polyQ protein.
+In flies, loss of dcr-1 or R3D1 had striking effects to
+enhance SCA3-induced neurodegeneration. In contrast,
+loss of dcr-2, which is specific to siRNA pathways,
+had little effect in the situation tested. These studies indicate that miRNA-regulated activities, and not siRNAregulated activities, are critical to neurodegeneration
+in vivo. In human cells, reduction of dicer activity also
+dramatically enhanced cell toxicity induced by pathogenic Ataxin-3. Although, in vertebrate cells in culture,
+dicer activity affects both miRNA- and siRNA-regulated
+activities, siRNA-dependent activities like heterochromatic silencing do not become disrupted until later time
+periods (Fukagawa et al., 2004). The effect of reducing
+dicer in human cells could be rescued in part by complementing the treated cells with a fraction containing
+miRNAs, indicating that the enhanced cell loss was likely
+due to reduction in one or more miRNAs. As miRNAs
+could affect many cellular processes, we confirmed
+that enhanced degeneration with polyQ is unlikely due
+to sensitizing cells to programmed cell death but rather
+resembles normal polyQ degeneration; identification of
+miRNAs and target genes will further define the pathways involved. There are hundreds of miRNAs in humans, with a subset expressed in both human brain
+and HeLa cells (Bentwich et al., 2005). Focus on these
+common miRNAs, coupled with our demonstrated ability to rescue polyQ toxicity associated with dicer deprivation, promises to reveal genes with a critical role in
+neuroprotection from polyQ-induced degeneration. We
+also extended our findings with ban and genes of the
+miRNA pathway beyond polyQ toxicity to modulation
+of tau; these findings suggest a broader role for miRNA
+regulated pathways in neuroprotection.
+The miRNA ban Modulates polyQ Degeneration
+A genetic modifier screen in Drosophila revealed that
+one miRNA that functions to modulate Ataxin-3 degeneration is ban. ban is a critical regulator in that both
+loss of activity and upregulation modulated degeneration. ban mitigated not only degeneration induced by
+polyQ protein but also by tau, an unrelated neurodegenerative disease protein. Although ban mitigates programmed cell death through hid, our studies indicate
+that hid is not involved in modulation of degeneration
+induced by pathogenic Ataxin-3.
+
+Our studies suggest that ban modulates survival of
+cells to pathogenic polyQ protein downstream of protein
+accumulation, cellular stress response, and inherent
+protein toxicity. In the presence or absence of added
+ban, the pathogenic polyQ protein was present at similar
+levels and elicited a similar stress response. This indicates that ban regulates progression of degeneration
+downstream of these events. Taken together, these results suggest that ban may modulate the survival of
+cells. Indeed, ban may modulate cell survival in multiple
+situations: after initiation of programmed cell death, as
+well as in response to neurodegenerative disease proteins, including polyQ and tau. Our studies also suggest
+a role for additional miRNAs, due to the stronger enhancement of polyQ degeneration upon reduction of
+miRNA processing compared to reduction of ban function alone. This suggests that miRNAs in addition to ban
+in Drosophila likely play a role in regulating neurodegeneration. Moreover, although loss of miRNA processing
+results in an overall enhancement, specific miRNAs may
+be protective, whereas others promote degeneration. It
+is also possible that proteins involved in miRNA processing could themselves be targets of polyQ toxicity.
+These findings expand the role of miRNA function
+from programmed cell death pathways, developmental
+processes, and cancer to suggest a striking role in protection from cellular degeneration associated with
+human neurodegenerative disease proteins. Further
+identification of the miRNAs and their targets will reveal
+new insight into mechanisms and therapeutics for the
+treatment of polyQ, tau-associated, and potentially
+other neurodegenerative diseases.
+Experimental Procedures
+Drosophila Techniques
+Fly lines were grown on standard cornmeal molasses agar medium
+with dry yeast at 25 C. ban alleles banE515.1, banEB5-1, banB90.1, and
+banB375.1 were isolated in an overexpression screen for modifiers of
+SCA3tr-Q78 degeneration. Fly line EP55 (Rorth, 1996) was crossed
+to a line with transposase (w; TM6, Dr/SbD2-3), and progeny males
+crossed to w; gmr-GAL4 UAS-SCA3tr-Q78. Progeny with restored
+pigmentation were backcrossed to w; gmr-GAL4 UAS-SCA3trQ78, then suppressor EP insertion lines were isolated and balanced.
+ban excision lines (banE515.1ex and banEP3622ex) were generated by
+crossing banE515.1 and banEP3622 to flies with transposase and
+screening for loss of the EP w+ marker. To test interactions with
+dcr-1 and dcr-2, FRT clones in the eye in polyQ disease background
+were generated, using stocks ey-FLP;; FRT82B CL gmr-hid CL/TM3,
+Sb and gmr-gal4 UAS-SCA3tr-Q61/CyO; FRT82B (dcr-1Q1147X or
+dcr-1d102)/TM6, Tb and FRT42D gmr-hid CL/CyO; ey-gal4 UASFLP and FRT42D dcr-2L811fsX/CyO; gmr-gal4 UAS-SCA3tr-Q78/
+TM6, Tb.
+Mammalian Cell Culture
+HeLa cells were maintained in DMEM with 10% fetal calf serum. For
+dicer knockdown, siRNA duplex targeting dicer mRNA was synthesized 50 -GCUCGAAAUCUUACGCAAAUA/UAUUUGCGUAAGAUU
+UCGAGC-30 (Invitrogen, Carlsbad, CA). Scrambled siRNA sequence
+was 50 -CGUUACCGCGGAAUACUUCGA/UCGAAGUAUUCCGCGG
+UAACG-30 . Cells were transfected with 100 nM dicer siRNA duplex
+with lipofectamine 2000 (Invitrogen, Carlsbad, CA), followed 48 hr
+later by a second round of transfections with siRNA duplex and/or
+GFP or AT3-GFP or, for rescue experiments, an additional 25 nM
+dicer siRNA duplex with or without 200 ng small RNA fraction
+purified from HeLa cells. The number of GFP-positive cells that
+stained with propidium iodide 24 hr after transfection was scored
+to determine percentage cell loss. In each experiment, over 200
+GFP-positive cells from randomly selected fields were scored.
+
+miRNA Suppression of Neurodegeneration
+163
+
+Data are presented as the mean 6 SEM of three independent
+experiments.
+Histological and Immunochemical Analysis
+Epon sections, cryosections, and paraffin sections of adult heads
+were performed as described (Auluck et al., 2002; Chan et al.,
+2000; Warrick et al., 1998). Pseudopupil analysis was performed
+on flies of the indicated genotypes by using the corneal optical neutralization technique (Franceschini, 1972). Twenty eyes/genotype
+were scored, and ten ommatidia/eye were counted for each of three
+independent experiments, and data are presented as mean 6 SEM.
+For immunochemistry, primary antibodies were: rabbit anti-HA
+(Y-11, 1:50, Santa Cruz Biotechnology) and rat anti-Hsp70 (7FB,
+1:1000; [Velazquez and Lindquist, 1984]). Primary antibodies for
+westerns were rat anti-Hsp70 (7FB, 1:2000), mouse anti-tubulin
+(E7, 1:2000, Developmental Studies Hybridoma Bank), and mouse
+anti-3B5H10 (1:120,000; [Brooks et al., 2004]). ImageJ analysis
+(National Institutes of Health, USA) was used for comparison of protein
+by western and immunohistochemistry (http://rsb.info.nih.gov/ij/).
+Supplemental Data
+Supplemental Data include Supplemental Experimental Procedures,
+Supplemental References, seven figures, and one table and can
+be found with this article online at http://www.molecule.org/cgi/
+content/full/24/1/157/DC1/.
+Acknowledgments
+We thank A. Cashmore, D. Lessing, and M. Meulener for comments;
+J. Abrams, S. Cohen and EMBL-Heidelberg, M. Feany, B. Hay, R. Cagan, R. Carthew, S. Lindquist, S. Finkbeiner, H. Steller, J. Treisman,
+C. Desplan, M. Birnbaum, H. Ruohola-Baker, and the Developmental
+Studies Hybridoma Bank (supported by NICHD and University of
+Iowa) for reagents; X. Teng, L. Morabito and H. Murphy for assistance; and T. Neufeld for advice. Studies were supported by the National Institute of Neurological Disorders and Stroke. N.M.B. is an
+investigator of the Howard Hughes Medical Institute.
+Received: April 13, 2006
+Revised: July 7, 2006
+Accepted: July 28, 2006
+Published: October 5, 2006
+References
+Ambros, V. (2004). The functions of animal microRNAs. Nature 431,
+350–355.
+Auluck, P.K., Chan, H.Y., Trojanowski, J.Q., Lee, V.M., and Bonini,
+N.M. (2002). Chaperone suppression of alpha-synuclein toxicity in
+a Drosophila model for Parkinson’s disease. Science 295, 865–868.
+
+glutamine disease: selectivity, synergy and modulation of protein
+solubility in Drosophila. Hum. Mol. Genet. 9, 2811–2820.
+Forstemann, K., Tomari, Y., Du, T., Vagin, V.V., Denli, A.M., Bratu,
+D.P., Klattenhoff, C., Theurkauf, W.E., and Zamore, P.D. (2005).
+Normal microRNA maturation and germ-line stem cell maintenance
+requires Loquacious, a double-stranded RNA-binding domain protein. PLoS Biol. 3, e236. 10.1371/journal.pbio.0030236.
+Franceschini, N. (1972). Pupil and pseudopupil in the compound eye
+of Drosophila. In Information Processing in the Visual Systems of
+Arthropods, R. Wehner, ed. (Berlin: Springer), pp. 75–82.
+Fukagawa, T., Nogami, M., Yoshikawa, M., Ikeno, M., Okazaki, T.,
+Takami, Y., Nakayama, T., and Oshimura, M. (2004). Dicer is essential for formation of the heterochromatin structure in vertebrate cells.
+Nat. Cell Biol. 6, 784–791.
+Hipfner, D.R., Weigmann, K., and Cohen, S.M. (2002). The bantam
+gene regulates Drosophila growth. Genetics 161, 1527–1537.
+Hutvagner, G., McLachlan, J., Pasquinelli, A.E., Balint, E., Tuschl, T.,
+and Zamore, P.D. (2001). A cellular function for the RNA-interference
+enzyme Dicer in the maturation of the let-7 small temporal RNA.
+Science 293, 834–838.
+Jackson, G.R., Salecker, I., Dong, X., Yao, X., Arnheim, N., Faber,
+P.W., MacDonald, M.E., and Zipursky, S.L. (1998). Polyglutamineexpanded human huntingtin transgenes induce degeneration of
+Drosophila photoreceptor neurons. Neuron 21, 633–642.
+Jiang, F., Ye, X., Liu, X., Fincher, L., McKearin, D., and Liu, Q. (2005).
+Dicer-1 and R3D1-L catalyze microRNA maturation in Drosophila.
+Genes Dev. 19, 1674–1679.
+Leaman, D., Chen, P.Y., Fak, J., Yalcin, A., Pearce, M., Unnerstall, U.,
+Marks, D.S., Sander, C., Tuschl, T., and Gaul, U. (2005). Antisensemediated depletion reveals essential and specific functions of microRNAs in Drosophila development. Cell 121, 1097–1108.
+Lee, V.M., Goedert, M., and Trojanowski, J.Q. (2001). Neurodegenerative tauopathies. Annu. Rev. Neurosci. 24, 1121–1159.
+Lee, Y.S., Nakahara, K., Pham, J.W., Kim, K., He, Z., Sontheimer, E.J.,
+and Carthew, R.W. (2004). Distinct roles for Drosophila Dicer-1 and
+Dicer-2 in the siRNA/miRNA silencing pathways. Cell 117, 69–81.
+Muchowski, P.J., and Wacker, J.L. (2005). Modulation of neurodegeneration by molecular chaperones. Nat. Rev. Neurosci. 6, 11–22.
+Ravikumar, B., Vacher, C., Berger, Z., Davies, J.E., Luo, S., Oroz,
+L.G., Scaravilli, F., Easton, D.F., Duden, R., O’Kane, C.J., and
+Rubinsztein, D.C. (2004). Inhibition of mTOR induces autophagy
+and reduces toxicity of polyglutamine expansions in fly and mouse
+models of Huntington disease. Nat. Genet. 36, 585–595.
+Rorth, P. (1996). A modular misexpression screen in Drosophila
+detecting tissue-specific phenotypes. Proc. Natl. Acad. Sci. USA
+93, 12418–12422.
+
+Bartel, D.P. (2004). MicroRNAs: genomics, biogenesis, mechanism,
+and function. Cell 116, 281–297.
+
+Sang, T.K., Li, C., Liu, W., Rodriguez, A., Abrams, J.M., Zipursky,
+S.L., and Jackson, G.R. (2005). Inactivation of Drosophila Apaf-1
+related killer suppresses formation of polyglutamine aggregates and
+blocks polyglutamine pathogenesis. Hum. Mol. Genet. 14, 357–372.
+
+Bentwich, I., Avniel, A., Karov, Y., Aharonov, R., Gilad, S., Barad, O.,
+Barzilai, A., Einat, P., Einav, U., Meiri, E., et al. (2005). Identification of
+hundreds of conserved and nonconserved human microRNAs. Nat.
+Genet. 37, 766–770.
+
+Turmaine, M., Raza, A., Mahal, A., Mangiarini, L., Bates, G.P., and
+Davies, S.W. (2000). Nonapoptotic neurodegeneration in a transgenic mouse model of Huntington’s disease. Proc. Natl. Acad. Sci.
+USA 97, 8093–8097.
+
+Bernstein, E., Caudy, A.A., Hammond, S.M., and Hannon, G.J.
+(2001). Role for a bidentate ribonuclease in the initiation step of
+RNA interference. Nature 409, 363–366.
+
+Velazquez, J.M., and Lindquist, S. (1984). hsp70: nuclear concentration during environmental stress and cytoplasmic storage during
+recovery. Cell 36, 655–662.
+
+Bilen, J., and Bonini, N.M. (2005). Drosophila as a model for human
+neurodegenerative disease. Annu. Rev. Genet. 39, 153–171.
+
+Warrick, J.M., Paulson, H.L., Gray-Board, G.L., Bui, Q.T., Fischbeck,
+K.H., Pittman, R.N., and Bonini, N.M. (1998). Expanded polyglutamine protein forms nuclear inclusions and causes neural degeneration in Drosophila. Cell 93, 939–949.
+
+Brennecke, J., Hipfner, D.R., Stark, A., Russell, R.B., and Cohen,
+S.M. (2003). bantam encodes a developmentally regulated microRNA that controls cell proliferation and regulates the proapoptotic
+gene hid in Drosophila. Cell 113, 25–36.
+Brooks, E., Arrasate, M., Cheung, K., and Finkbeiner, S.M. (2004).
+Using antibodies to analyze polyglutamine stretches. Methods
+Mol. Biol. 277, 103–128.
+
+Wittmann, C.W., Wszolek, M.F., Shulman, J.M., Salvaterra, P.M.,
+Lewis, J., Hutton, M., and Feany, M.B. (2001). Tauopathy in Drosophila: neurodegeneration without neurofibrillary tangles. Science 293,
+711–714.
+
+Caldas, C., and Brenton, J.D. (2005). Sizing up miRNAs as cancer
+genes. Nat. Med. 11, 712–714.
+
+Xu, P., Vernooy, S.Y., Guo, M., and Hay, B.A. (2003). The Drosophila
+microRNA Mir-14 suppresses cell death and is required for normal
+fat metabolism. Curr. Biol. 13, 790–795.
+
+Chan, H.Y., Warrick, J.M., Gray-Board, G.L., Paulson, H.L., and
+Bonini, N.M. (2000). Mechanisms of chaperone suppression of poly-
+
+Zoghbi, H.Y., and Orr, H.T. (2000). Glutamine repeats and neurodegeneration. Annu. Rev. Neurosci. 23, 217–247.
+
+

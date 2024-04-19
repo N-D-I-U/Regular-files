@@ -1,0 +1,950 @@
+66 • The Journal of Neuroscience, January 1, 2014 • 34(1):66 –78
+
+Development/Plasticity/Repair
+
+MicroRNA-132 Is Enriched in Developing Axons, Locally
+Regulates Rasa1 mRNA, and Promotes Axon Extension
+Melissa L. Hancock, Nicolas Preitner, Jie Quan, and John G. Flanagan
+Department of Cell Biology, and Program in Neuroscience, Harvard Medical School, Boston, Massachusetts 02115
+
+Developing axons can locally synthesize proteins, with roles in axon growth, guidance, and regeneration, but the mechanisms that
+regulate axonal mRNA translation are not well understood. MicroRNAs (miRNAs) are important regulators of translation but have still
+been little characterized in developing axons. Here we study mouse dorsal root ganglion (DRG) axons and show that their extension is
+impaired by conditional deficiency of the miRNA-processing enzyme Dicer in vitro and in vivo. A screen for axonal localization identifies
+a specific set of miRNAs preferentially enriched within the developing axon. High axonal expression and preferential localization were
+observed for miR-132, a miRNA previously known for roles in dendrites and dysregulation in major neurologic diseases. miR-132
+knockdown reduced extension of cultured DRG axons, whereas overexpression increased extension. Mechanistically, miR-132 regulated
+the mRNA for the Ras GTPase activator Rasa1, a novel target in neuronal function. Moreover, miR-132 regulation of Rasa1 translation was
+seen in severed axons, demonstrating miRNA function locally within the axon. miR-132 expression in DRGs peaked in the period of
+maximum axon growth in vivo, consistent with its effect on axon growth, and suggesting a role as a developmental timer. Together, these
+findings identify miR-132 as a positive regulator of developing axon extension, acting through repression of Rasa1 mRNA, in a mechanism that operates locally within the axon.
+Key words: axon development; local mRNA translation; microRNA
+
+Introduction
+Developing axons contain protein synthesis machinery and a specific set of mRNAs, and roles for local axonal mRNA translation
+have been described in axon growth, guidance, and regeneration
+(Hengst and Jaffrey, 2007; Yoo et al., 2010; Jung et al., 2012).
+However, the mechanisms that regulate axonal mRNA translation are still not well understood.
+MicroRNAs (miRNAs) are ⬃22 nt RNAs that act as translation regulators, typically initiating both mRNA degradation and
+translational repression (Baek et al., 2008; Bartel, 2009). miRNAs
+are highly expressed in the nervous system and have been studied
+extensively in neuron differentiation, dendrite growth, and synaptic function (Fineberg et al., 2009; Im and Kenny, 2012; McNeill and Van Vactor, 2012), but are less characterized in the
+developing axon. Evidence that miRNAs function in axon development initially came from deletion of the miRNA-processing
+enzyme Dicer in zebrafish (Giraldez et al., 2005). Lists of axonal
+Received Aug. 7, 2013; revised Oct. 25, 2013; accepted Nov. 5, 2013.
+Author contributions: M.L.H., N.P., and J.G.F. designed research; M.L.H. and N.P. performed research; M.L.H.,
+N.P., J.Q., and J.G.F. analyzed data; M.L.H. and J.G.F. wrote the paper.
+This work was supported by National Institutes of Health Grants T32 NS007484, F32 NS073307 (to M.L.H.), R01
+HD29417, EY01559, and NS69913 (to J.G.F.). We thank T. Yamashita for the pAPtag-5-Rasa1-Myc construct, David
+Van Vactor for advice and comments, Kristin Waraska at the Biopolymers Facility at Harvard Medical School for
+assistance with the qRT-PCR TLDA experiments, Bengang Xu for assistance with dissections, and Jennifer Waters,
+Josh Rosenberg, Lara Petrak, and Lauren Piedmont at the Nikon Imaging Center at Harvard Medical School for
+microscopy support.
+The authors declare no competing financial interests.
+Correspondence should be addressed to John G. Flanagan, Department of Cell Biology, and Program in Neuroscience, Harvard Medical School, 240 Longwood Avenue, Boston, MA 02115. E-mail: flanagan@hms.harvard.edu.
+DOI:10.1523/JNEUROSCI.3371-13.2014
+Copyright © 2014 the authors 0270-6474/14/340066-13$15.00/0
+
+miRNAs have been described in postnatal neurons and recently
+in developing cortical neurons (Natera-Naranjo et al., 2010; Sasaki et al., 2013). Some individual miRNAs have been found to
+regulate axon growth, and evidence suggesting local action
+within axons has come from studies involving microcompartment chambers (Aschrafi et al., 2008; Dajas-Bailador et al., 2012;
+Zhang et al., 2013), although local activity has not been directly
+shown in severed axon preparations. More generally, the functions and mechanisms of action of miRNAs remain little explored
+in axon development.
+miR-132 is one of the best characterized miRNAs in the nervous system, and is known for roles in dendrite morphology and
+synapse function (Vo et al., 2010; Siegel et al., 2011; Wanet et al.,
+2012). Two miR-132 targets that have been studied extensively in
+dendrites are the mRNAs for Rho GTPase activator p250GAP,
+and transcription factor MeCP2. Since miR-132 is present in the
+somatodendritic compartment and at synapses (Kye et al., 2007;
+Lugli et al., 2008; Wayman et al., 2008), an interesting possibility
+is that it might function locally at synapses, although local action
+of miR-132 at a subcellular site has not yet been shown. Notably,
+miR-132 is dysregulated in major neurodevelopmental, psychiatric, and neurodegenerative diseases (Im and Kenny, 2012; Mellios and Sur, 2012; Wanet et al., 2012). Although such findings
+have been interpreted in the context of miR-132’s known function in dendrites, these diseases are equally likely to involve defects in the axon. miR-132 regulates extension of cultured
+cortical neurites (Vo et al., 2005), which may develop into
+either dendrites or axons, but no role of miR-132 in axons has
+been described.
+
+Hancock et al. • miR-132 in Axon Development
+
+Here we explore miRNA function in dorsal root ganglion
+(DRG) sensory neurons. DRG axon development is shown to
+depend on Dicer in vivo, and an unbiased screen identifies a
+specific set of miRNAs preferentially localized to the developing
+axon. Of these, miR-132 showed high axonal enrichment and
+abundance, and its expression correlated with the period of maximum DRG axon elaboration in vivo. miR-132 is shown to be a
+positive regulator of axon extension, acting via the mRNA for Ras
+GTPase activator Rasa1, in a mechanism that operates locally
+within the axon.
+
+Materials and Methods
+Animals. Dicerflox/flox (strain B6.Cg-Dicer1tm1Bdh/J) mice were from Cliff
+Tabin at Harvard Medical School; Wnt1⫹/Cre (strain STOCK Tg(Wnt1cre)11Rth Tg(Wnt1-GAL4)11Rth/J) mice were from Susan Dymecki at
+Harvard Medical School; ROSA26 (R26R) (strain B6.129S4Gt(ROSA)26Sortm1Sor/J) mice were from The Jackson Laboratory; and
+wild-type Swiss Webster (strain SW) mice were obtained from Taconic.
+Mice of either sex were used in accordance with Harvard Medical School
+Institutional Animal Care and Use Committee-approved protocols.
+Neuronal cultures. Mouse E13.5 dorsal root ganglia were plated as
+explants or dissociated and plated in 8-well poly-D-lysine/laminin chamber slides (BD Biosciences). Cells were cultured in Accell medium (Dharmacon) supplemented with 10% FBS, 2 mM L-glutamine, and 50 ng/ml
+nerve growth factor (NGF; Invitrogen). When cultures were maintained
+for ⬎24 h, the anti-mitotic FUDR was added 16 –24 h after plating to
+avoid glial cell proliferation. Plasmids and miRNA inhibitors or mimics
+(Ambion) were introduced before plating using the Neon electroporation system (Invitrogen) according to the manufacturer’s instructions.
+Briefly, dissociated cells were pelleted and rinsed in PBS without Ca 2⫹ or
+Mg 2⫹, resuspended in R buffer, and electroporated (1450 V, 20 width, 1
+pulse) at a concentration of 10 4 cells/␮l in the presence of 2.5 pmol/␮l
+miRNA inhibitor or mimic and 50 ng/␮l pCS2-GFP plasmid. Cellpermeable PNA miRNA inhibitors (PNA Bio) were added directly to the
+culture medium (2 ␮M).
+Cell and tissue labeling. For whole-mount immunolabeling, hindlimb
+buds were processed as described previously (Wickramasinghe et al.,
+2008). Whole-mount ␤-galactosidase staining was performed as described previously (Sanes et al., 1986). Immunolabeling was performed
+as described previously (Hancock et al., 2011) using the following antibodies: mouse anti-Islet1/2 (1:1000, Developmental Studies Hybridoma
+Bank 39.4D5); rabbit anti-peripherin (1:500, Millipore Bioscience Research Reagents); rabbit anti-TrkA (1:1000, L. Reichardt, University of
+California, San Francisco); rabbit anti-Argonaute 2 (1:100, Cell Signaling
+Technology); mouse anti-Dicer (1:100, Abcam); rabbit anti-GFP (1:2000,
+Invitrogen); rabbit anti-NF-M (1:1000, Millipore Bioscience Research
+Reagents); mouse anti-Ras GAP (1:400, Santa Cruz Biotechnology); or
+rabbit anti-Tuj1 (1:500, Abcam), followed by Alexa fluorophoreconjugated secondary antibodies (1:500, Invitrogen), and mounted with
+Fluoromount-G (SouthernBiotech). As a negative control, cells were immunolabeled with secondary antibody alone to verify an absence of nonspecific background signal caused by secondary antibodies. F-actin was
+labeled with Alexa-conjugated phalloidin (Invitrogen). Sections were
+imaged with a Nikon C1 point scanning confocal system equipped with
+a TE200 inverted microscope and a CCD camera (ORCA-R2, Hamamatsu).
+To count DRG neurons in sections, thoracic-lumbar spinal cords were
+matched for position on the rostral-caudal axis from each genotype. Cultured neurons were imaged with a Nikon Ti inverted fluorescence microscope equipped with a CCD camera (ORCA-R2, Hamamatsu), using
+MetaMorph image analysis software (Molecular Devices, Version 7.7.9).
+Microfluidic chambers. Mouse E13.5 DRG explants were aspirated into
+the “cell body” compartment of AXIS microfluidic devices (Millipore).
+After 3 d, axons extended through the ⱖ150 ␮m microgrooves to the
+“axon” compartment. A larger volume of medium was added to the axon
+compartment to prevent the backflow of cell body contaminants into the
+axon compartment. To isolate axonal or total neuron RNA, RNA lysis
+buffer was added to either the cell body or the axon compartment, and
+total RNA was extracted using mirVana miRNA Isolation Kit (Ambion).
+
+J. Neurosci., January 1, 2014 • 34(1):66 –78 • 67
+
+Quantitative real-time PCR. Rodent Taqman low density (TLDA) MicroRNA A Arrays (v2.0; Applied Biosystems) were used to assess miRNA
+expression profiles. For each sample, 30 ng of total RNA was used. For
+each condition, at least three samples from two independent experiments
+were processed according to the manufacturer’s instructions using an
+Applied Biosystems 7900HT Sequence Detection System at the Biopolymers Facility in the Genetics Department at Harvard Medical School.
+Only miRNAs with a CT ⱕ 35 were included in the analysis, since a CT ⬎
+35 is reported to be below the reliable detection level for mature miRNA
+(Chen et al., 2009). For the comparison of Dicer (⫹/⫹) versus Dicer
+(⫺/⫺) samples, miRNAs were analyzed by the comparative CT method,
+normalizing to the endogenous housekeeping gene U6, so that ⌬CT for
+each miRNA is given by CT,miRNA ⫺ CT,U6 (Schmittgen and Livak, 2008;
+Natera-Naranjo et al., 2010). To compare data from axonal versus total
+neuron preparations, the RQ for each miRNA was calculated as 2 ⫺⌬⌬CT ,
+where ⌬⌬CT ⫽ ⌬CT,axon ⫺ ⌬CT,cell. For the axon versus total neuron
+measurements, we used two different methods for normalization. One
+approach was to normalize by the average value for all detected miRNA
+in the sample, so that for each miRNA, ⌬CT,axon ⫽ CT,axon ⫺ CT,axon ave;
+and ⌬CT,cell ⫽ CT,cell ⫺ CT,cell ave. The second method was an approach
+used previously (Natera-Naranjo et al., 2010; Zhang et al., 2013), in
+which each miRNA was normalized to U6 snRNA, on the assumption
+that U6 is distributed equally in the axon and soma. Both of these normalization procedures revealed enrichment of miR-132 and other miRNAs in the axon, although the U6 procedure produced axonal
+enrichment values that were ⬃4- to 15-fold higher. The heat map in
+Figure 2D (see below) is based on the more conservative normalization
+approach using average miRNA distribution. Normalized values for replicates were averaged, and heat maps were generated by heatmap.2 in the
+gplots package of R/Bioconductor (Gentleman et al., 2004).
+For quantitation of individual miRNAs, 5–10 ng of total RNA was
+reverse transcribed with specific primers (miR-132, miR-125a-5p, and
+snoRNA202) from TaqMan MicroRNA Assays (Applied Biosystems).
+For precursor miRNA (pre-miRNA) or mature miRNA analysis in parallel with mRNA analysis, 30 ng of total RNA was reverse transcribed
+using specific primers (pre-miR-132, miR-132, miR-125a-5p, and
+snoRNA61; Qiagen) and miScript II RT Kit (Qiagen). miR-125a-5p levels were used for normalization in quantitative reverse transcription
+(qRT)-PCRs for individual miRNAs, since our qRT-PCR TLDA results
+(using the average miRNA normalization method) revealed that miR125a-5p was approximately equally expressed in the axon and total cell.
+For mRNA analysis, 30 ng of total RNA was reverse transcribed using
+Superscript III (Invitrogen). One tenth of each sample was used for
+qRT-PCRs, which consisted of SYBR Green PCR mix (Applied Biosystems) and a primer pair. For each condition, at least three experimental samples were used for qRT-PCR, and each sample was run in
+triplicate. qRT-PCR was performed using an ABI Biosystems 7900HT
+Sequence Detection System, and data were analyzed by the comparative Ct method (Schmittgen and Livak, 2008). The following primer
+pairs were used: ␤-actin (NM_007393; RTPrimerDB ID 2847; Pattyn et
+al., 2003): 5⬘-CAACGAGCGGTTCCGATG-3⬘ and 5⬘-GCCACAGGATTCCATACCCA-3⬘; ␥-actin (NM_009609; PrimerBank ID
+6752954a1; Wang and Seed, 2003): 5⬘-AATCGCCGCACTCGTCATT-3⬘
+and 5⬘-CCCTACGATGGAAGGGAACAC-3⬘; Crk1 (NM_133656;
+PrimerBank ID 31559995a3): 5⬘-GGAGGTCGGTGAGCTGGTA-3⬘ and
+5⬘-TCCTCATCGGGATTCTGTTGAT-3⬘; Gapdh (NM_008084; PrimerBank ID 6679937a1): 5⬘-AGGTCGGTGTGAACGGATTTG-3⬘ and 5⬘TGTAGACCATGTAGTTGAGGTCA-3⬘; and Rasa1 (NM_145452;
+PrimerBank ID 164663772b3): 5⬘-TTATGATGGGAGGCCGCTATT-3⬘
+and 5⬘-CTGCATTGGTACAGGTTCCTT-3⬘.
+miRNA in situ hybridization. In situ hybridizations were performed as
+described previously (Lu and Tsourkas, 2011) with fluorescein isothiocyanate conjugated miRNA LNA probes (10 nM, Exiqon). A scrambled
+miRNA LNA probe was used as a negative control. After a series of
+posthybridization washes, the LNA signal was amplified using the Tyramide Signal Amplification PLUS Fluorescein Kit (PerkinElmer) according to the manufacturer’s instructions. Neurons were imaged with a
+Nikon Ti inverted fluorescence microscope equipped with a CCD
+camera (ORCA-R2, Hamamatsu) using MetaMorph software (Molecu-
+
+68 • J. Neurosci., January 1, 2014 • 34(1):66 –78
+
+lar Devices, Version 7.7.9). Outlines of axons were traced using MetaMorph by increasing brightness to make autofluorescence visible
+throughout the cell. Average fluorescence intensity (AFI) was measured
+using the Region Measurement function in MetaMorph. Background
+intensities were measured in regions of the coverslip devoid of cells and
+were subtracted from measurements.
+Target site protectors. A miRCURY LNA Power Target Site Block oligonucleotide (target site protector, TP) was custom designed complementary to the sequence containing the predicted miR-132 binding site
+(470 – 476 nt: GACUGUU) within mouse Rasa1 3⬘UTR (Rasa1-TP:
+AGTGAACAGTCAAATGGTCAT). A scrambled TP was used as a negative control (con-TP: GTGTAACACGTCTATACGCCCA). TPs were
+from Exiqon and were used at 50 nM.
+Quantitation of axonal extension. Quantitation of DRG axon extension
+was performed by tracing axons using MetaMorph. For DRG explants,
+⬎20 axons per explant were measured. For differential interference contrast (DIC) time-lapse microscopy, DRG explants were cultured overnight and then placed on a motorized stage enclosed by a CO2 incubation
+chamber at 37°C (Solent Scientific). Growth cones were randomly selected, and time-lapse images were acquired using DIC optics on a Nikon
+TE2000 microscope equipped with a CCD camera (ORCA-R2,
+Hamamatsu). Images were captured every 30 s for 1 h and axon extension
+rates were measured using MetaMorph. For Neuro2A cell analysis, cells
+were cotransfected with pCS2-GFP plasmid and scrambled control or
+Rasa1 siRNA (20 nM, Ambion), miRNA mimic (25 nM, Ambion), or
+pAPtag-5-Rasa1-Myc (Rasa1-⌬3⬘UTR, provided by T. Yamashita, Osaka
+University, Osaka, Japan; Endo and Yamashita, 2009) using Lipofectamine 2000 (Invitrogen). For target site protector experiments,
+Neuro2A cells were cotransfected with pCS2-GFP plasmid, con-TP or
+Rasa1-TP (50 nM, Exiqon), and miRNA mimic (25 nM, Ambion). After
+24 h, Neuro2A cells were serum starved in the presence of dibutyryl
+cAMP (2 mM, Sigma) for an additional 24 h to induce differentiation.
+Neurons were imaged with a Nikon Ti motorized inverted microscope with Perfect Focus System equipped with a 20⫻ objective lens
+and a CCD camera (ORCA-R2, Hamamatsu). At least 300 GFP⫹
+axons were quantitated per condition. Axon length was traced and
+measured using MetaMorph.
+Treatment of severed axons. For acute treatment of severed axons,
+mouse E13.5 DRG explants were cultured for 2 d, and axons were severed
+from explants using a fine scalpel blade. Cultures were treated with antisense PNA oligonucleotides (2 ␮M) in the presence or absence of cycloheximide (10 ␮g/ml, Sigma) for 3.5 h, fixed, and processed for
+immunolabeling. Images were captured, and fluorescence intensities
+were measured by selecting a region of interest (ROI) for axons based on
+the Tuj1 labeling using the auto-trace function of MetaMorph (Version
+7.7.9, Molecular Devices). The axon ROIs were then superimposed onto
+the Rasa1 image and the AFI was measured using the Region Measurement function in MetaMorph. Background intensities were measured in
+regions of the coverslip devoid of cells and were subtracted from axon
+measurements.
+Luciferase assay. Rasa1 3⬘UTR was PCR-amplified from mouse
+genomic DNA using primers 5⬘-GAGAGAGCTCCAGCCTGTGTTCTGCGT-3⬘ and 5⬘-GAGATCTAGAATAGACCTTGATTACT-3⬘. The
+PCR product was digested with SacI and XbaI and cloned into pmiRGlo
+vector (Promega) downstream of the luc2 reporter gene. Neuro2A cells
+were plated on 24-well plates and cotransfected with the reporter and
+scrambled control or miRNA inhibitor (Ambion) using Lipofectamine
+2000 (Invitrogen). Cells were lysed 1 d later, and firefly and Renilla luciferases were measured using the Dual-Luciferase Reporter Assay System (Promega) with an Envision Luminometer (PerkinElmer). Activity
+was reported by normalizing firefly to Renilla luciferase activity.
+Statistics. Statistical significance was determined by two-tailed t test
+or ANOVA with Tukey’s HSD post hoc test (GraphPad Prism, Version
+4.0c).
+
+Results
+Dicer is essential for normal DRG axon development in vivo
+DRG sensory neurons have long been a major model for axon
+development. The DRG neuron extends a bifurcated axon, and
+
+Hancock et al. • miR-132 in Axon Development
+
+receives input from cutaneous and muscle targets through a peripheral axon branch, rather than from dendrites, while output to
+the spinal cord is sent through a central axon branch. To initially
+explore potential functions of miRNAs in developing DRG axons, we used a conditional null allele of Dicer (Harfe et al., 2005)
+to inactivate the processing of small RNAs. Since deletion of Dicer in mice results in embryonic lethality at the blastocyst stage,
+conditional Dicerflox/flox mice were crossed with a line in which
+Cre recombinase is expressed under the control of the Wnt1 promoter (Danielian et al., 1998). Wnt1 expression commences at
+E9.5 in neural crest-derived cells (Echelard et al., 1994), and Dicerflox/flox;Wnt1⫹/Cre mice survive until birth (Zehir et al., 2010).
+To track Cre-expressing cells, we used the ROSA26 reporter
+(R26R) transgene, which exhibits constitutive ␤-gal expression
+when activated by Cre (Soriano, 1999). In Dicerflox/flox;Wnt1⫹/Cre;
+R26R⫹/ ⫺ embryos at E13.5, Cre expression was confirmed to be
+prominent in DRG neurons (data not shown) and axons (Fig.
+1A). In Dicer conditional knock-outs, we observed aberrant sensory axon trajectories in peripheral targets as early as E12.5, and a
+62% reduction in peripheral innervation at E13.5 (Fig. 1A–E).
+The axon defects were detected at a stage before DRG neuron loss,
+indicating that the defects were not secondary to neuronal death
+(Fig. 1 F, G). DRG explants from E13.5 mutants survived in vitro
+in the presence of NGF, but showed a reduction in axon length
+(473.76 ⫾ 16.47 vs 288.72 ⫾ 12.17 ␮m; Fig. 1 H, I ) and reduced
+extension rate (1.16 ⫾ 0.21 vs 0.57 ⫾ 0.14 ␮m/min; Fig. 1J ).
+Thus, the miRNA processing enzyme Dicer is essential for normal sensory axon development in vivo, and axon extension in
+vitro.
+Identification of miRNAs preferentially localized in
+DRG axons
+Having observed axon defects in the Dicer mutants, we were
+interested to identify candidate miRNAs that might account for
+such effects. We reasoned that miRNAs that are important for
+axon development might be present within the axon compartment. Moreover, we were interested in the possibility that, if there
+were miRNAs specialized for a function in the axon, then those
+miRNAs might be preferentially enriched in the axon relative to
+the cell body. Consistent with a local miRNA function in DRG
+axons, proteins involved in miRNA biogenesis and activity, Ago2
+and Dicer, were found to be present (Fig. 2A). To study events
+specifically within the axonal compartment, DRG explants from
+E13.5 embryos were cultured in multicompartment microfluidic
+chambers (Fig. 2B), which can be used to harvest isolated axons
+(Willis and Twiss, 2011). As a control, the purity of the axonal
+RNA samples was tested by qRT-PCR, confirming that axonal
+samples were enriched in ␤-actin mRNA and essentially devoid of
+␥-actin mRNA, which is present exclusively in the soma (Fig. 2C).
+After 3 d in culture, RNA was extracted from both the total neuron compartment and the axon compartment, and the quantitative expression profile of 375 mature miRNAs was measured
+using qRT-PCR rodent TLDAs. In the analysis shown in Figure
+2D, axonal distributions were normalized relative to the entire
+population of miRNAs, rather than normalizing to an individual
+RNA, which might potentially have a distinctive distribution itself (see Materials and Methods for details). The results showed
+differential enrichment of miRNAs in the axons compared with
+whole neurons: of 61 miRNAs detected in axons, 26 miRNAs
+showed ⬎1.5-fold enrichment in axons, whereas five showed depletion in axons (Fig. 2D). We only considered miRNAs with
+average CT (threshold cycle) values lower than 35, since a mature
+miRNA CT ⬎35 is reported to be below the reliable detection
+
+Hancock et al. • miR-132 in Axon Development
+
+J. Neurosci., January 1, 2014 • 34(1):66 –78 • 69
+
+Figure 1. Dicer conditional gene deletion results in DRG axon defects. A, Whole-mount LacZ staining of Dicer⫹/⫹;Wnt1⫹/Cre;R26R⫹/ ⫺ or Dicer flox/flox;Wnt1⫹/Cre;R26R⫹/ ⫺ embryos at E13.5
+(top) and peripherin immunolabeling of Dicer⫹/⫹Wnt1⫹/Cre (⫹/⫹) or Dicerflox/floxWnt1⫹/Cre (⫺/⫺) embryos at E12.5 and E13.5 (bottom) revealed stunted and aberrant axon extension in
+mutant paws. Arrows mark examples of nerve endings. Scale bar, 100 ␮m. B, Quantitation of peripherin ⫹ nerve endings per paw in whole mounts of E13.5 embryos. C, Quantitation of total nerve
+innervation of paws. The percentage of paw area innervated by peripherin ⫹ nerves was calculated by dividing the total area of peripherin ⫹ immunofluorescence (IF) by the total area of the paw.
+D, Transverse sections of hindlimb epithelium labeled for peripherin (green) and DAPI nuclear label (blue) at E13.5. Scale bar, 50 ␮m. E, Quantitation of peripherin ⫹ nerve endings per 100 ␮m
+terminating in epidermis. F, Transverse sections of DRG from E15.5 Dicer (⫹/⫹) or (⫺/⫺) embryos were colabeled for Islet 1/2 and TrkA. Scale bar, 100 ␮m. G, Quantitation of Islet1/2 ⫹ or TrkA ⫹
+DRG neurons per section. H, DRG explants from E13.5 (⫹/⫹) or (⫺/⫺) embryos were cultured for 36 h and labeled for NF-M. Scale bar, 100 ␮m. I, Quantitation of average DRG axon length. J,
+Quantitation of axon extension rate with DIC time-lapse microscopy. Bar graphs shown as means ⫾ SEM. *p ⬍ 0.05; **p ⬍ 0.01; ***p ⬍ 0.001 (t test).
+
+70 • J. Neurosci., January 1, 2014 • 34(1):66 –78
+
+Hancock et al. • miR-132 in Axon Development
+
+Figure 2. Screen for miRNAs in DRG neurons and axons. A, Cultured DRG axons were immunolabeled for Dicer or Ago2 (green). F-actin is labeled with phalloidin (blue), and growth cones are
+outlined (white line). Scale bar, 10 ␮m. B, E13.5 DRG explants were cultured in AXIS multicompartment microfluidic chambers (Millipore), which have been used previously to isolate axons (Willis
+and Twiss, 2011). The explants were plated in one compartment, and axons extended through ⱖ150 ␮m microgrooves to an axon compartment. After 3 d in culture, neurons were labeled with
+NF-M to identify axons and nuclei were labeled with DAPI. Dashed lines demarcate the boundaries of the total neuron (left) and axon (right) compartments. The microgrooves are present in the
+middle region; reduced antibody diffusion through the microgrooves prevented strong labeling in this region. Scale bar, 50 ␮m. C, Verification of axon purity by qRT-PCR. Total RNA was extracted
+from total neuron or axon compartments, and ␤-actin and ␥-actin mRNA levels were measured by qRT-PCR. Axonal mRNA was devoid of ␥-actin mRNA, which is only present in the soma. Results
+shown as means ⫾ SEM. ***p ⬍ 0.001 (t test). D, Expression levels of miRNA measured by qRT-PCR rodent TLDA. Results are displayed as a heat map of miRNA enrichment in axon relative to total neuron,
+on a logarithmic scale (green is axonally enriched, and red is axonally depleted). In this experiment, miRNA values were normalized by the average value for all detected miRNA in the sample (see Materials and
+Methods for details). E, Expression levels of miRNAs in axon and whole neuron (total) populations, measured by qRT-PCR TLDA. Results are displayed as a heat map in which increasing green intensity indicates
+higher expression levels, displayed as a percentage of total miRNA expression in each population (axon or total neuron). miRNAs are ranked by axonal expression level (n ⫽ 4).
+
+Hancock et al. • miR-132 in Axon Development
+
+J. Neurosci., January 1, 2014 • 34(1):66 –78 • 71
+
+Table 1. Ranking of axonal miRNAs
+miRNA
+
+Axon (% of population)
+
+Whole neuron (% of population)
+
+mmu-miR-24
+mmu-miR-191
+mmu-miR-132
+mmu-miR-138
+mmu-miR-182
+mmu-let-7e
+mmu-miR-434-3p
+mmu-miR-342-3p
+mmu-miR-680
+mmu-miR-484
+mmu-miR-19b
+mmu-miR-30b
+mmu-miR-30c
+mmu-miR-29a
+mmu-miR-17
+mmu-miR-106a
+mmu-miR-384-5p
+mmu-miR-125a-5p
+mmu-miR-328
+mmu-miR-495
+
+20.24 ⫾ 3.80
+10.95 ⫾ 2.81
+10.61 ⫾ 3.88
+7.29 ⫾ 3.69
+4.05 ⫾ 1.93
+3.31 ⫾ 2.15
+3.22 ⫾ 0.70
+2.71 ⫾ 0.56
+2.32 ⫾ 0.84
+2.08 ⫾ 0.59
+1.80 ⫾ 0.27
+1.75 ⫾ 0.26
+1.54 ⫾ 0.25
+1.44 ⫾ 0.68
+1.27 ⫾ 0.32
+1.17 ⫾ 0.09
+1.07 ⫾ 0.10
+1.05 ⫾ 0.18
+0.97 ⫾ 0.31
+0.88 ⫾ 0.50
+
+17.73 ⫾ 8.83
+8.95 ⫾ 2.24
+3.31 ⫾ 1.88
+15.51 ⫾ 1.88
+4.43 ⫾ 1.30
+2.24 ⫾ 0.87
+1.04 ⫾ 0.39
+0.97 ⫾ 0.26
+0.03 ⫾ 0.01
+1.71 ⫾ 0.67
+1.79 ⫾ 0.76
+1.08 ⫾ 0.24
+1.07 ⫾ 0.08
+1.78 ⫾ 0.77
+1.24 ⫾ 0.59
+1.47 ⫾ 0.80
+0.33 ⫾ 0.09
+0.97 ⫾ 0.30
+0.99 ⫾ 0.18
+0.25 ⫾ 0.14
+
+Shown are the top 20 most abundant miRNAs in axons. Values are mean ⫾ SEM for four replicates.
+
+limit (Chen et al., 2009). The axonal miRNAs were also ranked in
+order of abundance in axons (Fig. 2E; Table 1). Of the top 20 most
+abundant axonal miRNAs, only 11 were ⬎1.5-fold enriched in
+axons, indicating that enrichment is not a simple reflection of
+abundance.
+We next asked whether any of the axonally expressed miRNAs
+might be candidates to account for axon defects seen in the Dicer
+mutants at the early stage of E12.5, when axon defects were first
+detected in vivo (Fig. 1A). To do this, we compared miRNA TLDA
+profiles of DRG from E12.5 Dicerflox/flox;Wnt1⫹/Cre and Dicer⫹/⫹;
+Wnt1⫹/Cre embryos. The results identified 212 miRNAs in E12.5
+DRGs, of which 67 showed ⬎50% decreased expression in the
+Dicer mutants (Fig. 3A). It is worth noting that miRNAs are
+generally stable (Davis et al., 2008; Mitchell et al., 2008), which
+presumably explains why there was not a complete loss of all
+miRNAs in the DRGs at this early stage, 3 d after Wnt1 expression
+commences (Echelard et al., 1994). We next looked for overlap
+between the set of miRNAs that were ⬎50% reduced in the Dicer
+mutant DRGs and those that were ⬎1.5-fold enriched in axons
+(Fig. 3B). Four miRNAs met these criteria (miR-132, miR-155,
+miR-365, and miR-410), and of these four, miR-132 was by far
+the most abundant in axons (Fig. 2E; Table 1). In accordance with
+the TLDA findings, qRT-PCR confirmed that miR-132 was reduced by 80% in the Dicerflox/flox;Wnt1⫹/Cre DRG at E12.5 (Fig.
+3C), and that miR-132 was enriched by 13-fold in axons relative
+to its level in the neuron (1.00 ⫾ 0.01 vs 13.03 ⫾ 3.44; Fig. 3D).
+Using qRT-PCR, we also detected pre-miR-132 in DRG axons,
+and its expression was enriched by 45-fold in axons relative to
+whole neurons (1.00 ⫾ 0.06 vs 45.10 ⫾ 7.86; Fig. 3 E, F ). To
+further verify the presence of miR-132 in axons and visualize its
+distribution, fluorescence in situ hybridization was performed
+using a specific LNA probe, which showed labeling in axons,
+especially in growth cones (Fig. 3G,H ).
+miR-132 as a regulator of axon extension
+We next looked at the temporal expression profile of miR-132 in
+DRG development, to see whether its expression might correlate
+with the period of DRG axon growth in vivo. miR-132 expression
+progressively increased from E12.5 to E17.5 (2.7-fold increase
+from 1.00 ⫾ 0.17 to 2.65 ⫾ 0.39; Fig. 4A), the developmental
+
+period when DRG axons rapidly increase their expansion into
+central and peripheral targets (Mirnics and Koerber, 1995a,b;
+Ozaki and Snider, 1997), and later decreased by P21, a period
+when DRG axons are no longer growing. As a negative control, no
+difference was detected in miR-125a-5p expression (Fig. 4B). We
+were next interested to functionally evaluate the role of miR-132
+in axon growth. Previous studies have shown that miR-132 promotes extension of cultured cortical neurites (Vo et al., 2005),
+which may develop into either dendrites or axons, as well as
+neurites of PC12 pheochromocytoma cells (Lin et al., 2012).
+Here, we first performed a loss-of-function analysis using antisense inhibitors in cultured primary DRG neurons. In addition to
+miR-132, this analysis included other axonally enriched miRNAs
+(data not shown), but only miR-132 inhibition affected axon
+extension (reduced from 202.68 ⫾ 7.02 to 159.98 ⫾ 8.57 ␮m; Fig.
+4C,D). This reduction was strikingly similar to the effect of Dicer
+gene deletion in the same assay (Fig. 4C,D; compare miR-132
+inhibitor versus Dicer ⫺ / ⫺; 159.98 ⫾ 8.57 vs 164.29 ⫾ 16.73 ␮m),
+indicating that miR-132 could account, at least in part, for the
+Dicer effect on axon extension, although other miRNAs may contribute also. Conversely, miR-132 gain-of-function using a
+miRNA mimic resulted in increased DRG axon extension (37%
+increase from 202.68 ⫾ 7.02 to 277.60 ⫾ 13.04 ␮m; Fig. 4C,D).
+We were not able to test rescue of the axon defect in the Dicer
+mutant neurons using the miR-132 mimic, because the Dicer
+mutant neurons were not able to survive electroporation. Nonetheless, together, these results indicate that miR-132 regulates
+axon extension in DRG neurons and suggest that it could account
+for a substantial proportion of the effect of Dicer deficiency.
+Rasa1 mRNA as a miR-132 target in DRG neurons
+To gain more insight into the mechanism of the effect of miR132, we combined computational and experimental results to
+identify relevant mRNA target(s) in the axon. We first used the
+TargetScan program, which predicts and ranks miRNA:target
+matches based on conservation, number, type, and position of
+3⬘UTR binding sites (Lewis et al., 2005). This analysis identified 314 targets predicted to be responsive to miR-132 and
+conserved among species (Fig. 5A). We compared this list to a
+previously published list of mRNAs repressed by the overexpression of miR-132 in HeLa cells [Grimson et al., 2007; data at NCBI
+GEO database (Edgar et al., 2002), accession number GSE8501].
+Additionally, we asked which of the putative target mRNAs are
+present in embryonic axons. Of the 1800 axonal mRNAs previously identified by laser-capture microdissection in embryonic
+axons (Zivraj et al., 2010), the mRNA for p120RasGAP (Rasa1), a
+protein that inactivates Ras by stimulating GTP hydrolysis, also
+met our criteria as a predicted miR-132 target conserved among
+species and reduced in cells overexpressing miR-132 (Fig. 5A). It
+is worth noting that although p250GAP and MeCP2 mRNAs have
+been studied as miR-132 targets in synapse biology (Wanet et al.,
+2012), these mRNAs show little or no detectable expression in
+developing axons (Zivraj et al., 2010; Gumy et al., 2011; data not
+shown). Using qRT-PCR, we confirmed the presence of Rasa1
+mRNA in isolated DRG axons (Fig. 5B). In contrast, Crk1 mRNA,
+a miR-132 target that was previously not detected in axons (Zivraj
+et al., 2010; Gumy et al., 2011; Cambronne et al., 2012), provided
+a negative control. Using qRT-PCR, we found that Rasa1 mRNA expression was increased in E12.5 DRGs from Dicerflox/floxWnt1⫹/Cre
+embryos compared with control littermates (Fig. 5C), a finding
+reciprocal with the decreased miR-132 expression in these mutants (Fig. 3C). Although it is likely that additional mRNAs might
+also mediate effects of miR-132, Rasa1 mRNA is particularly ap-
+
+72 • J. Neurosci., January 1, 2014 • 34(1):66 –78
+
+Hancock et al. • miR-132 in Axon Development
+
+Figure 3. miRNAs enriched in axons and reduced in Dicer mutant neurons. A, Expression levels of miRNA from Dicer⫹/⫹Wnt1⫹/Cre (⫹/⫹) or Dicerflox/floxWnt1⫹/Cre (⫺/⫺) DRGs at E12.5
+measured by qRT-PCR TLDA. Results are displayed as a heat map of miRNA expression in the Dicer mutant relative to control, on a logarithmic scale. The degree of miRNA depletion in the Dicer mutant
+is denoted by red intensity; miRNAs with no detectable (n.d.) expression in the mutant are indicated in light pink. B, Venn diagram of miRNAs reduced in Dicer (⫺/⫺) DRGs (red) or enriched in axons
+(green). C, Verification of Dicer knock-out TLDA results by qRT-PCR, showing miR-132 reduction by 80% in Dicer mutant DRGs (normalized to snoRNA202; n ⱖ 3 DRG per genotype). D, Verification
+of TLDA results by qRT-PCR, showing axonal enrichment of miR-132. Mature miR-132 levels (normalized here to U6, to facilitate comparison with previous studies that have used U6 for normalization
+of axonal distributions; see Materials and Methods for details) are displayed as enrichment relative to total neuron (⬎13-fold), where total neuron level equals 1 (n ⫽ 4). E, Quantitation of
+pre-miR-132 levels (normalized to miR-125a–5p) by qRT-PCR in isolated axon and total neuron populations. Axonal pre-miR-132 levels are displayed as enrichment relative to total neuron
+(⬎45-fold), where total neuron level equals 1 (n ⫽ 4). miR-125a–5p levels were used for normalization here, since our qRT-PCR TLDA results (using the average miRNA normalization method)
+revealed that miR-125a–5p was approximately equally expressed in the axon and total cell; see Materials and Methods for details. F, Quantitation of precursor and mature miR-132 levels (both
+normalized to miR-125a–5p) by qRT-PCR in isolated axons and total neuron populations. Levels are displayed relative to total neuron, where total neuron level equals 1 (n ⫽ 4). G, Images of in situ
+hybridization with LNA probes show the presence of miR-132 labeling in axons and growth cones (arrows), as well as the absence of miRNA signal with control LNA probes. Scale bar, 10 ␮m. H,
+Quantitation of miR-132 LNA AFI in axons. Bar graphs shown as means ⫾ SEM. *p ⬍ 0.05; **p ⬍ 0.01; ***p ⬍ 0.001 (t test).
+
+Hancock et al. • miR-132 in Axon Development
+
+J. Neurosci., January 1, 2014 • 34(1):66 –78 • 73
+
+cells and found that miR-132 inhibition
+resulted in increased expression of the luciferase reporter, whereas inhibition of
+miR-150, as a control, showed no effect
+(Fig. 5F ). Furthermore, overexpression of
+a miR-132 mimic decreased endogenous
+Rasa1 mRNA expression, confirming
+Rasa1 mRNA as a target of miR-132 in
+neurons (Fig. 5G). Since the miR-132
+mimic is expected to interact with all
+mRNA targets of miR-132, we next used
+the target protector approach, which involves an antisense oligonucleotide designed to block the miRNA binding site
+on a specific mRNA target of interest and
+not on other target mRNAs (Choi et al.,
+2007). This approach can provide a test of
+whether the mimic is acting on the target
+of interest directly. Accordingly, we designed a TP specific to the miR-132 site in
+the Rasa1 3⬘UTR (Rasa1-TP). As predicted, Rasa1-TP, compared with control
+TP, promoted rescue of the effect of miR132 mimic on Rasa1 mRNA level (Fig.
+5H ), whereas Rasa1-TP did not affect the
+level of Crk1 mRNA, another miR-132
+target (Cambronne et al., 2012), which
+was regulated by the mimic, providing a
+control for specificity (Fig. 5H ). Together,
+these results support a direct regulatory
+effect of miR-132 on Rasa1 mRNA.
+Rasa1 mRNA showed a progressive developmental decrease in DRGs from
+E13.5 to E17.5 (1.00 ⫾ 0.05 vs 0.59 ⫾ 0.04;
+Fig. 5I ), as miR-132 was increasing (Fig.
+4A), consistent with the loss- and gain-offunction experiments showing that miR132 represses Rasa1 mRNA in developing
+DRG neurons. We next tested whether altering Rasa1 expression had an effect on
+Figure 4. miR-132 regulates axon extension. A, Temporal profile of miR-132 levels (normalized to snoRNA61) by qRT-PCR in axon extension. Rasa1 levels were first
+DRGs at different ages. Results shown are fold-changes relative to levels at E12.5 (n ⱖ 3 pups per age). B, Temporal profile of knocked down by expression of Rasa1
+miR-125a–5p expression (normalized to snoRNA61) by qRT-PCR in E13.5, E15.5, and E17.5 DRGs. Results shown are fold-changes siRNA (Fig. 5J ). Similar to the effect of the
+relative to levels at E13.5 (n ⱖ 3 pups per age). C, E13.5 Dicer⫹/⫹Wnt1⫹/Cre DRG neurons were electroporated with miRNA mimics miR-132 mimic, Rasa1 knockdown inor inhibitors, together with a GFP-reporter, and cultured for 24 h. DRG neurons from Dicerflox/floxWnt1⫹/Cre (Dicer ⫺/⫺) were creased axon length (70.55 ⫾ 1.76 vs
+cultured in parallel and labeled for NF-M. Scale bar, 50 ␮m. D, Quantitation of axon length from C (n ⬎ 100 GFP ⫹ axons per 91.93 ⫾ 3.18 ␮m; Fig. 5K ), consistent
+condition and n ⫽ 24 for Dicer ⫺/⫺ axons). Bar graphs shown as means ⫾ SEM. *p ⬍ 0.05; **p ⬍ 0.01; ***p ⬍ 0.001; n.s., not
+with a model in which Rasa1 would medisignificant (t test for A, B; ANOVA with Tukey’s HSD post hoc test for D).
+ate effects of miR-132. In a complementary approach, Rasa1 was overexpressed
+pealing as a target not only because it fulfilled all the criteria here,
+using a Rasa1-Myc plasmid (Rasa1-⌬3⬘UTR), which lacks the
+but also because Rasa1 is known to mediate responsiveness to
+Rasa1 3⬘UTR and, therefore, enables us to test the functional
+axon guidance cues (Holland et al., 1997; Elowe et al., 2001; Dail
+effect of Rasa1 protein independent of its translational regulation
+et al., 2006; Endo and Yamashita, 2009).
+by miR-132. Overexpression of Rasa1-⌬3⬘UTR reduced axon
+To investigate the potential regulation of Rasa1 mRNA by
+length (69.92 ⫾ 2.66 vs 51.47 ⫾ 1.69 ␮m; Fig. 5K ), showing a
+negative effect of Rasa1 on axon extension. Moreover, in the
+miR-132 more directly, we inhibited miR-132 with a
+presence of Rasa1-⌬3⬘UTR, the miR-132 mimic no longer signifcell-penetrating antisense peptide-nucleic acid inhibitor (PNA
+icantly affected axon growth (Fig. 5K ). This latter result indicates
+inhibitor) for 2 d, and found that this increased expression of
+that when Rasa1 is constitutively expressed without regulation by
+endogenous Rasa1 protein and Rasa1 mRNA in DRG neurons
+its 3⬘UTR, it is epistatic to miR-132 in this assay, consistent with
+(Fig. 5 D, E), consistent with studies reporting Rasa1 mRNA as a
+target regulated by miR-132 in endothelial and HEK 293 cells
+a model in which Rasa1 acts downstream of miR-132, and sug(Anand et al., 2010; Cambronne et al., 2012). To further confirm
+gesting that Rasa1 may account for a substantial proportion of
+Rasa1 mRNA as a target of miR-132, we expressed a firefly luthe effect of miR-132 on axon extension. To further test a role for
+ciferase reporter with the 3⬘UTR of Rasa1 mRNA in Neuro2A
+miR-132 binding to Rasa1 mRNA in axon extension, we used the
+
+74 • J. Neurosci., January 1, 2014 • 34(1):66 –78
+
+Hancock et al. • miR-132 in Axon Development
+
+Figure 5. miR-132 targets Rasa1 mRNA in neurons. A, Venn diagram of mRNAs predicted to be targets of miR-132 by the TargetScan algorithm (green); mRNAs downregulated in cells expressing
+miR-132 mimic (Grimson et al., 2007; NCBI GEO database accession number GSE8501; purple); and mRNAs expressed in embryonic axons (Zivraj et al., 2010; blue). B, Quantitation of Rasa1 and Crk1
+mRNA levels (normalized to Gapdh) in isolated DRG axons and total neurons by qRT-PCR. C, Quantitation of Rasa1 mRNA expression (normalized to Gapdh) in DRG from E12.5 Dicer⫹/⫹Wnt1⫹/Cre
+(⫹/⫹) or Dicerflox/floxWnt1⫹/Cre (⫺/⫺) embryos by qRT-PCR. D, Western blot of endogenous Rasa1 protein levels in DRG neurons treated with control, miR-132, or miR-29a PNA inhibitors for 2 d.
+E, Quantitation of Rasa1 mRNA expression (normalized to Gapdh) by qRT-PCR in DRG neurons treated with control or miR-132 PNA inhibitors for 2 d (n ⫽ 3). F, Neuro2A cells expressing control,
+miR-132, or miR-150 inhibitors, together with a reporter with the 3⬘UTR of Rasa1 mRNA downstream of a firefly luciferase region. Shown is firefly luciferase activity normalized to Renilla luciferase
+control (n ⫽ 3). G, Quantitation of Rasa1 mRNA levels (normalized to Gapdh) by qRT-PCR in Neuro2A cells transfected with control or miR-132 mimics for 2 d (n ⫽ 4). H, miR-132 mimic was
+cotransfected with a TP designed to block the predicted miR-132 binding site within Rasa1 3⬘UTR (Rasa1-TP) or scrambled control TP (con-TP) in Neuro2A cells, and Rasa1 or Crk1 mRNA levels
+(normalized to Gapdh) were measured by qRT-PCR. Rasa1-TP, compared with control TP, promoted rescue of the effect of miR-132 mimic on Rasa1 mRNA, whereas Rasa1-TP did not affect the level
+of Crk1 mRNA, another miR-132 target. I, Quantitation of Rasa1 mRNA levels (normalized to Gapdh) by qRT-PCR in E13.5, E15.5, and E17.5 DRGs. Results shown are fold-changes relative to levels at
+E13.5 (n ⱖ 3 pups per age). J, Validation of Rasa1 knockdown by Rasa1 siRNA in Neuro2A cells after 2 DIV by Western blot analysis. Rasa1 band intensities were normalized to Erk1/2 bands (n ⫽
+3). K, Quantitation of GFP ⫹ axon length in Neuro2A cells cotransfected with a GFP-reporter together with the following: miR-132 mimic, control mimic, Rasa1 siRNA, control scrambled siRNA, or
+Rasa1 plasmid lacking the Rasa1 3⬘UTR (Rasa1-⌬3⬘UTR; n ⬎ 300 axons per condition). L, Quantitation of GFP ⫹ axon length in Neuro2A cells cotransfected with a GFP-reporter together with
+miR-132 mimic or control mimic, and either Rasa1-TP or con-TP (n ⬎ 100 axons per condition). Bar graphs shown as means ⫾ SEM. *p ⬍ 0.05; **p ⬍ 0.01; ***p ⬍ 0.001; n.s., not significant (t
+test for B, C, E–J, L; ANOVA with Tukey’s HSD post hoc test for K ).
+
+target site protector approach. Expression of miR-132 mimic in
+the presence of a control TP resulted in increased axon extension,
+whereas the Rasa1-TP prevented the miR-132 mimic-induced
+increase in axon extension (Fig. 5L). Together these data support
+a model in which the function of miR-132 in axon extension is
+mediated, at least in part, through its regulation of Rasa1
+expression.
+
+Local activity of miR-132 in the axon
+The presence of both miR-132 and Rasa1 mRNA in axons suggested a model in which miR-132 might be capable of regulating
+translation locally within the axon. An advantage of the axon as
+an experimental system to study subcellularly localized events is
+that axons can survive being severed from the cell body, providing a direct test for processes occurring within the axon. Here, we
+
+Hancock et al. • miR-132 in Axon Development
+
+J. Neurosci., January 1, 2014 • 34(1):66 –78 • 75
+
+Figure 6. miR-132 locally regulates Rasa1 mRNA in axons. A, Image of cultured DRG axons and growth cones (inset) immunolabeled for Rasa1 (green) and F-actin (red). Scale bars: 10 ␮m; inset,
+5 ␮m. B, Verification of miR-132 knockdown by miR-132 PNA inhibitor within 3.5 h in axons from DRG explants plated in a multicompartment microfluidic chamber (see Fig. 2B). Axons extended
+through microgrooves to the axon compartment, and medium was removed from the total neuron compartment and replaced with sterile H2O for 5 min. Hydrostatic pressure prevented backflow
+into the axon compartment, and H2O was removed (along with material in the total neuron compartment). PNA inhibitors were applied to the axon compartment for 3.5 h, and total RNA was
+extracted. miR-132 levels (normalized to Gapdh) were measured by qRT-PCR (n ⫽ 6). C, Representative image of DRG explant labeled for NF-M. Axons were severed from cell bodies by a
+micro-scalpel. Scale bar, 100 ␮m. D, Images of intact and severed axons from DRG explants treated with control or miR-132 PNA inhibitors for 3.5 h and labeled for Rasa1 and ␤3-tubulin (Tuj1). In
+parallel, severed axons were treated with cycloheximide (CHX) for 20 min before treatment with the PNA inhibitors. Line scans represent Rasa1 fluorescence intensity profiles in representative axons.
+Scale bar, 40 ␮m. E, Quantitation of Rasa1 AFI in axons (normalized to Tuj1; n ⬎ 60 intact axons, and n ⬎ 120 severed axons per condition). F, Quantitation of Tuj1 AFI in severed axons treated with
+control or miR-132 PNA inhibitors (n ⬎ 300 axons). G, Axons were isolated as described above in B, and treated with control or miR-132 PNA inhibitors for 3.5 h. Rasa1 mRNA levels (normalized to
+␤-actin) were measured by qRT-PCR (n ⫽ 5). Bar graphs shown as means ⫾ SEM. *p ⬍ 0.05; **p ⬍ 0.01; ***p ⬍ 0.001; n.s., not significant (t test for B, F, G; ANOVA with Tukey’s HSD post hoc
+test for E).
+
+compared the effect of miR-132 inhibition in intact and severed
+DRG axons, using the expression of Rasa1 as a functional readout. Preliminary experiments showed that Rasa1 protein is expressed in DRG axons, including the growth cone (Fig. 6A).
+Knockdown of miR-132 was accomplished by using a miR-132
+
+PNA inhibitor, which we confirmed by qRT-PCR to reduce miR132 expression by 55% within 3.5 h in axons (Fig. 6B). In intact
+DRG axons, miR-132 inhibition resulted in a 27% increase in
+Rasa1 expression within 3.5 h (1.00 ⫾ 0.07 vs 1.27 ⫾ 0.07; Fig.
+6 D, E). To rule out the possibility that increased axonal Rasa1
+
+76 • J. Neurosci., January 1, 2014 • 34(1):66 –78
+
+protein was due to anterograde transport from cell bodies, axons
+were severed before treatment with the miR-132 PNA inhibitor
+(Fig. 6C). In severed axons, inhibition of miR-132 resulted in an
+18% increase in Rasa1 within 3.5 h (1.00 ⫾ 0.02 vs 1.18 ⫾ 0.02;
+Fig. 6 D, E). It may be worth noting that these results most likely
+underrepresent the effect of local miR-132 activity in the axon,
+since knockdown of miR-132 with the PNA inhibitor was not
+complete within 3.5 h (Fig. 6B), and since Rasa1 turnover may
+not reach steady state within 3.5 h; this may also explain why the
+effect is quantitatively smaller than that seen using the PNA inhibitor in DRG cultures over a longer period of 2 d (Fig. 5D). The
+increase in Rasa1 protein level was confirmed to be dependent on
+local protein synthesis, since it was prevented by exposure to the
+translation inhibitor cycloheximide (Fig. 6 D, E). The effect on
+Rasa1 protein was specific, as the level of ␤3-tubulin was not
+affected (Fig. 6F ). In contrast to the increase in Rasa1 protein, we
+did not detect an increase in Rasa1 mRNA in response to miR132 inhibition (Fig. 6G), suggesting that miR-132 regulates Rasa1
+synthesis primarily through an effect on translational efficiency
+in DRG axons. Together, the results show that miR-132 targets
+Rasa1 mRNA locally within the axon.
+
+Discussion
+Mechanisms of axon development are fundamental to establishing a functional neural circuitry. Although many studies have
+shown that developing axons translate mRNAs, and that this can
+play roles in axon growth and guidance (Hengst and Jaffrey, 2007;
+Jung et al., 2012), the mechanisms underlying RNA-based regulation within the axon are not well understood. miRNAs are well
+established as key translational regulators in other systems, although their functions and mechanisms of action have still been
+little explored in developing axons. Here we show functions of
+miRNAs in developing DRG axons, identify a specific set of miRNAs in the developing axon, and show that miR-132 is a positive
+regulator of axon extension that is selectively enriched in the axon
+and can act there locally.
+Initially, to understand the role of miRNAs during DRG sensory axon development, we generated a Dicer conditional knockout mouse model and observed peripheral sensory axon defects
+as early as E12.5, a stage when DRG axons are initially extending
+(Mirnics and Koerber, 1995a,b; Ozaki and Snider, 1997). These
+results showing a requirement of Dicer for normal DRG axon
+pathfinding appear broadly consistent with reports that Dicer
+depletion also affects development of hindbrain longitudinal
+tracts, and olfactory and retinal axons (Giraldez et al., 2005; Berdnik et al., 2008; Choi et al., 2008; Pinter and Hindges, 2010). At
+this early stage of development, we did not observe a reduction in
+DRG size or neuron number, although neuron survival was decreased at a later stage, in agreement with a previous report that
+miRNA function is required for survival at later stages but not for
+proliferation or differentiation of DRG neuron precursors (Zehir
+et al., 2010). It is worth noting that although Dicer is also required
+for processing of dsRNA transcripts into siRNA, Dicer phenotypes identified in previous studies have been attributable to
+miRNAs (Fineberg et al., 2009); thus, although potential effects
+on other small RNAs cannot be excluded, our Dicer results are
+most likely explained by a role for miRNAs in determining the
+development of DRG axons.
+To perform a large-scale survey of miRNAs in developing
+axons, we used qRT-PCR TLDAs for an unbiased screen. Our list
+of miRNAs in developing DRG axons showed little overlap with a
+set of miRNAs detected in the axons of postnatal rat superior
+cervical ganglion neurons (Natera-Naranjo et al., 2010), or a re-
+
+Hancock et al. • miR-132 in Axon Development
+
+cently published list of miRNAs enriched in developing cortical
+axons (Sasaki et al., 2013), perhaps due to the different neuron
+type (DRG vs superior cervical ganglion or cortical neurons),
+methodologies used, or stage (embryonic or postnatal). Indeed,
+since distinct repertoires of axonal mRNAs are found in axons
+from different cell types or developmental stages (Zivraj et al.,
+2010; Gumy et al., 2011), it seems plausible that the repertoire of
+miRNAs would also differ. From our list of DRG axon miRNAs,
+we selected miR-132 to study further since it was abundant in the
+developing axon and, moreover, was strongly enriched in the
+axon relative to the whole neuron. Whereas our study shows
+preferential localization of miR-132 in the axon versus the soma
+of DRG neurons from midgestation embryos, other studies have
+found that miR-132 is present in the somatodendritic compartment of late embryonic or postnatal neurons, or in synaptic fractions of adult brain (Kye et al., 2007; Lugli et al., 2008; Wayman et
+al., 2008). It is important to emphasize that these studies appear
+entirely consistent with our results, especially considering that
+the subcellular distribution could depend on the stage of neuronal maturation, or it might differ between neuron types. In this
+context, it is worth noting that the DRG neurons studied here
+lack dendrites, as their input instead comes from the peripheral
+branch of the axon. It is interesting that in addition to the mature
+form, the precursor form, pre-miR-132, was also enriched in the
+axon, and Dicer was present in DRG axons, suggesting that local
+biogenesis of mature miR-132 might occur in the axon. In this
+regard, our findings appear consistent with a previous report that
+pre-miRNAs and Dicer are present in synaptic fractions (Lugli et
+al., 2008) and suggest that local biogenesis may occur on a subcellular level in axons or dendrites. Regarding the functional output of miR-132, it is of interest to compare the enhancement of
+synaptodendritic growth or function seen in several studies (for
+review, see Vo et al., 2010; Wanet et al., 2012) with the promotion
+of axonal extension that we observed here, suggesting a general
+model in which miR-132 functions to promote growth of peripheral cellular structures even though the specific downstream
+mRNA targets may differ.
+Turning to the question of what downstream targets mediate
+the effect of miR-132 in the axon, although the mRNAs for the
+Rho-GTPase activator p250GAP and the transcription factor
+MeCP2 have been extensively characterized as miR-132 targets in
+dendrites and in synapse biology (Vo et al., 2010; Wanet et al.,
+2012), these mRNAs showed little or no detectable expression in
+developing axons (Zivraj et al., 2010; Gumy et al., 2011; data not
+shown). We provide several complementary lines of evidence
+that the mRNA for the Ras-GTPase activator Rasa1 is a functionally significant target of miR-132 in neurons. These results appear
+consistent with studies showing regulation of Rasa1 mRNA by
+miR-132 in epithelial and HEK 293 cells (Anand et al., 2010;
+Cambronne et al., 2012). Rasa1 is known to be involved in cytoskeletal regulation (Holland et al., 1997; Elowe et al., 2001; Dail et
+al., 2006; Endo and Yamashita, 2009). Moreover, Rasa1 mRNA is
+expressed highly in DRGs (Allen Institute for Brain Science,
+http://mousespinal.brain-map.org), although a function in sensory axons was not previously described. Although it is likely that
+miR-132 may act via additional mRNA targets, our data indicate
+that Rasa1 mRNA is a downstream target of miR-132 that regulates axon extension in developing DRG neurons.
+Regarding regulation of miR-132 activity, we considered two
+general possibilities: (1) miR-132 activity might potentially be
+regulated by axon guidance cues, and (2) temporal regulation of
+miR-132 might correlate with developmental stage. In searching
+for signaling cues that might be upstream of miR-132, we were
+
+Hancock et al. • miR-132 in Axon Development
+
+not able to detect changes in miR-132 activity upon adding the
+guidance cues ephrin-B1, Sema3A, or NGF (data not shown),
+although we cannot exclude possible regulation by other cues or
+in different conditions. On the other hand, our data showing that
+miR-132 expression showed a progressive temporal increase during the period when DRG axons undergo rapid elaboration (Mirnics and Koerber, 1995a,b; Ozaki and Snider, 1997) lead to a
+model in which miR-132 expression may be regulated intrinsically to provide a developmental timer. Such a role seems broadly
+consistent with other studies identifying functions of miRNAs as
+timers, including the initial identification of miRNAs as heterochronic genes in Caenorhabditis elegans development (Ambros,
+2011), as well as recent studies identifying miRNA timers of retinal neurogenesis (La Torre et al., 2013), miR-124 as an intrinsic
+timer in Xenopus retinal axons (Baudet et al., 2011), and let-7 as a
+timer that regulates axon regenerative capacity in C. elegans (Zou
+et al., 2013).
+miRNAs can regulate mRNA targets by one of two general
+mechanisms: translational repression or mRNA degradation, and
+typically, miRNAs act by both these mechanisms (Baek et al.,
+2008; Bartel, 2009). Although we found that miR-132 inhibition
+increased Rasa1 protein in the whole cell and in axons, and increased Rasa1 mRNA levels in the whole cell, we did not detect a
+local effect of miR-132 inhibition on Rasa1 mRNA stability in
+axons, suggesting that miR-132 may regulate protein synthesis
+primarily through an effect on translational efficiency rather than
+mRNA degradation in DRG axons. Interestingly, these results
+provide experimental support for a model in which it was hypothesized that translational repression might turn out to be preferred over mRNA degradation in the axon (Vo et al., 2010). Such
+a mechanism could be favorable since it may otherwise be inefficient or counterproductive to degrade localized mRNAs, which
+have been transported over long distances into the axon.
+Regulated mRNA translation has increasingly emerged in recent years as an important mechanism in biology and disease.
+Here we set out to explore potential functions of miRNAs in
+regulating translation in developing DRG axons. Our results
+show that miRNAs are essential for proper DRG axon development in vivo, and identify a set of miRNAs preferentially localized
+to the developing axon. Of these, miR-132 was notable for showing both high abundance and high enrichment in the axon, and
+further studies identified it as a regulator of axon extension, acting through regulation of its target Rasa1 mRNA, in a mechanism
+that operates locally within the axon. In previous studies, miR132 has been notable for its dysregulation in major neurologic
+diseases, including autism spectrum disorders, schizophrenia, bipolar and depressive disorders, drug addiction, and Huntington’s and Alzheimer’s diseases (Im and Kenny, 2012; McNeill and
+Van Vactor, 2012; Mellios and Sur, 2012; Wanet et al., 2012). The
+identification of miR-132 here as a regulator in the axon opens
+the possibility of further studies into its axonal roles both in the
+establishment of normal neuronal circuitry and in disease.
+
+References
+Ambros V (2011) MicroRNAs and developmental timing. Curr Opin Genet
+Dev 21:511–517. CrossRef Medline
+Anand S, Majeti BK, Acevedo LM, Murphy EA, Mukthavaram R, Scheppke L,
+Huang M, Shields DJ, Lindquist JN, Lapinski PE, King PD, Weis SM,
+Cheresh DA (2010) MicroRNA-132-mediated loss of p120RasGAP activates the endothelium to facilitate pathological angiogenesis. Nat Med
+16:909 –914. CrossRef Medline
+Aschrafi A, Schwechter AD, Mameza MG, Natera-Naranjo O, Gioio AE, Kaplan BB (2008) MicroRNA-338 regulates local cytochrome c oxidase IV
+
+J. Neurosci., January 1, 2014 • 34(1):66 –78 • 77
+mRNA levels and oxidative phosphorylation in the axons of sympathetic
+neurons. J Neurosci 28:12581–12590. CrossRef Medline
+Baek D, Villén J, Shin C, Camargo FD, Gygi SP, Bartel DP (2008) The impact of microRNAs on protein output. Nature 455:64 –71. CrossRef
+Medline
+Bartel DP (2009) MicroRNAs: target recognition and regulatory functions.
+Cell 136:215–233. CrossRef Medline
+Baudet ML, Zivraj KH, Abreu-Goodger C, Muldal A, Armisen J, Blenkiron C,
+Goldstein LD, Miska EA, Holt CE (2011) miR-124 acts through CoREST to control onset of Sema3A sensitivity in navigating retinal growth
+cones. Nat Neurosci 15:29 –38. CrossRef Medline
+Berdnik D, Fan AP, Potter CJ, Luo L (2008) MicroRNA processing pathway
+regulates olfactory neuron morphogenesis. Curr Biol 18:1754 –1759.
+CrossRef Medline
+Cambronne XA, Shen R, Auer PL, Goodman RH (2012) Capturing microRNA targets using an RNA-induced silencing complex (RISC)-trap
+approach. Proc Natl Acad Sci U S A 109:20473–20478. CrossRef Medline
+Chen Y, Gelfond JA, McManus LM, Shireman PK (2009) Reproducibility of
+quantitative RT-PCR array in miRNA expression profiling and comparison with microarray analysis. BMC Genomics 10:407. CrossRef Medline
+Choi PS, Zakhary L, Choi WY, Caron S, Alvarez-Saavedra E, Miska EA, McManus M, Harfe B, Giraldez AJ, Horvitz HR, Schier AF, Dulac C (2008)
+Members of the miRNA-200 family regulate olfactory neurogenesis. Neuron 57:41–55. CrossRef Medline
+Choi WY, Giraldez AJ, Schier AF (2007) Target protectors reveal dampening and balancing of Nodal agonist and antagonist by miR-430. Science
+318:271–274. CrossRef Medline
+Dail M, Richter M, Godement P, Pasquale EB (2006) Eph receptors inactivate R-Ras through different mechanisms to achieve cell repulsion. J Cell
+Sci 119:1244 –1254. CrossRef Medline
+Dajas-Bailador F, Bonev B, Garcez P, Stanley P, Guillemot F, Papalopulu N
+(2012) microRNA-9 regulates axon extension and branching by targeting Map1b in mouse cortical neurons. Nat Neurosci 15:697– 699.
+CrossRef
+Danielian PS, Muccino D, Rowitch DH, Michael SK, McMahon AP (1998)
+Modification of gene activity in mouse embryos in utero by a tamoxifeninducible form of Cre recombinase. Curr Biol 8:1323–1326. CrossRef
+Medline
+Davis TH, Cuellar TL, Koch SM, Barker AJ, Harfe BD, McManus MT, Ullian
+EM (2008) Conditional loss of Dicer disrupts cellular and tissue morphogenesis in the cortex and hippocampus. J Neurosci 28:4322– 4330.
+CrossRef Medline
+Echelard Y, Vassileva G, McMahon AP (1994) Cis-acting regulatory sequences governing Wnt-1 expression in the developing mouse CNS. Development 120:2213–2224. Medline
+Edgar R, Domrachev M, Lash AE (2002) Gene Expression Omnibus: NCBI
+gene expression and hybridization array data repository. Nucleic Acids
+Res 30:207–210. CrossRef Medline
+Elowe S, Holland SJ, Kulkarni S, Pawson T (2001) Downregulation of the
+Ras-mitogen-activated protein kinase pathway by the EphB2 receptor
+tyrosine kinase is required for ephrin-induced neurite retraction. Mol
+Cell Biol 21:7429 –7441. CrossRef Medline
+Endo M, Yamashita T (2009) Inactivation of Ras by p120GAP via focal adhesion kinase dephosphorylation mediates RGMa-induced growth cone
+collapse. J Neurosci 29:6649 – 6662. CrossRef Medline
+Fineberg SK, Kosik KS, Davidson BL (2009) MicroRNAs potentiate neural
+development. Neuron 64:303–309. CrossRef Medline
+Gentleman RC, Carey VJ, Bates DM, Bolstad B, Dettling M, Dudoit S, Ellis B,
+Gautier L, Ge Y, Gentry J, Hornik K, Hothorn T, Huber W, Iacus S,
+Irizarry R, Leisch F, Li C, Maechler M, Rossini AJ, Sawitzki G, et al.
+(2004) Bioconductor: open software development for computational biology and bioinformatics. Genome Biol 5:R80. CrossRef Medline
+Giraldez AJ, Cinalli RM, Glasner ME, Enright AJ, Thomson JM, Baskerville S,
+Hammond SM, Bartel DP, Schier AF (2005) MicroRNAs regulate brain
+morphogenesis in zebrafish. Science 308:833– 838. CrossRef Medline
+Grimson A, Farh KK, Johnston WK, Garrett-Engele P, Lim LP, Bartel DP
+(2007) MicroRNA targeting specificity in mammals: determinants beyond seed pairing. Mol Cell 27:91–105. CrossRef Medline
+Gumy LF, Yeo GS, Tung YC, Zivraj KH, Willis D, Coppola G, Lam BY, Twiss
+JL, Holt CE, Fawcett JW (2011) Transcriptome analysis of embryonic
+and adult sensory axons reveals changes in mRNA repertoire localization.
+RNA 17:85–98. CrossRef Medline
+
+78 • J. Neurosci., January 1, 2014 • 34(1):66 –78
+Hancock ML, Nowakowski DW, Role LW, Talmage DA, Flanagan JG (2011)
+Type III neuregulin 1 regulates pathfinding of sensory axons in the developing spinal cord and periphery. Development 138:4887– 4898. CrossRef
+Medline
+Harfe BD, McManus MT, Mansfield JH, Hornstein E, Tabin CJ (2005) The
+RNaseIII enzyme Dicer is required for morphogenesis but not patterning
+of the vertebrate limb. Proc Natl Acad Sci U S A 102:10898 –10903.
+CrossRef Medline
+Hengst U, Jaffrey SR (2007) Function and translational regulation of mRNA
+in developing axons. Semin Cell Dev Biol 18:209 –215. CrossRef Medline
+Holland SJ, Gale NW, Gish GD, Roth RA, Songyang Z, Cantley LC, Henkemeyer M, Yancopoulos GD, Pawson T (1997) Juxtamembrane tyrosine
+residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells. EMBO J 16:3877–3888. CrossRef
+Medline
+Im HI, Kenny PJ (2012) MicroRNAs in neuronal function and dysfunction.
+Trends Neurosci 35:325–334. CrossRef Medline
+Jung H, Yoon BC, Holt CE (2012) Axonal mRNA localization and local
+protein synthesis in nervous system assembly, maintenance and repair.
+Nat Rev Neurosci 13:308 –324. Medline
+Kye MJ, Liu T, Levy SF, Xu NL, Groves BB, Bonneau R, Lao K, Kosik KS
+(2007) Somatodendritic microRNAs identified by laser capture and multiplex RT-PCR. RNA 13:1224 –1234. CrossRef Medline
+La Torre A, Georgi S, Reh TA (2013) Conserved microRNA pathway regulates developmental timing of retinal neurogenesis. Proc Natl Acad Sci
+U S A 110:E2362–2370. CrossRef Medline
+Lewis BP, Burge CB, Bartel DP (2005) Conserved seed pairing, often flanked
+by adenosines, indicates that thousands of human genes are microRNA
+targets. Cell 120:15–20. CrossRef Medline
+Lin LF, Chiu SP, Wu MJ, Chen PY, Yen JH (2012) Luteolin induces
+microRNA-132 expression and modulates neurite outgrowth in PC12
+cells. PLoS One 7:e43304. CrossRef Medline
+Lu J, Tsourkas A (2011) Quantification of miRNA abundance in single cells
+using locked nucleic acid-FISH and enzyme-labeled fluorescence. Methods Mol Biol 680:77– 88. CrossRef Medline
+Lugli G, Torvik VI, Larson J, Smalheiser NR (2008) Expression of microRNAs and their precursors in synaptic fractions of adult mouse forebrain.
+J Neurochem 106:650 – 661. CrossRef Medline
+McNeill E, Van Vactor D (2012) MicroRNAs shape the neuronal landscape.
+Neuron 75:363–379. CrossRef Medline
+Mellios N, Sur M (2012) The emerging role of microRNAs in schizophrenia
+and autism spectrum disorders. Front Psychiatry 3:39. Medline
+Mirnics K, Koerber HR (1995a) Prenatal development of rat primary afferent fibers: I. Peripheral projections. J Comp Neurol 355:589 – 600.
+CrossRef Medline
+Mirnics K, Koerber HR (1995b) Prenatal development of rat primary afferent fibers: II. Central projections. J Comp Neurol 355:601– 614. CrossRef
+Medline
+Mitchell PS, Parkin RK, Kroh EM, Fritz BR, Wyman SK, PogosovaAgadjanyan EL, Peterson A, Noteboom J, O’Briant KC, Allen A, Lin DW,
+Urban N, Drescher CW, Knudsen BS, Stirewalt DL, Gentleman R, Vessella RL, Nelson PS, Martin DB, Tewari M (2008) Circulating microRNAs as stable blood-based markers for cancer detection. Proc Natl Acad
+Sci U S A 105:10513–10518. CrossRef Medline
+Natera-Naranjo O, Aschrafi A, Gioio AE, Kaplan BB (2010) Identification
+and quantitative analyses of microRNAs located in the distal axons of
+sympathetic neurons. RNA 16:1516 –1529. CrossRef Medline
+Ozaki S, Snider WD (1997) Initial trajectories of sensory axons toward laminar targets in the developing mouse spinal cord. J Comp Neurol 380:215–
+229. CrossRef Medline
+
+Hancock et al. • miR-132 in Axon Development
+Pattyn F, Speleman F, De Paepe A, Vandesompele J (2003) RTPrimerDB:
+the real-time PCR primer and probe database. Nucleic Acids Res 31:122–
+123. CrossRef Medline
+Pinter R, Hindges R (2010) Perturbations of microRNA function in mouse
+dicer mutants produce retinal defects and lead to aberrant axon pathfinding at the optic chiasm. PLoS One 5:e10021. CrossRef Medline
+Sanes JR, Rubenstein JL, Nicolas JF (1986) Use of a recombinant retrovirus
+to study post-implantation cell lineage in mouse embryos. EMBO J
+5:3133–3142. Medline
+Sasaki Y, Gross C, Xing L, Goshima Y, Bassell GJ (2013) Identification of
+axon-enriched microRNAs localized in growth cones of cortical neurons.
+Dev Neurobiol. Advance online publication. Retrieved August 28, 2013.
+doi:10.1002/dneu.22113. CrossRef
+Schmittgen TD, Livak KJ (2008) Analyzing real-time PCR data by the comparative C(T) method. Nat Protoc 3:1101–1108. CrossRef Medline
+Siegel G, Saba R, Schratt G (2011) microRNAs in neurons: manifold regulatory roles at the synapse. Curr Opin Genet Dev 21:491– 497. CrossRef
+Medline
+Soriano P (1999) Generalized lacZ expression with the ROSA26 Cre reporter strain. Nat Genet 21:70 –71. CrossRef Medline
+Vo N, Klein ME, Varlamova O, Keller DM, Yamamoto T, Goodman RH,
+Impey S (2005) A cAMP-response element binding protein-induced
+microRNA regulates neuronal morphogenesis. Proc Natl Acad Sci U S A
+102:16426 –16431. CrossRef Medline
+Vo NK, Cambronne XA, Goodman RH (2010) MicroRNA pathways in
+neural development and plasticity. Curr Opin Neurobiol 20:457– 465.
+CrossRef Medline
+Wanet A, Tacheny A, Arnould T, Renard P (2012) miR-212/132 expression
+and functions: within and beyond the neuronal compartment. Nucleic
+Acids Res 40:4742– 4753. CrossRef Medline
+Wang X, Seed B (2003) A PCR primer bank for quantitative gene expression
+analysis. Nucleic Acids Res 31:e154. CrossRef Medline
+Wayman GA, Davare M, Ando H, Fortin D, Varlamova O, Cheng HY, Marks
+D, Obrietan K, Soderling TR, Goodman RH, Impey S (2008) An
+activity-regulated microRNA controls dendritic plasticity by downregulating p250GAP. Proc Natl Acad Sci U S A 105:9093–9098. CrossRef
+Medline
+Wickramasinghe SR, Alvania RS, Ramanan N, Wood JN, Mandai K, Ginty
+DD (2008) Serum response factor mediates NGF-dependent target innervation by embryonic DRG sensory neurons. Neuron 58:532–545.
+CrossRef Medline
+Willis DE, Twiss JL (2011) Profiling axonal mRNA transport. Methods Mol
+Biol 714:335–352. CrossRef Medline
+Yoo S, van Niekerk EA, Merianda TT, Twiss JL (2010) Dynamics of axonal
+mRNA transport and implications for peripheral nerve regeneration. Exp
+Neurol 223:19 –27. CrossRef Medline
+Zehir A, Hua LL, Maska EL, Morikawa Y, Cserjesi P (2010) Dicer is required
+for survival of differentiating neural crest cells. Dev Biol 340:459 – 467.
+CrossRef Medline
+Zhang Y, Ueno Y, Liu XS, Buller B, Wang X, Chopp M, Zhang ZG (2013)
+The microRNA-17-92 cluster enhances axonal outgrowth in embryonic
+cortical neurons. J Neurosci 33:6885– 6894. CrossRef Medline
+Zivraj KH, Tung YC, Piper M, Gumy L, Fawcett JW, Yeo GS, Holt CE (2010)
+Subcellular profiling reveals distinct and developmentally regulated repertoire of growth cone mRNAs. J Neurosci 30:15464 –15478. CrossRef
+Medline
+Zou Y, Chiu H, Zinovyeva A, Ambros V, Chuang CF, Chang C (2013) Developmental decline in neuronal regeneration by the progressive change
+of two intrinsic timers. Science 340:372–376. CrossRef Medline
+
+

@@ -1,0 +1,1127 @@
+REVIEW ARTICLE
+published: 20 November 2013
+doi: 10.3389/fncel.2013.00220
+
+CELLULAR NEUROSCIENCE
+
+miR-9: a versatile regulator of neurogenesis
+Marion Coolen*, Shauna Katz and Laure Bally-Cuif*
+Zebrafish Neurogenetics Team, Laboratory of Neurobiology and Development, Institute of Neurobiology Alfred Fessard, CNRS, Gif-sur-Yvette, France
+
+Edited by:
+Alessandro Cellerino, Scuola Normale
+Superiore, Italy
+Reviewed by:
+Alessandro Cellerino, Scuola Normale
+Superiore, Italy
+Federico Cremisi, Scuola Normale
+Superiore di Pisa, Italy
+*Correspondence:
+Marion Coolen and Laure Bally-Cuif,
+Zebrafish Neurogenetics Team,
+Laboratory of Neurobiology and
+Development, Institute of
+Neurobiology Alfred Fessard, CNRS,
+1 Avenue de la Terrasse, 91198
+Gif-sur-Yvette, France
+e-mail: coolen@inaf.cnrs-gif.fr;
+bally-cuif@inaf.cnrs-gif.fr
+
+Soon after its discovery, microRNA-9 (miR-9) attracted the attention of neurobiologists,
+since it is one of the most highly expressed microRNAs in the developing and adult
+vertebrate brain. Functional analyses in different vertebrate species have revealed a
+prominent role of this microRNA in balancing proliferation in embryonic neural progenitor
+populations. Key transcriptional regulators such as FoxG1, Hes1 or Tlx, were identified as
+direct targets of miR-9, placing it at the core of the gene network controlling the progenitor
+state. Recent data also suggest that this function could extend to adult neural stem cells.
+Other studies point to a role of miR-9 in differentiated neurons. Moreover miR-9 has
+been implicated in human brain pathologies, either displaying a protective role, such as
+in Progeria, or participating in disease progression in brain cancers. Altogether functional
+studies highlight a prominent feature of this highly conserved microRNA, its functional
+versatility, both along its evolutionary history and across cellular contexts.
+Keywords: microRNA-9, neurogenesis, embryonic progenitors, neural stem cells, proliferation
+
+microRNAs are small regulatory RNAs that modulate, generally
+negatively, the translation and/or stability of mRNA targets
+through complementary binding to their 3 untranslated region
+(3 UTR; Bartel, 2009). microRNA genes are transcribed as
+primary transcripts (pri-miR), which are cleaved in the nucleus
+to generate precursor transcripts (pre-miR) (Yang and Lai, 2011).
+One characteristic of pre-miR is that they form a secondary
+hairpin structure. Pre-miR are exported to the cytoplasm where
+they are further cleaved by the enzyme Dicer. This cleavage gives
+rise to a duplex of short RNA strands (the 5 and 3 strands),
+one of which is then loaded into the RNA-induced silencing
+complex (RISC). The discovery of microRNAs unraveled a new
+layer of complexity of gene regulatory networks. Computational
+and experimental approaches have demonstrated that a single
+microRNA can regulate the expression of hundreds of mRNA
+targets. However, despite their large spectrum of action, loss
+of microRNA function often results in paradoxically subtle
+phenotypes, some of which are only apparent in a sensitized
+genomic or environmental context (Li et al., 2009). In the light of
+these findings, microRNAs are hypothesized to confer robustness
+to developmental programs, and to facilitate transitions between
+different cellular states (Takacs and Giraldez, 2010; Ebert and
+Sharp, 2012). Therefore, studying their implication during neurogenesis, which implies the transition of a neural progenitor to
+a differentiated neuronal cell, might shed new light on regulation
+of this process. microRNA-9 (miR-9) captured the attention of
+neurobiologists because of its high sequence conservation in
+bilaterian animals, and its high and specific expression in the
+central nervous system (CNS) of vertebrates. As its function and
+spectrum of action begins to be unraveled, this microRNA proves
+to be highly versatile, exerting various and sometimes opposite
+activities depending on the species and cellular context.
+
+Frontiers in Cellular Neuroscience
+
+EVOLUTIONARY HISTORY OF miR-9 GENES
+STRUCTURAL EVOLUTION OF THE miR-9 GENE FAMILY
+
+The miR-9 gene is ancient in animal evolution, as it appeared
+at the transition towards triploblasty (Wheeler et al., 2009). The
+genome of some extant animal species contains several copies of
+this gene (Figure 1A). In Vertebrates, the amplification of miR-9
+genes parallels the whole genome duplication events that occurred
+in the phylum and thus likely results from them. Independent
+duplications events also occurred in other phyla such as arthropods. This led in particular to the presence of five miR-9 genes
+in Drosophila, three of which are clustered in the same gene
+complex (Lai et al., 2004). The level of sequence conservation
+of pre-miR-9 among animals is strikingly high, in particular
+at the level of both 5 and 3 mature microRNA strands. For
+instance the 5 strand of drosophila miR-9a gene is identical to
+the one in human genes (Figure 1B). The retention in vertebrate
+genomes of multiple independent copies of a gene generating
+identical microRNA forms is quite surprising. It could be linked
+to differential expression of paralogous miR-9 genes, leading to
+subfunctionalization between copies (Berezikov, 2011).
+There is in contrast a high variability in strand preference
+among miR-9 copies (see Figure 1A). Upon association of
+microRNA duplexes with the RISC complex, only one strand is
+retained while the other is discarded. For most microRNAs, one
+of the two arms, either the 5 or 3 , is preferentially selected at
+this step (sometimes called guide strand), while the other tends
+to be used more infrequently (passenger strand or star strand). In
+the case of miR-9 genes, the guide strand can be generated either
+from the 5 (miR-9-5p) or the 3 arm (miR-9-3p) depending on
+the gene considered. In deuterostomes, miR-9 genes always show
+a preferential usage of the 5 strand (miR-9-5p), although the 3
+strand (miR-9-3p) is still present at detectable levels. This explains
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 1
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+FIGURE 1 | History of the miR-9 gene family. (A) Phylogenetic tree
+showing the evolutionary relationships between different model species and
+the composition of the miR-9 gene family in their respective genomes. The
+preferred microRNA strand is represented in red, while the non-preferred (or
+“star”) is represented in black. No miR-9 gene has been recovered so far
+from genomes of cnidarian species, such as the sea anemone or hydra,
+suggesting that the emergence of a miR-9 gene occurred at the transition
+towards triploblasty. At the origin of jawed vertebrates, two rounds of whole
+
+genome duplications (WGD) have occurred. An additional WGD occurred in
+the teleost lineage. These duplication events likely account for the presence
+of multiple miR-9 genes in vertebrates. Eutherian mammals lost one class of
+miR-9 genes (corresponding to miR-9-4, also called miR-9b). (B) Alignment of
+pre-miR-9 sequences from Drosophila and human. Sequences, names and
+reference numbers were retrieved from miRBase.1 Nucleotides highlighted in
+bold correspond to the two microRNA strands, with the preferred strand in
+red, and the non-preferred one in black.
+
+why miR-9-5p is often referred to as miR-9, while miR-9-3p is
+referred to as miR-9*. In Drosophila and nematode the strand bias
+is different for the different copies (Lim et al., 2003; Lai et al.,
+2004). For instance, for 3 of the 5 fly genes (miR-9a, miR-9b and
+miR-9c) the preferred strand is the 5 strand, while it is the 3
+strand in the other two genes (miR-4 and miR-79) (Lai et al.,
+2004). The bias in strand usage in this species is incidentally
+reflected in the gene nomenclature. Yet a different situation is
+observed in the marine snail Aplysia californica. In this species
+of mollusk there is only one miR-9 gene with no preferential
+strand usage, mature microRNAs being equally recovered from
+both 5 and 3 strands of the duplex (Rajasethupathy et al.,
+2009). Altogether these data show that strand preference in miR-9
+genes has been quite labile during the course of evolution which
+certainly influenced the regulation and functional evolution of the
+gene family.
+
+FUNCTIONAL EVOLUTION OF miR-9: IMPLICATION OF miR-9a IN FLY
+NEUROGENESIS
+
+1 http://www.mirbase.org
+
+Frontiers in Cellular Neuroscience
+
+Large scale analysis of microRNAs expression revealed that miR-9
+is highly enriched in both the developing and mature nervous
+system of vertebrates (Miska et al., 2004; Sempere et al., 2004;
+Wienholds et al., 2005; Heimberg et al., 2010). Functional analyses
+in vertebrate model species have highlighted a prominent role of
+miR-9 in regulating the behavior of neural progenitors, as well
+as the differentiation of some neuronal populations (see further
+sections). The expression of miR-9/9* in human fibroblasts, in
+synergy with miR-124, is sufficient to convert them into neurons,
+placing miR-9/9* at the core of the gene network controlling the
+neural fate (Yoo et al., 2011). The presence of miR-9 in nervous
+cells might be an ancestral characteristic of bilaterian animals,
+as it has been observed in cephalochordate and annelid species
+(Christodoulou et al., 2010; Candiani et al., 2011).
+However, in Drosophila, although miR-9a does influence
+the development of peripheral nervous system sensory organs,
+its function is encoded negatively, through miR-9 restricted
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 2
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+expression in non-neural epidermal cells (Li et al., 2006). In wildtype flies sensory precursor (SOP) cells are specified in invariable
+numbers among ectodermal epithelial cells in a two-step process
+(Skeath and Carroll, 1994; Figure 2A). First, small groups of cells,
+the proneural clusters, acquire neural competence via the induction of proneural genes encoding basic helix-loop-helix (bHLH)
+proteins such as Achaete and Scute (Ac/Sc). Among cells of the
+
+FIGURE 2 | Role of miR-9 in the development of drosophila sensory
+organs. (A) Different steps of the formation of sensory organs. Among
+the ectodermal tissue, groups of cells, called proneural clusters (green),
+acquire neural competence via the induction of proneural genes. The
+dLMO protein participates in the acquisition of this competence. Among
+competent cells, one will maintain high levels of proneural genes
+expression, notably of the sense gene, and become a SOP cell (SOP,
+yellow). Concomitantly the neural fate is inhibited in the neighboring cells
+(non-SOP, blue). The SOP cell later divides to give rise to a sensory organ.
+miR-9a is present in all ectodermal cells except the SOP cell, and inhibits
+dLMO and Sens protein expression. (B) Role of miR-9a in SOP cell
+specification. The SOP cell expresses high levels of the ligand Delta,
+which interacts with Notch receptors located at the surface of neighboring
+
+Frontiers in Cellular Neuroscience
+
+proneural cluster, as a consequence of a lateral inhibition mechanism via the Notch signaling pathway, one cell will express higher
+levels of proneural genes and become a SOP (Figure 2B). Mutant
+miR-9a flies display a few ectopic sensory neurons in the embryo
+and in the adult, a phenotype resulting from the specification of
+an excessive number of SOP cells (Li et al., 2006). miR-9a mutant
+phenotype is however quite mild, and its penetrance is influenced
+
+cells. This interaction leads to Notch cleavage, which releases Notch
+intracellular domain (Nintra ) in non-SOP cells. Nintra interacts with the
+transcription factor Suppressor of Hairless Su(H), which induces E(spl)
+gene expression. E(spl) genes encode transcriptional repressors inhibiting
+the expression of proneural genes and in particular sens. In the SOP cell,
+in the absence of Nintra , Su(H) has an inhibitory effect on the transcription
+of E(spl) genes which allows for the expression of sens. Sens activates
+the expression of proneural genes of the ac/scute complex (ac/sc) which
+specify the SOP cell fate. miR-9a, expressed in non-SOP cells, prevents
+ectopic expression of sens, thereby conferring robustness to the
+developmental program. Other genes of the miR-9 family might also play a
+role here, as miR-4 and miR-79 have been shown to regulate the
+expression Notch target genes, such as E(spl) or Brd.
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 3
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+by the genetic background (Li et al., 2006; Bejarano et al.,
+2010). miR-9a is therefore not a strong deterministic factor, but
+rather confers robustness to this developmental program, a role
+frequently undertaken by microRNAs (Ebert and Sharp, 2012).
+Remarkably miR-9a influences both steps of SOP specification,
+through the inhibition of two major targets, drosophila LIM-only
+(dLMO) and senseless (sens) (Figure 2A; Li et al., 2006; Biryukova
+et al., 2009; Bejarano et al., 2010). dLMO encodes a component of
+a multimeric transcriptional complex shown to participate in the
+initial induction of ac/sc expression in proneural clusters (Ramain
+et al., 2000; Asmar et al., 2008). Like miR-9a mutants, dLMO
+gain of function mutants display extra sensory bristles (Asmar
+et al., 2008). These dLMO mutants lack large portions of dLMO
+3 UTR, which contains a miR-9a binding site, conserved among
+Drosophila species, and through which miR-9a was shown to
+directly repress the production of the dLMO protein (Biryukova
+et al., 2009; Bejarano et al., 2010). sens is first expressed in
+proneural cluster cells and later accumulates at high levels in the
+prospective SOP (Nolo et al., 2000). Sens acts as a binary switch
+factor: present at low levels in proneural cluster cells, it limits the
+expression of ac; in contrast, high levels of Sens activates proneural genes expression in the SOP cell, contributing to its specification (Jafar-Nejad et al., 2003). Similar to dLMO, sens 3 UTR
+harbors miR-9a putative binding sites and mediates an interaction
+with miR-9a, which impacts on Sens protein levels (Li et al., 2006).
+Heterozygosity of either dLMO or sens can partially rescue the
+excessive number of bristles in miR-9a mutants, demonstrating
+that de-repression of these targets contributes to this phenotype (Bejarano et al., 2010). Little is known however about the
+upstream regulators of miR-9a in flies and how its expression
+becomes restricted to non-neural cells. The only known miR-9a
+regulator is the RNA-binding protein transactive response DNAbinding protein 43 (TDP-43), which seems to stabilize miR-9a
+pri-miR (Li et al., 2013). However, the function of other miR-9
+genes, and in particular of miR-4 and miR-79, which use the
+opposite strand, has yet to be directly addressed in drosophila.
+Both miR-4 and miR-79 have been shown to interact with Bearded
+(Brd) box, a sequence motif previously identified as enriched on
+the 3 UTR of Notch target genes such as Enhancer-of-split (E(spl))
+or Brd (Lai and Posakony, 1997; Lai et al., 2005; Figure 2B). One
+could thus hypothesize a role of these microRNAs in neurogenesis
+through the deregulation of Notch target genes.
+In sharp contrast with the situation in vertebrates, studies in
+drosophila thus point to an anti-neural role of miR-9a: expressed
+in non-neural epithelial cells, miR-9a restricts the number of
+specified SOP by dampening the expression of the proneural
+genes dLMO and sens. This suggests that, despite the fact that
+miR-9a sequence is strictly identical to its vertebrate counterparts,
+its function and its set of targets have been profoundly remodeled
+during evolution.
+
+miR-9 REGULATION OF NEURAL PROGENITORS
+
+miR-9 expression is preferentially associated with neurogenic
+progenitors
+
+The first large scale microRNA expression profiles performed in
+vertebrates soon identified miR-9 as a brain enriched microRNA
+(Lagos-Quintana et al., 2002; Krichevsky et al., 2003; Miska et al.,
+2004; Sempere et al., 2004). In particular, its expression levels
+were shown to be dynamically regulated during brain development, and during in vitro induced neurogenesis (Miska et al.,
+2004; Sempere et al., 2004; Krichevsky et al., 2006). miR-9*,
+derived from the 3 strand of miR-9 genes, is also present at
+detectable levels in vertebrate neural tissues. In situ hybridization
+analyses in different vertebrate model organisms have revealed
+very similar spatiotemporal patterns of miR-9 expression during
+(CNS) development (Darnell et al., 2006; Deo et al., 2006; Leucht
+et al., 2008; Shibata et al., 2008; Walker and Harland, 2008).
+miR-9 expression starts at mid-embryogenesis stages, after the
+specification of the major brain subdivisions and the development
+of the primary neuronal scaffold. Its expression is first induced
+in the telencephalon, and later spreads to more posterior brain
+regions and spinal cord. All along the CNS, miR-9 expression
+is predominantly associated with ventricular neural progenitors
+areas (Darnell et al., 2006; Leucht et al., 2008; Shibata et al.,
+2008, 2011; Bonev et al., 2011; Coolen et al., 2012), although
+some differentiated neurons also express miR-9, notably in the
+dorsal telencephalon and spinal cord (Leucht et al., 2008; Otaegi
+et al., 2011; Shibata et al., 2011). Its expression characterizes
+active neurogenic areas and its expression is dependent on the
+activity of Notch signaling (Coolen et al., 2012). In contrast,
+miR-9 seems to be specifically excluded from progenitor pools
+located at boundaries between brain compartments, such as the
+Midbrain-Hindbrain Boundary (MHB) or rhombomeres boundaries (Figure 3A; Leucht et al., 2008; Coolen et al., 2012). In
+these boundary regions, which play a role as late signaling centers, neural progenitors do not enter neurogenesis and remain
+undifferentiated over long periods (Kiecker and Lumsden, 2005).
+Interestingly, miR-9 expression appears similarly regulated in the
+retina. There miR-9 expression is also restricted to late progenitors
+(La Torre et al., 2013) and shows a dependence on Notch activity
+(Georgi and Reh, 2010). Furthermore it appears to be excluded
+from the progenitor pool located at the ciliary marginal zone
+in non-mammalian vertebrates (Kapsimali et al., 2007). This
+pool maintains undifferentiated progenitors over a long time,
+reminiscent of neural tube boundary regions. miR-9 was also
+detected in adult brain neurogenic areas, in both fish and mouse
+(Deo et al., 2006; Kapsimali et al., 2007; Tozzini et al., 2012), and
+in primary cultures of mouse adult stem cells (Zhao et al., 2009).
+However a precise characterization of miR-9-positive cells in adult
+brains remains to be performed.
+Regulation of neural progenitors proliferation by miR-9
+
+miR-9 REGULATION OF NEURAL DEVELOPMENT
+In deuterostomes, miR-9 genes demonstrate a strong evolutionary
+plasticity, in terms of strand usage and developmental function.
+In contrast, studies in vertebrate model species point to highly
+conserved functions of miR-9, especially in the regulation of
+neural progenitor proliferation.
+
+Frontiers in Cellular Neuroscience
+
+As the expression of miR-9 suggests, functional analyses uncovered a prominent role of miR-9 in the regulation of embryonic
+neural progenitors states. In zebrafish embryos, miR-9 was shown
+to participate in the late patterning of the midbrain/hindbrain
+region. The activity of miR-9 on both sides of the MHB restricts
+the extent of the pool of non-neurogenic progenitors located
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 4
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+FIGURE 3 | miR-9 regulates progenitor states in Vertebrates. (A) miR-9
+is expressed in active neurogenic zones. Sagittal section through a
+zebrafish embryo at 48 h post fertilization, showing the expression of miR-9
+as revealed by in situ hybridization (blue). miR-9 is expressed at the
+ventricular zone, and excluded from differentiated neurons expressing the
+protein HuC (magenta). Its expression is induced in neurogenic areas,
+where the expression of proneural genes such as neurogenin1 (neurog1) is
+detected (green). In contrast, miR-9 is excluded specifically from boundary
+regions, containing long-lasting neural progenitors, such as the MHB (big
+arrowhead) or rhombomere boundaries (small arrowheads). (B) Functional
+data suggest that miR-9 promotes the transition from a non-neurogenic
+progenitor, expressing high levels of Hes1, to a neurogenic progenitor, in
+which Hes1 levels oscillate. The miR-9 expressing neurogenic progenitor is
+in an ambivalent state, poised to respond to proliferation or differentiation
+cues. (C) Scheme representing negative feedback loops between miR-9
+and its targets, some of which promoting proliferation (purple) and others
+promoting differentiation (green).
+
+Frontiers in Cellular Neuroscience
+
+at this boundary (Leucht et al., 2008). However, miR-9 has a
+more general influence on the behavior of neurogenic progenitors
+along the neural tube. Overexpression of miR-9/9* duplexes in
+the zebrafish embryo (Leucht et al., 2008), mouse embryonic
+cortex (Zhao et al., 2009), and chick spinal cord (Yoo et al., 2011)
+leads to a reduction in the number of proliferating progenitors.
+This effect is accompanied by precocious neuronal differentiation
+(Leucht et al., 2008; Zhao et al., 2009). miR-9/9* was also shown
+to promote differentiation of adult neural stem cells in vitro,
+albeit only if they were primed for differentiation beforehand
+using forskolin or retinoic acid (Zhao et al., 2009). Additionally, infecting human neonatal fibroblasts with lentiviral vectors
+containing miR-9/9* and miR-124 induces their conversion into
+postmitotic neurons. However, this conversion is dependent on
+the expression on all three microRNAs (Yoo et al., 2011). Thus,
+these in vitro data show that miR-9 alone is not sufficient to induce
+neuronal differentiation. Conversely, miR-9 loss-of-function consistently induces an increased proliferation of embryonic neural
+progenitors (Bonev et al., 2011; Shibata et al., 2011; Coolen
+et al., 2012) or mouse adult neural stem cells (Zhao et al., 2009).
+However neural progenitors resume differentiation even under
+miR-9 depletion conditions, their cell cycle exit being only delayed
+(Shibata et al., 2011; Coolen et al., 2012). Altogether this data
+suggests that miR-9 does not act as a necessary and sufficient
+differentiation switch, but rather could favor the transition of
+progenitors from a proliferative mode to a neurogenic mode.
+Of note, in over-expression experiments or in mouse mutants,
+the effects observed result from the combined gain or loss of
+both miR-9 strands. In contrast, in depletion experiments using
+antisense oligonucleotides, like the one performed in zebrafish
+or Xenopus embros, only miR-9 (miR-9-5p) is down-regulated.
+The individual role of the other miR-9* (miR-9-3p) has yet to be
+assessed. Moreover, in human embryonic stem cell-derived neural
+progenitors, and rat embryonic cortical progenitors, miR-9 was
+shown to have a completely opposite role (Delaloy et al., 2010).
+In this study, inhibition of miR-9 led to a decrease in neural
+progenitor proliferation, concomitant with increased migratory
+capacities. The different effects observed on neural progenitors in
+culture might be linked to a different timing of miR-9 depletion
+during in vitro differentiation (Zhao et al., 2009; Delaloy et al.,
+2010). These results indicate that miR-9 can inversely impact
+the proliferation of neural progenitors depending on the cellular
+context. Differential expression of mRNA targets or the synergy
+between miR-9 and other mRNA regulating factors could account
+for this phenomenon. For instance the RNA binding proteins
+Elavl1 and Musashi1 can synergize with miR-9 to increase the
+expression of some of its targets (Shibata et al., 2011). A better
+appreciation of the spatial and temporal variations of miR-9 function in vivo awaits the development of more refined conditional
+knock-down tools.
+miR-9 targets in neural progenitors reveal a complex interacting
+network
+
+A better understanding of miR-9 function will certainly arise
+from the characterization of its set of targets and the analysis
+of the impact of these interactions in vivo. In silico algorithms
+predict several hundred targets for miR-9, a high figure typical
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 5
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+of ancient microRNAs (Bartel, 2009). So far, only a few of these
+interactions have been confirmed in vitro or in vivo, but these
+studies have shed light on the complex mode of action of miR-9
+in neural progenitors.
+A first set of miR-9 targets are members of the Hes gene
+family (Leucht et al., 2008; Bonev et al., 2011, 2012; Coolen
+et al., 2012). Hes genes are the main Notch signaling effectors
+and encode transcriptional repressors (Kageyama et al., 2008).
+Expressed in neural progenitors, they inhibit differentiation by
+repressing proneural genes such as ascl1, a vertebrate homolog
+of Drosophila ac/sc complex genes. Some of them are also highly
+expressed at boundaries and help in maintaining slow cycling
+non-neurogenic progenitors at these locations (Kageyama et al.,
+2008; Stigloher et al., 2008). Among miR-9 targets is her5, which
+in zebrafish embryos is specifically expressed at the MHB. In this
+area miR-9 restricts the size of the MHB progenitor pool through
+repressing her5 while simultaneously limiting the signaling activity of the MHB progenitors by repressing Fibroblast growth factor
+(FGF) pathway genes (Leucht et al., 2008). Hes1/her6 genes also
+harbor a miR-9 binding site in their 3 UTR, which is conserved
+across vertebrates. In zebrafish and frog embryos, target protector
+morpholinos (Choi et al., 2007) that block the miR-9 binding
+site on the hes1/her6 3 UTR, induce an increased proliferation,
+mimicking the effect of miR-9 blockade (Bonev et al., 2011;
+Coolen et al., 2012) and thus demonstrate that miR-9 targeting
+of this gene is crucial to properly balance progenitor proliferation. Interestingly, Hes1 was previously shown to be expressed
+in neural progenitors both at boundary regions and inside brain
+compartments. However, live imaging using a Hes1 luciferase
+reporter demonstrated that at boundaries, Hes1 expression is
+high and stable, whereas it displays ultradian oscillations inside
+brain compartments (Shimojo et al., 2008). This difference in
+Hes1 expression mode is thought to parallel the non-neurogenic
+versus neurogenic properties of these two kinds of progenitors
+(Kageyama et al., 2008). In an in vitro model, the dampening
+of Hes1 expression by miR-9 was shown to be necessary for
+oscillations of Hes1 to occur (Bonev et al., 2012; Tan et al., 2012).
+miR-9 could therefore promote a transition towards neurogenesis
+via influencing the mode of Hes1 expression.
+Several other validated targets of miR-9 are also transcription
+factors that were previously shown to promote progenitor proliferation. They include notably the forkhead transcription factor
+FoxG1 (Shibata et al., 2008, 2011), the homeobox factor Gsx2
+(Shibata et al., 2011), the orphan nuclear receptor Tlx/Nr2e1
+(Biryukova et al., 2009; Bonev et al., 2011) and the zinc finger
+transcription factor Zic5 (Coolen et al., 2012). The repression
+of these transcription factors by miR-9 could explain the antiproliferative effect it exerts in neural progenitors, while their upregulation could participate in miR-9 the depletion phenotype.
+Thus in miR-9-2/3 double mutant mice, the clear increase in
+FoxG1 and Gsx2 protein levels could contribute to increasing
+proliferation of embryonic pallial and subpallial progenitor cells
+(Shibata et al., 2011). Moreover, the reduction of proliferation
+induced by miR-9 can be rescued by overexpressing TLX, suggesting that the inhibition of this target could participate in this
+phenotype (Zhao et al., 2009). Surprisingly however, the levels
+of TLX proteins are not up-regulated but down-regulated in
+
+Frontiers in Cellular Neuroscience
+
+miR-9-2/3 double mutant mice (Shibata et al., 2011). This
+discrepancy could be linked to the presence of the RNA binding
+proteins Elavl1 or Msi1, which were shown in vitro to be able
+to convert miR-9 to an activator (Shibata et al., 2011). Alternatively, indirect effects of miR-9 depletion could also explain
+the reduction of TLX protein. Zic5 belongs to a family of Zinc
+finger transcription factors that act as inhibitors of neuronal
+differentiation during development (Aruga, 2004). In vertebrates,
+Zic5 mRNA possesses a very conserved binding site for miR-9,
+and moreover, in the zebrafish embryonic hindbrain, injection of
+a target protector morpholino restricting binding to this site leads
+to an increase in progenitor proliferation (Coolen et al., 2012).
+Other targets of miR-9 are linked with the epigenetic
+machinery, which is subjected to drastic remodeling during the
+course of neuronal differentiation. The 3 UTR of repressorelement-1 silencing transcription factor (REST) and the corepressor CoREST, were shown to harbor functional binding sites
+for miR-9 and miR-9* respectively (Packer et al., 2008). REST
+and CoREST act in a chromatin-bound protein complex, which
+recruits histone modifiers to repress the expression of neuronal
+genes in neural stem cells and progenitors (Ballas and Mandel,
+2005). During neuronal differentiation, the complex is dismantled, which allows for the expression of neuronal genes. During the transition from progenitors to neurons, there is also
+an exchange of subunits within the Switch/Sucrose non fermentable (Swi/Snf) chromatin remodeling complex: the subunit
+BRG1- and BRM-associated factor 53a (BAF53a) present in neural progenitors is notably replaced by its homologous BAF53b.
+Interestingly, miR-9* seems to be able to facilitate this exchange,
+via repressing the expression of BAF53a (Yoo et al., 2009). miR-9
+can also inhibit the expression of Sirt1, a member of the class III
+nicotinamide adenine dinucleotide (NAD+)-dependent histone
+deacetylases (Delaloy et al., 2010). Sirt1 associates with different
+repressor complexes and opposite influences of this factor have
+been observed during in vitro neurogenesis: Sirt1 can associate
+with Hes1 to repress proneural gene expression (Prozorovski et al.,
+2008), however, on the other hand, Sirt1 translocation to the
+nucleus was also shown to accompany neuronal differentiation of
+neural stem cells in vitro and accelerate this process via repressing
+Notch targets such as Hes1 (Hisahara et al., 2008). It is therefore
+hard to draw a conclusion on the potential functional consequences of miR-9 repression of Sirt1 at this stage. Importantly the
+significance of these microRNA-targets interactions remains to be
+directly assessed in vivo. Nevertheless they suggest exciting links
+between miR-9 and the epigenetic landscape of neural progenitor
+cells. Interestingly miR-9 could also participate in remodeling the
+microRNAs landscape in neural cells. Indeed miR-9 can inhibit
+the pluripotent factors Lin28A and Lin28B, RNA binding proteins
+that block the processing of some microRNAs, including let-7
+(Eda et al., 2009; La Torre et al., 2013).
+miR-9 can promote neural differentiation via the inhibition
+of proliferation factors and progenitor specific epigenetic factors.
+Surprisingly however, miR-9 was shown to also downregulate
+the expression of genes with differentiation promoting activities.
+For instance, using target protector morpholinos, a cryptic role
+of miR-9 in inhibiting elavl3, a proneural differentiation factor,
+was revealed in zebrafish embryos (Coolen et al., 2012). In doing
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 6
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+this, miR-9 dampens the expression of factors favoring antagonist fates. Thereby it seems to favor an ambivalent progenitor
+state, poised to respond to both progenitor maintenance and
+commitment cues (Figure 3B). This ambivalent state could possibly correspond to the previously described “oscillating” neurogenic progenitors in which the levels of opposite fate determinants
+like Hes1 and Ngn2 oscillate prior to commitment (Kageyama
+et al., 2008). Another striking feature emerging from the analyses
+of miR-9 targets is that they often exert feedback regulation on
+miR-9 (Figure 3C). Transcription of miR-9 genes is repressed by
+Nr2e2/Tlx, Hes1 and REST, and its effect on mRNA targets can
+be modulated by Elavl proteins, also targeted by this microRNA
+(Zhao et al., 2009; Laneve et al., 2010; Shibata et al., 2011;
+Bonev et al., 2012). Feedback loops are recurring motifs in gene
+regulatory networks involving microRNAs, and they can stabilize
+cellular states and provide robustness to developmental programs
+(Peláez and Carthew, 2012). Altogether the study of miR-9 targets
+point to a role of this microRNA to facilitate, pace and stabilize
+the transition of progenitors towards neural differentiation. To
+obtain a full picture of its gene network a thorough characterization of miR-9 targets and validation of the impact of individual
+interactions should be conducted. This would help understanding the phenotype resulting from its absence, which combines
+the sometimes opposite effects of the deregulation of many
+mRNAs.
+ADDITIONAL ROLES OF miR-9 IN NEURAL DEVELOPMENT: miR-9 IN
+POST-MITOTIC NEURONS
+
+A few studies have unraveled additional functions of miR-9 at
+later steps of neural development, linked to its expression in some
+populations of post-mitotic neurons.
+miR-9 is transiently expressed during the differentiation of
+spinal cord motoneurons (MN), located in the lateral motor
+column and innervating limb muscles, but not in neighboring
+MN (Otaegi et al., 2011). These MN are characterized by the
+expression of FoxP1 and Isl1/2, both of which are putative targets
+of miR-9. In this context, manipulating miR-9 levels impairs
+the differentiation and axonal projections of spinal motoneuron
+lineages, possibly through a de-regulation of FoxP1 protein levels.
+The paralog gene Foxp2 also possesses functional miR-9 binding sites on its 3 UTR. Foxp2 protein is expressed in the embryonic cortex, but its expression starts much later than miR-9.
+Furthermore, while miR-9 expression spans most layers of the
+cortex, being however enriched in ventricular progenitors, Foxp2
+expression is restricted to post-migratory neurons (Shibata et al.,
+2011; Clovis et al., 2012). Both miR-9 putative binding sites can
+mediate the repression of a reporter transgene by endogenous
+miR-9 present in the cortex (Clovis et al., 2012). This suggests that
+miR-9 could prevent excessive expression of the protein FoxP2 in
+the cortex, which was shown to severely impair neuronal migration. Moreover excessive expression of FoxP2 also compromises
+maturation of cortical neurons.
+A role of miR-9 in the maturation of cortical neurons was
+more directly demonstrated by another study in which miR-9
+expression could be detected in axons and dendrites of differentiated neurons (Dajas-Bailador et al., 2012). Moreover, inhibition
+of miR-9 in cultured neurons increased axonal length and reduced
+
+Frontiers in Cellular Neuroscience
+
+axonal branching. Specific inhibition of miR-9 binding on the
+Map1b 3 UTR both in vitro and in vivo using target protectors
+could mimic this effect of miR-9. Thus miR-9 regulates neuronal
+maturation through modulating the expression level of this gene,
+which is an important regulator of microtubules dynamics.
+
+IMPLICATION OF miR-9 IN HUMAN PATHOLOGIES
+miR-9 IN CANCER
+
+Studies in the developing brain demonstrated that miR-9 is deeply
+rooted in gene networks controlling the regulation of neural
+progenitors proliferation. It is therefore not surprising to see
+this microRNA implicated in the progression of brain cancers
+such as medulloblastoma and glioblastoma. As in the normal
+contexts, this microRNA demonstrates its versatility in the context
+of tumors.
+Medulloblastomas (MB) are the most frequent form of pediatric brain cancers. They originate from cerebellar progenitors.
+miR-9 expression is reduced in MB samples compared to neighboring brain tissues (Ferretti et al., 2009). This could contribute
+to disease progression as inhibition of miR-9 in MB cell lines
+increases their proliferation. One target of miR-9, the truncated form of the neurotrophin receptor TrkC (t-TrkC), is upregulated in MB and was shown to promote proliferation of
+MB cells. The deregulation of t-TrkC following down-regulation
+of miR-9 could therefore play a role in sustaining proliferation of MB cells. Conversely a high expression of miR-9 was
+detected in a subclass of glioblastoma, the most common but
+also the most aggressive type of adult brain tumors (Kim et al.,
+2011). Interestingly, miR-9 expression was particularly associated with tumor cells possessing stem-like features (Schraivogel
+et al., 2011). These cells, referred to as glioblastoma stem cells
+(GSC), are defined by long term self-renewal capacities thus
+endowing them with greater potential for cancer initiation and
+propagation (Huang et al., 2010). Several studies demonstrate
+that these cells are particularly resistant to radiotherapy and
+chemotherapy, and are therefore likely responsible for tumor
+resistance and recurrence. Reducing miR-9 expression in glioblastoma primary culture leads to a reduction of the number of
+cells with in vitro self-renewing potential (Schraivogel et al.,
+2011). This effect is mediated by an up-regulation of calmodulinbinding transcription activator 1 (CAMTA1), a tumor suppressor whose 3 UTR is targeted by miR-9. However another study
+suggests that miR-9* inhibits the expression of Sox2, a factor
+which, in contrast to CAMTA1, confers self-renewal properties
+and drug resistance to GSC (Jeon et al., 2011). miR-9 impact on
+GSCs and tumor growth seems therefore to be variable among
+glioblastoma samples, an observation likely to reflect the high
+heterogeneity of these tumors. It would however be particularly
+interesting to investigate further the link between miR-9 and GSCs
+properties and compare miR-9 action in normal versus tumoral
+stem cells.
+Surprisingly, miR-9 was also linked with cancers originating
+outside the nervous system. In some cases, miR-9 behaves like
+an oncogene, in some others like a tumor suppressor. miR-9 is
+highly expressed and appears to favor progression of Hodgkin
+lymphomas (Leucci et al., 2012), breast cancers (Ma et al., 2010),
+cervical cancers (Wilting et al., 2013), colon cancers (Lu et al.,
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 7
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+2012) and stomach cancers (Rotkrua et al., 2011). The proximal
+causes of miR-9 up-regulation have been identified only in a
+few cases. Chromosomal amplifications can account for increased
+miR-9 expression in some cervical cancers (Wilting et al., 2013),
+while the up-regulation of miR-9-3 transcription is caused by the
+MYC oncogene in some breast cancers (Ma et al., 2010). miR-9
+has been shown to influence various tumorigenic processes,
+including cellular proliferation (Rotkrua et al., 2011; Wilting et al.,
+2013), migration (Ma et al., 2010; Lu et al., 2012) and inflammation (Leucci et al., 2012). A reduction of miR-9 expression
+compared to normal tissue was also observed in other types of
+cancer, including leukemia (Senyuk et al., 2013), lung cancers
+(Heller et al., 2012) and colon cancers (Bandres et al., 2009). The
+implication of miR-9 in tumorigenesis in such a variety of tissues
+suggests that miR-9 may regulate general processes and define a
+specific cellular state that could exist outside the nervous system.
+miR-9 IN NEURODEGENERATIVE DISORDERS
+
+Links between neurodegenerative disorders and microRNAs,
+especially brain enriched microRNAs such as miR-9, have started
+to emerge in the literature (Lau and de Strooper, 2010). Huntington’s disease (HD) is an autosomal dominant neurodegenerative
+disease caused by trinucleotide repeat expansions in the Huntingtin gene (Htt). One hallmark of HD is an alteration of the
+transcriptome of some brain regions, linked to abnormal activity
+of the transcriptional repressor REST (Buckley et al., 2010). In
+contrast to the wild-type HTT, mutant HTT no longer traps REST
+in the cytoplasm, thus allowing it to translocate to the nucleus
+and excessively represses its targets. As previously mentioned,
+REST was shown to repress miR-9 transcription and REST and
+its co-repressor coREST are targets of miR-9/9* (Packer et al.,
+2008; Laneve et al., 2010). In the brain of HD patients, miR-9/9*
+
+FIGURE 4 | miR-9 protects the brain from Progerin. Two alternative
+transcripts are generated from the the Lamin A/C gene, encoding Lamin C
+and Lamin A proteins. HGPS is caused by a mutation in exon 11, which is
+specific to Lamin A encoding transcripts. The mutation generates an
+additional splice site, which leads to the generation of a new transcript
+
+Frontiers in Cellular Neuroscience
+
+expression decreases with increasing disease grades (Packer et al.,
+2008). The down-regulation of miR-9/9* could be linked to the
+excessive activity of REST and may also amplify REST activity
+by increasing REST and coREST protein levels. Considering the
+number of targets of miR-9/9*, their down-regulation could
+also impact more widely the transcriptional landscape in HD
+patients brains. miR-9 was also found to be deregulated in other
+neurodegenerative disorders. It is down-regulated in the brain
+of Alzheimer’s disease patients (Cogswell et al., 2008; Hébert
+et al., 2008) and up-regulated in the cortex of Parkinson’s disease
+patients (Kim et al., 2007). Finally, miR-9 was suggested to participate in amyotrophic lateral sclerosis (ALS), a neurodegenerative
+disease affecting MN (Haramati et al., 2010). miR-9 was shown to
+be down-regulated in a mouse model of motoneuron disease and
+its over-expression can repress the expression of a neurofilament
+heavy subunit previously linked to motoneuron degeneration.
+Probing more directly the impact of miR-9 deregulation on neurodegenerative disease progression is a challenging task, which
+will need to be addressed in the future.
+miR-9 PROTECTS NEURAL TISSUE FROM DELETERIOUS PROGERIN
+
+Hutchinson-Gilford progeria syndrome (HGPS) is a rare disease
+whose symptoms resemble physiological ageing. It is caused by
+a de novo specific mutation in LMNA gene. This gene encodes
+two components of the nuclear lamina, lamin A and lamin
+C, as a result of alternative splicing (Figure 4). HGPS causing
+mutations affect only lamin A-encoding transcripts and generate
+a truncated form of this protein which is toxic to cells, referred
+to as Progerin. While most tissues and organs are affected by
+the presence of Progerin, the CNS of HGPS-affected patients is
+remarkably spared. This is most likely due to a lower expression of lamin A in neural cells, but the underlying mechanism
+
+encoding a truncated form of Lamin A. The truncated protein is referred to as
+Progerin, and is toxic to cells. The presence of miR-9 in the central nervous
+system can explain, at least in part, the low levels of Lamin A detected in this
+tissue compared to Lamin C. In HGPS patients, miR-9 repression of Progerin
+expression protects the CNS from this harmful protein.
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 8
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+remained unknown. Two recent studies demonstrated a role of
+miR-9 in this process (Jung et al., 2012; Nissan et al., 2012). The
+first study confirmed that lamin A transcripts and proteins are
+less abundant than lamin C in mouse brains, whereas they are
+expressed at similar levels in other tissues (Jung et al., 2012).
+Low levels of Progerin were also found in the brain of knock-in
+mice harboring the HGPS mutant allele. The authors could show
+that the differential levels of lamin A versus lamin C in brain
+tissues was not linked to differences in alternative splicing, but
+rather that it is likely linked to the presence of miR-9 in neural
+tissues. Lamin A and C encoding transcripts possess different
+3 UTR sequences, but only lamin A transcripts can be downregulated by miR-9 through a functional binding site. Inhibition
+of miR-9 in neural cells in vitro lead to increased levels of lamin A
+transcripts. These results were confirmed to be relevant in human
+patients by the second study, in which neural cells differentiated
+from HGPS patient-induced pluripotent stem cells (iPSC) were
+analyzed (Nissan et al., 2012). Neural stem cells and neurons
+derived from patient iPSCs express lower levels of lamin A and
+Progerin transcripts compared to other iPSC derived cell types.
+These cells are also characterized by high levels of miR-9. Overexpression of miR-9 in mesenchymal cells of HGPS patients could
+reduce the levels of lamin A and progerin, an effect mediated by
+the 3 UTR of the lamin A transcripts. Altogether this suggests that
+miR-9 expression may account for the low expression of lamin A
+in the neural tissue, thus protecting it from the deleterious effects
+of Progerin in HGPS patients. This regulation could stimulate the
+development of new therapies for HGPS patients. The reason why
+lamin A expression would need to be restricted by miR-9 in a
+healthy brain remains to be discovered.
+
+CONCLUSION
+miR-9 is a very ancient microRNA and its function and set of
+targets seem to have undergone dramatic changes during the
+evolution of Bilateria. In drosophila, through its expression in
+non-neural cells miR-9a confers robustness to the developmental
+program of peripheral organs. In contrast, in vertebrates, miR-9
+displays a conserved expression pattern in the CNS. During
+vertebrate evolution, miR-9 seemingly had the time to accumulate
+a large set of mRNA targets, and is deeply embedded in the
+gene network controlling the behavior of neural progenitors.
+Strikingly, functional studies of miR-9 point to a highly versatile
+action. Conditional depletion of miR-9 in vivo, using refined
+genetic tools, will help better characterizing this phenomenon
+in vivo. In addition, to better understand the full repertoire of
+miR-9 actions, it will be necessary to identify the set of miR-9
+targets in different cellular contexts and evaluate the functional
+impact of these interactions individually. This will constitute a
+major challenge, especially since miR-9 targets are functionally
+interconnected. For most targets studied so far in vertebrates,
+miR-9 binding sites are highly conserved and are thus part of
+an ancestral set of miR-9 targets. It would be interesting now
+to start to explore species-specific targets of miR-9 and see how
+they could participate in the diversification of the nervous system.
+Finally, to investigate the variability of miR-9 actions, it will be of
+interest to identify its regulators. In vertebrates, the transcription
+factors that were shown to bind miR-9 promoters are all repressors
+
+Frontiers in Cellular Neuroscience
+
+(Tlx, REST, Hes1); the factors that can induce miR-9 expression
+are still unknown. Further studying the link between miR-9
+activity and RNA binding proteins, which can either regulate
+miR-9 expression and processing or alter its effect of mRNA
+targets, will refine our understanding of miR-9 action (Shibata
+et al., 2011; Xu et al., 2011; Li et al., 2013). Altogether, a comprehensive knowledge of how miR-9 function can be modulated
+across different species and cellular contexts will be necessary to
+unravel its contribution in human pathologies.
+
+ACKNOWLEDGMENTS
+The authors are grateful to past and present members of the
+Zebrafish Neurogenetics group for stimulating scientific discussions and valuable inputs. We thank William Norton for his critical reading of the manuscript. Shauna Katz is recipient of a PhD
+fellowship of the DIM Cerveau et Pensée and the Ecole des Neurosciences de Paris. Marion Coolen received support from the FP7
+Marie Curie intraeuropean post-doctoral fellowship program and
+the EMBO long-term post-doctoral fellowship program. Work in
+the LBC laboratory at the CNRS is funded by the EU project ZFHealth (FP7/2010–2015 grant agreement no 242048), the ANR
+(grants ANR-08-CEX-08-000-01 and ANR-2012-BSV4-0004-01),
+the Ecole des Neurosciences de Paris, the FRM (FRP « Equipe »
+DEQ20120323692), and the ERC (AdG 322936 “SyStematics”).
+REFERENCES
+Aruga, J. (2004). The role of Zic genes in neural development. Mol. Cell. Neurosci.
+26, 205–221. doi: 10.1016/j.mcn.2004.01.004
+Asmar, J., Biryukova, I., and Heitzler, P. (2008). Drosophila dLMO-PA isoform acts
+as an early activator of achaete/scute proneural expression. Dev. Biol. 316, 487–
+497. doi: 10.1016/j.ydbio.2008.01.040
+Ballas, N., and Mandel, G. (2005). The many faces of REST oversee epigenetic
+programming of neuronal genes. Curr. Opin. Neurobiol. 15, 500–506. doi: 10.
+1016/j.conb.2005.08.015
+Bandres, E., Agirre, X., Bitarte, N., Ramirez, N., Zarate, R., Roman-Gomez, J., et al.
+(2009). Epigenetic regulation of microRNA expression in colorectal cancer. Int.
+J. Cancer. 125, 2737–2743. doi: 10.1002/ijc.24638
+Bartel, D. P. (2009). MicroRNAs: target recognition and regulatory functions. Cell
+136, 215–233. doi: 10.1016/j.cell.2009.01.002
+Bejarano, F., Smibert, P., and Lai, E. C. (2010). miR-9a prevents apoptosis during
+wing development by repressing Drosophila LIM-only. Dev. Biol. 338, 63–73.
+doi: 10.1016/j.ydbio.2009.11.025
+Berezikov, E. (2011). Evolution of microRNA diversity and regulation in animals.
+Nat. Rev. Genet. 12, 846–860. doi: 10.1038/nrg3079
+Biryukova, I., Asmar, J., Abdesselem, H., and Heitzler, P. (2009). Drosophila mir-9a
+regulates wing development via fine-tuning expression of the LIM only factor,
+dLMO. Dev. Biol. 327, 487–496. doi: 10.1016/j.ydbio.2008.12.036
+Bonev, B., Pisco, A., and Papalopulu, N. (2011). MicroRNA-9 reveals regional
+diversity of neural progenitors along the anterior-posterior axis. Dev. Cell 20,
+19–32. doi: 10.1016/j.devcel.2010.11.018
+Bonev, B., Stanley, P., and Papalopulu, N. (2012). MicroRNA-9 modulates Hes1
+ultradian oscillations by forming a double-negative feedback loop. Cell Rep. 2,
+10–18. doi: 10.1016/j.celrep.2012.05.017
+Buckley, N. J., Johnson, R., Zuccato, C., Bithell, A., and Cattaneo, E. (2010). The
+role of REST in transcriptional and epigenetic dysregulation in Huntington’s
+disease. Neurobiol. Dis. 39, 28–39. doi: 10.1016/j.nbd.2010.02.003
+Candiani, S., Moronti, L., De Pietri Tonelli, D., Garbarino, G., and Pestarino, M.
+(2011). A study of neural-related microRNAs in the developing amphioxus.
+Evodevo 2:15. doi: 10.1186/2041-9139-2-15
+Choi, W.-Y., Giraldez, A. J., and Schier, A. F. (2007). Target protectors reveal
+dampening and balancing of Nodal agonist and antagonist by miR-430. Science
+318, 271–274. doi: 10.1126/science.1147535
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 9
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+Christodoulou, F., Raible, F., Tomer, R., Simakov, O., Trachana, K., Klaus, S., et al.
+(2010). Ancient animal microRNAs and the evolution of tissue identity. Nature
+463, 1084–1088. doi: 10.1038/nature08744
+Clovis, Y. M., Enard, W., Marinaro, F., Huttner, W. B., and Tonelli, D. D. P. (2012).
+Convergent repression of Foxp2 3 UTR by miR-9 and miR-132 in embryonic
+mouse neocortex: implications for radial migration of neurons. Development
+139, 3332–3342. doi: 10.1242/dev.078063
+Cogswell, J. P., Ward, J., Taylor, I. A., Waters, M., Shi, Y., Cannon, B., et al. (2008).
+Identification of miRNA changes in Alzheimer’s disease brain and CSF yields
+putative biomarkers and insights into disease pathways. J. Alzheimers Dis. 14,
+27–41.
+Coolen, M., Thieffry, D., Drivenes, Ø., Becker, T. S., and Bally-Cuif, L. (2012).
+miR-9 controls the timing of neurogenesis through the direct inhibition of
+antagonistic factors. Dev. Cell 22, 1052–1064. doi: 10.1016/j.devcel.2012.03.003
+Dajas-Bailador, F., Bonev, B., Garcez, P., Stanley, P., Guillemot, F., and Papalopulu,
+N. (2012). microRNA-9 regulates axon extension and branching by targeting
+Map1b in mouse cortical neurons. Nat. Neurosci. doi: 10.1038/nn.3082. [Epub
+ahead of print].
+Darnell, D. K., Kaur, S., Stanislaw, S., Konieczka, J. H., Konieczka, J. K., Yatskievych,
+T. A., et al. (2006). MicroRNA expression during chick embryo development.
+Dev. Dyn. 235, 3156–3165. doi: 10.1002/dvdy.20956
+Delaloy, C., Liu, L., Lee, J.-A., Su, H., Shen, F., Yang, G.-Y., et al. (2010). MicroRNA9 coordinates proliferation and migration of human embryonic stem cellderived neural progenitors. Cell Stem Cell 6, 323–335. doi: 10.1016/j.stem.2010.
+02.015
+Deo, M., Yu, J.-Y., Chung, K.-H., Tippens, M., and Turner, D. L. (2006). Detection of mammalian microRNA expression by in situ hybridization with RNA
+oligonucleotides. Dev. Dyn. 235, 2538–2548. doi: 10.1002/dvdy.20847
+Ebert, M. S., and Sharp, P. A. (2012). Roles for microRNAs in conferring robustness
+to biological processes. Cell 149, 515–524. doi: 10.1016/j.cell.2012.04.005
+Eda, A., Tamura, Y., Yoshida, M., and Hohjoh, H. (2009). Systematic gene regulation involving miRNAs during neuronal differentiation of mouse P19 embryonic carcinoma cell. Biochem. Biophys. Res. Commun. 388, 648–653. doi: 10.
+1016/j.bbrc.2009.08.040
+Ferretti, E., De Smaele, E., Po, A., Di Marcotullio, L., Tosi, E., Espinola, M. S. B.,
+et al. (2009). MicroRNA profiling in human medulloblastoma. Int. J. Cancer
+124, 568–577. doi: 10.1002/ijc.23948
+Georgi, S. A., and Reh, T. A. (2010). Dicer is required for the transition from early to
+late progenitor state in the developing mouse retina. J. Neurosci. 30, 4048–4061.
+doi: 10.1523/jneurosci.4982-09.2010
+Haramati, S., Chapnik, E., Sztainberg, Y., Eilam, R., Zwang, R., Gershoni, N., et al.
+(2010). miRNA malfunction causes spinal motor neuron disease. Proc. Natl.
+Acad. Sci. U S A 107, 13111–13116. doi: 10.1073/pnas.1006151107
+Hébert, S. S., Horré, K., Nicolaï, L., Papadopoulou, A. S., Mandemakers, W.,
+Silahtaroglu, A. N., et al. (2008). Loss of microRNA cluster miR-29a/b-1 in
+sporadic Alzheimer’s disease correlates with increased BACE1/beta-secretase
+expression. Proc. Natl. Acad. Sci. U S A 105, 6415–6420. doi: 10.1073/pnas.
+0710263105
+Heimberg, A. M., Cowper-Sal-lari, R., Semon, M., Donoghue, P. C. J., and Peterson,
+K. J. (2010). From the cover: microRNAs reveal the interrelationships of hagfish,
+lampreys, and gnathostomes and the nature of the ancestral vertebrate. Proc.
+Natl. Acad. Sci. U S A 107, 19379–19383. doi: 10.1073/pnas.1010350107
+Heller, G., Weinzierl, M., Noll, C., Babinsky, V., Ziegler, B., Altenberger, C., et al.
+(2012). Genome-wide miRNA expression profiling identifies miR-9-3 and miR193a as targets for DNA methylation in non-small cell lung cancers. Clin. Cancer
+Res. 18, 1619–1629. doi: 10.1158/1078-0432.CCR-11-2450
+Hisahara, S., Chiba, S., Matsumoto, H., Tanno, M., Yagi, H., Shimohama, S., et al.
+(2008). Histone deacetylase SIRT1 modulates neuronal differentiation by its
+nuclear translocation. Proc. Natl. Acad. Sci. U S A 105, 15599–15604. doi: 10.
+1073/pnas.0800612105
+Huang, Z., Cheng, L., Guryanova, O. A., Wu, Q., and Bao, S. (2010). Cancer stem
+cells in glioblastoma–molecular signaling and therapeutic targeting. Protein Cell
+1, 638–655. doi: 10.1007/s13238-010-0078-y
+Jafar-Nejad, H., Acar, M., Nolo, R., Lacin, H., Pan, H., Parkhurst, S. M., et al.
+(2003). Senseless acts as a binary switch during sensory organ precursor selection. Genes Dev. 17, 2966–2978. doi: 10.1101/gad.1122403
+Jeon, H. M., Sohn, Y. W., Oh, S. Y., Kim, S. H., Beck, S., Kim, S., et al. (2011). ID4
+imparts chemoresistance and cancer stemness to glioma cells by derepressing
+
+Frontiers in Cellular Neuroscience
+
+miR-9*-mediated suppression of SOX2. Cancer Res. 71, 3410–3421. doi: 10.
+1158/0008-5472.can-11-2545
+Jung, H.-J., Coffinier, C., Choe, Y., Beigneux, A. P., Davies, B. S. J., Yang, S. H., et al.
+(2012). Regulation of prelamin A but not lamin C by miR-9, a brain-specific
+microRNA. Proc. Natl. Acad. Sci. U S A 109, E423–E431. doi: 10.1073/pnas.
+1111780109
+Kageyama, R., Ohtsuka, T., and Kobayashi, T. (2008). Roles of Hes genes in neural
+development. Dev. Growth Differ. 50(Suppl. 1), S97–S103. doi: 10.1111/j.1440169x.2008.00993.x
+Kapsimali, M., Kloosterman, W. P., de Bruijn, E., Rosa, F., Plasterk, R. H. A., and
+Wilson, S. W. (2007). MicroRNAs show a wide diversity of expression profiles in
+the developing and mature central nervous system. Genome Biol. 8:R173. doi: 10.
+1186/gb-2007-8-8-r173
+Kiecker, C., and Lumsden, A. (2005). Compartments and their boundaries in vertebrate brain development. Nat. Rev. Neurosci. 6, 553–564. doi: 10.1038/nrn1702
+Kim, J., Inoue, K., Ishii, J., Vanti, W. B., Voronov, S. V., Murchison, E., et al.
+(2007). A MicroRNA feedback circuit in midbrain dopamine neurons. Science
+317, 1220–1224. doi: 10.1126/science.1140481
+Kim, T. M., Huang, W., Park, R., Park, P. J., and Johnson, M. D. (2011). A developmental taxonomy of glioblastoma defined and maintained by MicroRNAs.
+Cancer Res. 71, 3387–3399. doi: 10.1158/0008-5472.CAN-10-4117
+Krichevsky, A. M., King, K. S., Donahue, C. P., Khrapko, K., and Kosik, K. S.
+(2003). A microRNA array reveals extensive regulation of microRNAs during
+brain development. RNA 9, 1274–1281. doi: 10.1261/rna.5980303
+Krichevsky, A. M., Sonntag, K.-C., Isacson, O., and Kosik, K. S. (2006). Specific
+microRNAs modulate embryonic stem cell-derived neurogenesis. Stem Cells 24,
+857–864. doi: 10.1634/stemcells.2005-0441
+La Torre, A., Georgi, S., and Reh, T. A. (2013). Conserved microRNA pathway
+regulates developmental timing of retinal neurogenesis. Proc. Natl. Acad. Sci.
+U S A 110, E2362–E2370. doi: 10.1073/pnas.1301837110
+Lagos-Quintana, M., Rauhut, R., Yalcin, A., Meyer, J., Lendeckel, W., and Tuschl, T.
+(2002). Identification of tissue-specific microRNAs from mouse. Curr. Biol. 12,
+735–739. doi: 10.1016/s0960-9822(02)00809-6
+Lai, E. C., and Posakony, J. W. (1997). The bearded box, a novel 3 UTR
+sequence motif, mediates negative post-transcriptional regulation of bearded
+and enhancer of split complex gene expression. Development 124, 4847–4856.
+Lai, E. C., Tam, B., and Rubin, G. M. (2005). Pervasive regulation of Drosophila
+Notch target genes by GY-box-, Brd-box-, and K-box-class microRNAs. Genes
+Dev. 19, 1067–1080. doi: 10.1101/gad.1291905
+Lai, E. C., Wiel, C., and Rubin, G. M. (2004). Complementary miRNA pairs suggest
+a regulatory role for miRNA:miRNA duplexes. RNA 10, 171–175. doi: 10.
+1261/rna.5191904
+Laneve, P., Gioia, U., Andriotto, A., Moretti, F., Bozzoni, I., and Caffarelli, E. (2010).
+A minicircuitry involving REST and CREB controls miR-9-2 expression during
+human neuronal differentiation. Nucleic Acids Res. 38, 6895–6905. doi: 10.
+1093/nar/gkq604
+Lau, P., and de Strooper, B. (2010). Dysregulated microRNAs in neurodegenerative
+disorders. Semin. Cell Dev. Biol. 21, 768–773. doi: 10.1016/j.semcdb.2010.01.009
+Leucci, E., Zriwil, A., Gregersen, L. H., Jensen, K. T., Obad, S., Bellan, C.,
+et al. (2012). Inhibition of miR-9 de-represses HuR and DICER1 and impairs
+Hodgkin lymphoma tumour outgrowth in vivo. Oncogene. Available at:
+http://www.ncbi.nlm.nih.gov/pubmed/22310293 [Accessed March 26, 2012].
+Leucht, C., Stigloher, C., Wizenmann, A., Klafke, R., Folchert, A., and Bally-Cuif,
+L. (2008). MicroRNA-9 directs late organizer activity of the midbrain-hindbrain
+boundary. Nat. Neurosci. 11, 641–648. doi: 10.1038/nn.2115
+Li, X., Cassidy, J. J., Reinke, C. A., Fischboeck, S., and Carthew, R. W. (2009).
+A microRNA imparts robustness against environmental fluctuation during
+development. Cell 137, 273–282. doi: 10.1016/j.cell.2009.01.058
+Li, Y., Wang, F., Lee, J.-A., and Gao, F.-B. (2006). MicroRNA-9a ensures the precise
+specification of sensory organ precursors in Drosophila. Genes Dev. 20, 2793–
+2805. doi: 10.1101/gad.1466306
+Li, Z., Lu, Y., Xu, X.-L., and Gao, F.-B. (2013). The FTD/ALS-associated RNAbinding protein TDP-43 regulates the robustness of neuronal specification
+through microRNA-9a in Drosophila. Hum. Mol. Genet. 22, 218–225. doi: 10.
+1093/hmg/dds420
+Lim, L. P., Lau, N. C., Weinstein, E. G., Abdelhakim, A., Yekta, S., Rhoades, M. W.,
+et al. (2003). The microRNAs of Caenorhabditis elegans. Genes Dev. 17, 991–
+1008. doi: 10.1101/gad.1074403
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 10
+
+Coolen et al.
+
+miR-9 and neurogenesis
+
+Lu, M.-H., Huang, C.-C., Pan, M.-R., Chen, H.-H., and Hung, W.-C. (2012).
+Prospero homeobox 1 promotes epithelial-mesenchymal transition in colon
+cancer cells by inhibiting E-cadherin via miR-9. Clin. Cancer Res. 18, 6416–6425.
+doi: 10.1158/1078-0432.ccr-12-0832
+Ma, L., Young, J., Prabhala, H., Pan, E., Mestdagh, P., Muth, D., et al. (2010).
+miR-9, a MYC/MYCN-activated microRNA, regulates E-cadherin and cancer
+metastasis. Nat. Cell Biol. 12, 247–256. doi: 10.1038/ncb2024
+Miska, E. A., Alvarez-Saavedra, E., Townsend, M., Yoshii, A., Sestan, N., Rakic, P.,
+et al. (2004). Microarray analysis of microRNA expression in the developing
+mammalian brain. Genome Biol. 5:R68. doi: 10.1186/gb-2004-5-9-r68
+Nissan, X., Blondel, S., Navarro, C., Maury, Y., Denis, C., Girard, M., et al. (2012).
+Unique preservation of neural cells in Hutchinson- Gilford progeria syndrome
+is due to the expression of the neural-specific miR-9 microRNA. Cell Rep. 2, 1–9.
+doi: 10.1016/j.celrep.2012.05.015
+Nolo, R., Abbott, L. A., and Bellen, H. J. (2000). Senseless, a Zn finger transcription
+factor, is necessary and sufficient for sensory organ development in Drosophila.
+Cell 102, 349–362. doi: 10.1016/s0092-8674(00)00040-4
+Otaegi, G., Pollock, A., Hong, J., and Sun, T. (2011). MicroRNA miR-9 modifies
+motor neuron columns by a tuning regulation of FoxP1 levels in developing
+spinal cords. J. Neurosci. 31, 809–818. doi: 10.1523/jneurosci.4330-10.2011
+Packer, A. N., Xing, Y., Harper, S. Q., Jones, L., and Davidson, B. L. (2008).
+The bifunctional microRNA miR-9/miR-9* regulates REST and CoREST and
+is downregulated in Huntington’s disease. J. Neurosci. 28, 14341–14346. doi: 10.
+1523/jneurosci.2390-08.2008
+Peláez, N., and Carthew, R. W. (2012). Biological robustness and the role of
+microRNAs: a network perspective. Curr. Top. Dev. Biol. 99, 237–255. doi: 10.
+1016/b978-0-12-387038-4.00009-4
+Prozorovski, T., Schulze-Topphoff, U., Glumm, R., Baumgart, J., Schröter, F.,
+Ninnemann, O., et al. (2008). Sirt1 contributes critically to the redox-dependent
+fate of neural progenitors. Nat. Cell Biol. 10, 385–394. doi: 10.1038/ncb1700
+Rajasethupathy, P., Fiumara, F., Sheridan, R., Betel, D., Puthanveettil, S. V., Russo,
+J. J., et al. (2009). Characterization of small RNAs in Aplysia reveals a role for
+miR-124 in constraining synaptic plasticity through CREB. Neuron 63, 803–817.
+doi: 10.1016/j.neuron.2009.05.029
+Ramain, P., Khechumian, R., Khechumian, K., Arbogast, N., Ackermann, C., and
+Heitzler, P. (2000). Interactions between chip and the achaete/scute-daughterless
+heterodimers are required for pannier-driven proneural patterning. Mol. Cell 6,
+781–790. doi: 10.1016/s1097-2765(00)00077-0
+Rotkrua, P., Akiyama, Y., Hashimoto, Y., Otsubo, T., and Yuasa, Y. (2011). MiR-9
+downregulates CDX2 expression in gastric cancer cells. Int. J. Cancer 129, 2611–
+2620. doi: 10.1002/ijc.25923
+Schraivogel, D., Weinmann, L., Beier, D., Tabatabai, G., Eichner, A., Zhu, J. Y.,
+et al. (2011). CAMTA1 is a novel tumour suppressor regulated by miR-9/9* in
+glioblastoma stem cells. EMBO J. 30, 4309–4322. doi: 10.1038/emboj.2011.301
+Sempere, L. F., Freemantle, S., Pitha-Rowe, I., Moss, E., Dmitrovsky, E., and
+Ambros, V. (2004). Expression profiling of mammalian microRNAs uncovers a
+subset of brain-expressed microRNAs with possible roles in murine and human
+neuronal differentiation. Genome Biol. 5:R13. doi: 10.1186/gb-2004-5-3-r13
+Senyuk, V., Zhang, Y., Liu, Y., Ming, M., Premanand, K., Zhou, L., et al. (2013).
+Critical role of miR-9 in myelopoiesis and EVI1-induced leukemogenesis. Proc.
+Natl. Acad. Sci. U S A 110, 5594–5599. doi: 10.1073/pnas.1302645110
+Shibata, M., Kurokawa, D., Nakao, H., Ohmura, T., and Aizawa, S. (2008).
+MicroRNA-9 modulates Cajal-Retzius cell differentiation by suppressing Foxg1
+expression in mouse medial pallium. J. Neurosci. 28, 10415–10421. doi: 10.
+1523/jneurosci.3219-08.2008
+Shibata, M., Nakao, H., Kiyonari, H., Abe, T., and Aizawa, S. (2011). MicroRNA-9
+regulates neurogenesis in mouse telencephalon by targeting multiple transcription factors. J. Neurosci. 31, 3407–3422. doi: 10.1523/jneurosci.5085-10.2011
+Shimojo, H., Ohtsuka, T., and Kageyama, R. (2008). Oscillations in notch signaling
+regulate maintenance of neural progenitors. Neuron 58, 52–64. doi: 10.1016/j.
+neuron.2008.02.014
+
+Frontiers in Cellular Neuroscience
+
+Skeath, J. B., and Carroll, S. B. (1994). The achaete-scute complex: generation of
+cellular pattern and fate within the Drosophila nervous system. FASEB J. 8, 714–
+721. doi: 10.1016/0168-9525(92)90234-u
+Stigloher, C., Chapouton, P., Adolf, B., and Bally-Cuif, L. (2008). Identification of
+neural progenitor pools by E(Spl) factors in the embryonic and adult brain.
+Brain Res. Bull. 75, 266–273. doi: 10.1016/j.brainresbull.2007.10.032
+Takacs, C. M., and Giraldez, A. J. (2010). MicroRNAs as genetic sculptors: fishing
+for clues. Semin. Cell Dev. Biol. 21, 760–767. doi: 10.1016/j.semcdb.2010.02.
+003
+Tan, S.-L., Ohtsuka, T., González, A., and Kageyama, R. (2012). MicroRNA9 regulates neural stem cell differentiation by controlling Hes1 expression dynamics in
+the developing brain. Genes Cells 17, 952–961. doi: 10.1111/gtc.12009
+Tozzini, E. T., Baumgart, M., Battistoni, G., and Cellerino, A. (2012). Adult
+neurogenesis in the short-lived teleost Nothobranchius furzeri: localization of
+neurogenic niches, molecular characterization and effects of aging. Aging Cell
+11, 241–251. doi: 10.1111/j.1474-9726.2011.00781.x
+Walker, J. C., and Harland, R. M. (2008). Expression of microRNAs during
+embryonic development of Xenopus tropicalis. Gene Expr. Patterns. GEP 8, 452–
+456. doi: 10.1016/j.gep.2008.03.002
+Wheeler, B. M., Heimberg, A. M., Moy, V. N., Sperling, E. A., Holstein, T. W., Heber,
+S., et al. (2009). The deep evolution of metazoan microRNAs. Evol. Dev. 11, 50–
+68. doi: 10.1111/j.1525-142x.2008.00302.x
+Wienholds, E., Kloosterman, W. P., Miska, E., Alvarez-Saavedra, E., Berezikov,
+E., de Bruijn, E., et al. (2005). MicroRNA expression in zebrafish embryonic
+development. Science 309, 310–311. doi: 10.1126/science.1114519
+Wilting, S. M., Snijders, P. J. F., Verlaat, W., Jaspers, A., van de Wiel, M. A., van
+Wieringen, W. N., et al. (2013). Altered microRNA expression associated with
+chromosomal changes contributes to cervical carcinogenesis. Oncogene 32, 106–
+116. doi: 10.1038/onc.2012.20
+Xu, X.-L., Zong, R., Li, Z., Biswas, M. H. U., Fang, Z., Nelson, D. L., et al.
+(2011). FXR1P but not FMRP regulates the levels of mammalian brainspecific microRNA-9 and microRNA-124. J. Neurosci. 31, 13705–13709. doi: 10.
+1523/jneurosci.2827-11.2011
+Yang, J.-S., and Lai, E. C. (2011). Alternative miRNA biogenesis pathways and the
+interpretation of core miRNA pathway mutants. Mol. Cell 43, 892–903. doi: 10.
+1016/j.molcel.2011.07.024
+Yoo, A. S., Staahl, B. T., Chen, L., and Crabtree, G. R. (2009). MicroRNA-mediated
+switching of chromatin-remodelling complexes in neural development. Nature
+460, 642–646. doi: 10.1038/nature08139
+Yoo, A. S., Sun, A. X., Li, L., Shcheglovitov, A., Portmann, T., Li, Y., et al. (2011).
+MicroRNA-mediated conversion of human fibroblasts to neurons. Nature 476,
+228–231. doi: 10.1038/nature10323
+Zhao, C., Sun, G., Li, S., and Shi, Y. (2009). A feedback regulatory loop involving
+microRNA-9 and nuclear receptor TLX in neural stem cell fate determination.
+Nat. Struct. Mol. Biol. 16, 365–371. doi: 10.1038/nsmb.1576
+Conflict of Interest Statement: The authors declare that their research was conducted in the absence of any commercial or financial relationships that could be
+construed as a potential conflict of interest.
+Received: 01 October 2013; paper pending published: 23 October 2013; accepted: 31
+October 2013; published online: 20 November 2013.
+This article was submitted to the journal Frontiers in Cellular Neuroscience.
+Citation: Coolen M, Katz S and Bally-Cuif L (2013) miR-9: a versatile regulator of
+neurogenesis. Front. Cell. Neurosci. 7:220. doi: 10.3389/fncel.2013.00220
+Copyright © 2013 Coolen, Katz and Bally-Cuif. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY).
+The use, distribution or reproduction in other forums is permitted, provided the
+original author(s) or licensor are credited and that the original publication in this
+journal is cited, in accordance with accepted academic practice. No use, distribution
+or reproduction is permitted which does not comply with these terms.
+
+www.frontiersin.org
+
+November 2013 | Volume 7 | Article 220 | 11
+
+

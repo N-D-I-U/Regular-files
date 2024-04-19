@@ -1,0 +1,983 @@
+Cell, Vol. 87, 1203–1214, December 27, 1996, Copyright 1996 by Cell Press
+
+CREB Phosphorylation and Dephosphorylation:
+A Ca21- and Stimulus Duration–Dependent
+Switch for Hippocampal Gene Expression
+Haruhiko Bito,* Karl Deisseroth,* and Richard W. Tsien
+Department of Molecular and Cellular Physiology
+Beckman Center for Molecular and Genetic Medicine
+Stanford University School of Medicine
+Stanford, California 94305-5426
+
+Summary
+While changes in gene expression are critical for many
+brain functions, including long-term memory, little is
+known about the cellular processes that mediate stimulus–transcription coupling at central synapses. In
+studying the signaling pathways by which synaptic
+inputs control the phosphorylation state of cyclic
+AMP–responsive element binding protein (CREB) and
+determine expression of CRE-regulated genes, we
+found two important Ca21/calmodulin (CaM)–regulated
+mechanisms in hippocampal neurons: a CaM kinase
+cascade involving nuclear CaMKIV and a calcineurindependent regulation of nuclear protein phosphatase
+1 activity. Prolongation of the synaptic input on the
+time scale of minutes, in part by an activity-induced
+inactivation of calcineurin, greatly extends the period
+over which phospho-CREB levels are elevated, thus
+affecting induction of downstream genes.
+Introduction
+In all eukaryotic cells, proper communication between
+extracellular signals and the nucleus is necessary to
+trigger specific patterns of gene expression (Hunter,
+1995). Not only must this signaling transmit information
+in space, from the surface membrane to the nucleus,
+but it also must perform a conversion in time, to link
+external inputs that are often transient to nuclear outputs that are sustained over a much longer period. The
+linkage between different patterns of cellular activity
+and gene expression takes on special importance for
+the understanding of various forms of brain plasticity
+such as learning and memory. Bursts of synaptic activity
+that may induce prompt changes in synaptic strength
+can also control the expression of genes encoding synaptic proteins, ion channels, kinases, and immediate
+early genes (Bliss and Collingridge, 1993; Curran and
+Morgan, 1995). Some of these have been shown to be
+important in memory (Silva et al., 1992; Paylor et al.,
+1994; Matsuoka et al., 1995). More generally, the production of new RNAs and proteins is required for stable
+behavioral changes in many animal species (Davis and
+Squire, 1984; DeZazzo and Tully, 1995; Mayford et al.,
+1995). Thus, it is likely that the signaling between synapse and nucleus is critical for the generation and persistence of memory. However, it is not yet clear whether
+postmitotic neurons have evolved specific synapse-
+
+*These authors contributed equally to this work.
+
+to-nucleus signaling pathways or whether they rely entirely on the cellular machinery found in dividing cells
+such as fibroblasts.
+The cyclic AMP–responsive element binding protein
+(CREB) is a transcription factor of general importance
+in both neuronal and other cells (Hunter, 1995; Mayford
+et al., 1995). CREB phosphorylation on Ser-133 promotes the activation of genes with an upstream CRE
+element (Brindle and Montminy, 1992). CREB phosphorylation and downstream gene expression can in principle be regulated by protein kinases under the control
+of cAMP (Gonzalez and Montminy, 1989), Ca2 1 (Dash
+et al., 1991; Sheng et al., 1991; Bading et al., 1993;
+Deisseroth et al., 1996) or both (Impey et al., 1996).
+Alteration of CREB function specifically affects longterm synaptic changes and long-term memory while
+sparing short-term changes (Dash et al., 1990; Bourtchuladze et al., 1994; Yin et al., 1994, 1995; Bartsch et
+al., 1995). Furthermore, CREB-binding protein (CBP), the
+specific binding protein for phospho-CREB (pCREB) in
+the active transcriptional complex (Chrivia et al., 1993),
+displays a mutation in Rubinstein-Taybi syndrome, characterized by congenital malformation and mental retardation (Petrij et al., 1995).
+This study focused on the cellular processes that regulate the phosphorylation state of CREB in hippocampal
+neurons. pCREB was monitored at the single-cell level
+with an antibody specific for phospho-Ser-133 (Ginty et
+al., 1993). Synaptic activity simultaneously influenced
+both CREB phosphorylation (by a phosphorylation cascade involving multiple Ca21/calmodulin [CaM]–dependent kinases) and pCREB dephosphorylation (through
+calcineurin [CaN], a Ca2 1/CaM–dependent phosphatase). We found that the information contained in the
+brief bursts of synaptic activity can be stored for a much
+longer time scale, as embodied in the persistence of
+pCREB. This occurred in part through activity-induced
+inactivation of CaN, which affected the efficiency of
+pCREB dephosphorylation by nuclear protein phosphatase 1 (PP1). Induction of two CRE-dependent genes,
+c-fos and somatostatin (SS), was found to depend on
+the same stimulus parameters and signaling pathways
+that control the persistence of nuclear pCREB.
+Results
+Stimulus Duration Dependence of CRE-Mediated
+Gene Expression Correlates with Sustained
+Rather Than Transient pCREB in the Nucleus
+We used c-Fos and SS-14 as markers of CRE-mediated
+gene expression (Brindle and Montminy, 1992; Bading
+et al., 1993). Ninety minutes after receipt of an electrical
+stimulus for 18 s at 5 Hz (a frequency within the physiological range of synaptic activity in hippocampal neurons), levels of nuclear c-Fos immunoreactivity (IR) and
+cytoplasmic SS-14-IR remained unchanged relative to
+control; however, when the duration of the stimulus train
+was increased to 180 s, the IR increased in a number of neurons (p < 0.05, Kolmogorov-Smirnov test; Figure 1A).
+CREB Ser-133 phosphorylation is critical in CRE-
+
+Cell
+1204
+
+Figure 1. Stimulus Duration Dependence of
+CRE-Mediated Gene Expression Correlates
+with Sustained Rather Than Transient pCREB
+(A) (Left) Induction of c-Fos-IR with a stimulus
+train of 180 s at 5 Hz but not with 18 s at 5
+Hz. Corresponding histograms of IR show the
+appearance of a new peak with higher IR after
+longer stimulation. (Right) Increase in somatostatin (SS)-14-IR with 180 s at 5 Hz but
+not with 18 s at 5 Hz. A significant amount of
+basal cytoplasmic SS-14-IR was present.
+(B–D) Stimulus duration controls phosphoCREB decay.
+(B) Stimulus trains for either 18 s at 5 Hz or
+180 s at 5 Hz induced rapid CREB phosphorylation to a similar extent. However, decay
+from the phosphorylated state was significantly slowed after the longer stimulus.
+Mean 6 SD (n 5 5).
+(C) Similar observations with 50 Hz trains
+(n 5 3).
+(D) Similar observations with 90 mM K1 stimulation. Mean 6 SD (n 5 4–7).
+Arrowheads, nonstained nuclei; asterisks,
+p < 0.05.
+
+dependent gene expression (Brindle and Montminy,
+1992). Confocal analysis of nuclear pCREB-IR in hippocampal neurons, by means of an antibody specific for
+CREB phosphorylated at Ser-133 (Ginty et al., 1993),
+confirmed its bimodal distribution into IR-positive nuclei
+or background and indicated that the proportion of the
+IR-positive nuclei was consistent with that determined
+by conventional epifluorescence microscopy (Bito et al.,
+unpublished data). We found that the shorter stimulus
+(18 s) at 5 Hz was as efficient as a longer stimulus
+(180 s) in triggering an initial rise in pCREB (Figure 1B).
+Prolongation of the stimulation did not significantly alter
+the peak level of pCREB-IR or its cellular distribution
+(data not shown). However, longer stimulation produced
+greater stability in nuclear pCREB-IR over time, as monitored in neurons kept quiescent with tetrodotoxin (TTX)
+(Figure 1B). This dependence of pCREB persistence on
+the duration of stimulation was common to field stimulation at 5 Hz (Figure 1B) or 50 Hz (Figure 1C) and cellular
+depolarization with 90 mM K1 (Figure 1D).
+This series of experiments indicated that the rate of
+decline of pCREB-IR was consistently regulated by the
+duration of stimulation. The altered time course of
+pCREB decay strongly increased its time integral and
+might thus be expected to exert a substantial effect
+on CRE-dependent transcription. Indeed, the greater
+persistence of pCREB after a 3 min stimulus (Figures
+1B–1D) was paralleled by increased expression of c-Fos
+and SS-14 (Figure 1A).
+Nuclear CaMKIV May Be Involved in CREB
+Phosphorylation in Hippocampal Neurons
+To clarify the biochemical mechanism underlying the
+stimulus-duration dependence of pCREB and gene expression, we first sought to identify the nuclear CREB
+
+kinase. Many Ser/Thr kinases can phosphorylate CREB
+Ser-133. These include protein kinase A (PKA; Gonzalez
+and Montminy, 1989), protein kinase C (PKC; Xie and
+Rothstein, 1995), Ca21/CaM–dependent protein kinases
+such as CaMKI (Sheng et al., 1991), CaMKII (Dash et
+al., 1991; Sheng et al., 1991; Yoshida et al., 1995), and
+CaMKIV (Cruzalegui and Means, 1993; Enslen et al.,
+1994; Matthews et al., 1994; Sun et al., 1994), as well
+as a Ras-dependent p105 kinase (Ginty et al., 1994), and
+a pp90rsk (Bohm et al., 1995).
+We used an array of potent kinase inhibitors to help
+delineate the nature of the kinase (Figures 2A and 2B).
+Staurosporine, a nonselective kinase inhibitor, largely
+eliminated pCREB formation at high concentration. A
+selective CaM kinase inhibitor, KN-93, significantly reduced CREB phosphorylation, whereas its inactive analog, KN-92, had no effect (Figures 2A and 2B). In contrast, pCREB formation was unaffected by saturating
+doses of selective inhibitors of PKA, PKC, cGMP-dependent protein kinase, mitogen-activated protein kinase
+kinase, and tyrosine kinases (Figure 2B). Taken together,
+these data suggest that CaM kinase(s) are the main
+regulator(s) of CREB phosphorylation in hippocampal
+neurons.
+Figure 2C compares subcellular distributions of
+CaMKI, CaMKII (a and b isoforms), and CaMKIV, four
+multifunctional CaM kinase isotypes expressed in hippocampus and capable of phosphorylating CREB in
+vitro (Braun and Schulman, 1995). The similarity in the
+pharmacology of the rise in pCREB at two ages—4 days
+in vitro (div), when synaptic connections had not yet
+formed, and >9 div, when evoked synaptic transmission
+could be consistently recorded—suggested that the
+CREB kinase might be expressed from early on in culture
+(Figure 2B). At 4 div, CaMKIV was prominently expressed
+
+Synaptic Control of CREB Phosphorylation
+1205
+
+Figure 2. Nuclear CaMKIV May Be Involved
+in CREB Phosphorylation in Hippocampal
+Neurons
+(A) A KN-93-sensitive kinase is involved in
+CREB phosphorylation (immunoblot at >9
+div).
+(B) Similarity of kinase inhibitor responsiveness at 4 div and >9 div. Effects of CaM
+kinase inhibitors (KN-93, 30 mM; KN-92, an
+inactive isomer, 30 mM), PKA inhibitors
+(KT5720, 2 mM; Rp-8-Cl-cAMPS, 100 mM; Rp8-CPT-cAMPS, 100 mM), a PKG inhibitor (Rp8-Br-cGMPS, 50 mM), a PKC inhibitor (chelerythrine, 10 mM), an MEK inhibitor (PD98059,
+50 mM), and tyrosine kinase inhibitors
+(genistein, 200 mM; tyrphostin A47, 50 mM).
+Mean 6 SD (n 5 4–5).
+(C) Subcellular localization of CaM kinases
+in cultured hippocampal neurons before and
+after synaptogenesis (4 and >9 div, respectively). Only CaMKIV showed significant nuclear IR at any stage. Activity-dependent
+translocation was not detected in any case
+(data not shown).
+
+in the nucleus; there also was a measurable amount
+of CaMKI-IR and a faint hint of CaMKII-b, whereas
+CaMKII-a was undetectable (Figure 2C, top row). After
+synapse formation, at >9 div, all four members of the
+CaM kinase family appeared in abundance (Figure 2C,
+bottom row), but only CaMKIV showed a predominant
+nuclear localization. These findings confirmed previous
+studies in brain sections (Ito et al., 1994; Brocke et al.,
+1995; Nakamura et al., 1995; Picciotto et al., 1995). The
+lack of significant nuclear staining for CaMKII diminishes
+the likelihood of a role for this kinase in CREB Ser-133
+or Ser-142 phosphorylation (Sun et al., 1994). On these
+grounds, CaMKIV must be regarded as a likely candidate
+for CREB kinase in hippocampal neurons.
+Suppression of Nuclear CaMKIV Disrupts
+CREB Phosphorylation
+We next sought evidence of a linkage between CaMKIV
+expression and CREB phosphorylation. There was a
+strong correlation between nuclear CaMKIV expression
+and the depolarization-induced pCREB-IR at the singlecell level (Figure 3A, no oligos, p < 0.0001, x2 test). An
+antisense strategy was used to establish a causal relationship. To manipulate nuclear levels of CaMKIV, two
+antisense oligonucleotides (HN-1 and HN-3) were used
+to target the translation initiation sites of the a- and
+b-splice variants, respectively, of CaMKIV. Corresponding missense oligos (AD-2 and AD-4) served as controls.
+Application of both antisense oligos together significantly decreased the number of neurons immunopositive for both CaMKIV and pCREB while augmenting the
+pCREB2/CaMKIV2 category (Figures 3A–3C). Thus, the
+correlation between CaMKIV expression and pCREB remained strong (p < 0.0001, x 2 test). Furthermore, the
+antisense oligos did not alter total CREB-IR (Figure 3C,
+right) or Ca2 1 influx monitored with fura-2 (data not
+shown). In contrast, missense treatment left the patterns
+of immunopositivity unchanged relative to untreated
+
+neurons (Figures 3A–3C). With data from the other experiments, the antisense results provide compelling evidence of involvement of CaMKIV as CREB kinase in
+Ca21-regulated CREB phosphorylation in hippocampal
+neurons.
+Possibility of a CaM Kinase Kinase Cascade
+Studies of recombinant CaMKIV demonstrate a striking
+activation upon phosphorylation by an upstream kinase
+(Okuno et al., 1994; Selbert et al., 1995; Tokumitsu et
+al., 1995). This prompted us to monitor phosphorylation
+of CaMKIV during stimulation in metabolically 32Plabeled neurons. After 90 mM K1 depolarization, a >4fold increase in CaMKIV labeling was found relative to
+a sham treatment (Figure 4A). This increase was blocked
+in 0 Ca2 1/EGTA or by the CaM kinase inhibitor KN-93,
+indicating that CaMKIV activation by phosphorylation
+depended on Ca21 influx and an upstream CaM kinase
+(Figure 4A). Consistent with the phosphorylation data,
+the same stimulus increased nuclear Ca2 1/CaM–
+dependent (z2-fold increase, p < 0.05; Figure 4B) as well
+as Ca21/CaM-independent (40% increase, p < 0.05; data
+not shown) activities of CaMKIV. If CaMKIV activation
+were significant for pCREB-dependent transcriptional
+activation, a kinetic relationship between stimulusdependent phosphorylation of CaMKIV and formation
+of the pCREB–CBP complex would be expected. Both
+CaMKIV phosphorylation and pCREB–CBP complex formation reached a maximal level within 1 min of high K1
+depolarization and did not further increase during the
+next 2 min of depolarization (Figures 4C and 4D). Furthermore, both pCREB-CBP formation and CaMKIV
+phosphorylation were sensitive to treatment with KN93, whereas a PKA inhibitor, KT5720, had little effect.
+CaMKIV-mediated phosphorylation of CREB thus may
+be critical for pCREB-CBP association.
+Our results indicate that even a short (1 min) depolarization, which induces a rapid and maximal phosphorylation of CREB, also rapidly and maximally activates
+
+Cell
+1206
+
+Figure 3. Suppression of Nuclear CaMKIV Disrupts Nuclear CREB Phosphorylation
+(A) Strong correlation between nuclear CaMKIV expression and depolarization-induced pCREB-IR at the single-cell level. Correlation was
+preserved even after treatment with antisense or missense oligos.
+(B) Example of the combined antisense effect on nuclear CaMKIV-IR and pCREB-IR. Confocal micrographs showing optical sections of nuclei.
+Arrowheads, IR-negative nuclei.
+(C) Reduction of CaMKIV-IR by antisense treatment disrupts pCREB-IR (left) but does not affect CREB-IR (right).
+(D) Summary showing that effectiveness of antisense oligos targeted to CaMKIV-a and CaMKIV-b in combination in interfering with pCREB
+formation, relative to other treatments. Hippocampal neurons at 4 div. Mean 6 SD, n 5 6.
+
+CaMKIV and that this activation is mediated in part
+through phosphorylation of CaMKIV by an upstream
+CaM kinase kinase. It is thus likely that even brief stimulation facilitates formation of a stable pCREB–CBP complex through CaMKIV-induced CREB phosphorylation.
+This process was not significantly facilitated by prolongation of the stimulus to 3 min, suggesting that it is not
+the extent of the initial rise in pCREB that determines
+its persistence.
+Evidence That PP1 Mediates Nuclear
+CREB Dephosphorylation
+We turned next to PPs to determine whether control of
+CREB dephosphorylation could underlie the stimulusduration dependence of CRE-mediated gene expression. IRs for both PP1 and PP2A, two major classes
+of PPs that account for the majority of cellular protein
+phosphatase activity (Cohen et al., 1990; Shenolikar,
+1994), were clearly present in the nuclei of the cultured
+hippocampal neurons (data not shown; see also Ouimet
+et al., 1995). In contrast, CaN (PP2B), a Ca21/CaM–
+dependent PP, was barely detectable in the nucleus
+(Figure 5D). Okadaic acid (OA) was used to discriminate
+between the possible effects of PP1 (block of which
+requires micromolar OA) and PP2A, PPX/PP4, and PP5
+(inhibited by OA in the 10 nM range) (Cohen et al., 1990;
+
+Shenolikar, 1994; Nagao et al., 1995). A low dose (20 nM)
+of OA failed to alter the decline of pCREB-IR following
+synaptic stimulation or high K1 depolarization, whereas
+a high dose (2 mM) of OA completely inhibited pCREB
+dephosphorylation (Figures 5A and 5B). An inactive analog, 1-nor-okadaone (2 mM), had no effect, whereas calyculin A (5 nM), which blocks both PP1 and PP2A, completely prevented the CREB dephosphorylation (Figure
+5C). None of the phosphatase inhibitors induced CREB
+phosphorylation by themselves (data not shown). Because the pCREB phosphatase was sensitive to micromolar OA or calyculin A, it could be identified on pharmacological grounds as PP1.
+CaN as a Negative Regulator of pCREB
+CaN was discounted as the pCREB phosphatase, based
+on its predominantly cytoplasmic location in the cultured
+neurons (Figure 5D) and because OA blocked pCREB
+dephosphorylation completely at 2 mM (Figure 5C), well
+below the half-maximal inhibitory concentration of OA
+for CaN (Cohen et al., 1990). The possibility still remained
+that CaN might serve as a modulator and influence the
+pCREB dephosphorylation by PP1, acting perhaps from
+the cytoplasm. Following a brief stimulation, a significantly higher amount of pCREB persisted after 45 min
+recovery in the presence of 1 mM FK506, a CaN inhibitor,
+
+Synaptic Control of CREB Phosphorylation
+1207
+
+Figure 4. Activation of CaMKIV by a CaM Kinase Kinase Parallels Elevation of pCREB
+within the CBP Complex
+(A) (Top) CaMKIV content in crude cell lysates, monitored by immunoblot. (Bottom)
+Depolarization-induced phosphorylation of
+CaMKIV is Ca21-influx– and CaM kinase–
+dependent. EGTA (2.5 mM, 0 Ca2 1), KN-93
+(30 mM, 15 min preincubation). (B) Increase
+in Ca21/CaM–dependent activity of CaMKIV
+in nuclear extracts from hippocampal neurons after a 90 mM K1 stimulus. Mean 6 SD
+(n 5 6).
+(C) (Top) CaMKIV content in crude cell lysates. (Middle) Autoradiograph of timedependent phosphorylation of CaMKIV-a and
+CaMKIV-b. (Bottom) Autoradiograph demonstrating time-dependent increase of phosphoproteins in the CBP complex, including a
+phosphoprotein with a molecular weight consistent with pCREB.
+(D) Phosphorylation of CaMKIV correlates
+with pCREB–CBP complex formation.
+
+than with rapamycin (1 mM), an inactive analog (Figures
+5E and 5F). Similar results were obtained after electrical
+stimulation (50 Hz for 18 s) or after exposure to high K1
+(Figure 5E). Contrary to the effect of OA (Figures 5A and
+5B), FK506 did not prevent pCREB dephosphorylation
+itself but clearly slowed the time course of the return to
+baseline (Figures 5F, 5G, and 5I). This suggests that CaN
+may promote pCREB dephosphorylation in the wake of
+pCREB induction by a brief stimulus train. CaN is probably activated during a field stimulation, even at a frequency of 5 Hz, since the bulk cytoplasmic Ca21 concentration ([Ca21]i) under these conditions (Figure 6A) is
+adequate for CaN activation (Stemmer and Klee, 1994).
+We next examined the effect of FK506 following a longer
+stimulus that was effective in giving rise to CRE-mediated gene expression (Figure 1A). When the same stimulus train was repeatedly applied with a 1 min interstimulus interval or when the stimulus was prolonged 10-fold
+(from 18 to 180 s), FK506 no longer affected the decline
+of pCREB (Figures 5H and 5J). Thus, increasing the
+duration of the stimulus occluded the effect of CaN
+inhibition. This implies that CaN itself, or signaling molecules downstream of CaN, became inactivated or inaccessible with longer stimulus duration.
+Recent work from Klee and colleagues (Wang et al.,
+1996) has suggested that CaN undergoes inactivation
+upon prolonged conjunction of elevated levels of [Ca21]i
+and superoxide anions (O22). This prompted us to examine both intracellular Ca2 1 and redox dynamics during
+electrical stimulation of the hippocampal neurons. During a 180 s, 5 Hz train, we observed a maintained pedestal of [Ca21]i (in 13 of 13 neurons, averaging z150 nM),
+whereas [Ca21]i fell toward the basal level of z50 nM
+following an 18 s, 5 Hz train (Figure 6A). Prolonged electrical stimulation also induced a steadily increasing oxidative conversion of nonfluorescent dihydrorhodamine
+
+6G into fluorescent rhodamine (Figure 6B). The zones
+with increased oxidation of the probe were seen in both
+soma and dendrites and tended to be juxtamembranous
+and contiguous (Figure 6C). These data show that both
+factors necessary for activity-induced inactivation of
+CaN (Wang et al., 1996) can in fact be observed in the
+hippocampal cells. As a further test of the involvement
+of a reactive oxygen species in the control of pCREB,
+we studied the effects of agents that interfere with production or inactivation of O22: N-tert-butyl-a-(2-sulfophenyl)-nitrone (S-PBN), an electron spin trap and a
+strong radical scavenger, and diethyldithiocarbamic acid
+(DDC), a Cu21 chelator that blocks superoxide dismutase
+(SOD). In the presence of S-PBN, even a long stimulus
+was incapable of delaying the pCREB decay, whereas
+in the presence of DDC, even a short stimulus gave
+rise to a persistent nuclear pCREB (Figures 6D and 6E).
+These results support the hypothesis that synaptic stimulation increases oxidative activity and thereby promotes the inactivation of CaN (Wang et al., 1996), thus
+slowing pCREB dephosphorylation.
+CaN as a Negative Regulator of CRE-Mediated
+Gene Expression
+If CaN activity spells the difference between short- or
+long-lived elevation of pCREB, inhibition of CaN might
+allow even brief stimuli to trigger CRE-dependent transcription successfully. To test this idea, we monitored
+the effect of CaN inhibition on c-Fos and SS-14 induction
+(Figure 7) . Indeed, treatment with FK506 enabled short,
+18 s stimuli to produce a significant increase in nuclear
+c-Fos-IR and cytoplasmic SS-14-IR (p < 0.01, Kolmogorov-Smirnov test), whereas the same stimulation had
+failed to do so in the absence of CaN inhibition (Figure 1).
+These data underscore the importance of CaN activity in
+
+Cell
+1208
+
+controlling the persistence of nuclear pCREB and the
+occurrence of CRE-dependent nuclear events.
+Discussion
+
+Figure 5. pCREB Dephosphorylation Pathway: PP1 as pCREB
+Phosphatase and CaN as Regulator
+(A) Incubation with a high dose (2 mM) of OA, but not with a low
+dose (20 nM), completely blocks the decline of pCREB after synaptic
+stimulation. Mean 6 SD, n 5 3–6.
+(B) Similar observations after a high K 1 stimulus, shown as a Western
+blot.
+(C) Summary of effects of various phosphatase inhibitors. Mean 6
+SD (n 5 9).
+(D) Cytoplasmic localization of regulatory (shown here) and catalytic
+(not shown) subunits of CaN; both IRs were below detection limit
+in the nucleus.
+(E) Slowing of pCREB dephosphorylation by FK506 (1 mM), a specific
+CaN inhibitor, but not by rapamycin (1 mM), an inactive analog.
+Mean 6 SD, n 5 9.
+(F) Western blot confirms a FK506-sensitive component in pCREB
+dephosphorylation.
+(G and H) Incubation with FK506 during the decay phase significantly
+slowed the kinetics of decay of pCREB after a short stimulus train
+(18 s at 50 Hz), but not when train of stimuli was repeated three
+times with a 1 min interstimulus interval. Mean 6 SD, n 5 5.
+(I and J) Exposure to FK506 produced a delay in the decline of
+
+A CaM Kinase Cascade and CaN Control CREB
+Phosphorylation and Dephosphorylation
+Our work indicates that activity at hippocampal synapses controls the phosphorylation state of CREB
+through two opposing mechanisms, apparently both involving Ca21/CaM–regulated enzymes. A CaM kinase
+cascade consisting of CaMKIV and a CaMKIV kinase
+appeared to play a critical role in the formation of
+pCREB. pCREB formation was rapid, reaching a plateau
+within 1 min (unpublished data), in accordance with the
+rapid activation kinetics of CaM kinases (Braun and
+Schulman, 1995). This rapidity suggests that activation
+of CaMKIV is achieved as the final step of a CaM kinase
+cascade rather than by autophosphorylation (Cruzalegui
+and Means, 1993; Okuno and Fujisawa, 1993; Selbert
+et al., 1995; Tokumitsu et al., 1995). A kinase cascade
+would confer noteworthy functional properties in nuclear signaling, including the potential for signal amplification and for convergence of multiple signals (Hill and
+Treisman, 1995; Hunter, 1995), and may be appropriate
+as part of a cell switch mechanism (Marshall, 1995; Huang and Ferrell, 1996). It will be relevant to identify upstream CaM kinase kinases and to determine their mode
+of regulation. A similar CaMKIV cascade has been reported in T cells (Hanissian et al., 1993; Park and Soderling, 1995).
+Our experiments suggest that once CREB is phosphorylated, the maintenance of this state is controlled by
+regulation of a pCREB phosphatase. Our data implicate
+PP1 as the pCREB phosphatase (Figure 5), consistent
+with a previous work in PC-12 cells (Hagiwara et al.,
+1992). We also have identified a novel role for cytoplasmic CaN in regulating the decline in pCREB. Inhibition of CaN retarded the decay of pCREB levels without
+preventing its ultimate dephosphorylation (Figures 5F,
+5G, and 5I). In principle, this effect could be explained
+if CaN acted by inhibiting CaMKIV or its upstream activators, although no direct biochemical evidence for this
+possibility is yet available. Another possibility is that
+CaN acts by potentiating the PP1 pathway, presumably
+by dephosphorylating a PP1 regulator, such as phospho-inhibitor 1, a PP1 inhibitor. We envision that activation of cytoplasmic CaN, by even brief bouts of synaptic
+stimuli, would reduce cytoplasmic levels of phosphoinhibitor 1 and eventually diminish nuclear levels as well,
+thereby potentiating nuclear PP1 activity and accelerating pCREB dephosphorylation. A similar role was attributed to CaN in the regulation of PP1 during the induction
+of long-term depression at hippocampal synapses (Lisman, 1989; Malenka, 1994).
+Because CaN is a Ca21/CaM–regulated enzyme, in
+effect we are proposing that signals regulating phosphorylation and dephosphorylation both involve Ca21/
+
+pCREB dephosphorylation after a stimulus train of 18 s at 5 Hz, but
+not with 180 s at 5 Hz. Mean 6 SD, n 5 5. Asterisk, p , 0.05.
+
+Synaptic Control of CREB Phosphorylation
+1209
+
+Figure 6. Evidence for Involvement of Synaptic Activity–Induced Oxidative Activity in Regulation of pCREB Dephosphorylation
+(A) Changes in bulk [Ca2 1]i during short and
+prolonged stimulation at 5 Hz. Mean 6 SEM,
+n 5 13.
+(B) Synaptic stimulation induced a steady increase in dihydrorhodamine oxidation, consistent with a step increase in oxidative activity during stimulation. Closed circles, mean 6
+SE from 42 subcellular areas with increased
+fluorescence (6 neurons); open circles, mean 6
+SE from 52 other areas from the same neurons (including cytoplasmic and nuclear regions), which showed no significant change
+apart from a slight fading of fluorescence.
+(C) Example of the distribution of areas showing oxidative activity.
+(D) A spin trap for superoxide (S-PBN, 100
+mM) prevented pCREB stabilization after prolonged synaptic stimulation. DDC (5 mM), an
+SOD inhibitor, rendered a brief stimulus as
+effective as a prolonged stimulus.
+(E) Similar effect of both drugs after 90 mM
+K1, 1 min stimulation. The trapping of O22
+favored pCREB decline, and the prevention
+of O 22 clearance delayed it; in either case,
+duration dependence was eliminated (p >
+0.4). Mean 6 SD, n 5 4–5.
+
+CaM (Figure 8). The bidirectional nature of this synaptic
+control of CREB seems to be well suited for inducing a
+transient pulse of CREB phosphorylation. The transience of this CREB peak after brief stimulation appears
+to be responsible for the inability of brief stimulation to
+induce CRE-dependent gene expression (Figure 1A).
+A Synaptically Controlled, Stimulus Duration–Sensitive
+Mechanism for Transcription
+Our results provide fundamental information about the
+features of neural inputs that are encoded by CREB
+phosphorylation. When we compared the time course
+of pCREB decay following short and long stimulus trains,
+at frequencies and durations appropriate to induce synaptic potentiation or depression (Deisseroth et al., 1996),
+we found that it was the duration of the synaptic activity
+rather than its frequency that determined how long
+pCREB remained increased above basal levels (Figures
+1B and 1D). Lengthening of the stimulus duration from
+z1 to 3 min greatly prolonged the residual nuclear
+pCREB (Figures 1B–1D) and also produced an increase
+in the expression of CRE-regulated gene products c-Fos
+and SS-14 (Figure 1A). Thus, the temporal extension of
+the pCREB signal may serve as a stimulus duration–
+
+sensitive switch for turning on CRE-mediated transcription. The sustained presence of pCREB in the nucleus
+may ensure stabilization of the pCREB–CBP complex
+that is necessary for efficient CRE-regulated gene expression; a preinitiation complex must be stabilized to
+maintain ongoing transcription, as recently demonstrated in vivo by Ho et al. (1996). A similar example of
+a Ca2 1-dependent, duration-sensitive pathway has been
+noted in gene induction by nuclear factor of activated T
+cells (NFAT) (reviewed in Crabtree and Clipstone, 1994).
+In contrast, what is the significance of the clear but
+transient rise in pCREB evoked by brief stimuli? It might
+simply represent the behavior of the switch mechanism
+as a filter to screen out weak inputs. Another possibility
+is that the transient pCREB signal may be sufficient
+to promote transcription in a subset of CRE-regulated
+genes that are more predisposed to activation than
+those studied here. Alternatively, the pCREB transient
+might provide a priming signal, which could act in combination with an otherwise ineffective input to produce
+a nuclear effect. The potential importance of such a
+priming action is supported by studies showing that
+dephosphorylated CREB can act as a dominant negative
+regulator of CRE-dependent gene expression mediated
+
+Cell
+1210
+
+Figure 7. FK506 Reverses the Negative Regulation by CaN and Permits Coupling of Short Stimuli with Downstream Gene Expression, Consistent
+with Persistence of pCREB
+(Left) c-Fos-IR was induced in the presence of FK506 after a short stimulus (18 s at 5 Hz). Arrowheads, IR-negative nuclei. (Right) Similar
+findings with SS-14-IR.
+
+by other CRE-binding transcription factors (Vallejo et
+al., 1995).
+CaN as a Key Element in the Duration-Sensitive
+Gene Expression Switch
+The prolonged detection of pCREB in the nucleus was
+not only functionally important; it also was surprising in
+mechanistic terms because it could not be explained
+by kinase regulation. Because CREB formation and
+pCREB–CBP complex formation reached a plateau
+within the first minute of stimulation (Figure 4C), merely
+lengthening the stimulus by z2 min would be expected
+only to yield a trivial increase in the persistence of nuclear pCREB and not the prolongation by 20–30 min that
+actually was observed (Figures 1B–1D). These observations provided early clues that there may be a different
+kind of regulatory mechanism, one involving control of
+phosphatase activity.
+Our experiments show that CaN is an important player
+in conditioning the switch mechanism (Figures 5–7).
+There are three major findings. First, when CaN was
+blocked by FK506, short stimulus trains became as potent as long stimuli in promoting increases in pCREB,
+with critical consequences for CRE-dependent gene expression. Of note, FK506 has also been reported to augment pCREB-IR and c-Fos-IR in organotypic slices of
+the striatum (Liu and Graybiel, 1996). Second, after prolonged stimulation, pCREB-IR could not be further increased by FK506. Third, local, synaptically stimulated
+generation of O22 or a related oxidative species appeared to be critical in regulating the stimulus duration
+dependence of pCREB dephosphorylation.
+The first finding suggests that CaN is involved in accelerating the decay of pCREB, thus uncoupling CRE-regulated gene expression in the wake of a brief stimulus
+
+train. The second result implies that the stimulus duration dependence and CaN dependence are mutually occlusive. Finally, the third observation is consistent with
+a model in which inactivation of CaN is induced in a
+Ca2 1-dependent, activation-specific manner (Stemmer
+et al., 1995) by a change in its redox state, possibly by
+the action of O2 2 and regulated by SOD (Wang et al.,
+1996). Further studies are clearly needed to elucidate
+fully the role of synaptically induced O22 release and
+its physiological effect on various neuronal signaling
+pathways.
+Neurobiological Perspectives and Significance
+Experiments in Aplysia and Drosophila have shown the
+importance of PKA-dependent signaling both in CREinduced transcription and in long-term memory (DeZazzo
+and Tully, 1995; Mayford et al., 1995). However, evidence
+linking PKA to memory is lacking in mammals; in fact,
+PKA-deficient mice appeared normal with regard to
+learning and long-term memory, although late long-term
+potentiation and long-term depression were perturbed
+(Huang et al., 1995). Furthermore, our findings have
+failed to link PKA to CREB phosphorylation, indicating
+that the mammalian hippocampal CREB pathway may
+be distinct from those characterized in invertebrates
+(Mayford et al., 1995).
+PKA may be involved in some other aspects of CREmediated gene expression in mammals. Indeed, evidence from PC-12 cells has shown that a basal level of
+PKA activity is required for CRE-mediated gene expression though not essential for CREB phosphorylation itself (Brindle et al., 1995; Thompson et al., 1995). In an
+acute hippocampal slice preparation, CRE activation
+induced by a protocol of late long-term potentiation was
+shown to be mediated at least in part by Ca2 1-induced
+
+Synaptic Control of CREB Phosphorylation
+1211
+
+Figure 8. CREB as a Stimulus Duration–Sensitive Switch in Hippocampal Gene Expression
+(Top) The persistence of pCREB (hour time scale) can be sharply
+altered by changes in stimulus duration (minute time scale) by a
+switch regulated by kinases and phosphatases. Prolonged stimulation induces inactivation of the phosphatase pathway, allowing the
+temporal persistence of nuclear pCREB, which appears critical in
+the signaling that leads to activation of CRE-regulated genes.
+(Bottom) A working model of Ca21/CaM–mediated, bidirectional
+control of pCREB in the nucleus. Synaptic Ca21 entry triggers a
+submembranous increase in [Ca21]i, which in turn activates a Ca21/
+CaM–dependent process leading to a trans-phosphorylation of nuclear CaMKIV, possibly by a CaM kinase kinase. Dephosphorylation
+of CREB is mediated by a nuclear phosphatase with sensitivity to
+high OA, presumably PP1. CaN is depicted as causing an acceleration in CREB dephosphorylation rate; a possible target for CaN is
+phospho-inhibitor-1, acting as an inhibitory subunit of PP1 when
+phosphorylated. This scheme can account for the results summarized (top). During a brief stimulus, simultaneous activation of both
+kinase and phosphatase pathways ensures that pCREB elevation
+will be large but brief. Longer stimuli cause prolongation of nuclear
+pCREB, possibly by inhibition of CaN via O22, thus hampering the
+phosphatase pathway. Similarly, when CaN is blocked pharmacologically, even brief stimuli can bring about a prolonged pCREB
+transient. CaCh, calcium channel.
+
+stimulation of PKA (Impey et al., 1996). PKA could also
+act as a gate to modify the efficiency of postsynaptic
+signaling pathways required for CREB phosphorylation,
+while not being directly responsible for it (Blitzer et al.,
+1995). Furthermore, phosphorylation of CBP by PKA or
+mitogen-activated protein kinase may be required to
+enhance transactivation potential of CBP (Janknecht
+and Hunter, 1996). Further investigation should clarify
+the interactions between Ca21-dependent pathways and
+other signaling cascades.
+An additional layer of transcriptional regulation may
+be provided by parallel recruitment of CREB activators
+and inhibitors, the difference or ratio of which is critical
+for gene expression (Bartsch et al., 1995; Yin et al., 1995).
+The relative rate of decay of activator and inhibitor after
+each individual trial is critical in such systems (Yin et
+
+al., 1995). Slowing the decay of the activator relative to
+the counteracting inhibitor would greatly increase the
+accumulation of the resultant of these opposing signals.
+Our results raise the possibility that activity-induced inactivation of CaN might prove important for accumulation of the net differential between activator and inhibitor
+signals in mammalian hippocampal neurons.
+Although we have delineated pathways by which synaptic activity controls CRE-dependent gene expression,
+we do not know which of the many candidate CREregulated genes are vital in memory formation. CREB
+might be involved in regulating neuronal properties such
+as action potential firing (e.g., through the K1 channel
+Kv1.5), neurotransmitter release (e.g., through synapsin
+I), or postsynaptic responsiveness (e.g., through CaMKII-a). We also do not know whether the duration-dependent gene expression switch outlined here participates
+in memory formation in vivo. However, one implication
+of our results is that perturbation of CaN function might
+have noteworthy effects on the protein synthesis–
+dependent phase of long-term memory. This prediction
+apparently has been verified recently in a chick learning
+model (Bennett et al., 1996). Further tests in CaN knockout mice (Zhang et al., 1996) or in other organisms such
+as Drosophila are desirable. The identification of novel
+mechanisms by which synaptic activity controls expression of CRE-dependent genes raises further questions
+about their role in physiological events (e.g., alteration
+of synaptic strength, apoptosis, and formation and elimination of synapses), as well as in pathological processes
+(e.g., epilepsy or ischemic injury).
+
+Experimental Procedures
+Electrical Stimulation, Pharmacological Manipulation,
+and Immunocytochemical Analysis
+of Hippocampal Neurons
+Hippocampal neurons were cultured as described by Deisseroth et
+al. (1996). After preincubation at room temperature for 2 hr in Tyrode
+containing 2 mM Ca21/2 mM Mg21/10 mM glycine/1 mM TTX, neurons
+were stimulated either by electrical field stimulation (z0.5 mA, 1 ms
+current pulses applied across the coverslip) or by depolarization
+with 90 mM K1. Field stimulation was applied after removal of TTX,
+whereas high K 1 depolarization was done in TTX. Neurons were
+immediately fixed (30 s after field stimulation or within 5 s after high
+K 1 stimulation) or returned to Tyrode/TTX.
+When used, kinase inhibitors were present during a preincubation
+period of 20–30 min and also during stimulation. Phosphatase inhibitors were usually applied only after field stimulation, but with high
+K 1 stimulation, they also were included during the last 45 min of
+preincubation; in all phosphatase inhibitor experiments, TTX, D-AP5
+(50 mM), and CNQX (10 mM) were included to avoid effects due to
+modification of synaptic transmission. Exposure to the O22 modulatory drugs began 30 min prior to stimulation and continued during
+the 45 min recovery period. Effects of synaptic activity on gene
+expression were measured by incubation of neurons at 378C for 90
+min in Tyrode/TTX after synaptic stimulation at room temperature
+as described above.
+Immunofluorescent staining was performed as described (Deisseroth et al., 1996). Specimens were examined with a Zeiss Axiophot
+epifluorescence microscope (courtesy of R. H. Scheller) or with an
+MDI MultiProbe 2010 confocal laser scanning microscope (CLSM)
+at the Cell Sciences Imaging Facility, Beckman Center. Scoring of
+CREB phosphorylation by nuclear pCREB positivity was based on
+Alberts et al. (1994) and was performed as described (Deisseroth
+et al., 1996). Photomicrographs were obtained directly on film or as
+8-bit TIFF files. The CLSM laser power was adjusted for each series
+
+Cell
+1212
+
+of experiments to make the best use of the 8-bit scale of the photomultipliers. Nuclear localization was verified by costaining with DAPI
+or by scanning z-series sections on a CLSM. Data were analyzed
+off-line with ImageSpace (MDI); values were mean signal intensity
+collected over an area of 2.5–5 mm2 in either a midnuclear section
+(for pCREB, CREB, and c-Fos-IRs), or in a region of cytoplasm
+adjacent to the nucleus (for SS-14-IR). Histogram distribution and
+statistical tests were analyzed with Origin 4.0 (Microcal) and StatViewII (Abacus). Representative images are shown (n 5 3–5).
+Antibodies were as follows. Polyclonal antibodies were antipCREB (UBI, 1:500 dilution); anti-CREB (UBI, 1:1000); anti-CaMKI
+(a gift from Dr. A. Nairn, 1:50; see Picciotto et al., 1995); anti-CaMKIIb
+(Transduction Laboratories, 1:250); anti-PP1 catalytic subunit (UBI,
+1:200); anti-PP2A catalytic subunit (UBI, 1:200; Promega, 1:200);
+anti-c-Fos (Ab-2, Oncogene Science, 1:200); and anti-SS-14 (Chemicon, 1:200). Monoclonal antibodies were anti-CaMKII-a (clone
+CBa-2, Life-Technologies, 1:200; clone 6G9, Boehringer-Mannheim,
+1:500); anti-CaMKIIb (clone CBb-1, Life Technologies); anti-CaMKIV
+(Transduction Laboratories, 1:200); anti-CaN regulatory subunit
+(clone VA-1, UBI, 1:250); anti-CaN catalytic subunit (clone CN-A1,
+Sigma, 1:250); and anti-synaptophysin (clone SY38, BoehringerMannheim, 1:250).
+Sources of drugs were LC Laboratories (OA, calyculin A, 1-norokadaone, and KT5720), Calbiochem (Rp-cAMPS, KT5720, OA, chelerythrine, TTX, and rapamycin), BIOLOG (Rp-cAMPS, Rp-8-ClcAMPS, Rp-8-CPT-cAMPS, and Rp-8-Br-cGMPS), Seikagaku
+(KN-93 and KN-92), Biomol (genistein, tyrphostin A47, and lavendustin A), Kyowa Medix (staurosporine and K252a), RBI (D-AP5 and
+CNQX), Sigma (DDC), Aldrich (S-PBN), and NEB (PD98059).
+18-Mer antisense (HN-1: 59-GTGACTTTGAGCATCTTC-39; HN-3:
+59-GCAACTCATGTTTCCTGG-39; both targeted tosequences around
+the translation initiation sites for CaMKIV-a and CaMKIV-b, respectively) and missense oligonucleotides (AD-2: 59-GTGTCTTAGAG
+CAACTTC-39; AD-4: 59-GCAACACAAGTATCCTGG-39) were based
+on published rat CaMKIV cDNA sequences (Sakagami and Kondo,
+1993) and synthesized by Oligos Etc. Phosphorothioate modification
+was restricted to the three bases at both ends of the oligos to
+reduce the nonspecific effects and cytotoxicity observed with fully
+phosphorothioated oligos. A final 5 mM solution of each oligo, either
+alone or in combination, was added to the culture medium immediately after plating and until 4 div, when the experiments were performed. The medium was changed every 24 hr, with the same concentration of oligos throughout the experiment.
+
+Measurements of Rise in [Ca21]i and Production
+of Oxygen Radicals
+[Ca21]i imaging was conducted using a Nikon 40x Fluor objective
+(N. A. 1.3), a Videoscope ICCD camera, a Sutter filter wheel–shutter
+assembly, and software from Universal Imaging. Neurons were incubated for 1 hr in 1 mM fura-2/AM (Molecular Probes) at room temperature. Calibrations were performed by measuring the 340 nm/380
+nm ratio at known concentration of [Ca21]i in a whole-cell patch
+pipette, and [Ca21]i was calculated as described (Grynkiewicz et al.,
+1985).
+Generation of reactive oxygen species was measured with dihydrorhodamine 6G (Molecular Probes) as described by Dugan et al.
+(1995). A 10 mM solution of dihydorhodamine 6G was prepared in
+Tyrode subjected to 30 min deoxygenation by sparging with N2.
+Neurons were loaded for 30 min at room temperature, and rhodamine fluorescence was monitored on-line with 240 ms exposures;
+data were digitized with a Matrox LC board and analyzed off-line.
+Other dihydrorhodamine derivatives gave similar results; we found
+dihydrofluorescein derivatives difficult to use owing to rapid photoconversion.
+
+Phosphorylation Assay and Immunoblot Analysis
+To monitor activity-dependent phosphorylation of CaMKIV and
+CREB, neurons grown on dishes were prelabeled with [32P]orthophosphate (1.5 mCi/ml, Amersham) during the last 45 min of TTX
+pretreatment. After 90 mM K1 stimulation, neurons were washed
+with ice-cold PBS(2) and immediately frozen on liquid N2 . Immunoprecipitation was carried out at 48C from total cell lysates (200 ml)
+prepared in a lysis buffer (50 mM Tris-HCl [pH 7.5], 150 mM NaCl,
+1% Nonidet P40, 0.5% sodium deoxycholate, Complete protease
+inhibitor tablet [Boehringer-Mannheim], 2 mM EGTA, 2 mM EDTA,
+10 nM calyculin A, and 1 mM sodium vanadate), using 2.5 mg of the
+anti-CaMKIV monoclonal antibody (Transduction Laboratories) or 2
+mg of anti-CBP polyclonal antibody recognizing the N-terminal end
+of CBP (A-22, Santa Cruz Biotechnology). Immunoprecipitates were
+separated with 10% SDS-PAGE, and 32P incorporation was measured with a PhosphorImager (MDI).
+For immunoblots, neurons were lysed with boiling SDS-PAGE
+buffer, electrophoresed, and transferred onto nitrocellulose membranes. After a blocking reaction (5% nonfat dry milk in Tris-buffered
+saline, pH 7.4, 0.05% Tween-20), primary antibodies (anti-pCREB,
+1:2500; anti-CREB, 1:5000; and anti-CaMKIV, 1:1000) were incubated overnight at 48C in the blocking buffer. After incubation with
+a secondary antibody (biotinylated goat anti-rabbit [or anti-mouse]
+antibody [Cappel, 1:2000]), the membrane was further probed with
+an HRP-conjugated anti-biotin antibody (NEB, 1:1000); an ECL procedure followed (Amersham).
+Nuclear extracts from hippocampal neurons were prepared according to a published procedure (Andrews and Faller, 1991) and
+were assayed for CaMKIV activity using peptide-g (Biomol) as a
+substrate as described (Okuno et al., 1994).
+
+Andrews, N.C., and Faller, D.V. (1991). A rapid micropreparation
+technique for extraction of DNA-binding proteins from limiting numbers of mammalian cells. Nucleic Acids Res. 19, 2499.
+
+Acknowledgments
+We thank X. Wang and C. B. Klee for access to unpublished materials; A.C. Nairn for CaMKI polyclonal antibody; T. Masugi for FK506
+(Fujisawa Pharmaceuticals, Osaka); G. R. Crabtree, C. B. Klee, A. C.
+Nairn, G.P. Nolan, S. L. Palmieri, R. H. Scheller, T. L. Schwarz, H.
+Schulman, and R. Y. Tsien for comments; A. M. Graybiel for sharing
+unpublished results; and all members of the Tsien laboratory for
+discussion. Supported by the Silvio Conte–National Institute of Mental Health Center for Neuroscience Research, the Mathers Foundation (R. W. T.), a Human Frontier Science Program long-term fellowship (H. B.), and a Medical Scientist Training Program training
+fellowship (K. D.).
+Received May 8, 1996; revised October 30, 1996.
+References
+Alberts, A.S., Montminy, M., Shenolikar, S., and Feramisco, J.R.
+(1994). Expression of a peptide inhibitor of protein phosphatase 1
+increases phosphorylation and activity of CREB in NIH 3T3 fibroblasts. Mol. Cell. Biol. 14, 4398–4407.
+
+Bading, H., Ginty, D.D., and Greenberg, M.E. (1993). Regulation of
+gene expression in hippocampal neurons by distinct calcium signaling pathways. Science 260, 181–186.
+Bartsch, D., Ghirardi, M., Skehel, P.A., Karl, K.A., Herder, S.P., Chen,
+M., Bailey, C.H., and Kandel, E.R. (1995). Aplysia CREB2 represses
+long-term facilitation: relief of repression converts transient facilitation into a long-term functional and structural change. Cell 83,
+979–992.
+Bennett, P.C., Zhao, W., Lawen, A., and Ng, K.T. (1996). Cyclosporin
+A, an inhibitor of calcineurin, impairs memory formation in day-old
+chicks. Brain Res. 730, 107–117.
+Bliss, T.V.P., and Collingridge, G.L. (1993). A synaptic model of
+memory: long-term potentiation in the hippocampus. Nature 361,
+31–39.
+Blitzer, R.D., Wong, T., Nouranifer, R., Iyengar, R., and Landau, E.M.
+(1995). Postsynaptic cAMP pathway gates early LTP in hippocampal
+CA1 region. Neuron 15, 1403–1414.
+Bohm, M., Moellmann, G., Cheng, E., Alvarez-Franco, M., Wagner,
+S., Sassone-Corsi, P., and Halaban, R. (1995). Identification of
+p90RSK as the probable CREB-Ser133 kinase in human melanocytes. Cell Growth Differ. 6, 291–302.
+Bourtchuladze, R., Frenguelli, B., Blendy, J., Cioffi, D., Schutz, G.,
+and Silva, A.J. (1994). Deficient long-term memory in mice with a
+targeted mutation of the cAMP-responsive element-binding protein.
+Cell 79, 59–68.
+
+Synaptic Control of CREB Phosphorylation
+1213
+
+Braun, A.P., and Schulman, H. (1995). The multifunctional calcium/
+calmodulin-dependent protein kinase: from form to function. Annu.
+Rev. Physiol. 57, 417–445.
+Brindle, P.K., and Montminy, M.R. (1992). The CREB family of transcription activators. Curr. Opin. Genet. Dev. 2, 199–204.
+Brindle, P., Nakajima, T., and Montminy, M. (1995). Multiple protein
+kinase A-regulated events are required for transcriptional induction
+by cAMP. Proc. Natl. Acad. Sci. USA 92, 10521–10525.
+Brocke, L., Srinivasan, M., and Schulman, H. (1995). Developmental
+and regional expression of multifunctional Ca21/calmodulin-dependent protein kinase isoforms in rat brain. J. Neurosci. 15, 6797–6808.
+
+kinase, CaM kinase-Gr, in human T lymphocytes. J. Biol. Chem.
+268, 20055–20063.
+Hill, C.S., and Treisman, R. (1995). Transcriptional regulation by
+extracellular signals: mechanisms and specificity. Cell 80, 199–211.
+Ho, S.N., Biggar, S.R., Spencer, D.M., Schreiber, S.L., and Crabtree,
+G.R. (1996). Dimeric ligands define a role for transcriptional activation domains in reinitiation. Nature 382, 822–826.
+Huang, C.-Y.F., and Ferrell, J.E., Jr. (1996). Ultrasensitivity in mitogen-activated protein kinase cascade. Proc. Natl. Acad. Sci. USA
+93, 10078–10083.
+
+Chrivia, J.C., Kwok, R.P., Lamb, N., Hagiwara, M., Montminy, M.R.,
+and Goodman, R.H. (1993). Phosphorylated CREB binds specifically
+to the nuclear protein CBP. Nature 365, 855–859.
+
+Huang, Y.Y., Kandel., E.R., Varshavsky, L., Brandon, E.P., Qi, M.,
+Idzerda, R.L., McKnight, G.S., and Bourtchuladze, R. (1995). A genetic test of the effects of mutations in PKA on mossy fiber LTP and
+its relation to spatial and contextual learning. Cell 83, 1211–1222.
+
+Cohen, P., Holmes, C.F.B., and Tsukitani, Y. (1990). Okadaic acid:
+a new probe for the study of cellular regulation. Trends Biochem.
+Sci. 15, 98–102.
+
+Hunter, T. (1995). Protein kinases and phosphatases: the yin and
+yang of protein phosphorylation and signaling. Cell 80, 225–236.
+
+Crabtree, G.R., and Clipstone, N.A. (1994). Signal transmission between the plasma membrane and nucleus of T lymphocytes. Annu.
+Rev. Biochem. 63, 1045–1083.
+
+Impey, S., Mark, M., Villacres, E.C., Poser, S., Chavkin, C., and
+Storm, D.R. (1996). Induction of CRE-mediated gene expression by
+stimuli that generate long-lasting LTP in area CA1 of the hippocampus. Neuron 16, 973–982.
+
+Cruzalegui, F.H., and Means, A.R. (1993). Biochemical characterization of the multifunctional Ca21/calmodulin-dependent protein kinase type IV expressed in insect cells. J. Biol. Chem. 268, 26171–
+26178.
+Curran, T., and Morgan, J.I. (1995). Fos: an immediate-early transcription factor in neurons. J. Neurobiol. 26, 403–412.
+Dash, P.K., Hochner, B., and Kandel, E.R. (1990). Injection of the
+cAMP-responsive element into the nucleus of Aplysia sensory neurons blocks long-term facilitation. Nature 345, 718–721.
+Dash, P.K., Karl, K.A., Colicos, M.A., Prywes, R., and Kandel, E.R.
+(1991). cAMP response element-binding protein is activated by
+Ca21-calmodulin- as well as cAMP-dependent protein kinase. Proc.
+Natl. Acad. Sci. USA 88, 5061–5065.
+Davis, H.P., and Squire, L.R. (1984). Protein synthesis and memory.
+Psychol. Bull. 96, 518–559.
+Deisseroth, K., Bito, H., and Tsien, R.W. (1996). Signaling from synapse to nucleus: postsynaptic CREB phosphorylation during multiple forms of synaptic plasticity. Neuron 16, 89–101.
+
+Ito, T., Mochizuki H., Kato, M., Nimura, Y., Hanai, T., Usuda, N.,
+and Hidaka, H. (1994) Ca21/calmodulin-dependent protein kinase V:
+tissue distribution and immunohistochemical localization in rat
+brain. Arch. Biochem. Biophys. 312, 278–284.
+Janknecht, R., and Hunter, T. (1996). Versatile molecular glue. Curr.
+Biol. 6, 951–954.
+Klee, C.B., and Cohen, P. (1988). The calmodulin-regulated protein
+phosphatase. In Calmodulin, P. Cohen, and C.B. Klee, eds. (Amsterdam: Elsevier), pp. 225–248.
+Lisman, J. (1989). A mechanism for the Hebb and the anti-Hebb
+processes underlying learning and memory. Proc. Natl. Acad. Sci.
+USA 86, 9574–9578.
+Liu, F.-C., and Graybiel, A.M. (1996). Spatiotemporal dynamics of
+CREB phosphorylation: transient versus sustained phosphorylation
+in the developing striatum. Neuron 17, in press.
+Malenka, R.C. (1994). Synaptic plasticity in the hippocampus: LTP
+and LTD. Cell 78, 535–538.
+
+DeZazzo, J., and Tully, T. (1995). Dissection of memory formation:
+from behavioral pharmacology to molecular genetics. Trends Neurosci. 18, 212–218.
+
+Marshall, C.J. (1995). Specificity of receptor tyrosine kinase signaling: transient versus sustained extracellular signal-regulated kinase
+activation. Cell 80, 179–185.
+
+Dugan, L.L., Sensi, S.L., Canzoniero, L.M.T., Handran, S.D., Rothman, S. M., Lin, T.-S., Goldberg, M.P., and Choi, D.W. (1995). Mitochondrial production of reactive oxygen species in cortical neurons
+following exposure to N-methyl-D-aspartate. J. Neurosci. 15, 6377–
+6388.
+
+Matsuoka, N., Yamazaki, M., and Yamaguchi, I. (1995). Changes
+in brain somatostatin in memory-deficient rats: comparison with
+cholinergic markers. Neuroscience 66, 617–626.
+
+Enslen, H., Sun, P., Brickey, D., Soderling, S.H., Klamo, E., and
+Soderling, T. R. (1994) Characterization of Ca21/calmodulin-dependent protein kinase IV. J. Biol. Chem. 269, 15520–15527.
+Ginty, D.D., Kornhauser, J.M., Thompson, M.A., Bading, H., Mayo,
+K.E., Takahashi, J.S., and Greenberg, M.E. (1993). Regulation of
+CREB phosphorylation in the suprachiasmatic nucleus by light and
+a circadian clock. Science 260, 238–241.
+Ginty, D.D., Bonni, A., and Greenberg, M.E. (1994). Nerve growth
+factor activates a Ras-dependent protein kinase that stimulates
+c-fos transcription via phosphorylation of CREB. Cell 77, 713–725.
+Gonzalez, G.A., and Montminy, M.R. (1989). Cyclic AMP stimulates
+somatostatin gene transcription by phosphorylation of CREB at Ser133. Cell 59, 675–680.
+Grynkiewicz, G., Poenie, M., and Tsien, R.Y. (1985). A new generation
+of Ca21 indicators with greatly improved fluorescence properties.
+J. Biol. Chem. 260, 3440–3450.
+Hagiwara, M., Alberts, A., Brindle, P., Meinkoth, J., Feramisco, J.,
+Deng, T., Karin, M., Shenolikar, S., and Montminy, M.R. (1992). Transcriptional attenuation following cAMP induction requires PP-1–
+mediated dephosphorylation of CREB. Cell 70, 105–113.
+Hanissian, S.H., Frangakis, M., Bland, M.M., Jawahar, S., and Chatila, T.A. (1993). Expression of a Ca21/calmodulin-dependent protein
+
+Matthews, R.P., Guthrie, C.R., Wailes, L.M., Zhao, X., Means, A.R.,
+and McKnight, G.S. (1994). Calcium/calmodulin-dependent protein
+kinase types II and IV differentially regulate CREB-dependent gene
+expression. Mol. Cell. Biol. 14, 6107–6116.
+Mayford, M., Abel, T., and Kandel, E.R. (1995). Transgenic approach
+to cognition. Curr. Opin. Neurobiol. 5, 141–148.
+Nagao, M., Shima, H., Nakayasu, M., and Sugiura, T. (1995). Protein
+serine/threonine phosphatases as binding proteins for okadaic acid.
+Mutat. Res. 333, 173–179.
+Nakamura, Y., Okuno, S., Sato, F., and Fujisawa, H. (1995). An immunohistochemical study of Ca2 1/calmodulin-dependent protein kinase IV in the rat central nervous system: light and electron microscopic observations. Neuroscience 68, 181–194.
+Okuno, S., and Fujisawa, H. (1993). Requirement of brain extract for
+the activity of brain calmodulin-dependent protein kinase IV expressed in Escherichia coli. J. Biochem. 114, 167–170.
+Okuno, S., Kitani, T., and Fujisawa, H. (1994). Purification and characterization of Ca21/calmodulin-dependent protein kinase IV kinase
+from rat brain. J. Biochem. 116, 923–930.
+Ouimet, C.C., Da Cruz e Silva, E.F., and Greengard, P. (1995). The a
+and g1 isoforms of protein phosphatase 1 are highly and specifically
+concentrated in dendritic spines. Proc. Natl. Acad. Sci. USA 92,
+3396–3400.
+
+Cell
+1214
+
+Park, I.-K., and Soderling, T.R. (1995). Activation of Ca21/ calmodulin-dependent protein kinase (CaM-kinase) IV by CaM-kinase kinase
+in Jurkat T lymphocytes. J. Biol. Chem. 270, 30464–30469.
+Paylor, R., Johnson, R.S., Papaioannou, V., Spiegelman, B.M., and
+Wehner, J. M. (1994). Behavioral assessment of c-fos mutant mice.
+Brain Res. 651, 275–282.
+Petrij, F., Giles, R.H., Dauwerse, H.G., Saris, J.J., Hennekam, R.C.M.,
+Masuno, M., Tommerup, N., van Ommen, G.-J.B., Goodman, R.H.,
+Peters, D.J.M., and Breuning, M.H. (1995). Rubinstein-Taybi syndrome caused by mutations in the transcriptional co-activator CBP.
+Nature 376, 348–351.
+Picciotto, M.R., Zoli, M., Bertuzzi, G., and Nairn, A.C. (1995). Immunochemical localization of calcium/calmodulin-dependent protein
+kinase I. Synapse 20, 75–84.
+Sakagami, H., and Kondo, H. (1993). Cloning and sequencing of a
+gene encoding the b-polypeptide of Ca2 1/calmodulin dependent
+protein kinase IV and its expression confined to the mature cerebellar granule cells. Mol. Brain Res. 19, 215–218.
+Selbert, M.A., Anderson, K.A., Huang, Q.-H., Goldstein, E.G., Means,
+A.R., and Edelman, A.M. (1995). Phosphorylation and activation of
+Ca21/calmodulin-dependent protein kinase IV by Ca21/calmodulindependent protein kinase Ia kinase. J. Biol. Chem. 270, 17616–
+17621.
+Sheng, M., Thompson, M.A., and Greenberg, M.E. (1991). CREB: a
+Ca21-regulated transcription factor phosphorylated by calmodulindependent kinases. Science 252, 1427–1430.
+Shenolikar, S. (1994). Protein serine/threonine phosphatases-new
+avenues for cell regulation. Annu. Rev. Cell. Biol. 10, 55–86.
+Silva, A.J., Paylor, R., Wehner, J.M., and Tonegawa, S. (1992). Impaired spatial learning in a-calcium-calmodulin kinase II mutant
+mice. Science 257, 206–211.
+Stemmer, P.M., and Klee, C.B. (1994). Dual calcium ion regulation
+of calcineurin by calmodulin an calcineurin B. Biochemistry 33,
+6859–6866.
+Stemmer, P.M., Wang, X., Krinks, M.H., and Klee, C.B. (1995). Factors responsible for the Ca2 1-dependent inactivation of calcineurin
+in brain. FEBS Lett. 374, 237–240.
+Sun, P., Enslen, H., Myung, P.S., and Maurer, R.A. (1994). Differential
+activation of CREB by Ca21-calmodulin-dependent protein kinases
+type II and type IV involves phosphorylation of a site that negatively
+regulates activity. Genes Dev. 8, 2527–2539.
+Thompson, M.A., Ginty, D.D., Bonni, A., and Greenberg, M.E. (1995).
+L-type voltage-sensitive Ca21 channel activation regulates c-fos
+transcription at multiple levels. J. Biol. Chem. 270, 4224–4235.
+Tokumitsu, H., Enslen, H., and Soderling, T.R. (1995). Characterization of a Ca2 1/calmodulin-dependent protein kinase cascade. J. Biol.
+Chem. 270, 19320–19324.
+Vallejo, M., Gosse, M., Beckman, W., and Habener, J.F. (1995). Impaired cyclic AMP-dependent phosphorylation renders CREB a repressor of C/EBP-induced transcription of the somatostatin gene
+in an insulinoma cell line. Mol. Cell. Biol. 15, 415–424.
+Wang, X., Culotta, V.C., and Klee, C.B. (1996). Superoxide dismutase
+protects calcineurin from inactivation. Nature 382, 434–437.
+Xie, H., and Rothstein, T.L. (1995). Protein kinase C mediates activation of nuclear cAMP response element-binding protein (CREB) in
+B lymphocytes stimulated through surface Ig. J. Immunol. 154,
+1717–1723.
+Yin, J.C.P., Wallach, J.S., Del Vecchio, M., Wilder, E.L., Zhou, H.,
+Quinn, W.G., and Tully, T. (1994). Induction of a dominant-negative
+CREB transgene blocks long-term memory in Drosophila. Cell 79,
+49–58.
+Yin, J.C.P., Del Vecchio, M., Zhou, M., and Tully, T. (1995). CREB
+as a memory modulator: induced expression of a dCREB2 activator
+isoform enhances long-term memory in Drosophila. Cell 81,
+107–115.
+Yoshida, K., Imaki, J., Matsuda, H., and Hagiwara, M. (1995). Lightinduced CREB phosphorylation and gene expression in rat retinal
+cells. J. Neurochem. 65, 1499–1504.
+
+Zhang, W., Zimmer, G., Chen, J., Ladd, D., Li, E., Alt, F.W., Wiederrecht, G., Cryan, J., O’Neill, E.A., Seidman, C.E., Abbas, A.K., and
+Seidman, J.G. (1996). T cell responses in calcineurin Aa-deficient
+mice. J. Exp. Med. 183, 413–420.
+
+

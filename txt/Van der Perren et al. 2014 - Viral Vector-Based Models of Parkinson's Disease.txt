@@ -1,0 +1,1835 @@
+Viral Vector-Based Models of Parkinson’s
+Disease
+Anke Van der Perren, Chris Van den Haute and Veerle Baekelandt
+
+Abstract In order to study the molecular pathways of Parkinson’s disease (PD)
+and to develop novel therapeutic strategies, scientific investigators rely on animal
+models. The identification of PD-associated genes has led to the development of
+genetic PD models as an alternative to toxin-based models. Viral vector-mediated
+loco-regional gene delivery provides an attractive way to express transgenes in the
+central nervous system. Several vector systems based on various viruses have
+been developed. In this chapter, we give an overview of the different viral
+vector systems used for targeting the CNS. Further, we describe the different viral
+vector-based PD models currently available based on overexpression strategies for
+autosomal dominant genes such as a-synuclein and LRRK2, and knockout or
+knockdown strategies for autosomal recessive genes, such as parkin, DJ-1, and
+PINK1. Models based on overexpression of a-synuclein are the most prevalent and
+extensively studied, and therefore the main focus of this chapter. Many efforts
+have been made to increase the expression levels of a-synuclein in the dopaminergic neurons. The best a-synuclein models currently available have been
+developed from a combined approach using newer AAV serotypes and optimized
+vector constructs, production, and purification methods. These third-generation
+a-synuclein models show improved face and predictive validity, and therefore
+offer the possibility to reliably test novel therapeutics.
+
+
+
+Keywords Animal models Parkinson’s disease
+associated viral vectors a-Synuclein
+
+
+
+ Lentiviral vectors  Adeno-
+
+A. Van der Perren (&)  C. Van den Haute  V. Baekelandt
+Katholieke Universiteit Leuven, Leuven, Belgium
+e-mail: Anke.VanderPerren@med.kuleuven.be
+V. Baekelandt
+e-mail: Veerle.Baekelandt@med.kuleuven.be
+
+Curr Topics Behav Neurosci
+DOI: 10.1007/7854_2014_310
+ Springer-Verlag Berlin Heidelberg 2014
+
+A. Van der Perren et al.
+
+Contents
+1
+2
+3
+4
+
+Introduction..............................................................................................................................
+Toxin-Based Animal Models ..................................................................................................
+Transgenic Mouse Models ......................................................................................................
+Viral Vector-Based PD Models ..............................................................................................
+4.1 Viral Vectors for Gene Transfer ....................................................................................
+4.2 From Viral Vector to Animal Models ...........................................................................
+5 Conclusions and Perspectives .................................................................................................
+References......................................................................................................................................
+
+1 Introduction
+Parkinson’s disease (PD) is the second most common age-related movement disorder. It is estimated that PD affects 1 % of the population at 65 years of age,
+which increases to 4–5 % in 85-year olds. To date, more than 4.5 million people
+suffer from PD worldwide, and this number is expected to double to 9 million in
+the next 20 years due to the improved living conditions and the increased life
+expectancy (Wirdefeldt et al. 2011). PD is a slowly progressing disorder that
+affects the dopaminergic neurons (DN) of the substantia nigra pars compacta
+(SNpc), a small nucleus in the midbrain. The loss of dopaminergic innervation
+leads to hyperactivity of the subthalamic nucleus and the globus pallidus, resulting
+in the progressive decline of movement control, which closely correlates with the
+degree of SNpc cell loss (Ma et al. 1997). At the onset of the motor symptoms, the
+striatal dopamine (DA) levels are already depleted by 80 % and approximately
+50–70 % of the DN in the SNpc has been lost (Dauer and Przedborski 2003).
+However, the traditional view that the neuropathology of PD is restricted to nigral
+degeneration has been abandoned. For instance, Braak and colleagues define a sixstage pathological process where PD pathology starts in the olfactory bulb and the
+dorsal motor nucleus of the vagal nerve and extends to the midbrain and other
+brainstem regions in the later stages of the disease process (Braak et al. 2003;
+Hawkes et al. 2010). Next to the selective loss of the DN in the SN, PD is
+characterized by the presence of Lewy bodies (LBs) and Lewy neurites (LNs) in
+the surviving neurons. These cytoplasmic aggregates are predominantly composed
+of fibrillar forms of the protein a-synuclein, and can be found in several affected
+brain regions of most PD patients (Spillantini et al. 1997; Shults 2006). Currently,
+most treatments of PD are focused on the symptomatic improvement of motor
+symptoms related to the loss of the DN in the SNpc. These symptomatic treatments
+(pharmacological and surgical) significantly reduce PD-associated motor symptoms and improve quality of life and life expectancy. Still, the development
+of therapeutic approaches that slow or halt the disease progression, as well as the
+identification of reliable biomarkers for early diagnosis remains crucial.
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+Historically, PD has been considered a purely sporadic disorder without a clear
+etiology. Environmental factors (e.g., pesticides exposure, living in a rural area,
+and well water consumption) have been proposed as important risk factors or
+triggers for PD in the context of an aging brain. However, in the past decade,
+genetic studies of PD families from different geographical regions worldwide have
+strengthened the hypothesis that PD has a substantial genetic compound. The first
+gene linked to PD (SNCA, encoding for a-synuclein) was discovered through
+analysis of a large multigenerational Greek/Italian family, in which PD segregated
+in an autosomal dominant pattern (Polymeropoulos et al. 1997). Since then, 18 PD
+loci have been nominated through linkage analysis (PARK 1–15) or genome-wide
+association studies (PARK 16–18) (Farrer 2006; Belin and Westerlund 2008;
+Satake et al. 2009; Simon-Sanchez et al. 2009; Pankratz et al. 2009; Hamza et al.
+2010). Mutations within the genes of six of these loci (SNCA, LRRK2, PRKN,
+PINK1, DJ-1, and ATP13A2) have conclusively been demonstrated to cause
+familial PD (Lesage and Brice 2009). In addition, common polymorphisms within
+two of the same genes (SNCA and LRRK2) are well validated risk factors for PD
+(Paisan-Ruiz 2009; Edwards et al. 2010). Although these familial forms of PD
+account for only 5–10 % of all PD patients, unraveling of the molecular pathways
+underlying familial forms of PD will greatly contribute to our understanding of
+sporadic PD since both forms share clinical and neuropathological features.
+To study the molecular pathways of PD and to develop novel therapeutic
+strategies, investigators rely on animal models. However, to reliably translate the
+results from animal experiments to the human disease, one has to consider ‘‘the
+validity’’ of the animal model being used. In general, three criteria are taken into
+consideration: The face, predictive, and construct validity. The ‘‘face validity’’
+refers to a similar pathophysiology; do the symptoms and pathology observed in
+the animal model resemble the ones seen in human patients? Face validity can
+sometimes be distracting because behavioral manifestations in rodents and people
+might differ. The ‘‘predictive validity’’ suggests that a treatment that is effective in
+the model will also be successful in patients. A model based on an established
+cause of the disease has ‘‘construct validity’’ and is useful in the understanding of
+the pathophysiological mechanism. A perfect animal model for PD should display
+age-dependent and progressive degeneration of DN, the cardinal motor symptoms
+of PD as well as nonmotor dysfunctions and LB pathology in surviving nigral cells
+and eventually other brain regions (high face validity). Furthermore, it should be
+responsive to dopamine replacement strategies (high predictive validity) and
+would be based on a known cause of the disease, e.g., genetic mutation causing
+familial PD (high construct validity). Although such a perfect PD model does not
+exist, significant progress has been made over the last 15 years. Currently, PD
+models are based on toxicological, transgenic, or viral vector-based stereotactic
+gene delivery approaches.
+
+A. Van der Perren et al.
+
+2 Toxin-Based Animal Models
+Toxin models are the classical and the oldest experimental PD models. They aim at
+reproducing the pathological and behavioral changes of the human disease in
+rodents or primates by using neurotoxins (e.g., 6-OHDA, MPTP), which selectively accumulate in the substantia nigra DN, causing cellular dysfunction and cell
+death (Ungerstedt and Arbuthnott 1970; Betarbet et al. 2002). These toxins can be
+administered either locally or systemically depending on the type of toxin used and
+the species involved (Bezard and Przedborski 2011). The unilateral 6-OHDA rat
+model has been used extensively as a preclinical model to assess the antiparkinsonian effects of new pharmacological treatments (Jiang et al. 1993; Ilijic et al.
+2011; Bjorklund et al. 2002; Kirik et al. 2002). Studies using MPTP have led to
+concepts such as ‘‘environmental toxicity’’ as a potential cause of dysfunction in
+sporadic PD and ‘‘mitochondrial dysfunction’’ as a potential pathogenic mechanism (Fox and Brotchie 2010). However, a major limitation of these toxin models
+is that they induce rather acute effects, which differ significantly from the slowly
+progressive pathology of human PD. Moreover, LB pathology is not present in the
+surviving neurons, and no other brain areas involved in PD are affected. Later, a
+variety of other toxic compounds (pesticides) like rotenone, paraquat, and maneb
+were tested in vivo in an attempt to find additional and improved toxin models
+(Hoglinger et al. 2006; Thiruchelvam et al. 2000). Interestingly, ubiquitinepositive LB-like inclusions were observed in the surviving nigral neurons of
+rotenone-treated animals (Betarbet et al. 2000). Despite these positive features, the
+substantial variability observed in all of these pesticide models limits their use for
+therapeutical development.
+
+3 Transgenic Mouse Models
+The discovery of a-synuclein as the first PARK gene in 1997 led to the development of the first genetic PD models. The A53T mutation in a-synuclein was
+identified first in a Greek/Italian family (Polymeropoulos et al. 1997). Later, the
+A30P mutation and later the E46K mutation were identified in a German and
+Spanish family (Kruger et al. 1998; Zarranz et al. 2004). Shortly after these
+findings, it was realized that an aggregated form of a-synuclein forms the main
+constituent of LBs in both sporadic and familial PD cases (Spillantini et al. 1997).
+In addition, duplications and triplications of the entire gene locus have been
+reported in different families (Chartier-Harlin et al. 2004; Ibanez et al. 2004;
+Singleton et al. 2003). Interestingly, gene triplication leads to earlier onset and
+faster progression of disease than duplication, indicating that disease severity is
+dependent on a-synuclein expression levels. Altogether, these findings provide
+strong evidence that a-synuclein plays an important role in the pathogenesis of PD.
+For these reasons, it was hypothesized that overexpression of a-synuclein in the
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+brain may lead to pathological features reminiscent of PD such as neuronal cell
+death and the accumulation of cellular inclusions. Many transgenic mice overexpressing human wild-type (WT) or mutant (A30P, A53T) a-synuclein have been
+generated over the last 10 years. The promoter driving a-synuclein expression has
+proven to be crucial in the development of the pathology. Other significant variations are the mouse strain, the presence or absence of endogenous a-synuclein,
+and whether the full length or the truncated form is expressed (detailed review by
+Magen and Chesselet 2010). Overexpression of both WT and several clinical
+mutants of human a-synuclein in transgenic mice have been shown to induce
+pathological accumulation of a-synuclein and neuronal dysfunction (Masliah et al.
+2000; Freichel et al. 2007; Fleming et al. 2005; Kahle et al. 2001; Chesselet and
+Richter 2011). However, until now most transgenic a-synuclein mouse models
+failed to display clear dopaminergic cell loss and dopamine-dependent behavioral
+deficits. Some transgenic models expressing the double mutated (Thiruchelvam
+et al. 2004; Richfield et al. 2002; Chen et al. 2006) or truncated (Tofaris et al.
+2006; Shelkovnikova et al. 2011; Wakamatsu et al. 2008) a-synuclein gene have
+reported dopaminergic cell loss, but the clinical relevance of these models is
+questionable.
+Later, the identification of other PD-associated genes has led to the development of more genetic PD models. Overexpression strategies for autosomal dominant genes such as LRRK2 and knockout strategies for autosomal recessive genes
+such as Parkin, DJ-1, and PINK1 were used. Current transgenic LRRK2 mouse
+models are not very robust PD models. BAC transgenic mice expressing R1441G,
+G2019S LRRK2 present minimal evidence of neurodegeneration (Li et al. 2009,
+2010). When the R1441C mutation is expressed under the control of endogenous
+regulatory elements, by knock-in of the R1441C mutation, no degeneration of DN
+is observed (Tong et al. 2009). For one R1441G-LRRK2 transgenic mouse
+abnormalities in the nigrostriatal system such as stimulated DA neurotransmission
+and L-dopa responsive behavioral defects have been described, but no DN loss was
+reported (Li et al. 2009). Recently, mice expressing the G2019S mutant showed
+loss of DN and dendrites at 19–20 months of age (Ramonet et al. 2011).
+None of the parkin KO mice have substantial dopaminergic or behavioral
+abnormalities (Itier et al. 2003; Perez and Palmiter 2005; Von Coelln et al. 2004;
+Goldberg et al. 2003; Zhu et al. 2007). Some have subtle abnormalities in their DA
+neurotransmission or in the noradrenergic system of the locus coeruleus (Goldberg
+et al. 2003). Interestingly, overexpression of truncated human parkin (Q311X) led
+to progressive degeneration of DN (Lu et al. 2009), supporting the idea that some
+parkin mutants might act in a dominant negative fashion. Similar to the parkin KO
+mice, PINK-1 KO mice do not show any loss of DN, have normal levels of striatal
+DA and DA receptors are unchanged in most KO mice (Gautier et al. 2008; Kitada
+et al. 2007). Mild abnormalities in DA neurotransmission have been described
+(Kitada et al. 2007). DJ-1 KO mice do not exhibit any major abnormalities, and the
+number of DN and levels of striatal DA are unchanged. Abnormalities in DA
+neurotransmission in the nigrostriatal circuit and mitochondrial dysfunction were
+observed in some DJ-1 KO animals (Goldberg et al. 2005; Kim et al. 2005;
+
+A. Van der Perren et al.
+
+Andres-Mateos et al. 2007). To summarize, all parkin, PINK1, and DJ-1 KO
+animals present only a mild phenotype without clear neurodegeneration.
+In conclusion, in some transgenic models based on mutations causing PD, loss
+of DN has been reported, specifically in mice expressing the double mutated
+(Thiruchelvam et al. 2004; Richfield et al. 2002; Chen et al. 2006) or truncated
+(Tofaris et al. 2006; Shelkovnikova et al. 2011; Wakamatsu et al. 2008) a-synuclein
+gene, a truncated form of parkin (Lu et al. 2009), or the G2019S mutation in LRRK2
+(Ramonet et al. 2011). Nevertheless, most transgenic a-synuclein mouse models
+develop gradual a-synuclein pathology, but fail to display clear dopaminergic cell
+loss and dopamine-dependent behavioral deficits. This hurdle was overcome by
+direct targeting of the SN with viral vectors overexpressing PD-associated genes.
+
+4 Viral Vector-Based PD Models
+Viral vector-mediated loco-regional gene delivery provides an alternative way to
+express transgenes in the CNS with several advantages: Local transgene delivery
+allows for specific targeting of brain regions; transgene expression can be induced
+during adulthood, bypassing the risk of compensatory mechanisms during development; different doses can be applied; models can be created in multiple species
+and strains, ranging from rodents to nonhuman primates and finally different
+combinations of genes can easily be made. Since the first proof of principle of this
+technique, a continuously growing number of publications have proven the value
+of viral vector-mediated loco-regional transduction. Before we discuss the different viral vector-based PD models currently available, we will give an overview
+of the different viral vector systems used for delivery of transgenes to the brain.
+
+4.1 Viral Vectors for Gene Transfer
+Viruses are efficient vehicles to infect cells to introduce genetic material and force
+the cell to replicate the viral genome in order to produce new virus particles. Viruses
+can be engineered to nonreplicating viral vectors that retain their ability of entering
+cells and introducing genes. By deleting parts of the viral genome and replacing
+them by the genes of interest, application of the vector will result in a single-round
+infection without replication in the host cell. The general design of viral vectors is
+based on the physical separation in different plasmids of the cis-elements involved
+in the transfer of the vector genome from trans-acting elements encoding for the
+viral (structural) proteins. These plasmids deliver the necessary components to
+assemble a vector particle during the vector production in producer cells. Viral
+vectors can be used for both overexpression and silencing of certain genes.
+The transgene encoded by the vector can be a reporter protein for visualization of the
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+labeled cells by immunohistochemical or non-invasive imaging techniques such as
+bioluminescence, nuclear medicine techniques, or magnetic resonance imaging
+(Deroose et al. 2009). The expressed protein can be a therapeutic protein for gene
+therapy applications (Manfredsson et al. 2007; Vercammen et al. 2006; Winklhofer
+2007) or as we will focus on in this chapter, a disease-related protein used for disease
+modeling (Kirik et al. 2002, 2003; Lauwers et al. 2003; Klein et al. 2002). Several
+vector systems based on various viruses have been developed. The choice of the
+vector system depends on the size of the gene of interest, the required duration of
+gene expression, the target cells and biosafety issues (see Table 1). For stable gene
+transfer in the brain, LV and rAAV vectors are the vector systems of choice since
+they lead to efficient and long-term gene expression in the rodent brain. The different
+vector systems will be described in more detail in the following section.
+
+4.1.1 Lentiviral Vectors
+LVs are derived from lentiviruses, a family of complex retroviruses that have the
+ability to replicate in non-dividing cells as opposed to simple retroviruses. Vectors
+derived from these viruses are an attractive means for gene transfer to the central
+nervous system (CNS) because they are capable of efficiently transducing nondividing mature neurons. The prototypical lentivirus is the human immunodeficiency virus type 1 (HIV-1), which has a diameter of 110 nm and contains two
+copies of a 9200 bp ss RNA genome. The genome has three major coding regions
+in common with simple retroviruses (gag, pol, and env), flanked by two long
+terminal repeats (LTR). Gag encodes the structural core protein matrix, capsid,
+and nucleocapsid, pol encodes the viral enzymes [protease, reverse transcriptase
+(RT), and integrase] and env encodes the glycoprotein components of the viral
+envelope. In addition, complex retroviruses have six accessory genes (tat, rev, vpr,
+vpu, vif, and nef) that encode for additional regulatory proteins. These accessory
+genes are not essential for viral replication in cell culture, but determine the
+pathogenicity of viral infection in vivo. Several studies have shown that LVs
+derived from HIV-1 are indeed capable of efficient and stable expression of the
+transgene in vivo without induction of significant immune response (Baekelandt
+et al. 2002; Naldini et al. 1996a, b; Zufferey et al. 1997).
+Design of Lentiviral Vectors
+The first generation of LVs derived from HIV-1 was developed in 1996, by Naldini
+et al. (1996a, b). LVs are usually produced by triple transfection of HEK293T cells
+with three different plasmids, providing the cis- and trans-elements necessary for
+the production of vector particles (Fig. 1). The first plasmid, the packaging plasmid
+encodes structural viral proteins from gag and enzymes from pol under the control
+of a constitutive promoter. For biosafety reasons, the packaging signal (W) and the
+env gene have been deleted. The envelope plasmid mostly codes for the envelope
+glycoprotein of the vesicular stomatitis virus (VSV-G). This VSV-G envelope
+
+A. Van der Perren et al.
+Table 1 Characteristics of gene transfer vectors [adapted from Baekelandt et al. (2000) with
+modifications]
+Retroviral
+vectors
+
+Lentiviral
+vectors
+
+Adenoviral
+vectors
+
+Herpes simplex
+type-1 vectors
+
+ds DNA
+
+Adenoassociated
+viral vectors
+Adenoassociated
+virus
+ss DNA
+
+Derived from
+
+Oncoretro
+virus
+
+Lentivirus
+
+Adenovirus
+
+Genome
+
+ss RNA
+
+ss RNA
+
+Envelop
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Maximum
+insert size
+
+7–7.5 kb
+
+7–7.5 kb
+
+30 kb
+
+4.5–5 kb
+
+50–150 kb
+
+Integration
+
+Yes
+
+Yes
+
+No
+
+Yes/no
+
+No
+
+Stability of
+expression
+
+Long
+(silencing)
+
+Long
+
+Short/
+prolonged
+
+Long
+
+High, but low
+in latency
+phase
+
+Immune
+response
+
+Low
+
+Low
+
+Extensive/
+reduced
+
+Medium
+
+Medium
+
+Titers (viral
+particles/
+ml)
+
+108
+
+108
+
+1012
+
+1012
+
+1012
+
+Herpes simples
+virus
+ds DNA
+
+Fig. 1 Schematic representation of the different constructs essential for lentiviral vector (third
+generation) and rAAV vector production
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+results in a broad cellular tropism and efficiently targets neurons and astrocytes in
+the CNS and ensures a better stability of the vector particle compared to HIV
+enveloped vectors. The third plasmid, the transfer plasmid encodes the transgene of
+interest under the control of a heterologous promoter. It contains cis-acting
+sequences necessary for encapsidation, reverse transcription, and integration
+flanked by two LTRs. LTRs are necessary for integration of the proviral DNA
+mediated by the viral integrase and also contain a promoter for proviral DNA
+transcription. After triple transfection, the vector particles produced by the
+HEK293T cells are released into the medium and can be purified and concentrated.
+After the initial validation of the LV system, additional elements were introduced to increase the specificity and enhance the efficiency of these vectors. A first
+improvement was the insertion of the central polypurine tract (cPPT), which is
+thought to facilitate reverse transcription and nuclear import of the lentiviral preintegration complex prior to vector integration. Inclusion of this element in the LV
+increased the transduction efficiency and gene expression 3- to 10-fold (De Rijck
+et al. 2005; Zennou et al. 2000). A second improvement was the introduction of the
+Woodchuck hepatitis virus post-transcriptional regulatory element (WPRE) that
+enhanced expression levels about 5- to 8-fold in a number of different cell lines
+and tissues due to an increased mRNA stability in the cytoplasm (Zufferey et al.
+1999). LV containing both the cPPT and the WPRE has higher in vivo transduction efficiency than the sum of the expression levels reached by LV containing
+only the cPPT or the WPRE (Baekelandt et al. 2002).
+Biosafety of Lentiviral Vectors
+Lentiviral vectors derived from HIV-1 may provoke biosafety concerns because of
+the well-known pathogenicity of the parental virus. An important issue is the
+potential occurrence of replication competent retroviruses (RCR), which can
+theoretically be generated during vector production by homologous recombination.
+A lot of effort has been undertaken to improve the biosafety of lentiviral vectors. In
+addition to the removal of accessory genes in the transfer plasmid, thereby
+reducing or eliminating the pathogenicity of HIV-1, safer LVs have been developed by splitting the cis- and trans-acting viral sequences over separate expression
+plasmids and deleting promoter and enhancer elements in the transfer vector itself.
+This reduces the probability of homologous recombination.
+In the first generation of vectors, the env gene coding for the natural HIV
+envelope was replaced by the VSG-G gene. As a result, no WT HIV-1 could ever
+arise even if the three plasmids recombined. The encapsidation signal was removed
+from the packaging plasmid and the viral LTRs were replaced by a heterologous
+promoter at the 50 -end and a polyadenylation signal at the 30 -end. In the secondgeneration vectors, the virulence genes vpr, vpu, vif, and nef were deleted from the
+packaging construct without loss of transduction capacity (Zufferey et al. 1997).
+Since it is known that WT HIV-1 loses its pathogenicity when devoid of these
+proteins, deletion of these genes further increased biosafety. Vectors from the third
+generation do not require tat anymore since the U3 region of the 50 -LTR, which
+
+A. Van der Perren et al.
+
+enhances viral transcription in the presence of tat was replaced by a constitutive
+promoter (Dull et al. 1998). This allowed tat gene deletion from the packaging
+plasmids. In addition, rev, an accessory protein mediating nuclear export of viral
+RNA was supplied from a fourth plasmid, further reducing the chance of
+recombination.
+Another strategy to improve the biosafety of LVs involves deletion of the
+promoter and enhancer elements located in the 30 -LTR U3 region of the transfer
+plasmid. Vectors containing this deletion are called self-inactivating (SIN) vectors
+because the deletion is copied from the 30 -LTR to the 50 -LTR during reverse
+transcription, resulting in modified LTRs with only weak promoter activity (10 %
+of original activity). In addition, this deletion in the 30 -LTR prevents potential
+transcriptional activation of any (onco)gene upstream or downstream of the integration site. Moreover, SIN vectors cannot be rescued by WT HIV-1 (Bukovsky
+et al. 1999).
+
+4.1.2 Recombinant Adeno-Associated Viral Vectors
+Recombinant adeno-associated viral (rAAV) vectors derived from the adenoassociated virus (AAV) have been an attractive gene delivery vehicle since they
+were first engineered almost three decades ago (Samulski et al. 1982). The main
+reason for this is the unique combination of attractive properties: rAAV vectors
+ensure efficient gene transfer in different tissues. rAAV vectors are considered safe
+because the AAV virus they are derived from, is a non-pathogenic parvovirus
+whose replication depends on co-infection with a lytic helper virus, usually a
+member of the adenovirus (Atchison et al. 1965) or herpes virus family (Buller
+et al. 1981). rAAV vectors are also devoid of all WT AAV genes, making
+reversion to replication competent forms virtually impossible. In addition, compared to adenoviral vectors, the administration of rAAV vectors in vivo usually
+does not elicit a host immune response resulting in destruction of the transduced
+cells as shown in preclinical studies in small animal models.
+rAAV vectors are capable of packaging gene cassettes of 4.5–5 kb (Baekelandt
+et al. 2000; Grieger and Samulski 2005). rAAV gene cassettes do not integrate into
+the host genome, but they readily persist for months to years in slowly dividing or
+nondividing cells. Indeed, studies have demonstrated that rAAV vectors can efficiently transduce a number of somatic tissues, including muscle (Xiao et al. 1996),
+liver (Miao et al. 1998), heart (Chu et al. 2004), retina (Hellstrom et al. 2009), and
+the CNS (Tenenbaum et al. 2004). To date, the most widely used rAAV vector is
+based on the AAV2 serotype, which has however been shown to contain some
+drawbacks. rAAV2 transduces neurons efficiently in the immediate vicinity of the
+injection site (Passini et al. 2004), but requires multiple injections, convectionenhanced delivery (Bankiewicz et al. 2000; Cunningham et al. 2000) or addition of
+agents such as mannitol, basic fibroblast growth factor (bFGF) or heparin to
+transduce larger brain volumes (Mastakov et al. 2001, 2002; Burger et al. 2005;
+Hadaczek et al. 2004). Furthermore, the clinical application of rAAV2/2 may be
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+limited by pre-existing immunity to AAV2, which is present in most humans
+(Moskalenko et al. 2000). Finally, rAAV2 mainly targets neurons, although other
+cell types in the CNS might also be transduced. The limitations of rAAV2 have
+advanced the evaluation of alternative/artificial serotypes with broader cellular
+targets, higher transduction efficiencies and potential to evade pre-existing
+immunity to the AAV2 capsid (Paterna et al. 2004; Burger et al. 2004; Taymans
+et al. 2007; McFarland et al. 2009a; Dodiya et al. 2009).
+A possible route to find the ideal rAAV tropism, next to modification of the
+rAAV capsid structure by chemical, immunological, or genetic means (Rabinowitz
+and Samulski 2000), is exploiting the natural capsid diversity of newly isolated
+serotypes by packaging rAAV2 genomes into capsids derived from other human or
+non-human AAV isolates (Grimm and Kay 2003). To this end, up until now, most
+researchers employ hybrid trans-complementing constructs that encode rep from
+AAV2, whereas cap is derived from the serotype displaying the cell tropism of
+choice. These hybrid vectors are therefore indicated as rAAV2/5, rAAV2/7, etc.,
+where the second number refers to the capsid serotype. Among the more than 120
+identified AAV variants that have been isolated from adenovirus stock or from
+human/non-human primate tissues, AAV2/1 to AAV2/10 are currently being
+developed as recombinant vectors for brain applications (Grimm and Kay 2003;
+Rutledge et al. 1998; Gao et al. 2002, 2003, 2004, 2005; Schmidt et al. 2006; Wu
+et al. 2006). This major advance in rAAV vectorology has significantly broadened
+potential applications of rAAV vectors for clinical gene therapy or disease modeling, and offers more options for the selection of a suitable rAAV variant per
+specific application. Recombinant AAV vectors are currently considered as a first
+choice option for brain applications both to generate preclinical models of neurodegeneration and for gene therapy. Indeed, rAAV vectors have proven useful to
+model diseases such as PD and have also been tested in various phases of clinical
+development of gene therapy for PD (Christine et al. 2009; Kaplitt et al. 2007) and
+Alzheimer’s disease (Mandel 2010).
+Design of rAAV Vectors
+Historically, most recombinant AAV vectors were based on serotype 2 (rAAV2/2)
+that constitutes the prototype of the genus, and was produced by means of two
+plasmids (the transfer and the packaging plasmid) and an infectious adenovirus.
+The transfer plasmid carries a transgene expression cassette flanked by the AAV2
+inverted terminal repeats (ITRs), which are the only cis-acting elements required
+for replication and packaging of the recombinant genome (Samulski et al. 1987).
+The ends of the AAV2 genome consist of a 145 nucleotide-long ITR that, due to
+the multipalindromic nature of the terminal 125 bases, can fold on itself via
+complementary base pairing and form a characteristic T-shaped hairpin structure.
+The AAV2 nonstructural (rep) gene and a specific structural (cap) gene that
+depends on the serotype used are supplied in trans on the second plasmid, the
+so-called packaging plasmid. The adenoviral (Ad) helper functions were originally
+supplied by infection of rAAV producer cells with a WT adenovirus. The finding
+
+A. Van der Perren et al.
+
+that Ad helper functions are provided by expression of E1A, E1B, E2A, E4ORF6,
+and VA RNAs, enabled subsequent Ad-free production of rAAV vector stocks by
+incorporating these sequences into a plasmid (referred to as adeno helper plasmid)
+and transfecting it together with the two above-mentioned plasmids. Upon introduction of all these constructs into the producer cells, vector particles are generated (Fig. 1).
+Extensive efforts have been focused on developing versatile and scalable
+manufacturing processes for rAAV vector production with attention to compatibility with good manufacturing practice (GMP) (Gao et al. 2000; Clark et al. 1995;
+Blouin et al. 2004; Wright 2009). In our research group, we optimized a scalable
+and flexible serum-free rAAV vector production system, allowing a swift adaptation for production of different serotypes (Lock et al. 2010; Van der Perren et al.
+2011, 2014; Toelen et al. 2014).
+
+4.1.3 Adenoviral Vectors
+Adenoviral vectors are derived from adenoviruses, DNA viruses with a linear
+double- stranded genome of 36 kb. The viral genome encodes for about 50 different proteins, 11 of which are structural and used to build the virion. These
+viruses have been isolated from a large number of species, and in humans, they
+primarily infect the respiratory airways and the gut causing mild respiratory and
+gastroenteric diseases. More than 40 AdV serotypes have been described, some
+more widespread than others (Davison et al. 2003). Because of their low pathogenicity and wide tropism, AdV-based vectors could be good candidates for gene
+delivery transfer. Unfortunately, the broad pre-existing immunity in the population
+prevents the use of vectors derived from the most common serotypes. Furthermore,
+the high immunogenicity of AdV proteins severely limits re-administration. To
+bypass these problems, AdV are mostly derived from rare serotypes, usually AdV2
+or 5. AdV proved to be able to transduce a great variety of post-mitotic cells in the
+tissues like lung, skeletal muscle, heart, and brain (Howarth et al. 2010).
+Design of Adenoviral Vectors
+In first-generation AdV vectors, the early gene 1A (E1A), a regulatory gene
+essential for replication, was deleted (Graham and Prevec 1995). To further reduce
+the risk of the occurrence of a replication competent virus, E1B and E3, genes that
+play a role in modulating AdV-specific immunity, as well as E2 and E4 were
+additionally deleted (Campos and Barry 2007). This resulted in a vector system
+with a capacity to introduce up to 30 kb of DNA. To produce vector particles,
+these deleted genes essential for replication are provided by a helper virus or DNA
+construct that provides the missing functions in trans. Vector particles are generated by transfection of the vector construct and a helper virus, or by double
+transfection with a packaging construct. Alternatively, AdV vectors can also be
+produced using a packaging cell line, which stably expresses the structural and
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+regulatory proteins required for vector assembly (Wang et al. 2009). Efforts are
+being made to circumvent the broad pre-existing immunity, which currently limits
+the use of this vector type.
+
+4.1.4 Herpes Simplex Vectors
+Herpes virus vectors are mainly derived from HSV type1, a very large doublestranded DNA virus of 152 kb. The viral genome encodes for more than 80 different proteins, which can be divided into essential and nonessential genes whether
+they are required for viral replication. HSV-1 is spread by contact, infects, and
+replicates in the skin or mucous membranes, and is taken up by sensory nerve
+terminals where it establishes a latent state, from which the virus can subsequently
+be reactivated and spread to other individuals. HSV-1 is endemic and more than
+70 % of the people have a specific immune response that is maintained active due
+to intermittent reactivation of the infection. The main limitation in the use of HSV1 vectors is the pre-existing immunity in humans, eliminating vector particles and
+transduced cells exposing HSV proteins on their surface. A second safety concern
+is the presence of latently infected cells, which may, upon transduction, offer a
+suitable environment for the HSV vector to recombine with the WT genome.
+These limitations have severely limited the range of applications of HSV vectors.
+On the other hand, these limitations can be considered as an advantage when using
+them as oncolytic vectors, targeting proliferating tumor cells.
+Design of Herpes Simplex Vectors
+The HSV-1 genome contains a significant portion of viral genes that are considered ‘‘non-essential,’’ which have been removed during vector construction. This
+elimination makes room for up to 50–150 kb of DNA depending on the type of
+HSV vector, making them the largest carriers among all viral vectors. The genetic
+complexibility of the virus genome allows the production of different types of
+vectors with different properties. Currently, three classes of vectors are derived
+from HSV-1: Conditionally replication competent vectors, replication incompetent
+vectors, and amplicon-based vectors (de Silva and Bowers 2009). The first class is
+designed by deleting the genes not essential for replication, but important for
+pathogenicity. These vectors are capable of replicating only in certain cell types
+and tissues in vivo, and are typically used in the development of therapies for
+malignant brain tumors (Markert et al. 2000). They are referred as oncolytic HSV1 vectors. For the second class, the replication incompetent vectors, one or more
+immediate-early genes essential for lytic replication and reactivation have been
+deleted, but they retain the ability to establish latency. For the production of vector
+particles, this genetic information is provided in trans by a replication competent
+HSV strain, a packaging construct or by a specific packaging cell line that stable
+expresses the required proteins. These replication incompetent vectors have been
+used for preclinical studies of neurodegenerative diseases and chronic pain (Burton
+et al. 2002). To generate the third class, the amplicon-based vectors, a single origin
+
+A. Van der Perren et al.
+
+of replication and a single packaging/cleavage signal from the WT HSV-1 was
+incorporated into a standard bacterial plasmid, called the amplicon. A transgene
+can be cloned into the amplicon plasmid and defective viral vector particles can be
+produced by complementing the necessary genes by a defective helper virus, a
+packaging construct, or specific packaging cells (de Silva and Bowers 2009). This
+class is the safest as it carries minimal viral sequences, but requires optimization to
+increase vector titers.
+
+4.2 From Viral Vector to Animal Models
+4.2.1 Viral Vector-Based a-Synuclein Overexpression Models
+Overexpression of a-synuclein by direct targeting of the SN of rats, mice, or nonhuman primates with viral vectors offers a valuable alternative approach to the
+a-synuclein transgenic mice. Using viral vectors, high transgene expression levels
+can be achieved, which might be crucial since the disease onset and severity
+depends on the level of a-synuclein expression. Two vector systems have been
+explored for this purpose: rAAV and LV (Table 2).
+The viral vector approach was initially explored almost simultaneously by a
+number of different groups using either rAAV2/2 or LV vectors (Kirik et al. 2002;
+Klein et al. 2002; Lauwers et al. 2003; Lo Bianco et al. 2002). In rats injection of
+rAAV2/2 vectors expressing either WT, A30P, or A53T mutant human a-synuclein unilaterally into the SN (Kirik et al. 2002; Klein et al. 2002) induced efficient
+expression of a-synuclein in nigral DN, accompanied by cellular and axonal
+pathologies and nigral DN loss that developed progressively over time. These firstgeneration rAAV2/2-based a-synuclein models displayed progressive neurodegeneration, but the loss of the nigral TH-positive neurons (25–80 %) as well as the
+time course described was quite variable (6 weeks up to 1 year) (Kirik et al. 2002;
+Klein et al. 2002). LV vectors encoding WT, A30P, or A53T mutant a-synuclein
+were also capable of inducing neuronal cell loss in rats, but less pronounced and
+more delayed (24–35 % cell loss at 5 months) (Lo Bianco et al. 2002). Dystrophic
+neurites and swollen perikarya were detected in the remaining DNs and cytoplasmic accumulations of a-synuclein were found in cell bodies as well as in
+neurites. Many attempts were made to reproduce and improve these rat models
+using rAAV2/2 (Yamada et al. 2004; Maingay et al. 2006; Mochizuki et al. 2006;
+Chung et al. 2009) or LV (Lauwers et al. 2007), but similar results were obtained.
+Both LV and rAAV vectors have also been used in mice. Work from our own
+group showed that injection of LV-WT and A30P a-synuclein in different mouse
+brain regions (striatum, amygdala, SN) induced time-dependent neuropathological
+changes including neuritic enlargements and cytoplasmic inclusions. Furthermore,
+nigral overexpression of A30P a-synuclein resulted in a 10–25 % cell loss at
+10–12 months (Lauwers et al. 2003). In another study, nigral injection of rAAV2/2
+WT a-synuclein induced a 25 % cell loss at 24 weeks; however, no obvious
+
+Second generation
+WT, A53T (Eslamboli et al.
+2007)
+WT, S129D/A
+(Gorbatyuk et al. 2008)
+WT, A30P, S129D/A
+(Azeredo da Silveira
+et al. 2009)
+
+First generation
+WT, A53T (Kirik et al. 2002)
+A30P (Klein et al. 2002)
+WT, A30P, A53T
+(Lo Bianco et al. 2002)
+WT, A30P (Lauwers et al.
+2003)
+WT, A53T (Kirik et al. 2003)
+WT (Yamada et al. 2004)
+A53T (Maingay et al. 2006)
+A30P (Lauwers et al. 2007)
+WT (St Martin et al. 2007;
+Theodore et al. 2008)
+A53T (Chung et al. 2009)
+
+a-Synuclein
+
+CBA
+CMV
+
+rAAV2/6
+
+Syn-1
+
+rAAV2/2
+
+rAAV2/5
+
+CBA
+ND
+CBA
+CMV
+CBA
+
+rAAV2/2
+rAAV2/2
+rAAV2/2
+LV
+rAAV2/2
+
+CBA
+
+CMV
+
+LV
+
+rAAV2/5
+
+CBA
+CBA
+PGK
+
+Promoter
+
+rAAV2/2
+rAAV2/2
+LV
+
+Vector
+system
+
+Table 2 Human a-synuclein viral vector-based rodent models
+
+Rat
+
+Rat
+
+Prim.
+
+Rat
+
+Prim.
+Rat
+Rat
+Rat
+Mice
+
+Mice
+
+Rat
+Rat
+Rat
+
+Yes
+Yes
+Yes
+
+1 year
+
+17 weeks
+
+16 weeks
+13 weeks
+14 weeks
+46 weeks
+24 weeks
+
+–
+–
+
+Yes H
+
+Yes
+
+–
+
+–
+No
+–
+Yes
+–
+
+Yes
+
+–
+–
+No
+
+Yes
+
+Yes H
+
+–
+
+Yes
+Yes
+–
+Yes
+No
+
+40–52 weeks Yes
+
+8–16 weeks
+1 year
+20 weeks
+
+Yes
+
+–
+
+Yes
+
+–
+
+–
+Yes
+–
+–
+–
+
+–
+
+–
+–
+–
+
+Time course a-SYN
+Ubiq. phos.
+aggregates
+S129
+
+WT 60 %
+26 weeks
+S129A 70 %
+4 weeks
+WT, A30P 20 % 8 weeks
+S129A 70 %
+
+A53T 40 %
+
+35 %
+
+30–60 %
+50 %
+±40 %
+21–52 %
+25 %
+
+10–25 %
+
+30–80 %
+53 %
+24–35 %
+
+Species DN loss
+in SN
+
+–
+
+–
+
+Moderate
+
+–
+
+Mild
+No/mild
+–
+Mild
+–
+
+–
+
+Mild
+–
+–
+
+(continued)
+
+–
+
+–
+
+–
+
+–
+
+–
+–
+–
+Yes
+–
+
+–
+
+–
+–
+–
+
+Motor
+L-dopa
+phenotype reversible
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+Vector
+system
+
+Syn-1
+CMV/Syn-1
+CMV/Syn-1
+
+rAAV2/7
+
+mice
+
+rat
+rat
+
+rat
+rat
+
+CBA
+CMV
+
+rAAV2/6
+rAAV2/7
+
+rat
+
+82 %
+
+80 %
+80–90 %
+
+28 %
+17–40 %
+
+26 %
+
+Species DN loss
+in SN
+
+CBA
+
+Promoter
+
+8 weeks
+
+6–16 weeks
+4 weeks
+
+6 weeks
+3 weeks
+
+6 weeks
+
+yes
+
+–
+
+–
+yes
+
+–
+–
+
+yes H
+–
+
+yes
+yes
+
+yes
+
+yes
+
+yes
+
+yes
+
+–
+–
+
+–
+
+Time course a-SYN
+Ubiq. phos.
+aggregates
+S129
+
+–
+
+good
+good
+
+mild
+–
+
+–
+
+–
+
+yes
+yes
+
+–
+–
+
+–
+
+L-dopa
+Motor
+phenotype reversible
+
+Ubiq ubiquitination; posph.S129 S129 a-synuclein phosphorylation; ND not described; prim primates; – not determined; * oligomeric mutants; H proteinase
+K-resistant aggregates; CBA chicken b-actin promoter; PGK phosphoglycerate kinase promoter; CMV cytomegalovirus promoter; Syn-1 synapsin-1 promoter; CMV/Syn1 CMV enhanced synapsin 1 promoter
+
+Third generation
+WT (Decressac et al. 2012)
+A53T (Van der Perren et al.
+2014)
+A53T, WT (OliverasSalvá et al. 2013)
+
+WT, S129D/A
+rAAV2/8
+(McFarland et al. 2009a)
+A53T (Koprich et al. 2011)
+rAAV1/2
+WT, A53T, A30P (Winner
+LV
+et al. 2011), E46K, E57K*,
+E35K*
+
+Table 2 (continued)
+a-Synuclein
+
+A. Van der Perren et al.
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+cytoplasmic inclusions were detected in the a-synuclein expressing cells (St
+Martin et al. 2007). Overall, the pathology observed in mice, both the onset and the
+severity, appeared less severe compared to the described rat models. rAAV vectors
+were also applied in non-human primates. Sixteen weeks after nigral injection of
+rAAV2/2 WT or A53T a-synuclein, 30–60 % of the nigral cells were lost, which
+resulted in mild motor deficits (Kirik et al. 2003).
+The limitations of rAAV2/2 have prompted the evaluation of alternative serotypes with broader cellular targets and higher transduction efficiencies. As a result,
+other serotypes, notably rAAV2/5, rAAV2/6, rAAV2/8, and rAAV1/2, have been
+used in rats and non-human primates to overexpress a-synuclein (Eslamboli et al.
+2007; Gorbatyuk et al. 2008; Azeredo da Silveira et al. 2009; Sanchez-Guajardo
+et al. 2010; Koprich et al. 2011; McFarland et al. 2009a). Since phosphorylation of
+a-synuclein at serine 129 is a common feature in patients suffering of synucleinopathies, mutations mimicking a-synuclein phosphorylation might also enhance
+dopaminergic pathology. Mutations mimicking (S129D) or preventing phosphorylation (S129A) have been expressed using rAAV2/5, rAAV2/6, and rAAV2/8 in
+the rat SN (Gorbatyuk et al. 2008; Azeredo da Silveira et al. 2009; McFarland et al.
+2009b). Interestingly, in the studies using rAAV2/5 and rAAV2/6, the S129A
+mutation, which can no longer be phosphorylated, showed enhanced toxicity (70 %
+cell loss at 4 weeks) compared to WT (60 % cell loss at 26 weeks), while the
+S129D mutant showed reduced or no toxicity (Gorbatyuk et al. 2008; Azeredo da
+Silveira et al. 2009). With rAAV2/8, the a-synuclein mediated toxicity was
+equivalent for WT as well as both S129 mutants (26 % at 6 weeks) (McFarland
+et al. 2009b), an observation potentially explained by different expression levels
+obtained by rAAV2/8 compared to rAAV2/5 or rAAV2/6 in the substantia nigra
+(Van der Perren et al. 2011). rAAV1/2 (chimeric vector) driven overexpression of
+A53T a-synuclein in the SN of rats caused a dopaminergic cell loss of 28 % at
+6 weeks (Koprich et al. 2011). In this study, the choice of the vector titer was
+crucial since too high vector titers caused unspecific toxic effects. These secondgeneration rAAV-based a-synuclein rat models display a more reproducible neurodegeneration (15–60 % loss 6–26 weeks p.i.) (Gorbatyuk et al. 2008; Azeredo da
+Silveira et al. 2009; Sanchez-Guajardo et al. 2010; Koprich et al. 2011). However,
+even in these rat models, the time course and loss of the nigral TH-positive neurons
+still suffered from variability, which hindered clear motor deficits.
+Different species of a-synuclein could also influence the levels of pathology.
+Winner et al. evaluated two artificial mutants of a-synuclein (E57K, E35K) with
+the propensity to form oligomeric aggregates and one faster fibril forming mutant
+of a-synuclein (a-SYN 30-110) in vivo (Winner et al. 2011). E57K and E35K
+mutant a-synuclein were delivered in the rat SN using LV and resulted in a
+dopaminergic loss of, respectively, 51 % and 50 %, which turned out to be more
+toxic than WT (32 %), A30P (38 %), E46K (40 %), and A53T (17 %) a-synuclein
+at 3 weeks p.i. Remarkably, the faster fibril forming mutant A53T did not show a
+significant decrease in dopaminergic cell number. These data further support the
+idea that the oligomeric species and not the fibrillar form of synuclein are toxic and
+
+A. Van der Perren et al.
+
+contribute to dopaminergic degeneration. Although being very instrumental, the
+dopaminergic cell loss of 17–50 % in these LV-based rat models is insufficient for
+behavioral manifestations, which require at least 60–70 % cell loss. In non-human
+primates, better results were obtained. Overexpression of WT or A53T mutant
+a-synuclein using rAAV2/5 resulted in a clear difference at the behavioral and
+morphological level (Eslamboli et al. 2007). Stronger motor impairments were
+observed in the A53T group compared to the WT group 42 weeks after injection.
+After 1 year, TH-positive fiber loss was observed in the striatum of both groups,
+but it was more pronounced in the A53T group. In both groups, the remaining
+fibers were dystrophic and contained a-synuclein positive insoluble inclusions.
+Many a-synuclein positive aggregates were found to be phosphorylated at serine
+129. When analyzing the SN, a loss of up to 40 % of the DNs was observed in the
+A53T a-synuclein animals in contrast to WT a-synuclein animals, which only
+differed in two out of eight animals from the eGFP control animals. Furthermore,
+at 1 year p.i. ubiquitin positive inclusions were detected in the surviving nigral
+neurons of both groups.
+To summarize, viral vector-mediated a-synuclein models display synuclein
+pathology and clear dopaminergic neurodegeneration in contrast to a-synuclein
+transgenic mice. The transgene expression in DN achieved with the novel rAAV
+serotypes (rAAV2/5, 2/6, 2/8, and 2/1) is improved compared to rAAV2/2 and
+substantially higher compared to LV probably due to their high titers and tropism
+for DN neurons, resulting in higher levels of neurodegeneration. Although
+promising, these models still suffer from a certain degree of variability, a slow
+progression of the phenotype and lack overt behavioral impairments, hindering
+their usefulness for testing novel therapeutics.
+To address these issues, a third generation of a-synuclein models has been
+developed by optimizing the promoter, the rAAV serotype, the vector construct, as
+well as the vector titer and purity of the vector preparation. Decressac et al.
+reported progressive dopaminergic neurodegeneration up to 75 % at 8–16 weeks
+after nigral injection of rAAV2/6 using the neuron specific synapsin-1 promoter to
+drive the expression of WT a-synuclein (Decressac et al. 2012). The cell loss was
+preceded by degenerative changes of striatal axons and terminals, and the presence
+of a-synuclein positive inclusions in dystrophic axons and dendrites. This high
+level of neurodegeneration resulted in clear behavioral deficits seen in the cylinder
+test and the amphetamine-induced rotation test. Our group has recently shown that
+rAAV2/7 outperformed most serotypes in terms of transduction efficiency and
+expression levels in rat SN (Van der Perren et al. 2011). Based on these data, we
+developed a rat model for PD by injection of rAAV2/7 encoding A53T a-synuclein
+into the SN (Fig. 2) (Van der Perren et al. 2014). High a-synuclein expression was
+observed four days post-injection. At least 90 % of the DNs were transduced,
+which resulted in progressive nigrostriatal pathology up to 80 % and behavioral
+deficits in 4 weeks’ time period. Levodopa (L-dopa) was found to reverse the
+behavioral phenotype. Non-invasive PET and MR imaging allowed longitudinal
+monitoring of neurodegeneration. In addition, ubiquitin positive a-synuclein
+aggregates were detected. This rat PD model successfully recapitulates the
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+Fig. 2 In vivo validation of an rAAV vector encoding a-synuclein using behavioral, PET, MRI,
+and IHC analysis. (a) Stereotactic injection of rAAV vector encoding a-synuclein (a-SYN) in the
+rat SN. (b) Cylinder test, PET imaging (dopamine transporter), and MR imaging. (c) Immunohistochemical staining for tyrosine hydroxylase (TH) in the substantia nigra (SN) and the striatum
+(STR) 4 and 29 days after vector injection in the SN, and for a-synuclein 29 days after injection
+
+progressive degeneration of DN and associated motor deficits together with the
+formation of a-synuclein inclusions. In parallel to this study, we also showed that
+strong and significant a-synuclein-induced neuropathology and progressive dopaminergic neurodegeneration can be achieved in mouse brain by means of rAAV2/7
+(Oliveras-Salva et al. 2013). We noted a significant and dose-dependent a-synucleinopathy over time upon nigral viral vector-mediated a-synuclein overexpression.
+We obtained a strong, progressive, and dose-dependent loss of DNs in the SN,
+reaching a maximum of 82 % after 8 weeks. When comparing wild-type to A53T
+mutant a-synuclein at the same vector dose, both induced a similar degree of
+dopaminergic cell death (Oliveras-Salva et al. 2013). These major improvements can
+probably be explained by the choice of the rAAV7 serotype, the use of the CMV
+enhanced synapsin-1 promoter, and the vector titer combined with an optimized
+vector preparation. We believe that these improved rodent models will be of great
+value for further development and testing of neuroprotective strategies.
+
+A. Van der Perren et al.
+
+4.2.2 Viral Vector-Based LRRK2 Overexpression Models
+rAAV are not suitable for the delivery of the 7581 bp LRRK2 cDNA to the
+nigrostriatal system due to their limited packaging capacity. Even for LV, the size
+of the LRRK2 cDNA is approaching the packaging limitations. Our group has
+succeeded to generate functional LRRK2 LV (Civiero et al. 2012), however, with
+reduced titers, which compromises the chances to induce phenotypic effects
+in vivo. To date, two groups have reported the generation of viral vector-mediated
+LRRK2 PD models using either recombinant adenoviral (rAdv) or herpes simplex
+vectors (HSV) (Table 3) (Dusonchet et al. 2011; Lee et al. 2010). rAd vectors
+expressing WT or G2019S mutant LRRK2 were injected into six sites within the
+rat striatum and nigral transduction relied on retrograde transport of the vector.
+Quantification of the expression levels revealed that 31 % of the nigral DN were
+transduced. Injection of Adv encoding mutant G2019S LRRK2 resulted in progressive loss of nigral DN up to 10 % after 10 days and 21 % after 42 days. WT
+LRRK2 rAdv did not induce any degeneration. No abnormal a-synuclein accumulation, ubiquitinated, or phosphorylated aggregates were found in WT or
+G2019S LRRK2 expressing neurons in the SN (Dusonchet et al. 2011). Lee et al.
+generated an LRRK2 mouse model using HSV vectors (Lee et al. 2010). HSV
+vectors encoding WT LRRK2, G2019S, or G2019S/D1994A LRRK2 were
+injected into the mouse striatum resulting in a retrograde transduction of 75 % of
+the nigral neurons. Three weeks after injection, overexpression of G2019S LRRK2
+induced a progressive loss of 50 % of the nigral DN. G2019S-D1994A (kinase
+dead) LRRK2 caused no neuronal loss, similar to WT LRRK2 and GFP control
+vectors. These data link LRRK2 toxicity to elevated kinase activity in vivo.
+
+4.2.3 Viral Vector-Based Parkin, DJ-1, and PINK1
+Knockdown Models
+Since parkin, PINK1, and DJ-1 KO mice do not display a clear phenotype, viral
+vector-mediated gene silencing in the adult brain could be explored as an alternative
+strategy. Stable knockdown of gene expression can be achieved by viral vectormediated RNA interference after stereotactic injection into the brain (Ulusoy et al.
+2009). Adult knockdown with viral vector technology has not been published for
+parkin or DJ-1. Haque et al. achieved a shRNA-mediated knockdown of PINK1 of
+71 % in the striatum and 68 % in the SN by stereotactic striatal injection using an
+adenoviral vector in adult rats (Haque et al. 2012). This knockdown of PINK1 in the
+SN increased the sensitivity to MPTP administration, resulting in an increased loss of
+DN in the SN and terminal dopaminergic fibers in the striatum. Knockdown of
+PINK1 by itself, however, did not affect the number of DN in this 3-week time frame
+(Table 3) (Haque et al. 2012). Recent observations from our own group have confirmed that knockdown of PINK1 (Oliveras-Salvá et al. 2014) or even parkin using
+rAAV2/7 in adult mouse or rat SN up to 10 months does not elicit significant
+dopaminergic cell death (unpublished data).
+
+HSV IE 4/5
+
+HSV
+
+LV
+
+AdV
+
+Parkin Con. KD (Shin et al. 2011)
+
+PINK KD (Haque et al. 2012)
+PINK1 KD + MPTP
+CTR + MPTP
+
+Mice
+
+Mice
+
+Mice
+
+Rat
+
+Species
+
+STR
+
+SN
+
+STR
+
+STR
+
+Injection
+site
+
+None
+45 %
+17 %
+
+3 weeks
+
+10 months
+
+10–42 days
+3 weeks
+
+10–20 %
+20 %
+50 %
+20 %
+45 %
+
+42 days
+
+Time
+course
+
+None
+
+DN loss
+in SN
+
+–
+
+–
+
+–
+
+No
+
+a-SYN
+aggregates
+
+–
+
+–
+
+–
+
+No
+
+Ubiq.
+
+–
+
+–
+
+–
+
+No
+
+phos.
+S129
+
+–
+
+–
+
+–
+
+–
+
+Motor
+phenotype
+
+AdV adenoviral vector; HSV herpes simplex vector; LV lentiviral vector; HSV IE4/5 HSV immediate-early 4/5 gene promoter; Ubiq ubiquitination;
+posph.S129 S129 a-synuclein phosphorylation; – not determined; n.d. not described; SN substantia nigra; STR striatum
+
+CMV
+
+n.d.
+
+Synapsin-1
+
+AdV
+
+LRRK2 WT (Dusonchet et al.
+2011)
+LRRK2 G2019S
+LRRK2 WT (Lee et al. 2010)
+LRRK2 G2019S
+LRRK2 G2019S/D1994A
+
+Promoter
+
+Vector
+system
+
+Gene
+
+Table 3 Other viral vector-based rodent PD models
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+A. Van der Perren et al.
+
+However, an elegant alternative approach was recently pursued by adult
+knockout of parkin after injection of an LV expressing GFP-Cre into the SN of
+6- to 8-week-old conditional parkin knockout mice (exon 7 flanked by loxP sites,
+parkinFLX/FLX). Injection of LV GFP-Cre led to a near complete loss of parkin in
+the ventral midbrain of parkinFlx/Flx animals, resulting in a significant reduction in
+nigral DN up to 45 % after 10 months (Shin et al. 2011).
+
+5 Conclusions and Perspectives
+Much effort has been spent over the last 10 years on the development and
+improvement of viral vector-based PD models. So far, models based on overexpression of a-synuclein are the most prevalent and extensively studied. The firstgeneration a-synuclein models have learned that the levels of a-synuclein
+expression crucially determine the disease onset and severity, and are important to
+elicit reliable motor impairments. Since then, efforts have been focused on
+increasing expression levels of a-synuclein in the DN, which has resulted in
+second- and third-generation models. rAAV vectors have gradually outcompeted
+LV vectors because of their higher titers and transduction efficiency of DN. The
+best models currently available have been developed from a combined approach
+using newer AAV serotypes (rAAV1, 5, 6, 7, 8) and optimized vector constructs,
+titer, and purity. These third-generation a-synuclein models show improved face
+and predictive validity and therefore offer the possibility to reliably test novel
+therapeutics.
+Besides being useful for preclinical drug testing, the viral vector-based
+a-synuclein models have allowed to examine important aspects of a-synuclein
+pathophysiology, such as a-synuclein phosphorylation, toxicity of a-synuclein
+oligomers versus fibrils, etc. Furthermore, differences in sensitivity of DN among
+animal species have been detected. Compared to rats, mice DN seem to be less
+sensitive to a-synuclein overexpression, resulting in a delayed manifestation of
+neurodegeneration. This is in line with observations in a-synuclein transgenic mice
+where dopaminergic degeneration is largely absent. However, a comparison with
+a-synuclein transgenic rats would be required to rule out whether this is genuinely
+due to different protective mechanisms between mice and rats rather than to differences in levels or age-of-onset of the a-synuclein overexpression.
+Comparing models created across different laboratories remains difficult since
+different vector systems, serotypes, and production methods are being used. The
+vector titer as well as the vector purity directly influences the phenotypic outcome
+of the model. Excessive vector titers or insufficiently purified vector batches may
+result in a specific toxicity. Therefore, appropriate control vectors are indispensable. Considerable time investment in the viral vector production, upscaling, and
+purification procedures has also proven essential to obtain reproducible and high
+quality vector batches.
+
+Viral Vector-Based Models of Parkinson’s Disease
+
+Rodent models based on overexpression of G2019S LRRK2 display mild
+(10 %) to severe (50 %) neurodegeneration depending on the vector system
+(AdV5 or HSV) used. A disadvantage of the AdV5-based rat model is the low
+percentage of retrogradely transduced nigral neurons (31 %) compared to the
+75 % obtained in mice using HSV. Importantly, both models have provided
+in vivo evidence for the link between G2019S LRRK2 toxicity and elevated kinase
+activity, which reinforces the concept of LRRK2 kinase inhibition as a possible
+therapeutic strategy.
+RNAi-mediated viral vector-based knockdown offers in principle an interesting
+tool to study recessive genes like parkin, DJ-1, and PINK1. However, until now,
+only one study related to PINK1 has been published applying this approach. This
+might partially be explained by difficulties to detect and quantify knockdown
+levels in vivo due to the lack of reliable antibodies or other detection methods of
+endogenous protein. Nevertheless, the knockdown approach with viral vectors still
+represents an attractive and flexible strategy to combine with overexpression/
+knockdown of other PD-related genes or also in combination with transgenic
+animals in order to determine whether these proteins act in similar pathways
+in vivo.
+
+References
+Andres-Mateos E, Perier C, Zhang L, Blanchard-Fillion B, Greco TM, Thomas B, Ko HS, Sasaki
+M, Ischiropoulos H, Przedborski S, Dawson TM, Dawson VL (2007) DJ-1 gene deletion
+reveals that DJ-1 is an atypical peroxiredoxin-like peroxidase. Proc Natl Acad Sci U S A
+104(37):14807–14812
+Atchison RW, Casto BC, Hammon WM (1965) Adenovirus-associated defective virus particles.
+Science 149:754–756
+Azeredo da Silveira S, Schneider BL, Cifuentes-Diaz C, Sage D, Abbas-Terki T, Iwatsubo T,
+Unser M, Aebischer P (2009) Phosphorylation does not prompt, nor prevent, the formation of
+alpha-synuclein toxic species in a rat model of Parkinson’s disease. Hum Mol Genet
+18(5):872–887
+Baekelandt V, De Strooper B, Nuttin B, Debyser Z (2000) Gene therapeutic strategies for
+neurodegenerative diseases. Curr Opin Mol Ther 2(5):540–554
+Baekelandt V, Claeys A, Eggermont K, Lauwers E, De Strooper B, Nuttin B, Debyser Z (2002)
+Characterization of lentiviral vector-mediated gene transfer in adult mouse brain. Hum Gene
+Ther 13(7):841–853
+Bankiewicz KS, Eberling JL, Kohutnicka M, Jagust W, Pivirotto P, Bringas J, Cunningham J,
+Budinger TF, Harvey-White J (2000) Convection-enhanced delivery of AAV vector in
+parkinsonian monkeys; in vivo detection of gene expression and restoration of dopaminergic
+function using pro-drug approach. Exp Neurol 164(1):2–14
+Belin AC, Westerlund M (2008) Parkinson’s disease: a genetic perspective. FEBS J
+275(7):1377–1383
+Betarbet R, Sherer TB, MacKenzie G, Garcia-Osuna M, Panov AV, Greenamyre JT (2000)
+Chronic systemic pesticide exposure reproduces features of Parkinson’s disease. Nat Neurosci
+3(12):1301–1306
+Betarbet R, Sherer TB, Greenamyre JT (2002) Animal models of Parkinson’s disease. BioEssays
+24(4):308–318
+
+A. Van der Perren et al.
+Bezard E, Przedborski S (2011) A tale on animal models of Parkinson’s disease. Mov Disord
+26(6):993–1002
+Bjorklund LM, Sanchez-Pernaute R, Chung S, Andersson T, Chen IY, McNaught KS, Brownell
+AL, Jenkins BG, Wahlestedt C, Kim KS, Isacson O (2002) Embryonic stem cells develop into
+functional dopaminergic neurons after transplantation in a Parkinson rat model. Proc Natl
+Acad Sci U S A 99(4):2344–2349
+Blouin V, Brument N, Toublanc E, Raimbaud I, Moullier P, Salvetti A (2004) Improving rAAV
+production and purification: towards the definition of a scaleable process. J Gene Med 6(Suppl
+1):S223–S228
+Braak H, Del Tredici K, Rub U, de Vos RA, Jansen Steur EN, Braak E (2003) Staging of brain
+pathology related to sporadic Parkinson’s disease. Neurobiol Aging 24(2):197–211
+Bukovsky AA, Song JP, Naldini L (1999) Interaction of human immunodeficiency virus-derived
+vectors with wild-type virus in transduced cells. J Virol 73(8):7087–7092
+Buller RM, Janik JE, Sebring ED, Rose JA (1981) Herpes simplex virus types 1 and 2 completely
+help adenovirus-associated virus replication. J Virol 40(1):241–247
+Burger C, Gorbatyuk OS, Velardo MJ, Peden CS, Williams P, Zolotukhin S, Reier PJ, Mandel RJ,
+Muzyczka N (2004) Recombinant AAV viral vectors pseudotyped with viral capsids from
+serotypes 1, 2, and 5 display differential efficiency and cell tropism after delivery to different
+regions of the central nervous system. Mol Ther 10(2):302–317
+Burger C, Nguyen FN, Deng J, Mandel RJ (2005) Systemic mannitol-induced hyperosmolality
+amplifies rAAV2-mediated striatal transduction to a greater extent than local co-infusion. Mol
+Ther 11(2):327–331
+Burton EA, Fink DJ, Glorioso JC (2002) Gene delivery using herpes simplex virus vectors. DNA
+Cell Biol 21(12):915–936
+Campos SK, Barry MA (2007) Current advances and future challenges in adenoviral vector
+biology and targeting. Curr Gene Ther 7 (3):189-204
+Chartier-Harlin MC, Kachergus J, Roumier C, Mouroux V, Douay X, Lincoln S, Levecque C,
+Larvor L, Andrieux J, Hulihan M, Waucquier N, Defebvre L, Amouyel P, Farrer M, Destee A
+(2004) Alpha-synuclein locus duplication as a cause of familial Parkinson’s disease. Lancet
+364(9440):1167–1169
+Chen L, Thiruchelvam MJ, Madura K, Richfield EK (2006) Proteasome dysfunction in aged
+human alpha-synuclein transgenic mice. Neurobiol Dis 23(1):120–126
+Chesselet MF, Richter F (2011) Modelling of Parkinson’s disease in mice. Lancet Neurol
+10(12):1108–1118
+Christine CW, Starr PA, Larson PS, Eberling JL, Jagust WJ, Hawkins RA, VanBrocklin HF,
+Wright JF, Bankiewicz KS, Aminoff MJ (2009) Safety and tolerability of putaminal AADC
+gene therapy for Parkinson disease. Neurology 73(20):1662–1669
+Chu D, Thistlethwaite PA, Sullivan CC, Grifman MS, Weitzman MD (2004) Gene delivery to the
+mammalian heart using AAV vectors. Methods Mol Biol 246:213–224
+Chung CY, Koprich JB, Siddiqi H, Isacson O (2009) Dynamic changes in presynaptic and axonal
+transport proteins combined with striatal neuroinflammation precede dopaminergic neuronal
+loss in a rat model of AAV alpha-synucleinopathy. J Neurosci 29(11):3365–3373
+Civiero L, Vancraenenbroeck R, Belluzzi E, Beilina A, Lobbestael E, Reyniers L, Gao F, Micetic I,
+De Maeyer M, Bubacco L, Baekelandt V, Cookson MR, Greggio E, Taymans JM (2012)
+Biochemical characterization of highly purified leucine-rich repeat kinases 1 and 2 demonstrates formation of homodimers. PLoS One 7(8)
+Clark KR, Voulgaropoulou F, Fraley DM, Johnson PR (1995) Cell lines for the production of
+recombinant adeno-associated virus. Hum Gene Ther 6(10):1329–1341
+Cunningham J, Oiwa Y, Nagy D, Podsakoff G, Colosi P, Bankiewicz KS (2000) Distribution of
+AAV-TK following intracranial convection-enhanced delivery into rats. Cell Transplant
+9(5):585–594
+Dauer W, Przedborski S (2003) Parkinson’s disease: mechanisms and models. Neuron
+39(6):889–909
+
+Viral Vector-Based Models of Parkinson’s Disease
+Davison AJ, Benko M, Harrach B (2003) Genetic content and evolution of adenoviruses. J Gen
+Virol 84(Pt 11):2895–2908
+De Rijck J, Van Maele B, Debyser Z (2005) Positional effects of the central DNA flap in HIV-1derived lentiviral vectors. Biochem Biophys Res Commun 328(4):987–994
+de Silva S, Bowers WJ (2009) Herpes virus amplicon vectors. Viruses 1(3):594–629
+Decressac M, Mattsson B, Lundblad M, Weikop P, Bjorklund A (2012) Progressive
+neurodegenerative and behavioural changes induced by AAV-mediated overexpression of
+alpha-synuclein in midbrain dopamine neurons. Neurobiol Dis 45(3):939–953
+Deroose CM, Reumers V, Debyser Z, Baekelandt V (2009) Seeing genes at work in the living
+brain with non-invasive molecular imaging. Curr Gene Ther 9(3):212–238
+Dodiya HB, Bjorklund T, Stansell Iii J, Mandel RJ, Kirik D, Kordower JH (2009) Differential
+transduction following basal ganglia administration of distinct pseudotyped AAV capsid
+serotypes in nonhuman primates. Mol Ther 18(3):579–587
+Dull T, Zufferey R, Kelly M, Mandel RJ, Nguyen M, Trono D, Naldini L (1998) A thirdgeneration lentivirus vector with a conditional packaging system. J Virol 72(11):8463–8471
+Dusonchet J, Kochubey O, Stafa K, Young SM Jr, Zufferey R, Moore DJ, Schneider BL,
+Aebischer P (2011) A rat model of progressive nigral neurodegeneration induced by the
+Parkinson’s disease-associated G2019S mutation in LRRK2. J Neurosci 31(3):907–912
+Edwards TL, Scott WK, Almonte C, Burt A, Powell EH, Beecham GW, Wang L, Zuchner S,
+Konidari I, Wang G, Singer C, Nahab F, Scott B, Stajich JM, Pericak-Vance M, Haines J,
+Vance JM, Martin ER (2010) Genome-wide association study confirms SNPs in SNCA and the
+MAPT region as common risk factors for Parkinson disease. Ann Hum Genet 74(2):97–109
+Eslamboli A, Romero-Ramos M, Burger C, Bjorklund T, Muzyczka N, Mandel RJ, Baker H,
+Ridley RM, Kirik D (2007) Long-term consequences of human alpha-synuclein overexpression in the primate ventral midbrain. Brain 130(Pt 3):799–815
+Farrer MJ (2006) Genetics of Parkinson disease: paradigm shifts and future prospects. Nat Rev
+Genet 7(4):306–318
+Fleming SM, Fernagut PO, Chesselet MF (2005) Genetic mouse models of parkinsonism:
+strengths and limitations. NeuroRx 2(3):495–503
+Fox SH, Brotchie JM (2010) The MPTP-lesioned non-human primate models of Parkinson’s
+disease. Past, present, and future. Prog Brain Res 184:133–157
+Freichel C, Neumann M, Ballard T, Muller V, Woolley M, Ozmen L, Borroni E, Kretzschmar
+HA, Haass C, Spooren W, Kahle PJ (2007) Age-dependent cognitive decline and amygdala
+pathology in alpha-synuclein transgenic mice. Neurobiol Aging 28(9):1421–1435
+Gao G, Qu G, Burnham MS, Huang J, Chirmule N, Joshi B, Yu QC, Marsh JA, Conceicao CM,
+Wilson JM (2000) Purification of recombinant adeno-associated virus vectors by column
+chromatography and its performance in vivo. Hum Gene Ther 11(15):2079–2091
+Gao GP, Alvira MR, Wang L, Calcedo R, Johnston J, Wilson JM (2002) Novel adeno-associated
+viruses from rhesus monkeys as vectors for human gene therapy. Proc Natl Acad Sci U S A
+99(18):11854–11859
+Gao G, Alvira MR, Somanathan S, Lu Y, Vandenberghe LH, Rux JJ, Calcedo R, Sanmiguel J,
+Abbas Z, Wilson JM (2003) Adeno-associated viruses undergo substantial evolution in
+primates during natural infections. Proc Natl Acad Sci U S A 100(10):6081–6086
+Gao G, Vandenberghe LH, Alvira MR, Lu Y, Calcedo R, Zhou X, Wilson JM (2004) Clades of
+Adeno-associated viruses are widely disseminated in human tissues. J Virol 78(12):6381–6388
+Gao G, Vandenberghe LH, Wilson JM (2005) New recombinant serotypes of AAV vectors. Curr
+Gene Ther 5(3):285–297
+Gautier CA, Kitada T, Shen J (2008) Loss of PINK1 causes mitochondrial functional defects and
+increased sensitivity to oxidative stress. Proc Natl Acad Sci U S A 105(32):11364–11369
+Goldberg MS, Fleming SM, Palacino JJ, Cepeda C, Lam HA, Bhatnagar A, Meloni EG, Wu N,
+Ackerson LC, Klapstein GJ, Gajendiran M, Roth BL, Chesselet MF, Maidment NT, Levine
+MS, Shen J (2003) Parkin-deficient mice exhibit nigrostriatal deficits but not loss of
+dopaminergic neurons. J Biol Chem 278(44):43628–43635
+
+A. Van der Perren et al.
+Goldberg MS, Pisani A, Haburcak M, Vortherms TA, Kitada T, Costa C, Tong Y, Martella G,
+Tscherter A, Martins A, Bernardi G, Roth BL, Pothos EN, Calabresi P, Shen J (2005)
+Nigrostriatal dopaminergic deficits and hypokinesia caused by inactivation of the familial
+Parkinsonism-linked gene DJ-1. Neuron 45(4):489–496
+Gorbatyuk OS, Li S, Sullivan LF, Chen W, Kondrikova G, Manfredsson FP, Mandel RJ,
+Muzyczka N (2008) The phosphorylation state of Ser-129 in human alpha-synuclein
+determines neurodegeneration in a rat model of Parkinson disease. Proc Natl Acad Sci U S A
+105(2):763–768
+Graham FL, Prevec L (1995) Methods for construction of adenovirus vectors. Mol Biotechnol 3
+(3):207–220
+Grieger JC, Samulski RJ (2005) Packaging capacity of adeno-associated virus serotypes: impact
+of larger genomes on infectivity and postentry steps. J Virol 79(15):9933–9944
+Grimm D, Kay MA (2003) From virus evolution to vector revolution: use of naturally occurring
+serotypes of adeno-associated virus (AAV) as novel vectors for human gene therapy. Curr
+Gene Ther 3(4):281–304
+Hadaczek P, Mirek H, Bringas J, Cunningham J, Bankiewicz K (2004) Basic fibroblast growth
+factor enhances transduction, distribution, and axonal transport of adeno-associated virus type
+2 vector in rat brain. Hum Gene Ther 15(5):469–479
+Hamza TH, Zabetian CP, Tenesa A, Laederach A, Montimurro J, Yearout D, Kay DM, Doheny
+KF, Paschall J, Pugh E, Kusel VI, Collura R, Roberts J, Griffith A, Samii A, Scott WK, Nutt J,
+Factor SA, Payami H (2010) Common genetic variation in the HLA region is associated with
+late-onset sporadic Parkinson’s disease. Nat Genet 42(9):781–785
+Haque ME, Mount MP, Safarpour F, Abdel-Messih E, Callaghan S, Mazerolle C, Kitada T, Slack
+RS, Wallace V, Shen J, Anisman H, Park DS (2012) Inactivation of Pink1 gene in vivo sensitizes
+dopamine-producing neurons to 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) and
+can be rescued by autosomal recessive Parkinson disease genes, Parkin or DJ-1. J Biol Chem
+287(27):23162–23170
+Hawkes CH, Del Tredici K, Braak H (2010) A timeline for Parkinson’s disease. Parkinsonism
+Relat Disord 16(2):79–84
+Hellstrom M, Ruitenberg MJ, Pollett MA, Ehlert EM, Twisk J, Verhaagen J, Harvey AR (2009)
+Cellular tropism and transduction properties of seven adeno-associated viral vector serotypes
+in adult retina after intravitreal injection. Gene Ther 16(4):521–532
+Hoglinger GU, Oertel WH, Hirsch EC (2006) The rotenone model of parkinsonism—the five
+years inspection. J Neural Transm Suppl 70:269–272
+Howarth JL, Lee YB, Uney JB (2010) Using viral vectors as gene transfer tools (Cell Biology and
+Toxicology Special Issue: ETCS-UK 1 day meeting on genetic manipulation of cells). Cell
+Biol Toxicol 26(1):1–20
+Ibanez P, Bonnet AM, Debarges B, Lohmann E, Tison F, Pollak P, Agid Y, Durr A, Brice A
+(2004) Causal relation between alpha-synuclein gene duplication and familial Parkinson’s
+disease. Lancet 364(9440):1169–1171
+Ilijic E, Guzman JN, Surmeier DJ (2011) The L-type channel antagonist isradipine is
+neuroprotective in a mouse model of Parkinson’s disease. Neurobiol Dis 43(2):364–371
+Itier JM, Ibanez P, Mena MA, Abbas N, Cohen-Salmon C, Bohme GA, Laville M, Pratt J, Corti
+O, Pradier L, Ret G, Joubert C, Periquet M, Araujo F, Negroni J, Casarejos MJ, Canals S,
+Solano R, Serrano A, Gallego E, Sanchez M, Denefle P, Benavides J, Tremp G, Rooney TA,
+Brice A, Garcia de Yebenes J (2003) Parkin gene inactivation alters behaviour and dopamine
+neurotransmission in the mouse. Hum Mol Genet 12(18):2277–2291
+Jiang H, Jackson-Lewis V, Muthane U, Dollison A, Ferreira M, Espinosa A, Parsons B,
+Przedborski S (1993) Adenosine receptor antagonists potentiate dopamine receptor agonistinduced rotational behavior in 6-hydroxydopamine-lesioned rats. Brain Res 613(2):347–351
+Kahle PJ, Neumann M, Ozmen L, Muller V, Odoy S, Okamoto N, Jacobsen H, Iwatsubo T,
+Trojanowski JQ, Takahashi H, Wakabayashi K, Bogdanovic N, Riederer P, Kretzschmar HA,
+Haass C (2001) Selective insolubility of alpha-synuclein in human Lewy body diseases is
+recapitulated in a transgenic mouse model. Am J Pathol 159(6):2215–2225
+
+Viral Vector-Based Models of Parkinson’s Disease
+Kaplitt MG, Feigin A, Tang C, Fitzsimons HL, Mattis P, Lawlor PA, Bland RJ, Young D,
+Strybing K, Eidelberg D, During MJ (2007) Safety and tolerability of gene therapy with an
+adeno-associated virus (AAV) borne GAD gene for Parkinson’s disease: an open label, phase
+I trial. Lancet 369(9579):2097–2105
+Kim RH, Smith PD, Aleyasin H, Hayley S, Mount MP, Pownall S, Wakeham A, You-Ten AJ,
+Kalia SK, Horne P, Westaway D, Lozano AM, Anisman H, Park DS, Mak TW (2005)
+Hypersensitivity of DJ-1-deficient mice to 1-methyl-4-phenyl-1,2,3,6-tetrahydropyrindine
+(MPTP) and oxidative stress. Proc Natl Acad Sci U S A 102(14):5215–5220
+Kirik D, Georgievska B, Burger C, Winkler C, Muzyczka N, Mandel RJ, Bjorklund A (2002a)
+Reversal of motor impairments in parkinsonian rats by continuous intrastriatal delivery of
+L-dopa using rAAV-mediated gene transfer. Proc Natl Acad Sci U S A 99(7):4708–4713
+Kirik D, Rosenblad C, Burger C, Lundberg C, Johansen TE, Muzyczka N, Mandel RJ, Bjorklund
+A (2002b) Parkinson-like neurodegeneration induced by targeted overexpression of alphasynuclein in the nigrostriatal system. J Neurosci 22(7):2780–2791
+Kirik D, Annett LE, Burger C, Muzyczka N, Mandel RJ, Bjorklund A (2003) Nigrostriatal alphasynucleinopathy induced by viral vector-mediated overexpression of human alpha-synuclein:
+a new primate model of Parkinson’s disease. Proc Natl Acad Sci U S A 100(5):2884–2889
+Kitada T, Pisani A, Porter DR, Yamaguchi H, Tscherter A, Martella G, Bonsi P, Zhang C, Pothos
+EN, Shen J (2007) Impaired dopamine release and synaptic plasticity in the striatum of
+PINK1-deficient mice. Proc Natl Acad Sci U S A 104(27):11441–11446
+Klein RL, King MA, Hamby ME, Meyer EM (2002) Dopaminergic cell loss induced by human
+A30P alpha-synuclein gene transfer to the rat substantia nigra. Hum Gene Ther 13(5):605–612
+Koprich JB, Johnston TH, Huot P, Reyes MG, Espinosa M, Brotchie JM (2011) Progressive
+neurodegeneration or endogenous compensation in an animal model of Parkinson’s disease
+produced by decreasing doses of alpha-synuclein. PLoS ONE 6(3):e17698
+Kruger R, Kuhn W, Muller T, Woitalla D, Graeber M, Kosel S, Przuntek H, Epplen JT, Schols L,
+Riess O (1998) Ala30Pro mutation in the gene encoding alpha-synuclein in Parkinson’s
+disease. Nat Genet 18(2):106–108
+Lauwers E, Debyser Z, Van Dorpe J, De Strooper B, Nuttin B, Baekelandt V (2003)
+Neuropathology and neurodegeneration in rodent brain induced by lentiviral vector-mediated
+overexpression of alpha-synuclein. Brain Pathol 13(3):364–372
+Lauwers E, Beque D, Van Laere K, Nuyts J, Bormans G, Mortelmans L, Casteels C, Vercammen L,
+Bockstael O, Nuttin B, Debyser Z, Baekelandt V (2007) Non-invasive imaging of neuropathology in a rat model of alpha-synuclein overexpression. Neurobiol Aging 28(2):248–257
+Lee BD, Shin JH, VanKampen J, Petrucelli L, West AB, Ko HS, Lee YI, Maguire-Zeiss KA,
+Bowers WJ, Federoff HJ, Dawson VL, Dawson TM (2010) Inhibitors of leucine-rich repeat
+kinase-2 protect against models of Parkinson’s disease. Nat Med 16(9):998–1000
+Lesage S, Brice A (2009) Parkinson’s disease: from monogenic forms to genetic susceptibility
+factors. Hum Mol Genet 18(R1):R48–R59
+Li Y, Liu W, Oo TF, Wang L, Tang Y, Jackson-Lewis V, Zhou C, Geghman K, Bogdanov M,
+Przedborski S, Beal MF, Burke RE, Li C (2009) Mutant LRRK2(R1441G) BAC transgenic
+mice recapitulate cardinal features of Parkinson’s disease. Nat Neurosci 12(7):826–828
+Li X, Patel JC, Wang J, Avshalumov MV, Nicholson C, Buxbaum JD, Elder GA, Rice ME, Yue
+Z (2010) Enhanced striatal dopamine transmission and motor performance with LRRK2
+overexpression in mice is eliminated by familial Parkinson’s disease mutation G2019S.
+J Neurosci 30(5):1788–1797
+Lo Bianco C, Ridet JL, Schneider BL, Deglon N, Aebischer P (2002) alpha-Synucleinopathy and
+selective dopaminergic neuron loss in a rat lentiviral-based model of Parkinson’s disease.
+Proc Natl Acad Sci U S A 99(16):10813–10818
+Lock M, Alvira M, Vandenberghe LH, Samanta A, Toelen J, Debyser Z, Wilson JM (2010)
+Rapid, simple and versatile manufacturing of recombinant adeno-associated virus vectors at
+scale. Hum Gene Ther 21(10):1259–1271
+Lu XH, Fleming SM, Meurers B, Ackerson LC, Mortazavi F, Lo V, Hernandez D, Sulzer D,
+Jackson GR, Maidment NT, Chesselet MF, Yang XW (2009) Bacterial artificial chromosome
+
+A. Van der Perren et al.
+transgenic mice expressing a truncated mutant parkin exhibit age-dependent hypokinetic
+motor deficits, dopaminergic neuron degeneration, and accumulation of proteinase K-resistant
+alpha-synuclein. J Neurosci 29(7):1962–1976
+Ma SY, Roytta M, Rinne JO, Collan Y, Rinne UK (1997) Correlation between neuromorphometry in the substantia nigra and clinical features in Parkinson’s disease using dissector
+counts. J Neurol Sci 151(1):83–87
+Magen I, Chesselet MF (2010) Genetic mouse models of Parkinson’s disease—the state of the art.
+Prog Brain Res 184:53–87
+Maingay M, Romero-Ramos M, Carta M, Kirik D (2006) Ventral tegmental area dopamine
+neurons are resistant to human mutant alpha-synuclein overexpression. Neurobiol Dis
+23(3):522–532
+Mandel RJ (2010) CERE-110, an adeno-associated virus-based gene delivery vector expressing
+human nerve growth factor for the treatment of Alzheimer’s disease. Curr Opin Mol Ther
+12(2):240–247
+Manfredsson FP, Burger C, Sullivan LF, Muzyczka N, Lewin AS, Mandel RJ (2007) rAAVmediated nigral human parkin over-expression partially ameliorates motor deficits via
+enhanced dopamine neurotransmission in a rat model of Parkinson’s disease. Exp Neurol
+207(2):289–301
+Markert JM, Medlock MD, Rabkin SD, Gillespie GY, Todo T, Hunter WD, Palmer CA,
+Feigenbaum F, Tornatore C, Tufaro F, Martuza RL (2000) Conditionally replicating herpes
+simplex virus mutant, G207 for the treatment of malignant glioma: results of a phase I trial.
+Gene Ther 7(10):867–874
+Masliah E, Rockenstein E, Veinbergs I, Mallory M, Hashimoto M, Takeda A, Sagara Y, Sisk A,
+Mucke L (2000) Dopaminergic loss and inclusion body formation in alpha-synuclein mice:
+implications for neurodegenerative disorders. Science 287(5456):1265–1269
+Mastakov MY, Baer K, Xu R, Fitzsimons H, During MJ (2001) Combined injection of rAAV
+with mannitol enhances gene expression in the rat brain. Mol Ther 3(2):225–232
+Mastakov MY, Baer K, Kotin RM, During MJ (2002) Recombinant adeno-associated virus
+serotypes 2- and 5-mediated gene transfer in the mammalian brain: quantitative analysis of
+heparin co-infusion. Mol Ther 5(4):371–380
+McFarland NR, Lee JS, Hyman BT, McLean PJ (2009a) Comparison of transduction efficiency of
+recombinant AAV serotypes 1, 2, 5, and 8 in the rat nigrostriatal system. J Neurochem
+109(3):838–845
+McFarland NR, Fan Z, Xu K, Schwarzschild MA, Feany MB, Hyman BT, McLean PJ (2009b)
+Alpha-synuclein S129 phosphorylation mutants do not alter nigrostriatal toxicity in a rat
+model of Parkinson disease. J Neuropathol Exp Neurol 68(5):515–524
+Miao CH, Snyder RO, Schowalter DB, Patijn GA, Donahue B, Winther B, Kay MA (1998) The
+kinetics of rAAV integration in the liver. Nat Genet 19(1):13–15
+Mochizuki H, Yamada M, Mizuno Y (2006) Alpha-synuclein overexpression model. J Neural
+Transm Suppl 70:281–284
+Moskalenko M, Chen L, van Roey M, Donahue BA, Snyder RO, McArthur JG, Patel SD (2000)
+Epitope mapping of human anti-adeno-associated virus type 2 neutralizing antibodies:
+implications for gene therapy and virus structure. J Virol 74(4):1761–1766
+Naldini L, Blomer U, Gage FH, Trono D, Verma IM (1996a) Efficient transfer, integration, and
+sustained long-term expression of the transgene in adult rat brains injected with a lentiviral
+vector. Proc Natl Acad Sci U S A 93(21):11382–11388
+Naldini L, Blomer U, Gallay P, Ory D, Mulligan R, Gage FH, Verma IM, Trono D (1996b) In
+vivo gene delivery and stable transduction of nondividing cells by a lentiviral vector. Science
+272(5259):263–267
+Oliveras-Salvá M, Macchi F, Coessens V, Deleersnijder A, Gérard M, Van der Perren A, Van den
+Haute C, Baekelandt V (2014) Total but not partial loss of PINK1 enhances a-synucleininduced neurodegeneration in mouse substantia nigra. Neurobiol Aging
+Oliveras-Salvá M, Van der Perren A, Casadei N, Nuber S, D’Hooge R, Van den Haute C,
+Baekelandt V (2013) rAAV vector-mediated overexpression of a-synuclein in mouse
+
+Viral Vector-Based Models of Parkinson’s Disease
+substantia nigra induces protein aggregation and progressive dose-dependent neurodegeneration. Mol Neurodegener 8:44
+Paisan-Ruiz C (2009) LRRK2 gene variation and its contribution to Parkinson disease. Hum
+Mutat 30(8):1153–1160
+Pankratz N, Wilk JB, Latourelle JC, DeStefano AL, Halter C, Pugh EW, Doheny KF, Gusella JF,
+Nichols WC, Foroud T, Myers RH (2009) Genomewide association study for susceptibility
+genes contributing to familial Parkinson disease. Hum Genet 124(6):593–605
+Passini MA, Watson DJ, Wolfe JH (2004) Gene delivery to the mouse brain with adenoassociated virus. Methods Mol Biol 246:225–236
+Paterna JC, Feldon J, Bueler H (2004) Transduction profiles of recombinant adeno-associated
+virus vectors derived from serotypes 2 and 5 in the nigrostriatal system of rats. J Virol
+78(13):6808–6817
+Perez FA, Palmiter RD (2005) Parkin-deficient mice are not a robust model of parkinsonism. Proc
+Natl Acad Sci U S A 102(6):2174–2179
+Polymeropoulos MH, Lavedan C, Leroy E, Ide SE, Dehejia A, Dutra A, Pike B, Root H,
+Rubenstein J, Boyer R, Stenroos ES, Chandrasekharappa S, Athanassiadou A, Papapetropoulos T, Johnson WG, Lazzarini AM, Duvoisin RC, Di Iorio G, Golbe LI, Nussbaum RL
+(1997) Mutation in the alpha-synuclein gene identified in families with Parkinson’s disease.
+Science 276(5321):2045–2047
+Rabinowitz JE, Samulski RJ (2000) Building a better vector: the manipulation of AAV virions.
+Virology 278(2):301–308
+Ramonet D, Daher JP, Lin BM, Stafa K, Kim J, Banerjee R, Westerlund M, Pletnikova O,
+Glauser L, Yang L, Liu Y, Swing DA, Beal MF, Troncoso JC, McCaffery JM, Jenkins NA,
+Copeland NG, Galter D, Thomas B, Lee MK, Dawson TM, Dawson VL, Moore DJ (2011)
+Dopaminergic neuronal loss, reduced neurite complexity and autophagic abnormalities in
+transgenic mice expressing G2019S mutant LRRK2. PLoS ONE 6(4):e18568
+Richfield EK, Thiruchelvam MJ, Cory-Slechta DA, Wuertzer C, Gainetdinov RR, Caron MG, Di
+Monte DA, Federoff HJ (2002) Behavioral and neurochemical effects of wild-type and
+mutated human alpha-synuclein in transgenic mice. Exp Neurol 175(1):35–48
+Rutledge EA, Halbert CL, Russell DW (1998) Infectious clones and vectors derived from adenoassociated virus (AAV) serotypes other than AAV type 2. J Virol 72(1):309–319
+Samulski RJ, Berns KI, Tan M, Muzyczka N (1982) Cloning of adeno-associated virus into
+pBR322: rescue of intact virus from the recombinant plasmid in human cells. Proc Natl Acad
+Sci U S A 79(6):2077–2081
+Samulski RJ, Chang LS, Shenk T (1987) A recombinant plasmid from which an infectious adenoassociated virus genome can be excised in vitro and its use to study viral replication. J Virol
+61(10):3096–3101
+Sanchez-Guajardo V, Febbraro F, Kirik D, Romero-Ramos M (2010) Microglia acquire distinct
+activation profiles depending on the degree of alpha-synuclein neuropathology in a rAAV
+based model of Parkinson’s disease. PLoS ONE 5(1):e8784
+Satake W, Nakabayashi Y, Mizuta I, Hirota Y, Ito C, Kubo M, Kawaguchi T, Tsunoda T,
+Watanabe M, Takeda A, Tomiyama H, Nakashima K, Hasegawa K, Obata F, Yoshikawa T,
+Kawakami H, Sakoda S, Yamamoto M, Hattori N, Murata M, Nakamura Y, Toda T (2009)
+Genome-wide association study identifies common variants at four loci as genetic risk factors
+for Parkinson’s disease. Nat Genet 41(12):1303–1307
+Schmidt M, Grot E, Cervenka P, Wainer S, Buck C, Chiorini JA (2006) Identification and
+characterization of novel adeno-associated virus isolates in ATCC virus stocks. J Virol
+80(10):5082–5085
+Shelkovnikova TA, Ustyugov AA, Millership S, Peters O, Anichtchik O, Spillantini MG,
+Buchman VL, Bachurin SO, Ninkina NN (2011) Dimebon does not ameliorate pathological
+changes caused by expression of truncated (1-120) human alpha-synuclein in dopaminergic
+neurons of transgenic mice. Neurodegener Dis 8(6):430–437
+
+A. Van der Perren et al.
+Shin JH, Ko HS, Kang H, Lee Y, Lee YI, Pletinkova O, Troconso JC, Dawson VL, Dawson TM
+(2011) PARIS (ZNF746) repression of PGC-1alpha contributes to neurodegeneration in
+Parkinson’s disease. Cell 144(5):689–702
+Shults CW (2006) Lewy bodies. Proc Natl Acad Sci U S A 103(6):1661–1668
+Simon-Sanchez J, Schulte C, Bras JM, Sharma M, Gibbs JR, Berg D, Paisan-Ruiz C, Lichtner P,
+Scholz SW, Hernandez DG, Kruger R, Federoff M, Klein C, Goate A, Perlmutter J, Bonin M,
+Nalls MA, Illig T, Gieger C, Houlden H, Steffens M, Okun MS, Racette BA, Cookson MR,
+Foote KD, Fernandez HH, Traynor BJ, Schreiber S, Arepalli S, Zonozi R, Gwinn K, van der
+Brug M, Lopez G, Chanock SJ, Schatzkin A, Park Y, Hollenbeck A, Gao J, Huang X, Wood
+NW, Lorenz D, Deuschl G, Chen H, Riess O, Hardy JA, Singleton AB, Gasser T (2009)
+Genome-wide association study reveals genetic risk underlying Parkinson’s disease. Nat
+Genet 41(12):1308–1312
+Singleton AB, Farrer M, Johnson J, Singleton A, Hague S, Kachergus J, Hulihan M, Peuralinna T,
+Dutra A, Nussbaum R, Lincoln S, Crawley A, Hanson M, Maraganore D, Adler C, Cookson
+MR, Muenter M, Baptista M, Miller D, Blancato J, Hardy J, Gwinn-Hardy K (2003) alphaSynuclein locus triplication causes Parkinson’s disease. Science 302(5646):841
+Spillantini MG, Schmidt ML, Lee VM, Trojanowski JQ, Jakes R, Goedert M (1997) Alphasynuclein in Lewy bodies. Nature 388(6645):839–840
+St Martin JL, Klucken J, Outeiro TF, Nguyen P, Keller-McGandy C, Cantuti-Castelvetri I,
+Grammatopoulos TN, Standaert DG, Hyman BT, McLean PJ (2007) Dopaminergic neuron
+loss and up-regulation of chaperone protein mRNA induced by targeted over-expression of
+alpha-synuclein in mouse substantia nigra. J Neurochem 100(6):1449–1457
+Taymans JM, Vandenberghe LH, Haute CV, Thiry I, Deroose CM, Mortelmans L, Wilson JM,
+Debyser Z, Baekelandt V (2007) Comparative analysis of adeno-associated viral vector
+serotypes 1, 2, 5, 7, and 8 in mouse brain. Hum Gene Ther 18(3):195–206
+Tenenbaum L, Chtarto A, Lehtonen E, Velu T, Brotchi J, Levivier M (2004) Recombinant AAVmediated gene delivery to the central nervous system. J Gene Med 6(Suppl 1):S212–S222
+Theodore S, Cao S, McLean PJ, Standaert DG (2008) Targeted overexpression of human alphasynuclein triggers microglial activation and an adaptive immune response in a mouse model
+of Parkinson disease. J Neuropathol Exp Neurol 67(12):1149–1158
+Thiruchelvam M, Brockel BJ, Richfield EK, Baggs RB, Cory-Slechta DA (2000) Potentiated and
+preferential effects of combined paraquat and maneb on nigrostriatal dopamine systems:
+environmental risk factors for Parkinson’s disease? Brain Res 873(2):225–234
+Thiruchelvam MJ, Powers JM, Cory-Slechta DA, Richfield EK (2004) Risk factors for
+dopaminergic neuron loss in human alpha-synuclein transgenic mice. Eur J Neurosci
+19(4):845–854
+Toelen J, Van der Perren A, Carlon M, Michiels M, Lock M, Vandenberghe L, Bannert N, Wilson
+JM, Gijsbers R, Debyser Z (2014) Novel approach to research grade AAV vector
+manufacturing and separation of distinct AAV serotypes for in vivo applications (in revision)
+Tofaris GK, Garcia Reitbock P, Humby T, Lambourne SL, O’Connell M, Ghetti B, Gossage H,
+Emson PC, Wilkinson LS, Goedert M, Spillantini MG (2006) Pathological changes in
+dopaminergic nerve cells of the substantia nigra and olfactory bulb in mice transgenic for
+truncated human alpha-synuclein(1-120): implications for Lewy body disorders. J Neurosci
+26 (15):3942–3950
+Tong Y, Pisani A, Martella G, Karouani M, Yamaguchi H, Pothos EN, Shen J (2009) R1441C
+mutation in LRRK2 impairs dopaminergic neurotransmission in mice. Proc Natl Acad Sci U S
+A 106(34):14622–14627
+Ulusoy A, Sahin G, Bjorklund T, Aebischer P, Kirik D (2009) Dose optimization for long-term
+rAAV-mediated RNA interference in the nigrostriatal projection neurons. Mol Ther 17(9):
+1574–1584
+Ungerstedt U, Arbuthnott GW (1970) Quantitative recording of rotational behavior in rats after
+6-hydroxy-dopamine lesions of the nigrostriatal dopamine system. Brain Res 24(3):485–493
+Van der Perren A, Toelen J, Carlon M, Van den Haute C, Coun F, Heeman B, Reumers V,
+Vandenberghe LH, Wilson JM, Debyser Z, Baekelandt V (2011) Efficient and stable
+
+Viral Vector-Based Models of Parkinson’s Disease
+transduction of dopaminergic neurons in rat substantia nigra by rAAV 2/1, 2/2, 2/5, 2/6.2, 2/7,
+2/8 and 2/9. Gene Ther 18(5):517–527
+Van der Perren A, Macchi F, Toelen J, Van Rompuy AS, Casteels C, Sarre S, Gerard G, Casadei
+N, Nuber S, Himmelreich U, Osorio Garcia MI, Michotte Y, Bormans G, Van Laere K,
+Gijsbers R, Van den Haute C, Debyser Z, Baekelandt V (2014) Longitudinal characterization
+of a robust rat model for Parkinson’s disease based on overexpression of alpha-synuclein with
+rAAV2/7 viral vectors (in revision)
+Vercammen L, Van der Perren A, Vaudano E, Gijsbers R, Debyser Z, Van den Haute C,
+Baekelandt V (2006) Parkin protects against neurotoxicity in the 6-hydroxydopamine rat
+model for Parkinson’s disease. Mol Ther 14(5):716–723
+Von Coelln R, Thomas B, Savitt JM, Lim KL, Sasaki M, Hess EJ, Dawson VL, Dawson TM
+(2004) Loss of locus coeruleus neurons and reduced startle in parkin null mice. Proc Natl
+Acad Sci U S A 101(29):10744–10749
+Wakamatsu M, Ishii A, Iwata S, Sakagami J, Ukai Y, Ono M, Kanbe D, Muramatsu S, Kobayashi
+K, Iwatsubo T, Yoshimoto M (2008) Selective loss of nigral dopamine neurons induced by
+overexpression of truncated human alpha-synuclein in mice. Neurobiol Aging 29(4):574–585
+Wang L, Qi X, Shen R, Sun Y, Tuveson DA (2009) An shRNA silencing a non-toxic transgene
+reduces nutrient consumption and increases production of adenoviral vectors in a novel
+packaging cell. J Cell Physiol 219(2):365–371
+Winklhofer KF (2007) The parkin protein as a therapeutic target in Parkinson’s disease. Expert
+Opin Ther Targets 11(12):1543–1552
+Winner B, Jappelli R, Maji SK, Desplats PA, Boyer L, Aigner S, Hetzer C, Loher T, Vilar M,
+Campioni S, Tzitzilonis C, Soragni A, Jessberger S, Mira H, Consiglio A, Pham E, Masliah E,
+Gage FH, Riek R (2011) In vivo demonstration that alpha-synuclein oligomers are toxic. Proc
+Natl Acad Sci U S A 108(10):4194–4199
+Wirdefeldt K, Adami HO, Cole P, Trichopoulos D, Mandel J (2011) Epidemiology and etiology
+of Parkinson’s disease: a review of the evidence. Eur J Epidemiol 26(Suppl 1):S1–S58
+Wright JF (2009) Transient transfection methods for clinical adeno-associated viral vector
+production. Hum Gene Ther 20(7):698–706
+Wu Z, Asokan A, Samulski RJ (2006) Adeno-associated virus serotypes: vector toolkit for human
+gene therapy. Mol Ther 14(3):316–327
+Xiao X, Li J, Samulski RJ (1996) Efficient long-term gene transfer into muscle tissue of
+immunocompetent mice by adeno-associated virus vector. J Virol 70(11):8098–8108
+Yamada M, Iwatsubo T, Mizuno Y, Mochizuki H (2004) Overexpression of alpha-synuclein in
+rat substantia nigra results in loss of dopaminergic neurons, phosphorylation of alphasynuclein and activation of caspase-9: resemblance to pathogenetic changes in Parkinson’s
+disease. J Neurochem 91(2):451–461
+Zarranz JJ, Alegre J, Gomez-Esteban JC, Lezcano E, Ros R, Ampuero I, Vidal L, Hoenicka J,
+Rodriguez O, Atares B, Llorens V, Gomez Tortosa E, del Ser T, Munoz DG, de Yebenes JG
+(2004) The new mutation, E46 K, of alpha-synuclein causes Parkinson and Lewy body
+dementia. Ann Neurol 55(2):164–173
+Zennou V, Petit C, Guetard D, Nerhbass U, Montagnier L, Charneau P (2000) HIV-1 genome
+nuclear import is mediated by a central DNA flap. Cell 101(2):173–185
+Zhu XR, Maskri L, Herold C, Bader V, Stichel CC, Gunturkun O, Lubbert H (2007) Non-motor
+behavioural impairments in parkin-deficient mice. Eur J Neurosci 26(7):1902–1911
+Zufferey R, Nagy D, Mandel RJ, Naldini L, Trono D (1997) Multiply attenuated lentiviral vector
+achieves efficient gene delivery in vivo. Nat Biotechnol 15(9):871–875
+Zufferey R, Donello JE, Trono D, Hope TJ (1999) Woodchuck hepatitis virus posttranscriptional
+regulatory element enhances expression of transgenes delivered by retroviral vectors. J Virol
+73(4):2886–2892
+
+

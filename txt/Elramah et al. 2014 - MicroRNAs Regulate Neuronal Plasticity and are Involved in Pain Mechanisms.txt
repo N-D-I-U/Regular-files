@@ -1,0 +1,1750 @@
+REVIEW ARTICLE
+published: 11 February 2014
+doi: 10.3389/fncel.2014.00031
+
+MicroRNAs regulate neuronal plasticity and are involved in
+pain mechanisms
+Sara Elramah1,2 , Marc Landry1,2 and Alexandre Favereaux1,2 *
+1
+2
+
+Interdisciplinary Institute for Neuroscience, UMR 5297, University of Bordeaux, Bordeaux, France
+Interdisciplinary Institute for Neuroscience, UMR 5297, Centre National de la Recherche Scientiﬁque, Bordeaux, France
+
+Edited by:
+Alessandro Cellerino, Scuola Normale
+Superiore, Italy
+Reviewed by:
+Marco Martina, Northwestern
+University, USA
+Daniel Kaganovich, Hebrew University
+of Jerusalem, Israel
+*Correspondence:
+Alexandre Favereaux, Interdisciplinary
+Institute for Neuroscience, UMR
+5297, University of Bordeaux, 146, rue
+Léo Saignat, 33 077 Bordeaux Cedex,
+France
+e-mail: alexandre.favereaux@
+u-bordeaux2.fr
+
+MicroRNAs (miRNAs) are emerging as master regulators of gene expression in the nervous
+system where they contribute not only to brain development but also to neuronal network
+homeostasis and plasticity. Their function is the result of a cascade of events including
+miRNA biogenesis, target recognition, and translation inhibition. It has been suggested
+that miRNAs are major switches of the genome owing to their ability to regulate multiple
+genes at the same time. This regulation is essential for normal neuronal activity and, when
+affected, can lead to drastic pathological conditions. As an example, we illustrate how
+deregulation of miRNAs can affect neuronal plasticity leading to chronic pain. The origin
+of pain and its dual role as a key physiological function and a debilitating disease has
+been highly debated until now. The incidence of chronic pain is estimated to be 20–25%
+worldwide, thus making it a public health problem. Chronic pain can be considered as
+a form of maladaptive plasticity. Long-lasting modiﬁcations develop as a result of global
+changes in gene expression, and are thus likely to be controlled by miRNAs. Here, we
+review the literature on miRNAs and their targets responsible for maladaptive plasticity
+in chronic pain conditions. In addition, we conduct a retrospective analysis of miRNA
+expression data published for different pain models, taking into account recent progress in
+our understanding of the role of miRNAs in neuronal plasticity.
+Keywords: microRNA, gene expression, neuron, plasticity, pain
+
+INTRODUCTION
+MicroRNAs (miRNAs) are non-coding, endogenous ∼23
+nucleotide (nt) RNAs that regulate target-gene expression by either
+translation inhibition or mRNA degradation (Bartel, 2009). They
+were ﬁrst discovered in C. elegans where lin-4 plays a critical role
+in the developmental orchestration (Lee et al., 1993). Since then,
+the number of identiﬁed miRNAs has reached a thousand in many
+species. Owing to their uncommon targeting properties, a single
+miRNA species can bind and regulate multiple targets, and it is
+now thought that the expression of most, if not all, genes involves
+modulation by miRNAs. Thus, the “macro switch” function of
+miRNAs in neuronal development is now well documented (Li and
+Jin, 2010). More recently, accruing evidence established miRNAs
+as essential regulators of proper neuronal function. In particular,
+it was demonstrated that miRNAs regulate many proteins involved
+in neuronal adaptation to network activity. miRNAs take part in
+the morphological and functional changes sustaining neuronal
+plasticity. For instance, miR-134 is expressed in hippocampal neurons where it regulates the LIM-domain kinase 1, which represses
+coﬁlin, an actin depolymerization factor, thus modifying spine
+morphology (Schratt et al., 2006). Another example is miR-284,
+which regulates the expression of the glutamate receptor GluA2 at
+the neuromuscular junction in Drosophila (Karr et al., 2009).
+As an actor in neuronal plasticity, miRNAs are likely to play a
+role in the onset and maintenance of neurological diseases. Indeed
+screening strategies have identiﬁed altered expression of speciﬁc
+miRNAs in Alzheimer’s, Parkinson’s, Huntington’s disease, and
+
+Frontiers in Cellular Neuroscience
+
+Tourette syndrome patients (Johnson et al., 2012; Salta and De
+Strooper, 2012). While these results raise hope for new treatments,
+more work is needed to fully differentiate the miRNA changes
+that trigger pathological mechanisms from those resulting from
+the disease. A tempting hypothesis is that long-term alteration of
+miRNA pathways normally regulating basal neuron function could
+lead to disease. Long-lasting modiﬁcations of gene expression are
+thought to result in chronic disease such as neuropathic pain.
+Therefore, miRNA deregulation could play a key role in chronic
+pain.
+Here, we brieﬂy examine current knowledge on miRNA biogenesis, target recognition, and regulation. Then, we review the
+literature to highlight miRNAs that are involved in neuronal
+plasticity, with a special focus on chronic pain pathologies.
+
+miRNA BIOGENESIS
+To date, miRbase, a specialized miRNA database, comprises
+1872 entries for the human genome (Grifﬁths-Jones et al., 2006;
+Kozomara and Grifﬁths-Jones, 2011). miRNA genes are present
+on all chromosomes, with the exception of the human Y chromosome. Nearly 50% of miRNA-coding genes are situated within
+the intergenic space and possess their own regulatory elements
+(Lagos-Quintana et al., 2001; Corcoran et al., 2009). In contrast,
+40% of miRNAs genes are positioned within introns (Rodriguez
+et al., 2004; Smalheiser et al., 2008), and 10% are located within
+exon terminals. As a consequence, the expression of half of the
+miRNA genes depends on the regulation of their host gene, so they
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 1
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+may be involved in the control of genetic networks related to the
+expected function of the host gene product (O’Carroll and Schaefer, 2013). An interesting feature is that many miRNA genes are
+grouped within clusters, with an intergenic distance ranging from
+0.1 to 50 kb, and exhibit a similar expression pattern (Baskerville
+and Bartel, 2005). In addition, miRNAs within clusters are often,
+but not always, related to each other, while miRNAs from the same
+family are occasionally clustered (Lagos-Quintana et al., 2001; Lau
+et al., 2001).
+Transcription of miRNAs is performed by either RNA Polymerase II or RNA Polymerase III, producing primary miRNA
+(pri-miRNA), a large stem-loop structure (3–4 kb in length) with
+a 5 cap and a poly(A) tail (Cai et al., 2004; Lee et al., 2004).
+Then, this pri-miRNA structure is recognized and processed by
+the microprocessor complex which is composed of the ribonuclease Drosha (RNase III enzyme), the RNA-binding protein (RBP)
+DGCR8 (DiGeorge syndrome critical region gene 8; Lee et al.,
+2003; Denli et al., 2004; Gregory et al., 2004) and other auxiliary
+factors (Han et al., 2004), generating ∼60- to 70-nt-long stem-loop
+precursor miRNAs (pre-miRNA; Morlando et al., 2008). Processing of pri-miRNAs into pre-miRNAs occurs concomitantly with
+transcriptional events, thus rapidly constituting a nuclear pool of
+pre-miRNAs (Morlando et al., 2008). The next step to functional
+miRNAs is the export of pre-miRNAs from the nucleus to the
+cytoplasm by the karyopherin protein family member, Exportin5, in a GTP-dependent manner (Yi et al., 2003; Bohnsack et al.,
+2004; Lund et al., 2004). Once in the cytoplasm, the pre-miRNA is
+loaded into the RNA-induced silencing complex (RISC) loading
+complex, where it is further processed into a ∼21-nt-long miRNA
+duplex by Dicer, a type-III ribonuclease (Bernstein et al., 2001;
+Hutvágner et al., 2001; Ketting et al., 2001; Knight and Bass, 2001).
+At this stage, only one strand is ﬁnally incorporated into the RISC,
+the “guide” strand, whereas the other strand called “the passenger”
+is likely degraded. The criteria deﬁning which of the two strands
+is loaded into the RISC still need to be clariﬁed but it appears that,
+in most of the cases, it is the one whose 5 end is less tightly paired
+(Khvorova et al., 2003; Schwarz et al., 2003).
+Another processing pathway independent of the Drosha/DGCR8
+microprocessor machinery and previously discovered in
+Drosophila and C. elegans (Okamura et al., 2007; Ruby et al., 2007a)
+has been recently identiﬁed in mammals. The so-called mirtons are
+directly spliced from the introns of mRNA coding genes, directly
+exported to the cytoplasm and processed by Dicer (Okamura et al.,
+2007; Ruby et al., 2007a).
+
+TARGET RECOGNITION AND TRANSLATION INHIBITION
+BASICS OF miRNA:mRNA INTERACTIONS
+
+Loading of the “guide” strand into the Argonaute protein of the
+RISC makes it functional and ready to generate mRNA inhibition (Hutvágner and Zamore, 2002; Mourelatos et al., 2002).
+The mechanisms and the consequent magnitude of this regulation are dependent on the characteristics of the miRNA:target
+mRNA binding. Thus, in metazoans, extensive base pairing has
+been demonstrated to induce mRNA cleavage (Hutvágner and
+Zamore, 2002; Rhoades et al., 2002; Yekta et al., 2004), whereas
+imperfect binding leads to target repression through translational inhibition and/or mRNA destabilization (Lee et al., 1993;
+
+Frontiers in Cellular Neuroscience
+
+Wightman et al., 1993; Lim et al., 2005). In addition, the location
+of miRNA binding sites in the target mRNA plays a predominant role on the efﬁcacy of the regulation. Although binding
+of miRNA has been demonstrated in the 5 untranslated region
+(UTR) and the open reading frame (ORF) of mRNA (Easow et al.,
+2007; Lytle et al., 2007; Chi et al., 2009; Leung et al., 2011), these
+sites are less effective than those located in the 3 UTR (Kloosterman et al., 2004; Farh et al., 2005; Lewis et al., 2005; Lim et al.,
+2005; Grimson et al., 2007; Ruby et al., 2007b; Baek et al., 2008).
+This might reﬂect the fact that in 5 UTR and ORF, the translation
+machinery has a higher afﬁnity than the RISC, thus displacing the
+silencing complex (Bartel, 2009).
+The nucleotide sequence in the target mRNA that is engaged
+in miRNA binding is called the miRNA recognition element
+(MRE; Shukla et al., 2011) or “seed region” (Bartel, 2004). miRNA
+target recognition and seed region classiﬁcation have been extensively reviewed previously (see Bartel, 2009). The composition
+of this seed region varies but always involves a sequence with
+conserved Watson–Crick pairing (i.e., the hydrogen bonding that
+pairs guanine–cytosine and adenine–thymine) to the 5 region
+of the miRNA centered on nucleotides 2–7 (Bartel, 2009). Several types of seed regions exist depending on the length and
+composition of the sequence involved in miRNA:mRNA binding, resulting in different afﬁnities and inhibition properties.
+These include canonical sites with a 6- to 8-nt match between
+miRNA and mRNA, and non-canonical sites that include additional pairing at the 3 end of the miRNA. Additional factors
+have been shown to affect miRNA seed efﬁcacy such as AUrich sites, which have been shown to be more effective (Lewis
+et al., 2005; Grimson et al., 2007; Nielsen et al., 2007; Pasquinelli,
+2012).
+Other factors include the position of the seed within the 3 UTR
+of the target-mRNA (Grimson et al., 2007), with sites at the
+extremities of the 3 UTR being more accessible than those in the
+middle because long UTRs may form occlusive interactions, thus
+greatly reducing miRNA site accessibility.
+Another important feature is site multiplicity, where the presence of multiple sites for the same or different miRNAs on the
+target-mRNA increases the repression response. Multiple sites
+might contribute to target mRNA inhibition in either a noncooperative manner or cooperatively. miRNA cooperation results
+in a stronger repression than the sum of the individual and independent sites. Cooperative regulation implies that seed sequences
+are within a 40-nt region but with a minimum 8 nt gap between
+them (Doench et al., 2003; Grimson et al., 2007; Nielsen et al., 2007;
+Saetrom et al., 2007).
+Given the large and growing number of miRNA species, the
+enormous number of putative target mRNAs and the length of
+their 3 UTR sequences, the manual prediction of miRNA:mRNA
+interactions would be impossible. Therefore, computational analysis using algorithms and prediction databases is the usual method
+to identify miRNA targets. Hence, target prediction programs are
+based on seed region recognition tools that basically list all the
+sites with miRNA-binding properties and rank them accordingly
+to the kind of seed, conservation across evolution and some of the
+above-mentioned factors known to modulate site efﬁciency (for
+review, see Reyes-Herrera and Ficarra, 2012).
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 2
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+However, despite reﬁnements of prediction tools, the percentage of predicted targets that pass the experimental validation
+stage is still sub-optimal. Therefore, it often constitutes a timeconsuming bottleneck in miRNA studies that involve complex
+experimental paradigms. In line with this, recent data suggest
+that miRNA:mRNA interactions sometimes involve the 3 end of
+miRNAs with little evidence for 5 contacts, and some of these
+interactions have been shown to be functional (Helwak et al.,
+2013). In addition, other parameters not taken into account in
+these algorithms could affect the accuracy of target prediction
+tools. For instance, there is the importance of the secondary
+structure of RNA and its association with RBPs, which inﬂuence
+target site accessibility, and thereby its regulation (Brodersen and
+Voinnet, 2009).
+MECHANISMS OF miRNA-MEDIATED INHIBITION OF TRANSLATION
+
+miRNA binding to its target mRNA is the starting point of a
+post-transcriptional regulation of gene expression occurring in
+the cytoplasm, mostly by translational repression or mRNA degradation (Valencia-Sanchez et al., 2006; Jackson and Standart, 2007;
+Nilsen, 2007; Pillai et al., 2007; Standart and Jackson, 2007). In
+fact, microRNA-induced silencing complex (miRISC)-mediated
+gene inhibition has been demonstrated to arise from three putative mechanisms: (i) site-speciﬁc cleavage, (ii) enhanced mRNA
+decay, and (iii) translational inhibition. Thanks to recent studies
+combining cutting-edge transcriptomic and proteomic analyses,
+a genome-wide view of the changes elicited by miRNA down
+or up-regulation on the protein output is now available (Baek
+et al., 2008; Selbach et al., 2008; Hendrickson et al., 2009; Guo
+et al., 2010). These experimental data are critical for validating
+the prediction tools for miRNA targeting as well as for comparing the respective roles of the different modes of action driven by
+miRNAs.
+Site-speciﬁc cleavage
+
+This Ago2-mediated process requires full complementarity
+between miRNA and its target (Hammond et al., 2001; Hutvágner
+and Zamore, 2002), which seems to be very limited in mammals
+(Yekta et al., 2004; Hornstein et al., 2005). Loading of the miRNA
+into the Ago2 protein involves conformational changes which
+should enhance Watson–Crick pairing to the target mRNA. In
+contrast to this rare event, translational inhibition or mRNA
+degradation, which both result from partial binding of miRNA
+to mRNA, seem to be the most widely occurring mechanisms in
+mammals (for review, see Fabian et al., 2010).
+
+not fully understood but it is thought that Ago could compete with
+eukaryotic translation initiation factor 4 for mRNA-cap binding
+(Humphreys et al., 2005; Kiriakidou et al., 2007). Furthermore,
+miRNAs could prevent translation by inhibiting the association of
+the ribosomal subunits (Chendrimada et al., 2007; Thermann and
+Hentze, 2007).
+At the post-initiation stage, translation inhibition by miRNAs
+could be mediated by premature termination and ribosome dropoff (Petersen et al., 2006), stalling of the elongation by slowing
+down the ribosome process (Rüegsegger et al., 2001; Mootz et al.,
+2004), or co-translational degradation of nascent polypeptides
+(Nottrott et al., 2006). However, experimental evidence for these
+mechanisms and explaining their interdependence is still only partial. As summarized by Filipowicz et al. (2008), the inhibition
+of translation at the initiation or elongation phase is perhaps
+not exclusive and it is likely that initiation is always inhibited.
+However, ribosomes queuing on the mRNA when elongation is
+also inhibited may hide this obligate mechanism (Filipowicz et al.,
+2008).
+Enhanced mRNA decay
+
+Large-scale analyses of the expression of miRNAs and their predicted mRNA targets have shown an inverse correlation, strongly
+suggesting that mRNA degradation is a hallmark of miRNAmediated inhibition of transcripts (Chekulaeva and Filipowicz,
+2009). A likely scenario relies on the deadenylation of the mRNA
+target, which would prevent circularization of the transcript. Circularization is an essential mechanism for mRNA translation
+that also prevents mRNA degradation, since linear transcripts are
+more prone to degradation (Wakiyama et al., 2007). Nevertheless,
+whether deadenylation precedes (Wakiyama et al., 2007; Iwasaki
+et al., 2009) or follows (Fabian et al., 2009; Zdanowicz et al., 2009)
+translational inhibition is still an unresolved issue.
+Beyond the question of the mechanisms responsible for mRNA
+translation inhibition, there is the issue of the sub-cellular localization of this regulation. The most popular hypothesis posits that
+mRNAs under miRNA-mediated inhibition are stored (Brengues
+et al., 2005; Bhattacharyya et al., 2006) and degraded (Eulalio
+et al., 2007; Parker and Sheth, 2007) into cytoplasmic particles
+called processing bodies or glycine-tryptophan (GW) bodies.
+These cytoplasmic foci are free of translational machinery but are
+enriched in proteins that are required for efﬁcient mRNA inhibition (Jakymiw et al., 2005; Liu et al., 2005; Rehwinkel et al., 2005;
+Behm-Ansmant et al., 2006).
+
+miRNAs ARE REGULATORS OF NEURONAL ACTIVITY
+Translational repression
+
+Protein translation repression by miRNAs may result from various mechanisms: inhibition of translation initiation, inhibition
+of translation elongation; protein degradation while translation is
+being processed, premature termination of the translation (also
+known as ribosome drop-off); or a combination of some of these
+mechanisms (Bagga et al., 2005; Pillai et al., 2005; Nottrott et al.,
+2006; Petersen et al., 2006).
+At the translation initiation step, miRNAs can inhibit protein
+production by disrupting the interaction between the 5 -cap and
+the 3 -poly(A) tail of the mRNA. The mechanisms involved are
+
+Frontiers in Cellular Neuroscience
+
+Although the way miRNAs regulate their targets is still imperfectly
+understood, it is widely accepted that they play a major role in gene
+expression regulation. As such, miRNA have a crucial function in
+neuronal development where they seem to act as a master switch of
+the genome (for review, see Sun et al., 2013). In the mature nervous
+system, increasing evidence suggests that miRNA are important for
+normal neuronal function (Rajasethupathy et al., 2009; Edbauer
+et al., 2010; Cohen et al., 2011; Tognini et al., 2011; Dorval et al.,
+2012; Hsu et al., 2012; Lee et al., 2012; Saba et al., 2012).
+The role of miRNA in neuronal function intermingles
+(i) miRNA that regulates neuronal activity with (ii) neuronal
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 3
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+activity that modulates miRNA expression, which could in turn
+regulate targets with an impact on neuronal activity (feed-forward
+loop). In addition, neuronal activity should not be considered
+as a whole but as the output of thousands of synaptic inputs.
+Upon stimulation, single synapses or sets of synapses can go
+through intense and selective modiﬁcations in an independent
+manner for long periods of time (Martin and Kosik, 2002; Nelson
+and Turrigiano, 2008; Wibrand et al., 2010). Although short-term
+modiﬁcations of synapses could mainly be the result of posttranslational events, long-term changes require regulation of gene
+expression at the transcriptional and post-transcriptional levels
+(Martin and Kosik, 2002; Wibrand et al., 2010). Thus, local posttranscriptional regulation regulated by activity is certainly a key
+element for the maintenance and plasticity of neural connections
+(Ashraf and Kunes, 2006; Sutton and Schuman, 2006; Bramham
+and Wells, 2007). Indeed, it has been demonstrated that speciﬁc
+mRNAs and components of the translational machinery, including
+ribosomes and other non-coding RNAs, are localized to dendritic
+regions of neurons, where they are likely to serve local translation
+(Steward and Levy, 1982; Davis et al., 1987; Torre and Steward,
+1992; Trembleau et al., 1994; Landry and Hökfelt, 1998; Steward
+and Schuman, 2001). Localization of mRNAs into dendrites is
+an active phenomenon involving the 3 UTR sequence of messenger where RBPs bind to initiate transport (for review, see Doyle
+and Kiebler, 2011; Goldie and Cairns, 2012). In particular, some
+mRNAs are located at the post-synaptic density (PSD) as polyribosome structures (Wells, 2012). Some of these mRNAs encode
+proteins such as kinases and translational control factors, which
+are attractive candidates to mediate synaptic changes (Eberwine
+et al., 2001; Steward and Schuman, 2001). Interestingly, the number of polyribosome-containing spines increases in response to the
+long-term potentialization (LTP) protocol (Ostroff et al., 2002),
+and their PSD area enlarges when compared to polyribosome-free
+spines. This indicates that the presence of polyribosomes produces these structural changes, which were previously ascribed to
+changes in synaptic strength (Martin and Kosik, 2002). It has been
+suggested that this local translation mechanism could play a major
+role in synaptic plasticity and therefore contribute to the molecular basis of learning and memory (Kang and Schuman, 1996;
+Campbell and Holt, 2001; Kim et al., 2004).
+Recently, miRNAs have been proposed as mediators regulating
+local protein synthesis at the synaptic level. miRNAs are enriched
+in the brain (Lagos-Quintana et al., 2002; Krichevsky et al., 2003;
+Kim et al., 2004; Sempere et al., 2004; Kosik and Krichevsky,
+2005), where they have been shown to be differently expressed
+not only in distinct areas (Landgraf et al., 2007; Bak et al., 2008;
+Olsen et al., 2009), but also at the synaptic level (Pichardo-Casas
+et al., 2012). Moreover, studies on synaptoneurosomes revealed the
+abundance of several components of the miRNAs biogenesis pathway and their silencing complex machinery at PSDs (Lugli et al.,
+2005; Pichardo-Casas et al., 2012). Thus, dendritic mRNA translation can be modulated by miRNAs which have been selectively
+transported as mature or pre-miRNAs. In response to synaptic activity, this miRNA-driven regulation can either increase or
+decrease local mRNA translation through different mechanisms
+(Figure 1). Interestingly, not all miRNAs have the same regulation
+upon stimulus. However, it is not clear whether the involvement of
+
+Frontiers in Cellular Neuroscience
+
+FIGURE 1 | MicroRNAs can modulate local translation in response to
+changes in synaptic activity. After transport from the soma to the
+dendrites, some mRNAs are locally translated into proteins. This local
+translation mechanism can be modulated in response to synaptic activity
+changes by dendritic miRNAs that have also been transported from the
+soma. This miRNA-driven mechanism can either decrease (A) or increase
+(B) local translation. (A) Decrease of local translation could be the result of
+an activity-related miRNA loading into miRISC and speciﬁc binding to target
+mRNAs. (B) Increase of translation may be the consequence of an
+unbinding of miRNA from target-mRNAs which could then escape P-body
+and undergo local translation.
+
+these different types of regulation depends on the type of synaptic
+activity or on the type of stimulus.
+In addition to their role in physiological conditions, accruing evidence suggests that miRNAs play an important role
+in the pathological mechanisms of neurodegenerative diseases
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 4
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+(reviewed in Johnson et al., 2012; Salta and De Strooper, 2012).
+Hence, alterations of speciﬁc miRNAs have been associated with
+Alzheimer’s, Parkinson’s, Huntington’s disease, and Tourette syndrome. Furthermore, in other debilitating diseases of the nervous
+system, miRNA deregulation has been correlated with altered
+neuronal activity, as in chronic pain, which is characterized by
+increased excitability within the pain circuitry. One of the ﬁrst
+demonstrations of the role of miRNAs in chronic pain came from
+a study by Zhao et al. (2010) where a conditional knockout of Dicer
+was targeted to sodium channel Nav1.8-positive nociceptor neurons in the dorsal root ganglia (DRG). This impairment of miRNA
+function induced a strong attenuation of inﬂammatory pain, suggesting that miRNAs are necessary to enhance excitability of this
+subpopulation of neurons in response to inﬂammation mediators.
+Here, we review speciﬁc miRNAs that have been shown to play a
+role in the regulation of neuronal activity and highlight their possible association with pain processes (summarized in Table 1).
+In some cases, the causal role of miRNA in pain mechanisms is
+strongly suggested by targeted-mRNAs identiﬁcation and functional studies. On the other hand, we conducted a retrospective
+analysis of miRNA expression data published for different pain
+models and speculated about their potential implication based on
+their known targets in normal neuronal activity.
+
+FUNCTIONAL IMPLICATION OF miRNA IN NEURONAL PLASTICITY AND
+PAIN SENSITIZATION
+
+One of the ﬁrst studies reporting the control of local translation
+by miRNA at the synapse upon synaptic activity showed that miR134 negatively regulates LIMK1 in an activity-dependent manner
+(Schratt et al., 2006). LIMK1 is a protein kinase that controls actin
+ﬁlament dynamics through inhibition of actin depolymerizing
+factor (ADF)/coﬁlin (Bamburg, 1999). This regulation could be
+critical for synaptic transmission, synaptic integration, and plasticity since the majority of the excitatory synapses are formed
+on dendritic spines, which are actin-rich protrusions from the
+dendritic shaft (Hering and Sheng, 2001; Bonhoeffer and Yuste,
+2002; Spruston, 2008). The study demonstrated the compartmentalization of miR-134 and its target LIMK1 mRNA at the
+synapto-dendritic area. It has been proposed that the miR-134
+association with LIMK1 mRNA keeps the LIMK1 mRNA in a
+dormant state while it is being transported within dendrites to
+synaptic sites. Over-expression of miR-134 inhibits LIMK1 mRNA
+local translation, resulting in a negative regulation of the size
+of the dendritic spines. Exposure of neurons to external stimuli like the neurotrophic factor brain-derived neurotrophic factor
+(BDNF) reduces miR-134 inhibition on LIMK1 mRNA translation (Schratt et al., 2006). Recently, the same group reported
+
+Table 1 | MicroRNAs involved in plasticity and pain mechanisms.
+miRNA
+
+Involvement in plasticity mechanisms
+Plasticity protocols
+
+Identified
+
+Reference
+
+Involvement in pain mechanisms
+Pain models
+
+targets
+miR-134
+
+BDNF exposure
+
+LIMK1
+
+Identified
+
+Reference
+
+targets
+Schratt et al. (2006)
+
+Inﬂammation/CCI
+
+ND
+
+Bai et al. (2007), Genda
+et al. (2013)
+
+miR-132
+
+Bicuculline/KCl/monocular
+
+P250GAP
+
+Vo et al. (2005), Klein
+
+deprivation
+
+/MeCP2
+
+et al. (2007), Wayman
+
+CRPS/CCI
+
+ND
+
+Orlova et al. (2011), Arai
+et al. (2013)
+
+et al. (2008), Mellios et al.
+(2011), Tognini et al.
+(2011)
+miR-188
+
+Long-term-potentiation
+
+Nrp-2
+
+Lee et al. (2012)
+
+CCI
+
+ND
+
+Arai et al. (2013)
+
+miR-29a/b
+
+Psychoactive drugs
+
+Arpc3
+
+Lippi et al. (2011)
+
+Inﬂammation/CRPS/
+
+ND
+
+Bai et al. (2007), Orlova
+
+CCI
+
+et al. (2011), Genda et al.
+(2013)
+
+miR-181a
+
+miR-219
+
+Psychoactive drugs
+
+Disturbance of NMDA
+
+GluA2
+
+CaMKIIγ
+
+Schaefer et al. (2010),
+
+Neuropathic/
+
+Chandrasekar and Dreyer
+
+zymosan-induced
+
+(2011), Saba et al. (2012)
+
+pelvic pain
+
+Kocerha et al. (2009)
+
+Traumatic spinal cord
+
+signaling
+
+GABAA α−1
+
+Li et al. (2013), Sengupta
+et al. (2013)
+
+ND
+
+Liu et al. (2009), Genda
+
+injury/CCI
+
+et al. (2013)
+
+miR-125
+
+Fragile X syndrome
+
+NR2A
+
+Edbauer et al. (2010)
+
+CCI
+
+ND
+
+Arai et al. (2013)
+
+miR-124
+
+Neuronal
+
+Sema3A/RhoG/
+
+Baudet et al. (2012),
+
+Inﬂammation/nerve
+
+MeCP2
+
+Bai et al. (2007), Wu et al.
+
+differentiation/axon
+
+Zif268
+
+Franke et al. (2012), Yang
+
+injury
+
+guidance
+
+et al. (2012)
+
+(2011), Willemen et al.
+(2012), Kynast et al.
+(2013)
+
+CCI, chronic constriction injury; CRPS, complex regional pain syndrome; ND, not determined.
+
+Frontiers in Cellular Neuroscience
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 5
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+another mechanism by which pre-miR-134 is transported to dendritic sites. Replacing the loop sequence of pre-miR-134 with the
+loop of a non-dendritic pre-miRNA abolished dendritic accumulation of pre-miR-134. Mutagenesis analysis revealed that the ﬁve
+central loop nucleotides are critical because of an interaction with
+the Asp-Glu-Ala-His-box (DEAH-box) helicase DEAH box protein 36 (DHX36). DHX36 is known to compete with Dicer in
+vitro, and Argonaute complexes that contain DHX36 are devoid of
+Dicer activity (Höck et al., 2007). Indeed, knockdown of DHX36
+displayed a signiﬁcant reduction in the percentage of dendritic
+pre-miR-134, without affecting the global levels of pre-miR-134 or
+mature miR-134. Consistently with the role of miR-134 on spine
+morphology, functional experiments revealed that DHX36 negatively regulates dendritic spine morphogenesis in hippocampal
+neurons (Bicker et al., 2013).
+One of the ﬁrst studies on a possible role of miRNAs in pain
+showed that miR-134 is modulated in the trigeminal ganglion in
+response to inﬂammatory pain (Bai et al., 2007). These authors
+induced inﬂammatory pain by injecting complete Freund’s adjuvant (CFA) into the rat masseter muscle, a paradigm known to
+produce transient inﬂammation accompanied by allodynia. Interestingly, miR-134 was down-regulated at the onset of pain, 30 min
+after CFA injection, returned to control level 1 day later, showed an
+over-expression rebound at day 4 and ﬁnally returned to control
+level at day 12. This phasic deregulation of miR-134 expression
+suggests that it could be an adaptive response to the early phase
+of inﬂammation. Another study in the chronic constriction injury
+(CCI) model showed that miR-134 was up-regulated in the dorsal horn of the spinal cord at day 14 after surgery (Genda et al.,
+2013). In this case, miR-134 deregulation occurred later after the
+onset of the painful behavior and could have been a consequence
+of the pain mechanisms. In contrast, our own results show that
+miR-134 was down-regulated 7 days after injury in the dorsal
+horn of a rat model of sciatic nerve ligation. This was accompanied by an up-regulation of LIMK1, the miR-134 target (A.
+Salam et al., unpublished data). Therefore, it will be important to
+undertake functional studies to elucidate the role of miR-134 in
+chronic pain.
+miR-132 is another example of activity-modulated miRNA.
+Experiments where neuronal activity is increased through a
+bicuculline-mediated blockade of GABAA inhibitory tone showed
+a rapid increase in the expression of miR-132 precursor and
+mature miR-132 (Wayman et al., 2008). Interestingly, this
+regulation was attenuated by pretreatment with the selective
+N -methyl-D-aspartate receptor (NMDAR) antagonist amino5-phosphonovaleric acid (APV). In addition, KCl treatment
+increased transcription of the miR-132 precursor, suggesting that
+different modalities of neuronal activity stimulation also trigger a
+similar miR-132 increase. The explanation lies in the pathway leading to miR-132 over-expression. Indeed, inhibitors for CaM kinase,
+MEK–ERK (mitogen-activated protein kinase kinase–extracellular
+signal-regulated kinase) or CREB (cAMP response elementbinding protein), all prevent miR-132 up-regulation upon activity
+enhancement, suggesting that miR-132 is regulated predominantly
+by the CREB pathway. miR-132 directly targets p250GAP, a protein
+known to inhibit Rho family GTPases (Taniguchi et al., 2003; Zhao
+et al., 2003). The ﬁnal outcome of miR-132 over-expression is an
+
+Frontiers in Cellular Neuroscience
+
+increase in dendrite morphogenesis, presumably as a response to
+Rac activity. Indeed, the same group recently proposed that miR132 regulates dendritic spinogenesis through the Rac1-Pak actin
+remodeling pathway (Impey et al., 2010). Another target of miR132 is methyl CpG-binding protein 2 (MeCP2), which is involved
+in dendritic development and synaptogenesis and whose modulation can affect synaptic plasticity (Klein et al., 2007). Additional
+evidence of miR-132 having an impact on neuronal morphology
+came from transgenic experiments where the genomic locus containing miR-132 (and miR-212 as well) was deleted, leading to
+a dramatic decrease in dendritic length, arborization, and spine
+density (Magill et al., 2010). The impact of miR-132 regulation
+on spinogenesis is revealed in synaptic plasticity paradigms. For
+instance, in vitro short-term plasticity is affected by miR-132 overexpression without altering basal synaptic transmission (Lambert
+et al., 2010). In vivo, short-term recognition memory is impaired
+by miR-132 over-expression in the perirhinal cortex. This results
+from a deﬁcit in both long-term depression and potentiation
+(Scott et al., 2012). In the visual cortex, two recent studies demonstrated that miR-132 is a key component of experience-dependent
+plasticity. Tognini et al. (2011) showed that monocular deprivation decreased miR-132 expression in the cortex contralateral to
+the deprived eye. Counterbalancing this miR-132 decrease with
+miR-132 mimic supplementation completely blocked ocular dominance plasticity. At the same time, Mellios et al. (2011) identiﬁed
+miR-132 as the miRNA whose expression is the most affected by
+dark rearing and/or monocular deprivation. In addition, miR-132
+inhibition occluded ocular dominance plasticity after monocular deprivation, which is associated with an altered maturation
+of dendritic spines. Finally, a recent study on olfactory bulb
+neurons born in the neonatal subventricular zone revealed that
+miR-132 is essential for normal dendritic complexity and spine
+morphology (Pathania et al., 2012). In conclusion, and as previously proposed (Tognini and Pizzorusso, 2012), ﬁnely regulated
+miR-132 expression seems to be essential for plasticity. Thus, too
+high an expression would make dendritic spines too stable. Too low
+an expression would lead to very unstable spines, thus impeding
+synaptic plasticity.
+Vo et al. (2005) demonstrated that BDNF triggered miR132 up-regulation in cortical neurons. Interestingly, BDNF was
+recently identiﬁed as a modulator of nociception. BDNF is upregulated in the DRG and the spinal cord in inﬂammatory and
+neuropathic pain models (reviewed in Merighi et al., 2008 and
+Vanelderen et al., 2010, respectively), where it is associated with
+an increased excitatory synaptic drive. In addition, in most
+cases, intrathecal BDNF injections exhibit pro-nociceptive effects
+(Merighi et al., 2008). Thus, one could hypothesize that the
+effect of BDNF on nociceptive behavior could partially be the
+result of a BDNF-driven miR-132 over-expression. Thus, BDNF
+would induce an up-regulation of miR-132, which in turn would
+increase dendrite morphogenesis and arborization in the nociceptive pathway, resulting in an increased transmission of the
+pain signal. In patients with complex regional pain syndrome
+(CRPS), a disabling chronic neuropathic pain affecting one or
+more extremities, miR-132 blood levels were signiﬁcantly altered
+(Orlova et al., 2011). Apart from the direct nociceptive pathway,
+other nervous structures like the limbic system may inﬂuence pain
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 6
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+perception. Indeed, the hippocampus is thought to be part of
+the descending anti-nociceptive system, potentially exerting an
+inhibitory role in neuropathic pain (Basbaum and Fields, 1979).
+Arai et al. (2013) screened miRNA expression in the hippocampus of animals submitted to the CCI paradigm of neuropathic
+pain. miR-132 was down-regulated early after the onset of the
+neuropathic behavior and stayed under-expressed until the latest
+time-point analyzed. Thus, it is tempting to hypothesize that this
+modulation of miR-132 could lower the excitatory drive of the
+hippocampus and therefore lower the anti-nociceptive effect on
+the spinal pain pathway.
+miR-188 is another activity-regulated miRNA with a proven
+synaptic plasticity tuning function. Lee et al. (2012) found that
+miR-188 was up-regulated in hippocampal slices in response to the
+LTP protocol. Neuropilin-2 (Nrp-2), one of the predicted targets of
+miR-188, is down-regulated after the LTP procedure and luciferase
+experiments conﬁrmed the interaction. Nrp-2 is a receptor of
+semaphorin 3F, which induces the repulsion of neuronal growth
+cones expressing Nrp-2 (Kolodkin and Ginty, 1997; Kruger et al.,
+2005). In addition, miR-188 treatment can rescue the decreased
+miniature excitatory postsynaptic current (mEPSC) frequency and
+reduction of spine density induced by Nrp-2 over-expression, suggesting that miR-188 plays a role in synaptic plasticity by buffering
+Nrp-2 expression.
+Despite its potentially crucial role in neuronal function, evidence for the involvement of miR-188 in pain mechanisms is very
+scarce. However, one study reported an altered expression under
+pain conditions. Arai et al. (2013) quantiﬁed a down-regulation of
+miR-188 in the hippocampus of CCI animals but the signiﬁcance
+of this modiﬁcation remains to be elucidated.
+The role of miRNAs in dendritic spine remodeling as a substrate
+for synaptic plasticity has also been evidenced in vivo. Lippi et al.
+(2011) exposed adult mice to psychoactive drugs like nicotine,
+cocaine, or amphetamine and quantiﬁed miRNA expression in
+different brain regions. Many miRNAs were regulated in response
+to these neuroadaptation paradigms, and especially the miR29a/b locus was consistently over-expressed. In vitro experiments
+conﬁrmed that these miRNAs were up-regulated in an activitydependent manner. Arpc3 was identiﬁed as a target of miR-29a/b.
+This protein is part of the ARP2/3 actin nucleation complex which
+plays a critical role in actin branching, a mechanism involved in
+dendritic spine maturation. Therefore, this work strongly suggests that miR-29a/b regulates the activity-dependent structural
+plasticity associated with psycho-stimulant exposure.
+Several studies identiﬁed a deregulation of miR-29a/b in pain
+conditions. The ﬁrst evidence came from Bai et al. (2007) who
+reported a down-regulation of this miRNA in the trigeminal
+ganglion neurons after inﬂammatory muscle pain. It was later
+conﬁrmed in two other pain conditions, the CRPS (Orlova et al.,
+2011) and the CCI model (Genda et al., 2013). Nevertheless, these
+studies did not investigate the subsequent regulation of Arpc3 or
+any other target of miR-29a/b, so the role of miR-29a/b in pain
+processing still needs to be elucidated.
+In the context of chronic exposure to drugs of abuse, Saba
+et al. (2012) focused their attention on the regulation of miRNAs
+in the nucleus accumbens. This is one of the most important
+brain regions in behavioral responses to drugs of abuse and is
+
+Frontiers in Cellular Neuroscience
+
+elicited by dopamine release. Synaptoneurosome preparations
+revealed a strong enrichment of miR-181a in response to treatment. A previous study showed that miR-181a expression in the
+striatum was regulated by Ago2 in cocaine addiction (Schaefer
+et al., 2010). This miRNA was predicted to target GluA2 and was
+conﬁrmed in luciferase experiments (Saba et al., 2012). In addition, miR-181a over-expression in hippocampal cultures reduced
+AMPA (α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid)
+receptor surface clusters, spine volume, and mEPSC frequency.
+Finally, the association between miR-181a and drugs of abuse has
+been highlighted (Chandrasekar and Dreyer, 2011). In that study,
+lentiviral over-expression of miR-181a in the nucleus accumbens enhanced cocaine-induced conditioned place preference.
+Two studies performed on the miRNA expression in the dorsal horn of spinal cord in neuropathic pain models quantiﬁed
+a down-regulation of miR-181a (Li et al., 2013) or other members of the miR-181 family, namely miR-181b/c/d (von Schack
+et al., 2011). Thus, this miR-181 down-regulation could lead to an
+up-regulation of the excitatory receptor GluA2 in the nociceptive
+pathway.
+Involvement of AMPA receptors in neuropathic pain mechanisms has already been suggested (for review, see Garry and
+Fleetwood-Walker, 2004). Unfortunately, the expression of GluA2
+was not assessed in these two miRNA studies. Interestingly,
+another study on a different model, chronic pelvic pain, revealed
+a role of miR-181a through the regulation of a different target, the inhibitory receptor GABAAα−1 (Sengupta et al., 2013).
+Pelvic pain was experimentally elicited by intra-vesicular injections of zymosan (a carbohydrate extracted from yeast and
+known to induce inﬂammation) into the bladder at postnatal
+day 14. This induced long-lasting neuroanatomical and neurophysiological changes in the nociceptive system still present
+at postnatal day 60. At that stage, zymosan-treated animals
+were characterized by visceral hypersensitivity, an up-regulation
+of miR-181a and a down-regulation of GABAAα−1 expression in the lombo-sacral segment of the spinal cord. Bioinformatics analyses identiﬁed multiple sites for miR-181a/b in
+the 3 UTR of GABAAα−1 and luciferase experiments proved
+the inhibitory effect of miR-181a on GABAAα−1 translation.
+These results strongly suggest that this miR-181a-induced downregulation of GABAA receptors results in a loss of inhibition in
+the spinal cord sustaining long-lasting visceral hypersensitivity.
+They highlight the importance of target identiﬁcation in miRNA
+studies.
+N -methyl-D-aspartate receptors are another kind of glutamate
+receptor known to play a crucial role in synaptic transmission
+and plasticity. Altered NMDA-mediated signaling is associated
+with behavioral impairments in psychiatric disorders. Kocerha
+et al. (2009) demonstrated that miR-219 is down-regulated in the
+prefrontal cortex in response to pharmacological or genetic disturbances of NMDA signaling. In addition, they showed that
+miR-219 targets calcium/calmodulin-dependent protein kinase
+II (CaMKII) subunit γ, a downstream component of the
+NMDA signaling cascade. Thus, miR-219 down-regulation upon
+NMDA inhibition appears to be a compensatory mechanism that
+attenuates behavioral disorders associated with acute receptor
+antagonism.
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 7
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+Two miRNA screening studies suggest that miR-219 may be
+involved in pain mechanisms. The ﬁrst evidence came from a
+model of traumatic spinal cord injury where miR-219 was significantly down-regulated 7 days after contusion (Liu et al., 2009).
+On the contrary, sciatic nerve ligation (CCI model) was demonstrated to induce an up-regulation of this miRNA (Genda et al.,
+2013). However, in both cases the investigation of targeted mRNA
+still needs to be conducted to shed light on the pathological
+role of miR-219 in pain pathways. In addition, the group of
+M. Sheng demonstrated that the expression of the NR2A subunit of NMDARs was regulated by miR-125b in hippocampal
+neurons (Edbauer et al., 2010). Indeed, endogenous miR-125b
+affected NMDAR composition and therefore induced functional
+changes in channel kinetics. As a consequence, miR-125b expression is likely to be critical for synaptic plasticity. Interestingly, a
+CCI pain model induced the down-regulation of miR-125b in the
+hippocampus (Arai et al., 2013), a structure that is part of the
+descending anti-nociceptive system.
+miR-124 is one of the most abundant miRNAs in the brain
+and its role in the development of the mammalian brain is now
+well established. Thus, miR-124 is a neuronal differentiation promoter that also acts as an inhibitor of neuronal stem cells (Cheng
+et al., 2009; Yoo et al., 2009; Åkerblom et al., 2012). During X.
+laevis development, miR-124 plays a crucial role in timing the
+axon pathﬁnding of retinal ganglion cells (RGCs; Baudet et al.,
+2012). Thus, a key event in the correct navigation of RGC axons
+is a change in growth cone sensitivity to guidance cues. Baudet
+et al. (2012) demonstrated that miR-124 regulates the initiation of
+growth cone responsiveness to semaphorin Sema3A. In addition,
+miR-124 was shown to regulate neuronal process complexity by
+modulating the small GTPase RhoG (Franke et al., 2012). Indeed,
+RhoG is a critical modulator of the actin cytoskeleton. Consequently, RhoG inhibits axonal branching so miR-124-mediated
+inhibition of RhoG stimulates axonal and dendritic complexity. Yang et al. (2012) demonstrated that miR-124 is a direct
+regulator of the transcription factor Zif268, which is essential for activity-related modulation of synaptic transmission and
+cognition.
+In the context of chronic pain, miR-124 down-regulation in
+DRG neurons was reported in inﬂammatory muscle pain (Bai
+et al., 2007), as well as in sciatic nerve after peripheral nerve crush
+(Wu et al., 2011). Moreover, intrathecal injection of miR-124 had
+an anti-nociceptive effect in both inﬂammatory and nerve injuryinduced chronic pain models (Willemen et al., 2012). Finally,
+Niederberger’s group showed that intravenous injection of miR124 alleviates the nociceptive response to the formalin test and
+identiﬁed the target involved as MeCP2 (Kynast et al., 2013). Thus,
+in addition to miR-132 (Klein et al., 2007), miR-124a also regulates MeCP2 translation. MeCP2 is an epigenetic modulator of
+BDNF, one of the major players in inﬂammatory pain mechanisms
+(Merighi et al., 2008).
+One of the interesting characteristics of miRNAs that has
+been conserved through evolution is that a given miRNA has
+the potential to regulate multiple targets owing to the permissive hybridization to target mRNAs. This mechanism of action is
+now well accepted and it can have an important impact on gene
+expression regulation. Thus, one or few miRNAs could regulate the
+
+Frontiers in Cellular Neuroscience
+
+expression of multiple genes that participate in the same function
+or which constitute the different subunits of a macromolecular
+complex (Ferretti et al., 2008; Harraz et al., 2012).
+In the context of chronic pain, we demonstrated such a multiple targeting by one miRNA. Indeed, we showed that a single
+miRNA, miR-103, simultaneously regulates the expression of the
+three subunits of the Cav1.2-comprising L-type calcium channel (Cav1.2-LTC) in an integrative regulation. Sensitization to
+pain involves the activation of various types of voltage-gated calcium channels. Some control synaptic transmission (Matthews
+and Dickenson, 2001; Bourinet et al., 2005; Altier et al., 2007)
+while others regulate intrinsic membrane properties. Among the
+latter, Cav1.2-LTC regulates gene expression underlying long-term
+plastic changes (Dolmetsch et al., 2001; Fossat et al., 2010). miR103-mediated modulation of Cav1.2 function is bidirectional since
+knocking-down or over-expressing miR-103 respectively up- or
+down-regulate the level of Cav1.2-LTC translation. Functionally,
+we showed that miR-103 knockdown in naive rats results in hypersensitivity to pain. Moreover, miR-103 was down-regulated in
+neuropathic animals and miR-103 intrathecal applications successfully relieved pain, thus identifying miR-103 as a possible novel
+therapeutic target in neuropathic chronic pain (Favereaux et al.,
+2011).
+ACTIVITY-INDUCED MODULATION OF miRNA LEVELS
+
+A set of evidence is growing to suggest that miRNAs can regulate
+neuronal activity by modulating the expression of ion channels,
+the morphology of dendritic spines and the molecular pathways
+downstream from receptor activation. However, the mechanisms
+that induce an activity-related modulation of miRNA-mediated
+inhibition of target genes remain poorly understood. Recent
+reports mostly in non-neuronal cells showed that it involves regulation of both the metabolism and function of miRNAs, and
+some of these mechanisms were also found to play a crucial role in
+neurons (for review, see Krol et al., 2010b). Below, we summarize
+the known mechanisms that modulate miRNA levels as a result of
+activity variations in neurons.
+First, modulation of miRNA levels in response to activity
+could result from transcription regulation as for mRNAs. Indeed,
+Nomura et al. (2008) found that the transcription of miR-184,
+a brain-speciﬁc miRNA, is repressed by the binding of MeCP2.
+miR-184 is an imprinted gene exclusively expressed from the
+paternal allele. Interestingly, enhancement of neuronal activity
+by high-KCl treatment induced MeCP2 phosphorylation and the
+consequent release of phosphorylated MeCP2 from the miR-184
+promoter region. Thus, the increase in miR-184 levels in response
+to neuronal activity involves at least an augmented transcription
+of miR-184.
+CREB is a transcription factor that plays a crucial role in nervous system development and plasticity (reviewed in Lonze and
+Ginty, 2002). A genome-wide screen for CREB-binding sites identiﬁed hundreds of locations that are associated with non-coding
+RNAs and miRNAs, including miR-132 (Vo et al., 2005). DNase
+I footprinting assay conﬁrmed the CREB binding at two consensus cAMP regulatory elements (CREs) in the close 5 region
+of the miR-212/-132 locus. CREB is known to be activated by
+neurotrophins such as BDNF, and the authors demonstrated that
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 8
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+miR-132 transcription was enhanced in response to BDNF. In
+addition, CREB inhibition partially blocked the BDNF-induced
+increase of miR-132, strongly suggesting that this mechanism
+involved the CREB pathway. Wayman et al. (2008) demonstrated
+that miR-132 is regulated by CREB in an activity-dependent
+manner. Hence, in hippocampal neuronal cultures, inhibition
+of GABAA inhibitory tone with bicuculline increased synaptic activity and the levels of miR-132 precursor and mature
+forms. Interestingly, blockade of CREB-dependent transcription
+abolished the miR-132 up-regulation in response to synaptic
+activity.
+Second, the function of miRNA can be modulated by regulating
+miRISC components. Hence, MOV10, the mammalian ortholog
+of the SDE3 helicase Armitage in Drosophila (Ashraf et al., 2006),
+is present at synapses and undergoes rapid proteolysis in response
+to NMDAR-mediated activity (Banerjee et al., 2009). As a consequence, it relieves miRNA-mediated translation inhibition of key
+proteins at the synapse like CaMKII or LIMK1 (Ashraf et al., 2006;
+Banerjee et al., 2009).
+Another possible mechanism could be the activity-dependent
+regulation of dendritic P-bodies. Cougot et al. (2008) demonstrated that ribonucleoprotein particles (RNPs) with a P-body-like
+structure are present in dendrites and that they exhibit motorized
+movements upon synaptic activation to relocate to distant sites
+(Cougot et al., 2008). In addition, neuronal activation induced a
+loss of AGO2 from these P-body-like structures, suggesting that it
+may regulate local translation. Thus, inhibited messenger RNPs
+(mRNPs) may be stored in these particles at resting state and
+then be released in response to synaptic activity in order to be
+translated.
+Besides regulation of miRISC components, recent evidence
+suggests that synergistic pathways may contribute to miRNA function and could therefore be activity-regulated. Hence, FMRP
+(fragile X mental retardation protein) is a protein with multiple RNA-binding domains that acts as a translational suppressor
+of particular mRNAs (Bassell and Warren, 2008). Interestingly,
+FMRP interacts with RISC proteins and miRNAs, although it is
+not necessary for miRNA-mediated inhibition (Caudy et al., 2002;
+Ishizuka et al., 2002; Jin et al., 2004). Edbauer et al. (2010) recently
+showed that both FMRP and miR-125b bound NR2A NMDAR
+subunit mRNA, thus leading to translation inhibition. Moreover,
+the inhibition of NR2A by FMRP is enhanced by miR-125b and
+FMRP depletion reversed miR-125b effects, strongly suggesting a
+synergistic effect.
+Finally, obtaining a net change in miRNA levels without
+affecting miRNA transcription could be the result of miRNA
+decay alterations. Indeed, recent evidence suggests that miRNA
+turnover is fast in neuronal cells owing to rapid decay (Krol et al.,
+2010a). In addition, the authors demonstrated that the rate of
+miRNA decay is activity-dependent. Thus, blocking neuronal
+activity with either tetrodotoxin (TTX; inhibiting action potentials) or 6-nitro-sulfamoyl-benzo-quinoxaline-dione/3-carboxypiperazin-propyl phosphonic acid (NBQX/CPP; inhibiting glutamate transmission) reduced miRNA decay. Some elements of
+the enzymatic machinery involved in miRNA degradation have
+recently been discovered (Ramachandran and Chen, 2008; Chatterjee and Grosshans, 2009). However, the factors responsible for
+
+Frontiers in Cellular Neuroscience
+
+the rapid and activity-dependent miRNA decay in neurons are
+still unknown and constitute a new challenge. The most recent
+breakthrough in our understanding of miRNA regulation in neurons came from an underestimated RNA class, circular RNAs
+(circRNAs). circRNAs were ﬁrst discovered in plants (Sanger
+et al., 1976) and then in unicellular organisms (Grabowski et al.,
+1981), but the best-known circRNA is the sex-determining region
+Y RNA (Sry) which is highly expressed in testes (Capel et al.,
+1993). Recently, two groups identiﬁed a brain-expressed circRNA
+[(named CDR1as (cerebellar degeneration-related protein 1 antisense) or circular RNA sponge for miR-7 (ciRS-7)] that contains
+roughly 70 target sites for miR-7 (Hansen et al., 2013; Memczak
+et al., 2013). This circRNA acts as a natural miRNA sponge since
+it binds several miR-7 copies at a time, thus reducing miR-7
+inhibition on mRNA targets. Interestingly, a very recent study
+identiﬁed miR-7 as a regulator of neuronal activity in chronic
+pain conditions. Hence, Sakai et al. (2013) showed that miR-7a
+was strongly down-regulated in the DRG of neuropathic pain
+models in animals. They demonstrated that miR-7a targets the
+β2-subunit of voltage-gated sodium channel, thus increasing the
+excitability of nociceptive neurons. In addition, miR-7a exogenous
+over-expression in DRG of injured animals alleviated neuropathic
+pain.
+
+CONCLUSION
+How miRNAs regulate neuronal function in response to activity
+and whether deregulation of these mechanisms triggers pathological states are still poorly understood. For instance, are the
+miRNA pathways that control neuronal fate during development
+also involved in brain homeostasis? What are the mechanisms that
+could modulate miRNA expression in response to neuronal activity? Do the pathways involved in miRNA regulation depend on
+the kind of stimulus or on the miRNA species? What is the spatial resolution of miRNA control on local translation? What is the
+therapeutic potential of targeting activity-regulated miRNA?
+The analysis of miRNA regulation in challenging pathological conditions such as chronic pain may help to highlight
+crucial miRNA mechanisms that are discreet in basal conditions. In the past few years, many studies have screened for
+miRNA expression in various animal models and in cohorts
+of patients with diverse neurodegenerative diseases. Although
+highlighting biomarker miRNAs with a possible value for therapeutic approaches, this kind of approach does not improve our
+understanding of miRNA targeting and function in pathological mechanisms. Indeed, it would be risky to evaluate targets
+of candidate miRNAs on algorithm-based prediction databases
+only, since the number of putative targets is very large and conﬁrmation of targeting sometimes difﬁcult to achieve. Therefore,
+it will be important to improve miRNA target prediction tools
+maybe by considering recent experimental data suggesting that
+“seed” region may not be the only signature of miRNA targeting (Helwak et al., 2013). Moreover, it would be interesting to
+compare miRNA and mRNA expression data as often as possible in the light of experimentally conﬁrmed miRNA:mRNA
+interactions.
+Nevertheless, the various experimental paradigms with their
+sometimes conﬂicting data could hinder progress toward a better
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 9
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+understanding of miRNA function. Therefore, the use of uniﬁed
+experimental parameters could further clarify the role of miRNA
+in neuronal plasticity. The large body of pre-existing data provides
+solid evidence for the involvement of miRNA regulation in both
+physiological and pathological conditions. Thus, miRNA is an
+attractive potential therapeutic target.
+
+ACKNOWLEDGMENTS
+This work received funding from the Centre National de la
+Recherche Scientiﬁque, Agence Nationale pour la Recherche (grant
+MirPAIN), Association pour la Recherche sur le Cancer (ARC),
+Conseil Régional Aquitaine. We acknowledge Y. Le Feuvre and C.
+Baudet for helpful comments on the manuscript.
+REFERENCES
+Åkerblom, M., Sachdeva, R., Barde, I., Verp, S., Gentner, B., Trono, D., et al. (2012).
+MicroRNA-124 is a subventricular zone neuronal fate determinant. J. Neurosci.
+32, 8879–8889. doi: 10.1523/JNEUROSCI.0558-12.2012
+Altier, C., Dale, C. S., Kisilevsky, A. E., Chapman, K., Castiglioni, A. J., Matthews,
+E. A., et al. (2007). Differential role of N-type calcium channel splice isoforms in pain. J. Neurosci. 27, 6363–6373. doi: 10.1523/JNEUROSCI.030707.2007
+Arai, M., Genda, Y., Ishikawa, M., Shunsuke, T., Okabe, T., and Sakamoto, A. (2013).
+The miRNA and mRNA changes in rat hippocampi after chronic constriction
+injury. Pain Med. 14, 720–729. doi: 10.1111/pme.12066
+Ashraf, S. I., and Kunes, S. (2006). A trace of silence: memory and microRNA at the
+synapse. Curr. Opin. Neurobiol. 16, 535–539. doi: 10.1016/j.conb.2006.08.007
+Ashraf, S. I., McLoon, A. L., Sclarsic, S. M., and Kunes, S. (2006). Synaptic protein
+synthesis associated with memory is regulated by the RISC pathway in Drosophila.
+Cell 124, 191–205. doi: 10.1016/j.cell.2005.12.017
+Baek, D., Villén, J., Shin, C., Camargo, F. D., Gygi, S. P., and Bartel, D. P.
+(2008). The impact of microRNAs on protein output. Nature 455, 64–71. doi:
+10.1038/nature07242
+Bagga, S., Bracht, J., Hunter, S., Massirer, K., Holtz, J., Eachus, R., et al. (2005).
+Regulation by let-7 and lin-4 miRNAs results in target mRNA degradation. Cell
+122, 553–563. doi: 10.1016/j.cell.2005.07.031
+Bai, G., Ambalavanar, R., Wei, D., and Dessem, D. (2007). Downregulation of selective microRNAs in trigeminal ganglion neurons following inﬂammatory muscle
+pain. Mol. Pain 3, 15. doi: 10.1186/1744-8069-3-15
+Bak, M., Silahtaroglu, A., Møller, M., Christensen, M., Rath, M. F., Skryabin, B., et al.
+(2008). MicroRNA expression in the adult mouse central nervous system. RNA
+14, 432–444. doi: 10.1261/rna.783108
+Bamburg, J. R. (1999). Proteins of the ADF/coﬁlin family: essential regulators of actin dynamics. Annu. Rev. Cell Dev. Biol. 15, 185–230. doi:
+10.1146/annurev.cellbio.15.1.185
+Banerjee, S., Neveu, P., and Kosik, K. S. (2009). A coordinated local translational control point at the synapse involving relief from silencing and MOV10 degradation.
+Neuron 64, 871–884. doi: 10.1016/j.neuron.2009.11.023
+Bartel, D. P. (2004). MicroRNAs: genomics, biogenesis, mechanism, and function.
+Cell 116, 281–297. doi: 10.1016/S0092-8674(04)00045-5
+Bartel, D. P. (2009). MicroRNAs: target recognition and regulatory functions. Cell
+136, 215–233. doi: 10.1016/j.cell.2009.01.002
+Basbaum, A. I., and Fields, H. L. (1979). The origin of descending pathways in
+the dorsolateral funiculus of the spinal cord of the cat and rat: further studies on the anatomy of pain modulation. J. Comp. Neurol. 187, 513–531. doi:
+10.1002/cne.901870304
+Baskerville, S., and Bartel, D. P. (2005). Microarray proﬁling of microRNAs reveals
+frequent coexpression with neighboring miRNAs and host genes. RNA 11, 241–
+247. doi: 10.1261/rna.7240905
+Bassell, G. J., and Warren, S. T. (2008). Fragile X syndrome: loss of local mRNA
+regulation alters synaptic development and function. Neuron 60, 201–214. doi:
+10.1016/j.neuron.2008.10.004
+Baudet, M., Zivraj, K. H., Abreu-Goodger, C., Muldal, A., Armisen, J., Blenkiron,
+C., et al. (2012). miR-124 acts through CoREST to control onset of Sema3A
+sensitivity in navigating retinal growth cones. Nat. Neurosci. 15, 29–38. doi:
+10.1038/nn.2979
+
+Frontiers in Cellular Neuroscience
+
+Behm-Ansmant, I., Rehwinkel, J., Doerks, T., Stark, A., Bork, P., and Izaurralde, E.
+(2006). mRNA degradation by miRNAs and GW182 requires both CCR4:NOT
+deadenylase and DCP1:DCP2 decapping complexes. Genes Dev. 20, 1885–1898.
+doi: 10.1101/gad.1424106
+Bernstein, E., Caudy, A. A., Hammond, S. M., and Hannon, G. J. (2001). Role for
+a bidentate ribonuclease in the initiation step of RNA interference. Nature 409,
+363–366. doi: 10.1038/35053110
+Bhattacharyya, S. N., Habermacher, R., Martine, U., Closs, E. I., and Filipowicz,
+W. (2006). Relief of microRNA-mediated translational repression in human cells
+subjected to stress. Cell 125, 1111–1124. doi: 10.1016/j.cell.2006.04.031
+Bicker, S., Khudayberdiev, S., Weiß, K., Zocher, K., Baumeister, S., and
+Schratt, G. (2013). The DEAH-box helicase DHX36 mediates dendritic localization of the neuronal precursor-microRNA-134. Genes Dev. 27, 991–996. doi:
+10.1101/gad.211243.112
+Bohnsack, M. T., Czaplinski, K., and Gorlich, D. (2004). Exportin 5 is a RanGTPdependent dsRNA-binding protein that mediates nuclear export of pre-miRNAs.
+RNA 10, 185–191. doi: 10.1261/rna.5167604
+Bonhoeffer, T., and Yuste, R. (2002). Spine motility. Phenomenology, mechanisms, and function. Neuron 35, 1019–1027. doi: 10.1016/S0896-6273(02)
+00906-6
+Bourinet, E., Alloui, A., Monteil, A., Barrere, C., Couette, B., Poirot, O., et al.
+(2005). Silencing of the Cav3.2 T-type calcium channel gene in sensory neurons demonstrates its major role in nociception. EMBO J. 24, 315–324. doi:
+10.1038/sj.emboj.7600515
+Bramham, C. R., and Wells, D. G. (2007). Dendritic mRNA: transport, translation and function. Nat. Rev. Neurosci. 8, 776–789. doi: 10.1038/nrn
+2150
+Brengues, M., Teixeira, D., and Parker, R. (2005). Movement of eukaryotic mRNAs
+between polysomes and cytoplasmic processing bodies. Science 310, 486–489. doi:
+10.1126/science.1115791
+Brodersen, P., and Voinnet, O. (2009). Revisiting the principles of microRNA target
+recognition and mode of action. Nat. Rev. Mol. Cell Biol. 10, 141–148. doi:
+10.1038/nrm2619
+Cai, X., Hagedorn, C. H., and Cullen, B. R. (2004). Human microRNAs are processed
+from capped, polyadenylated transcripts that can also function as mRNAs. RNA
+10, 1957–1966. doi: 10.1261/rna.7135204
+Campbell, D. S., and Holt, C. E. (2001). Chemotropic responses of retinal growth
+cones mediated by rapid local protein synthesis and degradation. Neuron 32,
+1013–1026. doi: 10.1016/S0896-6273(01)00551-7
+Capel, B., Swain, A., Nicolis, S., Hacker, A., Walter, M., Koopman, P., et al. (1993).
+Circular transcripts of the testis-determining gene Sry in adult mouse testis. Cell
+73, 1019–1030. doi: 10.1016/0092-8674(93)90279-Y
+Caudy, A. A., Myers, M., Hannon, G. J., and Hammond, S. M. (2002). Fragile Xrelated protein and VIG associate with the RNA interference machinery. Genes
+Dev. 16, 2491–2496. doi: 10.1101/gad.1025202
+Chandrasekar, V., and Dreyer, J. (2011). Regulation of miR-124, Let-7d, and miR181a in the accumbens affects the expression, extinction, and reinstatement
+of cocaine-induced conditioned place preference. Neuropsychopharmacology 36,
+1149–1164. doi: 10.1038/npp.2010.250
+Chatterjee, S., and Grosshans, H. (2009). Active turnover modulates mature
+microRNA activity in Caenorhabditis elegans. Nature 461, 546–549. doi:
+10.1038/nature08349
+Chekulaeva, M., and Filipowicz, W. (2009). Mechanisms of miRNA-mediated posttranscriptional regulation in animal cells. Curr. Opin. Cell Biol. 21, 452–460. doi:
+10.1016/j.ceb.2009.04.009
+Chendrimada, T. P., Finn, K. J., Ji, X., Baillat, D., Gregory, R. I., Liebhaber, S. A.,
+et al. (2007). MicroRNA silencing through RISC recruitment of eIF6. Nature 447,
+823–828. doi: 10.1038/nature05841
+Cheng, L., Pastrana, E., Tavazoie, M., and Doetsch, F. (2009). miR-124 regulates
+adult neurogenesis in the subventricular zone stem cell niche. Nat. Neurosci. 12,
+399–408. doi: 10.1038/nn.2294
+Chi, S. W., Zang, J. B., Mele, A., and Darnell, R. B. (2009). Argonaute HITSCLIP decodes microRNA-mRNA interaction maps. Nature 460, 479–486. doi:
+10.1038/nature08170
+Cohen, J. E., Lee, P. R., Chen, S., Li, W., and Fields, R. D. (2011). MicroRNA
+regulation of homeostatic synaptic plasticity. Proc. Natl. Acad. Sci. U.S.A. 108,
+11650–11655. doi: 10.1073/pnas.1017576108
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 10
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+Corcoran, D. L., Pandit, K. V., Gordon, B., Bhattacharjee, A., Kaminski, N., and
+Benos, P. V. (2009). Features of mammalian microRNA promoters emerge from
+polymerase II chromatin immunoprecipitation data. PLoS ONE 4:e5279. doi:
+10.1371/journal.pone.0005279
+Cougot, N., Bhattacharyya, S. N., Tapia-Arancibia, L., Bordonné, R., Filipowicz, W.,
+Bertrand, E., et al. (2008). Dendrites of mammalian neurons contain specialized
+P-body-like structures that respond to neuronal activation. J. Neurosci. 28, 13793–
+13804. doi: 10.1523/JNEUROSCI.4155-08.2008
+Davis, L., Banker, G. A., and Steward, O. (1987). Selective dendritic transport of RNA
+in hippocampal neurons in culture. Nature 330, 477–479. doi: 10.1038/330477a0
+Denli, A. M., Tops, B. B. J., Plasterk, R. H. A., Ketting, R. F., and Hannon, G. J. (2004).
+Processing of primary microRNAs by the Microprocessor complex. Nature 432,
+231–235. doi: 10.1038/nature03049
+Doench, J. G., Petersen, C. P., and Sharp, P. A. (2003). siRNAs can function as
+miRNAs. Genes Dev. 17, 438–442. doi: 10.1101/gad.1064703
+Dolmetsch, R. E., Pajvani, U., Fife, K., Spotts, J. M., and Greenberg, M. E. (2001).
+Signaling to the nucleus by an L-type calcium channel-calmodulin complex
+through the MAP kinase pathway. Science 294, 333–339. doi: 10.1126/science.
+1063395
+Dorval, V., Smith, P. Y., Delay, C., Calvo, E., Planel, E., Zommer, N., et al.
+(2012). Gene network and pathway analysis of mice with conditional ablation of
+Dicer in post-mitotic neurons. PLoS ONE 7:e44060. doi: 10.1371/journal.pone.
+0044060
+Doyle, M., and Kiebler, M. A. (2011). Mechanisms of dendritic mRNA transport and
+its role in synaptic tagging. EMBO J. 30, 3540–3552. doi: 10.1038/emboj.2011.278
+Easow, G., Teleman, A. A., and Cohen, S. M. (2007). Isolation of microRNA targets
+by miRNP immunopuriﬁcation. RNA 13, 1198–1204. doi: 10.1261/rna.563707
+Eberwine, J., Miyashiro, K., Kacharmina, J. E., and Job, C. (2001). Local translation
+of classes of mRNAs that are targeted to neuronal dendrites. Proc. Natl. Acad. Sci.
+U.S.A. 98, 7080–7085. doi: 10.1073/pnas.121146698
+Edbauer, D., Neilson, J. R., Foster, K. A., Wang, C. F., Seeburg, D. P., Batterton, M. N., et al. (2010). Regulation of synaptic structure and function by
+FMRP-associated microRNAs miR-125b and miR-132. Neuron 65, 373–384. doi:
+10.1016/j.neuron.2010.01.005
+Eulalio, A., Behm-Ansmant, I., and Izaurralde, E. (2007). P bodies: at the crossroads of post-transcriptional pathways. Nat. Rev. Mol. Cell Biol. 8, 9–22. doi:
+10.1038/nrm2080
+Fabian, M. R., Mathonnet, G., Sundermeier, T., Mathys, H., Zipprich, J. T.,
+Svitkin, Y. V., et al. (2009). Mammalian miRNA RISC recruits CAF1 and
+PABP to affect PABP-dependent deadenylation. Mol. Cell 35, 868–880. doi:
+10.1016/j.molcel.2009.08.004
+Fabian, M. R., Sonenberg, N., and Filipowicz, W. (2010). Regulation of mRNA
+translation and stability by microRNAs. Annu. Rev. Biochem. 79, 351–379. doi:
+10.1146/annurev-biochem-060308-103103
+Farh, K. K., Grimson, A., Jan, C., Lewis, B. P., Johnston, W. K., Lim, L. P., et al.
+(2005). The widespread impact of mammalian microRNAs on mRNA repression
+and evolution. Science 310, 1817–1821. doi: 10.1126/science.1121158
+Favereaux, A., Thoumine, O., Bouali-Benazzouz, R., Roques, V., Papon, M.,
+Salam, S. A., et al. (2011). Bidirectional integrative regulation of Cav1.2 calcium channel by microRNA miR-103: role in pain. EMBO J. 30, 3830–3841. doi:
+10.1038/emboj.2011.249
+Ferretti, E., De Smaele, E., Miele, E., Laneve, P., Po, A., Pelloni, M., et al. (2008).
+Concerted microRNA control of Hedgehog signalling in cerebellar neuronal progenitor and tumour cells. EMBO J. 27, 2616–2627. doi: 10.1038/emboj.2008.172
+Filipowicz, W., Bhattacharyya, S. N., and Sonenberg, N. (2008). Mechanisms of
+post-transcriptional regulation by microRNAs: are the answers in sight? Nat. Rev.
+Genet. 9, 102–114. doi: 10.1038/nrg2290
+Fossat, P., Dobremez, E., Bouali-Benazzouz, R., Favereaux, A., Bertrand, S. S., Kilk,
+K., et al. (2010). Knockdown of L calcium channel subtypes: differential effects
+in neuropathic pain. J. Neurosci. 30, 1073–1085. doi: 10.1523/JNEUROSCI.314509.2010
+Franke, K., Otto, W., Johannes, S., Baumgart, J., Nitsch, R., and Schumacher,
+S. (2012). miR-124-regulated RhoG reduces neuronal process complexity via
+ELMO/Dock180/Rac1 and Cdc42 signalling. EMBO J. 31, 2908–2921. doi:
+10.1038/emboj.2012.130
+Garry, E. M., and Fleetwood-Walker, S. M. (2004). A new view on how AMPA
+receptors and their interacting proteins mediate neuropathic pain. Pain 109, 210–
+213. doi: 10.1016/j.pain.2004.04.002
+
+Frontiers in Cellular Neuroscience
+
+Genda, Y., Arai, M., Ishikawa, M., Tanaka, S., Okabe, T., and Sakamoto, A. (2013).
+microRNA changes in the dorsal horn of the spinal cord of rats with chronic
+constriction injury: a TaqMan® Low Density Array study. Int. J. Mol. Med. 31,
+129–137. doi: 10.3892/ijmm.2012.1163
+Goldie, B. J., and Cairns, M. J. (2012). Post-transcriptional trafﬁcking and regulation
+of neuronal gene expression. Mol. Neurobiol. 45, 99–108. doi: 10.1007/s12035011-8222-0
+Grabowski, P. J., Zaug, A. J., and Cech, T. R. (1981). The intervening sequence of
+the ribosomal RNA precursor is converted to a circular RNA in isolated nuclei of
+Tetrahymena. Cell 23, 467–476. doi: 10.1016/0092-8674(81)90142-2
+Gregory, R. I., Yan, K., Amuthan, G., Chendrimada, T., Doratotaj, B., Cooch, N.,
+et al. (2004). The microprocessor complex mediates the genesis of microRNAs.
+Nature 432, 235–240. doi: 10.1038/nature03120
+Grifﬁths-Jones, S., Grocock, R. J., van Dongen, S., Bateman, A., and Enright, A. J.
+(2006). miRBase: microRNA sequences, targets and gene nomenclature. Nucleic
+Acids Res. 34, D140–D144. doi: 10.1093/nar/gkj112
+Grimson, A., Farh, K. K., Johnston, W. K., Garrett-Engele, P., Lim, L. P., and Bartel,
+D. P. (2007). MicroRNA targeting speciﬁcity in mammals: determinants beyond
+seed pairing. Mol. Cell 27, 91–105. doi: 10.1016/j.molcel.2007.06.017
+Guo, H., Ingolia, N. T., Weissman, J. S., and Bartel, D. P. (2010). Mammalian
+microRNAs predominantly act to decrease target mRNA levels. Nature 466, 835–
+840. doi: 10.1038/nature09267
+Hammond, S. M., Boettcher, S., Caudy, A. A., Kobayashi, R., and Hannon, G. J.
+(2001). Argonaute2, a link between genetic and biochemical analyses of RNAi.
+Science 293, 1146–1150. doi: 10.1126/science.1064023
+Han, J., Lee, Y., Yeom, K., Kim, Y., Jin, H., and Kim, V. N. (2004). The DroshaDGCR8 complex in primary microRNA processing. Genes Dev. 18, 3016–3027.
+doi: 10.1101/gad.1262504
+Hansen, T. B., Jensen, T. I., Clausen, B. H., Bramsen, J. B., Finsen, B., Damgaard,
+C. K., et al. (2013). Natural RNA circles function as efﬁcient microRNA sponges.
+Nature 495, 384–388. doi: 10.1038/nature11993
+Harraz, M. M., Eacker, S. M., Wang, X., Dawson, T. M., and Dawson, V. L. (2012).
+MicroRNA-223 is neuroprotective by targeting glutamate receptors. Proc. Natl.
+Acad. Sci. U.S.A. 109, 18962–18967. doi: 10.1073/pnas.1121288109
+Helwak, A., Kudla, G., Dudnakova, T., and Tollervey, D. (2013). Mapping the human
+miRNA interactome by CLASH reveals frequent noncanonical binding. Cell 153,
+654–665. doi: 10.1016/j.cell.2013.03.043
+Hendrickson, D. G., Hogan, D. J., McCullough, H. L., Myers, J. W., Herschlag,
+D., Ferrell, J. E., et al. (2009). Concordant regulation of translation and mRNA
+abundance for hundreds of targets of a human microRNA. PLoS Biol. 7:e1000238.
+doi: 10.1371/journal.pbio.1000238
+Hering, H., and Sheng, M. (2001). Dendritic spines: structure, dynamics and
+regulation. Nat. Rev. Neurosci. 2, 880–888. doi: 10.1038/35104061
+Höck, J., Weinmann, L., Ender, C., Rüdel, S., Kremmer, E., Raabe, M., et al. (2007).
+Proteomic and functional analysis of Argonaute-containing mRNA-protein complexes in human cells. EMBO Rep. 8, 1052–1060. doi: 10.1038/sj.embor.7401088
+Hornstein, E., Mansﬁeld, J. H., Yekta, S., Hu, J. K., Harfe, B. D., McManus, M. T.,
+et al. (2005). The microRNA miR-196 acts upstream of Hoxb8 and Shh in limb
+development. Nature 438, 671–674. doi: 10.1038/nature04138
+Hsu, R., Schoﬁeld, C. M., Dela Cruz, C. G., Jones-Davis, D. M., Blelloch, R., and
+Ullian, E. M. (2012). Loss of microRNAs in pyramidal neurons leads to speciﬁc
+changes in inhibitory synaptic transmission in the prefrontal cortex. Mol. Cell.
+Neurosci. 50, 283–292. doi: 10.1016/j.mcn.2012.06.002
+Humphreys, D. T., Westman, B. J., Martin, D. I. K., and Preiss, T. (2005). MicroRNAs
+control translation initiation by inhibiting eukaryotic initiation factor 4E/cap
+and poly(A) tail function. Proc. Natl. Acad. Sci. U.S.A. 102, 16961–16966. doi:
+10.1073/pnas.0506482102
+Hutvágner, G., McLachlan, J., Pasquinelli, A. E., Bálint, E., Tuschl, T., and Zamore,
+P. D. (2001). A cellular function for the RNA-interference enzyme Dicer in
+the maturation of the let-7 small temporal RNA. Science 293, 834–838. doi:
+10.1126/science.1062961
+Hutvágner, G., and Zamore, P. D. (2002). A microRNA in a multipleturnover RNAi enzyme complex. Science 297, 2056–2060. doi: 10.1126/science.
+1073827
+Impey, S., Davare, M., Lesiak, A., Fortin, D., Ando, H., Varlamova, O.,
+et al. (2010). An activity-induced microRNA controls dendritic spine formation by regulating Rac1-PAK signaling. Mol. Cell. Neurosci. 43, 146–156. doi:
+10.1016/j.mcn.2009.10.005
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 11
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+Ishizuka, A., Siomi, M. C., and Siomi, H. (2002). A Drosophila fragile X protein
+interacts with components of RNAi and ribosomal proteins. Genes Dev. 16, 2497–
+2508. doi: 10.1101/gad.1022002
+Iwasaki, S., Kawamata, T., and Tomari, Y. (2009). Drosophila argonaute1 and argonaute2 employ distinct mechanisms for translational repression. Mol. Cell 34,
+58–67. doi: 10.1016/j.molcel.2009.02.010
+Jackson, R. J., and Standart, N. (2007). How do microRNAs regulate gene expression?
+Sci. STKE 2007, re1. doi: 10.1126/stke.3672007re1
+Jakymiw, A., Lian, S., Eystathioy, T., Li, S., Satoh, M., Hamel, J. C., et al. (2005).
+Disruption of GW bodies impairs mammalian RNA interference. Nat. Cell Biol.
+7, 1267–1274. doi: 10.1038/ncb1334
+Jin, P., Zarnescu, D. C., Ceman, S., Nakamoto, M., Mowrey, J., Jongens, T. A.,
+et al. (2004). Biochemical and genetic interaction between the fragile X mental
+retardation protein and the microRNA pathway. Nat. Neurosci. 7, 113–117. doi:
+10.1038/nn1174
+Johnson, R., Noble, W., Tartaglia, G. G., and Buckley, N. J. (2012). Neurodegeneration as an RNA disorder. Prog. Neurobiol. 99, 293–315. doi:
+10.1016/j.pneurobio.2012.09.006
+Kang, H., and Schuman, E. M. (1996). A requirement for local protein synthesis in
+neurotrophin-induced hippocampal synaptic plasticity. Science 273, 1402–1406.
+doi: 10.1126/science.273.5280.1402
+Karr, J., Vagin, V., Chen, K., Ganesan, S., Olenkina, O., Gvozdev, V., et al. (2009).
+Regulation of glutamate receptor subunit availability by microRNAs. J. Cell Biol.
+185, 685–697. doi: 10.1083/jcb.200902062
+Ketting, R. F., Fischer, S. E., Bernstein, E., Sijen, T., Hannon, G. J., and Plasterk, R.
+H. (2001). Dicer functions in RNA interference and in synthesis of small RNA
+involved in developmental timing in C. elegans. Genes Dev. 15, 2654–2659. doi:
+10.1101/gad.927801
+Khvorova, A., Reynolds, A., and Jayasena, S. D. (2003). Functional siRNAs and miRNAs exhibit strand bias. Cell 115, 209–216. doi: 10.1016/S0092-8674(03)00801-8
+Kim, J., Krichevsky, A., Grad, Y., Hayes, G. D., Kosik, K. S., Church, G. M.,
+et al. (2004). Identiﬁcation of many microRNAs that copurify with polyribosomes in mammalian neurons. Proc. Natl. Acad. Sci. U.S.A. 101, 360–365. doi:
+10.1073/pnas.2333854100
+Kiriakidou, M., Tan, G. S., Lamprinaki, S., De Planell-Saguer, M., Nelson, P.
+T., and Mourelatos, Z. (2007). An mRNA m7G cap binding-like motif within
+human Ago2 represses translation. Cell 129, 1141–1151. doi: 10.1016/j.cell.2007.
+05.016
+Klein, M. E., Lioy, D. T., Ma, L., Impey, S., Mandel, G., and Goodman, R. H. (2007).
+Homeostatic regulation of MeCP2 expression by a CREB-induced microRNA.
+Nat. Neurosci. 10, 1513–1514. doi: 10.1038/nn2010
+Kloosterman, W. P., Wienholds, E., Ketting, R. F., and Plasterk, R. H. A. (2004).
+Substrate requirements for let-7 function in the developing zebraﬁsh embryo.
+Nucleic Acids Res. 32, 6284–6291. doi: 10.1093/nar/gkh968
+Knight, S. W., and Bass, B. L. (2001). A role for the RNase III enzyme DCR-1 in
+RNA interference and germ line development in Caenorhabditis elegans. Science
+293, 2269–2271. doi: 10.1126/science.1062039
+Kocerha, J., Faghihi, M. A., Lopez-Toledano, M. A., Huang, J., Ramsey, A. J., Caron,
+M. G., et al. (2009). MicroRNA-219 modulates NMDA receptor-mediated neurobehavioral dysfunction. Proc. Natl. Acad. Sci. U.S.A. 106, 3507–3512. doi:
+10.1073/pnas.0805854106
+Kolodkin, A. L., and Ginty, D. D. (1997). Steering clear of semaphorins: neuropilins
+sound the retreat. Neuron 19, 1159–1162. doi: 10.1016/S0896-6273(00)80408-0
+Kosik, K. S., and Krichevsky, A. M. (2005). The elegance of the microRNAs: a
+neuronal perspective. Neuron 47, 779–782. doi: 10.1016/j.neuron.2005.08.019
+Kozomara, A., and Grifﬁths-Jones, S. (2011). miRBase: integrating microRNA
+annotation and deep-sequencing data. Nucleic Acids Res. 39, D152–D157. doi:
+10.1093/nar/gkq1027
+Krichevsky, A. M., King, K. S., Donahue, C. P., Khrapko, K., and Kosik, K. S.
+(2003). A microRNA array reveals extensive regulation of microRNAs during
+brain development. RNA 9, 1274–1281. doi: 10.1261/rna.5980303
+Krol, J., Busskamp, V., Markiewicz, I., Stadler, M. B., Ribi, S., Richter, J.,
+et al. (2010a). Characterizing light-regulated retinal microRNAs reveals rapid
+turnover as a common property of neuronal microRNAs. Cell 141, 618–631. doi:
+10.1016/j.cell.2010.03.039
+Krol, J., Loedige, I., and Filipowicz, W. (2010b). The widespread regulation of
+microRNA biogenesis, function and decay. Nat. Rev. Genet. 11, 597–610. doi:
+10.1038/nrg2843
+
+Frontiers in Cellular Neuroscience
+
+Kruger, R. P., Aurandt, J., and Guan, K. (2005). Semaphorins command cells to
+move. Nat. Rev. Mol. Cell Biol. 6, 789–800. doi: 10.1038/nrm1740
+Kynast, K. L., Russe, O. Q., Möser, C. V., Geisslinger, G., and Niederberger, E.
+(2013). Modulation of central nervous system-speciﬁc microRNA-124a alters the
+inﬂammatory response in the formalin test in mice. Pain 154, 368–376. doi:
+10.1016/j.pain.2012.11.010
+Lagos-Quintana, M., Rauhut, R., Lendeckel, W., and Tuschl, T. (2001). Identiﬁcation
+of novel genes coding for small expressed RNAs. Science 294, 853–858. doi:
+10.1126/science.1064921
+Lagos-Quintana, M., Rauhut, R., Yalcin, A., Meyer, J., Lendeckel, W., and Tuschl, T.
+(2002). Identiﬁcation of tissue-speciﬁc microRNAs from mouse. Curr. Biol. 12,
+735–739. doi: 10.1016/S0960-9822(02)00809-6
+Lambert, T. J., Storm, D. R., and Sullivan, J. M. (2010). MicroRNA132 modulates
+short-term synaptic plasticity but not basal release probability in hippocampal
+neurons. PLoS ONE 5:e15182. doi: 10.1371/journal.pone.0015182
+Landgraf, P., Rusu, M., Sheridan, R., Sewer, A., Iovino, N., Aravin, A., et al. (2007). A
+mammalian microRNA expression atlas based on small RNA library sequencing.
+Cell 129, 1401–1414. doi: 10.1016/j.cell.2007.04.040
+Landry, M., and Hökfelt, T. (1998). Subcellular localization of preprogalanin
+messenger RNA in perikarya and axons of hypothalamo-posthypophyseal magnocellular neurons: an in situ hybridization study. Neuroscience 84, 897–912. doi:
+10.1016/S0306-4522(97)00567-8
+Lau, N. C., Lim, L. P., Weinstein, E. G., and Bartel, D. P. (2001). An abundant class of
+tiny RNAs with probable regulatory roles in Caenorhabditis elegans. Science 294,
+858–862. doi: 10.1126/science.1065062
+Lee, K., Kim, J., Kwon, O., An, K., Ryu, J., Cho, K., et al. (2012). An
+activity-regulated microRNA, miR-188, controls dendritic plasticity and synaptic
+transmission by downregulating neuropilin-2. J. Neurosci. 32, 5678–5687. doi:
+10.1523/JNEUROSCI.6471-11.2012
+Lee, R. C., Feinbaum, R. L., and Ambros, V. (1993). The C. elegans heterochronic
+gene lin-4 encodes small RNAs with antisense complementarity to lin-14. Cell 75,
+843–854. doi: 10.1016/0092-8674(93)90529-Y
+Lee, Y., Ahn, C., Han, J., Choi, H., Kim, J., Yim, J., et al. (2003). The nuclear
+RNase III Drosha initiates microRNA processing. Nature 425, 415–419. doi:
+10.1038/nature01957
+Lee, Y., Kim, M., Han, J., Yeom, K., Lee, S., Baek, S. H., et al. (2004). MicroRNA
+genes are transcribed by RNA polymerase II. EMBO J. 23, 4051–4060. doi:
+10.1038/sj.emboj.7600385
+Leung, A. K. L., Young, A. G., Bhutkar, A., Zheng, G. X., Bosson, A. D., Nielsen, C.
+B., et al. (2011). Genome-wide identiﬁcation of Ago2 binding sites from mouse
+embryonic stem cells with and without mature microRNAs. Nat. Struct. Mol. Biol.
+18, 237–244. doi: 10.1038/nsmb.1991
+Lewis, B. P., Burge, C. B., and Bartel, D. P. (2005). Conserved seed pairing, often
+ﬂanked by adenosines, indicates that thousands of human genes are microRNA
+targets. Cell 120, 15–20. doi: 10.1016/j.cell.2004.12.035
+Li, H., Shen, L., Ma, C., and Huang, Y. (2013). Differential expression of miRNAs in
+the nervous system of a rat model of bilateral sciatic nerve chronic constriction
+injury. Int. J. Mol. Med. 32, 219–226. doi: 10.3892/ijmm.2013.1381
+Li, X., and Jin, P. (2010). Roles of small regulatory RNAs in determining neuronal
+identity. Nat. Rev. Neurosci. 11, 329–338. doi: 10.1038/nrn2739
+Lim, L. P., Lau, N. C., Garrett-Engele, P., Grimson, A., Schelter, J. M., Castle,
+J., et al. (2005). Microarray analysis shows that some microRNAs downregulate
+large numbers of target mRNAs. Nature 433, 769–773. doi: 10.1038/nature03315
+Lippi, G., Steinert, J. R., Marczylo, E. L., D’Oro, S., Fiore, R., Forsythe, I.
+D., et al. (2011). Targeting of the Arpc3 actin nucleation factor by miR29a/b regulates dendritic spine morphology. J. Cell Biol. 194, 889–904. doi:
+10.1083/jcb.201103006
+Liu, J., Rivas, F. V., Wohlschlegel, J., Yates JR3, Parker, R., and Hannon, G. J. (2005).
+A role for the P-body component GW182 in microRNA function. Nat. Cell Biol.
+7, 1261–1266. doi: 10.1038/ncb1333
+Liu, N., Wang, X., Lu, Q., and Xu, X. (2009). Altered microRNA expression following traumatic spinal cord injury. Exp. Neurol. 219, 424–429. doi:
+10.1016/j.expneurol.2009.06.015
+Lonze, B. E., and Ginty, D. D. (2002). Function and regulation of CREB family transcription factors in the nervous system. Neuron 35, 605–623. doi:
+10.1016/S0896-6273(02)00828-0
+Lugli, G., Larson, J., Martone, M. E., Jones, Y., and Smalheiser, N. R. (2005). Dicer
+and eIF2c are enriched at postsynaptic densities in adult mouse brain and are
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 12
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+modiﬁed by neuronal activity in a calpain-dependent manner. J. Neurochem. 94,
+896–905. doi: 10.1111/j.1471-4159.2005.03224.x
+Lund, E., Güttinger, S., Calado, A., Dahlberg, J. E., and Kutay, U. (2004).
+Nuclear export of microRNA precursors. Science 303, 95–98. doi: 10.1126/science.1090599
+Lytle, J. R., Yario, T. A., and Steitz, J. A. (2007). Target mRNAs are repressed
+as efﬁciently by microRNA-binding sites in the 5 UTR as in the 3 UTR.
+Proc. Natl. Acad. Sci. U.S.A. 104, 9667–9672. doi: 10.1073/pnas.07038
+20104
+Magill, S. T., Cambronne, X. A., Luikart, B. W., Lioy, D. T., Leighton,
+B. H., Westbrook, G. L., et al. (2010). microRNA-132 regulates dendritic
+growth and arborization of newborn neurons in the adult hippocampus.
+Proc. Natl. Acad. Sci. U.S.A. 107, 20382–20387. doi: 10.1073/pnas.10156
+91107
+Martin, K. C., and Kosik, K. S. (2002). Synaptic tagging – who’s it? Nat. Rev. Neurosci.
+3, 813–820. doi: 10.1038/nrn942
+Matthews, E. A., and Dickenson, A. H. (2001). Effects of ethosuximide, a Ttype Ca(2+) channel blocker, on dorsal horn neuronal responses in rats. Eur.
+J. Pharmacol. 415, 141–149. doi: 10.1016/S0014-2999(01)00812-3
+Mellios, N., Sugihara, H., Castro, J., Banerjee, A., Le, C., Kumar, A., et al. (2011). miR132, an experience-dependent microRNA, is essential for visual cortex plasticity.
+Nat. Neurosci. 14, 1240–1242. doi: 10.1038/nn.2909
+Memczak, S., Jens, M., Elefsinioti, A., Torti, F., Krueger, J., Rybak, A., et al. (2013).
+Circular RNAs are a large class of animal RNAs with regulatory potency. Nature
+495, 333–338. doi: 10.1038/nature11928
+Merighi, A., Salio, C., Ghirri, A., Lossi, L., Ferrini, F., Betelli, C., et al.
+(2008). BDNF as a pain modulator. Prog. Neurobiol. 85, 297–317. doi:
+10.1016/j.pneurobio.2008.04.004
+Mootz, D., Ho, D. M., and Hunter, C. P. (2004). The STAR/Maxi-KH domain protein
+GLD-1 mediates a developmental switch in the translational control of C. elegans
+PAL-1. Development 131, 3263–3272. doi: 10.1242/dev.01196
+Morlando, M., Ballarino, M., Gromak, N., Pagano, F., Bozzoni, I., and Proudfoot, N.
+J. (2008). Primary microRNA transcripts are processed co-transcriptionally. Nat.
+Struct. Mol. Biol. 15, 902–909. doi: 10.1038/nsmb.1475
+Mourelatos, Z., Dostie, J., Paushkin, S., Sharma, A., Charroux, B., Abel, L.,
+et al. (2002). miRNPs: a novel class of ribonucleoproteins containing numerous
+microRNAs. Genes Dev. 16, 720–728. doi: 10.1101/gad.974702
+Nelson, S. B., and Turrigiano, G. G. (2008). Strength through diversity. Neuron 60,
+477–482. doi: 10.1016/j.neuron.2008.10.020
+Nielsen, C. B., Shomron, N., Sandberg, R., Hornstein, E., Kitzman, J., and Burge, C.
+B. (2007). Determinants of targeting by endogenous and exogenous microRNAs
+and siRNAs. RNA 13, 1894–1910. doi: 10.1261/rna.768207
+Nilsen, T. W. (2007). Mechanisms of microRNA-mediated gene regulation in animal
+cells. Trends Genet. 23, 243–249. doi: 10.1016/j.tig.2007.02.011
+Nomura, T., Kimura, M., Horii, T., Morita, S., Soejima, H., Kudo, S., et al.
+(2008). MeCP2-dependent repression of an imprinted miR-184 released by
+depolarization. Hum. Mol. Genet. 17, 1192–1199. doi: 10.1093/hmg/ddn011
+Nottrott, S., Simard, M. J., and Richter, J. D. (2006). Human let-7a miRNA blocks
+protein production on actively translating polyribosomes. Nat. Struct. Mol. Biol.
+13, 1108–1114. doi: 10.1038/nsmb1173
+O’Carroll, D., and Schaefer, A. (2013). General principals of miRNA biogenesis and regulation in the brain. Neuropsychopharmacology 38, 39–54. doi:
+10.1038/npp.2012.87
+Okamura, K., Hagen, J. W., Duan, H., Tyler, D. M., and Lai, E. C. (2007). The
+mirtron pathway generates microRNA-class regulatory RNAs in Drosophila. Cell
+130, 89–100. doi: 10.1016/j.cell.2007.06.028
+Olsen, L., Klausen, M., Helboe, L., Nielsen, F. C., and Werge, T. (2009). MicroRNAs
+show mutually exclusive expression patterns in the brain of adult male rats. PLoS
+ONE 4:e7225. doi: 10.1371/journal.pone.0007225
+Orlova, I. A., Alexander, G. M., Qureshi, R. A., Sacan, A., Graziano, A., Barrett, J.
+E., et al. (2011). MicroRNA modulation in complex regional pain syndrome. J.
+Transl. Med. 9, 195. doi: 10.1186/1479-5876-9-195
+Ostroff, L. E., Fiala, J. C., Allwardt, B., and Harris, K. M. (2002). Polyribosomes
+redistribute from dendritic shafts into spines with enlarged synapses during LTP
+in developing rat hippocampal slices. Neuron 35, 535–545. doi: 10.1016/S08966273(02)00785-7
+Parker, R., and Sheth, U. (2007). P bodies and the control of mRNA translation and
+degradation. Mol. Cell 25, 635–646. doi: 10.1016/j.molcel.2007.02.011
+
+Frontiers in Cellular Neuroscience
+
+Pasquinelli, A. E. (2012). MicroRNAs and their targets: recognition, regulation
+and an emerging reciprocal relationship. Nat. Rev. Genet. 13, 271–282. doi:
+10.1038/nrg3162.
+Pathania, M., Torres-Reveron, J., Yan, L., Kimura, T., Lin, T. V., Gordon, V., et al.
+(2012). miR-132 enhances dendritic morphogenesis, spine density, synaptic integration, and survival of newborn olfactory bulb neurons. PLoS ONE 7:e38174.
+doi: 10.1371/journal.pone.0038174
+Petersen, C. P., Bordeleau, M., Pelletier, J., and Sharp, P. A. (2006). Short RNAs
+repress translation after initiation in mammalian cells. Mol. Cell 21, 533–542.
+doi: 10.1016/j.molcel.2006.01.031
+Pichardo-Casas, I., Goff, L. A., Swerdel, M. R., Athie, A., Davila, J., Ramos-Brossier,
+M., et al. (2012). Expression proﬁling of synaptic microRNAs from the adult rat
+brain identiﬁes regional differences and seizure-induced dynamic modulation.
+Brain Res. 1436, 20–33. doi: 10.1016/j.brainres.2011.12.001
+Pillai, R. S., Bhattacharyya, S. N., Artus, C. G., Zoller, T., Cougot, N.,
+Basyuk, E., et al. (2005). Inhibition of translational initiation by Let-7
+MicroRNA in human cells. Science 309, 1573–1576. doi: 10.1126/science.
+1115079
+Pillai, R. S., Bhattacharyya, S. N., and Filipowicz, W. (2007). Repression of protein
+synthesis by miRNAs: how many mechanisms? Trends Cell Biol. 17, 118–126. doi:
+10.1016/j.tcb.2006.12.007
+Rajasethupathy, P., Fiumara, F., Sheridan, R., Betel, D., Puthanveettil, S. V., Russo,
+J. J., et al. (2009). Characterization of small RNAs in Aplysia reveals a role for
+miR-124 in constraining synaptic plasticity through CREB. Neuron 63, 803–817.
+doi: 10.1016/j.neuron.2009.05.029
+Ramachandran, V., and Chen, X. (2008). Degradation of microRNAs by a family
+of exoribonucleases in Arabidopsis. Science 321, 1490–1492. doi: 10.1126/science.1163728
+Rehwinkel, J., Behm-Ansmant, I., Gatﬁeld, D., and Izaurralde, E. (2005). A crucial
+role for GW182 and the DCP1:DCP2 decapping complex in miRNA-mediated
+gene silencing. RNA 11, 1640–1647. doi: 10.1261/rna.2191905
+Reyes-Herrera, P. H., and Ficarra, E. (2012). One decade of development and
+evolution of microRNA target prediction algorithms. Genomics Proteomics
+Bioinformatics 10, 254–263. doi: 10.1016/j.gpb.2012.10.001
+Rhoades, M. W., Reinhart, B. J., Lim, L. P., Burge, C. B., Bartel, B., and Bartel,
+D. P. (2002). Prediction of plant microRNA targets. Cell 110, 513–520. doi:
+10.1016/S0092-8674(02)00863-2
+Rodriguez, A., Grifﬁths-Jones, S., Ashurst, J. L., and Bradley, A. (2004). Identiﬁcation
+of mammalian microRNA host genes and transcription units. Genome Res. 14,
+1902–1910. doi: 10.1101/gr.2722704
+Ruby, J. G., Jan, C. H., and Bartel, D. P. (2007a). Intronic microRNA precursors that
+bypass Drosha processing. Nature 448, 83–86. doi: 10.1038/nature05983
+Ruby, J. G., Stark, A., Johnston, W. K., Kellis, M., Bartel, D. P., and Lai, E. C.
+(2007b). Evolution, biogenesis, expression, and target predictions of a substantially expanded set of Drosophila microRNAs. Genome Res. 17, 1850–1864. doi:
+10.1101/gr.6597907
+Rüegsegger, U., Leber, J. H., and Walter, P. (2001). Block of HAC1 mRNA
+translation by long-range base pairing is released by cytoplasmic splicing
+upon induction of the unfolded protein response. Cell 107, 103–114. doi:
+10.1016/S0092-8674(01)00505-0
+Saba, R., Störchel, P. H., Aksoy-Aksel, A., Kepura, F., Lippi, G., Plant, T. D.,
+et al. (2012). Dopamine-regulated microRNA miR-181a controls GluA2 surface expression in hippocampal neurons. Mol. Cell. Biol. 32, 619–632. doi:
+10.1128/MCB.05896-11
+Saetrom, P., Heale, B. S. E., Snøve, O. J., Aagaard, L., Alluin, J., and Rossi,
+J. J. (2007). Distance constraints between microRNA target sites dictate efﬁcacy and cooperativity. Nucleic Acids Res. 35, 2333–2342. doi: 10.1093/nar/
+gkm133
+Sakai, A., Saitow, F., Miyake, N., Miyake, K., Shimada, T., and Suzuki, H. (2013).
+miR-7a alleviates the maintenance of neuropathic pain through regulation of
+neuronal excitability. Brain 136(Pt 9), 2738–2750. doi: 10.1093/brain/awt191
+Salta, E., and De Strooper, B. (2012). Non-coding RNAs with essential roles in
+neurodegenerative disorders. Lancet Neurol. 11, 189–200. doi: 10.1016/S14744422(11)70286-1
+Sanger, H. L., Klotz, G., Riesner, D., Gross, H. J., and Kleinschmidt, A. K. (1976).
+Viroids are single-stranded covalently closed circular RNA molecules existing as
+highly base-paired rod-like structures. Proc. Natl. Acad. Sci. U.S.A. 73, 3852–3856.
+doi: 10.1073/pnas.73.11.3852
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 13
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+Schaefer, A., Im, H., Venø, M. T., Fowler, C. D., Min, A., Intrator, A.,
+et al. (2010). Argonaute 2 in dopamine 2 receptor-expressing neurons regulates cocaine addiction. J. Exp. Med. 207, 1843–1851. doi: 10.1084/jem.201
+00451
+Schratt, G. M., Tuebing, F., Nigh, E. A., Kane, C. G., Sabatini, M. E., Kiebler, M.,
+et al. (2006). A brain-speciﬁc microRNA regulates dendritic spine development.
+Nature 439, 283–289. doi: 10.1038/nature04367
+Schwarz, D. S., Hutvágner, G., Du, T., Xu, Z., Aronin, N., and Zamore, P. D. (2003).
+Asymmetry in the assembly of the RNAi enzyme complex. Cell 115, 199–208. doi:
+10.1016/S0092-8674(03)00759-1
+Scott, H. L., Tamagnini, F., Narduzzo, K. E., Howarth, J. L., Lee, Y., Wong, L., et al.
+(2012). MicroRNA-132 regulates recognition memory and synaptic plasticity
+in the perirhinal cortex. Eur. J. Neurosci. 36, 2941–2948. doi: 10.1111/j.14609568.2012.08220.x
+Selbach, M., Schwanhäusser, B., Thierfelder, N., Fang, Z., Khanin, R., and Rajewsky, N. (2008). Widespread changes in protein synthesis induced by microRNAs.
+Nature 455, 58–63. doi: 10.1038/nature07228
+Sempere, L. F., Freemantle, S., Pitha-Rowe, I., Moss, E., Dmitrovsky, E., and Ambros,
+V. (2004). Expression proﬁling of mammalian microRNAs uncovers a subset of
+brain-expressed microRNAs with possible roles in murine and human neuronal
+differentiation. Genome Biol. 5, R13. doi: 10.1186/gb-2004-5-3-r13
+Sengupta, J. N., Pochiraju, S., Kannampalli, P., Bruckert, M., Addya, S., Yadav, P.,
+et al. (2013). MicroRNA-mediated GABAAα−1 receptor subunit down-regulation
+in adult spinal cord following neonatal cystitis-induced chronic visceral pain in
+rats. Pain 154, 59–70. doi: 10.1016/j.pain.2012.09.002
+Shukla, G. C., Singh, J., and Barik, S. (2011). MicroRNAs: processing, maturation, target recognition and regulatory functions. Mol. Cell. Pharmacol. 3,
+83–92.
+Smalheiser, N. R., Lugli, G., Torvik, V. I., Mise, N., Ikeda, R., and Abe, K.
+(2008). Natural antisense transcripts are co-expressed with sense mRNAs in
+synaptoneurosomes of adult mouse forebrain. Neurosci. Res. 62, 236–239. doi:
+10.1016/j.neures.2008.08.010
+Spruston, N. (2008). Pyramidal neurons: dendritic structure and synaptic integration. Nat. Rev. Neurosci. 9, 206–221. doi: 10.1038/nrn2286
+Standart, N., and Jackson, R. J. (2007). MicroRNAs repress translation of
+m7Gppp-capped target mRNAs in vitro by inhibiting initiation and promoting
+deadenylation. Genes Dev. 21, 1975–1982. doi: 10.1101/gad.1591507
+Steward, O., and Levy, W. B. (1982). Preferential localization of polyribosomes under
+the base of dendritic spines in granule cells of the dentate gyrus. J. Neurosci. 2,
+284–291.
+Steward, O., and Schuman, E. M. (2001). Protein synthesis at synaptic sites on
+dendrites. Annu. Rev. Neurosci. 24, 299–325. doi: 10.1146/annurev.neuro.24.1.299
+Sun, A. X., Crabtree, G. R., and Yoo, A. S. (2013). MicroRNAs: regulators of neuronal
+fate. Curr. Opin. Cell Biol. 25, 215–221. doi: 10.1016/j.ceb.2012.12.007
+Sutton, M. A., and Schuman, E. M. (2006). Dendritic protein synthesis, synaptic
+plasticity, and memory. Cell 127, 49–58. doi: 10.1016/j.cell.2006.09.014
+Taniguchi, S., Liu, H., Nakazawa, T., Yokoyama, K., Tezuka, T., and Yamamoto,
+T. (2003). p250GAP, a neural RhoGAP protein, is associated with and phosphorylated by Fyn. Biochem. Biophys. Res. Commun. 306, 151–155. doi:
+10.1016/S0006-291X(03)00923-9
+Thermann, R., and Hentze, M. W. (2007). Drosophila miR2 induces pseudopolysomes and inhibits translation initiation. Nature 447, 875–878. doi:
+10.1038/nature05878
+Tognini, P., and Pizzorusso, T. (2012). MicroRNA212/132 family: molecular transducer of neuronal function and plasticity. Int. J. Biochem. Cell Biol. 44, 6–10. doi:
+10.1016/j.biocel.2011.10.015
+Tognini, P., Putignano, E., Coatti, A., and Pizzorusso, T. (2011). Experiencedependent expression of miR-132 regulates ocular dominance plasticity. Nat.
+Neurosci. 14, 1237–1239. doi: 10.1038/nn.2920
+Torre, E. R., and Steward, O. (1992). Demonstration of local protein synthesis within
+dendrites using a new cell culture system that permits the isolation of living axons
+and dendrites from their cell bodies. J. Neurosci. 12, 762–772.
+Trembleau, A., Morales, M., and Bloom, F. E. (1994). Aggregation of vasopressin
+mRNA in a subset of axonal swellings of the median eminence and posterior
+pituitary: light and electron microscopic evidence. J. Neurosci. 14, 39–53.
+Valencia-Sanchez, M. A., Liu, J., Hannon, G. J., and Parker, R. (2006). Control
+of translation and mRNA degradation by miRNAs and siRNAs. Genes Dev. 20,
+515–524. doi: 10.1101/gad.1399806
+
+Frontiers in Cellular Neuroscience
+
+Vanelderen, P., Rouwette, T., Kozicz, T., Roubos, E., Van Zundert, J., Heylen, R.,
+et al. (2010). The role of brain-derived neurotrophic factor in different animal
+models of neuropathic pain. Eur. J. Pain 14, 473.e1–e9. doi: 10.1016/j.ejpain.2009.
+09.006
+Vo, N., Klein, M. E., Varlamova, O., Keller, D. M., Yamamoto, T., Goodman, R.
+H., et al. (2005). A cAMP-response element binding protein-induced microRNA
+regulates neuronal morphogenesis. Proc. Natl. Acad. Sci. U.S.A. 102, 16426–
+16431. doi: 10.1073/pnas.0508448102
+von Schack, D., Agostino, M. J., Murray, B. S., Li, Y., Reddy, P. S.,
+Chen, J., et al. (2011). Dynamic changes in the microRNA expression
+proﬁle reveal multiple regulatory mechanisms in the spinal nerve ligation
+model of neuropathic pain. PLoS ONE 6:e17670. doi: 10.1371/journal.pone.
+0017670
+Wakiyama, M., Takimoto, K., Ohara, O., and Yokoyama, S. (2007). Let-7
+microRNA-mediated mRNA deadenylation and translational repression in a
+mammalian cell-free system. Genes Dev. 21, 1857–1862. doi: 10.1101/gad.
+1566707
+Wayman, G. A., Davare, M., Ando, H., Fortin, D., Varlamova, O., Cheng, H. M.,
+et al. (2008). An activity-regulated microRNA controls dendritic plasticity by
+down-regulating p250GAP. Proc. Natl. Acad. Sci. U.S.A. 105, 9093–9098. doi:
+10.1073/pnas.0803072105
+Wells, D. G. (2012). mRNA translation: regulating an out of soma experience. Curr. Opin. Cell Biol. 24, 554–557. doi: 10.1016/j.ceb.2012.
+06.005
+Wibrand, K., Panja, D., Tiron, A., Ofte, M. L., Skaftnesmo, K. O., Lee, C. S., et al.
+(2010). Differential regulation of mature and precursor microRNA expression
+by NMDA and metabotropic glutamate receptor activation during LTP in the
+adult dentate gyrus in vivo. Eur. J. Neurosci. 31, 636–645. doi: 10.1111/j.14609568.2010.07112.x
+Wightman, B., Ha, I., and Ruvkun, G. (1993). Posttranscriptional regulation of the heterochronic gene lin-14 by lin-4 mediates temporal pattern
+formation in C. elegans. Cell 75, 855–862. doi: 10.1016/0092-8674(93)
+90530-4
+Willemen, H. L. D. M., Huo, X., Mao-Ying, Q., Zijlstra, J., Heijnen, C.
+J., and Kavelaars, A. (2012). MicroRNA-124 as a novel treatment for persistent hyperalgesia. J. Neuroinﬂammation 9, 143. doi: 10.1186/1742-20949-143
+Wu, D., Raafat, M., Pak, E., Hammond, S., and Murashov, A. K. (2011).
+MicroRNA machinery responds to peripheral nerve lesion in an injuryregulated pattern. Neuroscience 190, 386–397. doi: 10.1016/j.neuroscience.2011.
+06.017
+Yang, Y., Shu, X., Liu, D., Shang, Y., Wu, Y., Pei, L., et al. (2012). EPAC null mutation
+impairs learning and social interactions via aberrant regulation of miR-124 and
+Zif268 translation. Neuron 73, 774–788. doi: 10.1016/j.neuron.2012.02.003
+Yekta, S., Shih, I., and Bartel, D. P. (2004). MicroRNA-directed cleavage of HOXB8
+mRNA. Science 304, 594–596. doi: 10.1126/science.1097434
+Yi, R., Qin, Y., Macara, I. G., and Cullen, B. R. (2003). Exportin-5 mediates the
+nuclear export of pre-microRNAs and short hairpin RNAs. Genes Dev. 17, 3011–
+3016. doi: 10.1101/gad.1158803
+Yoo, A. S., Staahl, B. T., Chen, L., and Crabtree, G. R. (2009). MicroRNA-mediated
+switching of chromatin-remodelling complexes in neural development. Nature
+460, 642–646. doi: 10.1038/nature08139
+Zdanowicz, A., Thermann, R., Kowalska, J., Jemielity, J., Duncan, K., Preiss, T.,
+et al. (2009). Drosophila miR2 primarily targets the m7GpppN cap structure
+for translational repression. Mol. Cell 35, 881–888. doi: 10.1016/j.molcel.2009.
+09.009
+Zhao, C., Ma, H., Bossy-Wetzel, E., Lipton, S. A., Zhang, Z., and Feng, G. (2003).
+GC-GAP, a Rho family GTPase-activating protein that interacts with signaling
+adapters Gab1 and Gab2. J. Biol. Chem. 278, 34641–34653. doi: 10.1074/jbc.M304
+594200
+Zhao, J., Lee, M. C., Momin, A., Cendan, C. M., Shepherd, S. T., Baker,
+M. D., et al. (2010). Small RNAs control sodium channel expression, nociceptor excitability, and pain thresholds. J. Neurosci. 30, 10860–10871. doi:
+10.1523/JNEUROSCI.1980-10.2010
+Conflict of Interest Statement: The authors declare that the research was conducted
+in the absence of any commercial or ﬁnancial relationships that could be construed
+as a potential conﬂict of interest.
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 14
+
+Elramah et al.
+
+MicroRNAs, plasticity, pain
+
+Received: 30 September 2013; accepted: 22 January 2014; published online: 11 February
+2014.
+Citation: Elramah S, Landry M and Favereaux A (2014) MicroRNAs regulate neuronal plasticity and are involved in pain mechanisms. Front. Cell. Neurosci. 8:31. doi:
+10.3389/fncel.2014.00031
+This article was submitted to the journal Frontiers in Cellular Neuroscience.
+
+Frontiers in Cellular Neuroscience
+
+Copyright © 2014 Elramah, Landry and Favereaux. This is an open-access article
+distributed under the terms of the Creative Commons Attribution License (CC BY).
+The use, distribution or reproduction in other forums is permitted, provided the original
+author(s) or licensor are credited and that the original publication in this journal is cited,
+in accordance with accepted academic practice. No use, distribution or reproduction is
+permitted which does not comply with these terms.
+
+www.frontiersin.org
+
+February 2014 | Volume 8 | Article 31 | 15
+
+

@@ -1,0 +1,2737 @@
+ARTICLE
+
+doi:10.1038/nature13163
+
+REST and stress resistance in ageing and
+Alzheimer’s disease
+Tao Lu1, Liviu Aron1, Joseph Zullo1, Ying Pan1, Haeyoung Kim1, Yiwen Chen2, Tun-Hsiang Yang1, Hyun-Min Kim1, Derek Drake1,
+X. Shirley Liu2, David A. Bennett3, Monica P. Colaiácovo1 & Bruce A. Yankner1
+
+Human neurons are functional over an entire lifetime, yet the mechanisms that preserve function and protect against
+neurodegeneration during ageing are unknown. Here we show that induction of the repressor element 1-silencing transcription factor (REST; also known as neuron-restrictive silencer factor, NRSF) is a universal feature of normal ageing in
+human cortical and hippocampal neurons. REST is lost, however, in mild cognitive impairment and Alzheimer’s disease.
+Chromatin immunoprecipitation with deep sequencing and expression analysis show that REST represses genes that
+promote cell death and Alzheimer’s disease pathology, and induces the expression of stress response genes. Moreover,
+REST potently protects neurons from oxidative stress and amyloid b-protein toxicity, and conditional deletion of REST
+in the mouse brain leads to age-related neurodegeneration. A functional orthologue of REST, Caenorhabditis elegans
+SPR-4, also protects against oxidative stress and amyloid b-protein toxicity. During normal ageing, REST is induced in
+part by cell non-autonomous Wnt signalling. However, in Alzheimer’s disease, frontotemporal dementia and dementia
+with Lewy bodies, REST is lost from the nucleus and appears in autophagosomes together with pathological misfolded
+proteins. Finally, REST levels during ageing are closely correlated with cognitive preservation and longevity. Thus, the
+activation state of REST may distinguish neuroprotection from neurodegeneration in the ageing brain.
+
+The preservation of cognitive function during ageing has emerged as
+one of the major medical challenges of the 21st century. A fundamental question is why some individuals age with their cognitive function
+relatively intact whereas others decline and develop Alzheimer’s disease (AD). Early studies suggested that neuronal loss was an integral
+feature of the ageing brain. With the advent of stereological neuronal
+quantification, however, it became clear that neuronal cell number is
+largely preserved in the neocortex and hippocampus of the ageing human
+brain, declining only in the setting of neurodegenerative disease1–3.
+Robust stress-response mechanisms must have evolved, therefore, to
+preserve neurons and cognitive function across an entire lifespan4,5.
+REST is a repressor of neuronal genes during embryonic development that is downregulated once terminal neuronal differentiation has
+occurred6–8. Here we show that REST is induced in the ageing human
+brain and regulates a network of genes that mediate cell death, stress
+resistance and AD pathology. This gene network becomes dysregulated
+at early stages of AD when REST is lost from the nucleus. Conditional
+REST knockout mice and C. elegans models suggest that REST protects
+neurons from age-related toxic insults. In ageing humans, elevated REST
+levels are associated with preservation of cognitive function and increased
+longevity, even in the presence of AD pathology. Hence, REST regulates a neuroprotective stress response that may be central to cognitive
+preservation during ageing.
+
+REST is induced in the ageing brain and declines in AD
+Transcriptional profiling has demonstrated significant changes in the
+expression of neuronal genes in the prefrontal cortex of ageing humans9,10.
+Analysis of this data set using the Ingenuity Systems IPA platform indicates that the transcription factor most strongly predicted to be activated
+in the ageing brain is REST (P 5 9 3 10210). Moreover, the 21-base-pair
+canonical RE1 recognition motif for REST is highly enriched in the
+age-downregulated gene set (P 5 3 3 1027) (Fig. 1a).
+
+To explore the role of REST in the ageing brain, we measured REST
+levels in extracts of prefrontal cortex (PFC) from young adult (20–35
+years) and aged (73–106 years) individuals without AD. REST expression was significantly increased in the ageing human PFC at both the
+messenger RNA and protein levels, as determined by quantitative PCR
+with reverse transcription (qRT–PCR) and western blotting (Fig. 1b, c).
+Full-length REST was markedly increased; the truncated splice variant
+REST4 was a minor component, comprising 0.1–0.5% of REST mRNA.
+Immunofluorescence microscopy using three different antibodies against
+the amino- or carboxy-terminal domains of REST showed a striking
+induction of REST in the nucleus of ageing neurons in the PFC and
+hippocampus (Fig. 1d, e and Extended Data Fig. 1). Much lower levels
+of REST were detected in microglial cells and astrocytes (data not shown).
+REST antibody specificity was indicated by ablation of immunoreactivity
+after antibody preabsorption with a REST blocking peptide, absence of
+immunoreactivity with matched nonspecific IgG, and loss of immunoreactivity after shRNA-mediated REST knockdown in neural SHSY5Y cells (Extended Data Fig. 1b, c).
+We then investigated whether induction of REST in ageing neurons
+leads to increased REST–RE1 site binding. To assess REST targeting
+specifically in neurons, we isolated neuronal nuclei from the PFC by
+fluorescence-activated cell sorting (FACS) of NeuN-positive nuclei5
+(Methods). Chromatin immunoprecipitation (ChIP)-PCR analysis
+showed a marked induction of REST binding to canonical RE1 motifs
+in REST target genes in the aged PFC (Fig. 1f). These results indicate
+that REST expression and function is increased in ageing neurons.
+We next examined REST in ageing individuals with mild cognitive
+impairment (MCI) or AD. REST was almost absent from the nucleus
+of cortical and hippocampal neurons in AD (Fig. 1d and Extended Data
+Fig. 1a, d). Punctate cytoplasmic REST immunoreactivity was detected
+in some AD neurons, but was not detectable in other neurons (Fig. 1d).
+Loss of nuclear REST was confirmed by quantitative immunocytochemical
+
+1
+Department of Genetics, Harvard Medical School, Boston, Massachusetts 02115, USA. 2Department of Biostatistics and Computational Biology, Dana-Faber Cancer Institute and Harvard School of Public
+Health, Boston, Massachusetts 02115, USA. 3Rush Alzheimer’s Disease Center, Rush University Medical Center, Chicago, Illinois 60612, USA.
+
+4 4 8 | N AT U R E | VO L 5 0 7 | 2 7 M A R C H 2 0 1 4
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+a
+
+<40 yr
+
+40–70 yr
+
+70–90 yr
+
+90–106 yr
+
+c
+
+Young
+
+d
+
+AD
+
+Aged
+
+Aged
+
+kDa
+
+REST
+β-actin
+
+36
+
+REST (fold)
+
+3
+2
+1
+0
+
+Young Aged
+
+e
+
+8
+6
+4
+
+Primer-1 P < 0.05
+Primer-2 P < 0.01
+Primer-3* P < 0.01
+Primer-4 P < 0.01
+
+140
+36
+16
+
+Nuc REST (fold)
+
+0
+
+0
+
+**
+
+2
+1
+
+Aged
+
+REST
+DAPI
+MAP2
+
+REST
+DAPI
+
+REST
+DAPI
+MAP2
+
+0
+Young Aged
+
+MCI
+
+AD
+
+AD
+
+Young
+
+Aged
+
+AD
+
+Young
+
+Aged
+
+AD
+
+GRIN2A
+Input
+Young
+
+24 25 25 26 27 29 71 76 80 88 95 95
+
+Age (yr)
+
+***
+
+REST ChIP
+
+GABRG2
+Input
+
+2
+
+REST
+DAPI
+
+***
+
+3
+
+AD
+
+f
+Aged
+
+REST
+DAPI
+MAP2
+
+FACS
+
+2
+
+Young
+
+REST
+DAPI
+
+kDa
+
+Cyt REST
+GAPDH
+H3
+
+4
+
+Young Aged MCI
+
+AD
+
+140
+16
+36
+
+Imaging
+***
+***
+**
+*
+Nuc REST (fold)
+
+REST
+
+AD
+
+Aged
+
+Nuc REST
+H3
+GAPDH
+
+AD
+
+ATP2B2
+Input
+
+AD
+
+REST mRNA (fold)
+
+b
+
+Fractionation
+Y
+
+**
+
+AD
+
+**
+
+REST
+DAPI
+MAP2
+
+Aged
+
+Western blots
+4
+
+REST
+DAPI
+
+Young
+
+140
+
+SST
+Input
+
+Figure 1 | Induction of REST in the ageing human prefrontal cortex.
+a, Hierarchical cluster analysis of predicted REST targets, based on the presence
+of the canonical RE1 motif29, shows relatively high expression in young adults
+(red) and lower expression (blue) in the ageing population. Each lane
+represents an individual prefrontal cortical brain sample. b, qRT–PCR shows
+age-dependent induction of REST mRNA in the PFC. Values represent the
+mean 6 s.d., n 5 3. Shown are P values indicating significance for the mean
+of aged (71–95 years) versus young (24–29 years) cases for each primer.
+c, Age-dependent increase in total REST protein level in the PFC of controls
+but not AD patients. REST levels were also measured in isolated nuclear
+(Nuc REST; lower right panel, upper blot) and cytoplasmic (Cyt REST; lower
+
+right panel, lower blot) fractions. Each lane represents an individual case.
+Young, n 5 12; Aged, n 5 15; AD, n 5 10. d, Confocal immunofluorescence
+labelling for REST (green), the neuronal marker MAP2 (red) and DNA (DAPI,
+blue) in the PFC of young adult, aged and AD cases. Scale bar, 25 mm.
+e, Quantitative analysis of nuclear REST levels by in situ imaging (left panel:
+Young, n 5 11; Aged, n 5 77; AD, n 5 72; MCI 5 11) or FACS analysis of
+isolated PFC neuronal nuclei (right panel: Young, n 5 11; Aged, n 5 22; AD,
+n 5 11; MCI n 5 12). For c and e, values are expressed as fold change relative to
+the young adult group, and represent the mean 6 s.e.m. *P , 0.05, **P , 0.01,
+***P , 0.001 by Student’s unpaired t-test. f, ChIP analysis shows induction
+of REST–RE1 site binding in normal ageing PFC neurons but not in AD.
+
+analysis of 77 cases of sporadic AD compared with 72 age-matched
+cognitively intact controls, and confirmed by FACS analysis of neuronal
+nuclei in a subset of cases (Fig. 1e). In 23 out of 24 cases of amnestic
+MCI, nuclear REST levels were reduced relative to the mean of aged
+controls (Fig. 1e). A survey of brain regions showed significantly reduced
+nuclear REST levels in affected neuronal populations in AD, including
+prefrontal cortical neurons, and neurons of the CA1, CA3 and CA4 subfields of the hippocampus (Extended Data Fig. 1a, d). In contrast, nuclear
+REST was not reduced in neurons of the dentate gyrus and cerebellum, which are relatively unaffected in AD (Extended Data Fig. 1a, d).
+Reduced REST levels in AD were confirmed by western blotting of prefrontal cortical grey matter samples, as well as isolated cortical nuclei
+(Fig. 1c, upper and far right panels, respectively). Furthermore, ChIPPCR analysis of neuronal nuclei showed significantly reduced or absent
+REST–RE1 site binding in AD relative to normal ageing controls (Figs 1f
+and 2a). Thus, REST is induced during normal brain ageing, but is
+markedly reduced in AD in vulnerable neuronal populations.
+
+p38 MAP kinase (MAPK11), FAS, FADD, TRADD, BAX, BID, DAXX,
+PUMA (also known as BBC3), the mitochondrial permeability transition pore ANT1 (also known as SLC25A4) and cytochrome C. REST targets related to the pathology of AD include the genes coding for gamma
+secretase complex members presenilin 2 and presenilin enhancer 2 implicated in amyloid b-protein (Ab) generation, and CDK5R1 (also known
+as p35), CDK5R2 (also known as p39), p38 MAP kinase (also known as
+MAPK11, 12 and 14) and 14-3-3 zeta (also known as YWHAZ) implicated in tau (also known as MAPT) phosphorylation. REST repressed
+the expression of these genes in SH-SY5Y cells (Extended Data Fig. 3a, b),
+and strongly inhibited tau phosphorylation at the AT8 and PHF1 epitopes associated with AD (Extended Data Fig. 3c).
+We next examined the regulation of these REST target genes in the
+normal ageing brain and AD. To distinguish effects at different stages
+of cognitive decline, we stratified the AD population for least severe
+(AD1; Mini Mental State Examination (MMSE) score . 18) and most
+severe (AD2; MMSE score , 8). REST targets related to cell death and
+AD pathology showed reduced REST binding and elevated mRNA
+expression at both stages of AD (Fig. 2a, b). REST target genes related
+to neurotransmission, however, showed elevated mRNA expression
+in early stage AD1, but reduced expression in later stage AD2 (Fig. 2b).
+Regression analysis of protein levels showed that nuclear REST is inversely
+correlated with levels of pro-apoptotic (BAX and DAXX) and AD-related
+(presenilin 2) proteins in normal ageing and AD neurons (Fig. 2c, d).
+This was also observed for REST targets associated with neurotransmission (SST and CALB1) during normal ageing and early stage AD1,
+but not in late stage AD2 (Fig. 2c). The activation-associated histone
+modification H3K9ac, which is typically reduced by REST, was globally downregulated in normal ageing PFC neurons (Fig. 2e) and was
+inversely correlated with REST levels (Fig. 2c, d). In contrast, neuronal
+
+REST represses genes involved in cell death and AD
+To obtain greater insight into the functional consequences of REST
+induction in the ageing brain, we explored REST targets by chromatin
+immunoprecipitation and deep sequencing (ChIP-seq) in the neural
+cell line SH-SY5Y. REST binding to a subset of the identified target
+genes was confirmed by ChIP-qPCR (Extended Data Fig. 2). REST ChIPseq sites were significantly enriched among age-regulated genes in human
+PFC (P 5 1.65 3 10212), and were predominantly downregulated from
+the third to the tenth decades of life (Extended Data Fig. 2a). Pathway
+analysis of the ChIP-seq database showed a highly significant enrichment for genes in cell death pathways and genes that are associated
+with AD/dementia (Extended Data Fig. 2b, c). Cell death genes include
+
+2 7 M A R C H 2 0 1 4 | VO L 5 0 7 | N AT U R E | 4 4 9
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+a
+**
+* *
+
+25
+20 *
+10
+
+*
+**
+**
+
+**
+
+*
+
+** **
+
+*
+
+**
+
+*
+
+*
+
+*
+
+*
+
+*
+
+M
+A
+BA
+X
+B
+C ID
+AS
+P
+AN 2
+C T1
+YC
+PD S
+C
+D
+FA 7
+DD
+FA
+D S
+C AX
+DK X
+C 5R
+DK 1
+5
+PS R2
+YW EN2
+M HA
+AP Z
+K1
+1
+JI
+P1
+
+PU
+
+H3K9Ac
+R = –0.59
+P < 10–9
+
+400
+
+Aged 200
+0
+0
+
+150
+
+300
+
+R = –0.54
+P < 10–6
+
+400
+200
+0
+
+R = –0.56
+P < 10–4
+
+100
+0
+
+200
+
+0
+0
+
+150
+
+R = –0.54 300
+P < 10–4
+150
+
+200
+100
+
+400
+
+150
+
+300
+
+R = –0.18
+P = 0.045
+
+200
+0
+0
+
+150
+
+300
+
+0
+
+150
+
+200
+
+R = –0.22
+P = 0.094
+
+100
+0
+
+0
+
+REST
+
+150
+
+0
+
+0
+0
+
+150
+
+300
+
+REST
+
+H3K9ac
+
+REST
+
+300
+
+PS2
+
+DAXX
+
+R = –0.56
+P = 0.002
+
+0
+
+200
+
+150
+
+300
+
+R = –0.65
+P = 0.001
+
+100
+
+0
+300
+
+150
+
+150
+
+300
+
+R = –0.75
+P < 10–3
+
+200
+100
+
+0
+300
+
+150
+
+300
+
+R = –0.39
+P < 10–3
+
+150
+0
+
+0
+
+150
+
+0
+
+300
+
+REST
+
+REST
+
+BAX
+
+300
+
+0
+0
+
+300
+
+150
+
+R = –0.69
+P < 10–7
+
+150
+
+0
+0
+
+10kdown
+
+SNAP25
+
+SNAP25-
+
+SYN1
+
+NRXN3
+
+150
+0
+
+300
+
+R = –0.31
+P = 0.002
+
+300
+
+0
+150
+
+REST
+
+REST
+
+*
+
+*
+*
+
+BAX
+
+R = –0.45
+P = 0.001
+
+e
+
+REST
+
+GAD2
+
+GAD1
+
+ATP2B2
+
+SST
+
+150
+
+R = –0.54
+P = 0.026
+
+0
+
+R = –0.023
+P = 0.84
+100
+
+300
+
+CALB1
+
+JIP1
+
+300
+
+80
+
+REST
+
+*
+
+0
+0
+
+200
+
+160
+
+*
+
+100
+
+0
+150
+
+*
+
+Aged
+AD1
+AD2
+
+DAXX
+200
+
+100
+
+R = 0.077 200
+P = 0.54
+100
+0
+
+300
+
+*
+*
+
+R = –0.39
+P = 0.002
+
+300
+
+0
+
+0
+0
+
+150
+
+*
+
+*
+
+*
+
+0
+0
+
+300
+
+*
+
+*
+
+PS2
+
+R = –0.57
+P < 10–5
+
+100
+
+*
+*
+
+*
+*
+
+200
+
+SST
+
+CALB1
+200
+
+KCNQ2
+
+MAPK11
+
+PSEN2
+
+YWHAZ
+
+*
+* *
+*
+
+*
+*
+
+*
+*
+
+SCN3B
+
+* *
+
+*
+120 *
+100
+80 *
+60
+40
+20
+0
+
+GABRB3
+
+*
+
+*
+
+*
+
+*
+
+*
+
+Aged
+AD1
+AD2
+
+* *
+* *
+
+H3K9Ac (%)
+
+100
+
+*
+* * * * *
+*
+*
+
+c
+
+d
+
+*
+**
+
+SS
+T
+C
+AL
+B1
+AT
+P2
+B2
+G
+AD
+1
+G
+AD
+2
+G
+AB
+RB
+SC 3
+N
+3B
+SY
+N
+1
+N
+RX
+N
+SN 3
+AP
+25
+
+200
+
+*
+
+0
+
+AD2
+
+*
+
+*
+
+KC
+N
+Q
+2
+
+300
+
+CDK5R2
+
+CDK5R1
+
+FAS
+
+DAXX
+
+FADD
+
+PDCD7
+
+ANT1
+
+CYCS
+
+BID
+
+CASP2
+
+PUMA
+
+b
+
+AD1
+
+**
+*
+* **
+**
+
+5
+0
+
+mRNA (% )
+
+*
+**
+**
+
+*
+
+Young
+Aged
+AD1
+AD2
+IgG
+
+*
+
+*
+
+*
+**
+
+*
+
+**
+
+*
+**
+
+15
+
+BAX
+
+REST ChIP (fold)
+
+30
+
+**
+100
+
+150
+
+300
+
+REST
+
+**
+
+Figure 2 | Regulation of REST target genes in
+ageing and AD. a, ChIP-qPCR analysis of REST
+binding to target genes in isolated PFC neuronal
+nuclei. Shown are young adult (Young), normal
+aged (Aged) and AD cases, which were stratified as
+AD1 (MMSE score . 18) and AD2 (MMSE
+score , 8). Also shown are control ChIP assays
+with non-specific IgG, and a REST ChIP with PCR
+primers directed 10 kb 39 to the SNAP25 RE1 site
+(SNAP25-10K down). Values represent fold change
+relative to the mean young adult value, and
+represent the mean 6 s.e.m., n 5 7. *P , 0.05 by
+the Mann–Whitney test. b, mRNA expression of
+REST target genes determined by qRT–PCR of
+PFC. Shown are REST target genes related to cell
+death pathways and AD pathology (left), and
+neurotransmission (right). Values are normalized
+to the mean young adult expression level (100%)
+and represent the mean 6 s.e.m. Young, n 5 9;
+Aged, n 5 10; AD1, n 5 10; AD2, n 5 10. Asterisks
+above the ‘Aged’ bars indicate significance relative
+to young adults; brackets indicate significance
+of Aged versus AD1 or AD2. *P , 0.05 by the
+Mann–Whitney test. c, Linear regression analysis
+of nuclear REST versus levels of protein targets or
+histone H3K9ac in double-labelled PFC neurons.
+d, Representative images showing inverse
+relationships between nuclear REST and H3K9ac,
+PS2, DAXX and BAX in AD1 neurons. Scale bar,
+20 mm. e, Global epigenetic regulation in ageing
+and AD. Histone modification H3K9ac was
+determined in isolated PFC neuronal nuclei.
+Values are normalized to the mean of the young
+adult group (100%), and represent the
+mean 6 s.e.m., **P , 0.005 by Student’s unpaired
+t-test. Young, n 5 8; Aged, n 5 11; AD1, n 5 4;
+AD2, n 5 4.
+
+50
+
+0
+
+Young Aged AD1 AD2
+
+H3K9ac increased significantly in early AD (Fig. 2e). Thus, loss of
+nuclear REST in AD is associated with epigenetic derepression of potentially pathogenic genes.
+
+REST is neuroprotective
+Because REST represses pro-apoptotic genes, we explored a role in
+neuroprotection by assessing vulnerability to oxidative stress and oligomeric Ab, stressors associated with brain ageing9 and AD11. Primary
+cultures of mouse E16 cortical neurons were established from NestinCre:RESTlx/lx (REST cKO) and littermate control embryos. After 1–2 weeks
+in culture, neuronal differentiation was comparable in REST-deficient
+and control cultures. Upon treatment with hydrogen peroxide or oligomeric Ab42, REST-deficient neurons showed markedly increased degeneration and cell death relative to controls (Fig. 3a and Extended Data
+Fig. 4a). REST-deficient neurons were rescued by lentiviral transduction of wild-type REST, leading to expression levels 2–2.5-fold that of
+wild type (Fig. 3a, Extended Data Fig. 4a). In contrast, a REST mutant
+that is deficient in nuclear translocation (DREST)12,13 was unable to rescue
+(Fig. 3a, b). REST-deficient neurons showed increased expression of
+pro-apoptotic genes in response to oxidative stress and oligomeric Ab
+(Extended Data Fig. 4b). Thus, endogenous REST is neuroprotective.
+REST-deficient mice showed a progressive age-related neurodegenerative phenotype. At 1 month of age, neuronal numbers in the cortex
+and hippocampus of REST cKO mice were not significantly different from
+controls. Neuronal degeneration and apoptosis appeared by 8 months
+of age, as indicated by positive neuronal labelling for cleaved caspase-3
+and TdT-mediated dUTP nick end labelling (TUNEL; Fig. 3c, d). This
+
+was accompanied by significant neuronal loss in the cerebral cortex
+and hippocampus, and pronounced gliosis (Fig. 3c, d). These results
+indicate that REST is essential for maintaining neuronal viability in the
+ageing brain.
+To confirm the findings on REST-deficient neurons, we assessed
+vulnerability to oxidative stress after REST overexpression or short hairpin RNA-mediated knockdown in neural SH-SY5Y cells. Cell death
+induced by hydrogen peroxide was significantly reduced when REST
+was overexpressed by 3- to 20-fold (Extended Data Fig. 4c). Higher
+levels of REST overexpression increased cell death. REST knockdown
+by lentiviral shRNA transduction significantly increased H2O2-induced
+apoptosis in both SH-SY5Y cells and cultured human cortical neurons,
+which was prevented by shRNA-resistant mouse REST (Extended Data
+Fig. 4c, d). Furthermore, shRNA-mediated REST knockdown increased
+levels of reactive oxygen species (ROS), which was prevented by the
+antioxidant N-acetyl-cysteine (NAC) (Extended Data Fig. 4e, f). Moreover, REST knockdown increased oxidative DNA damage, which was
+reduced by REST overexpression (Extended Data Fig. 4g). To examine
+the relationship of REST expression to oxidative DNA damage in the
+human brain, we double-labelled for REST and the oxidative DNA damage marker 8-oxoguanine (8-oxoG). Linear regression analysis showed
+a significant inverse relationship between nuclear REST and 8-oxoG
+levels in normal ageing neurons and in AD (Extended Data Fig. 4h).
+Thus, REST expression during ageing may reduce oxidative damage.
+The nematode Caenarhobditis elegans has served as a model system
+of ageing and stress resistance4. Two multi-zinc finger transcription
+factors in C. elegans structurally resemble mammalian REST (spr-3 and
+
+4 5 0 | N AT U R E | VO L 5 0 7 | 2 7 M A R C H 2 0 1 4
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+80
+
+** **
+**
+
+**
+ΔREST
+
+60
+40
+20
+
+TUNEL DAPI
+
+cl-CASP3 DAPI
+
+GFAP DAPI
+
+H&E
+
+spr-4(by105)
++ SPR-4
+spr-4(by105)
++ REST
+
+20
+0
+
+2
+
+DCFDA
+
+d
+
+REST DAPI
+8
+
+Cortex
+
+4
+
+6
+
+8
+
+Time (days)
+
+c
+
+Aβ42 (5 μM)
+
+REST cKO
+
+40
+
+10
+
+12
+!#"
+
+DG
+
+–60
+
+80
+
+e
+
+spr-4(by105)
+
+0
+
+REST+/+ REST cKO REST+/+ REST cKO
+1 mo
+1 mo
+8 mo
+8 mo
+
+20
+
+**
+**
+
+10
+0
+
+100
+
+**
+
+REST+/+ REST cKO REST+/+ REST cKO
+1 mo
+1 mo
+8 mo
+8 mo
+
+** ** **
+
+50
+0
+
+REST+/+ REST cKO REST+/+ REST cKO
+1 mo
+1 mo
+8 mo
+8 mo
+
+Figure 3 | REST is neuroprotective. a, REST-deficient cortical neurons
+cultured from REST cKO mouse embryos show increased vulnerability to H2O2
+and oligomeric Ab42 toxicity. Cell viability is expressed as percentage of the
+value in untreated cultures. Values represent the mean 6 s.e.m., n 5 6–8.
+*P , 0.05, **P , 0.01 by Student’s unpaired t-test. b, Reduced nuclear
+translocation of the DREST mutant. c, REST cKO mice show age-related
+neurodegeneration. Shown are sections of the hippocampal CA1 subfield
+from 8-month-old REST cKO mice labelled for TUNEL, cleaved caspase 3
+(cl-CASP3) and GFAP, or stained with haematoxylin and eosin (H&E).
+d, Neurodegeneration in 8-months but not 1-month-old REST cKO mice in the
+cortex, and in hippocampal CA1 and dentate gyrus (DG) regions. Values
+represent the mean 6 s.e.m., n 5 6 mice; **P , 0.001 relative to control by
+Student’s unpaired t-test. Scale bars, 20 mm.
+
+spr-4)14,15, and another gene is closely homologous to CoREST (spr-1)16.
+To test the role of these genes in oxidative stress resistance, we placed
+adult worms on nematode growth medium supplemented with paraquat, a superoxide generator. C. elegans lines with mutations in spr-1,
+spr-3 and spr-4 all showed significantly reduced survival relative to
+wild-type controls (Fig. 4a and Extended Data Fig. 5a). The spr-4(by105)
+mutant showed the greatest vulnerability. Furthermore, depletion of
+spr-4 by RNA interference significantly reduced survival in wild-type
+worms after treatment with paraquat (Extended Data Fig. 5b). SPR-4
+was expressed predominantly in neurons (Extended Data Fig. 5c), and
+was induced by oxidative stress (Extended Data Fig. 5d).
+The increased sensitivity of the spr-4 mutant worms to oxidative
+stress was significantly reduced by transgenic expression of either wildtype SPR-4 or human REST (Fig. 4a, b). To ascertain whether SPR-4
+and REST directly modulate ROS levels, worms were labelled with the
+fluorescent ROS indicator 29,79-dichlorodihydrofluorescein diacetate
+(DCFDA). spr-4(by105) mutants treated with paraquat showed significantly elevated ROS levels relative to wild-type, which was reduced
+by transgenic expression of either wild-type SPR-4 or human REST
+(Fig. 4c, d). To determine whether REST can substitute for SPR-4 as a
+transcriptional repressor, we assessed the expression of the presenilin
+gene hop-1, which is repressed by SPR-4. The expression of hop-1 was
+elevated in adult spr-4 mutants relative to wild-type worms, and was
+repressed by both wild-type SPR-4 and human REST (Extended Data
+
+spr-4(by105)
++ SPR-4
+
+spr-4(by105)
++ REST
+
+**
+
+*
+
+20
+10
+
+** **
+
+4
+
+**
+
+*
+30
+
+WT
+
+**
+
+–40
+
+d
+
+DCFDA DIC
+
+REST DAPI Tuj1
+CA1
+
+–20
+
+!"
+
+WT+mCherry
+WT + SPR-4
+spr-4(by105)
+spr-4(by105)
++ SPR-4
+spr-4(by105)
++ REST
+
+T
+
+REST+/+
+
+H2O2 (50 μM)
+
+60
+
+0
+
+W
+
+H2O2 (25 μM)
+
+TUNEL (cells/area)
+
+0
+
+WT
+spr-4(by105)
+
+(b sp
+y rsp 105 4
+)
+r4(
++S by1
+sp PR 05)
+r- -4
+4(
+b
++R y10
+ES 5)
+T
+(tm sod
+77 -1
+6)
+
+** **
+
+80
+
+20
+
+DCFDA (AFU)
+
+** **
+
+b
+
+100
+
+Worms with 5
+glutamatergic neurons (%)
+
+*
+
+a
+
+Survival (%)
+
+100
+
+REST DAPI Tuj1
+
+REST
+
+120
+
+REST DAPI
+
+b
+
+cl-CASP3 (cells/area)
+
+c
+
+REST+/+
+REST cKO
+REST cKO + REST
+REST cKO + ΔREST
+
+Neuron density
+
+Cell viability (%)
+
+a
+
+Mean survival change (%)
+
+ARTICLE RESEARCH
+
+*
+
+60
+
+Day 3
+Day 7
+
+40
+
+*
+
+20
+0
+
+Aβ
+
+Aβ
+spr-4(by105)
+
+Aβ
+
+Aβ
+spr-4(by105)
+
+Figure 4 | Caenorhabditis elegans SPR-4 protects against oxidative stress
+and Ab toxicity. a, spr-4(by105) worms incubated continuously with paraquat
+(5 mM) exhibit increased mortality rescued by wild-type SPR-4 or human
+REST. Shown is a representative experiment replicated three times.
+b, Quantitative analysis of survival in wild-type worms expressing mCherry
+or SPR-4 (WT1mCherry and WT1SPR-4), spr-4(by105) mutants, and
+spr-4(by105) mutants expressing SPR-4 or human REST (spr4(by105)1SPR4
+and spr4(by105)1REST). Shown is the percentage change in mean survival
+relative to wild-type. Values represent the mean 6 s.d., n 5 3 independent
+replicates of at least 30 animals per genotype; **P , 0.01 relative to wild type
+by the log-rank test. c, REST and SPR-4 reduce levels of reactive oxygen species
+(ROS). Shown are representative confocal images of paraquat-treated worms
+labelled with the ROS-sensitive dye DCFDA. WT, wild type. Scale bar, 30 mm.
+d, Quantitation of ROS levels by DCFDA labelling. Horizontal bars indicate
+the median; boxed areas represent the second and third quartiles. *P , 0.05
+relative to wild type by analysis of variance with post-hoc Tukey test; n 5 30
+worms. AFU, arbitrary fluorescence units. e, SPR-4 protects against Ab
+neurotoxicity. Shown are Ab worms (expressing a stably integrated Ab1-42
+transgene17) and Ab;spr4(by105) worms. Neuronal degeneration does not
+occur in wild-type worms or spr4(by105) mutants in the absence of the Ab
+transgene. Values represent the percentage of worms that retain five
+glutamatergic tail neurons at the indicated age (days), and are the mean 6 s.d.,
+n 5 3. *P , 0.05 by unpaired t-test.
+
+Fig. 5e). These results indicate that human REST can functionally substitute for SPR-4 in C. elegans.
+SPR-4 also modulated the neurotoxicity of Ab in a C. elegans line
+that expresses Ab42 in glutamatergic neurons and undergoes agedependent neuronal loss17. When this Ab-expressing line was crossed
+with the spr-4(by105) mutant, the resulting line expressed Ab42 in an
+spr-4 loss-of-function background and showed significantly accelerated neurodegeneration (Fig. 4e). Thus, SPR-4 protects against both
+oxidative stress and Ab toxicity, consistent with a general role in stress
+resistance.
+
+Induction of REST by stress and Wnt signalling
+To determine whether REST might be induced by oxidative and other
+forms of stress in the ageing brain, we subjected primary human cortical neuronal cultures to a variety of stressors. Incubation with redoxactive iron (Fe12), hydrogen peroxide, the glutathione synthesis inhibitor
+buthionine sulphoxide (BSO), or Ab42-induced REST mRNA and protein and increased REST–RE1 site binding (Extended Data Fig. 6a–f).
+To determine whether secreted factors might contribute to REST induction, cortical neurons were incubated with H2O2 followed by removal
+2 7 M A R C H 2 0 1 4 | VO L 5 0 7 | N AT U R E | 4 5 1
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+Autophagy of REST in neurodegenerative disorders
+
+of H2O2 and generation of conditioned medium. Addition of stressrelated conditioned medium to naive neuronal cultures resulted in a
+marked induction of REST mRNA expression (Extended Data Fig. 6g).
+Thus, a variety of stressors induce REST expression, which is mediated
+at least in part through cell non-autonomous signalling.
+To explore the role of cell non-autonomous signalling in the ageing
+brain, we generated extracts of human PFC from young adult and
+aged samples and assessed their effects on SH-SY5Y cells. REST was
+robustly induced by extracts of aged human cortex, but minimally by
+extracts of young adult cortex (Extended Data Fig. 6h). Furthermore,
+extracts of AD cortex showed reduced REST-inducing activity relative
+to age-matched controls (Extended Data Fig. 6h). Because REST has
+been identified as a target of canonical Wnt-b-catenin signalling18, we
+examined the role of this cell non-autonomous signalling pathway.
+Extracts of aged cortex and conditioned medium from stressed cells
+treated with H2O2, tunicamycin or wortmannin induced b-catenin in
+parallel with REST (Extended Data Figs 6h and 7a, b). Induction of
+REST and b-catenin was partially inhibited by the Wnt signalling antagonist Dickkopf (Extended Data Fig. 7a, b). REST was also induced by
+addition of purified Wnt-3a and Wnt-7a. Moreover, the GSK3-b inhibitors lithium chloride and Chiron 99021 that activate Wnt signalling
+induced REST, increased REST–RE1 site binding, and augmented nuclear
+translocation (Extended Data Fig. 7c–f). To assess Wnt signalling in
+the human brain, we measured nuclear b-catenin levels in the PFC of
+young adult and aged cases. Nuclear b-catenin was significantly elevated in ageing PFC neurons and colocalized with REST (Extended
+Data Fig. 7g, h). These results indicate that Wnt-b-catenin signalling
+may contribute to the induction of REST in the ageing brain.
+a
+
+Young
+
+Aged
+
+DLB
+
+In AD, loss of REST from the nucleus was often accompanied by localization to punctate cytoplasmic structures that were labelled with the
+autophagosome markers LC3, ATG7 and ATG12, but not the lysosomal
+markers LAMP1 and LAMP2 (Extended Data Fig. 8a). To determine if
+autophagy could alter the nuclear:cytoplasmic distribution of REST,
+autophagy was activated in SH-SY5Y cells by serum deprivation. This
+resulted in significantly reduced nuclear REST, which was reversed by
+treatment with 3-methyladenine or bafilomycin, both inhibitors of autophagy (Extended Data Fig. 8b, c). Because activation of autophagy is characteristic of many age-related neurodegenerative disorders, we asked
+whether REST is also depleted in other dementing diseases. Examination of cortical sections from patients with frontotemporal dementia
+(FTD) or dementia with Lewy bodies (DLB) showed marked depletion
+of nuclear REST (Fig. 5a).
+Induction of autophagy in neurodegenerative disorders has been
+associated with pathogenic misfolded proteins such as Ab (ref. 19). In
+AD, many cortical and hippocampal neurons showed a notable colocalization of REST with Ab in LC3-positive autophagosomes (Fig. 5b).
+In contrast, REST did not colocalize with Ab in amyloid plaques. Phosphorylated tau and TDP-43 have been implicated as abnormally folded
+pathogenic proteins in FTD, whereas a-synuclein has been implicated
+in DLB. Every case (8) of tau-positive FTD examined showed colocalization of REST with phosphorylated tau ( PHF1 epitope) in LC3-positive
+autophagosomes (Fig. 5b). Similarly, every case (6) of TDP-43-positive
+FTD showed colocalization of REST with TDP-43 and LC3 (Fig. 5b).
+All ten cases of DLB examined showed partial colocalization of REST
+with a-synuclein in autophagosomes (Fig. 5b). Thus, autophagy of REST,
+
+FTD
+REST (AFU)
+
+200
+
+REST DAPI
+
+**
+** **
+
+100
+
+un
+Ag g
+ed
+DL
+B
+FT
+D
+
+0
+Yo
+
+REST DAPI MAP2
+
+FTD
+
+DLB
+
+AD
+
+b
+
+REST DAPI
+
+Aβ
+
+LC3
+
+REST DAPI Aβ
+
+REST DAPI
+
+Aβ
+
+LC3
+
+REST DAPI Aβ
+
+REST DAPI
+
+α-syn
+
+LC3
+
+REST DAPI α-syn
+
+REST DAPI
+
+α-syn
+
+LC3
+
+REST DAPI α-syn
+
+REST DAPI
+
+PHF1
+
+LC3
+
+REST DAPI PHF1
+
+REST DAPI
+
+TDP-43
+
+LC3
+
+REST DAPI TDP-43
+
+4 5 2 | N AT U R E | VO L 5 0 7 | 2 7 M A R C H 2 0 1 4
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+Figure 5 | REST, autophagy and proteostasis in
+AD, DLB and FTD. a, Loss of nuclear REST in
+DLB and FTD. Left, immunofluorescence
+microscopy with labelling for REST (green),
+the neuronal marker MAP2 (red) and DNA
+(DAPI, blue). Right, quantitative analysis of
+immunofluorescence. Values (AFU) represent the
+mean 6 s.e.m.; Young, n 5 11; Aged, n 5 21;
+DLB, n 5 18; FTD, n 5 16. **P , 0.001 by
+Student’s unpaired t-test. b, Colocalization of REST
+with disease-associated misfolded proteins in
+autophagosomes. Cortical sections were
+triple-labelled for REST, LC3, and either Ab in AD,
+a-synuclein (a-syn) in DLB, or phosphorylated
+tau (PHF1 epitope) or TDP-43 in FTD. Two
+different representative cases are shown for each
+disease. Scale bars, 20 mm.
+
+ARTICLE RESEARCH
+
+200
+100
+0
+–4
+
+300
+
+REST
+
+300
+
+R = 0.65
+P < 10–4
+
+REST
+
+REST
+
+300
+
+200
+
+100
+0
+–6
+
+–2
+0
+Working memory (Z-score)
+
+100
+0
+–4
+
+2
+
+REST (fold)
+
+R = 0.59
+P < 10–4
+
+100
+0
+–4
+
+–2
+0
+Global cognitive (Z-score)
+
+REST (fold)
+
+c
+4
+3
+2
+1
+0
+
+–2
+0
+2
+Perceptual speed (Z-score)
+
+6
+
+R = –0.41
+P < 0.05
+
+4
+2
+0
+
+0
+
+1
+
+2
+3
+4
+Braak score
+
+5
+
+d
+
+NCI/MCI
+AD dementia
+
+**
+
+2
+
+**
+
+CERAD1-2 REAGAN1-2
+
+REST (fold)
+
+REST
+
+200
+
+R = 0.58
+P < 10–4
+
+200
+
+b
+300
+
+–4
+–2
+0
+2
+Semantic memory (Z-score)
+
+300
+
+R = 0.51
+P < 10–4
+
+100
+0
+–4
+
+R = 0.47
+P < 10–4
+
+200
+
+–2
+0
+2
+Episodic memory (Z-score)
+
+REST
+
+a
+
+8
+6
+
+R = 0.53
+P < 10–4
+
+4
+2
+0
+60
+
+70
+
+80
+90
+Age (yr)
+
+100
+
+110
+
+Figure 6 | Nuclear REST is positively correlated with cognitive function and
+longevity. a, Linear regression analysis of nuclear REST levels in PFC neurons
+and cognitive test scores. Nuclear REST was imaged by anti-REST
+immunofluorescence and quantified by MetaMorph. Each point represents an
+individual case. n 5 111 cases (59 females, 52 males), age range 71–90 years.
+b, Nuclear REST levels are inversely correlated with Braak stage (extent of
+neurofibrillary tangle formation). c, Nuclear REST levels in PFC from cases
+with neuropathological AD (moderate/frequent plaques by CERAD score
+and intermediate/high likelihood AD by NIA-Reagan criteria) that had mild
+or no cognitive impairment (NCI/MCI), or AD dementia. Values are the
+mean 6 s.e.m. *P , 0.01 by Student’s unpaired t-test; NCI/MCI n 5 30, AD
+dementia n 5 21. d, Nuclear REST levels in ageing neurons correlate positively
+with longevity. REST levels were quantified by FACS analysis of isolated PFC
+neuronal nuclei in 61 individuals without AD (age range 67–104 years).
+
+together with pathogenic misfolded proteins, may reduce nuclear translocation in AD and other neurodegenerative disorders.
+
+REST, cognitive preservation and longevity
+A central question is whether loss of REST in AD contributes to cognitive decline. We explored this question by using measures of cognitive function derived from neuropsychiatric assessments performed
+longitudinally in the Religious Orders Study and the Rush Memory
+and Ageing Project (Methods). Linear regression analysis showed that
+nuclear REST levels in prefrontal cortical neurons are positively correlated with a measure of global cognition, and separate measures of
+episodic, semantic and working memory with high levels of statistical
+significance (Fig. 6a and Extended Data Fig. 9a). Similar results were
+obtained in pyramidal neurons in the hippocampal CA1 region. For
+both brain regions, REST levels were most robustly correlated with
+episodic memory, which typically declines early in the course of AD. Elevated REST levels also predicted reduced AD neuropathology (Fig. 6b
+and Extended Data Fig. 9b).
+We then asked if elevated REST levels might confer resistance to AD
+pathology. Cases with National Institutes on Aging and Reagan Institute
+(NIA-Reagan) and Consortium to Establish a Registry for Alzheimer’s
+disease (CERAD) scores indicative of pathological AD, but with mild
+or no cognitive impairment, were compared to cases with pathological
+AD together with severe cognitive impairment. Nuclear REST levels
+were significantly elevated in cognitively preserved cases relative to cognitively impaired cases, despite the fact that both groups met pathological criteria for AD (Fig. 6c). Thus, elevated REST levels are associated
+
+with cognitive preservation in individuals who meet pathological criteria for AD.
+Because REST is associated with stress resistance and preservation
+of cognitive function, we explored the relationship to human lifespan.
+Nuclear REST levels in PFC neurons showed a significant positive correlation with longevity (R 5 0.53; P , 1024) (Fig. 6d). This relationship
+remained significant after multivariate adjustment for cognitive test scores
+and indices of neuropathology. Furthermore, the expression of REST
+target genes showed a highly significant inverse correlation with longevity (Extended Data Fig. 2a). Examination of the neuroanatomical
+distribution of REST in individuals with extreme longevity showed
+marked induction in neurons of the PFC and hippocampus, but not in
+the Purkinje or granule cell neurons of the cerebellum (Extended Data
+Fig. 10a). Thus, REST expression in specific neuronal populations correlates with longevity.
+We then asked if REST regulates genes that have been implicated in
+stress resistance and the ageing process. In addition to repressing cell
+death genes, REST also promoted expression of the anti-apoptotic gene
+BCL2, the antioxidants catalase and SOD1, and the FOXO transcription factor FOXO1 (Extended Data Figs 3a and 10b). As FOXO1 has
+been implicated in oxidative stress resistance20 and human longevity21,
+we assessed its regulation by REST at the protein level. REST knockdown by shRNA transduction in SH-SY5Y cells almost completely abolished FOXO1 expression, which was reversed by an shRNA-resistant
+mouse REST vector (Extended Data Fig. 10c). Thus, REST may broadly
+confer stress resistance during ageing.
+
+Discussion
+We have demonstrated a striking induction of the developmental transcriptional repressor REST in specific neuronal populations of the ageing
+human brain together with epigenetic repression of REST target genes.
+REST has been investigated extensively as a repressor of neuronal genes
+during embryonic development, a function that persists in adult nonneuronal cells22. Our findings suggest that REST additionally plays a
+role as a neuroprotective modulator, in part by repressing genes that
+promote cell death and the pathology of AD. Moreover, REST increases
+the expression of FOXO transcription factors that mediate oxidative
+stress resistance20, as well as the antioxidant enzymes catalase and SOD1,
+possibly through indirect mechanisms such as repression of micro RNAs.
+Consistent with these findings, REST confers oxidative stress resistance
+and protects against toxic insults associated with AD, including Ab
+oligomers and tau phosphorylation. Furthermore, REST appears to be
+essential for maintaining neuronal viability in the normal ageing cortex
+and hippocampus. This protective function is conserved in C.elegans.
+Previous ChIP-SACO23 and ChIP-chip24 studies also identified REST
+target genes involved in cell death. In addition, a recent study suggests
+that REST protects against the toxicity of 1-methyl-4-phenyl-1,2,3,6tetrahydropyridine (MPTP), a model of Parkinson’s disease25. Thus,
+REST may coordinate a stress response that is broadly neuroprotective
+in the ageing brain.
+REST dysfunction may contribute to the pathogenesis of a number
+of different neurodegenerative disorders. In addition to AD, REST was
+also significantly depleted in frontotemporal dementia and dementia
+with Lewy bodies. In each of these disorders, REST was lost from the
+nucleus and appeared in autophagosomes together with pathological
+misfolded proteins, including Ab, phosphorylated tau, TDP-43 and asynuclein. This may represent a common pathogenic mechanism that
+links altered proteostasis to aberrant gene expression.
+Recent studies suggest that epigenetic regulation of chromatin may
+modulate the cognitive outcome of a variety of neuropathological states26–28.
+It is intriguing that ageing individuals who harbour substantial AD
+pathology do not appear to progress to dementia when neuronal REST
+levels are high. This raises the possibility that structural pathology, such as
+Ab deposition and neurofibrillary tangles, may not be sufficient to cause
+dementia. Rather, failure of the brain’s stress response system may also
+be necessary, suggesting new possibilities for therapeutic intervention.
+2 7 M A R C H 2 0 1 4 | VO L 5 0 7 | N AT U R E | 4 5 3
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+METHODS SUMMARY
+Post-mortem human brain material was procured in accordance with institutional
+guidelines governed by approved protocols. Tissue samples were procured from
+the Rush University Medical Center, the University of Maryland, Duke University,
+the Brigham and Women’s Hospital, and the Massachusetts General Hospital. Mouse
+protocols were approved by the Institutional Animal Care and Use Committee of
+Harvard Medical School.
+Online Content Any additional Methods, Extended Data display items and Source
+Data are available in the online version of the paper; references unique to these
+sections appear only in the online paper.
+Received 27 June 2013; accepted 21 February 2014.
+Published online 19 March 2014.
+1.
+
+Gómez-Isla, T. et al. Profound loss of layer II entorhinal cortex neurons occurs in
+very mild Alzheimer’s disease. J. Neurosci. 16, 4491–4500 (1996).
+2. Peters, A., Sethares, C. & Moss, M. B. The effects of aging on layer 1 in area 46 of
+prefrontal cortex in the rhesus monkey. Cereb. Cortex 8, 671–684 (1998).
+3. Yankner, B. A., Lu, T. & Loerch, P. The aging brain. Annu. Rev. Pathol. 3, 41–66
+(2008).
+4. Kenyon, C. J. The genetics of ageing. Nature 464, 504–512 (2010).
+5. Spalding, K. L., Bhardwaj, R. D., Buchholz, B. A., Druid, H. & Frisen, J. Retrospective
+birth dating of cells in humans. Cell 122, 133–143 (2005).
+6. Chong, J. A. et al. REST: a mammalian silencer protein that restricts sodium
+channel gene expression to neurons. Cell 80, 949–957 (1995).
+7. Schoenherr, C. J. & Anderson, D. J. The neuron-restrictive silencer factor (NRSF):
+a coordinate repressor of multiple neuron-specific genes. Science 267,
+1360–1363 (1995).
+8. Ballas, N., Grunseich, C., Lu, D. D., Speh, J. C. & Mandel, G. REST and its
+corepressors mediate plasticity of neuronal gene chromatin throughout
+neurogenesis. Cell 121, 645–657 (2005).
+9. Lu, T. et al. Gene regulation and DNA damage in the ageing human brain. Nature
+429, 883–891 (2004).
+10. Loerch, P. M. et al. Evolution of the aging brain transcriptome and synaptic
+regulation. PLoS ONE 3, e3329 (2008).
+11. Holtzman, D. M., Morris, J. C. & Goate, A. M. Alzheimer’s disease: the challenge of
+the second century. Sci. Transl. Med. 3, 77sr1 (2011).
+12. Grimes, J. A. et al. The co-repressor mSin3A is a functional component of the
+REST-CoREST repressor complex. J. Biol. Chem. 275, 9461–9467 (2000).
+13. Shimojo, M. Characterization of the nuclear targeting signal of REST/NRSF.
+Neurosci. Lett. 398, 161–166 (2006).
+14. Wen, C., Levitan, D., Li, X. & Greenwald, I. spr-2, a suppressor of the egg-laying defect
+caused by loss of sel-12 presenilin in Caenorhabditis elegans, is a member of the
+SET protein subfamily. Proc. Natl Acad. Sci. USA 97, 14524–14529 (2000).
+15. Lakowski, B. et al. Two suppressors of sel-12 encode C2H2 zinc-finger proteins that
+regulate presenilin transcription in Caenorhabditis elegans. Development 130,
+2117–2128 (2003).
+16. Jarriault, S. & Greenwald, I. Suppressors of the egg-laying defective phenotype
+of sel-12 presenilin mutants implicate the CoREST corepressor complex in
+LIN-12/Notch signaling in C. elegans. Genes Dev. 16, 2713–2728 (2002).
+17. Treusch, S. et al. Functional links between Ab toxicity, endocytic trafficking,
+and Alzheimer’s disease risk factors in yeast. Science 334, 1241–1245
+(2011).
+
+18. Willert, J., Epping, M., Pollack, J. R., Brown, P. O. & Nusse, R. A transcriptional
+response to Wnt protein in human embryonic carcinoma cells. BMC Dev. Biol. 2, 8
+(2002).
+19. Lipinski, M. M. et al. Genome-wide analysis reveals mechanisms modulating
+autophagy in normal brain aging and in Alzheimer’s disease. Proc. Natl Acad. Sci.
+USA 107, 14164–14169 (2010).
+20. Tothova, Z. et al. FoxOs are critical mediators of hematopoietic stem cell resistance
+to physiologic oxidative stress. Cell 128, 325–339 (2007).
+21. Li, Y. et al. Genetic association of FOXO1A and FOXO3A with longevity trait in Han
+Chinese populations. Hum. Mol. Genet. 18, 4897–4904 (2009).
+22. Ballas, N. & Mandel, G. The many faces of REST oversee epigenetic programming
+of neuronal genes. Curr. Opin. Neurobiol. 15, 500–506 (2005).
+23. Otto, S. J. et al. A new binding motif for the transcriptional repressor REST uncovers
+large gene networks devoted to neuronal functions. J. Neurosci. 27, 6729–6739
+(2007).
+24. Abrajano, J. J. et al. REST and CoREST modulate neuronal subtype specification,
+maturation and maintenance. PLoS ONE 4, e7936 (2009).
+25. Yu, M. et al. NRSF/REST neuronal deficient mice are more vulnerable to the
+neurotoxin MPTP. Neurobiol. Aging 34, 916–927 (2013).
+26. Fischer, A., Sananbenesi, F., Wang, X., Dobbin, M. & Tsai, L. H. Recovery of learning
+and memory is associated with chromatin remodelling. Nature 447, 178–182
+(2007).
+27. Gräff, J. & Tsai, L. H. Histone acetylation: molecular mnemonics on the chromatin.
+Nature Rev. Neurosci. 14, 97–111 (2013).
+28. Ronan, J. L., Wu, W. & Crabtree, G. R. From neural development to cognition:
+unexpected roles for chromatin. Nature Rev. Genet. 14, 347–359 (2013).
+29. Bruce, A. W. et al. Genome-wide analysis of repressor element 1 silencing
+transcription factor/neuron-restrictive silencing factor (REST/NRSF) target genes.
+Proc. Natl Acad. Sci. USA 101, 10458–10463 (2004).
+Supplementary Information is available in the online version of the paper.
+Acknowledgements We thank members of the Yankner laboratory for suggestions and
+discussion, Monlan Yuan, Allison Harwick, Kelly Dakin and Gregory Klein for assistance,
+and Cheng Li and Dana Gabuzda for helpful discussion. We also acknowledge the Rush
+Alzheimer’s Disease Center, the Brigham and Women’s Hospital Brain Bank, the
+Massachusetts General Hospital ADRC Brain Bank, and the Kathleen Price Bryan Brain
+Bank at Duke University for providing tissue samples. This work was supported by an
+NIH Director’s Pioneer Award (DP1OD006849) and NIH grants PO1AG27916 and
+RO1AG26651 to B.A.Y., RO1GM072551 to M.P.C., P30AG10161, R01AG15819 and
+R01AG17917 to D.A.B., and a grant from the Glenn Foundation for Medical Research to
+B.A.Y. J.Z. is a Molecular Biology of Neurodegeneration fellow at Harvard Medical
+School.
+Author Contributions T.L., L.A., J.Z., Y.P., H.K., and H.-M.K. performed experiments. T.L.,
+L.A., J.Z., M.C. and B.A.Y. contributed to the overall study design. T.L., Y.C., T.-H.Y., D.D.
+and X.L. performed informatics analysis. D.A.B. contributed tissue samples, cognitive
+test data and analysis. B.A.Y. directed the study and B.A.Y., T.L., L.A. and J.Z. wrote the
+manuscript, which was edited by all the coauthors.
+Author Information Data are available in the Gene Expression Omnibus (GEO) under
+accession GSE53890. Reprints and permissions information is available at
+www.nature.com/reprints. The authors declare no competing financial interests.
+Readers are welcome to comment on the online version of the paper.
+Correspondence and requests for materials should be addressed to
+B.A.Y. (Bruce_Yankner@hms.harvard.edu).
+
+4 5 4 | N AT U R E | VO L 5 0 7 | 2 7 M A R C H 2 0 1 4
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+METHODS
+Brain sample procurement. Post-mortem human brain material was procured
+in accordance with institutional guidelines governed by approved protocols. Tissue
+samples were procured from the Rush University Medical Center, the University of
+Maryland, Duke University, the Brigham and Women’s Hospital, and the Massachusetts General Hospital. Tissue samples from Rush University Medical Center
+were derived from participants in the Religious Order Study (ROS) and Rush
+Memory and Ageing Project (MAP) at the Rush Alzheimer’s Disease Center, which
+are longitudinal, clinical-pathological studies of ageing, cognitive decline and AD30,31.
+Study participants agreed to comprehensive annual clinical and neuropsychological evaluation and brain donation at death. Informed consent was obtained and
+the study was approved by the Institutional Review Board (IRB) of Rush University
+Medical Centre.
+Cognitive function tests and neuropathology. Measures of cognitive function
+were derived from neuropsychiatric assessments performed longitudinally in the
+Religious Orders Study and the Rush Memory and Ageing Project (MAP). This
+population includes individuals across the cognitive spectrum, ranging from normal to AD. The last cognitive test scores obtained during life were related to nuclear
+REST levels in post-mortem prefrontal cortical brain samples by quantitative immunocytochemistry (111 cases, Fig. 6a) and FACS analysis of isolated neuronal nuclei
+(37 additional cases, Extended Data Fig. 9a). Nineteen cognitive function tests
+were employed in the present study, including a summary score of all 19 tests used
+as a measure of global cognition, and separate measures of episodic, semantic and
+working memory, and perceptual speed. The follow-up rate exceeds 95% and the
+autopsy rate exceeds 90%.
+Autopsy cases in the Religious Orders and MAP studies underwent a uniform
+structured neuropathological evaluation of AD, including assignment of Braak
+(measure of number and distribution of neurofibrillary tangles), CERAD (Ab
+plaque pathology), and NIA-Reagan (composite measure of neurofibrillary tangles and amyloid plaques) scores. The clinical diagnoses of AD and MCI have
+been described in detail and pathological confirmation of AD approaches 90%32–34.
+Frozen brain tissue specimens used in this study were from the prefrontal cortical
+grey matter (Brodmann area 9, 10) and were snap-frozen and stored at 2140 uC.
+Paraffin-embedded brain samples were also obtained from the Massachusetts General Hospital and Brigham and Women’s Hospital. These samples included young
+adult cases without neurological abnormalities, aged subjects that did not carry a
+diagnosis of AD or another neurodegenerative disease and showed neuropathological findings within the normal range for age, and cases of AD, FTD and DLB
+with clinical histories of these disorders and subsequent pathological confirmation. A total of 364 brain specimens with an age range from 19–106 years were
+used for molecular and histopathological analyses. The characteristics of these
+cases are provided in Supplementary Table 1.
+Microarray analysis. Gene expression profiling using microarrays has been described
+previously35. Human brain samples with tissue pH , 6.5 or post-mortem interval
+(PMI) . 20 h were excluded. Prefrontal cortical samples with acceptable parameters
+of RNA quality were hybridized to Affymetrix Human Genome U133plus 2.0 arrays,
+which were then scanned and expression data extracted using Affymetrix Microarray Suite Software. The Probe-level Linear Model (PLM) platform was used for
+analysis of microarray data36. A subset of the data was additionally analysed using
+RMA or dCHIP platforms yielding similar results. Significance Analysis of Microarrays (SAM) software37 was used for 2-group comparisons of young adult versus
+aged with the following criteria for identifying age-related expression changes: 1,000
+permutations and median false discovery rate (FDR) # 0.01. Age-regulated genes
+that overlap with RE1-containing genes29 were visualized by hierarchical clustering
+using dChip software38 (Fig. 1a). The display range used was 1.5 (a value greater
+than 1.5 standard deviations above the mean is pure red, below is pure blue, and
+equal to the mean is white.
+Real time RT–PCR and PCR. Primers were designed for 90–300-base-pair (bp)
+segments to span exon boundaries if possible. PCR or real-time PCR were run for
+30–40 cycles (Supplementary Table 2). The purity of both PCR and RT–PCR
+products were determined by single peak melting curves, and further confirmed
+by agarose gel electrophoresis. To extract RNA, the Cells-to-cDNA II Kit was
+used for cells, and TRIzol (Invitrogen) was used for tissue samples. All RNAs were
+DNase treated. A standard curve for each primer pair was generated by serial dilution of a pool of titrated RNA or DNA. Beta-actin or GAPDH were used as internal
+controls. Positive control primers for the REST ChIP assay, SYN- RE1 primers,
+were from Millipore (Cat#17-641), and the C-terminal truncated splice variant,
+REST4 primers: RES4-F: 59-GTGAGCGAGTATCACTGGAGG-39, REST4-R: 59CCATCTAGATCACACTCTGAATG-39 have been reported previously39. Other
+primers used in this study were designed using Primer3.0, and are listed in Supplementary Table 2.
+Western blotting. Tissues were homogenized, whereas cells were directly lysed
+using RIPA-DOC buffer supplemented with protease and phosphatase inhibitors
+
+(Complete and Phosphostop, Roche). A sonication step was performed before
+centrifugation at 10,200g for 10 min at 4 uC. The supernatant was removed and
+the protein concentration determined (Bio-Rad protein assay). SDS sample buffer
+containing beta-mercaptoethanol was added and 20 mg protein was loaded per
+lane and resolved by 4–20% Mini-PROTEAN TGX precast gels (Bio-Rad). Western
+blots were quantified by densitometry using the ImageJ software. The antibodies
+used for this study are described in Supplementary Table 3.
+Immunohistochemical analysis of human brain. Antibodies used in this study
+are described in Supplementary Table 3, The following REST-specific antibodies
+were used for immunolabelling studies: a rabbit polyclonal IgG recognizing a
+region between residues 1,050 and the C terminus (residue 1,097) of REST (Bethyl
+laboratories, IHC-00141), a rabbit polyclonal IgG recognizing a region between
+residues 801 and the C terminus (residue 1,097) of REST (Millipore, 07-579), a
+goat polyclonal IgG recognizing an internal region of REST (Santa Cruz, sc-15118),
+and (4) rabbit monoclonal IgG recognizing a region near the N terminus of REST
+(Abcam, ab28018).
+Immunohistochemical/immunofluorescence analysis using paraffin-embedded
+brain sections was performed in the following regions: the prefrontal cortex (Broadmann areas 9, 10 and 47, the hippocampal formation, including the CA1, CA3, CA4
+and DG sectors, and the cerebellum. Analysis of REST expression by immunohistochemistry using paraffin-embedded sections obtained from the various sources
+indicated above led to very similar conclusions.
+Paraffin-embedded tissue sections were first deparaffinized in xylene, then rehydrated with decreasing concentrations of ethanol and placed in water. Sections
+then underwent antigen retrieval using either citrate buffer (Vectorlabs, USA) or
+the Diva decloaker (BioCare, USA). For diaminobenzidine (DAB) labelling, sections were additionally treated with 3% hydrogen peroxide for 30 min. They were
+then washed and blocked with 3% BSA, 0.2% Triton X-100 in PBS for 1 h at room
+temperature. Primary antibodies were diluted in 2% BSA, 0.1% Triton in PBS. Following overnight incubations, sections were washed three times with PBS. Secondary
+antibodies, diluted in 2% BSA, 0.1% Triton in PBS were either biotin-coupled (1:200,
+Vector Labs, USA) or coupled to Alexa fluorophores (1:300, Invitrogen). For DAB
+labelling, sections were additionally incubated with a pre-formed biotin-avidinhorseradish peroxidase complex (1:100, VectorLabs). For immunofluorescence
+labelling, sections were also incubated with 1% Sudan Black in 70% ethanol, for
+10 min, to suppress lipofuscin autofluorescence. Following washes in PBS, sections were mounted and imaged using confocal or bright field microscopy. To
+quantify immunofluorescence or DAB labelling, images were randomly acquired
+in selected brain regions. Antigen-expressing areas within each neuron and in
+cellular compartments (such as the nucleus) were selected using the MetaMorph
+image analysis system and the average signal intensity measured. Values were corrected by subtracting the average slide background intensity (measured outside of
+cells). Between 50 and 100 neurons were analysed for each case. The investigator
+was blinded to sample origin or diagnosis.
+For linear regression analysis of the relationship between nuclear REST and the
+levels of proteins encoded by REST targets (BAX, DAXX, PSEN2, calbindin and
+somatostatin) (Fig. 2c, d); the activating histone mark H3K9Ac (Fig. 2c, d), or
+oxidative DNA damage (8-oxoguanine) (Extended Data Fig. 4h), we performed
+double-label immunofluorescence for REST (Bethyl antibody) and each individual
+protein or marker. Multiple 340 pictures were acquired (at various locations)
+within the prefrontal cortex displaying pyramidal neurons using an Olympus Fluoview Confocal Microscope. For cases displaying a majority of pyramidal neurons
+with very high (or very low) nuclear REST levels, fields were also included that
+displayed lower (or higher, respectively) REST levels, to test for potential correlations between REST and each target. Antigen-expressing areas within each neuron
+(such as the nucleus or the cytoplasm) were selected using the MetaMorph image
+analysis system and the average signal intensity was measured. Values were corrected by subtracting the average slide background intensity (measured outside of
+cells). Between 25 and 75 pyramidal neurons were quantified for each case for
+linear regression.
+Image acquisition. Images were acquired using an Olympus Fluoview confocal
+microscope, or using a bright field microscope coupled to a CCD camera (Diagnostic Instruments, Inc.). No image processing was performed on the acquired
+images, with the exception of Fig. 3c (the haematoxylin and eosin image) and
+Fig. 5b (the DAPI channel in DLB and FTD panels), which were contrasted to
+allow better visualization of cell nuclei.
+Fluorescence-activated cell sorting (FACS). Antibodies against nuclear proteins,
+as well as isotype-matched control IgGs, were pre-conjugated to Allophycocyanin
+(APC) using lightning-link APC conjugation kit (Innova Biosciences). The monoclonal antibody against NeuN coupled to Alexa-Fluor 488 (Millipore, MAB 477X)
+was used for neuron-specific labelling. The antibodies and reagents used in this
+study are listed in Supplementary Table 3. Approximately 1–2 mg of antibody was
+added to 106 nuclei per ml and incubated at 4 uC for 12 h with gentle rocking in the
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+dark. Labelled nuclei were washed twice by centrifugation and filtered to remove
+clumps before performing FACS. The DNA binding dyes DAPI or propidium iodide
+were used for gating of nuclei. Aggregate discrimination was achieved based on the
+height, area and width parameters for front scattering (FSC) and side scattering
+(SSC). The purity and identity of isolated neuronal nuclei was further confirmed by
+microscopy and epigenetic analysis. For each antibody, the geometric mean value
+of single-nuclei events that is above the matched nonspecific IgG control was determined. An average of 10,000 events was acquired for FACS analysis. For ChIP
+assays, ,106 FACS-sorted neuronal nuclei were collected by centrifugation.
+Chromatin immunoprecipitation (ChIP) and nuclear isolation. The ChIP assay
+protocol has been described previously40. Cells or tissue homogenates were crosslinked using 1% formaldehyde (37% solution, sigma) at room temperature for
+10 min. Then the reaction was then stopped by adding glycine (1.25 M, 103) and
+washed twice by centrifugation. The cell pellet was dissolved in SDS lysis buffer
+(1% SDS, 10 mM EDTA and 50 mM Tris-HCl, pH 8.1). The genomic DNA was
+sheared into 300–1,000bp by sonication (Bioruptor), followed by centrifugation.
+The supernatant was removed, diluted with ChIP dilution buffer (0.01%SDS, 1.1%
+Triton X-100, 1.2 mM EDTA, 167 mM NaCl, 16.7 mM Tris-HCl, pH 8.1), and precleared with Protein A Sepharose beads (Invitrogen) before adding antibodyconjugated beads. 5% of the sheared DNA was used as input control. After incubation
+with rocking at 4 uC for 12 h, chromatin bound beads were washed twice with low
+salt wash buffer (0.1% SDS.1% Triton X-100, 2 mM EDTA, 150 mM NaCl, 20 mM
+Tris-HCl, pH 8.1), once with high salt wash buffer (0.1% SDS, 1% Triton X-100,
+2 mM EDTA, 500 mM NaCl, 20 mM Tris-HCl, pH 8.1), once with LiCl wash buffer
+(0.25 M LiCl, 1% NP-40, 1% deoxycholic acid, 1 mM EDTA, 10 mM Tris-HCl,
+pH 8.1), and twice with TE buffer (1 mM EDTA, 10 mM Tris-HCl pH 8.1). The
+beads were then incubated with elution buffer (1% SDS, 0.1M NaHCO3), followed
+by de-cross-linking at 65 uC for 5 h. The eluted preparation was then treated with
+RNase A and proteinase K followed by isolation of DNA using the Qiagen PCR
+purification kit. For ChIP-PCR (Figs 1f, 2a and Extended Data Figs 2d, 6f), primers
+were directed to binding sites identified by ChIP-seq analysis of SH-SY5Y cells.
+The isolation of nuclei from human brain tissue was performed using a protocol
+adapted from previously described methods41,42. Briefly, 0.5 g of frozen tissue was
+Dounce-homogenized in 10 ml of NF1 hypotonic buffer (0.4% Triton X100, 0.3 M
+Sucrose, 5 mM MgCl2, 0.1 mM EGTA, 1 mM DTT, 10 mM Tris-HCl pH 8.0, supplemented with Complete protease inhibitors from Roche) on ice, incubated for
+30 min, and then Dounce-homogenized with 30 additional strokes. The homogenates were then centrifuged in a swinging-bucket rotor at 180g for 10 min at 4 uC.
+The pellet was washed once with rocking at 4 uC for 0.5 h, and then resuspended in
+NF1 buffer. Crude nuclei were carefully layered onto a cushion of 5 ml sucrose solution (1.2 M (40%) sucrose, 3 mM MgCl2, 1 mM DTT, 10 mM Tris-HCl, pH 8.0),
+and centrifuged at 4,700g for 30 min at 4 uC. The isolated nuclear preparation was
+resuspended in 1 ml NF2 buffer (0.1 M sucrose, 5 mM MgCl2, 0.1 mM EDTA, 1%
+BSA, 10 mM Tris-HCl, pH 8.0), filtered with a 40 mm strainer (BD Falcon), and the
+number of nuclei was quantified after DAPI labelling, and then diluted to a concentration of 106 nuclei per ml. For FACS-ChIP assays, 1 g of brain tissue was
+Dounce-homogenized in 10 ml PBS with protease inhibitors (Complete, Roche)
+using pestle A, fixed with 1% formaldehyde for 10 min at room temperature, and
+then washed twice with NF1 buffer by centrifugation and gentle resuspension. The
+preparation was then treated as described above for brain tissue samples that did
+not undergo fixation.
+ChIP sequencing. For ChIP-seq analysis, 10 3 15 cm2 dishes of SH-SY5Y cells at
+80% confluence were incubated in the absence or presence of 5 mM LiCl (to induce
+REST expression) in SH-SY5Y cell culture medium (see ‘Cell cultures’ below) for
+12 h. ChIP was performed as described above, except that genomic DNA was sheared
+to 150–300 bp fragments, confirmed by agarose gel electrophoresis. For normalization and analysis of enrichment, input controls for each sample were sequenced.
+ChIP-DNA (2 ng) was used for library preparation followed by deep sequencing at
+the High Throughput Sequencing Facility of the University of North Carolina.
+Approximately 30 million ChIP-seq reads with read length of 36 were aligned to
+the hg18 genome assembly using ELAND with the default parameters. Sequence
+reads within REST binding sites were identified from ChIP-seq data using the latest
+version of MACS43 algorithm (1.4) with the default parameters. Genes that harbour
+REST binding sites within 10 kb of transcription start sites with at least threefold
+enrichment relative to the input control, statistical q value , 0.01 and P value ,
+1025 were considered as putative REST targets. Binding sites showed the canonical
+RE1 motif44, as well as previously identified non-canonical REST-binding motifs45,46
+(Supplementary Table 4a, b). Fisher’s exact test was used to assess the statistical
+significance of the overlap between REST targets and genes that are age-regulated
+in the human prefrontal cortex.
+REST-deficient mice. Animal housing and experimental procedures were approved
+by the Institutional Animal Care and Use Committee of Harvard Medical School.
+Mice carrying floxed alleles of REST flanking exon 2 were described previously47.
+
+These mice were crossed to Nestin-Cre transgenic mice (Jackson laboratory; strain
+No. 003771) to achieve REST conditional inactivation in the nervous system. The
+Nes-Cre transgene is in the C57BL/6J background, and the RESTlx/lx alleles were in
+a hybrid C57BL/6J and 129Sv/Ev background. The resulting Nestin-Cre:RESTlx/lx
+conditional knockout mice (hybrid C57BL/6J and 129Sv/Ev background), referred
+to as REST cKO, were born at expected Mendelian ratios, were viable and fertile,
+and did not display any visible alterations. The control group included RESTlx/lx
+and Nes-Cre mice. Mouse genotyping by PCR was performed using the following
+primers to amplify a region in the REST gene flanking exon 2: re08 (59-CATGCG
+AGTACTGCCATACCCAAC-39), re09 (59-GTGATGGGGCAGTCTTCTGGAG
+G-39), and re11 (59-GGGCACACCTTTAATCCTAGCTTC-39); this allowed the
+identification of WT (220 bp), floxed (264 bp) or recombined (375 bp) REST alleles47.
+The experimental groups included both male and female mice. The REST cKO and
+REST1/1 control groups were composed of littermate mice (same genetic background). Mice were identified by eartag numbers, and were randomly selected for
+histological processing (perfusion, brain dissection, etc.). The investigator was
+blind to age and genotype.
+Immunohistochemical and histological analysis of mouse brain. Mice were
+anesthetized with isoflurane and carbon dioxide and then perfused with cold PBS
+buffer for 20 min. Brains were rapidly removed and placed in 4% paraformaldehyde overnight. They were then processed for paraffin embedding, according to
+standard procedures. TUNEL labelling was performed following manufacturer’s
+instructions. For quantification of neuronal density, randomly selected areas within
+the hippocampus or the cortex, and at various depths within these structures, were
+imaged at 320 magnification. The number of cells (using either haematoxylin and
+eosin or NeuN labelling) was determined using the MetaMorph image analysis
+software and was then divided by the area occupied by these cells. The investigator
+was blind to the genotype.
+Cell culture. REST cKO embryos and littermate controls were used to establish
+primary cortical and hippocampal cultures as described previously48. Each embryo
+was individually genotyped by PCR. Moreover, PCR analysis of DNA isolated from
+primary E16 embryonic neurons confirmed the excision of the REST floxed allele
+by Cre, in contrast to DNA derived from embryo tails. qRT–PCR was performed
+on the corresponding neuronal cultures or brain samples for genotype confirmation (RT–PCR: forward primer, 59-CTTTGTCCTTACTCAAGCTCTC-39 reverse
+primer, 59-TTCCTGAGACTCGTTTTCAGCC-39; product size is 2,034 bp).
+Embryonic cultures from E16 fetuses were plated on either coverslips or culture
+dishes that were pre-coated with both poly-D-lysine (Beckton-Dickinson) and
+laminin, and maintained in serum-free neurobasal medium containing B27 supplements and GlutaMAX. Hippocampal cultures (7 days in vitro (DIV)) or cortical
+cultures (14 DIV) were treated with either oligomeric Ab42 for 24 h or H2O2 for
+5 h. Oligomeric Ab was prepared as described previously49 and confirmed by SDS
+gel electrophoresis with and without boiling. Neuronal differentiation was comparable in REST cKO and control cultures after 1–2 weeks, as indicated by immunofluorescence labelling with antibody Tuj1 (MAB1637, Millipore), and western
+blotting for the neuronal differentiation marker NeuN (MAB377, Millipore).
+The SH-SY5Y neural cell line was maintained in Dulbecco’s Modified Eagle
+Medium (DMEM) with 4.5 mg l21 D-glucose, 2 mM L-glutamine, 1 mM sodium
+pyruvate, 100 U ml21 penicillin, 100 mg ml21 streptomycin (all from Invitrogen),
+supplemented with 10% fetal bovine serum. To induce autophagy, SH-SY5Y cells
+were maintained in serum-free Opti-MEM medium (Invitrogen) for 24 h, and
+then treated with inhibitors (5 mM 3-methyladenine or 150 nM bafilomycin) or
+maintained in Opti-MEM without inhibitors for an additional 16 h before fixation
+and imaging. The cells did not show morphological changes or evidence of reduced
+viability under these conditions. Human cortical neuronal cultures (HCNC) were
+established as previously described50, and were maintained in neurobasal media
+with 2 mM L-glutamine and B27 supplements (Invitrogen). Mature HCNCs (14
+DIV) were used for experiments. B27 supplements without added antioxidants
+were used for oxidative stress-related experiments.
+Assessment of cell viability and apoptosis. Cell viability was assessed using a
+chromogenic assay that involves the biological reduction by viable cells of the tetrazolium compound 3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)2-(4-sulfophenyl)-2H-tetrazolium (MTS). Cells were seeded in either 48- or 96well plates and treated at 80% confluence. After adding MTS to culture medium
+and incubating for 2 h in the dark at 37 uC, absorbance was measured at 490 nm
+against a blank control with a plate reader. For detection of apoptotic cells, cells
+were incubated with annexin V, allophycocyanin conjugate (APC Annexin V,
+Invitrogen) for 15 min in 13 binding buffer (10 mM HEPES pH 7.4, 0.14 M
+NaCl, 2.5 mM CaCl2). Cells were washed twice by centrifugation and resuspension
+and analysed immediately by FACS.
+Analysis of reactive oxygen species (ROS). ROS levels were measured using the
+cell-permeable fluorescent indicator CellROX Deep Red (C10422, Invitrogen) with
+detection by FACS. SH-SY5Y cells were incubated in the absence or presence of
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+hydrogen peroxide for 1 h, which was removed followed by centrifugation and
+resuspension twice. The cells were then incubated with the CellROX Deep Red
+reagent for 30 min at 37 uC, placed on ice and then analysed by FACS.
+Immunocytochemical analysis of cultured cells. Cells plated on laminin/polylysine-coated coverslips were fixed by incubation with 4% (v/v) paraformaldehyde
+in PBS for 30 min at room temperature, followed by three washes in PBS, and then
+permeabilized with 0.1% Triton X-100 in PBS for 15 min at room temperature.
+After 3 additional washes in PBS, cells were blocked with 10% goat serum in PBS
+for 1 h at room temperature. Primary antibodies were diluted to the appropriate concentration using 10% goat serum, and incubated overnight at 4 uC. Cells were then
+washed 3 times in 1% goat serum in PBS for 10 min before adding fluorophoreconjugated secondary antibodies for 2 h at room temperature. Fluorophore labelled
+cells were then washed in 1% goat serum in PBS for 3310 min, and then mounted
+using Prolong Gold mounting medium with DAPI and anti-fade reagent (Invitrogen).
+To score endogenous nuclear REST in SH-SY5Ycells, Pearson correlations between
+DAPI and REST were generated from 200–300 cells from multiple coverslips using
+confocal analysis software. A threshold of R . 0.6 was used to indicate positive
+nuclear localization.
+Single-cell gel electrophoresis (comet assay). SH-SY5Y cells were treated with 100 mM
+hydrogen peroxide for 20 min at 4 uC and then suspended in PBS containing 1 mM
+EDTA on ice. The alkaline comet assay was then performed using the CometAssay
+HT kit (Trevigen) according to the manufacturer’s protocol. The percentage of
+DNA in the comet tail was measured in 114–132 cells for each sample using CometScore image analysis software (TriTek).
+Generation of cell-conditioned medium and cortical extracts. For conditioned
+medium transfer experiments (Extended Data Figs 6g, h and 7a, b), cells were
+incubated with stress-inducing agents, followed by removal of the medium and 2
+changes of fresh medium before the final addition of conditioning medium. After
+a 6 h incubation period, the medium was removed and centrifuged twice to remove
+suspended cells or debris. The medium was then transferred to a new well containing naive cells. After a 10-h incubation period, the treated cells were collected and
+analysed. To generate extracts of human prefrontal cortex, ,200 mg cortical grey
+matter tissue samples were gently homogenized on ice using a Dounce A pestle in
+2 ml of cell culture medium supplemented with protease inhibitors (Complete,
+Roche). Brain extracts were cleared by sequential centrifugation and resuspension
+(23 110g, 23 2,700g and 20,000g, each for 10 min at 4 uC). The tissue extracts were
+normalized to the DNA concentration of the starting material, and added to cultured SH-SY5Y cells at 25% of total medium volume.
+Generation of recombinant lentiviruses. Viral particles were generated in HEK293T
+cells by co-transfection of transfer vectors, packaging plasmid (pRSV-REV and
+pMDLg) and envelope plasmid (pCMV-VSVG) using Lipofectamine 2000 (Invitrogen). Cells were cultured for 2 days and the medium was collected, centrifuged
+at 180g for 5 min, and passed through a 0.45 mm low protein binding filter (VWR).
+Viruses were then centrifuged at 110,000g for 2 h at 4 uC (Beckman SW28) and
+then resuspended in 200 ml of PBS. Viruses were titred by infecting SH-SY5Y cells
+at serial dilution. The percentage of transduced cells, identified by enhanced green
+fluorescent protein (EGFP) fluorescence, was measured by flow cytometry 72 h
+post-infection. Cells that express REST-IRS-GFP were sorted into low, middle and
+high expression populations based on GFP intensity, and the corresponding REST
+levels were determined by qRT–PCR.
+C. elegans strains. The N2 Bristol strain was used as the wild-type background for
+these studies. C. elegans strains were cultured at 20 uC under standard conditions51.
+The following mutations and chromosome rearrangements were used: LGI: spr4(by105)15, spr-4(tm465) (this study), daf-16(mu86)52, hT2[bli-4(e937) qIs48]
+(I;III); LGII: sod-1(tm776)53; LGV: spr-1(ok2144); and LGX: spr-3(ok2525) (this
+study). All strains, except for spr-4(tm465), were provided by the Caenorhabditis
+Genetics Center (CGC), which is funded by the NIH Office of Research Infrastructure Programs (P40 OD010440). Strains obtained from external sources which had
+been outcrossed previously were outcrossed to our N2 strains twice. Worms which
+had not been outcrossed previously were outcrossed six times.
+C. elegans RNAi. RNAi feeding experiments were performed at 20 uC. HT115
+bacterial clones from a C. elegans RNAi feeding library (Geneservice) were used
+for spr-4 (C09H6.1), sod-1 (C15F1.7), and sod-2 (F10D11.1). Control RNAi was
+performed by feeding HT115 bacteria carrying the empty pL440 vector. Clones
+were sequence validated and knockdown was confirmed by semiquantitative
+RT–PCR. The TU3270 (uIs57 [Punc-119::sid-11 Punc-119::YFP1Pmec-6::mec-6])
+strain was also used to assess neuronal loss-of-function54.
+C. elegans microinjection and transgenic strains. Transgenic C. elegans lines
+were generated by microinjecting the relevant constructs into the gonads of the
+indicated strains. Prab-3::mCherry (pGH8, Addgene: 19359) was used as a coinjection marker labelling neurons. Three independent lines that demonstrated
+reliable transmission of the marker were propagated as described above for each
+experiment. Transgene expression was verified by qRT–PCR (see below), using
+
+primers that spanned exon junctions for spr-4 or human REST, normalized for
+possible DNA carryover by using two pairs of primers to the ampicillin resistance
+gene (present in all plasmids) and a specific site in pD152.79 (see table below for
+primer sequences). The spr-4 transgene was overexpressed by 18-24-fold relative
+to endogenous spr-4 expression in wild-type worms. The human REST transgene
+was expressed at levels comparable to the cdc-42 housekeeping gene.
+To analyse RNA from transgenic lines, 100 Prab-3::mCherry positive worms
+(24 h post-L4) of each strain (including controls) were placed into 1.5 ml M9 buffer.
+Worms were washed once in M9, pelleted by centrifugation, resuspended in 200 ml
+TRIzol, vortexed for 2 min and flash frozen in liquid nitrogen. Worms were then
+freeze-cracked by thawing in a 37 uC water bath and re-freezing in liquid nitrogen.
+This was repeated 2 more times. After the final thaw, 100 ml of TRIzol was added
+and the tubes were maintained at room temperature for 5 min. RNA was then
+extracted with 140 ml of chloroform, precipitated with an equal volume of 70% ethanol and transferred to an RNeasy spin column (Qiagen) and purified. Quantitative RT–PCR was performed directly from isolated RNA, using 1 ng of RNA
+and the Qiagen One Step qPCR mix. All reactions were performed in triplicate.
+Analysis of Ab toxicity in C. elegans. The UA198 Ab-expressing strain (baIn34
+[Peat-4::Abeta42, Pmyo-2::mCherry]; adIs1240[Peat-4::GFP]) was provided by the
+Caldwell lab55. This strain was crossed to wild-type males, and the resulting male
+progeny were crossed to spr-4(by105) homozygotes. Single F1 progeny bearing
+both fluorescent markers were each placed on individual plates (singled) and the
+subsequent F2 generation was singled and genotyped for spr-4. Homozygous spr4(by105) mutants were then singled for several generations to ensure homozygosity of the transgenes before analysis. To assess toxicity of the Ab42 transgene,
+worms were synchronized by transferring 8–10 young adults (24 h post-L4) to a
+fresh plate, and allowing them to lay eggs for 12–14 h. The adults were then removed
+and eggs were allowed to hatch at 20 uC. Worms were then aged by transferring
+adults to fresh, seeded plates every other day. At days 3 and 7 of adulthood, approximately 25–40 worms were immobilized with sodium azide on 2% agarose pads on
+slides. Confocal z-sections covering the entire depth of the worms were taken on an
+Olympus Fluoview Confocal Microscope using the 488 nm laser and a GFP filter.
+The image files were then assigned to randomly named folders to blind the scoring
+of the number of tail neurons per worm. Control and mutant worms were always
+hatched, grown, aged and imaged in parallel, and the assay was repeated three times.
+Statistical significance was assessed by paired t-test on both the distribution of neuronal number and the mean percent of the population without neurodegeneration.
+SPR-4 localization and induction by paraquat. To create SPR-4::GFP transgenic animals, unc-119(ed3) worms were bombarded with a cosmid that had been
+subjected to recombineering to introduce a GFP cassette onto the last exon of spr-4,
+creating a C-terminal fusion. Wild-type moving worms were isolated and singled.
+GFP signal was examined by confocal microscopy and worms with a bright, reproducible, and stable fluorescence were propagated. As described for the stress assay,
+worms were then transferred to plates containing either 5 mM paraquat and 100 mg
+ml21 fluorodeoxyuridine (FUdR) or FUdR alone. On day four of treatment, worms
+were mounted on 2% agarose pads with sodium azide, and imaged by confocal
+microscopy at 360 magnification with a 31.5 digital zoom and 488 nm laser and
+GFP filter. z-stacks were taken throughout the head and tail regions of the worms,
+and fluorescence intensity of the punctate GFP signal was analysed in ImageJ56. To
+assess statistical significance, a paired t-test between control and treated fluorescence intensity distributions was performed. Images were taken for at least 15 worms
+for each condition and each strain was analysed in an independent paraquat treatment. For localization, SPR-4::GFP transgenic animals were mated to wild type
+males carrying the Prab-3::mCherry extrachromosomal array, and images were
+taken by confocal microscopy.
+ROS detection in C. elegans. To measure ROS levels, 100 4-day old adult worms,
+grown as described for the paraquat survival assays, were transferred to Eppendorf
+tubes containing 1.5 ml of M9 buffer, washed once in M9, and then stained for 1 h
+in 500 ml of M9 containing 25 mM 29,79-dichlorodihydrofluorescein diacetate
+(DCFDA, Life Sciences/Invitrogen) while rotating in the dark. Worms were then
+washed once with M9, and transferred to 1.5% agarose pads on glass slides, covered, and immediately imaged within 1 h of washing out the DCFDA. Imaging was
+performed on an Olympus Fluoview Confocal Microscope using the 488 nm laser
+and GFP filter. At least 15 images were taken per genotype per replicate. Images
+were analysed in ImageJ, where average intensity of the head region above the
+terminal pharyngeal bulb was scored and plotted using the boxplot function in R.
+REST cDNA constructs and shRNAs. The pHAGE-CMV-Flag-REST-IRESZsGreen and pHAGE-CMV-ZsGreen plasmids were generously provided by Peter
+Mulligan57,58. The cDNA for wild-type mouse REST in the pCS21MT vector59 was
+amplified by high fidelity PCR with BamHI and EcoRI restriction sites at 59 and 39
+ends, respectively. The PCR amplicon was digested with BamHI and EcoRI followed by gel purification and ligation into the FUGW lentiviral vector driven by
+the human ubiquitin C gene promoter60, and sequence verified. To generate the
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+nuclear translocation-defective mutant DREST (Fig. 3a, b), a nuclear localization
+signal (amino acids 515–525)12 and the fifth zinc finger motif (amino acids 294–
+324)61 were deleted by high fidelity PCR using primers listed in Supplementary
+Table 2. The restriction site XbaI replaces amino acids 515–525 and adds two new
+amino acids Ser-Arg. The restriction site NheI replaces amino acids 294–324 and
+adds two new amino acids Ala-Ser.
+Short-hairpin RNAs against human REST were expressed from the lentiviral
+plasmid pGIPZ (Open Biosystems). Mature antisense sequences of effective shRNAs
+are TCGATTAGTATTGTAGCCG (663–681) (shRESTa) and TTTGAACTGTA
+AATATCTG (392–410) (shRESTb). Numbers in parenthesis indicate the position
+of mature antisense sequences corresponding to the coding domain sequence (CDS)
+of human REST (3294 bp). As a control, the GIPZ non-silencing shRNAmir was
+used (Open Biosystems).
+For C. elegans studies, full-length spr-4 was isolated from fosmid DNA (WRM
+0628bF09, from the Sanger Institute collection) by PCR amplification with primers
+specific to the promoter regions (1.5 kb upstream of the transcriptional start site)
+and the UTR. The PCR product was sequence verified and used directly for injection. Human REST was isolated from cDNA and cloned into the vector pD152.79
+MCS, downstream of the dpy-30 promoter and upstream of GFP. Sequencing verified the correct reading frame. The SPR-4::GFP fusion fosmid used in bombardment
+(Clone: 3167840880351681 C09) was provided by the Transgenome consortium62.
+Primers for sub-cloning are listed in Supplementary Table 2.
+Statistical analysis. Statistical analysis was performed using Graphpad software
+and the R program. Student’s t-tests were used to make comparisons between two
+groups with a normal distribution of data points. The Mann–Whitney-Wilcoxon
+Test was used for multiple samples without knowledge of their distribution. Agerelated gene expression changes were identified by the Significant Analysis of
+Microarray (SAM) in R program. SAM identifies differentially expressed genes
+between young adult (less than 40 years, n 5 12) and Aged (greater than 70 years,
+n 5 16) by carrying out gene-specific t-tests. Power analysis was used to ensure
+adequate statistical power for detecting significant differentially expressed genes
+in the microarray analysis. For sample n . 12 in each group, there is 80% power to
+detect 1.5-fold changes at P value , 0.01. We therefore report significant age-related
+gene expression changes using the cutoff q value , 0.01 and fold change .1.5. The
+overlap of age-regulated genes with REST targets genes identified by ChIP-seq was
+assessed using the hypergeometric test (P value 5 1.65 3 10212). Age-downregulated
+genes are enriched in ChIP-seq targets based on the binomial test (P value 5 3.5
+3 1027). Pathway and upstream regulator enrichment for age-regulated genes
+and ChIP-seq target genes were analysed by the hypergeometric test using Ingenuity
+pathway analysis (IPA). Pearson’s correlation is used in this paper. By the central
+limit theorem, the distribution of the correlation coefficient is asymptotically normally distributed when the sample size is sufficiently large (n . 30). Hence, the P
+value for the Pearson’s correlation coefficient for Fig. 6a, b, d are calculated based
+on the normal distribution. Figure 6a shows plots for REST protein levels versus
+cognitive test scores for multiple individual subjects. The correlation coefficient
+between REST protein level and cognitive variables are calculated based on n 5 111.
+Figure 6b shows a plot of REST protein level versus Braak Score. The correlation
+coefficient between REST protein level and Braak Score is calculated based on
+n 5 37. Figure 6d shows a plot of REST protein level versus age at death. The
+correlation coefficient between REST protein level and age is calculated based on
+n 5 61. Extended Fig. 2a compares the weighted mean expression level of REST
+target genes versus age at death. Each point represents the mean of weighted expression of 342 REST target probe-sets that are age-regulated based on microarray.
+These mean values were weighted by the total expression level for each probe-set
+across all samples and were further normalized to the youngest adult value (24 years;
+100%).
+30. Bennett, D. A., Schneider, J. A., Arvanitakis, Z. & Wilson, R. S. Overview and findings
+from the religious orders study. Curr. Alzheimer Res. 9, 628–645 (2012).
+31. Bennett, D. A. et al. Overview and findings from the rush Memory and Aging Project.
+Curr. Alzheimer Res. 9, 646–663 (2012).
+32. Bennett, D. A. et al. Decision rules guiding the clinical diagnosis of Alzheimer’s
+disease in two community-based cohort studies compared to standard practice in
+a clinic-based cohort study. Neuroepidemiology 27, 169–176 (2006).
+
+33. Bennett, D. A. et al. Natural history of mild cognitive impairment in older persons.
+Neurology 59, 198–205 (2002).
+34. Schneider, J. A., Arvanitakis, Z., Leurgans, S. E. & Bennett, D. A. The neuropathology
+of probable Alzheimer disease and mild cognitive impairment. Ann. Neurol. 66,
+200–208 (2009).
+35. Loerch, P. M. et al. Evolution of the aging brain transcriptome and synaptic
+regulation. PLoS ONE 3, e3329 (2008).
+36. Bolstad, B. M., Irizarry, R. A., Astrand, M. & Speed, T. P. A comparison of
+normalization methods for high density oligonucleotide array data based on
+variance and bias. Bioinformatics 19, 185–193 (2003).
+37. Tusher, V. G., Tibshirani, R. & Chu, G. Significance analysis of microarrays applied
+to the ionizing radiation response. Proc. Natl Acad. Sci. USA 98, 5116–5121
+(2001).
+38. Li, C. & Wong, W. H. Model-based analysis of oligonucleotide arrays: expression
+index computation and outlier detection. Proc. Natl Acad. Sci. USA 98, 31–36
+(2001).
+39. Yu, M. et al. Alteration of NRSF expression exacerbating 1-methyl-4-phenylpyridinium ion-induced cell death of SH-SY5Y cells. Neurosci. Res. 65, 236–244
+(2009).
+40. Lu, T. et al. Gene regulation and DNA damage in the ageing human brain. Nature
+429, 883–891 (2004).
+41. Spalding, K. L., Bhardwaj, R. D., Buchholz, B. A., Druid, H. & Frisen, J. Retrospective
+birth dating of cells in humans. Cell 122, 133–143 (2005).
+42. Siegmund, K. D. et al. DNA methylation in the human cerebral cortex is
+dynamically regulated throughout the life span and involves differentiated
+neurons. PLoS ONE 2, e895 (2007).
+43. Zhang, Y. et al. Model-based analysis of ChIP-Seq (MACS). Genome Biol. 9, R137
+(2008).
+44. Schoenherr, C. J. & Anderson, D. J. The neuron-restrictive silencer factor (NRSF):
+a coordinate repressor of multiple neuron-specific genes. Science 267,
+1360–1363 (1995).
+45. Johnson, D. S., Mortazavi, A., Myers, R. M. & Wold, B. Genome-wide mapping of in
+vivo protein-DNA interactions. Science 316, 1497–1502 (2007).
+46. Otto, S. J. et al. A new binding motif for the transcriptional repressor REST uncovers
+large gene networks devoted to neuronal functions. J. Neurosci. 27, 6729–6739
+(2007).
+47. Mao, C. A. et al. Neuronal transcriptional repressor REST suppresses an Atoh7independent program for initiating retinal ganglion cell development. Dev. Biol.
+349, 90–99 (2011).
+48. Lorenzo, A. et al. Amyloid b interacts with the amyloid precursor protein: a potential
+toxic mechanism in Alzheimer’s disease. Nature Neurosci. 3, 460–464 (2000).
+49. Kayed, R. et al. Fibril specific, conformation dependent antibodies recognize a
+generic epitope common to amyloid fibrils and fibrillar oligomers that is absent in
+prefibrillar oligomers. Mol. Neurodegener. 2, 18 (2007).
+50. Busciglio, J. & Yankner, B. A. Apoptosis and increased generation of reactive
+oxygen species in Down’s syndrome neurons in vitro. Nature 378, 776–779
+(1995).
+51. Brenner, S. The genetics of Caenorhabditis elegans. Genetics 77, 71–94 (1974).
+52. Lin, K., Dorman, J. B., Rodan, A. & Kenyon, C. daf-16: An HNF-3/forkhead family
+member that can function to double the life-span of Caenorhabditis elegans.
+Science 278, 1319–1322 (1997).
+53. Van Raamsdonk, J. M. & Hekimi, S. Deletion of the mitochondrial superoxide
+dismutase sod-2 extends lifespan in Caenorhabditis elegans. PLoS Genet. 5,
+e1000361 (2009).
+54. Calixto, A., Chelur, D., Topalidou, I., Chen, X. & Chalfie, M. Enhanced neuronal RNAi
+in C. elegans using SID-1. Nature Methods 7, 554–559 (2010).
+55. Treusch, S. et al. Functional links between Ab toxicity, endocytic trafficking, and
+Alzheimer’s disease risk factors in yeast. Science 334, 1241–1245 (2011).
+56. Abràmoff, M. D., Magalhães, P. J. & Ram, S. J. Image processing with ImageJ.
+Biophoton. Int. 11, 36–42 (2004).
+57. Mulligan, P. et al. CDYL bridges REST and histone methyltransferases for gene
+repression and suppression of cellular transformation. Mol. Cell 32, 718–726
+(2008).
+58. Westbrook, T. F. et al. SCFb-TRCP controls oncogenic transformation and neural
+differentiation through REST degradation. Nature 452, 370–374 (2008).
+59. Shimojo, M. & Hersh, L. B. Characterization of the REST/NRSF-interacting LIM
+domain protein (RILP): localization and interaction with REST/NRSF. J.
+Neurochem. 96, 1130–1138 (2006).
+60. Lois, C., Hong, E. J., Pease, S., Brown, E. J. & Baltimore, D. Germline transmission
+and tissue-specific expression of transgenes delivered by lentiviral vectors.
+Science 295, 868–872 (2002).
+61. Shimojo, M. Characterization of the nuclear targeting signal of REST/NRSF.
+Neurosci. Lett. 398, 161–166 (2006).
+62. Sarov, M. et al. A genome-scale resource for in vivo tag-based protein function
+exploration in C. elegans. Cell 150, 855–866 (2012).
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+
+Extended Data Figure 1 | Neuroanatomical distribution of REST induction
+in the ageing human brain. a, Representative confocal photomicrographs of
+hippocampal CA1 pyramidal neurons (top), dentate gyrus granule neurons
+(middle, DG) and cerebellar Purkinje and granule cell neurons (bottom), from
+young, aged or AD cases that were labelled for REST (green). Note the increased
+expression of REST in hippocampal CA1 pyramidal and dentate granule
+cell neurons in aged cases relative to young adult cases. Also note that nuclear
+REST is markedly reduced in AD in hippocampal CA1 neurons, but not in
+dentate granule cell or cerebellar neurons. b, Specificity of REST
+immunohistochemistry. Shown are sections of normal aged PFC labelled with
+anti-REST (Bethyl) (upper panel), anti-REST preincubated with a REST
+blocking peptide (middle panel), and non-specific IgG (lower panel). REST
+labelling is green; nuclear labelling with DAPI is blue. c, REST knockdown
+
+(REST shRNA) and overexpression (REST-OE) in SH-SY5Y cells confirm
+antibody specificity. Also shown is labelling with antibody preincubated with
+REST blocking peptide (REST-OE1blocking). REST knockdown and
+overexpression were confirmed by western blotting (Extended Data Fig. 3b).
+d, Quantification of nuclear REST levels in hippocampal CA1, CA3, CA4
+regions, in dentate gyrus granule cells (DG), and in cerebellar Purkinje cell
+neurons. REST is induced with age in CA1, CA3, CA4 and DG neurons, but not
+in cerebellar neurons. REST expression is reduced in AD in CA1, CA3, and
+CA4 neurons, but not in DG or cerebellar neurons. CA1: young n 5 11, aged
+n 5 30, AD n 5 33. CA3, CA4, DG and cerebellum: young n 5 8–9, aged
+n 5 7–8, AD 5 9–10. Values are the mean 6 s.e.m., *P , 0.05, **P , 0.01 and
+***P , 0.001 by Student’s unpaired t-test. Scale bars, 25 mm.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+
+Extended Data Figure 2 | ChIP-seq analysis of REST target genes shows
+enrichment for genes related to cell death and the pathology of AD. a, Genes
+identified by REST ChIP-seq in SH-SY5Y cells are downregulated in the ageing
+human PFC. Expression of age-regulated REST target genes identified by
+ChIP-seq shows a highly significant inverse correlation with age at death. For
+each case, a weighted expression index was derived for age-regulated target
+genes based on microarray analysis. These values were normalized to the
+youngest adult value (24 years; 100%). n 5 43, age range 24–106 years.
+b, Canonical pathways by Ingenuity IPA analysis of REST ChiP-seq targets.
+
+c, REST ChIP-seq binding peaks in genes related to cell death pathways and AD
+pathology. d, Confirmation of ChIP-seq targets by quantitative ChIP-PCR
+following REST overexpression (OE-REST) or REST knockdown (sh-RESTa
+and sh-RESTb) in SH-SY5Y cells. Shown is ChIP followed by real time PCR
+using primers that amplify REST binding sites identified by ChIP-seq. PCR
+amplification of a region of the actin promoter not proximal to a known RE1
+site was used as a negative control. Values are normalized to the input control
+and represent the mean 6 s.e.m., n 5 3. *P , 0.05 relative to control by
+Student’s unpaired t-test.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+
+Extended Data Figure 3 | REST regulates expression of genes related to cell
+death and the neuropathology of AD. a, REST knockdown with either of two
+distinct shRNAs (sh-RESTa and sh-RESTb) significantly increases mRNA
+expression of ChIP-seq targets related to cell death and AD pathology, whereas
+REST overexpression (REST) represses gene expression. Values are the
+mean 6 s.d., n 5 3. *P , 0.05 by Student’s unpaired t-test. b, Shown are
+
+western blots of lysates from SH-SY5Y cells transduced with a control lentiviral
+vector (CTRL), or 3 separate REST shRNAs (sh-REST; each lane represents
+a different shRNA) or REST cDNA (REST) to knockdown or overexpress
+REST, respectively. c, REST knockdown (sh-REST) markedly induces
+phosho-tau epitopes (PHF-1 and AT8). Induction of these epitopes is blocked
+by lithium chloride (LiCl), an inhibitor of the tau kinase GSK3b.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+
+Extended Data Figure 4 | REST protects against oxidative stress. a, Cortical
+neuronal cultures from REST-deficient (REST cKO) mice show extensive
+neuritic degeneration relative to control cultures after incubation with 5 mM
+oligomeric Ab42 for 24 h, which is prevented by lentiviral transduction of REST
+(REST cKO 1 REST). Neuritic processes are labelled with antibody TUJ1.
+Scale bar, 30 mm. b, Pro-apoptotic genes show increased mRNA expression in
+REST-deficient cortical neuronal cultures after treatment with hydrogen
+peroxide (50 mM H2O2, 3 h) or oligomeric Ab42 (5 mM, 8 h). Increased
+expression was reversed by lentiviral transduction of REST (REST
+cKO1REST). Values are the mean 6 s.e.m., n 5 4. *P , 0.05 by Student’s
+unpaired t-test. c, REST knockdown potentiates hydrogen peroxide-induced
+apoptosis in SH-SY5Y cells. Increased cell death was prevented by transducing
+a REST construct (mouse REST) resistant to the shRNA. Cells were incubated
+with 800 mM H2O2 for 2 h, and apoptotic cells were quantified by FACS
+analysis of annexin V–APC. Values represent fold change relative to the
+untreated control. d, REST knockdown (Sh-REST) increases vulnerability to
+oxidative stress in cultured primary human cortical neurons treated with
+100 mM H2O2 for 2 h relative to control cultures (Sh-CTRL). e, REST
+knockdown increases generation of reactive oxygen species (ROS). Shown are
+
+FACS profiles of a fluorescent ROS indicator (CellRox). Note right-ward shift
+(increased ROS) in H2O2-treated (600 mM, 2 h) SH-SY5Y cells (red) versus
+untreated controls (blue) following lentiviral transduction of REST shRNA
+(Sh-REST). f, Increased ROS levels in SH-SY5Y cells expressing either of two
+different REST shRNAs (sh-RESTa and sh-RESTb) is reversed by the
+antioxidant N-acetyl cysteine (NAC, 5 mM). g, REST protects against oxidative
+DNA damage. Shown is a measure of DNA fragmentation in the comet assay
+following treatment of SH-SY5Y cells with H2O2. Note increase in DNA
+damage induced by either of two REST shRNAs (Sh-RESTa and Sh-RESTb)
+relative to cells transduced with a control shRNA (Sh-CTRL). Conversely,
+overexpression of REST reduces oxidative DNA damage relative to
+overexpression of GFP (CTRL). Horizontal bars indicate the mean value.
+**P , 0.0001 by the Mann–Whitney test; n 5 114–134. Values in b, c, d and
+f represent the mean 6 s.e.m, n 5 6–10, *P , 0.05, **P , 0.01 by Student’s
+unpaired t-test. h, Inverse correlation between oxidative DNA damage and
+nuclear REST levels in normal ageing and early AD (AD1). Shown is
+double-labelling for REST and 8-oxoguanine (8oxoG) in hippocampal CA1
+neurons. Scale bar, 20 mm.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+
+Extended Data Figure 5 | Caenorhabditis elegans spr genes and oxidative
+stress resistance. a, Mutations of spr-1, spr-3 and spr-4 reduce survival in the
+presence of oxidative stress. Worms were continuously incubated with the
+superoxide-generating agent paraquat (5 mM). Shown are representative time
+courses of survival, and quantification of reduced mean lifespan relative to
+wild-type in worms incubated with paraquat. Shown are mutants in spr-1 and
+spr-3, two different mutants in spr-4, and a double spr-3/spr-4 mutant
+(spr-4(by105);spr-3(ok2525)). The spr-4(by105);spr-3(ok2525) mutant showed
+similar survival to wild-type in the absence of paraquat. Values represent the
+decrease in mean lifespan as percentage relative to wild type and represent
+the mean 6 s.d., n 5 3. *P , 0.05 by log-rank test. b, Depletion of spr-4 by
+RNAi increases sensitivity to oxidative stress and phenocopies the spr-4(by105)
+mutation. Worms were fed RNAi against the indicated genes or an empty
+vector control and then transferred to plates seeded with standard OP50
+bacteria and containing 5 mM paraquat. Shown is the percent decrease in
+mean survival relative to the empty vector control from 3 independent
+experiments. Two spr-4 RNAi-expressing bacterial strains were used
+(Methods). In addition to N2, we also used a C. elegans strain (TU3270) with
+enhanced dsRNA uptake in neurons (Methods). One of the spr-4 RNAi strains
+generated a significantly greater reduction in survival in the TU3270
+
+background compared with N2. The paraquat sensitivity of worms fed RNAi
+against the antioxidant gene sod-1 was used as a positive control. Values are
+the mean 6 s.d., n 5 3. *P , 0.05 by log-rank test. c, A stably integrated
+SPR-4::GFP construct under the control of the endogenous spr-4 promoter is
+expressed predominantly in neurons in adult worms, as indicated by
+colocalization with the neuronal marker prab-3::mCherry. Top, pharyngeal
+ring neurons; bottom, tail neurons. d, Treatment of adult worms with paraquat
+(1PQ) from day 1 to day 4 induces expression of SPR-4::GFP. Untreated
+worms (-PQ). Upper panels show confocal imaging of a representative strain;
+the lower panel graph shows quantitative analysis of SPR4::GFP expression in 3
+separate strains. Horizontal bars indicate the median; boxed areas represent
+the second and third quartiles. n 5 3 (15 worms each); ***P , 0.001 by
+unpaired t-test. e, REST represses expression of the presenilin hop-1 in
+C. elegans. Expression of hop-1 mRNA was measured by qRT–PCR in 24-h post
+L4 worms of the indicated genotypes. For each replicate, transcript values were
+normalized to cdc-42. Note that hop-1 mRNA expression is increased in the
+spr-4(by105) mutant, and that repression is partially restored by wild-type
+spr-4 or human REST (REST). Values represent fold change relative to the
+wild-type control (1) and represent the mean 6 s.d., n 5 3. *P , 0.05 by
+Student’s t-test. Scale bars, 20 mm.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+
+Extended Data Figure 6 | Induction of REST by stress and cell
+non-autonomous signalling. a–d, Redox-active Fe12 (15 mM), Ab42 (15 mM),
+H2O2 (indicated concentrations), and the glutathione synthesis inhibitor BSO
+(50 mM) increase REST protein levels in primary human cortical neuronal
+cultures. Shown are western blots for REST and actin. e, REST mRNA levels
+determined by qRT–PCR. f, Treatment of human neurons with Fe12 or Ab42
+increase REST–RE1 site binding in the SNAP25 and calbindin 1 genes as
+determined by ChIP-qPCR. g, REST mRNA levels measured by qRT–PCR after
+
+addition of conditioned medium from H2O2-treated (30 mM, H30; 100 mM,
+H100; 300 mM, H300; 600 mM, H600; 800 mM, H800) or control neuronal
+cultures (CTRL CM) to naive neurons. h, Extracts from aged human PFC (O)
+induce REST when added to SH-SY5Y cells. Much lower levels of induction are
+induced by extracts derived from young adult (Y) or AD cortex. Shown are
+western blots for REST, b-catenin and b-actin. Values in e–g represent the
+mean 6 s.d., n 5 3. *P , 0.05, **P , 0.01 by Student’s unpaired t-test.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+
+Extended Data Figure 7 | Induction of REST by Wnt signalling. a, Cell
+non-autonomous induction of REST by aged brain extracts is partially
+inhibited by the Wnt antagonist Dickkopf (DKK). Extracts were derived
+from young adult (Y), aged (O) or AD PFC of the indicated ages and then
+incubated with SH-SY5Y cells in the absence (-) or presence (1) of DKK
+(250 ng ml21). b, Conditioned medium transferred from SH-SY5Y cells,
+treated with either wortmannin (2 mM), tunicamycin (2 mM), H2O2 (100 mM)
+or LiCl (10 mM), induce REST when added to naive cells, which is inhibited
+by DKK. c, REST levels are increased by treatment of SH-SY5Y cells with
+Wnt3a or 7a (250 ng ml21, 16 h; upper western blot), and by LiCl (5 or 10 mM,
+6 h) or Chiron 99021 (20 nM, 6 h) (lower western blot). d, REST ChIP-seq
+shows that the Wnt activator LiCl (5 mM) broadly increases REST binding to
+target genes. Shown are REST targets (P , 1025) with REST–RE1 site binding
+
+within 10 kb of the transcription start site. They include genes related
+to AD pathology, such as the gamma secretase presenilin 2 (PSEN2), and
+pro-apoptotic genes (PUMA, BAX, DAXX, TRADD and BCL2L11).
+e, f, SH-SY5Y cells incubated with LiCl (10 mM, 24 h) or Chiron 99021
+(100 nM, 24 h) exhibit increased nuclear REST. Nuclei are stained dark blue
+with DAPI, which become light blue when there is overlap with the green REST
+staining (e). Quantitative analysis of per cent REST-positive nuclei
+(f). g, Increased nuclear b-catenin in the PFC in normal ageing, and reduced
+levels in AD. Shown is FACS analysis of neuronal nuclei isolated from PFC.
+Values are the mean 6 s.e.m. *P , 0.05, **P , 0.01 by Student’s unpaired
+t-test. Young, n 5 13; Aged, n 5 18; AD, n 5 10. h, Colocalization of REST and
+b-catenin in the nucleus of ageing neurons in the PFC. Aged and AD cases were
+double-labelled for REST (green) and b-catenin (red). Scale bars, 20 mm.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+
+Extended Data Figure 8 | Autophagy and REST. a, REST is distributed in a
+vesicular punctate distribution in the cytoplasm of cortical neurons in AD.
+Confocal immunofluorescence microscopy shows colocalization of REST
+with the autophagosome markers LC3, Atg7 and Atg12, but not with the
+lysosomal markers LAMP1 or LAMP2. b, Nuclear REST levels are reduced by
+activation of autophagy. SH-SY5Y cells were subject to serum withdrawal
+(-FBS, 40 h) to induce autophagy and maintained in Opti-MEM to preserve cell
+
+viability. Note that serum withdrawal results in depletion of nuclear REST
+(loss of green labelling that overlaps with the blue DAPI nuclear stain), which is
+restored by bafilomycin (-FBS/Baf). c, The autophagy inhibitors
+3-methyladenine (3-MA, 5 mM) and bafilomycin (Baf, 150 nM) increase
+nuclear REST. Values represent per cent of cells positive for nuclear REST,
+and represent the mean 6 s.e.m., n 5 3; **P , 0.01 by Student’s t-test.
+Scale bars, 15 mm.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+
+Extended Data Figure 9 | Neuronal REST levels are positively correlated
+with cognitive function and inversely correlated with AD neuropathology.
+a, Linear regression analysis shows that nuclear REST levels in PFC neurons are
+positively correlated with measures of cognition function. REST levels were
+determined by FACS analysis of isolated PFC neuronal nuclei. Each point
+represents an individual case, and REST level is normalized as fold change
+relative to the mean value of the young adult group. n 5 37, age range
+
+67–90 years. b, Nuclear REST levels in prefrontal cortical neurons decrease
+with increasing AD pathology. Shown are CERAD (1-frequent plaques, 2–3
+sparse/moderate plaques, 4-no plaques) and NIA-Reagan scores (composite
+index of neuritic plaques and neurofibrillary tangles; 1, high likelihood of AD;
+2, intermediate likelihood; 3, low likelihood). Values are the mean 6 s.e.m.
+CERAD 1, n 5 20; 2–3, n 5 11; 4, n 5 9; NIA-Reagan 1, n 5 12; 2, n 5 14;
+3, n 5 14. *P , 0.05, ***P , 0.001.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+
+Extended Data Figure 10 | REST, longevity and stress resistance.
+a, Prefrontal cortical (upper panel), hippocampal CA1 (middle panel) and
+cerebellar (lower panel) sections of individuals ranging in age from 57–102
+years were double-labelled for REST (green) and the neuronal marker MAP2
+(red). Cases with extreme longevity (98, 102 years) are associated with marked
+induction of REST in prefrontal cortical and hippocampal CA1 neurons,
+but not in cerebellar Purkinje cell (ovals) or granule cell neurons (to the right of
+the dashed line). Scale bar, 20 mm. b, REST increases the expression of genes
+
+associated with stress resistance and longevity. Shown are fold changes in
+mRNA levels for catalase (CAT), superoxide dismutase (SOD1) and FOXO1
+following REST knockdown (sh-RESTa or sh-RESTb) or overexpression
+(REST). Values represent the mean 6 s.d., *P , 0.05 by Student’s unpaired
+t-test. n 5 3. c, FOXO1 expression is dependent on REST. Western blotting of
+SH-SY5Y cells shows that shRNA-mediated REST knockdown (sh-REST 1)
+almost completely abolishes FOXO1 protein, which is prevented by
+shRNA-resistant mouse REST.
+
+©2014 Macmillan Publishers Limited. All rights reserved
+
+

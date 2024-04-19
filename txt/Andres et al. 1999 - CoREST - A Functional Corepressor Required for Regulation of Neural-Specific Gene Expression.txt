@@ -1,0 +1,518 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 96, pp. 9873–9878, August 1999
+Neurobiology
+
+CoREST: A functional corepressor required for regulation of
+neural-specific gene expression
+MARÍA E. A NDRÉS*†, CORINNA BURGER†‡, MARÍA J. PERAL-RUBIO†§, ELENA BATTAGLIOLI*, MARY E. A NDERSON*,
+JULIA GRIMES*, JULIA DALLMAN*, NURIT BALLAS*¶, AND GAIL MANDEL*㛳
+*Howard Hughes Medical Institute and Department of Neurobiology and Behavior, and ¶Department of Biochemistry and Cell Biology, State University
+of New York, Stony Brook, NY 11794
+
+Communicated by William J. Lennarz, State University of New York, Stony Brook, NY, June 25, 1999 (received for review April 30, 1999)
+
+ABSTRACT
+Several genes encoding proteins critical to
+the neuronal phenotype, such as the brain type II sodium
+channel gene, are expressed to high levels only in neurons.
+This cell specificity is due, in part, to long-term repression in
+nonneural cells mediated by the repressor protein
+REST兾NRSF (RE1 silencing transcription factor兾neuralrestrictive silencing factor). We show here that CoREST, a
+newly identified human protein, functions as a corepressor for
+REST. A single zinc finger motif in REST is required for
+CoREST interaction. Mutations of the motif that disrupt
+binding also abrogate repression. When fused to a Gal4
+DNA-binding domain, CoREST functions as a repressor.
+CoREST is present in cell lines that express REST, and the
+proteins are found in the same immunocomplex. CoREST
+contains two SANT (SW13兾ADA2兾NCoR兾TFIIIB B) domains, a structural feature of the nuclear receptor and
+silencing mediator for retinoid and thyroid human receptors
+(SMRT)-extended corepressors that mediate inducible repression by steroid hormone receptors. Together, REST and
+CoREST mediate repression of the type II sodium channel
+promoter in nonneural cells, and the REST兾CoREST complex may mediate long-term repression essential to maintenance of cell identity.
+
+Two distinct repressor domains have been identified and
+characterized in REST (6, 7). These domains are located in the
+amino and carboxyl termini of the protein. Both domains are
+required for full repression in the context of the intact molecule, but each domain is sufficient to repress type II sodium
+channel reporter genes when expressed as a Gal4 fusion
+protein (6). The C-terminal repressor domain contains a C2H2
+class zinc finger beginning approximately 40 aa upstream of the
+stop codon. Deleting this domain, or introducing a point
+mutation critical to the zinc finger motif, abolishes repressor
+activity (6). Because zinc finger motifs often mediate protein–
+protein interactions, we proposed that REST might function in
+conjunction with other nuclear factors or corepressors.
+In this study, we find that repression of the type II sodium
+channel promoter by REST requires a newly identified protein, CoREST, which fulfills the criteria for a bona fide
+corepressor. CoREST is a repressor; mutations that disrupt
+CoREST’s binding to REST also interfere with REST repression. Endogenous REST and CoREST proteins form a complex in cells that do not express the type II sodium channel
+gene.
+
+A large number of genes encoding neuronal phenotypic traits,
+including ion channels, neurotransmitters, synaptic proteins,
+and cell-adhesion molecules, are expressed only in neurons.
+One mechanism important in establishing and maintaining this
+neural specificity involves the DNA-binding protein REST兾
+NRSF (RE1 silencing transcription factor兾neural-restrictive
+silencing factor) (1–4), which serves to block expression of its
+target genes in nonneural tissues. Such maintained gene
+repression is in contrast to the more dynamic repression
+mechanism that regulates inducible gene expression in response to steroid hormone receptors, one of the best-studied
+mammalian repressor mechanisms (for review, see ref. 5).
+One REST target gene essential for neuronal physiology is
+that encoding the brain type II voltage-dependent sodium
+channel. This ion channel is required for the propagation of
+fast electrical signals in neurons, in the form of neuronal
+impulses, and is not expressed in nonneural tissues. As is true
+for other REST target genes, there is a reciprocal relationship
+between expression of the type II sodium channel gene and
+expression of REST. Additionally, when a REST expression
+plasmid is cotransfected into neuronal cells along with a type
+II sodium channel reporter, the expression of the reporter gene
+is reduced dramatically (1). This result indicates either that
+REST alone is sufficient to repress its target genes or that
+REST accessory factors are present in neuronal cells despite
+the absence of REST.
+
+Two-Hybrid Screening. The REST cDNA used for bait
+(LexA-C-REST) contains amino acids 525-1097 of REST. G.
+Hannon (Cold Spring Harbor Laboratory, Cold Spring Harbor, NY) provided the HeLa cell cDNA library. Library
+screens were carried out, as described previously (8, 9), by
+using HIS3 and LacZ reporters and the L40 strain provided by
+R. Sternglanz (State University of New York at Stony Brook).
+Specificity of the interaction was examined by a mating assay
+between the positive L40 transformants and an AMR-70 strain
+expressing REST-related proteins [LexA-N-REST, amino acids 1–525; LexA-C-RESTM1, amino acids 525-1097 (Cys-1062 3
+Arg); LexA-C3-REST, amino acids 1013–1097] and several
+LexA fusion proteins not related to REST. All cDNAs were
+characterized by sequence analysis.
+Library Screening. A ␭ Zap HeLa cDNA library (Stratagene) was screened with a cDNA probe representing a 5⬘
+
+MATERIALS AND METHODS
+
+Abbreviations: REST, RE1 silencing transcription factor; NRSF,
+neural-restrictive silencing factor; SMRT, silencing mediator for retinoid and thyroid hormone receptor; SMRTe, SMRT-extended;
+NCoR, nuclear receptor corepressor; SANT, SW13兾ADA2兾NCoR兾
+TFIIIB; GST, glutathione S-transferase; DBD, DNA-binding domain;
+CAT, chloramphenicol acetyltransferase.
+Data deposition: The sequence reported in this paper has been
+deposited in the GenBank database (accession no. AF155595).
+†M.E.A., C.B., and M.J.P-R. contributed equally to this work.
+‡Present address: Department of Molecular Genetics and Microbiology and Gene Therapy Center, University of Florida, Gainesville, FL
+32610-0266.
+§Present address: Department of Physiology, University of Seville,
+41012 Seville, Spain.
+㛳To whom reprint requests should be addressed. E-mail: gmandel@
+brain.neurobio.sunysb.edu.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked ‘‘advertisement’’ in
+accordance with 18 U.S.C. §1734 solely to indicate this fact.
+PNAS is available online at www.pnas.org.
+
+9873
+
+9874
+
+Neurobiology: Andrés et al.
+
+fragment of KIAA0071 (10). Positive clones were excised from
+the phagemid according to the manufacturer’s instructions
+(Stratagene) and characterized by chain-termination sequence
+analysis (Amersham Pharmacia) by using an ABI 300 automated sequencer (Applied Biosystems). One clone extended
+the published sequence of KIAA0071 by 101 aa and contains
+227 nt of 5⬘ untranslated region. This cDNA (termed CoR5b)
+was joined to KIAA0071 to generate full-length CoREST
+(described below).
+Plasmid Constructions. A CoREST expression vector (pcDNACoREST) was constructed by inserting an EcoRI-BstXI
+fragment from Cor5b and a BstXI-XbaI fragment from
+KIAA0071 into pcDNA1.1amp (Invitrogen). Cloning a
+BsaBI兾EcoRI-blunted fragment of CoREST cDNA into
+pcDNA3.1A (Invitrogen) linearized with EcoRV created an
+epitope-tagged version of CoREST (CoREST myc). Cloning
+CoR EST cDNA into vector pSG424 (6) created
+Gal4CoREST. The glutathione S-transferase (GST) CoREST
+vector used in the pulldown assays contains amino acids
+109–293 of CoREST. The CoREST sequences were placed
+in-frame with GST in the vector pGEX-3X (Amersham Phar-
+
+Proc. Natl. Acad. Sci. USA 96 (1999)
+macia). PCR and subsequent cloning into the vector pCGN
+(provided by J. Trimmer, State University of New York at
+Stony Brook) created an epitope-tagged version of the zinc
+finger domain of the C terminus of REST (HA-C3, amino
+acids 1009–1097). LexA-N-REST (amino acids 1–525) was
+created by a three-way ligation among pBTM116 cut with
+BamHI and SalI-blunt, a BamHI-ClaI fragment of pCBY
+REST2, and a ClaI-HincII fragment of REST. LexA-C-REST
+(amino acids 525-1097) was created by cloning a HindII-PstI
+fragment of NH7 (1) into pBTM116 cut with BamHI-blunt and
+PstI. LexA-C-RESTM1 (amino acids 525-1097, Cys1062 3
+Arg) was created by a three-way ligation of an EaeI-PstI
+fragment from C3M1 (6) plus a HindII-PstI fragment of NH7
+(1) into pBTM116 cut with BamHI and PstI. LexA-C3-REST
+(amino acids 1013–1097) was generated by cloning a PCR
+fragment containing amino acids 1013–1097 into pBTM116 cut
+with BamHI and PstI. The REST cDNAs lacking the Nterminal REST domain (REST⌬N; REEX 8) lacking the
+C-terminal zinc finger domain (REST⌬C; REEX9) or containing a point mutation in the zinc finger motif (RESTM1;
+Cys-1062 3 Arg) have been described previously (6). Gal4C3
+
+FIG. 1. Characterization of CoREST. (a) Predicted amino acid sequence of human CoREST (hCoREST) (accession no. AF155595). The
+underlined amino acids represent the protein fragment isolated in the yeast two-hybrid screen. The two SANT domains (15) are shaded. (b)
+Alignment of the two repeated SANT domains in CoREST and NCoR. For comparison, the SANT consensus and predicted structure are shown
+below. h, hydrophobic residues; ⫹ and ⫺, positively and negatively charged residues. Amino acids conforming to the SANT consensus are in
+boldface. Additional homologies between CoREST and NCoR are shaded. (c) Alignment of hCoREST (h) with a similar Drosophila protein (d)
+(accession no. AA392295). Conserved amino acids are shaded. Boldface type indicates the SANT domain. (d) Western blot of nuclear extracts from
+HEK293 cells transfected with pcDNA or with a myc-tagged CoREST cDNA. The probes were a polyclonal CoREST antibody (␣CoREST) and
+a monoclonal myc antibody (␣myc). The positions of migration of endogenous CoREST (66 kDa) and myc-CoREST (70 kDa) are indicated.
+
+Neurobiology: Andrés et al.
+and the type II promoter chloramphenicol acetyltransferase
+(CAT) reporter genes, pSDK7 and UAS type II, were described previously (1, 6).
+GST-Pulldown Assay. Radiolabeled REST proteins (35S)
+were made in TNT-coupled transcription兾translation reactions (Promega). The REST protein was incubated with 15 ␮g
+of GST or GSTCoREST (amino acids 109–293) in binding
+buffer (11) for 1.5 hr at 4°C, and then 80 ␮l of glutathioneSepharose beads (Pharmacia) preblocked with 5% BSA was
+added. The mixture was incubated for 1 hr at 4°C. Beads were
+washed six times with binding buffer. Bound proteins were
+eluted by boiling the beads with sample buffer, fractionated by
+SDS兾PAGE, and visualized by autoradiography.
+Antibodies. Rabbits were injected with GSTCoREST (amino acids 109–293) by Pocono Rabbit Farms (Canadensis, PA).
+The polyclonal antibody ␣CoREST was affinity-purified by
+following standard techniques (12). The monoclonal ␣-myc
+and ␣-hemagglutinin (HA) antibodies and the polyclonal
+␣-Gal4 DNA-binding domain (DBD) antibody were purchased
+from Santa Cruz Biotechnology.
+Immunoprecipitation and Western Blot Analyses. Antibodies (5 ␮g) were incubated (1 hr, 4°C) with 1 mg of protein
+extracted from L6 skeletal muscle cells by lysing cells in PBS
+containing 0.1% Nonidet P-40兾0.2 mM PMSF兾2 ␮g/ml ␣-antitrypsin兾2 ␮g/ml aprotinin兾2 ␮g/ml leupeptin兾1 mM DTT兾1
+mM Na3VO4. The mixture was incubated for an additional
+hour with 30 ␮l of protein G-agarose (GIBCO). Immunoprecipitates were washed two times with washing buffer (PBS兾350
+mM NaCl containing 0.1% Nonidet P-40) and two times with
+PBS, and then were eluted in sample buffer. The immunoprecipitated proteins were analyzed by Western blotting by using
+rabbit polyclonal REST antibody (1) and detected by using
+chemiluminescence (ECL; Amersham Pharmacia). Preparation of nuclear and cytoplasmic extracts was as described
+previously (13).
+Cell Culture and Transient Transfection. PC12 and L6 cells
+were grown as described (6). HEK293 cells were maintained in
+DMEM supplemented with 10% BCS. The HEK293 and PC12
+cells were transfected by using FuGENE 6 (Roche) or electroporated, respectively. Control experiments were carried out
+by using molar equivalent amount of empty vector. The total
+amount of transfected DNA was kept constant by adding
+pBluescript SR (Stratagene). CAT assays were performed 48
+hr after transfection as described (6).
+
+Proc. Natl. Acad. Sci. USA 96 (1999)
+
+9875
+
+FIG. 2. CoREST interacts with the C-terminal repressor domain of
+REST. (a) The family of REST cDNAs used in in vitro and in vivo
+experiments with CoREST. The larger solid rectangle depicts the eight
+zinc finger motifs in the DBD; the smaller rectangle depicts the single
+zinc finger in the C terminus. REST (amino acids 1–1097) represents
+full-length protein. (b) Yeast two-hybrid interactions between pGADCoREST (amino acids 109–293) and four different REST-LexA
+fusion proteins. (c) REST兾CoREST interactions in GST pull-down
+assay. Indicated REST constructs were transcribed and translated in
+vitro to yield 35S-labeled products and were incubated with immobilized GST or GSTCoREST (amino acids 109–293). Input (3% of total
+protein) and proteins bound to GST were analyzed by SDS兾PAGE.
+
+nuclear receptor corepressor (NCoR)兾silencing mediator for
+retinoid and thyroid human receptors (SMRT)-extended
+(SMRTe) corepressor (16, 17) and in the transcription factor
+
+RESULTS
+To identify proteins that might mediate repression through the
+C-terminal zinc finger motif of REST, a fragment corresponding to the C-terminal half of REST (amino acids 525–1097)
+was fused to the DBD of LexA and used in a yeast two-hybrid
+genetic screen with a HeLa cell–Gal4 activation-domain
+cDNA library. A screen of 7.6 ⫻ 106 clones yielded two
+identical cDNAs encoding a 183-aa fragment, and this fragment did not interact with several other, unrelated LexA fusion
+proteins (data not shown).
+A search of the GenBank database revealed that the isolated
+cDNA was identical to a cDNA coding for a protein of
+unknown function isolated from a human myelocarcinoma cell
+line (KIAA0071; accession no. D31888; ref. 10). A full-length
+cDNA was isolated from a HeLa library by using KIAA0071
+as probe, and the deduced ORF was found to encode a 482-aa
+protein (Fig. 1a, accession no. AF155595). The putative initiator methionine conforms to a Kozak consensus sequence
+(14) and is preceded by an in-frame stop codon. This protein
+was designated CoREST.
+The predicted CoREST primary structure contains two
+SANT (SW13兾ADA2兾NCoR兾TFIIIB) domains (15) separated by 191 aa (Fig. 1b). That a similar module exists in the
+
+FIG. 3. (a) CoREST is expressed in neuronal and nonneuronal
+cells. Western blot of nuclear extracts (50 ␮g) prepared from neuronal
+(PC12, GH3) and nonneuronal (HeLa, COS-1, L6) cell lines. The blot
+was probed with ␣CoREST antibody. Endogenous CoREST protein
+migrates at 66 kDa. (b) Demonstration of REST兾CoREST interaction
+in vivo by coimmunoprecipitation analysis. Whole-cell lysates prepared
+from L6 skeletal muscle cells were immunoprecipitated with the
+indicated antibodies and then subjected to Western blotting. The
+membrane was probed with ␣REST antibody (1). The arrow depicts
+migration of REST protein. Input corresponds to 50 ␮g of extract.
+␣CoREST and ␣Gal4DBD refer to antibodies against CoREST and
+against the DBD of Gal4 protein, respectively.
+
+9876
+
+Neurobiology: Andrés et al.
+
+Proc. Natl. Acad. Sci. USA 96 (1999)
+Adf1 (18) suggests that there is a conserved functional role for
+this arrangement of SANT domains. Interestingly, a Drosophila-expressed sequence tag (accession no. AA392295) that
+predicts an ORF with homology to the N-terminal portion of
+CoREST (dCoREST) was identified by a GenBank search.
+Sequence analysis of the cDNA and alignment of the predicted
+sequences indicates that the dCoREST and hCoREST predicted proteins are 84% identical over a span of 114 aa (Fig.
+1c). Included in this region is a SANT domain that is nearly
+identical in the two proteins.
+Western blot analysis, using an antibody raised against a
+GSTCoREST fusion protein, determined that endogenous
+CoREST expressed in cell lines migrates in SDS兾PAGE with
+an apparent molecular mass of 66 kDa (Fig. 1d). Transfection
+of a myc-tagged CoREST migrates at about 70 kDa (Fig. 1d).
+Both the endogenous and the transfected CoREST migrate as
+a doublet, suggesting posttranslational modification. Western
+blotting also showed that CoREST was present in a wide
+variety of neural (PC12, GH3) and nonneural (HeLa, L6
+skeletal muscle, COS) cell types (Fig. 3a). This result is in good
+agreement with previous Northern blot analysis, using the
+clone KIAA0071 as a probe, which indicated that CoREST
+mRNA was expressed ubiquitously in adult human tissues
+(unpublished data and ref. 10).
+The specificity of the interaction between REST and CoREST was examined in several ways. In yeast two-hybrid assays
+(Fig. 2b) CoREST (amino acids 109–293) was found to
+interact strongly with the C-terminal half of REST (C-REST)
+(Fig. 2a), as well as with a smaller C-terminal REST fragment
+(C3) containing the zinc finger motif known to mediate
+repressor activity. Furthermore, a point mutation in the zinc
+finger motif (C-RESTM1) that abolished repression (6) also
+abolished the REST–CoREST interaction. CoREST did not
+interact with the N-terminal part of REST (N-REST) containing the initiator methionine and the eight zinc fingers that
+constitute the DBD.
+To extend these results, a direct interaction between REST
+and CoREST was demonstrated by using a GST pull-down
+assay (Fig. 2c). Full-length REST (amino acids 1–1097) transcribed and translated in vitro was incubated with GSTCoREST or GST alone. REST associated specifically with GSTCoREST. There was no interaction between CoREST and
+REST⌬C (Fig. 2a), which lacks the C-terminal zinc finger. A
+point mutation in this motif (RESTM1) decreased the binding
+to GSTCoREST.
+Cell types that express CoREST were identified by Western
+blotting (Fig. 3a). In contrast to REST, which is expressed only
+in nonneuronal cell lines, CoREST was expressed in all cell
+lines tested. Because L6 skeletal muscle cells express the
+highest levels of REST (data not shown), these cells were used
+to test for in vivo interactions between endogenous REST and
+CoREST by using ␣CoREST and control antibodies. Western
+blotting revealed the presence of REST epitopes in the
+␣CoREST and not in control immunoprecipitates (Fig. 3b).
+
+FIG. 4. CoREST exhibits repressor activity when fused to a Gal4DBD and mediates repressor activity of REST. (a) Gal4-DBD (Gal4;
+amino acids 1–147) or Gal4CoREST expression vectors were transfected into HEK293 and PC12 cells, with a UAS type II CAT reporter
+gene (molar ratio of 1:1). (b Upper) Gal4REST lacking the N-terminal
+repressor domain (Gal4REST⌬N) was transfected into HEK293 cells
+along with a UAS type II CAT reporter gene. The role of CoREST was
+tested by addition of a cDNA coding for a REST competitor peptide
+containing the CoREST-binding site (Gal4REST⌬N ⫹ C3). Specificity of derepression was tested by over-expressing CoREST
+(Gal4REST⌬N ⫹ C3 ⫹ CoREST). (Lower) REST lacking the Nterminal repressor domain (REST⌬N) was transfected into PC12 cells
+
+along with an RE1 type II reporter gene. The role of CoREST was
+tested by addition of a cDNA coding for a REST competitor peptide
+containing the CoREST-binding site (REST⌬N ⫹ C3). Specificity of
+derepression was tested by overexpressing CoREST (REST⌬N ⫹ C3
+⫹ CoREST). CAT activity was monitored by TLC and autoradiography. Statistics were performed by using the nonparametric Mann–
+Whitney U test. ⴱ, P ⬍ 0.056 for REST⌬N ⫹ C3 ⫹CoREST compared
+with REST⌬N ⫹ C3 and Gal4REST⌬N ⫹ C3 ⫹ CoREST compared
+with Gal4REST⌬N ⫹ C3; ⴱⴱ, P ⬍ 0.0028 for REST⌬N ⫹ C3
+compared with REST⌬N; ⴱⴱⴱ, P ⬍ 0.0008 for Gal4REST⌬N ⫹ C3
+compared with Gal4REST⌬N. (c) Western blot of nuclear extracts of
+HEK293 cells transfected as in b. The probe was a monoclonal ␣Gal4
+antibody. (d) Western blot from nuclear (N) and cytoplasmic (C)
+extracts of HEK293 cells transfected with an HA-tagged C3. The
+probe was a monoclonal ␣HA antibody.
+
+Neurobiology: Andrés et al.
+If CoREST is a bona fide corepressor, in addition to binding
+to REST, CoREST might exhibit repressor activity. To test this
+idea, CoREST was fused to the DBD of Gal4 (Gal4CoREST)
+and cotransfected into PC12 and HEK293 cells along with a
+UAS type II sodium channel CAT reporter (6). This reporter
+is driven by the type II promoter but is missing the RE1
+sequences. Transfection with the Gal4 DBD alone had no
+effect on reporter expression (Fig. 4a). In contrast, transfection of Gal4CoREST repressed UAS type II reporter activity
+very effectively in HEK293 cells (between 15- and 20-fold
+repression; Fig. 4a). Furthermore, CoREST also repressed
+reporter activity in neuronal (PC12) cells (Fig. 4a), which lack
+REST.
+To provide further evidence that CoREST mediates repression by REST, a competition assay was performed. In this
+assay, REST⌬N (Fig. 2a) was cotransfected with a cDNA
+coding for a small fragment of REST containing the CoRESTbinding site (C3; Fig. 2a). The functional consequence of the
+competition, if endogenous CoREST indeed is mediating
+repression, should be an increase of the reporter activity
+(derepression). This result was observed using both nonneuronal (HEK293) (Fig. 4b Upper) and neuronal (PC12) cells
+(Fig. 4b Lower). The effect of the competitor protein could be
+reversed by overexpression of CoREST (Fig. 4b). As a control,
+the DBD of REST (p73; ref. 6) was transfected along with
+Gal4REST⌬N and C3 in HEK293 cells. Under these conditions, the activity of the reporter gene was similar to that
+observed with the competitor (C3) alone, showing that the
+effect of CoREST was specific (data not shown). Western blots
+showed that the expression of C3 or C3 plus CoREST in
+HEK293 cells did not decrease the expression of
+Gal4REST⌬N (Fig. 4c) and that C3 is present in both nuclear
+(N) and cytoplasmic (C) extracts of HEK293-transfected cells
+(Fig. 4d).
+
+DISCUSSION
+We have identified a factor, CoREST, that is part of the
+repressor mechanism leading to neural-specific expression of
+a large set of genes. CoREST and REST are present in a
+complex in nonneuronal cells, and CoREST exhibits repressor
+activity. Previous studies have shown that a C-terminal zinc
+finger domain in REST mediates repression (6). We find that
+the site of CoREST binding to REST maps to this domain.
+Further, the same mutation that disrupts repressor activity of
+REST by destroying the zinc finger motif (6) also blocks
+binding of CoREST. Thus, CoREST is an essential component
+of the repression mechanism used to block expression of type
+II sodium channel reporter genes in nonneuronal cell types.
+The predicted primary structure of CoREST contains a
+repeated 50-aa motif termed a SANT domain (15). A SANT
+domain is similar to the DBDs of myb oncoproteins. CoREST
+contains two SANT domains separated by 191 aa, and the same
+general arrangement also is found in the NCoR兾SMRTe
+corepressors for steroid hormone receptors (16, 17). In addition, between the SANT domains, CoREST and NCoR兾
+SMRTe contain a highly charged region. The function of the
+SANT domains in corepressors is not known, but in Adf1, a
+transcriptional activator that contains a similar dual-SANT
+module, one SANT domain binds to DNA and the other is a
+site of protein–protein interaction (18). CoREST is not known
+to bind to any specific DNA sequence, but the first SANT
+domain contributes to the binding to REST (unpublished
+data). It is possible that CoREST helps stabilize binding of
+REST to DNA via its SANT module, or, alternatively, CoREST may be involved in mediating other functions that
+require these domains. The identification of a Drosophila
+protein that is homologous to the amino terminus of CoREST
+
+Proc. Natl. Acad. Sci. USA 96 (1999)
+
+9877
+
+raises the possibility that some of the functions of CoREST, in
+addition to those mediated by the SANT domains, are conserved in invertebrates.
+The experiments showing that Gal4CoREST is a repressor
+in neuronal PC12 cells (Fig. 4a) suggest that the function of
+REST largely is to recruit the repression complex to the target
+DNA in nonneuronal cells. These data, together with the
+finding that CoREST is present in complexes with endogenous
+REST in nonneuronal cells (Fig. 3b), indicate that CoREST
+mediates REST repression through the REST C-terminal
+domain. The competition experiments, whereby a REST fragment that interferes with CoREST binding to REST also
+derepresses a type II reporter, further support this hypothesis.
+Western and Northern blot analyses (data not shown and ref.
+10) indicate that, unlike REST, CoREST is expressed ubiquitously in vivo. In particular, CoREST is present in brain,
+where REST, in general, is expressed at very low levels. The
+more widespread pattern of expression of CoREST in adult
+animals suggests that, in addition to serving as a corepressor
+for REST, CoREST might subserve a similar function for
+other DNA-binding proteins as well.
+The details of the mechanism by which REST represses its
+target genes are not known. It is possible that CoREST
+interacts and interferes with components of the basal transcriptional apparatus. Alternatively, CoREST could function as a repressor by recruiting, either directly or indirectly,
+histone deacetylase activity (19 –23). The corepressors
+NCoR兾SMRTe apparently repress through both mechanisms (19, 23, 24). In this regard, it will be interesting to
+determine whether CoREST is independent of the NCoR兾
+SMRTe pathway.
+We gratefully acknowledge R. Sternglanz and Simon Halegoua for
+insightful discussions and P. Brehm for generously taking time to help
+with graphics. The work was supported, in part, by grants from the
+National Institutes of Health (NS22518) and the McKnight Foundation (to G.M.). J.D. is supported by a National Research Service
+Award, and M.E.A. is supported by a Pew Fellowship. N.B. is
+supported by Grant GM 50224-S1 from the National Institutes of
+Health.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+Chong, J. A., Tapia-Ramı́rez, J., Kim, S., Toledo-Aral, J. J.,
+Zheng, Y., Boutros, M. C., Altshuller, Y. M., Frohman, M. A.,
+Kraner, S. D. & Mandel, G. (1995) Cell 80, 949–957.
+Schoenherr, C. J. & Anderson, D. J. (1995) Science 267, 1360–
+1363.
+Schoenherr, C. J., Paquette, A. J. & Anderson, D. J. (1996) Proc.
+Natl. Acad. Sci. USA 93, 9881–9886.
+Chen, Z. F., Paquette, A. J. & Anderson, D. J. (1998) Nat. Genet.
+20, 136–142.
+Goodman, R. H. & Mandel, G. (1998) Curr. Opin. Neurobiol. 8,
+413–417.
+Tapia-Ramı́rez, J., Eggen, B. J., Peral-Rubio, M. J., Toledo-Aral,
+J. J. & Mandel, G. (1997) Proc. Natl. Acad. Sci. USA 94,
+1177–1182.
+Thiel, G., Lietz, M. & Cramer, M. (1998) J. Biol. Chem. 273,
+26891–26899.
+Park, H. & Sternglanz, R. (1998) Chromosome 107, 211–215.
+Hollenberg, S. M., Sternglanz, R., Cheng, P. F. & Weintraub, H.
+(1995) Mol. Cell. Biol. 15, 3813–3822.
+Nomura, N., Nagase, T., Miyajima, N., Sazuka, T., Tanaka, A.,
+Sato, S., Seki, N., Kawarabayasi, Y., Ishikawa, K. & Tabata, S.
+(1994) DNA Res. 1, 223–229.
+Kirov, N. C., Lieberman, P. M. & Rushlow, C. (1996) EMBO J.
+15, 7079–7087.
+Harlow, E. & Lane, D. (1995) Antibodies: A Laboratory Manual
+(Cold Spring Harbor Lab. Press, Plainview, NY).
+Dignam, J. D., Lebovitz, R. M. & Roeder, R. G. (1983) Nucleic
+Acids Res. 11, 1475–1489.
+Kozak, M. (1986) Cell 47, 481–483.
+Aasland, R., Stewart, A. F. & Gibson, T. (1996) Trends Biochem.
+21, 87–88.
+
+9878
+16.
+17.
+18.
+19.
+20.
+
+Neurobiology: Andrés et al.
+Hörlein, A. J., Näär, A. M., Heinzel, T., Torchia, J., Gloss, B.,
+Kurokawa, R., Ryan, A., Kamei, Y., Söderström, M., Glass, C. K.,
+et al. (1995) Nature (London) 377, 397–404.
+Park, E. J., Schroen, D. J., Yang, M., Li, H., Li, L. & Chen, J. D.
+(1999) Proc. Natl. Acad. Sci. USA 96, 3519–3524.
+Cutler, G., Perry, K. M. & Tjian, R. (1998) Mol. Cell Biol. 18,
+2252–2261.
+Alland, L., Muhle, R., Hou, H., Potes, J., Chin, L., SchreiberAgus, N. & DePinho, R. (1997) Nature (London) 387, 49–55.
+Brehm, A., Miska, E. A., McCance, D. J., Bannister, A. J. &
+Kouzarides, T. (1998) Nature (London) 391, 597–601.
+
+Proc. Natl. Acad. Sci. USA 96 (1999)
+21.
+22.
+23.
+24.
+
+Heinzel, T., Lavinsky, R. M., Mullen, T. M., Söderström, M.,
+Laherty, C. D., Torchia, J., Yang, W. M., Brard, G., Ngo, S. D.,
+Davie, J. R., et al. (1997) Nature (London) 387, 43–48.
+Magnaghi-Jaulin, L., Groisman, R., Naguibneva, I., Robin, P.,
+LeVillain, J. P., Troalne, F., Trouche, D. & Harel-Bellan, A.
+(1998) Nature (London) 391, 601–604.
+Nagy, L., Kao, H. Y., Chakravarti, D., Lin, R. J., Hassig, C. A.,
+Ayer, D. E., Schreiber, S. L. & Evans, R. M. (1997) Cell 89,
+373–380.
+Muscat, G. E. O., Burke, L. J. & Downes, M. (1998) Nucleic Acids
+Res. 26, 2899–2907.
+
+

@@ -1,0 +1,582 @@
+Reciprocal actions of REST and a microRNA
+promote neuronal identity
+Cecilia Conaco†, Stefanie Otto†, Jong-Jin Han, and Gail Mandel‡
+Department of Neurobiology and Behavior, Howard Hughes Medical Institute, State University of New York, Stony Brook, NY 11794
+Communicated by Richard H. Goodman, Oregon Health & Science University, Portland, OR, December 22, 2005 (received for review November 19, 2005)
+
+MicroRNAs (miRNAs) are implicated in both tissue differentiation
+and maintenance of tissue identity. In most cases, however, the
+mechanisms underlying their regulation are not known. One brainspecific miRNA, miR-124a, decreases the levels of hundreds of
+nonneuronal transcripts, such that its introduction into HeLa cells
+promotes a neuronal-like mRNA profile. The transcriptional repressor, RE1 silencing transcription factor (REST), has a reciprocal
+activity, inhibiting the expression of neuronal genes in nonneuronal cells. Here, we show that REST regulates the expression of a
+family of miRNAs, including brain-specific miR-124a. In nonneuronal cells and neural progenitors, REST inhibits miR-124a expression,
+allowing the persistence of nonneuronal transcripts. As progenitors differentiate into mature neurons, REST leaves miR-124a gene
+loci, and nonneuronal transcripts are degraded selectively. Thus,
+the combined transcriptional and posttranscriptional consequences of REST action maximize the contrast between neuronal
+and nonneuronal cell phenotypes.
+noncoding RNA 兩 repression 兩 neuronal phenotype
+
+G
+
+eneration of cellular diversity during development requires
+coordination of gene expression mediated by both positive
+and negative transcriptional regulators. In neuronal development, inhibitory pathways have been shown to play a particularly
+important role (1, 2). Many neuronal genes are actively repressed
+in nonneuronal cells through a conserved 23-bp repressor element (RE1) that interacts with a zinc-finger protein known as
+the RE1 silencing transcription factor (REST兾NRSF) (3, 4).
+REST mediates silencing of its target genes through the recruitment of histone deacetylases by corepressors associated with its
+repressor domains (5–8). During the transition from pluripotent
+cell to postmitotic neuron, REST is down-regulated, allowing
+genes encoding fundamental neuronal traits to be expressed (9).
+The extent to which REST contributes to mechanisms underlying other types of cellular specificity is not well established,
+although it has been shown recently to be a tumor suppressor in
+epithelial cells (10).
+MicroRNAs (miRNAs) are also excellent candidates for regulating cellular phenotype. These small, highly conserved regulatory molecules modulate gene expression posttranscriptionally by targeting mRNAs for translational repression or
+degradation (11–13). miRNAs are produced from larger primary
+transcripts originating from distinct genes (14). The primary
+transcript is subjected to two processing steps, generating first a
+stem-loop precursor transcript that is exported to the cytoplasm
+and subsequently the ⬇21- to 23-nt mature miRNA. One strand
+of the mature miRNA is preferentially incorporated into the
+RNA-induced silencing complex. This effector complex then is
+guided by the miRNA to target mRNAs bearing miRNA recognition elements in their 3⬘UTR (11–14). Since their discovery,
+miRNAs have been shown to play important roles in diverse
+biological processes, including developmental timing and patterning in Caenorhabditis elegans (15–21), apoptosis in Drosophila melanogaster (22–24), and insulin secretion of pancreatic islet
+cells (25). Evidence also supports the idea that miRNAs may be
+important during late vertebrate development (26, 27), particularly for lineage differentiation of various tissue types (28–30).
+2422–2427 兩 PNAS 兩 February 14, 2006 兩 vol. 103 兩 no. 7
+
+Although recent studies are starting to unravel how miRNAs
+fit into signaling pathways that govern cell fate decisions, the
+factors that control miRNA expression and their precise roles
+during the acquisition of a specific cell phenotype are just
+beginning to become elucidated. During cardiogenesis, for
+example, serum response factor induces the expression of
+muscle-specific miRNA, miR-1, which in turn controls cardiomyocyte proliferation by down-regulating the Hand2 transcription factor (30). Establishment of the left–right asymmetry of chemosensory neurons in C. elegans also involves a
+signaling network of transcription factors and miRNAs (19 –
+20). In the mammalian nervous system, where cellular diversity
+is extreme, the factors responsible for miRNA gene regulation
+are only just emerging (31).
+Here, we show that REST regulates a family of mouse miRNA
+genes by transcriptional repression. One of the target miRNAs,
+miR-124a, is known to be expressed to high levels throughout the
+mature nervous system. We show that similar to canonical
+REST-regulated genes, miR-124a is expressed as a result of the
+dismissal of REST from its binding sites on the chromatin during
+neuronal differentiation. Blocking miR-124a activity in mature
+neurons leads selectively to increased levels of nonneuronal
+transcripts. Our findings reveal that the establishment and
+maintenance of neuronal identity requires both derepression of
+REST-regulated genes as well as posttranscriptional downregulation of nonneuronal transcripts by a miRNA that is also
+under REST control.
+Results
+A Family of Mouse miRNAs Contains Functional REST-Binding Sites.
+
+Serial analysis of chromatin occupancy (SACO) is an unbiased
+method for identifying functional transcription factor-binding
+sites genome-wide (32). By using this method for identifying
+REST-binding sites in a nonneuronal murine kidney cell line
+(TCMK1), we discovered a family of mouse miRNA genes that
+reside in close proximity to binding sites for the transcriptional
+repressor, REST (Fig. 1A; see also Table 1, which is published
+as supporting information on the PNAS web site). This family
+includes miR-9-1, -9-2, -9-3, -124a-1, -124a-2, -124a-3, and -132,
+all of which are expressed in brain (33–39). Each of the miR-9
+gene loci gives rise to two mature miRNAs, miR-9 and -9*,
+whereas the three miR-124a loci give rise to only one mature
+miRNA, miR-124a. Both miR-9 and -9*, as well as miR-124a, are
+highly enriched throughout the brain and are up-regulated
+during rat brain corticogenesis (34) and during neuronal differentiation of P19 embryonal carcinoma cells (36). In contrast, the
+Conflict of interest statement: No conflicts declared.
+Abbreviations: ChIP, chromatin immunoprecipitation; GAD1, glutamic acid decarboxylase;
+MEF, mouse embryonic fibroblast; miRNA, microRNA; RE, repressor element; REST, RE1
+silencing transcription factor; CoREST, REST corepressor; dnREST, dominant negative form
+of REST; SACO, serial analysis of chromatin occupancy; TK, thymidine kinase; 2⬘-OMe,
+2⬘-O-methyl; En, embryonic day n.
+†C.C. and S.O. contributed equally to this work.
+‡To whom correspondence should be addressed. E-mail: gmandel@notes.cc.sunysb.edu.
+
+© 2006 by The National Academy of Sciences of the USA
+
+www.pnas.org兾cgi兾doi兾10.1073兾pnas.0511041103
+
+product of the miR-132 gene is expressed at a lower level and is
+restricted to particular areas in the brain (39).
+Chromatin immunoprecipitation (ChIP) analysis in kidney
+cells verified that REST occupied the RE1 sites associated with
+each of the SACO-identified miRNA genes (Fig. 1 A). Evidence
+that REST regulates the expression of these miRNAs was
+provided initially by the introduction of a dominant negative
+form of REST (dnREST), which contains the DNA-binding
+domain but lacks repressor domains, into mouse embryonic
+fibroblasts (MEFs) by adenoviral transduction. Quantitative
+PCR was used to measure the expression level of each miRNA.
+With the exception of miR-124a, for which it was possible to
+design a single primer set that could detect the transcripts from
+all three loci, primers for the other miRNA genes were designed
+to detect each unique precursor transcript. Expression of
+dnREST resulted in an increase in endogenous transcript levels
+for miR-9, -124a, and -132 (Fig. 1B), an induction comparable
+with that seen with other REST-regulated genes (9, 40–42).
+Consistent with their regulation in MEFs, the ectopic expression
+of REST in cortical neurons that do not express this transcriptional repressor resulted in a decrease in the steady RNA levels
+of miR-9 and -124a after 24 h (Fig. 1C) and miR-132 after 48 h
+(data not shown).
+REST Confers Neuronal-Specific Expression of miR-124a. We initially
+
+chose to study REST regulation of miR-124a in more depth
+because of its evolutionary conservation, abundance, and reConaco et al.
+
+REST Regulation of miR-124a Promotes a Neuronal Phenotype. miRNAs
+can regulate their target transcripts either by blocking translation or by causing mRNA degradation (11–13). In a recent study,
+Lim et al. (44) demonstrated that overexpression of miR-124a in
+HeLa cells resulted in selective down-regulation of nonneuronal
+PNAS 兩 February 14, 2006 兩 vol. 103 兩 no. 7 兩 2423
+
+NEUROSCIENCE
+
+Fig. 1. REST occupies RE1 sites associated with a family of miRNAs. (A) miRNA
+genes identified as potential REST targets in a REST SACO screen bind REST in
+vivo. (Left) Schematic diagram showing chromosomal locations of RE1 sites
+(vertical lines) with respect to the predicted stem-loop precursors of the
+miRNA transcripts (gray boxes). (Right) ChIP analysis showing REST occupancy
+at the miRNA loci in TCMK1 kidney cells. REST-N and REST-C refer to Abs
+directed against the N and C termini of REST. Rabbit IgG served as control. (B
+and C) Quantitative PCR analysis showing that endogenous miRNA genes are
+regulated by REST. Levels of miRNAs were measured 24 h after transduction
+of MEFs with dnREST (B) or of E15.5 postmitotic cortical neurons with REST (C).
+miRNA levels were normalized to endogenous GAPDH mRNA. Fold changes in
+miRNA expression are shown as the ratio of geometric means of transcript
+levels in cells expressing dnREST or full-length REST relative to cells transduced
+with an adenovirus expressing only GFP. The limits of the 95% confidence
+intervals indicate variability of the changes (*, P ⱕ 0.05; **, P ⱕ 0.005,
+Student’s t test).
+
+striction to the nervous system. Vertebrate genomes possess
+three highly conserved miR-124a genes, whereas invertebrates
+only have one. The single miR-124 gene in the invertebrates C.
+elegans and D. melanogaster gives rise to a mature miRNA of the
+same sequence as vertebrate miR-124a, although their precursor
+transcripts differ at several nucleotides (Fig. 2A). Interestingly,
+although invertebrates possess a miR-124 gene, they appear to
+lack REST. However, Dallman et al. (43) have shown previously
+in flies that REST may be replaced functionally by the transcriptional repressor, Tramtrack 88 (ttk88). Consistent with this
+finding, a consensus ttk88 binding site is present in the promoter
+region of the single locus encoding miR-124 in D. melanogaster.
+In the mouse, the miR-124a genes (miR-124a-1, -124a-2, and
+-124a-3) are located on chromosomes 14, 3, and 2, respectively
+(Fig. 2B). Each miR-124a locus is associated with either ESTs or
+annotated mRNAs. However, these mRNAs do not code for any
+known proteins, suggesting that they may be part of the primary
+miRNA transcript. Active transcription at all three miR-124a
+loci could explain the abundance of this miRNA in neuronal
+tissues.
+We examined the expression of REST protein and mature
+miR-124a in mouse embryonal carcinoma (P19) cells undergoing
+neuronal differentiation in response to retinoic acid (Fig. 3A).
+Differentiation was monitored by the appearance of the neuronal marker, neuronal ␤III-tubulin (TuJ1). The expression of
+mature miR-124a at 4 days after retinoic acid treatment coincided with the disappearance of REST protein and terminal
+differentiation, as evidenced by the expression of TuJ1. In
+contrast, expression levels of the REST corepressor, CoREST,
+which is expressed in both neural progenitors and mature
+neurons (9), were independent of changes in REST levels. The
+reciprocity of REST and miR-124 gene expression during P19
+differentiation was accounted for by changes in the occupancy of
+REST on the chromatin. ChIP analysis (Fig. 3B Left) showed
+that REST occupied the RE1 sites of miR-124a-1, -124a-2, and
+-124a-3, as well as the RE1 of the REST-regulated glutamic acid
+decarboxylase (GAD1) gene, in primary cortical progenitors,
+but was dismissed from the chromatin in mature cortical neurons. The dismissal of REST from the RE1 sites coincided with
+the appearance of mature miR-124a, measured by ribonuclease
+protection analysis, in cortical neurons; miR-124a was barely
+detectable in the dividing cortical progenitors (Fig. 3B Right).
+To determine that the repression of miR-124a was because of
+REST bound specifically to the RE1 sites, a luciferase reporter
+assay was performed in the murine kidney cell line TCMK1.
+Luciferase reporter genes were constructed with flanking sequences containing the RE1 sites of miR-124a-3 or GAD1
+cloned upstream of the thymidine kinase (TK) promoter that is
+active in both neuronal and nonneuronal cell types (TK-miR124a-3 RE1, TK-GAD1 RE1). As predicted, luciferase activity
+was lower for the constructs bearing the RE1 of miR-124a-3 or
+GAD1 compared with constructs in which the RE1 site had been
+deleted (TK-miR-124a-3 ⌬RE1, TK-GAD1 ⌬RE1) because of
+the presence of endogenous REST protein in these cells (Fig.
+3C). To confirm that binding of REST to the RE1s was
+responsible for the lower activity, the cells were cotransfected
+with the reporter and either dnREST or vector alone. Expression
+of dnREST resulted in a doubling of luciferase activity for the
+construct containing the miR-124a-3 RE1 and a 7-fold increase
+in activity for the construct containing the RE1 of the canonical
+REST-regulated gene, GAD1. Constructs lacking RE1 sites
+were not affected by the presence of dnREST (Fig. 3D).
+
+Fig. 2. Conservation of miR-124a. (A) Comparison of miR-124a stem-loop precursor sequences across species. Nucleotides conserved across all species are shown
+in dark gray, and regions conserved in vertebrates, but not in invertebrates, are in light gray. The box indicates the sequence of mature miR-124a. (B) Predicted
+stem-loop precursors for each miRNA are depicted as short filled rectangles with a vertical bar representing the mature miRNA. miR-124a-1 and -124a-2 are
+located within GenBank transcripts, and miR-124a-3 is located within a mouse EST (arrows indicate direction of transcription). Alignment scores, indicated by
+black bars in the conservation track, show that the three miR-124a loci are located in conserved regions of the mouse genome (UCSC, Mm5 assembly).
+
+transcripts. Sequence analysis of the 3⬘UTR of these transcripts
+revealed a preponderance of matches to the seed region (nucleotides 2–7) of miR-124a, suggesting that the miRNA was
+directly targeting these mRNAs for degradation. One caveat of
+this study, however, was that it was based exclusively on an
+overexpression paradigm in cells in which miR-124a is not
+normally expressed. To address this problem, we depleted
+miR-124a from primary cultures of terminally differentiated
+cortical neurons with antisense 2⬘-O-methyl (2⬘-OMe) oligoribonucleotides. Because of their resistance to ribonuclease cleavage, the irreversible binding of 2⬘-OMe oligoribonucleotides to
+cognate miRNAs can efficiently inhibit interaction of the
+miRNA with its mRNA targets (45). The mRNA levels for 17
+nonneuronal transcripts identified in Lim et al. (44) were measured by quantitative PCR 48 h after 2⬘-OMe transfection into
+neurons. A significant increase in transcript levels was observed
+for 10 of these transcripts in miR-124a 2⬘-OMe-treated neurons
+relative to neurons treated with an antisense 2⬘-OMe to a
+muscle-specific miRNA, miR-1 (Fig. 4A). Transcript levels for
+CoREST, a gene expressed abundantly in neurons, did not
+change. Conversely, overexpression of miR-124a in MEFs resulted in a decrease in all 17 nonneuronal transcripts relative to
+cells treated with miR-124a mut5–6, an inactive mutated version
+of miR-124a (Fig. 4B).
+Discussion
+To date, regulation by REST has been ascribed largely to
+neuronal genes that encode proteins expressed in most terminally differentiated neurons. Among these proteins are axon
+guidance molecules, ion channels, synaptic vesicle proteins, and
+neurotransmitter receptors (3, 4, 9, 40, 41, 46–57). The unbiased
+SACO screen in a kidney cell line has now revealed that
+noncoding miRNAs represent yet another set of target genes for
+2424 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0511041103
+
+REST. Moreover, REST regulation of miR-124a is similar to
+that of canonical REST-regulated neuronal genes. During neurogenesis, for example, REST repression is lost as REST is
+dismissed from the RE1 sites on the miRNA chromatin.
+In nonneuronal cells, the neuronal phenotype is suppressed by
+REST repression of neuronal genes. This finding raises the
+question of whether there is a reciprocal mechanism in neurons
+for the suppression of nonneuronal genes. miR-124a is a good
+candidate to mediate such a mechanism because its overexpression in HeLa cells and MEFs results in the selective downregulation of many nonneuronal transcripts (ref. 44 and Fig. 4B).
+Moreover, as shown in this work, inhibition of miR-124a function
+in neurons, where it is normally expressed, results in the selective
+up-regulation of nonneuronal transcripts. This result provides
+further support for the role of this miRNA as a constitutive
+repressor of mRNAs encoding a large diversity of nonneuronal
+proteins. Interestingly, however, not all of the transcripts downregulated by overexpression of miR-124a in nonneuronal cells
+were affected by depletion of miR-124a in neurons (Fig. 4A).
+Possible explanations for this outcome are as follows: (i) Overexpression causes off-target down-regulation of transcripts; (ii)
+down-regulation of some transcripts in nonneuronal cells is an
+indirect effect of direct targets of miR-124a, such as transcriptional activators or RNA binding proteins that may function to
+stabilize nonneuronal transcripts; and (iii) in neurons, a single
+nonneuronal mRNA may be regulated by multiple miRNAs such
+that blocking miR-124a alone is not sufficient to cause upregulation. Further studies will be required to discriminate
+among these possibilities.
+On the basis of our results, and the work of Lim et al. (44), we
+propose a simple model for how contrast, exemplified by distinct
+mRNA profiles, is achieved between neuronal and nonneuronal
+cell phenotypes (Fig. 4C). In nonneuronal cells, REST binds to
+Conaco et al.
+
+of nonneuronal transcripts mediated by miR-124a. Together,
+these two events now alter the balance in favor of the neuronal
+phenotype. The requirement for persistent down-regulation of
+nonneuronal transcripts might seem uneconomical. In actuality,
+however, the use of neuronal miRNAs to regulate mRNA
+concentrations posttranscriptionally allows for basal transcription of these genes in neurons by the same transcription factors
+and cognate genetic elements used in nonneuronal cells, an
+economy of genomic function.
+A large number of miRNAs are expressed during the progression of cortical development (33–38). It seems likely that
+their distinct spatiotemporal expression patterns reflect specific
+roles in coordinating the gene expression profiles that characterize neuronal subtypes. Indeed, a recent study in C. elegans has
+revealed a dual miRNA circuit that regulates a terminal cell fate
+decision between two distinct neuronal types (19). It remains to
+be seen how the REST-regulated miRNAs, other than miR124a, function during mammalian nervous system development
+or in the fine-tuning of neuronal functions.
+Materials and Methods
+
+Fig. 3. REST confers neuronal specificity of miR-124a. (A) Western blot and
+ribonuclease protection assay (RPA) showing the disappearance of REST protein and appearance of mature miR-124a during neuronal differentiation of
+P19 cells with retinoic acid (RA). Neuronal ␤III-tubulin (TuJ1) indicates presence of mature neurons. Levels of 5s rRNA and CoREST protein serve as
+controls. (B Left) ChIP analysis showing REST leaving the chromatin of the
+three miR-124a loci as cortical progenitors differentiate into cortical neurons.
+The neuronal-specific GAD1 gene and REST coding sequence serve as positive
+and negative controls, respectively. (Right) RPA analysis showing miR-124a
+expression in cortical neurons (CN) but not in cortical progenitors (CP). (C)
+Luciferase reporter analysis showing that RE1-containing constructs (TK-miR124a-3 RE1, TK-GAD1 RE1) transfected into TCMK1 kidney cells have lower
+luciferase activity compared with constructs lacking the RE1 (TK-miR-124a-3
+⌬RE1, TK-GAD1 ⌬RE1). Relative luciferase activity was measured after 48 h.
+Error bars represent SD from three independent experiments (**, P ⱕ 0.005,
+Student’s t test). (D) Luciferase reporter assay in TCMK1 kidney cells showing
+derepression of reporters bearing the RE1s of miR-124a-3 and GAD1 upon
+introduction of dnREST. Fold changes in luciferase activity are shown as the
+ratios of the geometric means of reporter activity with and without dnREST.
+Variability is indicated by the limits of the 95% confidence intervals (**, P ⱕ
+0.005, Student’s t test).
+
+consensus RE1 sites in neuronal genes and miR-124a and blocks
+their transcription. The repression of miR-124a, in turn, results
+in persistence of hundreds of nonneuronal transcripts, thus
+greatly favoring the nonneuronal phenotype. In neurons, where
+REST is absent, global derepression of neuronal genes and
+miR-124a occurs in conjunction with en masse down-regulation
+Conaco et al.
+
+embryonal carcinoma cells were obtained from the American
+Type Culture Collection. TCMK1 cells were maintained in
+MEM with 10% FBS, 1% sodium pyruvate, 1% nonessential
+amino acids, and 1.5 mg兾ml sodium bicarbonate. P19 cells were
+cultured in ␣MEM with 7.5% bovine calf serum and 2.5% FBS
+and maintained subconfluent before neuronal induction. Neuronal induction was performed essentially as described in ref. 58.
+Briefly, 1 ⫻ 106 P19 cells were allowed to aggregate in polystyrene Petri dishes (Fisher) in the presence of 500 nM retinoic acid
+(Sigma). After 4 days, the cells were dissociated and plated at 6 ⫻
+106 cells on 10-cm tissue culture dishes (Falcon). Primary MEFs
+were derived from embryonic day (E) 14.5 embryos and grown
+in DMEM with 10% FBS, 2 mM L-glutamine, and 1% nonessential amino acids. Cortical progenitors were isolated from
+E12.5 mouse embryos and grown in Neurobasal medium supplemented with 40 ng兾ml bFGF (Chemicon), 2% B27, and 500
+␮M L-glutamine (59). Cortical neurons were isolated from E15.5
+mouse embryos as described in ref. 9 and maintained in Neurobasal medium with 2% B27 and 500 ␮M L-glutamine. After 3
+days in vitro, the cortical neurons were treated with 5 ␮M
+cytosine arabinoside (Sigma) to inhibit the growth of proliferating cells.
+SACO. A REST SACO library was constructed from TCMK1
+
+cells according to Impey et al. (32). Sequence analysis was
+performed by the Cold Spring Harbor Laboratory Genome
+Research Center.
+ChIP Analyses. ChIP was performed as described in ref. 8.
+Crosslinked chromatin was immunoprecipitated by using the
+following polyclonal antibodies (Abs): anti-REST-N (3) and
+anti-REST-C (9). After the reversal of crosslinks, the DNA was
+purified by using the QIAquick PCR purification kit (Qiagen,
+Valencia, CA). All DNA samples were subjected to 50 cycles
+of PCR.
+Western Blotting and Ribonuclease Protection Assay. P19 cells un-
+
+dergoing neuronal differentiation were collected for protein and
+RNA extraction every day for 6 days. Whole cell protein extracts
+were prepared as described in ref. 6. Protein extracts were
+quantitated by using the Coomassie Plus Protein Assay Reagent
+(Pierce), and 50 ␮g of protein was resolved on 7% polyacrylamide gels. The following Abs were used for Western blotting:
+anti-REST-N (3), anti-CoREST (5), and anti-␤III-tubulin
+(TuJ1; Covance, Richmond, CA). For ribonuclease protection
+assay of miRNAs, total RNA was extracted by using TRIzol
+PNAS 兩 February 14, 2006 兩 vol. 103 兩 no. 7 兩 2425
+
+NEUROSCIENCE
+
+Cell Culture. A murine kidney cell line (TCMK1) and P19
+
+Fig. 4. Inhibition of miR-124a in neurons unmasks regulation of nonneuronal transcripts. (A) Quantitative PCR showing that depletion of miR-124a using an
+antisense 2⬘-OMe oligoribonucleotide results in increased levels of nonneuronal transcripts in cortical neurons. The level of the nontarget transcript for CoREST
+did not change. Expression of target mRNAs was measured after 48 h and normalized to GAPDH. Fold changes in mRNA expression are shown as the ratio of
+the geometric means of transcript levels in cells transfected with an antisense 2⬘-OMe to miR-124a relative to cells transfected with an antisense 2⬘-OMe to
+muscle-specific miR-1. Variability is indicated by the limits of the 95% confidence intervals (*, P ⱕ 0.05, **, P ⱕ 0.005, Student’s t test). (B) Quantitative PCR showing
+that overexpression of miR-124a down-regulates nonneuronal transcripts in MEFs. Expression of target mRNAs was measured after 24 h and normalized to
+GAPDH. Fold changes in mRNA expression are shown as the ratio of the geometric means of transcript levels in cells overexpressing miR-124a relative to cells
+treated with an inactive mutated version of miR-124a (miR-124a mut5– 6). Variability is indicated by the limits of the 95% confidence intervals. (C) A hierarchy
+of two global negative regulators, REST and miR-124a, promotes a neuronal phenotype. (Upper) REST transcriptionally represses neuronal genes and miR-124a
+in nonneuronal cells and neural progenitors. (Lower) The dismissal of REST from chromatin during neurogenesis results in en masse expression of neuronal genes
+and down-regulation of competing nonneuronal transcripts through miR-124a function.
+
+(Invitrogen). Two micrograms of RNA was used with the
+mirVana miRNA detection kit (Ambion, Austin, TX) following
+the manufacturer’s protocol. Probes for miRNA detection were
+synthesized by Integrated DNA Technologies (Coralville, IA)
+and end-labeled with 32P by using the mirVana probe and marker
+kit (Ambion).
+
+analyze changes in miRNA expression, ratios of the geometric
+means between control and experimental samples were calculated. The limits of a 95% confidence interval were determined
+to indicate variability of the mean ratios for each miRNA.
+Significance was determined by using Student’s t test.
+Luciferase Assay. A vector encoding the firefly luciferase gene,
+
+Adenoviral Vectors and Transduction. Adenoviral vectors express-
+
+ing full-length REST and dnREST that lacks both N- and
+C-terminal repressor domains are described in ref. 3. Primary
+cortical neurons (E15.5) were infected after 5 days in vitro with
+adenovirus at a multiplicity of infection of 50–100. Calcium
+phosphate precipitation was used to introduce adenovirus into
+MEFs (60). Briefly, virus was resuspended in MEM and precipitates were allowed to form with the addition of 25 mM CaCl2.
+The precipitate was applied to the MEFs for 30 min and then
+replaced with fresh medium.
+RNA Isolation and Quantitative Real-Time PCR Analysis of miRNAs.
+
+Total RNA from adenovirus transduced primary cortical neurons and MEFs was extracted by using the RNeasy kit (Qiagen)
+and treated with DNase (DNA-free kit, Ambion). Reverse
+transcription was performed by using Superscript III (Invitrogen). Quantitative real-time PCR was performed in an Applied
+Biosystems PRISM 7900HT Fast Real-Time PCR System with
+SYBR green PCR master mix (Applied Biosystems). Primers
+(see Data Set 1, which is published as supporting information on
+the PNAS web site) for miRNA detection were designed within
+the precursor stem-loop for each individual miRNA gene locus,
+with the exception of miR-124a, for which a single set of primers
+was able to recognize precursor transcripts from all its gene loci.
+The relative abundance of each miRNA was determined by using
+a standard curve generated from 10-fold serial dilutions of
+cortical neuron cDNA and normalized to GAPDH mRNA. To
+2426 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0511041103
+
+pGL3-TK, was constructed by ligating the TK promoter from
+pRL-TK Renilla luciferase expression vector (Promega) into the
+BglII兾HindIII sites of pGL3-basic (Promega). Flanking sequences containing the RE1 sites of the miR-124a-3 or GAD1
+genes were cloned into pCR4-TOPO by using the TA TOPO
+cloning kit (Invitrogen). The inserts were excised with SpeI兾
+BglII and inserted into the NheI兾BglII sites of pGL3-TK to
+create the TK-miR-124a-3 RE1 and TK-GAD1 RE1 reporter
+vectors. The RE1 sites on these vectors were deleted by using the
+Quikchange II site-directed mutagenesis kit (Stratagene) to
+create TK-miR-124a-3 ⌬RE1 and TK-GAD1 ⌬RE1. Deletion of
+RE1 sites was verified by sequencing. TCMK1 cells (1 ⫻ 105 cells
+per well on a 12-well dish) were transfected with 250 ng of each
+of the reporter vectors along with 20 ng of pRL-TK and 250 ng
+of an expression vector for dnREST (3) or an empty vector
+(pcDNA, Invitrogen). The ratio of firefly vs. Renilla luciferase
+activity was measured after 48 h using the dual luciferase
+reporter assay system (Promega) following the manufacturer’s
+protocol. Changes in luciferase activity were determined by
+taking the ratios of the geometric means for reporters cotransfected with dnREST and pcDNA. Variability of mean ratios for
+each reporter was determined by calculating the limits of a 95%
+confidence interval. Significance was determined by using Student’s t test.
+Inhibition and Overexpression of miR-124a. For inhibition of miR-
+
+124a, E15.5 primary cortical neurons at 4 days in vitro were
+Conaco et al.
+
+transfected with 500 nM 2⬘OMe oligoribonucleotides (Integrated DNA Technologies) by using Lipofectamine 2000 (Invitrogen) following the manufacturer’s protocol. For overexpression of miR-124a, MEFs were plated at 1 ⫻ 105 cells per
+6-cm dish and transfected by calcium phosphate precipitation as
+described in ref. 61. Briefly, 500 ␮l of 2⫻ Hepes buffered saline
+(HBS) was added dropwise to 100 nM miR-124a or miR-124a
+mut5–6 RNA duplex (Integrated DNA Technologies) (44) in
+500 ␮l of 125 mM CaCl2 to allow precipitates to form. Precipitates were added to cells and medium was renewed after 5 h.
+After the indicated time, RNA was extracted by using the
+RNeasy kit (Qiagen) and DNase treated (DNA-free, Ambion).
+
+Relative abundance of selected mRNAs was determined by
+quantitative real-time PCR as described above by using standard
+curves generated from 10-fold serial dilutions of MEF cDNA
+(see Data Set 1 for primer sequences). Statistical analyses were
+performed as described above for quantitative PCR of miRNAs.
+
+1. Edlund, T. & Jessell, T. M. (1999) Cell 96, 211–224.
+2. Munoz-San Juan, I. & Brivanlou, A. H. (2002) Nat. Rev. Neurosci. 3, 271–280.
+3. Chong, J. A., Tapia-Ramirez, J., Kim, S., Toledo-Aral, J. J., Zheng, Y., Boutros,
+M. C., Altshuller, Y. M., Frohman, M. A., Kraner, S. D. & Mandel, G. (1995)
+Cell 80, 949–957.
+4. Schoenherr, C. J. & Anderson, D. J. (1995) Science 267, 1360–1363.
+5. Andres, M. E., Burger, C., Peral-Rubio, M. J., Battaglioli, E., Anderson, M. E.,
+Grimes, J., Dallman, J., Ballas, N. & Mandel, G. (1999) Proc. Natl. Acad. Sci.
+USA 96, 9873–9878.
+6. Grimes, J. A., Nielsen, S. J., Battaglioli, E., Miska, E. A., Speh, J. C., Berry,
+D. L., Atouf, F., Holdener, B. C., Mandel, G. & Kouzarides, T. (2000) J. Biol.
+Chem. 275, 9461–9467.
+7. Roopra, A., Sharling, L., Wood, I. C., Briggs, T., Bachfischer, U., Paquette, A. J.
+& Buckley, N. J. (2000) Mol. Cell. Biol. 20, 2147–2157.
+8. Ballas, N., Battaglioli, E., Atouf, F., Andres, M. E., Chenoweth, J., Anderson,
+M. E., Burger, C., Moniwa, M., Davie, J. R., Bowers, W. J., et al. (2001) Neuron
+31, 353–365.
+9. Ballas, N., Grunseich, C., Lu, D. D., Speh, J. C. & Mandel, G. (2005) Cell 121,
+645–657.
+10. Westbrook, T. F., Martin, E. S., Schlabach, M. R., Leng, Y., Liang, A. C., Feng,
+B., Zhao, J. J., Roberts, T. M., Mandel, G., Hannon, G. J., et al. (2005) Cell 121,
+837–848.
+11. He, L. & Hannon, G. J. (2004) Nat. Rev. Genet. 5, 522–531.
+12. Bartel, D. P. (2004) Cell 116, 281–297.
+13. Hobert, O. (2004) Trends Biochem. Sci. 29, 462–468.
+14. Kim, V. N. (2005) Nat. Rev. Mol. Cell Biol. 6, 376–385.
+15. Lee, R. C., Feinbaum, R. L. & Ambros, V. (1993) Cell 75, 843–854.
+16. Wightman, B., Ha, I. & Ruvkun, G. (1993) Cell 75, 855–862.
+17. Moss, E. G., Lee, R. C. & Ambros, V. (1997) Cell 88, 637–646.
+18. Reinhart, B. J., Slack, F. J., Basson, M., Pasquinelli, A. E., Bettinger, J. C.,
+Rougvie, A. E., Horvitz, H. R. & Ruvkun, G. (2000) Nature 403, 901–906.
+19. Johnston, R. J. & Hobert, O. (2003) Nature 426, 845–849.
+20. Chang, S., Johnston, R. J., Frokjaer-Jensen, C., Lockery, S. & Hobert, O.
+(2004) Nature 430, 785–789.
+21. Abbott, A. L., Alvarez-Saavedra, E., Miska, E. A., Lau, N. C., Bartel, D. P.,
+Horvitz, H. R. & Ambros, V. (2005) Dev. Cell 9, 403–414.
+22. Brennecke, J., Hipfner, D. R., Stark, A., Russell, R. B. & Cohen, S. M. (2003)
+Cell 113, 25–36.
+23. Xu, P., Vernooy, S. Y., Guo, M. & Hay, B. A. (2003) Curr. Biol. 13, 790–795.
+24. Leaman, D., Chen, P. Y., Fak, J., Yalcin, A., Pearce, M., Unnerstall, U., Marks,
+D. S., Sander, C., Tuschl, T. & Gaul, U. (2005) Cell 121, 1097–1108.
+25. Poy, M. N., Eliasson, L., Krutzfeldt, J., Kuwajima, S., Ma, X., Macdonald, P. E.,
+Pfeffer, S., Tuschl, T., Rajewsky, N., Rorsman, P., et al. (2004) Nature 432,
+226–230.
+26. Giraldez, A. J., Cinalli, R. M., Glasner, M. E., Enright, A. J., Thomson, J. M.,
+Baskerville, S., Hammond, S. M., Bartel, D. P. & Schier, A. F. (2005) Science
+308, 833–838.
+27. Yekta, S., Shih, I. H. & Bartel, D. P. (2004) Science 304, 594–596.
+28. Chen, C. Z., Li, L., Lodish, H. F. & Bartel, D. P. (2004) Science 303, 83–86.
+29. Esau, C., Kang, X., Peralta, E., Hanson, E., Marcusson, E. G., Ravichandran,
+L. V., Sun, Y., Koo, S., Perera, R. J., Jain, R., et al. (2004) J. Biol. Chem. 279,
+52361–52365.
+30. Zhao, Y., Samal, E. & Srivastava, D. (2005) Nature 436, 214–220.
+31. Vo, N., Klein, M. E., Varlamova, O., Keller, D. M., Yamamoto, T., Goodman,
+R. H. & Impey, S. (2005) Proc. Natl. Acad. Sci. USA 102, 16426–16431.
+32. Impey, S., McCorkle, S. R., Cha-Molstad, H., Dwyer, J. M., Yochum, G. S.,
+Boss, J. M., McWeeney, S., Dunn, J. J., Mandel, G. & Goodman, R. H. (2004)
+Cell 119, 1041–1054.
+
+33. Lagos-Quintana, M., Rauhut, R., Yalcin, A., Meyer, J., Lendeckel, W. &
+Tuschl, T. (2002) Curr. Biol. 12, 735–739.
+34. Krichevsky, A. M., King, K. S., Donahue, C. P., Khrapko, K. & Kosik, K. S.
+(2003) RNA 9, 1274–1281.
+35. Kim, J., Krichevsky, A., Grad, Y., Hayes, G. D., Kosik, K. S., Church, G. M.
+& Ruvkun, G. (2004) Proc. Natl. Acad. Sci. USA 101, 360–365.
+36. Sempere, L. F., Freemantle, S., Pitha-Rowe, I., Moss, E., Dmitrovsky, E. &
+Ambros, V. (2004) Genome Biol. 5, R13.
+37. Thomson, J. M., Parker, J., Perou, C. M. & Hammond, S. M. (2004) Nat.
+Methods 1, 1–7.
+38. Smirnova, L., Gräfe, A., Seiler, A., Schumacher, S., Nitsch, R. & Wulczyn, G.
+(2005) Eur. J. Neurosci. 21, 1469–1477.
+39. Wienholds, E., Kloosterman, W. P., Miska, E., Alvarez-Saavedra, E., Berezikov, E., de Bruijn, E., Horvitz, H. R., Kauppinen, S. & Plasterk, R. H. (2005)
+Science 309, 310–311.
+40. Lunyak, V. V., Burgess, R., Prefontaine, G. G., Nelson, C., Sze, S. H.,
+Chenoweth, J., Scwartz, P., Pevzner, P. A., Glass, C., Mandel, G., et al. (2002)
+Science 298, 1747–1752.
+41. Bruce, A. W., Donaldson, I. J., Wood, I. C., Yerbury, S. A., Sadowski, M. I.,
+Chapman, M., Gottgens, B. & Buckley, N. J. (2004) Proc. Natl. Acad. Sci. USA
+101, 10458–10463.
+42. Immaneni, A., Lawinger, P., Zhao, Z., Lu, W., Rastelli, L., Morris, J. H. &
+Majumder, S. (2000) Nucleic Acids Res. 28, 3403–3410.
+43. Dallman, J. E., Allopenna, J., Bassett, A., Travers, A. & Mandel, G. (2004)
+J. Neurosci. 24, 7186–7193.
+44. Lim, L. P., Lau, N. C., Garrett-Engele, P., Grimson, A., Schelter, J. M., Castle,
+J., Bartel, D. P., Linsley, P. S. & Johnson, J. M. (2005) Nature 433, 769–773.
+45. Meister, G., Landthaler, M., Dorsett, Y. & Tuschl, T. (2004) RNA 10, 544–550.
+46. Mu, W. & Burt, D. (1999) Mol. Brain Res. 67, 137–147.
+47. Brene, S., Messer, C., Okado, H., Hartley, M., Heinemann, S. & Nestler, E.
+(2000) Eur. J. Neurosci. 12, 1525–1533.
+48. Gurrola-Diaz, C., Lacroix, J., Dihlmann, S., Becker, C. & von Knebel Doeberitz, M. (2003) Oncogene 22, 5636–5645.
+49. Mieda, M., Haga, T. & Saffen, D. (1997) J. Biol. Chem. 272, 5854–5860.
+50. Bessis, A., Champtiaux, N., Chatelin, L. & Changeux, J. (1997) Proc. Natl. Acad.
+Sci. USA 94, 5906–5911.
+51. Bai, G., Norton, D., Prenger, M. & Kusiak, J. (1998) J. Biol. Chem. 273,
+1086–1091.
+52. Andria, M. & Simon, E. (2001) Mol. Brain Res. 91, 73–80.
+53. Kallunki, P., Edelman, G. & Jones, F. (1997) J. Cell Biol. 138, 1343–1354.
+54. Lonnerberg, P., Schoenherr, C., Anderson, D. & Ibanez, C. (1996) J. Biol.
+Chem. 271, 33358–33365.
+55. Lietz, M., Hohl, M. & Thiel, G. (2003) Eur. J. Biochem. 270, 2–9.
+56. Quinn, J., Bubb, V., Marshall-Jones, Z. & Coulson, J. (2002) Regul. Pept. 108,
+135–141.
+57. Seth, K. & Majzoub, J. (2001) J. Biol. Chem. 276, 13917–13923.
+58. Jones-Villeneuve, E. M. V., Ridnicki, M. A., Harris, J. F. & McBurney, M. W.
+(1983) Mol. Cell. Biol. 3, 2271–2279.
+59. Slack, R. S., El-Bizri, H., Wong, J., Belliveau, D. J. & Miller, F. D. (1998) J. Cell
+Biol. 140, 1497–1509.
+60. Fasbender, A., Lee, J. H., Walters, R. W., Moninger, T. O., Zabner, J. & Welsh,
+M. J. (1998) J. Clin. Invest. 102, 184–193.
+61. Sambrook, J., Fritsch, E. F. & Maniatis, T. (1989) Molecular Cloning: A
+Laboratory Manual (Cold Spring Harbor Lab. Press, Woodbury, NY), pp.
+16.32–16.37.
+
+Conaco et al.
+
+PNAS 兩 February 14, 2006 兩 vol. 103 兩 no. 7 兩 2427
+
+NEUROSCIENCE
+
+We thank Drs. Richard H. Goodman and Soren Impey (Vollum Institute) for thoughtful advice and encouragement throughout all stages of
+the work. We also thank our Stony Brook colleagues, Dr. Nurit Ballas,
+for providing reagents and suggestions for experiments, and Dr. Nancy
+Mendell, for advice on statistical analyses. The work was supported by
+a grant from the National Institutes of Health (to G.M.), and G.M. is an
+Investigator of the Howard Hughes Medical Institute.
+
+

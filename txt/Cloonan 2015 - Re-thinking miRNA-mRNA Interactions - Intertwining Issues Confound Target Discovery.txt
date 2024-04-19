@@ -1,0 +1,1287 @@
+Insights & Perspectives
+Think Again
+
+Re-thinking miRNA-mRNA interactions:
+Intertwining issues confound target
+discovery
+Nicole Cloonan
+Despite a library full of literature on miRNA biology, core issues relating to
+miRNA target detection, biological effect, and mode of action remain
+controversial. This essay proposes that the predominant mechanism of direct
+miRNA action is translational inhibition, whereas the bulk of miRNA effects are
+mRNA based. It explores several issues confounding miRNA target detection,
+and discusses their impact on the dominance of miRNA seed dogma and the
+exploration of non-canonical binding sites. Finally, it makes comparisons
+between miRNA target prediction and transcription factor binding prediction,
+and questions the value of characterizing miRNA binding sites based on which
+miRNA nucleotides are paired with an mRNA.
+
+.
+
+Keywords:
+biotin pull-down; centered sites; direct interactions; miRNA; mRNA
+destabilization; non-canonical sites; seed sites; translational inhibition
+
+Introduction
+MicroRNAs (miRNAs) are small noncoding RNAs that are best known for
+their role as guide molecules in the RNA
+induced silencing complex (RISC). The
+DOI 10.1002/bies.201400191
+QIMR Berghofer Medical Research Institute,
+Genomic Biology Lab, Herston, QLD, Australia
+Corresponding author:
+Nicole Cloonan
+E-mail: nicole.cloonan@qimrberghofer.edu.au
+Abbreviations:
+EBV, epstein-Barr virus; HITS-CLIP, highthroughput sequencing of cross-linked immunoprecipitation; miRNA, microRNA; mRNA, messenger RNA; PAR-CLIP, photoactivatableribonucleoside-enhanced crosslinking and immunoprecipitation; RISC RNA, induced silencing
+complex; rRNA, ribosomal RNA; UTR, un-translated region.
+
+biogenesis of mature miRNAs (roughly
+22 nucleotides long) is diverse: multiple
+pathways and multiple steps lead to the
+generation of RNA hairpins (so named
+because of the resemblance to “hair
+pins” or “bobby pins;” Fig. 1). These
+hairpins are further processed into a
+shortened, single-stranded product,
+and loaded into an AGO protein, and
+the miRNA associated AGO – together
+with various protein binding partners –
+form the functional RISC. The entire
+biogenesis pathway is highly regulated,
+and has recently been reviewed in
+depth [1].
+By regulating the expression of
+protein-coding genes, miRNAs are
+involved with almost every biological
+process in eukaryotes [2], and the
+dysregulation of miRNA expression
+has often been associated with human
+disease [3, 4]. It is not surprising then,
+
+that a substantial body of research has
+been dedicated to understanding how
+these miRNAs function and what their
+interactions with various targets
+achieves biochemically and biologically. Like most disciplines at the center
+of a research frenzy, there is still
+substantial debate in the field over
+almost every aspect of miRNA activity,
+and even how best to measure this
+activity.
+
+The predominant
+mechanism of direct
+miRNA action is
+translational inhibition,
+whereas the bulk of
+miRNA effects are mRNA
+based
+Several mechanisms have been reported
+as to how miRNAs exert their effect on
+the overall protein production from
+genes. The first is by interfering directly
+with protein synthesis, either at the
+point of initiation [5–7] or during
+elongation [8, 9]. The second is by
+mRNA destabilization, where the poly-A
+tails of mRNA are shortened, leading to
+a higher turnover of the mRNA product
+by degradation [10–12]. Finally, extensive complementarity allows AGO proteins with slicer activity (only AGO2, in
+humans [13]) to specifically cleave
+mRNA transcripts in a manner analogous to siRNAs [14, 15]. Regardless of
+which mechanism dominates, the interactions are mediated through base-
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc. This is an
+open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs
+License, which permits use and distribution in any medium, provided the original work is properly cited, the
+use is non-commercial and no modifications or adaptations are made.
+
+www.bioessays-journal.com
+
+1
+
+.....
+
+Insights & Perspectives
+
+Figure 1. Multiple paths to mature miRNAs. This schematic illustrates the major enzymatic
+steps required to process primary transcripts into mature miRNAs via the canonical and
+alternative pathways [108].
+
+accounted for all biochemical and cell
+biology based evidence to date, it didn’t
+explain the observation that miRNAs
+induced large-scale transcriptional
+changes, well in excess of what was
+observed associated with translational
+inhibition [23, 24]. Genome researchers
+favored a different model, based on
+evidence from whole genome comparison of both mRNAs and proteins after
+either increasing or decreasing the
+amount of specific miRNAs [25, 26].
+These studies demonstrated that while
+hundreds of targets could be directly
+repressed without detectable mRNA
+destabilization [25], proteins that were
+highly repressed also had a substantial
+
+Think Again
+
+N. Cloonan
+
+pairing of the target, and therefore it is
+not strictly necessary to determine
+which mechanism is more prevalent in
+order to understand how the interaction
+happens. However as the assumptions
+around the dominant mechanism affect
+the selection of assays to validate
+miRNA-mRNA interactions, and not all
+assays can detect all kinds of interactions (see “The targets you see depend
+on the targets you look for”), it is useful
+to examine the context in which these
+conclusions have been reached.
+
+2
+
+When first investigated, it was thought
+that miRNAs inhibited the translation of
+proteins without affecting the level of
+mRNAs [16, 17]. A large number of
+biochemistry-based investigations concluded that miRNA-associated mRNA
+destabilization was concurrent with
+translational inhibition at the initiation
+stage [10, 18–20], and that this could be
+explained by sequestration of mRNAs
+inhibited by miRNAs to the P-bodies,
+where the silenced mRNA would be
+degraded [21, 22]. Although this model
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc.
+
+.....
+
+Insights & Perspectives
+
+N. Cloonan
+
+Box 1
+
+For any given experimental design, the miRNA targets
+detected will be dependent upon the assumptions made
+and the targets that are measured. In this context, it is
+
+Think Again
+
+Understanding the limitations of miRNA target detection protocols
+useful to examine the limitations and benefits of each
+methodology (Fig. 2), before reaching conclusions about
+how miRNAs generally interact with mRNA targets.
+
+Figure 2. Experimental methods of miRNA target detection. This figure illustrates the six major methods of experimentally determining
+miRNA binding sites in mRNAs. A: genome editing of predicted binding sites. B: reporter gene assays. C: gene-expression after miRNA
+modulation. D: degradome sequencing. E: cross-linked immuno-precipitation. F: biotin-linked chromatography [110].
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc.
+
+3
+
+N. Cloonan
+
+Insights & Perspectives
+
+Think Again
+
+Genome editing of predicted binding sites
+Probably the most definitive assay for determining
+whether a miRNA and a gene interact in a cell type of
+interest is to edit the genome to destroy the predicted
+binding site, and compare the protein or mRNA levels
+before and after editing (Fig. 2A). This method allows you
+to answer the question of whether an interaction occurs
+between a miRNA and an mRNA in an endogenous
+context. It also has the potential to detect both translational inhibition and transcriptional degradation if protein
+levels are measured. Although such a strategy has been
+used [91], it is not common, because of the labour
+intensiveness, expense, and inability to scale to high
+throughput.
+Reporter gene assays
+Often considered to be the gold standard of the in vitro
+assays, cloning either the entire 3’UTR or a fragment
+surrounding a predicted binding site downstream of a
+reporter gene (typically luciferase [41, 48], but also
+fluorescent proteins [92, 93]), and then measuring the
+output of that reporter in the presence or absence of a
+miRNA (Fig. 2B) allows one to answer the question: is this
+miRNA capable of interacting with this sequence?
+Importantly, this does not reveal whether such an
+interaction occurs endogenously, and unless care is taken
+with the miRNA concentration and promoter selection for
+the reporter, it does not reveal whether it could happen
+under physiological conditions. Although this approach is
+still expensive and laborious, it can be scaled to a higher
+throughput than editing genomes, and has the benefit of
+being agnostic to the mode of miRNA action, in that both
+mRNA destabilization and translational inhibition will be
+detected.
+Gene-expression after miRNA modulation
+After the hypothesis that miRNAs act to destabilize
+mRNA was proposed, a flurry of publications used
+microarray technology (Fig. 2C) to profile the effects of
+miRNA modulation on the transcriptome [24, 25, 60].
+Although this assay cannot distinguish between primary
+and secondary transcriptional effects, and will mask any
+interactions mediated by translational inhibition, depending on the specific biological question to be answered this
+may not be problematic. These assays are relatively
+inexpensive (for the amount of data that is returned), and
+allow a global understanding of the biological pathways in
+which miRNAs are involved. However, if these assays are
+used to determine specific sequence motifs of interaction,
+then there is likely to be a substantial amount of noise from
+secondary effect genes (whose relative changes may be
+greater than the original targets), hence lowering the
+sensitivity of the analysis.
+Degradome sequencing
+Another approach used after the mRNA destabilization
+hypothesis gained traction was to look at signatures left in
+the transcriptome after cleavage of mRNA products – so
+called “degradome sequencing” [94] (Fig. 2D). In mammals, these approaches may be slightly less informative
+than assays detecting gene expression changes, because
+
+4
+
+.....
+
+only one out of four AGO proteins (AGO2) has the ability to
+cleave mRNA targets, although all AGOs mediate functional interactions [13, 95]. However, unlike microarrays,
+this assay will allows the location of sites of cleavage on an
+individual transcript, and although it will miss translationally inhibited targets as well as those where the mRNA has
+been destabilized without cleavage, it will provide superior
+results for examining miRNA binding sites for this specific
+mode of action.
+RNA immuno-purification
+One of the most powerful ways to examine miRNARISC occupancy on mRNA targets is to perform Crosslinked immuno-precipitation, followed by high-throughput
+sequencing (HITS-CLIP; Fig. 2E) [96–98]. The procedure is
+lengthy, but elegant: (i) mRNAs and miRNA-RISC are
+cross-linked by exposing intact cells to UV light; (ii)
+exposed RNA regions that are not protected by protein
+complexes are degraded by introducing RNases; (iii) using
+an antibody to AGO2 (as the only available pan-AGO
+antibody has substantial cross-reactivity to another
+protein radixin [99]), RISC-miRNA-mRNA complexes are
+isolated and purified; and (iv) the pool of miRNAs and
+mRNA fragments are sequenced en masse. Another
+protocol, PAR-CLIP [85], is conceptually similar, but differs
+by feeding photoactivatable nucleosides to the cells prior
+to reversible cross-linking with UV light.
+While sensitive, the protocols have several shortcomings for understanding the nature of direct miRNAmRNA interactions. Firstly, the results are limited to, and
+potentially biased by, the restriction of this technique to
+AGO2. Although AGO2 is the only human argonaute
+protein to have slicer activity [13], it is not the only
+argonaute to mediate productive miRNA interactions [95].
+The necessary exclusion of other argonautes from this
+procedure could result in substantial biases regarding the
+type of interactions that are detected. Secondly, the
+protocol necessarily disassociates all miRNAs from their
+mRNA targets, and therefore interactions between them
+need to be computationally inferred. This obviously limits
+the interactions detected to those that are assumed to
+exist, and introduces substantial amounts of noise when
+examining closely related miRNA species. A variant on the
+HITS-CLIP method, known as CLASH [40], gets around
+this problem by ligating the miRNA to the mRNA fragments
+prior to sequencing, but current protocol only has very low
+efficiency (< 2% of reads are miRNA/mRNA pairs) and is
+likely to be biased towards longer miRNA/mRNA fragments due to steric hindrance of RISC.
+Biotin-linked chromatography
+More commonly referred to as a biotin pull-down
+(Fig. 2F), biotin-linked chromatography involves synthesizing a miRNA duplex with the mature strand labelled with a
+biotin molecule at its 30 end [100]. By transfecting this duplex
+into host cells, it will incorporate into RISC and target mRNAs
+in the usual manner. However, the cells can be lysed, and
+RISC complexed with the target mRNAs can be captured
+and purified using streptavidin-coated magnetic beads.
+Like reporter gene assays and cross-linked immuno-
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc.
+
+.....
+
+Insights & Perspectives
+
+N. Cloonan
+
+reduction of the corresponding transcript [26], a finding at odds with the
+biochemical evidence.
+Attempting to resolve this controversy, detailed experiments examining
+the polysome were conducted [27, 28].
+These experiments profiled both ribosome number and density (two key
+parameters of translation) using microarrays [27], and RNA-seq [28], which
+was a far more sensitive way to search
+for changes in translation than direct
+proteomics techniques. Both studies
+found that translation of hundreds of
+genes was directly impacted by miRNA
+activity, but that the effects of translation
+were relatively modest. The authors
+concluded that the effects of mRNA
+changes were more pronounced than
+the effects on translation, and that the
+predominant direct effect of miRNAs was
+to cause mRNA destabilization. A major
+confounder with these approaches was
+the reliance upon surveying transcript
+abundance without accounting for transcript isoforms [29]. Mammalian genes
+produce as many as a dozen different
+transcripts per locus [30], and many of
+these have alternative 50 and 30 UTRs, or
+alternative polyadenylation sites, none
+of which were captured in the composite
+measurements made by polysome profiling [27, 28]. When a set of transcripts
+previously found not to be under translational control was examined in detail,
+accounting for transcriptional complex-
+
+leading to RNA changes that could confound interpretation
+of these experiments. All three points have been addressed
+by procedural changes. More modern versions of this
+protocol [38, 49, 50] using this same miRNA did not observe
+an enrichment of ribosomal mRNAs, and additionally
+observed an enrichment of both miR-10a seed sites and
+previously confirmed targets [38], suggesting that the Ørom
+protocol had essentially failed. The very low amounts of
+biotin duplex used in do not appear to substantially alter the
+transcriptional landscape of the cells, as known phenotypes
+of proliferative miRNAs are not observed when transfecting
+at low levels [48, 49], and the transcriptome of cells
+transfected with two unrelated miRNAs are indistinguishable [38]. Finally, when using high concentrations of
+transfected biotin duplexes, it is possible that all highaffinity binding sites could be occupied, and the distribution
+of binding could be shifted to include a higher proportion of
+low-affinity binding sites. In low concentrations, we would
+expect the stoichiometry to remain virtually unchanged from
+the endogenous distribution.
+
+ity, the substantial effect of translational
+control became apparent [29].
+Thus, as neither the “mRNA destabilization” nor “translation inhibition”
+camps are able to adequately explain all
+the data, the subject remains controversial. Both models have merit. For
+precise and accurate control of protein
+levels, it makes intuitive sense to
+directly regulate translation. It also
+makes sense that changes in mRNA
+quantity would be a more efficient way
+of driving larger changes in protein
+levels with fewer resources. However,
+the greatest efficiency of all would come
+from not making mRNA in the first
+place, rather than by making it and
+silencing it, or by making it and
+destroying it. A second major (but not
+often discussed) confounder with these
+genome-wide approaches is that they
+are ultimately unable to differentiate
+between primary and secondary effects.
+That is, the measured changes in
+mRNAs could occur because of either
+a direct interaction with a miRNA, or as
+a secondary consequence of a miRNA
+targeting, for example, a transcription
+factor. As changing the level of a
+transcription factor can have dramatic
+transcriptional changes within 1–2
+hours [31–35], the 12 hour assay times
+reported in the Guo [28] and Hendrickson [27] papers could easily be measuring indirect effects of miRNA action.
+Both groups attempted to restrict their
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc.
+
+Think Again
+
+precipitation, biotin-linked chromatography is agnostic to
+whether the functional effect happens via mRNA destabilization or translational inhibition. The main advantage of this
+approach is the ability to precisely identify those miRNA
+targets associated with a single miRNA species, and it is
+therefore the most advanced high-throughput technique for
+indentifying direct interactions between individual miRNAs
+and mRNAs. First used to identify the mechanism of action of
+siRNAs [101–105], and later adapted to the task of target
+identification [100, 106], this protocol is easily the most
+controversial in the field.
+There are three major concerns that are typically (and
+correctly) voiced about this procedure [107]: (i) that the
+pull-down of miR-10a by Ørom et al. [106] did not enrich for
+either transcripts with miR-10a seed sites or transcripts
+known to be targets of this miRNA; (ii) that the dramatic
+over-expression of an exogenous miRNA could alter the
+stoichiometry of detected miRNA-mRNA interactions; and
+(iii) that the dramatic over-expression of an exogenous
+miRNA could alter the transcriptional network of the cells,
+
+analyses only direct interactions using
+the presence of a seed site (see The
+Dominance of the Seed Site), and while
+this is the best marker we have for
+predicting genuine miRNA targets,
+these predictions are notoriously inaccurate, being wrong more often than
+they are right (when you include
+false negatives [36–40] as well as false
+positives [41–43]).
+If we assume that there are both
+direct and indirect transcriptional consequences of miRNA modulation, then it
+becomes easy to envisage a model
+where all genomic and biochemical
+data is accounted for. The predominant
+direct effect of a miRNA would be
+through
+translational
+inhibition,
+whereas the predominant indirect effect
+would affect protein levels through
+large-scale transcriptional regulation.
+If such a model were true, we would
+expect that miRNAs predominantly
+target genes encoding transcription
+factors. Indeed, an early study into
+predicted miRNA targets seems to support this, finding that nuclear signaling
+components were significantly more
+likely to be targets of a miRNA than
+cell surface or extracellular signaling
+components [44], whilst other studies
+find enrichment for transcriptional regulators amongst the targets of miRNAs
+[38, 45–49] (including the Hendrickson
+study [27]). This evidence supports the
+hypothesis that the major direct effect of
+
+5
+
+N. Cloonan
+
+Think Again
+
+miRNA action is to inhibit translation,
+but the bulk of miRNA effects come from
+changing the transcriptional landscape.
+
+The targets you see
+depend on the targets you
+look for
+Understanding the predominant mode of
+action for miRNAs has substantial implications for the methodology used to
+determine direct interacting mRNA partners, and subsequently determining their
+mode of binding. However, having a
+robust understanding of the mode
+of miRNA binding is unequivocally
+required in order to understand the
+predominant mode of action and identifying miRNA targets. Thus, the relationship between the concepts is often
+circular, and a cause for confusion –
+teasing apart the limitations of each
+technology (Box 1) allows us to evaluate
+the results that are generated from them.
+For indirect assays (those that measure
+the effect of the miRNA, not the
+interaction itself), methodologies that
+rely on the detection of a protein make
+fewer assumptions about the predominant mode of action than those that
+rely on the detection of mRNAs. If
+protein levels are measured, then
+changes by either mRNA destabilization
+or translational inhibition can be
+detected; however, if only mRNA levels
+are measured, translational inhibition
+will not be detected. A second confounder is trying to distinguish between
+primary and secondary effects of miRNA
+action. Experimental designs that look
+only at correlative changes (such as
+microarray profiling; Box 1), will have a
+lower sensitivity when determining
+specific sequence motifs of interactions
+due to secondary miRNA effects.
+Direct assays are not without their
+problems either. Methods such as HITSCLIP (Box 1) are by far and away the most
+sensitive way to understand where
+endogenous miRNA binding sites are
+located on an mRNA transcript. However,
+the analysis of binding site types relies on
+computational inference because the
+miRNA-mRNA relationship is not preserved in the protocol. On the other hand,
+biotin-linked chromatography (Box 1),
+while preserving the miRNA-mRNA relationship, necessarily involves the use of
+
+6
+
+Insights & Perspectives
+
+an exogenous molecule. This limits the
+protocol to cells that are easily transfectable, and has the potential to alter
+both the transcriptional profile of the
+cells and the distribution of occupied
+miRNA binding sites if the amount of
+exogenous miRNA is not very low [50].
+Some researchers have also highlighted
+the potential of direct-assay technologies
+to form a specific type of false positive,
+where complexes between RNA and
+proteins form after cell lysis [51, 52]. In
+preliminary experiments, human cells
+were independently transfected with an
+EBV miRNA not normally expressed in
+cells, and a labeled AGO protein. Both cell
+populations were then mixed after lysis,
+and co-immunoprecipitations identified
+interactions between the two molecules
+that could not have happened in the
+cells [51]. However, the authors chose to
+use detergent at ten-times less than is
+required to prevent non-specific association of rRNA [38], so it is unclear
+whether these interactions were specific
+or not. Regardless, it is standard scientific
+rigor to validate scientific claims by
+multiple methods, and orthogonal
+approaches should be used to increase
+confidence in the findings. Deciding
+upon appropriate techniques will
+depend very much on the specific biological question that needs to be
+answered, and what level of precision
+is required to answer it.
+
+What is a target anyway?
+It is essential to realize that both
+stoichiometry and stochasticity have
+critical roles to play in the translation
+of target interactions to biological effect.
+Although we think about interactions
+happening at the level of individual
+miRNAs and mRNAs, spending a great
+deal of time worrying about the exact
+nucleotides involved, we typically define
+miRNA targets based on phenomenological effects from a population of cells. It is
+certainly possible that miRNAs can
+interact with a transcript without causing
+a repressive effect – similar results have
+been observed with transcription factors
+due either to limiting concentrations of
+required cellular co-factors, or to inherent non-productive (or redundant) binding [53–57]. Even if the miRNA binding is
+productive, full or partial inhibition of
+individual transcripts does not mean that
+
+.....
+
+the overall level of a protein changes
+substantially. Cells only need to increase
+the level of mRNA to overcome the effect
+of miRNA targeting [48, 58]. Finally,
+repression of an individual protein
+does not necessarily alter the biological
+trajectory of a cell or tissue. These
+considerations mean that the definition
+of a miRNA target becomes somewhat
+fuzzy. However, until the technology for
+analyzing these aspects of miRNA biology becomes more robust, the working
+definition of miRNA targets (any detectable and stably interacting mRNA) will
+need to suffice.
+Studying individual cells rather
+than populations may help us tease
+apart these issues. Although restricted
+to exogenous interactions, studies at the
+single cell level revealed a threshold of
+mRNA expression beyond which miRNA
+inhibition of protein production became
+less efficient [58], presumably by the
+sequestration of all available active and
+compatible RISC. In a given population
+of cells, this means that the underlying
+variation in mRNA expression could
+lead to substantially different levels of
+proteins in different cells.
+It is unclear how much this stochasticity has impacted the determination of
+miRNA targets to date. On the one hand, it
+implies that dramatic over-expression of
+miRNA could alter the stoichiometric
+ratio so that all high-affinity binding sites
+could be occupied. This would mean the
+distribution of interactions could be
+shifted to include low-affinity sites that
+might not otherwise be targeted, generating false positives. On the other hand,
+reporter assays also typically overexpress non-endogenous transcripts
+driven by strong promoters, which could
+either negate the effect of miRNA overexpression, or even lead to false negatives
+if care is not taken with the experimental
+design. Understanding the variation of
+both miRNAs and mRNAs at the single
+cell level can help to better define the
+parameters of miRNA targeting [59].
+
+The dominance of the
+seed site is a
+consequence of prediction
+By far and away the most understood
+interaction between a miRNA and
+an mRNA revolves around nucleotides
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc.
+
+.....
+
+Insights & Perspectives
+
+Experimental protocols
+reveal alternative modes
+of interaction
+The relatively poor performance of prediction algorithms and the recent availability of high-throughput approaches
+have driven the experimental exploration of non-seed mediated miRNA –
+target interactions (Fig. 3). Using
+“orphan” HITS-CLIP data (RISC binding
+sites where there was no match to a
+miRNA seed site), Chi et al. [37] were able
+to identify an enrichment of sites containing an extra G in the mRNA between
+positions five and six of the miRNA.
+These “G-bulge” sites were not unexpected, having previously been shown as
+possible in a DNA-based experiment [84],
+but their occupancy of 15% of binding
+sites was previously unappreciated. Nonseed interactions were also explored
+using motifs enriched above background
+in PAR-CLIP data [85], finding relatively
+infrequent (<7%) instances of seed
+mismatches and bulges in the seed
+region, and weak enrichment of four
+nucleotide matches to positions 13–15 of
+
+the miRNA. In both studies, the results
+were confounded by the necessary inference of miRNA binding sites (see Box 1,
+“RNA immuno-purification”), an area
+addressed by a genetically controlled
+differential HITS-CLIP experiment where
+miR-155 knock-out cells were compared
+with wild-type miR-155 cells [86]. This
+experiment showed greatly increased
+sensitivity for non-seed sites, revealing
+that 40% of sites were mediated by noncanonical interactions. The evolutionary
+conservation of the central region of
+miRNAs [60] prompted the search for
+“centered sites,” and Shin et al. [87]
+reported that the rare (<5% prevalence)
+11nt sites with perfect Watson-Crick
+complementarity to mRNAs were functional, but that the more abundant sites
+containing mismatches or GU wobble
+were not. In this case, poor selection of
+the target validation method (microarrays after miRNA modulation) based
+on the assumption that most targets
+would have destabilized mRNA masked
+the functionality of these far more
+common sites (up to 50% of all miRNAmiRNA interactions). Imperfectly centered sites were eventually discovered to
+
+Figure 3. The anatomy of miRNA-mRNA interactions. Although most published interactions
+involve the miRNA seed, many other modes of miRNA binding have been detected [109].
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc.
+
+7
+
+Think Again
+
+2–8 in the 50 end of a miRNA, called the
+“seed” region.
+Even though the first miRNA binding
+sites reported were not true seed sites [17,
+36, 60, 61], seeds were found to have
+more predictive value for finding miRNA
+targets than any other interaction type [2,
+43, 62], and the 50 region of the miRNAs
+were more conserved than any other
+region. As experimental techniques of
+the time were both laborious and
+expensive (see “The targets you see
+depend on the targets you look for”),
+quite reasonably, experimental validation has focused around those interactions most likely to yield positive results,
+leading to a positive reinforcement in the
+literature dominance of the seed site.
+However, the presence of a seed site in a
+mRNA does not guarantee occupancy by
+a given miRNA even when that miRNA is
+over-expressed [63], and even the best
+prediction algorithms have false positive
+rates of between 20–50% [25, 26, 43, 48].
+It’s important to note that target prediction programs restrict the output of
+their programs to increase the accuracy
+of their predictions, and whilst some
+restrictions are modeled on biology,
+others are modeled on abstractions that
+are unlikely to reflect what actually
+happens on the inside of a cell. For
+example, filtering predicted targets
+based on the folding structure of the
+mRNA [64–71] is likely to model something that happens in a cell, because
+RISC will be unable to access binding
+sites that are hidden away in a 3D
+structure. In contrast, RISC has no means
+to assess the evolutionary conservation
+of a given miRNA binding site in situ.
+While filters based on comparative
+genomics approaches [2, 43, 69, 70,
+72–75] can tell us a lot about the
+similarities of miRNA networks within
+an evolutionary clade, the relevance for
+rapidly evolving or recently acquired
+miRNAs is substantially less [76]. Additional problems with the restriction of
+target output related to the use of shorter
+RefSeq 3’UTRs when very often UTRs are
+substantially longer [77], and many
+functional miRNA binding sites exist
+outside of the 3’UTR [39, 46, 78–82].
+Therefore, whilst seeds in the 3’UTRs of
+genes make up the vast majority of
+validated target sites in the literature,
+this is largely the result of an early
+entrenched software bias rather than a
+biological requirement [83].
+
+N. Cloonan
+
+Think Again
+
+N. Cloonan
+
+be functional using more suitable biotinlinked chromatography and reporter
+assay validation [38].
+Together these studies highlight the
+vast array of non-canonical miRNAmRNA interactions, and strongly hint
+that the variability of functional interacting sites is far more extreme than first
+indicated by comparative genomics
+studies. It is not unreasonable to
+consider the possibility that any accessible six nucleotides, whether contiguous in the mRNA or not, is capable of
+mediating a functional interaction with
+a miRNA.
+
+There is little value in the
+classification of binding
+site combinatorics
+Regardless of the progress made into the
+exploration of non-seed sites, it remains
+true that the predictive power of the
+various new categories is likely to be
+very small [2, 38, 43, 62]. Although some
+have argued that a lack of predictive
+power for non-canonical seed sites casts
+doubt upon the biological validity of
+such interactions [42], this seems like a
+bold call considering the strength of the
+accompanying biological validation,
+and that our understanding of how
+RISC occupancy correlates with the
+strength of an interaction is far from
+complete [25].
+Interesting parallels can be drawn
+between the prediction of miRNA targets and the prediction of transcription
+factor binding sites. Both are attempting
+to discern very short regulatory signals
+in a large amount of statistical noise,
+and both are trying to model the truth in
+a biological system when that truth is
+not yet understood [88]. It is therefore
+noteworthy to observe a strong shift
+away from using computational techniques to predict transcription factor
+binding sites and guide experimental
+validation to instead using computational techniques to understand the
+signals from less biased high-throughput techniques such as ChIP-seq [88–
+90]. As the tools for dissecting miRNA
+targets become more sophisticated and
+more widely accepted, it seems probable that the miRNA field will head in
+the same direction. When this happens,
+the value of classifying the different
+
+8
+
+Insights & Perspectives
+
+types of miRNA binding sites based on
+which miRNA nucleotides are involved
+will be questionable.
+
+Conclusions and outlook
+One thing that is becoming clear with
+the uncovering of these different interaction types is that miRNAs stably
+interact with hundreds to thousands
+of mRNAs, and some consideration
+needs to be given to separating biological noise from functionally-driven
+signal. Differentiating direct from indirect consequences of miRNA action
+makes it easier to specifically examine
+the mechanisms by which miRNAs
+interact with their mRNA targets, but
+this requires more scientific rigor if it is
+to disentangle the functional consequences of those interactions. Issues
+of miRNA target detection and miRNA
+mode of action are intertwined with
+discussion of the major effect and roles
+of miRNAs in the cell. And, as our
+understanding of miRNA biology
+improves, so too will our ability to
+predict and model target interactions.
+Although prediction tools have strongly
+dictated the way we studied miRNAs in
+the past, their relevancy will change as
+our repertoire of experimental tools
+improve. This will in turn shape our
+understanding of how, where, and why
+miRNAs function, ideally converging on
+a model that incorporates all of the data,
+not just those that are convenient.
+
+Acknowledgements
+Firstly, I gratefully declare and acknowledge the receipt of funding from the
+Australian Research Council Future Fellowship Scheme (FT120100453) and
+the Cancer Council of Queensland
+(APP1063119). I would also like to thank
+my colleagues, students, collaborators,
+and family for their patience and assistance during the preparation and writing
+of this manuscript. Of particular assistance was the helpful and constructive
+comments given by the editor and the two
+anonymous reviewers, whose suggestions strengthened the manuscript. I also
+acknowledge the timely assistance of
+Alexis Verger and Robin Andersson in
+reference collection. Finally, I would also
+like to acknowledge and apologize to the
+authors of studies that I could not cite or
+
+.....
+
+discuss here because of restrictions on
+space.
+
+References
+1. Ha M, Kim VN. 2014. Regulation of microRNA biogenesis. Nat Rev Mol Cell Biol 15:
+509–524.
+2. Friedman RC, Farh KK-H, Burge CB,
+Bartel DP. 2009. Most mammalian mRNAs
+are conserved targets of microRNAs.
+Genome Res 19: 92–105.
+3. Lujambio A, Lowe SW. 2012. The microcosmos of cancer. Nature 482: 347–355.
+4. Im H-I, Kenny PJ. 2012. MicroRNAs in
+neuronal function and dysfunction. Trends
+Neurosci 35: 325–334.
+5. Humphreys DT, Westman BJ, Martin DIK,
+Preiss T. 2005. MicroRNAs control translation initiation by inhibiting eukaryotic
+initiation factor 4E/cap and poly(A) tail
+function. Proc Natl Acad Sci USA 102:
+16961–16966.
+6. Pillai RS, Bhattacharyya SN, Artus CG,
+Zoller T, et al. 2005. Inhibition of translational initiation by Let-7 MicroRNA in human
+cells. Science 309: 1573–1576.
+7. Mathonnet G, Fabian MR, Svitkin YV,
+Parsyan A, et al. 2007. MicroRNA inhibition
+of translation initiation in vitro by targeting
+the cap-binding complex eIF4F. Science
+317: 1764–1767.
+8. Nottrott S, Simard MJ, Richter JD. 2006.
+Human let-7a miRNA blocks protein production on actively translating polyribosomes. Nat Struct Mol Biol 13: 1108–1114.
+9. Maroney PA, Yu Y, Fisher J, Nilsen TW. 2006.
+Evidence that microRNAs are associated with
+translating messenger RNAs in human cells.
+Nat Struct Mol Biol 13: 1102–1107.
+10. Eulalio A, Huntzinger E, Nishihara T,
+Rehwinkel J, et al. 2009. Deadenylation is
+a widespread effect of miRNA regulation.
+RNA 15: 21–32.
+11. Giraldez AJ, Mishima Y, Rihel J, Grocock
+RJ, et al. 2006. Zebrafish MiR-430 promotes
+deadenylation and clearance of maternal
+mRNAs. Science 312: 75–79.
+12. Wu L, Fan J, Belasco JG. 2006. MicroRNAs
+direct rapid deadenylation of mRNA. Proc
+Natl Acad Sci USA 103: 4034–4039.
+13. Meister G, Landthaler M, Patkaniowska
+A, Dorsett Y, et al. 2004. Human argonaute2
+mediates RNA cleavage targeted by miRNAs and siRNAs. Mol Cell 15: 185–197.
+14. Hammond SM, Bernstein E, Beach D,
+Hannon GJ. 2000. An RNA-directed nuclease mediates post-transcriptional gene
+silencing in Drosophila cells. Nature 404:
+293–296.
+15. Tuschl T, Zamore PD, Lehmann R, Bartel
+DP, et al. 1999. Targeted mRNA degradation
+by double-stranded RNA in vitro. Genes Dev
+13: 3191–3197.
+16. Olsen PH, Ambros V. 1999. The lin-4
+regulatory RNA controls developmental
+timing in Caenorhabditis elegans by blocking
+LIN-14 protein synthesis after the initiation of
+translation. Dev Biol 216: 671–680.
+17. Wightman B, Ha I, Ruvkun G. 1993.
+Posttranscriptional regulation of the heterochronic gene lin-14 by lin-4 mediates
+temporal pattern formation in C. elegans.
+Cell 75: 855–862.
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc.
+
+.....
+
+Insights & Perspectives
+
+37. Chi SW, Hannon GJ, Darnell RB. 2012. An
+alternative mode of microRNA target recognition. Nat Struct Mol Biol 19: 321–327.
+38. Martin HC, Wani S, Steptoe AL, Krishnan
+K, et al. 2014. Imperfect centered miRNA
+binding sites are common and can mediate
+repression of target mRNAs. Genome Biol
+15: R51.
+39. Tay Y, Zhang J, Thomson AM, Lim B, et al.
+2008. MicroRNAs to Nanog , Oct4 and Sox2
+coding regions modulate embryonic stem
+cell differentiation. Nature 455: 1124–1128.
+40. Helwak A, Kudla G, Dudnakova T, Tollervey D. 2013. Mapping the human miRNA
+interactome by CLASH reveals frequent
+noncanonical binding. Cell 153: 654–665.
+41. Lewis BP, Shih I, Jones-Rhoades MW,
+Bartel DP, et al. 2003. Prediction of
+mammalian microRNA targets. Cell 115:
+787–798.
+42. Lewis BP, Burge CB, Bartel DP. 2005.
+Conserved seed pairing, often flanked by
+adenosines, indicates that thousands of
+human genes are microRNA targets. Cell
+120: 15–20.
+43. Krek A, Grün D, Poy MN, Wolf R, et al.
+2005. Combinatorial microRNA target predictions. Nat Genet 37: 495–500.
+44. Cui Q, Yu Z, Purisima EO, Wang E. 2006.
+Principles of microRNA regulation of a
+human cellular signaling network. Mol Syst
+Biol 2: 46.
+45. Krishnan K, Steptoe AL, Martin HC,
+Pattabiraman DR, et al. 2013. MiR-139–
+5p is a regulator of metastatic pathways in
+breast cancer. RNA 19: 1767–1780.
+46. Krishnan K, Steptoe AL, Martin HC, Wani
+S, et al. 2013. MicroRNA-182–5p targets a
+network of genes involved in DNA repair.
+RNA 19: 230–242.
+47. Lal A, Thomas M, Altschuler G, Navarro F.
+2011. Capture of microRNA–bound mRNAs
+identifies the tumor suppressor miR-34a as
+a regulator of growth factor signaling. PLoS
+Genet 7: e1002363.
+48. Cloonan N, Brown MK, Steptoe AL, Wani
+S, et al. 2008. The miR-17–5p microRNA is a
+key regulator of the G1/S phase cell cycle
+transition. Genome Biol 9: R127.
+49. Cloonan N, Wani S, Xu Q, Gu J, et al. 2011.
+MicroRNAs and their isomiRs function
+cooperatively to target common biological
+pathways. Genome Biol 12: R126.
+50. Wani S, Cloonan N. 2014. Profiling direct
+mRNA-microRNA interactions using synthetic biotinylated microRNA-duplexes. bioRxiv doi: http://dx.doi.org/10.1101/005439
+51. Riley K, Yario T, Steitz J. 2012. Association
+of Argonaute proteins and microRNAs can
+occur after cell lysis. RNA 18: 1581–1585.
+52. Mili S, Steitz J. 2004. Evidence for reassociation of RNA-binding proteins after cell
+lysis: Implications for the interpretation of
+immunoprecipitation analyses. RNA 10:
+1692–1694.
+53. Li X, MacArthur S, Bourgon R, Nix D, et al.
+2008. Transcription factors bind thousands
+of active and inactive regions in the Drosophila blastoderm. PLoS Biol 6: e27.
+54. Paris M, Kaplan T, Li XY, Villalta JE, et al.
+2013. Extensive divergence of transcription
+factor binding in Drosophila embryos with
+highly conserved gene expression. PLoS
+Genet 9: e1003748.
+55. Cusanovich D, a Pavlovic, Pritchard JK,
+Gilad Y. 2014. The functional consequences
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc.
+
+of variation in transcription factor binding.
+PLoS Genet 10: e1004226.
+56. Fisher WW, Li JJ, Hammonds AS, Brown
+JB, et al. 2012. DNA regions bound at low
+occupancy by transcription factors do not
+drive patterned reporter gene expression in
+Drosophila. Proc Natl Acad Sci USA 109:
+21330–21335.
+57. Spivakov M. 2014. Spurious transcription
+factor binding: non-functional or genetically
+redundant. BioEssays 36: 798–806.
+58. Mukherji S, Ebert MS, Zheng GXY, Tsang
+JS, et al. 2011. MicroRNAs can generate
+thresholds in target gene expression. Nat
+Genet 43: 854–859.
+59. White AK, VanInsberghe M, Petriv OI,
+Hamidi M, et al. 2011. High-throughput
+microfluidic single-cell RT-qPCR. Proc Natl
+Acad Sci USA 108: 13999–14004.
+60. Grimson A, Farh KK-H, Johnston WK,
+Garrett-Engele P, et al. 2007. MicroRNA
+targeting specificity in mammals: determinants beyond seed pairing. Mol Cell 27: 91–
+105.
+61. Bartel DP. 2009. MicroRNAs: target recognition and regulatory functions. Cell 136:
+215–233.
+62. Stark A, Brennecke J, Bushati N, Russell
+RB, et al. 2005. Animal MicroRNAs confer
+robustness to gene expression and have a
+significant impact on 3’UTR evolution. Cell
+123: 1133–1146.
+63. Didiano D, Hobert O. 2006. Perfect seed
+pairing is not a generally reliable predictor
+for miRNA-target interactions. Nat Struct
+Mol Biol 13: 849–851.
+64. Kertesz M, Iovino N, Unnerstall U, Gaul U,
+et al. 2007. The role of site accessibility in
+microRNA target recognition. Nat Genet 39:
+1278–1284.
+65. Long D, Lee R, Williams P, Chan CY, et al.
+2007. Potent effect of target structure on
+microRNA function. Nat Struct Mol Biol 14:
+287–294.
+66. Marı́n RM, Vanı́cek J. 2011. Efficient use of
+accessibility in microRNA target prediction.
+Nucleic Acids Res 39: 19–29.
+67. Mückstein U, Tafer H, Hackermüller J,
+Bernhart SH, et al. 2006. Thermodynamics
+of RNA-RNA binding. Bioinformatics 22:
+1177–1182.
+68. Busch A, Richter AS, Backofen R. 2008.
+IntaRNA: efficient prediction of bacterial
+sRNA targets incorporating target site
+accessibility and seed regions. Bioinformatics 24: 2849–2856.
+69. Robins H, Press W. 2005. Human microRNAs target a functionally distinct population of genes with AT-rich 30 UTRs. Proc Natl
+Acad Sci USA 102: 15557–15562.
+70. Hammell M, Long D, Zhang L, Lee A, et al.
+2008. MirWIP: microRNA target prediction
+based on microRNA-containing ribonucleoprotein-enriched transcripts. Nat Methods 5:
+813–819.
+71. Ragan C, Cloonan N, Grimmond SM,
+Zuker M, et al. 2009. Transcriptome-wide
+prediction of miRNA targets in human and
+mouse using FASTH. PLoS ONE 4: e5745.
+72. Gaidatzis D, van Nimwegen E, Hausser J,
+Zavolan M. 2007. Inference of miRNA
+targets using evolutionary conservation
+and pathway analysis. BMC Bioinfo 8: 69.
+73. Maragkakis M, Alexiou P, Papadopoulos
+GL, Reczko M, et al. 2009. Accurate
+microRNA target prediction correlates with
+
+9
+
+Think Again
+
+18. Beilharz TH, Humphreys DT, Clancy JL,
+Thermann R, et al. 2009. MicroRNA-Mediated Messenger RNA Deadenylation Contributes to Translational Repression in
+Mammalian Cells. PLoS ONE 4: e6783.
+19. Eulalio A, Huntzinger E, Izaurralde E.
+2008. Essay getting to the root of miRNAmediated gene silencing. Cell 132: 9–14.
+20. Fabian MR, Sonenberg N, Filipowicz W.
+2010. Regulation of mRNA translation and
+stability by microRNAs. Annu Rev Biochem
+79: 351–379.
+21. Liu J, Valencia-Sanchez MA, Hannon GJ,
+Parker R. 2005. MicroRNA-dependent
+localization of targeted mRNAs to mammalian P-bodies. Nat Cell Biol 7: 719–723.
+22. Andrei MA, Ingelfinger D, Heintzmann R,
+Achsel T, et al. 2005. A role for eIF4E and
+eIF4E-transporter in targeting mRNPs to
+mammalian processing bodies. RNA 11:
+717–727.
+23. Krützfeldt J, Rajewsky N, Braich R,
+Rajeev KG, et al. 2005. Silencing of microRNAs in vivo with “antagomirs”. Nature 438:
+685–689.
+24. Lim LP, Lau NC, Garrett-Engele P, Grimson
+A, et al. 2005. Microarray analysis shows that
+some microRNAs downregulate large numbers of target mRNAs. Nature 433: 769–773.
+25. Selbach M, Schwanhäusser B, Thierfelder N, Fang Z, et al. 2008. Widespread
+changes in protein synthesis induced by
+microRNAs. Nature 455: 58–63.
+26. Baek D, Villén J, Shin C, Camargo FD,
+et al. 2008. The impact of microRNAs on
+protein output. Nature 455: 64–71.
+27. Hendrickson DG, Hogan DJ, McCullough
+HL, Myers JW, et al. 2009. Concordant
+regulation of translation and mRNA abundance for hundreds of targets of a human
+microRNA. PLoS Biol 7: e1000238.
+28. Guo H, Ingolia NT, Weissman JS, Bartel
+DP. 2010. Mammalian microRNAs predominantly act to decrease target mRNA levels.
+Nature 466: 835–840.
+29. Clancy JL, Wei GH, Echner N, Humphreys
+DT, et al. 2011. MRNA isoform diversity can
+obscure detection of miRNA-mediated control of translation. RNA 17: 1025–1031.
+30. Djebali S, Davis CA, Merkel A, Dobin A,
+et al. 2012. Landscape of transcription in
+human cells. Nature 489: 101–108.
+31. Greenberg M, Ziff E. 1984. Stimulation of
+3T3 cells induces transcription of the c-fos
+proto-oncogene. Nature 311: 433–438.
+32. Müller R, Bravo R, Burckhardt J, Curran T.
+1984. Induction of c-fos gene and protein by
+growth factors precedes activation of cmyc. Nature 312: 716–720.
+33. Lau LF, Nathans D. 1987. Expression of a
+set of growth-related immediate early genes
+in BALB/c 3T3 cells: coordinate regulation
+with c-fos or c-myc. Proc Natl Acad Sci USA
+84: 1182–1186.
+34. Lamph W, Wamsley P, Sassone-Corsi P,
+Verma I. 1988. Induction of proto-oncogene
+JUN/AP-1 by serum and TPA. Nature 334:
+629–631.
+35. Kruijer W, Cooper J, Hunter T, Verma I.
+1984. Platelet-derived growth factor induces
+rapid but transient expression of the c-fos
+gene and protein. Nature 312: 711–716.
+36. Vella MC, Choi E-Y, Lin S-Y, Reinert K,
+et al. 2004. The C. elegans microRNA let-7
+binds to imperfect let-7 complementary
+sites from the lin-41 3’UTR. Genes Dev 18:
+132–137.
+
+N. Cloonan
+
+Think Again
+
+N. Cloonan
+
+protein repression levels. BMC Bioinfo 10:
+295.
+74. Stark A, Brennecke J, Russell RB, Cohen
+SM. 2003. Identification of Drosophila
+microRNA targets. PLoS Biol. 1: E60.
+75. Murphy E, Vanı́ček J, Robins H, Shenk
+T, et al. 2008. Suppression of immediateearly viral gene expression by herpesvirus-coded microRNAs: implications for
+latency. Proc Natl Acad Sci USA 105:
+5453–5458.
+76. Marı́n RM, Vanı́ček J. 2012. Optimal use of
+conservation and accessibility filters in
+microRNA target prediction. PLoS ONE 7:
+e32208.
+77. Kolle G, Ho M, Zhou Q, Chy HS, et al. 2009.
+Identification of human embryonic stem cell
+surface markers by combined membranepolysome translation state array analysis
+and immunotranscriptional profiling. Stem
+Cells 27: 2446–2456.
+78. Duursma AM, Kedde M, Schrier M, le
+Sage C, et al. 2008. MiR-148 targets human
+DNMT3b protein coding region. RNA 14:
+872–877.
+79. Forman J, Coller H. 2010. The code within
+the code: microRNAs target coding regions.
+Cell Cycle 9: 1533–1541.
+80. Forman JJ, Legesse-Miller A, Coller HA.
+2008. A search for conserved sequences
+in coding regions reveals that the let-7
+microRNA targets Dicer within its coding
+sequence. Proc Natl Acad Sci USA 105:
+14879–14884.
+81. Rigoutsos I. 2009. New tricks for animal
+microRNAS: targeting of amino acid coding
+regions at conserved and nonconserved
+sites. Cancer Res 69: 3245–3248.
+82. Lytle JR, Yario TA, Steitz JA. 2007. Target
+mRNAs are repressed as efficiently by
+microRNA-binding sites in the 5’ UTR as in
+the 3’ UTR. Proc Natl Acad Sci USA 104:
+9667–72.
+83. Brodersen P, Voinnet O. 2009. Revisiting
+the principles of microRNA target recognition and mode of action. Nat Rev Mol Cell
+Biol 10: 141–148.
+84. Wang Y, Juranek S, Li H, Sheng G, et al.
+2008. Structure of an argonaute silencing
+complex with a seed-containing guide DNA
+and target RNA duplex. Nature 456: 921–
+926.
+
+10
+
+Insights & Perspectives
+
+85. Hafner M, Landthaler M, Burger L, Khorshid
+M, et al. 2010. Transcriptome-wide identification of RNA-binding protein and microRNA
+target sites by PAR-CLIP. Cell 141: 129–141.
+86. Loeb GB, Khan A, a Canner, Hiatt JB, et al.
+2012. Transcriptome-wide miR-155 binding
+map reveals widespread noncanonical
+microRNA targeting. Mol Cell 48: 760–770.
+87. Shin C, Nam J-W, Farh KK-H, Chiang HR,
+et al. 2010. Expanding the microRNA
+targeting code: functional sites with centered pairing. Mol Cell 38: 789–802.
+88. Tompa M, Li N, Bailey TL, Church GM,
+et al. 2005. Assessing computational tools
+for the discovery of transcription factor
+binding sites. Nat Biotechnol 23: 137–144.
+89. Furey TS. 2012. ChIP-seq and beyond: new
+and improved methodologies to detect and
+characterize protein-DNA interactions. Nat
+Rev Genet 13: 840–852.
+90. Johnson DS, Mortazavi A, Myers RM,
+Wold B. 2007. Genome-wide mapping of in
+vivo protein-DNA interactions. Science 316:
+1497–1502.
+91. Bassett AR, Azzam G, Wheatley L, Tibbit
+C, et al. 2014. Understanding functional
+miRNA–target interactions in vivo by sitespecific genome engineering. Nat Commun
+5: 1–11.
+92. Loya CM, Lu CS, Van Vactor D, Fulga TA.
+2009. Transgenic microRNA inhibition with
+spatiotemporal specificity in intact organisms. Nat Methods 6: 897–903.
+93. Baccarini A, Brown B. 2010. Monitoring
+microRNA activity and validating microRNA
+targets by reporter-based approaches. In:
+Monticelli S editor., MicroRNAs and the
+Immune System SE - 15. Humana Press. pp
+215–233.
+94. German MA, Luo S, Schroth G, Meyers
+BC, et al. 2009. Construction of parallel
+analysis of RNA ends (PARE) libraries for the
+study of cleaved miRNA targets and the
+RNA degradome. Nat Protoc 4: 356–362.
+95. Su H, Trombly M, Chen J, Wang X. 2009.
+Essential and overlapping functions for
+mammalian Argonautes in microRNA silencing. Genes Dev 23: 304–317.
+96. Licatalosi DD, Mele A, Fak JJ, Ule J, et al.
+2008. HITS-CLIP yields genome-wide
+insights into brain alternative RNA processing. Nature 456: 464–469.
+
+.....
+
+97. Chi SW, Zang JB, Mele A, Darnell RB.
+2009. Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps. Nature 460:
+479–486.
+98. Macias S, Plass M, Stajuda A, Michlewski
+G, et al. 2012. DGCR8 HITS-CLIP reveals
+novel functions for the Microprocessor. Nat
+Struct Mol Biol 19: 760–766.
+99. Nelson PT, Planell-saguer M, De Lamprinaki, Kiriakidou M, et al. 2007. A novel
+monoclonal antibody against human Argonaute proteins reveals unexpected characteristics of miRNAs in human blood cells.
+RNA 13: 1787–1792.
+100. Orom UA, Lund AH. 2007. Isolation of
+microRNA targets using biotinylated synthetic microRNAs. Methods 43: 162–165.
+101. Martinez J, Patkaniowska A, Urlaub H,
+Lührmann R, et al. 2002. Single-stranded
+antisense siRNAs guide target RNA cleavage in RNAi. Cell 110: 563–574.
+102. Rand TA, Petersen S, Du F, Wang X. 2005.
+Argonaute2 cleaves the anti-guide strand of
+siRNA during RISC activation. Cell 123: 621–
+629.
+103. Chu C, Rana TM. 2006. Translation repression in human cells by microRNA-induced
+gene silencing requires RCK/p54. PLoS Biol
+4: e210.
+104. Ameres SL, Martinez J, Schroeder R.
+2007. Molecular basis for target RNA
+recognition and cleavage by human RISC.
+Cell 130: 101–112.
+105. Kedde M, Strasser MJ, Boldajipour B,
+Oude Vrielink JAF, et al. 2007. RNA-binding
+protein Dnd1 inhibits microRNA access to
+target mRNA. Cell 131: 1273–1286.
+106. Ørom UA, Nielsen FC, Lund AH. 2008.
+MicroRNA-10a binds the 5’UTR of ribosomal protein mRNAs and enhances their
+translation. Mol Cell 30: 460–471.
+107. Thomas M, Lieberman J, Lal A. 2010.
+Desperately seeking microRNA targets. Nat
+Struct Mol Biol 17: 1169–1174.
+108. Cloonan N. 2014 Multiple paths to mature
+miRNAs. doi: 10.6084/m9.figshare.1222671.
+109. Cloonan N. 2014 The anatomy of miRNAmRNA interactions. doi: 10.6084/m9.
+figshare.1222718.
+110. Cloonan N. 2014 Experimental methods of
+miRNA target detection. doi: 10.6084/m9.
+figshare.1222672.
+
+Bioessays 37: 0000–0000, ß 2015 The Author. Bioessays published by WILEY Periodicals, Inc.
+
+

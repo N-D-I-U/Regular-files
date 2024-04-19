@@ -1,0 +1,2239 @@
+International Journal of
+
+Molecular Sciences
+Review
+
+Argonaute and Argonaute-Bound Small RNAs in
+Stem Cells
+Lihong Zhai 1,† , Lin Wang 2,† , Feng Teng 1 , Lanting Zhou 1 , Wenjing Zhang 1 , Juan Xiao 1 ,
+Ying Liu 3,4, * and Wenbin Deng 5,6, *
+1
+
+2
+3
+
+4
+
+5
+6
+
+*
+†
+
+Medical College, Hubei University of Arts and Science, Xiangyang 441053, Hubei, China;
+zhailihong@webmail.hzau.edu.cn (L.Z.); tengfeng1217@webmail.hzau.cn (F.T.);
+lanting_zhou@yeah.net (L.Z.); starking521@webmail.hzau.edu.cn (W.Z.); xiaojuan@bjmu.edu.cn (J.X.)
+Xiangyang Oral Hospital, Xiangyang 441003, Hubei, China; tobenumberone@yeah.net
+Department of Neurosurgery, Medical School, the Brown Foundation Institute of Molecular Medicine for the
+Prevention of Human Diseases, University of Texas Health Science Center at Houston, Houston,
+TX 77030, USA
+Center for Stem Cell and Regenerative Medicine, the Brown Foundation Institute of Molecular Medicine for
+the Prevention of Human Diseases, University of Texas Health Science Center at Houston, Houston,
+TX 77030, USA
+Department of Biochemistry and Molecular Medicine, School of Medicine, University of California, Davis,
+CA 95817, USA
+Institute for Pediatric Regenerative Medicine, Shriners Hospitals for Children, Sacramento, CA 95817, USA
+Correspondence: Ying.Liu@uth.tmc.edu (Y.L.); wbdeng@ucdavis.edu (W.D.);
+Tel.: +1-713-500-3567 (Y.L.); +1-916-453-2287 (W.D.); Fax: +1-713-500-2424 (Y.L.); +1-916-453-2288 (W.D.)
+These authors contributed equally to this work.
+
+Academic Editor: Cesar Borlongan
+Received: 24 December 2015; Accepted: 1 February 2016; Published: 4 February 2016
+
+Abstract: Small RNAs are essential for a variety of cellular functions. Argonaute (AGO) proteins
+are associated with all of the different classes of small RNAs, and are indispensable in small
+RNA-mediated regulatory pathways. AGO proteins have been identified in various types of stem
+cells in diverse species from plants and animals. This review article highlights recent progress on
+how AGO proteins and AGO-bound small RNAs regulate the self-renewal and differentiation of
+distinct stem cell types, including pluripotent, germline, somatic, and cancer stem cells.
+Keywords: Argonaute; Piwi; small RNAs; stem cells
+
+1. Introduction
+Small RNAs, including microRNAs (miRNAs), short interfering RNAs (siRNAs) and
+Piwi-interacting RNAs (piRNAs), achieve their gene silencing functions at diverse levels of
+cellular progresses, including at the transcription, RNA processing, RNA stability, translation and
+post-translational levels [1,2]. These small RNAs execute their effects by associating with Argonaute
+(AGO) proteins, which are further divided into three subfamilies, AGO, Piwi, and Group 3 (known as
+WAGO) subfamilies. The miRNAs and siRNAs interact with AGOs, while piRNAs mainly interact
+with Piwi. Since Group 3 (WAGO) subfamily is only found in worms, we focus on AGO and Piwi
+in this review. Both protein subfamilies are found in a range of stem cell types and have important
+roles in a variety of cellular functions, including stem cell maturation and differentiation, embryonic
+development, and transposon functions [3], which critically contribute to the regulation of self-renewal,
+proliferation and differentiation of stem cells via specific mechanisms [4–7]. This concise review
+provides an update on recent progress regarding AGO and AGO-bound small RNAs and their
+regulation of various types of stem cells, such as pluripotent, germline, somatic, and cancer stem cells.
+
+Int. J. Mol. Sci. 2016, 17, 208; doi:10.3390/ijms17020208
+
+www.mdpi.com/journal/ijms
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+2 of 17
+
+2. The Argonaute (AGO) Family
+The AGO protein family was first identified in plants. The term AGO was derived from
+ago1 in Arabidopsis [8]. Shortly after the identification of ago1, several additional AGO proteins
+were discovered in numerous organisms for their function in small RNA-directed silencing [9].
+According to their functional domains, AGO proteins are subdivided into AGO proteins (the AGO
+clade) and Piwi proteins (the Piwi clade) [10] (Table 1). A prototype member of the AGO clade is
+Arabidopsis thaliana AGO1, while all Piwi proteins, share significant homology to Drosophila melanogaster
+Piwi [11]. AGO proteins function by cooperating with miRNAs or siRNAs and regulate gene-silencing
+at thepost-transcriptional level. Piwi proteins act by binding to piRNAs and exert their function
+through silencing of transposable elements [11–13]. Group 3 subfamily is only found in worms
+(Caenorhabditis elegans, known as WAGO), while AGO and Piwi subfamilies are found in a variety
+of species, such as plants, yeasts, flies, and mammals. The number of AGO proteins varies among
+different species, the fission yeast (Schizosaccharomyces pombe) has only one AGO protein, while the
+nematode worm has 27 different AGO proteins. However, the structure of AGO proteins is highly
+conserved. In the mouse, eight AGO proteins are categorized into two subfamilies: five to the AGO
+subfamily (simplified as AGO-like) and the remaining three to the Piwi subfamily. Similarly, in
+human, based on NCBI’s sequence alignment, four AGO proteins (hAGO1/EIF2C1, hAGO2/EIF2C2,
+hAGO3/EIF2C3, and hAGO4/EIF2C4) and four Piwi proteins (Hiwi/Piwil1, Hili/Piwil2, Piwil3, and
+Hiwi2/Piwil4) [14] have been identified. Previous expression profiling in mammalian cells revealed
+that the expression of AGO subfamily members can be found in all tissues ubiquitously, whereas
+expression of the Piwi proteins seems to be restricted to germ cells [4]. Recent reports, however, have
+recognized somatic Piwi as well [15]. A complete tissue array of the various AGO proteins in different
+tissues will provide a comprehensive gene expression profile. Such work may offer clues to reveal
+potential novel functions of AGO proteins.
+AGO proteins are large proteins and have a molecular weight of approximately 100 kDa.
+Regardless of the subfamilies, they usually contain one variable N-terminal domain, PAZ
+(Piwi-Argonaute-Zwille), MID (middle) and Piwi domains (Figure 1) [3]. The variable N-terminal
+region is reported to facilitate the separation of the small RNA: target duplex [9]. PAZ domain
+composes a particular binding module that anchors the 2-nt 31 overhangs of small RNAs [3], which
+is critical for dsRNA processing in RNAi, as revealed by X-ray crystallography. The MID domain
+binds 51 phosphates of small RNAs by a highly basic pocket, serving as an anchor of small RNAs
+onto AGO proteins [16,17]. Another function of the MID domain is to repress translation through a
+motif similar to eIF4E [18]. The Piwi domain contains a DDX (where X is D or H) motif, a catalytic
+triad DDX, which is homologous to RNase H enzymes and renders endonuclease activity for AGO
+proteins [19,20] (Figure 1). However, a DDX motif does not necessarily guarantee slicer activity [10] and
+only a subset of AGO proteins can cleave [11]. In the budding yeast Kluyveromyces polysporus, it seems
+that a constant glutamic acid (E) residue has to be tagged into the catalytic pocket to create a DEDD
+or DEDH tetrad for slicing activity [21]. In human, endonuclease activity of AGO2 might come from
+several aspects: the Piwi domain, a loop in the N terminal domain, and possibly unidentified AGO2
+binding partners [22]. The 2.3 angstrom resolution crystal structure of human AGO2 has revealed
+that all the characteristic AGO domains are conserved in human AGO2, and that the interaction sites
+(tryptophan-binding pockets) in the Piwi domain for binding GW motif also exist [23]. QF-V motif
+of Piwi domain recognizes base-paring at the 15th base of a miRNA duplex, whereas recognition
+of the central nucleotides is critically dependent upon the DDDE catalytic core of AtAGO2 [24].
+In addition to domains related to endonuclease activities, AGO protein motifs for small RNA sorting
+and protein-protein interactions have also been characterized in more depth. For instance, MID domain
+of human AGO2 has been reported to interact with fragile X mental retardation protein (FMRP) via
+a specific binding pocket composed of one tyrosine and two lysine residues, FMRP subsequently
+associates with miR-196a to silence HOXB8 mRNA [25]. Therefore, MID domain in AGO2 is critical
+for miR-196’s silencing effect toward HOXB8. Human AGO2 might also function as a framework by
+
+Int.
+Int.J.J.Mol.
+Mol.Sci.
+Sci.2016,
+2016,17,
+17, 208
+208
+
+of17
+17
+33of
+
+MID domain in AGO2 is critical for miR-196’s silencing effect toward HOXB8. Human AGO2 might
+binding
+to guide
+and target
+RNA duplex
+formed
+pairing
+miRNAs
+and
+the complementary
+also function
+as aRNA
+framework
+by binding
+to guide
+RNAby
+and
+targetof
+RNA
+duplex
+formed
+by pairing of
+target
+RNAs
+[26].
+Another
+function
+of
+human
+AGO2
+is
+to
+interact
+with
+A
+nucleotides
+the
+miRNAs and the complementary target RNAs [26]. Another function of human AGO2 isthrough
+to interact
+water-mediated
+interaction
+of t1-nucleotide
+binding interaction
+pocket and adenosine
+N6 amine,
+ensuring
+fixation
+with A nucleotides
+through
+the water-mediated
+of t1-nucleotide
+binding
+pocket
+and
+ofadenosine
+target RNAs
+on
+AGO2
+[24,27].
+N6 amine, ensuring fixation of target RNAs on AGO2 [24,27].
+
+Figure1.1.Domain
+Domain
+schematics
+a typical
+Argonaute
+protein.
+(A) Crystal
+structure
+of Aquifex
+Figure
+schematics
+of aoftypical
+Argonaute
+protein.
+(A) Crystal
+structure
+of Aquifex
+aeolicus
+aeolicus
+Argonaute
+(adapted
+from
+PDB
+database,
+PDB
+ID:
+2NUB)
+[28],
+with
+stereo-view
+ribbon
+Argonaute (adapted from PDB database, PDB ID: 2NUB) [28], with stereo-view ribbon illustration
+illustration
+of
+Argonaute
+showing
+the
+N-terminal
+domain
+(light
+blue),
+the
+PAZ
+domain
+(blue),
+the
+of Argonaute showing the N-terminal domain (light blue), the PAZ domain (blue), the MID domain
+MID domain (yellow), the Piwi domain (green); (B) Schematic depiction of the Argonaute domain.
+(yellow), the Piwi domain (green); (B) Schematic depiction of the Argonaute domain. PAZ domain
+PAZ domain anchors the characteristic 2-nt 3’ overhangs of small RNAs. The MID domain binds 5’
+anchors the characteristic 2-nt 3’ overhangs of small RNAs. The MID domain binds 5’ phosphates of
+phosphates of small RNAs, and functions as an anchor of small RNAs binding to the Argonaute
+small RNAs, and functions as an anchor of small RNAs binding to the Argonaute (AGO) protein. Piwi
+(AGO) protein. Piwi domain is an RNase H domain.
+domain is an RNase H domain.
+Table 1. Characterized Argonaute (AGO) proteins in different species.
+Table 1. Characterized Argonaute (AGO) proteins in different species.
+Gene
+Gene
+Name(Subfamily)
+Name(Subfamily)
+
+EIF2C1/hAGO1
+(AGO)
+EIF2C1/hAGO1
+(AGO)
+EIF2C2/hAGO2
+(AGO)
+EIF2C2/hAGO2
+(AGO)
+
+EIF2C3/hAGO3
+(AGO)
+EIF2C3/hAGO3
+(AGO)
+EIF2C4/hAGO4
+(AGO)
+EIF2C4/hAGO4 (AGO)
+Piwil1/Hiwi (Piwi)
+
+Piwil1/Hiwi (Piwi)
+
+Piwil2/Hili (Piwi)
+Piwil3
+(Piwi)
+Piwil2/Hili
+(Piwi)
+Piwil4/Hiwi2
+(Piwi)
+Piwil3 (Piwi)
+Piwil4/Hiwi2 (Piwi)
+
+dAGO1 (AGO)
+dAGO1 (AGO)
+
+dAGO2 (AGO)
+dAGO2 (AGO)
+
+dAGO3 (Piwi)
+dAGO3 (Piwi)
+Aubergine/AUB
+(Piwi)
+Aubergine/AUB
+Piwi (Piwi) (Piwi)
+Piwi (Piwi)
+
+AtAGO1
+AtAGO2
+
+Molecular Function
+
+Molecular Function
+
+sRNA Bound
+
+sRNA Bound
+
+Homo
+sapiens
+Homo sapiens
+miRNA-directed
+generegulation,
+regulation,
+miRNA-directed target
+target gene
+constitutive
+splicing,
+miRNAs
+constitutiveand
+and alternative
+alternative splicing,
+miRNAs
+heterochromatin silencing
+heterochromatin
+silencing
+miRNA-directed
+generegulation,
+regulation,
+miRNAs,
+miRNA-directed target
+target gene
+miRNAs, siRNA
+heterochromatin silencing,
+heterochromatin
+silencing,RNAi
+RNAi
+siRNA
+miRNA-directed
+generegulation
+regulation
+miRNAs
+miRNA-directed target
+target gene
+miRNAs
+miRNA-directed
+generegulation
+regulation
+miRNAs
+miRNA-directed target
+target gene
+miRNAs
+stem
+cell
+self-renewal,
+division,
+gametogenesis,
+stem cell self-renewal, division,
+piRNAs
+germ
+cell proliferation,
+RNAi
+piRNAs
+gametogenesis,
+germ celland
+proliferation,
+and
+RNAi regulation
+signaling
+piRNAs
+n/d
+piRNAs
+signaling regulation
+piRNAs
+transposon
+silencing
+piRNAs
+n/d
+piRNAs
+Drosophila melanogaster
+transposon silencing
+piRNAs
+22–23-nt
+miRNA-mediated
+gene silencing
+Drosophila
+melanogaster
+miRNAs
+miRNA-mediated gene silencing
+22–23-nt
+miRNAsand
+miRNAs
+RNAi in embryos
+miRNAs
+and
+21-nt
+21-nt siRNAs
+RNAi in embryos
+siRNAs
+transposon silencing
+piRNAs
+transposonsilencing,
+silencing stellate silencing, RNAi
+piRNAs
+transposon
+piRNAs
+transposon
+germline
+stem-cell
+piRNAs,
+transposonsilencing,
+silencing, stellate
+silencing,
+piRNAs
+RNAi
+maintenance,
+RNAi
+rasiRNAs
+Arabidopsis
+thaliana
+transposon silencing,
+germline
+stem-cell
+piRNAs, rasiRNAs
+maintenance,
+RNAiregulation and stress
+plant
+development
+21-nt
+responses
+miRNAs
+21-nt
+antibacterial immunity, viral defense,
+miRNAs,
+DSB-induced sRNAs activity, and DNA repair
+vsiRNAs,
+
+Reference
+
+Reference
+
+[29–31]
+[29–31]
+[30–32]
+[30–32]
+[30][30]
+[22][22]
+
+[3,12]
+
+[3,12]
+
+[33]
+[3,12]
+[33]
+[34]
+[3,12]
+[34]
+
+[35,36]
+[35,36]
+
+[35–38]
+[35–38]
+
+[39–41]
+
+[39–41]
+[41,42]
+[41,42]
+[41–43]
+[41–43]
+
+[8,44,45]
+[46–48]
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+4 of 17
+
+Table 1. Cont.
+Gene Name(Subfamily)
+
+Molecular Function
+
+sRNA Bound
+
+Reference
+
+Arabidopsis thaliana
+AtAGO1
+
+plant development regulation and
+stress responses
+
+21-nt miRNAs
+
+[8,44,45]
+
+AtAGO2
+
+antibacterial immunity, viral defense,
+DSB-induced sRNAs activity,
+and DNA repair
+
+21-nt miRNAs,
+vsiRNAs, diRNAs
+
+[46–48]
+
+AtAGO3
+
+n/d
+
+n/d
+
+AtAGO4
+
+RdDM pathway
+
+24-nt siRNAs
+
+[49,50]
+
+AtAGO5
+
+initiation of megagametogenesis, antiviral
+RNA silencing
+
+siRNAs
+
+[46,51–53]
+
+AtAGO6
+
+methylation of tasiRNA-generating loci and
+transcriptionally active TEs, shoot and root
+meristems
+
+24-nt siRNAs,
+21–22-nt
+endo-siRNAs
+
+[49,54–56]
+
+miR390
+
+[57]
+
+n/d
+
+[10]
+
+AtAGO7/ZIPPY
+
+TAS3-derived tasiRNA biogenesis,
+leaf development
+
+AtAGO8
+
+Proposed to be a pseudogene
+
+AtAGO9
+
+germ cell fate repression in the somatic
+companion cells surrounding MMC, and
+DNA repair
+
+24-siRNAs
+
+[46,58]
+
+regulation of shoot apical meristems
+
+miR165/166,
+miR172
+
+[59–63]
+
+AtAGO10/PINHEAD/
+ZWILLE
+
+Oryza sativa
+OsAGO1a/b/c
+
+miRNA-directed target gene regulation
+
+21-nt miRNAs
+
+[64]
+
+OsAGO5c/MEL1
+
+regulation of cell division of premeiotic
+germ cells
+
+21-nt siRNAs
+
+[65,66]
+
+miR390
+
+[67]
+
+regulates leaf development and
+maintenance of the shoot apical meristem
+
+n/d
+
+[68]
+
+broad-spectrum virus resistance
+
+n/d
+
+[69]
+
+OsAGO7
+OsAGO10/OsPNH1
+OsAGO18
+
+TAS3-derived tasiRNA biogenesis
+
+Zea mays
+ZmAGO7/RGD2
+
+TAS3-derived tasiRNA biogenesis
+
+miR390
+
+[70]
+
+ZmAGO9/AGO104
+
+somatic cell fate repression in the germ cells
+
+n/d
+
+[71]
+
+tapetum and germ cell development
+
+n/d
+
+[72]
+
+ZmAGO18b
+
+n/d, not determined.
+
+3. The Association of AGO Proteins and Small RNAs
+RISC (RNA-induced silencing complexes). AGO proteins recruit specific small RNAs to form
+RISCs, which target specific sequences in RNA or DNA in the genome (Figure 2). All types of
+described small RNAs (namely miRNA, siRNA, and piRNA) are known to associate with AGO and/or
+Piwi proteins to form RISCs [73]. Small RNAs in RISCs serve as guides for AGOs, which execute
+enzyme functions at specific locations. Interestingly, to perform their effector functions, small RNAs
+must be incorporated into AGO-protein containing complexes [74,75]. Otherwise, they would be
+degraded rapidly in cells. Depending on the subcellular locations and AGO proteins associated within
+the complex, different RISCs will cause cleavage of target mRNAs, inhibit translations, or perform
+chromatin modification of target genes [76] (Figure 2). In miRNA pathway, only the guide strand
+of small RNAs will base-pair with the target mRNA and is retained, while the passenger strand is
+disposed and degraded [1]. Similarly, during the canonical siRNA pathway, RISC is brought to RNA
+targets by the siRNA guide strand, and the Piwi domain of the AGO proteins is responsible for precisely
+slicing target RNAs. Piwi domain cleaves at the phosphodiester bond at No. 10 and 11 nucleotides.
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+5 of 17
+
+The cleaved products will have 51 -monophosphate and 31 -hydroxyl termini [77]. In the case of an
+imperfect matching of siRNA and its target, two additional mechanisms are at work to silence the gene.
+One is through the posttranscriptional level, such as translational repression. The other is transcription
+gene silencing (TGS) by siRISCs via histone H3 or DNA methylation [1]. In addition to functioning in
+gene silencing, it is reported that Arabidopsis AGOs AtAGO2 and AtAGO9 might participate in DNA
+repair, although detailed mechanism of action remains to be unraveled [46].
+Piwi and piRNAs. piRNAs are noncoding RNAs that bind Piwi proteins. Distinct from
+miRNAs and siRNAs, piRNAs have a length of 26–31 nt. piRNAs precursors are single stranded
+and are generated from repetitive sequences in the genome. Biogenesis and stability of piRNA
+might rely on Piwi proteins [18], as illustrated in the so-called “Ping-Pong” model (Figure 3),
+in which Piwi proteins cooperate in secondary piRNA production. piRNA-Piwi complexes also play
+important roles in maintaining genome integrity by preventing excessive transposon mobilization [78],
+which contributes to genome instability by replicating and/or inserting into new genomic locations.
+piRNA-Piwi complexes are proposed to act at various levels to control transposon activity:
+(1) At the post-transcription level, by destructing mRNA transcripts in the cytoplasm, one example
+is MIWI-piRNA, which functions in the mouse germline cells [43,79]. Another example is the
+regulation of maternal mRNA by piRNA and a newly identified Piwi protein, Aubergine (AUB) [80];
+(2) at the transcription level, piRNA-Piwi interferes with heterochromatin assembly, which results in
+transcriptional silencing [81–83]; (3) at the translation level, piRNA-Piwi interacts with translation
+initiation factors, a classical example of which is the interaction of MILI, a mouse Piwi protein, with
+eIF3a and eIF4G [5]. In addition, piRNAs might regulate gene expression independent of Piwi
+proteins. For example, piR-55490 is reported to be able to bind mTOR mRNA directly and to induce its
+degradation [84].
+Construction of AGO-small RNA target network. Although sharing similar functional domains,
+apparently AGO proteins have their own preference in choosing small RNA binding partners.
+Traditionally, quantitative real-time PCR, degradome sequencing and 51 RLM-RACE (RNA Ligase
+Mediated Rapid Amplification of cDNA Ends), have been used in predicting AGO and small RNA
+target pairs [85–87]. The development of high-throughput sequencing allows for global profiling of
+RNAs isolated from immunopurification (RIP-seq) and by crosslinking and immunoprecipitation
+(CLIP-seq or HITS-CLIP), paving the way to identification of AGO protein–small RNA-mRNA
+interaction sites in both plants and animals [20,52,88–91]. Computational prediction of small RNA
+targets relies on a combinatorial approach. Rules frequently are derived from previously validated
+binding partners, and in silico prediction is usually the first step of providing clues of candidates for
+AGO and small RNA binding partners. Indeed, identification of the small RNAs sorting into the
+appropriate AGO proteins is a prerequisite for elucidating a small RNA’s function. Several observations
+have been made: (1) the size of small RNAs. Different Arabidopsis AGO (AtAGO) proteins bind small
+RNAs with distinct sizes. AtAGO1 or AtAGO2 is found to form complexes with small RNAs of
+21 nt long, AtAGO4 and AtAGO9 with small RNAs of 24 nt in size. AtAGO5 is less selective as it
+binds small RNAs in the length of 21, 22 or 24 nt; (2) chemical composition/modification of termini.
+AtAGO1 binds small RNAs with a uridine at 5’, AtAGO2, AtAGO4 prefers small RNAs with an
+adenosine at 5’, and AtAGO5 binds small RNAs with a cytosine at 5’ [52]. AtAGO7 is more biased in
+choosing small RNAs and only forms interactions with miR390 [92]; (3) origin (precursors) of small
+RNAs. A good example is that AtAGO9 preferentially forms complexes with small RNAs derived from
+transposable elements (TEs) [93]. These observations have facilitated the development of protocols and
+computational algorithms for identification of AGO-small RNA network in higher organisms including
+mammals and humans. Additional more advanced approaches have also been developed. For instance,
+high-throughput sequencing of RNA extracted from crosslinking immunoprecipitation (HITS-CLIP)
+using highly selective monoclonal antibodies have identified additional AGO binding partners.
+In mouse testes, MIWI- and MILI-associated piRNAs are determined to be 29–31 or 26–28 nt in length,
+respectively [94,95], confirming the predicted sites from different computer algorithms [96], offering
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+6 of 17
+
+increased confidence in conducting AGO HITS-CLIP in other organisms [88,91,97,98]. CLIP-seq of
+AGO2 in mouse ESCs revealed that GCACUU motif in 31 UTRs and CDS correspond to miRNA seed
+matches [99]. Recently, a study of analyzing 34 AGO HITS-CLIP datasets observed that in different cell
+types, miRNA targets show distinct distribution patterns in the genomes, while in same cell types, the
+distributions are also identical [100]. Elucidation of AGO-small RNAs-targets network with HITS-CLIP
+in specific tissues or cells is revealing the regulatory mechanism of small RNAs.
+J. Mol.
+2016,
+Int. Int.
+J. Mol.
+Sci.Sci.
+2016,
+17,17,
+208208
+
+6 of 617of 17
+
+Figure 2. Guiding small RNAs’ gene silencing functions by AGO proteins.
+
+Figure 2. Guiding small RNAs’ gene silencing functions by AGO proteins.
+Figure 2. Guiding small RNAs’ gene silencing functions by AGO proteins.
+
+Figure 3. Biogenesis of piRNAs and the “Ping-Pong” model in D. melenogaster. piRNA clusters in the
+genome can be transcribed in either direction, sense or antisense. The long single-stranded RNA is
+the basis for piRNA generation. In D. melanogaster, to create sense and antisense piRNAs, Aubergine
+(AUB)
+and Ago3 two
+Piwi proteins,
+partner
+in secondary
+piRNA
+AGO3
+onlyclusters
+associates
+Figure
+3. Biogenesis
+of piRNAs
+and the
+“Ping-Pong”
+model
+in D.production.
+melenogaster.
+piRNA
+in the
+Figure 3. Biogenesis
+ofthat
+piRNAs
+and
+the “Ping-Pong”
+model
+in D.
+melenogaster.
+piRNA
+clusters
+in the
+to piRNAs
+are generated
+from
+retrotransposons’
+sense
+strand.
+On
+the contrary,
+AUB
+mainly
+genome
+can be
+transcribed
+in either
+direction,
+sense or
+antisense.
+The
+long
+single-stranded
+RNA
+is
+piRNAs
+made
+the antisense
+strand.
+This
+leadsantisense
+to thelong
+“Ping-Pong”
+model.
+genome can
+be
+transcribed
+infrom
+either
+sense
+or antisense.
+The
+single-stranded
+RNA is
+thebinds
+basis
+for piRNA
+generation.
+Indirection,
+D. melanogaster,
+to phenomenon
+create
+sense and
+piRNAs,
+Aubergine
+Based on “Ping-Pong” model, AGO3-piRNA complex induced cleavage specifies the 5’-end of
+(AUB)
+and Ago3
+two Piwi proteins,
+partner in secondary
+piRNA
+production.
+AGO3 only
+associatesAubergine
+the basis for
+piRNA
+generation.
+In D. melanogaster,
+to create
+sense
+and antisense
+piRNAs,
+AUB-associated piRNAs, the AUB-piRNA complex then generates the 5’-end of AGO3-bound
+to piRNAs that are generated from retrotransposons’ sense strand. On the contrary, AUB mainly
+(AUB) and Ago3
+two
+Piwi
+proteins,
+partner
+in
+secondary
+piRNA
+production.
+AGO3
+only associates to
+piRNAs. Mature piRNAs are loaded onto Piwi proteins and guide them to transposable elements
+binds piRNAs made from the antisense strand. This phenomenon leads to the “Ping-Pong” model.
+derived
+complementary
+RNAs.
+Piwi proteins slice
+the transposon
+RNA
+to contrary,
+induce silencing
+in
+piRNAs that
+are
+generated
+from
+retrotransposons’
+sense
+strand.
+On
+the
+AUB
+mainly binds
+Based on “Ping-Pong” model, AGO3-piRNA complex induced cleavage specifies the 5’-end of
+a similar fashion to RNAi.
+
+piRNAs made
+from the antisense
+strand.
+This phenomenon
+leads to the
+model. Based on
+AUB-associated
+piRNAs, the
+AUB-piRNA
+complex then generates
+the “Ping-Pong”
+5’-end of AGO3-bound
+piRNAs.
+Mature
+piRNAs are loaded
+ontoinduced
+Piwi proteins
+and guide
+them tothe
+transposable
+“Ping-Pong”
+model,
+AGO3-piRNA
+complex
+cleavage
+specifies
+5’-end ofelements
+AUB-associated
+derived complementary RNAs. Piwi proteins slice the transposon RNA to induce silencing in
+piRNAs, the
+AUB-piRNA complex then generates the 5’-end of AGO3-bound piRNAs. Mature piRNAs
+a similar fashion to RNAi.
+are loaded onto Piwi proteins and guide them to transposable elements derived complementary RNAs.
+Piwi proteins slice the transposon RNA to induce silencing in a similar fashion to RNAi.
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+7 of 17
+
+4. Argonaute-Interacting Partners and Regulation of Argonaute Function
+AGO-interacting proteins. Argonautes participate in many maturation processes of small RNAs
+as well as gene repression pathways that are mediated by small-RNAs, which involve interactions
+with diverse protein complexes. During miRNA-directed mRNA inhibition, the N-terminal domain of
+GW182 proteins, which contains multiple bi amino acid repeats of glycine-tryptophan (GW), that binds
+to AGO proteins. Such binding is necessary to facilitate all downstream gene silencing effects [101].
+The C-terminal part of GW182, on the other hand, interacts with the poly (A)-binding protein on the
+poly (A) tail of the mRNA. In addition, direct interactions of the C-terminal part with PAN2/3 and
+the CCR4/NOT complex, which are cellular deadenylases, deadenylate the mRNA. Subsequently,
+the mRNA is decapped by DCAP1/2 and then degraded by the exonuclease XRN1 [102–105]. To make
+the process even more complex, other proteins also participate and regulate at additional levels.
+Int. J. Mol. Sci. 2016, 17, 208
+7 of 17
+For instance, Pumilio (Pum) protein regulates the efficiency of miRNA-directed gene silencing [106],
+Argonaute-Interacting
+Regulation ofof
+Argonaute
+Function
+impotin8 (IPO8)4.or
+UPF1 maintainsPartners
+targetand
+association
+AGO complexes
+[107,108], and UBR5 facilitates
+AGO-interacting
+proteins.
+participate
+manyproteins
+maturation[109].
+processesThere
+of smallalso have been
+in recruiting downstream
+factors
+by Argonautes
+associating
+with inGW
+RNAs as well as gene repression pathways that are mediated by small-RNAs, which involve
+reported some interactions
+proteins with
+interacting
+with Piwi-piRNA complexes. For example, protein arginine
+diverse protein complexes. During miRNA-directed mRNA inhibition, the
+N-terminal
+domain of Tudor-domain-containing
+GW182 proteins, which contains multiple
+bi (TDRDs)
+amino acid Tudor
+repeats domain
+of
+N-methyltransferase
+5 (PRMT5),
+proteins
+proteins
+glycine-tryptophan (GW), that binds to AGO proteins. Such binding is necessary to facilitate all
+Tud, spindle E (SpnE),
+krimper
+(Krimp),
+female
+sterile
+(1)
+Yb
+(Fs(1)Yb),
+tejas
+(Tej),
+vreteno
+(Vret),
+etc.
+downstream gene silencing effects [101]. The C-terminal part of GW182, on the other hand, interacts
+However, the molecular
+mechanisms
+Recently,
+CG9754/Silencio has
+with the poly (A)-binding
+protein remain
+on the polyto
+(A)be
+tail revealed
+of the mRNA.[11].
+In addition,
+direct interactions
+of the
+with PAN2/3
+and the CCR4/NOTtranscriptional
+complex, which are silencing
+cellular deadenylases,
+been found to be
+anC-terminal
+essentialpart
+factor
+for Piwi-mediated
+in Dropsophila during
+deadenylate the mRNA. Subsequently, the mRNA is decapped by DCAP1/2 and then degraded by
+heterochromatin
+[110].[102–105]. To make the process even more complex, other proteins also
+theformation
+exonuclease XRN1
+regulate at additional
+For instance,
+Pumilio gene
+(Pum) protein
+regulatesof
+theAGO
+efficiency
+Regulationparticipate
+of AGOandfunction.
+Similarlevels.
+to majority
+genes,
+expression
+is also regulated
+of miRNA-directed gene silencing [106], impotin8 (IPO8) or UPF1 maintains target association of AGO
+at several levels.
+For
+example,
+AtAGO1
+mRNA
+is
+found
+to
+be
+the
+target
+of
+miRNA168
+and this
+complexes [107,108], and UBR5 facilitates in recruiting downstream factors by associating with GW
+proteins
+Thereplant
+also have
+been reported some
+proteins interacting
+Piwi-piRNA complexes.
+process is needed
+for [109].
+proper
+development,
+exemplifying
+thewith
+importance
+of feedback control by
+For example, protein arginine N-methyltransferase 5 (PRMT5), Tudor-domain-containing proteins
+miRNA [44]. Similarly,
+the
+expression
+of
+human
+AGO2
+was
+inhibited
+by
+miR-132
+during primary cell
+(TDRDs) Tudor domain proteins Tud, spindle E (SpnE), krimper (Krimp), female sterile (1) Yb
+activation [111],(Fs(1)Yb),
+on thetejas
+contrary,
+miR346
+enhanced
+themolecular
+expression
+of AGO2,
+to the increased
+(Tej), vreteno
+(Vret), etc.
+However, the
+mechanisms
+remain toleading
+be revealed
+[11].miRNAs
+Recently, CG9754/Silencio
+has beentofound
+be an essential
+Piwi-mediated
+activity of other
+and contributing
+the to
+malignancy
+offactor
+Helaforcells
+[112]. In addition to
+transcriptional silencing in Dropsophila during heterochromatin formation [110].
+small-RNA directedRegulation
+gene silencing,
+ubiquitylation
+and phosphorylation
+were
+also isidentified
+to control
+of AGO function.
+Similar to majority
+genes, gene expression
+of AGO
+also
+regulated
+at
+several
+levels.
+For
+example,
+AtAGO1
+mRNA
+is
+found
+to
+be
+the
+target
+of
+miRNA168
+the expression of AGO proteins [11].
+and this process is needed for proper plant development, exemplifying the importance of feedback
+control by miRNA [44]. Similarly, the expression of human AGO2 was inhibited by miR-132 during
+5. AGO Proteins
+andcellAGO-Bound
+Small
+RNAs
+in Stem
+Cells
+primary
+activation [111], on
+the contrary,
+miR346
+enhanced
+the expression of AGO2, leading to
+the increased activity of other miRNAs and contributing to the malignancy of Hela cells [112]. In
+AGO proteins
+and
+AGO-bound
+small
+RNAs are
+identified
+various types
+addition
+to small-RNA
+directed
+gene silencing,
+ubiquitylation
+and in
+phosphorylation
+were of
+alsostem cells [113]
+identified
+to
+control
+the
+expression
+of
+AGO
+proteins
+[11].
+in diverse species ranging from plants and animals (Figure 4). The AGO family was first identified
+
+to be essential 5.for
+stem
+cell
+inRNAs
+lower
+organisms,
+such as Drosophila, C. elegans, and
+AGO
+Proteins
+andmaintenance
+AGO-Bound Small
+in Stem
+Cells
+Arabidopsis [114], asAGO
+knocking
+out
+AGO
+proteins
+decreases
+the
+number
+of stem
+or abolishes
+normal
+proteins and AGO-bound small RNAs are identified in various types
+of stemcells
+cells [113]
+in
+diverse
+fromAGO
+plants and
+animals (Figure
+4). The
+AGOreported
+family was to
+firstfunction
+identified toin various stem
+development [4].
+To species
+date, ranging
+all three
+subfamilies
+have
+been
+be essential for stem cell maintenance in lower organisms, such as Drosophila, C. elegans, and
+cell types, including
+germline
+and
+non-germline
+stem
+cells,
+normal
+and
+malignant
+stem cells, and
+Arabidopsis [114], as knocking out AGO proteins decreases the number of stem cells or abolishes
+pluripotent andnormal
+somatic
+stem cells.
+wethree
+emphasize
+the expression
+and function
+development
+[4]. ToHere,
+date, all
+AGO subfamilies
+have been reported
+to functionof
+in the AGO/Piwi
+cell types, including germline and non-germline stem cells, normal and malignant stem
+family in plantvarious
+stemstem
+cells,
+germline stem cells, pluripotent stem cells (including embryonic stem
+cells, and pluripotent and somatic stem cells. Here, we emphasize the expression and function of the
+cells andinduced
+pluripotent
+somatic
+stem
+hematopoietic
+AGO/Piwi
+family instem
+plant cells),
+stem cells,
+germline
+stemcells
+cells, (including
+pluripotent stem
+cells (including stem cells and
+embryonic
+stem
+cells
+andinduced
+pluripotent
+stem
+cells),
+somatic
+stem
+cells
+(including
+mesenchymal stem cells), as well as cancer stem cells.
+hematopoietic stem cells and mesenchymal stem cells), as well as cancer stem cells.
+
+Figure 4. Summary of Argonaute proteins function in various stem cells.
+
+Figure 4. Summary of Argonaute proteins function in various stem cells.
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+8 of 17
+
+Plant stem cells. Plant stem cells are found at the tips of roots, shoots, and developing flowers.
+Stem cells located at different organs of a plant have distinct functions. The above-ground portion
+of the plant is derived from the stem cells in the shoot apical meristem (SAM) [63]. The stem cells
+from the meristem are committed to becoming a single central organ of the plant [4]. Loss of function
+mutation of AtAGO1 (named for Arabidopsis AGO, or PINHEAD/ZWILLE in mammals), exhibits
+phenotypes of both abnormal axillary meristems and leaf formation, indicating that AtAGO1 is
+essential in SAM function [8]. On the other hand, AtAGO10 (PINHEAD/ZWILLE) is required for
+shoot meristem formation via self-perpetuating shoot meristem divisions [59]. Apparently AtAGO1
+and AtAGO10 have functional redundancy because only double mutants demonstrate impaired SAM
+initiation and maintenance, which act through a pathway that is regulated by SHOOT MERISTEMLESS,
+a homeobox transcription factor [60]. However, AtAGO1 and AtAGO10 act via distinct mechanisms.
+AtAGO1 mainly functions through associating with miRNAs and siRNAs, and its effector complexes
+cleave mRNAs via slicer activity [115]. However, AtAGO10 exerts regulatory functions through
+miRNA-mediated translational repression [116]. It appears that AtAGO1 and AtAGO10 are both
+important in stem cells’ temporal control. Both AGO proteins repress AP2 and HD-Zip through
+miRNA miR172 and miR165/166, It is interesting to note that AtAGO1 and AtAGO10 function in
+opposite ways both in accumulation of miR165/166 and in controlling the gene expression of HD-Zip
+genes. In ago10 mutants, the expression of miR165/166 is increased and the expression of HD-Zip genes
+is decreased. This suggests that AGO10 upregulates HD-Zip expression via decreasing miR165/166
+levels by acting as a locker for miR165/166. Interestingly, AGO1 and AGO10 do not always function
+in different directions as in HD-Zip gene expression regulation, and they actually both boost floral
+determinacy. One possible explanation is that up- and down-regulation of different HD-Zip genes are
+involved in floral determinacy [62,63].
+Germline stem cells. Drosophila Piwi family member, Piwi, is expressed in both the germline and
+soma. Piwi is essential for self-renewal and asymmetric division GSCs [114]. Both male and female
+Piwi mutant flies are infertile, are depleted of GSCs, and their gonads contain only significantly lower
+number of egg chambers or sperm bundles. Piwi maintains GSCs and controls their differentiation
+in both cell-autonomous and non-cell-autonomous manners [114]. Somatic Piwi provides a niche to
+GSCs by upregulating decapentaplegic (Dpp) pathway [117,118]. Piwi also interacts with Corto, a gene
+encodes a chromatin protein, which controls Piwi expression in niche cells to maintain GSCs through
+an epigenetic mechanism. On the other hand, loss of Piwi also causes GSC-like tumors that persist
+throughout adult life and defects in intermingled cells (ICs), the progenitor cells of escort cells and
+escort cells, causing ectopic Dpp signaling and subsequent prevention of GSC differentiation [118].
+Previous research has shown that Drosophila Piwi functions on genome stability maintenance in the
+germline. Piwi silences transposable elements (TEs) by recruiting ~26–32 nt piRNAs [119]. However,
+more recent data from a Piwi Nt mutation, which is devoid of the nuclear localization signal (NLS),
+show that female flies could maintain self-renewal of the GSCs. The number of egg chambers is not
+affected either. The only phenotype is the derepression of transposable elements (TE) and nuclear
+accumulation of their mRNAs in the germ line. These results indicate that Piwi controls self-renewal of
+GSCs via GSC niche cells but not through manipulating TE function [120] (Figure 5). In parallel, Piwi
+may contribute to the differentiation of GSCs via escort cells (ECs) [121]. In addition, Piwi also interacts
+with Fasciclin 3, a gene essential for somatic cyst cells in gonadal development, in a cell-autonomous
+fashion. Such interaction has added a novel layer of Piwi regulation in GSCs [15]. Not only Piwi,
+but also Ago1 in Drosophila plays indispensable roles in regulating GSC fate. Overexpression of Ago1
+causes GSCs over-proliferation, whereas Ago1 knockout results in GSC depletion. Unlike Piwi, AGO1,
+although also plays a role in GSC fate regulation, does not act upstream of “bag of marbles” (bam) and
+is dispensable for bam silencing. Current data indicates that AGO1 might function either downstream
+of bam or in parallel with bam [122]. In ago3 mutant flies, GSCs are not properly maintained, thus
+causing reduced fertility [123].
+
+Int. J. Mol. Sci. 2016, 17, 208
+Int. J. Mol. Sci. 2016, 17, 208
+
+9 of 17
+9 of 17
+
+Figure 5. Piwi function in Drosophila GSCs self-renewal. Stem cell self-renewal requires both
+
+Figure 5. Piwi function in Drosophila GSCs self-renewal. Stem cell self-renewal requires both
+cell-autonomous and extrinsic signaling mechanisms. Niche signaling pathways involving Yb, Piwi,
+cell-autonomous
+and
+signaling
+mechanisms.
+NicheThe
+signaling
+pathways
+involving
+Yb, Piwi,
+Dpp and Hh
+areextrinsic
+expressed
+in SCs for
+GSC maintenance.
+chromatin
+factor Corto,
+which is
+Dpp andexpressed
+Hh are expressed
+SCs interacts
+for GSCwith
+maintenance.
+TheTrxG
+chromatin
+factorregulation.
+Corto, which
+expressed
+in the nicheincells,
+Piwi, PcG and
+in epigenetic
+Piwiisalso
+PGC
+and
+GSC with
+interacts
+with
+HP1a forwith
+TEs silencing
+for and
+GSCsTrxG
+self-renewal.
+Piwi in regulation.
+ECs maintains
+in the niche
+cells,
+interacts
+Piwi, PcG
+in epigenetic
+Piwi
+also
+interacts
+germlines
+and
+controls
+GSC
+lineage
+differentiation.
+Dpp:
+Decapentaplegic;
+Hh:
+Hedgehog;
+HP1a for TEs silencing for GSCs self-renewal. Piwi in ECs maintains PGC and GSC germlines and
+GSC: Germ Stem
+PcG: Polycomb Hh:
+group;
+TrxG: Trithorax
+group; Cells;
+controlsSCs:
+GSCSomatic
+lineageCells;
+differentiation.
+Dpp: Cell;
+Decapentaplegic;
+Hedgehog;
+SCs: Somatic
+HP1a: Heterochromatin protein 1a. TEs: Transposable elements; ECs: Escort cells; PGC: Primordial
+GSC: Germ Stem Cell; PcG: Polycomb group; TrxG: Trithorax group; HP1a: Heterochromatin protein 1a.
+germ cell.
+TEs: Transposable elements; ECs: Escort cells; PGC: Primordial germ cell.
+Mice have three Piwi proteins, Mili (PiwiL2), Miwi, and Miwi2, all of which are essential for
+spermatogenesis.
+Mili proteins,
+is detected
+in (PiwiL2),
+the cytoplasm
+of and
+spermatogonia,
+and
+Mice have three Piwi
+Mili
+Miwi,
+Miwi2, all testicular
+of whichGSCs,
+are essential
+for
+chromatoid bodies of early spermatocytes it is. Mili loss-of-function mutants show failure of
+spermatogenesis. Mili is detected in the cytoplasm of spermatogonia, testicular GSCs, and chromatoid
+self-renewal and differentiation of GSCs. However, the primary germ line stem cell population is not
+bodies affected.
+of earlyInterestingly,
+spermatocytes
+it is. Mili
+loss-of-function
+show offailure
+ofspecific
+self-renewal
+Mili mutation
+decreases
+the turnover of mutants
+protein synthesis
+stem cell
+and differentiation
+of does
+GSCs.
+germ line suggesting
+stem cell apopulation
+notinaffected.
+genes although
+notHowever,
+function atthe
+theprimary
+mRNA transcripts,
+function of isMili
+promoting
+division decreases
+and differentiation
+via translational
+regulation
+[5]. of stem cell specific genes
+Interestingly,
+MiliGSC
+mutation
+the turnover
+of protein
+synthesis
+Cancer
+cells. at
+Cancer
+stem cells
+(CSCs) are suggesting
+regarded as aasustainable
+source
+although does
+not stem
+function
+the mRNA
+transcripts,
+function of
+Mili of
+in malignant
+promoting GSC
+cells.
+These
+cells,
+though
+constitute
+an
+extremely
+low
+proportion
+of
+the
+total
+tumor
+cells,
+may
+serve
+division and differentiation via translational regulation [5].
+as the culprit contributing to drug resistance, tumor recurrence, metastasis and progression [124].
+Cancer stem cells. Cancer stem cells (CSCs) are regarded as a sustainable source of malignant
+Similar to other types of stem cells, CSCs self-renew and have the capacity to differentiate. Several
+cells. These
+constitute
+extremely
+low proportion
+of theFor
+total
+tumor cells,
+Piwi cells,
+familythough
+members
+have beenanfound
+in different
+types of cancers.
+example,
+PiwiL2may
+is serve
+as the culprit
+contributing
+to drug
+tumor
+recurrence,
+metastasis
+andcorrelate
+progression
+expressed
+in precancerous
+stem resistance,
+cells and breast
+cancers.
+PiwiL2 expression
+levels
+with [124].
+stages
+and of
+is astem
+good cells,
+candidate
+for self-renew
+diagnostic marker
+[125] and
+therapeutic
+[126]. MiliSeveral
+Similar breast
+to other
+types
+CSCs
+and have
+the acapacity
+to target
+differentiate.
+also
+is
+expressed
+in
+CSCs
+and
+has
+been
+reported
+to
+contribute
+to
+tumor
+initiation,
+progression
+Piwi family members have been found in different types of cancers. For example, PiwiL2 isand
+expressed
+metastasis [126]. For example, piR-932 and Mili have been proposed to be positive regulators in the
+in precancerous stem cells and breast cancers. PiwiL2 expression levels correlate with breast stages and
+process of breast CSCs. Specifically, Mili and piR-932 promote the methylation of Latexin, which
+is a good
+candidate for diagnostic marker [125] and a therapeutic target [126]. Mili also is expressed
+possesses tumor suppressor functions. Methylation of Latexin will silence the Latexin gene and
+in CSCstherefore
+and haspermitting
+been reported
+contribute
+to tumor
+andasmetastasis
+cancer to
+metastasis.
+Therefore,
+bothinitiation,
+piR932 andprogression
+Mili may serve
+potential [126].
+For example,
+piR-932
+and
+have been
+to be positive
+therapeutic
+targets
+forMili
+preventing
+breastproposed
+cancer metastasis
+of [127]. regulators in the process of breast
+Several human
+Piwi piR-932
+proteins have
+been the
+shown
+to be, responsible
+for CSC
+self-renewal
+and tumor
+CSCs. Specifically,
+Mili and
+promote
+methylation
+of Latexin,
+which
+possesses
+cancer
+metastasis
+in
+a
+wide
+range
+of
+cancer
+types.
+Increased
+expression
+of
+Hiwi
+has
+been
+correlated
+suppressor functions. Methylation of Latexin will silence the Latexin gene and therefore permitting
+with a poor prognosis for patients with soft-tissue sarcomas (STS). Another human Piwi protein is
+
+cancer metastasis. Therefore, both piR932 and Mili may serve as potential therapeutic targets for
+preventing breast cancer metastasis of [127].
+Several human Piwi proteins have been shown to be, responsible for CSC self-renewal and cancer
+metastasis in a wide range of cancer types. Increased expression of Hiwi has been correlated with a
+poor prognosis for patients with soft-tissue sarcomas (STS). Another human Piwi protein is Hili, and
+its expression has been correlated with pluripotent genes Oct4 and SOX2 in cancer tissues in colorectal
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+10 of 17
+
+cancer [128]. Hiwi also seems to play a key role in proliferation and metastasis of hepatocellular
+carcinoma (HCC) [129]. Hiwi also may facilitate chemoresistance in cervical cancer [130]. Further
+investigation on the function of AGO/Piwi proteins in human cancers might help identify additional
+tumor markers and drug targets [131].
+Somatic stem cells. Somatic stem cells (SSCs) are found in unique stem cell niches located at
+different adult tissues. CSCs are lineage specific, have limited proliferation and differentiation capacity,
+and are only committed to certain specific cell fates. One example of SSCs is CD34+ hematopoietic stem
+cells (HSCs), which represent probably one of the best characterized SSCs. Hiwi has been identified
+to be expressed in human hematopoietic progenitor cells, but not in mature blood cells [132]. Miwi2
+(Piwil4) is expressed in primitive hematopoietic cells. Interestingly, mice with a triple knockout of
+Miwi, Mili, and Miwi2, are able to maintain hematopoiesis in long-term [133], indicating their function
+is not essential for HSCs. Another example of Piwi’s function in SSCs is the requirement of Piwi in
+somatic cyst stem cell, which is essential for early germ cell maintenance. Because of the indispensable
+role of Piwi in GSCs, Piwi might serve as an important connection between the somatic and germline
+stem cell lineages [15]. Another example of SSCs is mesenchymal stem cells (MSCs). These SSCs
+potentially can robustly participate in tissue regeneration and repair [134]. Piwi protein PiwiL2 and
+associated piRNAs are expressed in bone marrow derived MSCs and may regulate the cell cycle of
+MSCs [135].
+Pluripotent stem cells. Pluripotent stem cells (PSCs) include embryonic stem cells (ESCs) and
+induced pluripotent stem cells (iPSCs). Three Piwi genes, Miwi, Mili, and Miwi2, have been shown
+to be highly expressed in ESCs when compared to fibroblasts. However, mice knocking out all three
+Piwi genes are viable. Female knockout mice are able to breed although male mice are sterile. Miwi
+encodes a cytoplasmic protein specifically expresses in spermatocytes and spermatids [136]. Miwi2
+is a nuclear protein expresses in the embryonic and neonatal stages. Miwi2 may function to control
+chromatin signatures of mESCs [137]. Furthermore, iPSCs are obtained at comparable efficiency from
+fibroblasts of triple knockout mice of Miwi/Mili/Miwi2 genes, indicating that at least these three
+Piwi proteins are dispensable iPSC reprogram process [138]. In human, AGO2 has been revealed to
+be indispensable for self-renewal and differentiation of ESCs by both siRNA and miRNA pathways
+through the research on Ago2-deficient ESCs [139]. Moreover, immunoprecipitation of human AGO2
+has identified pluripotency-specific miRNAs expressed in both hESCs and iPSCs [32].
+Four AGO proteins (AGO1-4) have been identified in mammals. AGO2 is the only one that has
+endonucleolytic activity. Oocytes from Ago2-deficient mice are able to mature, but have abnormal
+spindles and chromosomes, which prevent them from being able to cluster [140]. Female mice express
+Ago2ADH , a catalytically deficient knock-in allele of Ago2, which lack the function of endo-siRNAs,
+are infertile due to defects in meiosis I, indicating that catalytic activity of Ago2 is a prerequisite for
+meiosis in mouse oocytes to complete. Furthermore, some retrotransposon levels have been shown
+to be upregulated in Ago2ADH oocytes [141]. Similar to mammal AGO2, Drosophila ago-2 embryos
+are defective in chromosome condensation, nuclear kinesis, and spindle apparatus assembly [142].
+Therefore, AGO/Piwi protein bound small RNAs (miRNAs, siRNAs and piRNAs) are important
+players in ESCs through TE silencing for the proper formation of chromosomal structures, as well as
+gene expression regulation for normal metabolism.
+6. Conclusions
+The AGO protein family binds specific small RNAs in various tissues and influence stem
+cell properties including self-renewal, proliferation and differentiation, at several levels of gene
+expression regulation, including transcriptional and posttranscriptional repression, transposon and
+retro-transposon silencing, chromosomal modification. The relationship between AGO and its
+interacting proteins in gene regulation needed to be further defined. Construction of the regulation
+network of AGO-small RNAs-targets from various stem cells would be better revealed the AGO and
+small RNAs function. Systematic analysis on AGO modifications and regulations in stem cells are
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+11 of 17
+
+warranted, which will provide useful clues for stem cell biology and regenerative medicine, as well as
+for development of therapeutics for cancer patients.
+Acknowledgments: This study was in part supported by grants from the National Natural Science Foundation
+of China (No. 31501320), and the Bureau of Xiangyang City Science and Technology projects (No. (2014) 12–33),
+the doctoral research fund of Hubei University of Arts and Science (No. 31), and the Foundation of Hubei
+Educational Committee (No. Q20152601), and the Project for Discipline Groups Construction of Food New-type
+Industrialization of Hubei University of Arts and Science, Xiangyang, China.
+Author Contributions: Lihong Zhai, Lin Wang, Feng Teng, Lanting Zhou, Wenjing Zhang, Juan Xiao, Ying Liu,
+Wenbin Deng researched the data for the article, provided substantial contributions to discussions of the content,
+and wrote the article.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.
+2.
+3.
+4.
+
+5.
+
+6.
+
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+
+Carthew, R.W.; Sontheimer, E.J. Origins and mechanisms of miRNAs and siRNAs. Cell 2009, 136, 642–655.
+[CrossRef] [PubMed]
+Farazi, T.A.; Juranek, S.A.; Tuschl, T. The growing catalog of small RNAs and their association with distinct
+Argonaute/Piwi family members. Development 2008, 135, 1201–1214. [CrossRef] [PubMed]
+Höck, J.; Meister, G. The Argonaute protein family. Genome Biol. 2008, 9. [CrossRef] [PubMed]
+Carmell, M.A.; Xuan, Z.; Zhang, M.Q.; Hannon, G.J. The Argonaute family: Tentacles that reach into RNAi,
+developmental control, stem cell maintenance, and tumorigenesis. Genes Dev. 2002, 16, 2733–2742. [CrossRef]
+[PubMed]
+Unhavaithaya, Y.; Hao, Y.; Beyret, E.; Yin, H.; Kuramochi-Miyagawa, S.; Nakano, T.; Lin, H. MILI,
+a Piwi-interacting RNA-binding protein, is required for germ line stem cell self-renewal and appears
+to positively regulate translation. J. Biol. Chem. 2009, 284, 6507–6519. [CrossRef] [PubMed]
+Grochola, L.F.; Greither, T.; Taubert, H.; Moller, P.; Knippschild, U.; Udelnow, A.; Henne-Bruns, D.; Wurl, P.
+The stem cell-associated Hiwi gene in human adenocarcinoma of the pancreas: Expression and risk of
+tumour-related death. Br. J. Cancer 2008, 99, 1083–1088. [CrossRef] [PubMed]
+Lee, J.H.; Engel, W.; Nayernia, K. Stem cell protein Piwil2 modulates expression of murine spermatogonial
+stem cell expressed genes. Mol. Reprod. Dev. 2006, 73, 173–179. [CrossRef] [PubMed]
+Bohmert, K.; Camus, I.; Bellini, C.; Bouchez, D.; Caboche, M.; Benning, C. AGO1 defines a novel locus of
+Arabidopsis controlling leaf development. EMBO J. 1998, 17, 170–180. [CrossRef] [PubMed]
+Mallory, A.; Vaucheret, H. Form, function, and regulation of ARGONAUTE proteins. Plant Cell 2010, 22,
+3879–3889. [CrossRef] [PubMed]
+Vaucheret, H. Plant Argonautes. Trends Plant Sci. 2008, 13, 350–358. [CrossRef] [PubMed]
+Meister, G. Argonaute proteins: Functional insights and emerging roles. Nat. Rev. Genet. 2013, 14, 447–459.
+[CrossRef] [PubMed]
+Hutvagner, G.; Simard, M.J. Argonaute proteins: Key players in RNA silencing. Nat. Rev. Mol. Cell Biol. 2008,
+9, 22–32. [CrossRef] [PubMed]
+Peters, L.; Meister, G. Argonaute proteins: Mediators of RNA silencing. Mol. Cell 2007, 26, 611–623.
+[CrossRef] [PubMed]
+Sasaki, T.; Shiohama, A.; Minoshima, S.; Shimizu, N. Identification of eight members of the Argonaute family
+in the human genome. Genomics 2003, 82, 323–330. [CrossRef]
+Gonzalez, J.; Qi, H.; Liu, N.; Lin, H. Piwi is a key regulator of both somatic and germline stem cells in the
+Drosophila testis. Cell Rep. 2015, 12, 150–161. [CrossRef] [PubMed]
+Parker, J.S.; Roe, S.M.; Barford, D. Structural insights into mRNA recognition from a Piwi domain-siRNA
+guide complex. Nature 2005, 434, 663–666. [CrossRef] [PubMed]
+Ma, J.B.; Yuan, Y.R.; Meister, G.; Pei, Y.; Tuschl, T.; Patel, D.J. Structural basis for 51 -end-specific recognition
+of guide RNA by the A. fulgidus Piwi protein. Nature 2005, 434, 666–670. [CrossRef] [PubMed]
+Bamezai, S.; Rawat, V.P.; Buske, C. Concise review: The Piwi-piRNA axis: Pivotal beyond transposon
+silencing. Stem Cells 2012, 30, 2603–2611. [CrossRef] [PubMed]
+Song, J.J.; Smith, S.K.; Hannon, G.J.; Joshua-Tor, L. Crystal structure of Argonaute and its implications for
+RISC slicer activity. Science 2004, 305, 1434–1437. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+20.
+21.
+22.
+23.
+24.
+
+25.
+26.
+27.
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+34.
+
+35.
+36.
+37.
+
+38.
+39.
+40.
+
+12 of 17
+
+Rivas, F.V.; Tolia, N.H.; Song, J.-J.; Aragon, J.P.; Liu, J.; Hannon, G.J.; Joshua-Tor, L. Purified Argonaute2 and
+an siRNA form recombinant human RISC. Nat. Struct. Mol. Biol. 2005, 12, 340–349. [CrossRef] [PubMed]
+Nakanishi, K.; Weinberg, D.E.; Bartel, D.P.; Patel, D.J. Structure of yeast Argonaute with guide RNA. Nature
+2012, 486, 368–374. [CrossRef] [PubMed]
+Meister, G.; Landthaler, M.; Patkaniowska, A.; Dorsett, Y.; Teng, G.; Tuschl, T. Human Argonaute2 mediates
+RNA cleavage targeted by miRNAs and siRNAs. Mol. Cell 2004, 15, 185–197. [CrossRef] [PubMed]
+Schirle, N.T.; MacRae, I.J. The crystal structure of human Argonaute2. Science 2012, 336, 1037–1040. [CrossRef]
+[PubMed]
+Zhang, X.; Niu, D.; Carbonell, A.; Wang, A.; Lee, A.; Tun, V.; Wang, Z.; Carrington, J.C.; Chang, C.E.; Jin, H.
+ARGONAUTE Piwi domain and microRNA duplex structure regulate small RNA sorting in Arabidopsis.
+Nat. Commun. 2014, 5. [CrossRef] [PubMed]
+Li, Y.; Tang, W.; Zhang, L.R.; Zhang, C.Y. FMRP regulates miR196a-mediated repression of HOXB8 via
+interaction with the AGO2 MID domain. Mol. Biosyst. 2014, 10, 1757–1764. [CrossRef] [PubMed]
+Schirle, N.T.; Sheu-Gruttadauria, J.; MacRae, I.J. Structural basis for microRNA targeting. Science 2014, 346,
+608–613. [CrossRef] [PubMed]
+Schirle, N.T.; Sheu-Gruttadauria, J.; Chandradoss, S.D.; Joo, C.; MacRae, I.J. Water-mediated recognition of
+t1-adenosine anchors Argonaute2 to microRNA targets. eLife 2015, 4. [CrossRef] [PubMed]
+Rashid, U.J.; Paterok, D.; Koglin, A.; Gohlke, H.; Piehler, J.; Chen, J.C. Structure of Aquifex aeolicus argonaute
+highlights conformational flexibility of the PAZ domain as a potential regulator of RNA-induced silencing
+complex function. J. Biol. Chem. 2007, 282, 13824–13832. [CrossRef] [PubMed]
+Allo, M.; Agirre, E.; Bessonov, S.; Bertucci, P.; Gomez Acuna, L.; Buggiano, V.; Bellora, N.; Singh, B.; Petrillo, E.;
+Blaustein, M.; et al. Argonaute-1 binds transcriptional enhancers and controls constitutive and alternative
+splicing in human cells. Proc. Natl. Acad. Sci. USA 2014, 111, 15622–15629. [CrossRef] [PubMed]
+Burroughs, A.M.; Ando, Y.; de Hoon, M.J.; Tomaru, Y.; Suzuki, H.; Hayashizaki, Y.; Daub, C.O.
+Deep-sequencing of human Argonaute-associated small RNAs provides insight into miRNA sorting and
+reveals Argonaute association with RNA fragments of diverse origin. RNA Biol. 2011, 8, 158–177. [CrossRef]
+[PubMed]
+Janowski, B.A.; Huffman, K.E.; Schwartz, J.C.; Ram, R.; Nordsell, R.; Shames, D.S.; Minna, J.D.; Corey, D.R.
+Involvement of AGO1 and AGO2 in mammalian transcriptional silencing. Nat. Struct. Mol. Biol. 2006, 13,
+787–792. [CrossRef] [PubMed]
+Goff, L.A.; Davila, J.; Swerdel, M.R.; Moore, J.C.; Cohen, R.I.; Wu, H.; Sun, Y.E.; Hart, R.P. Ago2
+immunoprecipitation identifies predicted microRNAs in human embryonic stem cells and neural precursors.
+PLoS ONE 2009, 4, e7192. [CrossRef] [PubMed]
+Zhang, K.; Lu, Y.; Yang, P.; Li, C.; Sun, H.; Tao, D.; Liu, Y.; Zhang, S.; Ma, Y. Hili inhibits TGF-beta signaling
+by interacting with Hsp90 and promoting TbetaR degradation. PLoS ONE 2012, 7, e41973.
+Keam, S.P.; Young, P.E.; McCorkindale, A.L.; Dang, T.H.; Clancy, J.L.; Humphreys, D.T.; Preiss, T.;
+Hutvagner, G.; Martin, D.I.; Cropley, J.E.; et al. The human Piwi protein Hiwi2 associates with tRNA-derived
+piRNAs in somatic cells. Nucleic Acids Res. 2014, 42, 8984–8995. [CrossRef] [PubMed]
+Ghildiyal, M.; Xu, J.; Seitz, H.; Weng, Z.; Zamore, P.D. Sorting of Drosophila small silencing RNAs partitions
+microRNA* strands into the RNA interference pathway. RNA 2010, 16, 43–56. [CrossRef] [PubMed]
+Okamura, K.; Ishizuka, A.; Siomi, H.; Siomi, M.C. Distinct roles for Argonaute proteins in small RNA-directed
+RNA cleavage pathways. Genes Dev. 2004, 18, 1655–1666. [CrossRef] [PubMed]
+Ameres, S.L.; Hung, J.H.; Xu, J.; Weng, Z.; Zamore, P.D. Target RNA-directed tailing and trimming purifies
+the sorting of endo-siRNAs between the two Drosophila Argonaute proteins. RNA 2011, 17, 54–63. [CrossRef]
+[PubMed]
+Hammond, S.M.; Boettcher, S.; Caudy, A.A.; Kobayashi, R.; Hannon, G.J. Argonaute2, a link between genetic
+and biochemical analyses of RNAi. Science 2001, 293, 1146–1150. [CrossRef] [PubMed]
+Mani, S.R.; Megosh, H.; Lin, H. Piwi proteins are essential for early Drosophila embryogenesis. Dev. Biol.
+2014, 385, 340–349. [CrossRef] [PubMed]
+Kalmykova, A.I.; Klenov, M.S.; Gvozdev, V.A. Argonaute protein Piwi controls mobilization of
+retrotransposons in the Drosophila male germline. Nucleic Acids Res. 2005, 33, 2052–2059. [CrossRef]
+[PubMed]
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+41.
+
+42.
+43.
+
+44.
+
+45.
+46.
+47.
+
+48.
+
+49.
+
+50.
+51.
+52.
+
+53.
+
+54.
+55.
+
+56.
+
+57.
+58.
+
+59.
+
+13 of 17
+
+Brennecke, J.; Aravin, A.A.; Stark, A.; Dus, M.; Kellis, M.; Sachidanandam, R.; Hannon, G.J. Discrete small
+RNA-generating loci as master regulators of transposon activity in Drosophila. Cell 2007, 128, 1089–1103.
+[CrossRef] [PubMed]
+Vagin, V.V.; Sigova, A.; Li, C.; Seitz, H.; Gvozdev, V.; Zamore, P.D. A distinct small RNA pathway silences
+selfish genetic elements in the germline. Science 2006, 313, 320–324. [CrossRef] [PubMed]
+Saito, K.; Nishida, K.M.; Mori, T.; Kawamura, Y.; Miyoshi, K.; Nagami, T.; Siomi, H.; Siomi, M.C. Specific
+association of Piwi with rasiRNAs derived from retrotransposon and heterochromatic regions in the
+Drosophila genome. Genes Dev. 2006, 20, 2214–2222. [CrossRef] [PubMed]
+Vaucheret, H.; Vazquez, F.; Crété, P.; Bartel, D.P. The action of ARGONAUTE1 in the miRNA pathway and
+its regulation by the miRNA pathway are crucial for plant development. Genes Dev. 2004, 18, 1187–1197.
+[CrossRef] [PubMed]
+Dzianott, A.; Sztuba-Solinska, J.; Bujarski, J.J. Mutations in the antiviral RNAi defense pathway modify
+Brome mosaic virus RNA recombinant profiles. MPMI 2012, 25, 97–106. [CrossRef] [PubMed]
+Oliver, C.; Santos, J.L.; Pradillo, M. On the role of some ARGONAUTE proteins in meiosis and DNA repair
+in Arabidopsis thaliana. Front. Plant Sci. 2014, 5. [CrossRef] [PubMed]
+Takeda, A.; Iwasaki, S.; Watanabe, T.; Utsumi, M.; Watanabe, Y. The mechanism selecting the guide strand
+from small RNA duplexes is different among argonaute proteins. Plant Cell Physiol. 2008, 49, 493–500.
+[CrossRef] [PubMed]
+Jaubert, M.; Bhattacharjee, S.; Mello, A.F.; Perry, K.L.; Moffett, P. ARGONAUTE2 mediates RNA-silencing
+antiviral defenses against Potato virus X in Arabidopsis. Plant Physiol. 2011, 156, 1556–1564. [CrossRef]
+[PubMed]
+Havecker, E.R.; Wallbridge, L.M.; Hardcastle, T.J.; Bush, M.S.; Kelly, K.A.; Dunn, R.M.; Schwach, F.;
+Doonan, J.H.; Baulcombe, D.C. The Arabidopsis RNA-directed DNA methylation argonautes functionally
+diverge based on their expression and interaction with target loci. Plant Cell 2010, 22, 321–334. [CrossRef]
+[PubMed]
+Matzke, M.A.; Mosher, R.A. RNA-directed DNA methylation: An epigenetic pathway of increasing
+complexity. Nat. Rev. Genet. 2014, 15, 394–408. [CrossRef] [PubMed]
+Brosseau, C.; Moffett, P. Functional and genetic analysis identify a role for arabidopsis ARGONAUTE5 in
+antiviral RNA silencing. Plant Cell 2015, 27, 1742–1754. [CrossRef] [PubMed]
+Mi, S.; Cai, T.; Hu, Y.; Chen, Y.; Hodges, E.; Ni, F.; Wu, L.; Li, S.; Zhou, H.; Long, C.; et al. Sorting of small
+RNAs into Arabidopsis argonaute complexes is directed by the 51 terminal nucleotide. Cell 2008, 133, 116–127.
+[CrossRef] [PubMed]
+Tucker, M.R.; Okada, T.; Hu, Y.; Scholefield, A.; Taylor, J.M.; Koltunow, A.M. Somatic small RNA pathways
+promote the mitotic events of megagametogenesis during female reproductive development in Arabidopsis.
+Development 2012, 139, 1399–1404. [CrossRef] [PubMed]
+Zheng, X.; Zhu, J.; Kapoor, A.; Zhu, J.-K. Role of Arabidopsis AGO6 in siRNA accumulation, DNA
+methylation and transcriptional gene silencing. EMBO J. 2007, 26, 1691–1701. [CrossRef] [PubMed]
+Eun, C.; Lorkovic, Z.J.; Naumann, U.; Long, Q.; Havecker, E.R.; Simon, S.A.; Meyers, B.C.; Matzke, A.J.;
+Matzke, M. AGO6 functions in RNA-mediated transcriptional gene silencing in shoot and root meristems in
+Arabidopsis thaliana. PLoS ONE 2011, 6, e25730. [CrossRef] [PubMed]
+McCue, A.D.; Panda, K.; Nuthikattu, S.; Choudury, S.G.; Thomas, E.N.; Slotkin, R.K. ARGONAUTE 6 bridges
+transposable element mRNA-derived siRNAs to the establishment of DNA methylation. EMBO J. 2015, 34,
+20–35. [CrossRef] [PubMed]
+Hunter, C.; Sun, H.; Poethig, R. The Arabidopsis heterochronic gene ZIPPY is an ARGONAUTE family
+member. Curr. Biol. 2003, 13, 1734–1739. [CrossRef] [PubMed]
+Zhu, H.; Hu, F.; Wang, R.; Zhou, X.; Sze, S.-H.H.; Liou, L.W.W.; Barefoot, A.; Dickman, M.; Zhang, X.
+Arabidopsis Argonaute10 specifically sequesters miR166/165 to regulate shoot apical meristem development.
+Cell 2011, 145, 242–256. [CrossRef] [PubMed]
+Moussian, B.; Schoof, H.; Haecker, A.; Jürgens, G.; Laux, T. Role of the ZWILLE gene in the regulation of
+central shoot meristem cell fate during Arabidopsis embryogenesis. EMBO J. 1998, 17, 1799–1809. [CrossRef]
+[PubMed]
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+60.
+
+61.
+
+62.
+63.
+
+64.
+65.
+
+66.
+
+67.
+68.
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+
+80.
+
+81.
+
+14 of 17
+
+Lynn, K.; Fernandez, A.; Aida, M.; Sedbrook, J.; Tasaka, M.; Masson, P.; Barton, M.K. The PINHEAD/ZWILLE
+gene acts pleiotropically in Arabidopsis development and has overlapping functions with the ARGONAUTE1
+gene. Development 1999, 126, 469–481. [PubMed]
+Liu, Q.; Yao, X.; Pi, L.; Wang, H.; Cui, X.; Huang, H. The ARGONAUTE10 gene modulates shoot apical
+meristem maintenance and establishment of leaf polarity by repressing miR165/166 in Arabidopsis.
+Plant J. Cell Mol. Biol. 2009, 58, 27–40. [CrossRef] [PubMed]
+Manavella, P.A.; Weigel, D.; Wu, L. Argonaute10 as a miRNA Locker. Cell 2011, 145, 173–174. [CrossRef]
+[PubMed]
+Ji, L.; Liu, X.; Yan, J.; Wang, W.; Yumul, R.E.; Kim, Y.J.; Dinh, T.T.; Liu, J.; Cui, X.; Zheng, B. ARGONAUTE10
+and ARGONAUTE1 regulate the termination of floral stem cells through two microRNAs in Arabidopsis.
+PLoS Genet. 2011, 7, e1001358. [CrossRef] [PubMed]
+Wu, L.; Zhang, Q.; Zhou, H.; Ni, F.; Wu, X.; Qi, Y. Rice microRNA effector complexes and targets.
+Plant Cell Online 2009, 21, 3421–3435. [CrossRef] [PubMed]
+Nonomura, K.-I.; Morohoshi, A.; Nakano, M.; Eiguchi, M.; Miyao, A.; Hirochika, H.; Kurata, N. A germ
+cell-specific gene of the Argonaute family is essential for the progression of premeiotic mitosis and meiosis
+during sporogenesis in rice. Plant Cell Online 2007, 19, 2583–2594. [CrossRef] [PubMed]
+Komiya, R.; Ohyanagi, H.; Niihama, M.; Watanabe, T.; Nakano, M.; Kurata, N.; Nonomura, K. Rice
+germline-specific Argonaute MEL1 protein binds to phasiRNAs generated from more than 700 lincRNAs.
+Plant J. Cell Mol. Biol. 2014, 78, 385–397. [CrossRef] [PubMed]
+Shi, Z.; Wang, J.; Wan, X.; Shen, G.; Wang, X.; Zhang, J. Over-expression of rice OsAGO7 gene induces upward
+curling of the leaf blade that enhanced erect-leaf habit. Planta 2007, 226, 99–108. [CrossRef] [PubMed]
+Nishimura, A.; Ito, M.; Kamiya, N.; Sato, Y.; Matsuoka, M. OsPNH1 regulates leaf development and
+maintenance of the shoot apical meristem in rice. Plant J. Cell Mol. Biol. 2002, 30, 189–201. [CrossRef]
+Wu, J.; Yang, Z.; Wang, Y.; Zheng, L.; Ye, R.; Ji, Y.; Zhao, S.; Ji, S.; Liu, R.; Xu, L.; et al. Viral-inducible
+Argonaute18 confers broad-spectrum virus resistance in rice by sequestering a host microRNA. eLife 2015, 4.
+[CrossRef] [PubMed]
+Douglas, R.N.; Wiley, D.; Sarkar, A.; Springer, N.; Timmermans, M.C.; Scanlon, M.J. ragged seedling2 encodes
+an ARGONAUTE7-like protein required for mediolateral expansion, but not dorsiventrality, of maize leaves.
+Plant Cell Online 2010, 22, 1441–1451. [CrossRef] [PubMed]
+Singh, M.; Goel, S.; Meeley, R.B.; Dantec, C.; Parrinello, H.; Michaud, C.; Leblanc, O.; Grimanelli, D.
+Production of viable gametes without meiosis in maize deficient for an ARGONAUTE protein.
+Plant Cell Online 2011, 23, 443–458. [CrossRef] [PubMed]
+Zhai, L.; Sun, W.; Zhang, K.; Jia, H.; Liu, L.; Liu, Z.; Teng, F.; Zhang, Z. Identification and characterization of
+Argonaute gene family and meiosis-enriched Argonaute during sporogenesis in maize. J. Integr. Plant Biol.
+2014, 56, 1042–1052. [CrossRef] [PubMed]
+Zhang, H.; Xia, R.; Meyers, B.C.; Walbot, V. Evolution, functions, and mysteries of plant ARGONAUTE
+proteins. Curr. Opin. Plant Biol. 2015, 27, 84–90. [CrossRef] [PubMed]
+Ender, C.; Meister, G. Argonaute proteins at a glance. J. Cell Sci. 2010, 123, 1819–1823. [CrossRef] [PubMed]
+Kobayashi, H.; Tomari, Y. RISC assembly: Coordination between small RNAs and Argonaute proteins.
+Biochim. Biophys. Acta 2016, 1859, 71–81. [CrossRef] [PubMed]
+Hannon, G.J. RNA interference. Nature 2002, 418, 244–251. [CrossRef] [PubMed]
+Tomari, Y.; Zamore, P.D. Perspective: Machines for RNAi. Genes Dev. 2005, 19, 517–529. [CrossRef] [PubMed]
+Lim, R.S.; Kai, T. A piece of the pi(e): The diverse roles of animal piRNAs and their Piwi partners.
+Semin. Cell Dev. Biol. 2015, 47–48, 17–31. [CrossRef] [PubMed]
+Nishida, K.M.; Saito, K.; Mori, T.; Kawamura, Y.; Nagami-Okada, T.; Inagaki, S.; Siomi, H.; Siomi, M.C. Gene
+silencing mechanisms mediated by Aubergine piRNA complexes in Drosophila male gonad. RNA 2007, 13,
+1911–1922. [CrossRef] [PubMed]
+Barckmann, B.; Pierson, S.; Dufourt, J.; Papin, C.; Armenise, C.; Port, F.; Grentzinger, T.; Chambeyron, S.;
+Baronian, G.; Desvignes, J.P.; et al. Aubergine iCLIP reveals piRNA-dependent decay of mRNAs involved in
+germ cell development in the early embryo. Cell Rep. 2015, 12, 1205–1216. [CrossRef] [PubMed]
+Klenov, M.S.; Lavrov, S.A.; Stolyarenko, A.D.; Ryazansky, S.S.; Aravin, A.A.; Tuschl, T.; Gvozdev, V.A.
+Repeat-associated siRNAs cause chromatin silencing of retrotransposons in the Drosophila melanogaster
+germline. Nucleic Acids Res. 2007, 35, 5430–5438. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+82.
+
+15 of 17
+
+Toth, K.F.; Pezic, D.; Stuwe, E.; Webster, A. The piRNA pathway guards the germline genome against
+transposable elements. Adv. Exp. Med. Biol. 2016, 886, 51–77. [PubMed]
+83. Senti, K.A.; Jurczak, D.; Sachidanandam, R.; Brennecke, J. piRNA-guided slicing of transposon transcripts
+enforces their transcriptional silencing via specifying the nuclear piRNA repertoire. Genes Dev. 2015, 29,
+1747–1762. [CrossRef] [PubMed]
+84. Peng, L.; Song, L.; Liu, C.; Lv, X.; Li, X.; Jie, J.; Zhao, D.; Li, D. piR-55490 inhibits the growth of lung carcinoma
+by suppressing mTOR signaling. Tumour Biol. 2015, 1–8. [CrossRef] [PubMed]
+85. Chen, M.; Bao, H.; Wu, Q.; Wang, Y. Transcriptome-wide identification of miRNA targets under nitrogen
+deficiency in populus tomentosa using degradome sequencing. Int. J. Mol. Sci. 2015, 16, 13937–13958.
+[CrossRef] [PubMed]
+86. Xu, T.; Wang, Y.; Liu, X.; Lv, S.; Feng, C.; Qi, M.; Li, T. Small RNA and degradome sequencing reveals
+microRNAs and their targets involved in tomato pedicel abscission. Planta 2015, 242, 963–984. [CrossRef]
+[PubMed]
+87. Zhai, L.; Liu, Z.; Zou, X.; Jiang, Y.; Qiu, F.; Zheng, Y.; Zhang, Z. Genome-wide identification and analysis of
+microRNA responding to long-term waterlogging in crown roots of maize seedlings. Physiol. Plant. 2013,
+147, 181–193. [CrossRef] [PubMed]
+88. Chi, S.W.; Zang, J.B.; Mele, A.; Darnell, R.B. Argonaute HITS-CLIP decodes microRNA-mRNA interaction
+maps. Nature 2009, 460, 479–486. [CrossRef] [PubMed]
+89. Hsu, S.D.; Huang, H.Y.; Chou, C.H.; Sun, Y.M.; Hsu, M.T.; Tsou, A.P. Integrated analyses to reconstruct
+microRNA-mediated regulatory networks in mouse liver using high-throughput profiling. BMC Genom.
+2015, 16. [CrossRef] [PubMed]
+90. Haecker, I.; Renne, R. HITS-CLIP and PAR-CLIP advance viral miRNA targetome analysis. Crit. Rev.
+Eukaryot. Gene Expr. 2014, 24, 101–116. [CrossRef] [PubMed]
+91. Vourekas, A.; Mourelatos, Z. HITS-CLIP (CLIP-Seq) for mouse Piwi proteins. Methods Mol. Biol. 2014, 1093,
+73–95. [PubMed]
+92. Montgomery, T.A.; Howell, M.D.; Cuperus, J.T.; Li, D.; Hansen, J.E.; Alexander, A.L.; Chapman, E.J.;
+Fahlgren, N.; Allen, E.; Carrington, J.C. Specificity of ARGONAUTE7-miR390 interaction and dual
+functionality in TAS3 trans-acting siRNA formation. Cell 2008, 133, 128–141. [CrossRef] [PubMed]
+93. Durán-Figueroa, N.; Vielle-Calzada, J.-P. ARGONAUTE9-dependent silencing of transposable elements in
+pericentromeric regions of Arabidopsis. Plant Signal. Behav. 2010, 5, 1476–1479. [CrossRef] [PubMed]
+94. Girard, A.; Sachidanandam, R.; Hannon, G.J.; Carmell, M.A. A germline-specific class of small RNAs binds
+mammalian Piwi proteins. Nature 2006, 442, 199–202. [CrossRef] [PubMed]
+95. Aravin, A.; Gaidatzis, D.; Pfeffer, S.; Lagos-Quintana, M.; Landgraf, P.; Iovino, N.; Morris, P.; Brownstein, M.J.;
+Kuramochi-Miyagawa, S.; Nakano, T.; et al. A novel class of small RNAs bind to MILI protein in mouse
+testes. Nature 2006, 442, 203–207. [CrossRef] [PubMed]
+96. Beitzinger, M.; Peters, L.; Zhu, J.Y.; Kremmer, E.; Meister, G. Identification of human microRNA targets from
+isolated argonaute protein complexes. RNA Biol. 2007, 4, 76–84. [CrossRef] [PubMed]
+97. Hafner, M.; Landthaler, M.; Burger, L.; Khorshid, M.; Hausser, J.; Berninger, P.; Rothballer, A.; Ascano, M., Jr.;
+Jungkamp, A.-C.; Munschauer, M. Transcriptome-wide identification of RNA-binding protein and microRNA
+target sites by PAR-CLIP. Cell 2010, 141, 129–141. [CrossRef] [PubMed]
+98. Zhang, C.; Darnell, R.B. Mapping in vivo protein-RNA interactions at single-nucleotide resolution from
+HITS-CLIP data. Nat. Biotechnol. 2011, 29, 607–614. [CrossRef] [PubMed]
+99. Leung, A.K.; Young, A.G.; Bhutkar, A.; Zheng, G.X.; Bosson, A.D.; Nielsen, C.B.; Sharp, P.A. Genome-wide
+identification of Ago2 binding sites from mouse embryonic stem cells with and without mature microRNAs.
+Nat. Struct. Mol. Biol. 2011, 18, 237–244. [CrossRef] [PubMed]
+100. Clark, P.M.; Loher, P.; Quann, K.; Brody, J.; Londin, E.R.; Rigoutsos, I. Argonaute CLIP-Seq reveals miRNA
+targetome diversity across tissue types. Sci. Rep. 2014, 4. [CrossRef] [PubMed]
+101. Pfaff, J.; Hennig, J.; Herzog, F.; Aebersold, R.; Sattler, M.; Niessing, D.; Meister, G. Structural features of
+Argonaute-GW182 protein interactions. Proc. Natl. Acad. Sci. USA 2013, 110, E3770–E3779. [CrossRef]
+[PubMed]
+102. Huntzinger, E.; Izaurralde, E. Gene silencing by microRNAs: contributions of translational repression and
+mRNA decay. Nat. Rev. Genet. 2011, 12, 99–110. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+16 of 17
+
+103. Yao, B.; Li, S.; Chan, E.K. Function of GW182 and GW bodies in siRNA and miRNA pathways.
+Adv. Exp. Med. Biol. 2013, 768, 71–96. [PubMed]
+104. Braun, J.E.; Huntzinger, E.; Izaurralde, E. The role of GW182 proteins in miRNA-mediated gene silencing.
+Adv. Exp. Med. Biol. 2013, 768, 147–163. [PubMed]
+105. Pfaff, J.; Meister, G. Argonaute and GW182 proteins: An effective alliance in gene silencing.
+Biochem. Soc. Trans. 2013, 41, 855–860. [CrossRef] [PubMed]
+106. Miles, W.O.; Tschop, K.; Herr, A.; Ji, J.Y.; Dyson, N.J. Pumilio facilitates miRNA regulation of the E2F3
+oncogene. Genes Dev. 2012, 26, 356–368. [CrossRef] [PubMed]
+107. Weinmann, L.; Hock, J.; Ivacevic, T.; Ohrt, T.; Mutze, J.; Schwille, P.; Kremmer, E.; Benes, V.; Urlaub, H.;
+Meister, G. Importin 8 is a gene silencing factor that targets argonaute proteins to distinct mRNAs. Cell 2009,
+136, 496–507. [CrossRef] [PubMed]
+108. Jin, H.; Suh, M.R.; Han, J.; Yeom, K.H.; Lee, Y.; Heo, I.; Ha, M.; Hyun, S.; Kim, V.N. Human UPF1 participates
+in small RNA-induced mRNA downregulation. Mol. Cell. Biol. 2009, 29, 5789–5799. [CrossRef] [PubMed]
+109. Su, H.; Meng, S.; Lu, Y.; Trombly, M.I.; Chen, J.; Lin, C.; Turk, A.; Wang, X. Mammalian hyperplastic discs
+homolog EDD regulates miRNA-mediated gene silencing. Mol. Cell 2011, 43, 97–109. [CrossRef] [PubMed]
+110. Sienski, G.; Batki, J.; Senti, K.A.; Donertas, D.; Tirian, L.; Meixner, K.; Brennecke, J. Silencio/CG9754 connects
+the Piwi-piRNA complex to the cellular heterochromatin machinery. Genes Dev. 2015, 29, 2258–2271.
+[CrossRef] [PubMed]
+111. Leonov, G.; Shah, K.; Yee, D.; Timmis, J.; Sharp, T.V.; Lagos, D. Suppression of AGO2 by miR-132 as a
+determinant of miRNA-mediated silencing in human primary endothelial cells. Int. J. Biochem. Cell Biol.
+2015, 69, 75–84. [CrossRef] [PubMed]
+112. Guo, J.; Lv, J.; Liu, M.; Tang, H. miR-346 Up-regulates Argonaute 2 (AGO2) protein expression to augment
+the activity of other microRNAs (miRNAs) and contributes to cervical cancer cell malignancy. J. Biol. Chem.
+2015, 290, 30342–30350. [PubMed]
+113. Takahashi, K.; Yamanaka, S. Induction of pluripotent stem cells from mouse embryonic and adult fibroblast
+cultures by defined factors. Cell 2006, 126, 663–676. [CrossRef] [PubMed]
+114. Cox, D.N.; Chao, A.; Baker, J.; Chang, L.; Qiao, D.; Lin, H. A novel class of evolutionarily conserved genes
+defined by Piwi are essential for stem cell self-renewal. Genes Dev. 1998, 12, 3715–3727. [CrossRef] [PubMed]
+115. Baumberger, N.; Baulcombe, D. Arabidopsis ARGONAUTE1 is an RNA Slicer that selectively recruits
+microRNAs and short interfering RNAs. Proc. Natl. Acad. Sci. USA 2005, 102, 11928–11933. [CrossRef]
+[PubMed]
+116. Mallory, A.C.; Hinze, A.; Tucker, M.R.; Bouche, N.; Gasciolli, V.; Elmayan, T.; Lauressergues, D.; Jauvion, V.;
+Vaucheret, H.; Laux, T. Redundant and specific roles of the ARGONAUTE proteins AGO1 and ZLL in
+development and small RNA-directed gene silencing. PLoS Genet. 2009, 5, e1000646. [CrossRef] [PubMed]
+117. Szakmary, A.; Cox, D.N.; Wang, Z.; Lin, H. Regulatory relationship among Piwi, pumilio, and bag-of-marbles
+in Drosophila germline stem cell self-renewal and differentiation. Curr. Biol. 2005, 15, 171–178. [CrossRef]
+[PubMed]
+118. Jin, Z.; Flynt, A.S.; Lai, E.C. Drosophila Piwi mutants exhibit germline stem cell tumors that are sustained by
+elevated Dpp signaling. Curr. Biol. 2013, 23, 1442–1448. [CrossRef] [PubMed]
+119. Ishizu, H.; Siomi, H.; Siomi, M.C. Biology of Piwi-interacting RNAs: New insights into biogenesis and
+function inside and outside of germlines. Genes Dev. 2012, 26, 2361–2373. [CrossRef] [PubMed]
+120. Klenov, M.S.; Sokolova, O.A.; Yakushev, E.Y.; Stolyarenko, A.D.; Mikhaleva, E.A.; Lavrov, S.A.; Gvozdev, V.A.
+Separation of stem cell maintenance and transposon silencing functions of Piwi protein. Proc. Natl. Acad.
+Sci. USA 2011, 108, 18760–18765. [CrossRef] [PubMed]
+121. Ma, X.; Wang, S.; Do, T.; Song, X.; Inaba, M.; Nishimoto, Y.; Liu, L.; Gao, Y.; Mao, Y.; Li, H.; et al. Piwi is
+required in multiple cell types to control germline stem cell lineage development in the Drosophila ovary.
+PLoS ONE 2014, 9, e90267. [CrossRef] [PubMed]
+122. Yang, L.; Chen, D.; Duan, R.; Xia, L.; Wang, J.; Qurashi, A.; Jin, P. Argonaute 1 regulates the fate of germline
+stem cells in Drosophila. Development 2007, 134, 4265–4272. [CrossRef] [PubMed]
+123. Li, C.; Vagin, V.V.; Lee, S.; Xu, J.; Ma, S.; Xi, H.; Seitz, H.; Horwich, M.D.; Syrzycka, M.; Honda, B.M.; et al.
+Collapse of germline piRNAs in the absence of Argonaute3 reveals somatic piRNAs in flies. Cell 2009, 137,
+509–521. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2016, 17, 208
+
+17 of 17
+
+124. Visvader, J.E.; Lindeman, G.J. Cancer stem cells in solid tumours: Accumulating evidence and unresolved
+questions. Nat. Rev. Cancer 2008, 8, 755–768. [CrossRef] [PubMed]
+125. Liu, J.J.; Shen, R.; Chen, L.; Ye, Y.; He, G.; Hua, K.; Jarjoura, D.; Nakano, T.; Ramesh, G.K.; Shapiro, C.L.; et al.
+Piwil2 is expressed in various stages of breast cancers and has the potential to be used as a novel biomarker.
+Int. J. Clin. Exp. Pathol. 2010, 3, 328–337. [PubMed]
+126. Shahali, M.; Kabir-Salmani, M.; Nayernia, K.; Soleimanpour-Lichaei, H.R.; Vasei, M.; Mowla, S.J.; Ranaie, E.;
+Shakibaie, M.; Modaresi, M.H. A novel in vitro model for cancer stem cell culture using ectopically expressed
+piwil2 stable cell line. Cell J. 2013, 15, 250–257. [PubMed]
+127. Zhang, H.; Ren, Y.; Xu, H.; Pang, D.; Duan, C.; Liu, C. The expression of stem cell protein Piwil2 and piR-932
+in breast cancer. Surg. Oncol. 2013, 22, 217–223. [CrossRef] [PubMed]
+128. Litwin, M.; Dubis, J.; Arczynska, K.; Piotrowska, A.; Frydlewicz, A.; Karczewski, M.; Dziegiel, P.;
+Witkiewicz, W. Correlation of Hiwi and Hili expression with cancer stem cell markers in colorectal cancer.
+Anticancer Res. 2015, 35, 3317–3324. [PubMed]
+129. Zhao, Y.M.; Zhou, J.M.; Wang, L.R.; He, H.W.; Wang, X.L.; Tao, Z.H.; Sun, H.C.; Wu, W.Z.; Fan, J.;
+Tang, Z.Y.; et al. Hiwi is associated with prognosis in patients with hepatocellular carcinoma after curative
+resection. Cancer 2012, 118, 2708–2717. [CrossRef] [PubMed]
+130. Liu, W.; Gao, Q.; Chen, K.; Xue, X.; Li, M.; Chen, Q.; Zhu, G.; Gao, Y. Hiwi facilitates chemoresistance as a
+cancer stem cell marker in cervical cancer. Oncol. Rep. 2014, 32, 1853–1860. [CrossRef] [PubMed]
+131. Taubert, H.; Greither, T.; Kaushal, D.; Wurl, P.; Bache, M.; Bartel, F.; Kehlen, A.; Lautenschlager, C.; Harris, L.;
+Kraemer, K.; et al. Expression of the stem cell self-renewal gene Hiwi and risk of tumour-related death in
+patients with soft-tissue sarcoma. Oncogene 2007, 26, 1098–1100. [CrossRef] [PubMed]
+132. Sharma, A.K.; Nelson, M.C.; Brandt, J.E.; Wessman, M.; Mahmud, N.; Weller, K.P.; Hoffman, R. Human
+CD34+ stem cells express the Hiwi gene, a human homologue of the Drosophila gene Piwi. Blood 2001, 97,
+426–434. [CrossRef] [PubMed]
+133. Nolde, M.J.; Cheng, E.C.; Guo, S.; Lin, H. Piwi genes are dispensable for normal hematopoiesis in mice.
+PLoS ONE 2013, 8, e71950. [CrossRef] [PubMed]
+134. Zou, Z.; Zhang, Y.; Hao, L.; Wang, F.; Liu, D.; Su, Y.; Sun, H. More insight into mesenchymal stem cells and
+their effects inside the body. Expert Opin. Biol. Ther. 2010, 10, 215–230. [CrossRef] [PubMed]
+135. Wu, Q.; Ma, Q.; Shehadeh, L.A.; Wilson, A.; Xia, L.; Yu, H.; Webster, K.A. Expression of the Argonaute
+protein PiwiL2 and piRNAs in adult mouse mesenchymal stem cells. Biochem. Biophys. Res. Commun. 2010,
+396, 915–920. [CrossRef] [PubMed]
+136. Deng, W.; Lin, H. Miwi, a murine homolog of Piwi, encodes a cytoplasmic protein essential for
+spermatogenesis. Dev. Cell 2002, 2, 819–830. [CrossRef]
+137. Aravin, A.A.; Sachidanandam, R.; Bourc’his, D.; Schaefer, C.; Pezic, D.; Toth, K.F.; Bestor, T.; Hannon, G.J. A
+piRNA pathway primed by individual transposons is linked to de novo DNA methylation in mice. Mol. Cell
+2008, 31, 785–799. [CrossRef] [PubMed]
+138. Cheng, E.C.; Kang, D.; Wang, Z.; Lin, H. Piwi proteins are dispensable for mouse somatic development and
+reprogramming of fibroblasts into pluripotent stem cells. PLoS ONE 2014, 9, e97821. [CrossRef] [PubMed]
+139. Shekar, P.C.; Naim, A.; Sarathi, D.P.; Kumar, S. Argonaute-2-null embryonic stem cells are retarded in
+self-renewal and differentiation. J. Biosci. 2011, 36, 649–657. [CrossRef] [PubMed]
+140. Kaneda, M.; Tang, F.; O’Carroll, D.; Lao, K.; Surani, M.A. Essential role for Argonaute2 protein in mouse
+oogenesis. Epigenet. Chromatin. 2009, 2. [CrossRef] [PubMed]
+141. Stein, P.; Rozhkov, N.V.; Li, F.; Cardenas, F.L.; Davydenko, O.; Vandivier, L.E.; Gregory, B.D.; Hannon, G.J.;
+Schultz, R.M. Essential Role for endogenous siRNAs during meiosis in mouse oocytes. PLoS Genet. 2015,
+11, e1005013. [CrossRef] [PubMed]
+142. Deshpande, G.; Calhoun, G.; Schedl, P. Drosophila argonaute-2 is required early in embryogenesis for the
+assembly of centric/centromeric heterochromatin, nuclear division, nuclear migration, and germ-cell
+formation. Genes Dev. 2005, 19, 1680–1685. [CrossRef] [PubMed]
+© 2016 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons by Attribution
+(CC-BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

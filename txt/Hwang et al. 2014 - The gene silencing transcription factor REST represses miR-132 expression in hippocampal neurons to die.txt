@@ -1,0 +1,973 @@
+HHS Public Access
+Author manuscript
+Author Manuscript
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+Published in final edited form as:
+J Mol Biol. 2014 October 9; 426(20): 3454–3466. doi:10.1016/j.jmb.2014.07.032.
+
+The gene silencing transcription factor REST represses miR-132
+expression in hippocampal neurons destined to die
+Jee-Yeon Hwang, Naoki Kaneko, Kyung-Min Noh, Fabrizio Pontarelli, and R. Suzanne
+Zukin†
+Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, New
+York, NY 10461 USA
+
+Author Manuscript
+
+Abstract
+
+Author Manuscript
+
+The gene silencing transcription factor REST/NRSF (Repressor Element-1 (RE1) Silencing
+Transcription Factor/Neuron-Restrictive Silencer Factor) actively represses a large array of coding
+and noncoding neuron-specific genes important to synaptic plasticity including miR-132. miR-132
+is a neuron-specific microRNA and plays a pivotal role in synaptogenesis, synaptic plasticity and
+structural remodeling. However, a role for miR-132 in neuronal death is not, as yet, welldelineated. Here we show that ischemic insults promote REST binding and epigenetic remodeling
+at the miR-132 promoter and silencing of miR-132 expression in selectively-vulnerable
+hippocampal CA1 neurons. REST occupancy was not altered at the miR-9 or miR-124a promoters
+despite the presence of RE1 sites, indicating REST target specificity. Ischemia induced a
+substantial decrease in two marks of active gene transcription, dimethylation of lysine 4 on core
+histone 3 (H3K4me2) and acetylation of lysine 9 on H3 (H3K9ac) at the miR-132 promoter.
+RNAi-mediated depletion of REST in vivo blocked ischemia-induced loss of miR-132 in insulted
+hippocampal neurons, consistent with a causal relation between activation of REST and silencing
+of miR-132. Overexpression of miR-132 in primary cultures of hippocampal neurons or delivered
+directly into the CA1 of living rats by means of the lentiviral expression system prior to induction
+of ischemia afforded robust protection against ischemia-induced neuronal death. These findings
+document a previously unappreciated role for REST-dependent repression of miR-132 in the
+neuronal death associated with global ischemia and identify a novel therapeutic target for
+amelioration of the neurodegeneration and cognitive deficits associated with ischemic stroke.
+
+Keywords
+
+Author Manuscript
+
+microRNAs; epigenetic modifications; global ischemia; neuronal death; hippocampus
+
+© 2014 Elsevier Ltd. All rights reserved.
+†
+
+Correspondence should be addressed to: Dr. R. Suzanne Zukin, Dominick P. Purpura Department of Neuroscience, Rose F. Kennedy
+Center, Room 610, Albert Einstein College of Medicine, 1300 Morris Park Avenue, New York, NY 10461, phone: 718 430 2160; fax:
+718 430 8932; suzanne.zukin@einstein.yu.edu.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Author contributions: J-Y.H. and R.S.Z. designed research; J-Y.H., N.K., K-M.N. and F.P. performed research; J-Y.H. and R.S.Z.
+analyzed data; J-Y.H. and R.S.Z. wrote the paper.
+
+Hwang et al.
+
+Page 2
+
+Author Manuscript
+
+INTRODUCTION
+
+Author Manuscript
+
+REST (Repressor Element-1 Silencing Transcription factor, also termed NRSF) is a genesilencing transcription factor that is widely expressed during embryogenesis and the late
+stages of neuronal differentiation and its loss is critical for elaboration of the neuronal
+phenotype [1–4]. In pluripotent stem cells and neural progenitors, REST actively represses a
+large array of coding and noncoding neuron-specific genes important to synaptic plasticity
+and structural remodeling including miR-132 [1–4]. A subset of microRNAs including
+miR-9, miR-124a, and miR-132 contain RE-1 sites within their promoter regions in mouse
+and humans [5,6] and are functionally validated targets of REST in mammalian cell lines
+[5]. In mature neurons, REST is quiescent, but can be reactivated in selectively-vulnerable
+hippocampal neurons by ischemic insults [7–9] and seizures [10,11] and in human brain by
+normal aging [12]. In Huntington’s disease, REST aberrantly accumulates in the nucleus of
+medium aspiny striatal neurons [13]. However, whether neuronal insults promote activation
+and recruitment of REST to the promoters of miRNAs and whether REST orchestrates
+epigenetic remodeling and silencing of miRNAs in response to neuronal insults is, as yet,
+unclear.
+
+Author Manuscript
+
+microRNAs (miRNAs) are small, non-coding RNAs that serve to negatively regulate protein
+expression through mRNA degradation and translational repression [14,15]. miRNAs are
+particularly enriched in the nervous system, where they play a pivotal role in synaptic
+plasticity and structural remodeling [16]. Emerging evidence points to a widespread role for
+miRNAs as key modulators of target gene expression in neurons. microRNAs play a pivotal
+role in synapse formation and maturation and dendritogenesis in early stages of brain
+development [4,14,15]. A key feature of neuronal miRNAs is their ability to regulate entire
+networks of nonneuronal genes in an activity- or experience-dependent manner [15].
+Moreover, neuron-specific miRNAs can regulate mRNA translation locally in dendrites,
+where they are thought to play an important role in activity-dependent synaptic plasticity
+[4,14,15].
+
+Author Manuscript
+
+miR-132 is one of the best characterized miRNAs in the nervous system. In neurons,
+miR-132 localizes to the presynaptic membrane, where it represses methyl CpG binding
+protein-2 (MeCP2), a gene-silencing factor that recognizes methylated DNA and reads
+epigenetic marks [17,18]. Repression of MeCP2 results in activation of brain-derived
+neurotrophic factor (BDNF), which in turn activates miR-132, thereby constituting a selfregulatory mechanism [19]. miR-132 is well-known for its role in plasticity and activitydependent shaping of dendritic morphology and synaptic function [14,15]. miR-132 is
+important for activity-dependent dendritic growth and remodeling, implicating miR-132 in
+the development and fine-tuning of neural circuits in response to environmental cues [20].
+An important mechanism by which miR-132 exerts its growth-promoting effects is by
+repression of small Rho GTPases, such as p250GAP, which serve as regulators of the
+dendritic actin cytoskeleton. Suppression of p250GAP by miR-132 is required for both basal
+and activity-induced dendrite growth [20–22]. Dysregulation of miR-132 and its target
+proteins are implicated in the pathophysiology of epilepsy [23,24], Alzheimer’s disease
+[25,26], and Parkinson’s disease [27]. Whereas a role for miR-132 in the neuronal death
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 3
+
+Author Manuscript
+
+associated with these disorders is well-established [14], its role in the pathogenesis of global
+ischemia is, as yet, unclear.
+
+Author Manuscript
+
+Transient global ischemia arising as a consequence of cardiac arrest in humans or induced
+experimentally in animals causes selective, delayed death of hippocampal CA1 pyramidal
+neurons and cognitive impairment [28–30]. The long delay between ischemic insult and
+neuronal death is consistent with a role for gene transcription. Effective treatments to
+ameliorate the neurodegeneration and cognitive dysfunction associated with global ischemia
+are an unmet need. The present study was undertaken to examine a possible role for
+miR-132, a neuron-specific miRNA known to play a pivotal role in brain development, in
+ischemia-induced neuronal death. Our findings demonstrate that ischemic insults trigger
+activation of REST and REST-dependent silencing of miR-132 in selectively-vulnerable
+CA1 neurons and that REST-dependent repression of miR-132 is critical to ischemiainduced neuronal death in a clinically-relevant model of ischemic stroke in vivo.
+
+RESULTS
+Ischemia activates REST, recruits REST to the miR-132 promoter, and silences miR-132 in
+CA1
+
+Author Manuscript
+Author Manuscript
+
+Transient global ischemia in rats is a well-established model of neuronal insult in which cell
+death occurs primarily in CA1 pyramidal neurons and is delayed by 3–4 d, allowing
+examination of molecular mechanisms that underlie cell death [28–30]. Global ischemia
+induced a marked increase in REST protein abundance in the nuclear fraction of the
+selectively vulnerable CA1, evident at 24 h and 48 h (Fig.1a). Ischemia induced enrichment
+of REST in close proximity to the three RE1 sites within the miR-132 promoter of rat
+identified by the JASPAR CORE database (http://jaspar.genereg.net/), relative to that of
+sham-operated (control) animals (Fig. 1b). To examine whether the increase in REST at the
+miR-132 promoter translates into altered miR-132 expression, we performed RT-qPCR at
+times after ischemia. Ischemia induced a marked decrease in miR-132 expression in CA1,
+evident at 24 h and 48 h after ischemia (Fig. 1c). Whereas ischemia induced enrichment for
+REST at the miR-132 promoter and repressed miR-132 expression, it did not significantly
+alter occupancy of REST at the promoters of miR-9 or miR-124a (each of which contain one
+or more RE1 sites), nor did it alter miR-9 or miR-124a expression (Fig. 1d–g). Moreover,
+ischemia did not detectably alter REST occupancy at sites either 8.5 kb upstream or 10 kb
+downstream from the miR-132 promoter (negative control sites) or at the promoter of the βactin gene, a negative control (data not illustrated). Furthermore, the expression of miR-132,
+miR-9 and miR-124a was not altered in the resistant CA3 (Fig. 1h). These data indicate that
+global ischemia promotes REST abundance and REST binding to the miR-132 promoter in
+the selectively vulnerable CA1 in vivo in a target- and subfield-specific manner.
+REST orchestrates epigenetic remodeling of the miR-132 promoter
+The findings thus far indicate that REST regulates miR-132 expression in insulted
+hippocampal neurons, but do not address the mechanism by which this occurs. To address
+this issue, we examined alterations in epigenetic marks proximal to the RE1 sites in the
+promoter region of miR-132 (Fig. 2a, upper). Toward this end, we examined dimethylation
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 4
+
+Author Manuscript
+
+of lysine 4 on histone 3 (H3K4me2), acetylation of lysine 9 on histone 3 (H3K9ac),
+epigenetic marks of open chromatin and active gene transcription, and trimethylation of
+lysine 27 on histone (H3K27me3), an epigenetic mark of gene repression, in the selectively
+vulnerable CA1 after ischemia. Whereas H3K4 is demethylated by LSD1, H3K9 is
+deacetylated by HDACs. Global ischemia induced a marked decrease in H3K4me2 in the
+CA1, evident at 24 h and 48 h (Fig. 2a, lower), and a marked decrease in H3K9ac in the
+CA1, evident at 48 h (Fig. 2b) after ischemia at the promoter of miR-132 as assessed by
+ChIP-qPCR. In contrast, ischemia did not detectably alter methylation of H3K4 or
+acetylation of H3K9 at sites 8.5 kb upstream or 10 kb downstream of the miR-132 promoter
+(Fig. 2a,b). Moreover, ischemia did not significantly alter methylation of H3K27 at the
+promoter of miR-132 (Fig. 2c). These findings indicate that the REST corepressor complex
+is active and orchestrates epigenetic remodeling of the REST target miR-132 in CA1
+neurons destined to die
+
+Author Manuscript
+
+Knockdown of REST prevents the ischemia-induced decrease in miR-132
+
+Author Manuscript
+
+The results thus far indicate a possible role of REST in miR-132 expression, but do not
+address the causal relation between activation of REST and silencing of miR-132 regulation.
+To address this issue, we designed and validated two REST shRNA constructs that
+effectively suppress REST expression in primary cultures of hippocampal neurons (Fig.
+3a,b) and in the CA1 in vivo [9]. We next assessed the impact of acute knockdown of REST
+on miR-132 expression. Toward this end, we delivered lentivirus carrying REST shRNA
+unilaterally into the CA1 by stereotaxic injection, and 14 d later, subjected rats to global
+ischemia (Fig. 3c, upper). Whereas ischemia suppressed miR-132 expression in the CA1 of
+rats expressing NT-shRNA, miR-132 expression was not detectably altered in the CA1 of
+rats expressing REST shRNA as assessed by RT-qPCR, at 48 h after ischemia (Fig. 3c,
+lower). In contrast, ischemia did not detectably alter miR-124a expression in the CA1 of
+animals expressing either NT- or REST shRNA (Fig. 3d). These findings demonstrate that
+acute knockdown of REST prevents the ischemia-induced decrease in miR-132, consistent
+with the notion that REST is essential for the ischemia-induced decrease in miR-132.
+Overexpression of miR-132 affords neuroprotection against ischemia-induced cell death
+
+Author Manuscript
+
+To address a possible causal relation between loss of miR-132 and ischemia-induced
+neuronal death, we overexpressed miR-132 in primary cultures of hippocampal neurons at
+DIV7, and 7d later, subjected neurons to OGD. OGD is a well-established model of global
+ischemia in vitro. Toward this end, we examined the impact of OGD on REST abundance
+and miR-132 expression. OGD elicited an increase in REST and a decrease in miR-132, but
+not miR-9 or miR-132, in primary cultures of hippocampal neurons in vitro (Fig. 4a,b).
+Next, we validated miR-132 overexpression in primary cultures of hippocampal neurons
+transduced by means of the lentivirus expression system. Lentiviral expression was robust in
+hippocampal neurons at 7 d after transduction, as assessed by GFP fluorescence (Fig. 4c,
+left). miR-132, but not miR-9 or miR-124a, was overexpressed ~10-fold relative to that of
+negative-miR expressing or nontransduced (control) neurons (Fig. 4c, right). Finally, we
+examined impact of miR-132 on ischemia-induced neuronal death in vitro. Overexpression
+of miR-132 markedly reduced OGD-induced neuronal death, as assessed by uptake of the
+DNA indicator dye propidium iodide (Fig. 4d).
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 5
+
+Author Manuscript
+
+To establish a causal relation between the decrease in miR-132 and ischemia-induced
+neuronal death in a clinically relevant model of ischemic stroke, we delivered lentivirus
+carrying miR-132 or negative miR by unilateral stereotaxic injection directly into the right
+CA1 of living animals; 14 d later, rats were subjected to global ischemia or sham operation.
+Whereas negative miR-expressing rats subjected to global ischemia exhibited robust
+neuronal death in the hippocampal CA1, as assessed by toluidine blue (Fig. 5a,b) and
+Fluoro-Jade (Fig. 5c,d) staining at 7 d after insult, neuronal death was strikingly reduced in
+the CA1 of rats overexpressing miR-132. Collectively, these findings indicate that miR-132
+overexpression affords robust protection against global ischemia-induced neuronal death,
+and document a causal relation between the ischemia-induced loss of miR-132 and neuronal
+death in in vitro and in vivo models of ischemia.
+
+DISCUSSION
+Author Manuscript
+Author Manuscript
+
+In this study we show that activation of the gene silencing transcription factor REST is
+causally related to loss of miR-132 in postischemic CA1 neurons and that REST-dependent
+repression of miR-132 is critical to the neuronal death associated with global ischemia.
+miR-132 overexpression in hippocampal neurons or the CA1 of living rats affords robust
+protection against ischemia-induced neuronal death. To our knowledge, this is the first
+demonstration that regulation of miR-132 or any miRNA by REST is causally related to
+ischemia-induced neuronal death. Whereas miR-132 is implicated in the neuronal death
+associated with epilepsy [23,24], Alzheimer’s disease [25,26] and Parkinson’s disease [27]
+and is thought to play a role in ischemic preconditioning [31], a role for miR-132 in
+ischemia-induced neuronal death has remained unclear. We show that the repressor REST is
+enriched at the miR-132 promoter, where it orchestrates epigenetic remodeling and silencing
+of miR-132 expression in postischemic CA1 (but not CA3). Consistent with this, ischemia
+triggers a substantial decrease in two epigenetic marks of active gene transcription,
+H3K4me2 and H3K9ac (but not H3K27me3, a mark of gene repression), in the selectively
+vulnerable CA1 after ischemia. By contrast, neither REST occupancy at the miR-9 or
+miR-124a promoters nor miR-9 or miR-124a expression is altered in post ischemic neurons,
+despite the presence of RE1 sites, consistent with REST target specificity. Emerging
+evidence supports the concept that REST regulates different networks of target genes in a
+context-, age- and cell type-specific manner [9]. These findings document a previously
+unappreciated role for REST-dependent repression of miR-132 in the neuronal death
+associated with global ischemia and identify a novel therapeutic target for amelioration of
+the neurodegeneration and cognitive deficits associated with ischemic stroke.
+
+Author Manuscript
+
+A fundamental mechanism by which REST silences target genes is that of epigenetic
+remodeling [32]. REST binds the RE1 element of target genes and recruits C-terminal
+cofactor for REST (CoREST) [33,34], and mSin3A [35–37], corepressor platforms that
+recruit histone deacetylases (HDACs) 1 and 2. HDACs deacetylate core histone proteins and
+affect dynamic and reversible gene silencing [1,2,38]. In addition, REST recruits the sitespecific histone protein G9a, which methylates lysine 9 of histone H3 (H3K9) [39,40], the
+site-specific histone demethylase LSD1, which removes methyl groups from mono- or
+dimethylated lysine 4 of core histone protein H3 (H3K4) [41,42], and MeCP2, a protein that
+reads epigenetic marks on core histones and hotspots of DNA methylation [39,43]. Recent
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 6
+
+Author Manuscript
+Author Manuscript
+
+studies indicate that deacetylation of H3K9 by HDACs stimulates LSD activity, which in
+turn, removes methylation marks from H3K4 [2]. Our findings in the present study that
+H3K4me2 and H3K9ac, marks of active gene transcription, are reduced at the miR-132
+promoter in postischemic CA1 are consistent with transcriptional repression. Whereas
+dimethylation of H3K4 is a functional read-out of LSD1, a reduction in acetylation of H3K9
+is a functional read-out of HDAC activity. Our finding that H3K27me3, a mark of gene
+repression, is not altered at the miR-132 promoter is consistent with the possibility that the
+polycomb protein EZH1/2 is not recruited to the miR-132 promoter. EZH2, the catalytically
+active component of polycomb repressive complex 2 (PRC2), is a histone methyltransferase
+that confers a trimethylation mark on Lys27 of histone H3 (H3K27me3), a mark of gene
+repression [44–46]. Recent studies indicate that PRC2 is recruited by REST via HOTAIR
+[47] and that PRC1 interacts with REST at RE1 sites [48]. Whereas we show that REST is
+causally related to ischemia-induced loss of miR-132, we do not address a causal relation
+between REST and epigenetic remodeling of the miR-132 promoter.
+An emerging view is that epigenetics includes DNA methylation, histone modifications and
+miRNA-dependent gene silencing [3,4,49,50]. Collectively, these mechanisms influence
+gene expression and phenotype. An interesting aspect of miRNA function is its ability to
+induce epigenetic modifications directly and indirectly [49]. miRNAs act indirectly to
+promote epigenetic remodeling by regulation of components of the epigenetic machinery
+including, but not limited to DNA methyltransferases, HDACs, polycomb group proteins
+and MeCP2, which in turn regulate the expression of a wide array of genes including
+miRNAs [51]. Thus, miRNAs can participate in ‘epigenetic-miRNA regulatory circuits’
+[51]. As an example, miR-132 represses MeCP2, leading to activation of BDNF, which in
+turn functions as an activator of miR-132 [19].
+
+Author Manuscript
+Author Manuscript
+
+Our finding that miR-132 is dysregulated in global ischemia is consistent with findings of
+others that miR-132 and its target proteins are implicated in the pathophysiology of other
+brain disorders including focal ischemia [31], epilepsy [23,24,52], Alzheimer’s disease
+[25,26] and Parkinson’s disease [27]. Whereas findings in the present study show that global
+ischemia (a paradigm that induces neuronal death) induces downregulation of miR-132 in
+the hippocampal CA1, findings of others [31] show that ischemic preconditioning (a
+paradigm that affords neuroprotection) induces downregulation of miR-132 in the cortex in
+a model of focal ischemia. However, upon closer inspection, the same study [31] reports that
+focal ischemia (which induces fulminating neuronal death primarily in the striatum and
+cortex) also elicits downregulation of miR-132 expression. Thus, the two models of
+ischemic stroke, focal and global ischemia, exert similar effects on miR-132 expression,
+despite the fact that they induce cell death via different mechanisms and target different
+populations of neurons. Studies involving unbiased, genome-wide studies and bioinformatic
+analysis reveal upregulation of miR-132 in the hippocampal CA3 of animals with status
+epilepticus and in humans with epilepsy [24,53,54]. Chemically-engineered oligonucleotides
+or ‘antagomirs’ directed against miR-132 efficiently silenced miR-132 and afforded
+neuroprotection in animal with status epilepticus, consistent with the concept that miR-132
+is causally-related to seizure-induced neuronal death [24]. In contrast, in Alzheimer’s
+disease, miR-132 appears to have a pro-survival function. These studies show that miR-132
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 7
+
+Author Manuscript
+
+is downregulated, and its targets PTEN, P300, and FOXO3, are upregulated in the temporal
+cortical areas and hippocampal CA1 from humans with Alzheimer’s disease [25,26]. The
+present study adds global ischemia to the growing list of brain disorders in which miR-132
+is causally related to neuronal survival or neuronal death. We show that REST-dependent
+silencing of miR-132 is causally related to ischemia-induced neuronal death and that
+overexpression of miR-132 in the CA1 of living rats affords robust protection against
+ischemia-induced neuronal death in a clinically-relevant model of ischemic stroke.
+
+Author Manuscript
+
+Key targets of miR-132, including transcription factors and signaling molecules, are
+expressed in neurons and are implicated in neuronal death. In the present study, although we
+find that global ischemia elicits a marked upregulation of REST and a marked
+downregulation of miR-132, surprisingly we did not detect altered expression of several
+prominent targets of miR-132 implicated in other paradigms of neuronal death (MeCP2,
+PTEN, FOXO3a, DNMT3a, AchE) in the selectively-vulnerable CA1 at either 24 or 48 h
+after ischemia. Future studies are warranted to identify possible targets of miR-132 that are
+regulated by and/or contribute to global ischemia-induced neuronal death.
+
+Author Manuscript
+
+The present study was undertaken to examine a possible role for miR-132, a neuron-specific
+miRNA known to play a pivotal role in brain development, in ischemia-induced neuronal
+death. Our findings demonstrate that activation of REST is causally related to silencing of
+miR-132 in selectively-vulnerable CA1 neurons and that REST-dependent repression of
+miR-132 is critical to ischemia-induced neuronal death in a clinically-relevant model of
+ischemic stroke in vivo. Notably, overexpression of miR-132 in the hippocampal CA1 of
+living rats affords robust protection against ischemia-induced neuronal death. These findings
+document a previously unappreciated role for REST-dependent repression of miR-132 in the
+neuronal death associated with global ischemia and identify a novel therapeutic target for
+amelioration of the neurodegeneration and cognitive deficits associated with ischemia.
+These findings implicate miRNAs in the pathophysiology of global ischemia and point to a
+role for miRNA-132 as a novel therapeutic target to reduce the hippocampal injury
+associated with ischemic stroke.
+
+MATERIALS & METHODS
+Animals
+
+Author Manuscript
+
+Four to six-week-old male Sprague-Dawley rats weighing 150–200 gm (Charles River
+Laboratories, Inc.) were maintained in a temperature- and light-controlled environment with
+a 12:12 h light/dark cycle and were treated in accordance with the principles and procedures
+of the National Institutes of Health Guidelines for the Care and Use of Laboratory Animals.
+Protocols were approved by the Institutional Animal Care and Use Committee of the Albert
+Einstein College of Medicine.
+Primary cultures of hippocampal neurons and oxygen-glucose deprivation (OGD)
+Primary cultures of hippocampal neurons were prepared from embryonic (E18) rats as
+described [9]. Cultures were maintained for 7 days in vitro (DIV) before transduction with
+lentiviral constructs. OGD was performed at 14 DIV. To induce OGD, neurons were
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 8
+
+Author Manuscript
+
+exposed to serum-free, glucose-free medium saturated with 95% N2/5% CO2 for 30 min at
+37°C in an airtight, anoxic chamber (Billups-Rothenberg). Cultures were returned to
+oxygenated, glucose-containing medium under normoxic conditions for 24 h and were
+processed for western blotting analysis, qRT-PCR or uptake of propidium iodide to assess
+neuronal death.
+Global ischemia
+
+Author Manuscript
+
+Animals were subjected to transient global ischemia by the four-vessel occlusion method as
+described [9,55]. For sham surgery, animals were subjected to the identical surgical
+procedure, except that the carotid arteries were not occluded. During recovery from
+anesthesia, body temperature was maintained at 37.5 ± 0.5 °C by external warming. Animals
+that failed to show complete loss of the righting reflex and dilation of the pupils 2 min after
+occlusion, and the rare animals that exhibited obvious behavioral manifestations (abnormal
+vocalization when handled, generalized convulsions, loss of > 20% body weight by 3–7 d or
+hypoactivity) were excluded from the study.
+Western blots
+
+Author Manuscript
+
+Western blot analysis was performed as described [55–57]. In brief, neurons were washed
+with ice-cold PBS and lysed in buffer containing (in mM): 25 Tris-HCl, pH 7.4, 150 NaCl, 1
+EDTA, 1× protease inhibitor cocktail (Sigma), 0.1% SDS and 0.5% Na deoxycholate. For
+the tissue samples, hippocampi were rapidly dissected and transverse slices of dorsal
+hippocampus (1 mm) were cut with a Mcllwain tissue chopper. The CA1 subfield was
+rapidly microdissected and lysed in buffer supplemented with a 1% cocktail of protease
+inhibitors (Sigma). Protein concentrations were measured by means of the bicinchoninic
+acid (BCA) assay (Pierce). Equal concentrations of protein (30 ~ 50 µg) were separated on
+4–20% SDS-PAGE gels, transferred to nitrocellulose membranes, and incubated with antiREST, 1:1000 (Millipore) and anti-β-actin, 1:50000(Sigma), followed by chemiluminescent
+detection(ECL; Amersham Biosciences). Band densities were normalized to β-actin. Mean
+band densities for samples from experimental animals were normalized to the corresponding
+samples from control neurons or sham animals.
+Single-Locus ChIP-qPCR
+
+Author Manuscript
+
+The CA1 subfields were rapidly microdissected from hippocampi and used for the ChIP
+assay as described [57]. In brief, the CA1 was immersed in 1% formaldehyde for 30 min at
+room temperature to cross-link REST or histone protein to DNA and the cross-linking halted
+by addition of 0.125 M glycine. The samples were lysed and sonicated to generate fragments
+of chromosomal DNA in the range of 300 bp. Aliquots of chromatin were diluted with ChIP
+dilution buffer to a final volume of 1 ml, and an aliquot of pre-immunoprecipitated
+chromatin (“input”, 80 µl) was saved. Samples of chromatin were pre-cleared with M-280
+sheep anti-rabbit IgG Dynabeads (Invitrogen) and immunoprecipitated with primary
+antibody (10 µg of anti-REST, anti-H3K9ac or anti-H3K4me2, Milipore).
+Immunocompelxes were collected on the Dynabeads and eluted with elution buffer (50 mM
+Tris, 10mM EDTA, 1% SDS). Following elution, samples were treated with proteinase K
+and purified by means of a PCR purification kit (Qiagen). For technical validation
+experiments, ChIP output of anti-REST-precipitated chromatin and total chromatin were
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 9
+
+Author Manuscript
+
+subjected to whole-genome amplification and then used for qPCR. miR-9, miR-124a, and
+miR-132 promoter abundance was quantified by real-time PCR using miR-specific primers ;
+miR-132 PR1 (F; CACCTCCAGAGCAGGCAAA, R;
+GGAGGCTGTGGCTCTATAAGGA), miR-132 PR2 (F;
+AAAGGGTCCTTAACACAGCAAAAA, R; ACAATGCATTAGAGACCAGGTGAA),
+miR-132 PR3 (F; TTGCGATGTTATGGGACCAA, R;
+GGGAGTACACGGAGGAGAAACTT), miR-9-1 (F; CCCCCAGCAATTTTCACATC, R;
+GGAGCCGGTTTTGTGCAA), miR-9-2 (F; GCGTCTTGCTGGCGTACTG, R;
+TGATGGCCCTTTTCTCCTTCT), miR-9-3 (F; CTGGCGAGACCTCGACCTT, R;
+CCGCAGACCCCCAGAGT), miR-124a-1 (F; CCTCCCCTTTGCAGGAAAAA, R;
+CCTCCGTAGGCTCTTTGTTCTC), miR-124a-2 (F; TCGGCCTGGGATTCTGATC, R;
+CTTTGATAGCCCGGTTTTGATT), miR-124a-3 (F; TGGAGTGGCGTTTTTTGGA, R;
+ACCTTGATCTGGGCCTTTAGG).
+
+Author Manuscript
+
+qRT–PCR
+
+Author Manuscript
+
+For cultures, neurons were washed twice with ice-cold PBS, and for tissue samples, the CA1
+was rapidly microdissected. RNA was extracted using mirVana (Ambion), and
+concentration was measured with a Nanodrop (NanoDrop Technologies). Aliquots of RNA
+(10 ng) were reverse-transcribed to cDNA with the TaqMan®MicroRNA Reverse
+Transcription Kit (Appiled Biosystems). Quantitative real-time PCR (qPCR) was performed
+using TaqMan probes (Applied Biosystems) for miR-132 (Ref: 000457); miR-9 (Ref:
+000583); miR-124a (Ref: 001182); and U6 snRNA (Ref: 001973) served as an endogenous
+reference. Reactions were run in triplicate in a StepOnePlus real-time PCR system (Applied
+Biosystems). The relative change in the miRNA expression was determined by the equation:
+Fold change = 2−ΔCt, ΔCt = Ct target – Ct reference) [58]. The Ct value corresponds to the
+cycle number at which the fluorescence signal crosses a threshold. Relative expression ratios
+were calculated by normalization of values for experimental samples to those of the
+corresponding control neurons or sham controls.
+miR-132 overexpression constructs and lentiviral vectors
+
+Author Manuscript
+
+miR-132 overexpression constructs were kind gifts from Dr. Edbauer. For miR-132
+expression in cultured hippocampal neurons and in the hippocampal CA1 in vivo, the
+oligonucleotides for miR-132 (sense;
+GATCGTCGACCCTGAAAGCCCCGCCCCCGCGTCTCCAGGGCAACCGTGGCTTTC
+GATTGTTACTGTGGGAACCGGAGGTAAC, antisense;
+GATCGTCGACGAGTGGTGGGGAGCGTGGGCGTGCTGCGGGGCGACCATGGCTG
+TAGACTGTTACCTCCGGTTCCCACAG) as described [16]. or the negative control miR
+(Invitrogen, sense;
+GATCGTCGACCCTGAAAGCCCCGCCCCCGCGTCTCCAGGGCAAAAATGTACTGC
+GCGTGGAGACGTGGGAACCGGAGTCTCC, anti-sense;
+ACGTGGGAACCGGAGTCTCCACGCAGTACATTTTCGCCCCGCAGCACGCCCACG
+CTCCCCACCACTCGTCGACGATC) were annealed, extended by Klenow fragment and
+cloned into a self-inactivating lentiviral vector pRRLsin.cPPT.CMV.eGFP.Wpre. High-titer
+vesicular stomatitis virus-pseudo-typed lentiviral stocks were produced in HEK-293T cells
+as described [9,59]. In brief, cells were transfected by means of calcium phosphate with a
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 10
+
+Author Manuscript
+
+pRRL.PPT.hCMV.GFP.shRNA.Wpre transfer construct, pMDLg/pRRE and pRSV-REV
+packaging constructs, and the envelope protein construct pMD2.G. Titers were calculated by
+infecting HEK-293T cells with serial dilutions of concentrated lentivirus, and eGFP
+fluorescence was evaluated by flow cytometry at 48 h after transduction; Titers were 1 × 109
+transducing units. The expression of miR-132 was examined by qPCR 7 d following
+transduction of primary hippocampal neurons prepared from E18 Sprague Dawley rats.
+Injection of lentiviral miR-132 in vivo
+Lentiviral miR-132 or negative control miR was administered to rats by stereotaxic injection
+14 d prior to global ischemia or sham surgery. A total volume of 4 µl of viral solution was
+injected directly into the right CA1 (3.0 mm posterior and 2.0 mm lateral to bregma, 4.0 mm
+below the skull surface) using a 28-gauge needle and a Hamilton syringe at a flow rate of
+0.5 µl/min.
+
+Author Manuscript
+
+Histology and Fluoro-Jade labeling
+Neuronal cell loss was assessed by histological examination of the dorsal hippocampus from
+animals killed at 7 d after sham surgery or global ischemia. Animals were anesthetized with
+halothane and transcardially perfused using 0.9% saline with heparin followed by ice-cold
+4% paraformaldehyde in 0.1 M PBS, pH 7.4. Brains were removed and immersed in
+fixative. Coronal sections (20 µm) were cut at the level of the dorsal hippocampus with a
+cryotome and processed for staining with toluidine blue or Fluoro-Jade C (Millipore).
+Statistical analysis
+
+Author Manuscript
+
+For qRT-PCR, significance was assessed by means of the randomization test [60] and a
+Student's t-test (unpaired, two-tailed). For Western band densities and radioactive band
+densities, significance was assessed by means of the Student's t-test (unpaired, two-tailed). P
+< 0.05 was considered to be statistically significant.
+
+Acknowledgements
+We thank Brenda Court-Vazquez and Adrianna Latuzsek-Barrantes for technical assistance and all the members of
+the Zukin laboratory for their helpful comments. We thank Dr. Edbauer for providing miR-132 constructs. This
+work was supported by National Institutes of Health grant NS46742 and NS45693 (R.S.Z.), a McKnight
+Foundation Brain Disorders Award (R.S.Z.), and the generous support of the F.M. Kirby Foundation. R.S.Z. is the
+F. M. Kirby Professor in Neural Repair and Protection.
+
+REFERNCE LIST
+Author Manuscript
+
+1. Ballas N, Mandel G. The many faces of REST oversee epigenetic programming of neuronal genes.
+Curr. Opin. Neurobiol. 2005; 15:500–506. [PubMed: 16150588]
+2. Ooi L, Wood IC. Chromatin crosstalk in development and disease: lessons from REST. Nat. Rev.
+Genet. 2007; 8:544–554. [PubMed: 17572692]
+3. Qureshi IA, Mehler MF. Regulation of non-coding RNA networks in the nervous system--what's the
+REST of the story? Neurosci. Lett. 2009; 466:73–80. [PubMed: 19679163]
+4. Hwang JY, Aromolaran KA, Zukin RS. Epigenetic mechanisms in stroke and epilepsy.
+Neuropsychopharmacology. 2013; 38:167–182. [PubMed: 22892394]
+5. Conaco C, Otto S, Han JJ, Mandel G. Reciprocal actions of REST and a microRNA promote
+neuronal identity. Proc. Natl. Acad. Sci. USA. 2006; 103:2422–2427. [PubMed: 16461918]
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 11
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+6. Wu J, Xie X. Comparative sequence analysis reveals an intricate network among REST, CREB and
+miRNA in mediating neuronal gene expression. Genome Biol. 2006; 7:R85. [PubMed: 17002790]
+7. Calderone A, Jover T, Noh K-M, Tanaka H, Yokota H, Lin Y, Grooms S, Regis R, Bennett MV,
+Zukin RS. Ischemic insults de-repress the gene silencer rest in neurons destined to die. J. Neurosci.
+2003; 23:2112–2121. [PubMed: 12657670]
+8. Formisano L, Noh KM, Miyawaki T, Mashiko T, Bennett MV, Zukin RS. Ischemic insults promote
+epigenetic reprogramming of mu opioid receptor expression in hippocampal neurons. Proc. Natl.
+Acad. Sci. USA. 2007; 104:4170–4175. [PubMed: 17360495]
+9. Noh KM, Hwang JY, Follenzi A, Athanasiadou R, Miyawaki T, Greally JM, Bennett MV, Zukin
+RS. Repressor element-1 silencing transcription factor (REST)-dependent epigenetic remodeling is
+critical to ischemia-induced neuronal death. Proc. Natl. Acad. Sci. U. S. A. 2012; 109:E962–E971.
+[PubMed: 22371606]
+10. Palm K, Belluardo N, Metsis M, Timmusk T. Neuronal expression of zinc finger transcription
+factor REST/NRSF/XBR gene. J. Neurosci. 1998; 18:1280–1296. [PubMed: 9454838]
+11. Huang Y, Doherty JJ, Dingledine R. Altered histone acetylation at glutamate receptor 2 and brainderived neurotrophic factor genes is an early event triggered by status epilepticus. J. Neurosci.
+2002; 22:8422–8428. [PubMed: 12351716]
+12. Lu T, Aron L, Zullo J, Pan Y, Kim H, Chen Y, Yang T-H, Kim H-M, Drake D, Liu X-S, Bennett
+DA, Colaiacovo MP, Yankner BA. REST and stress resistance in ageing and Alzheimer's disease.
+Nature. 2014
+13. Zuccato C, Tartari M, Crotti A, Goffredo D, Valenza M, Conti L, Cataudella T, Leavitt BR,
+Hayden MR, Timmusk T, Rigamonti D, Cattaneo E. Huntingtin interacts with REST/NRSF to
+modulate the transcription of NRSE-controlled neuronal genes. Nat. Genet. 2003; 35:76–83.
+[PubMed: 12881722]
+14. Siegel G, Saba R, Schratt G. microRNAs in neurons: manifold regulatory roles at the synapse.
+Curr. Opin. Genet. Dev. 2011; 21:491–497. [PubMed: 21561760]
+15. Schratt G. microRNAs at the synapse. Nat. Rev. Neurosci. 2009; 10:842–849. [PubMed:
+19888283]
+16. Edbauer D, Neilson JR, Foster KA, Wang CF, Seeburg DP, Batterton MN, Tada T, Dolan BM,
+Sharp PA, Sheng M. Regulation of synaptic structure and function by FMRP-associated
+microRNAs miR-125b and miR-132. Neuron. 2010; 65:373–384. [PubMed: 20159450]
+17. Lewis JD, Meehan RR, Henzel WJ, Maurer-Fogy I, Jeppesen P, Klein F, Bird A. Purification,
+sequence, and cellular localization of a novel chromosomal protein that binds to methylated DNA.
+Cell. 1992; 69:905–914. [PubMed: 1606614]
+18. Chahrour M, Jung SY, Shaw C, Zhou X, Wong ST, Qin J, Zoghbi HY. MeCP2, a key contributor
+to neurological disease, activates and represses transcription. Science. 2008; 320:1224–1229.
+[PubMed: 18511691]
+19. Klein ME, Lioy DT, Ma L, Impey S, Mandel G, Goodman RH. Homeostatic regulation of MeCP2
+expression by a CREB-induced microRNA. Nat. Neurosci. 2007; 10:1513–1514. [PubMed:
+17994015]
+20. Wayman GA, Davare M, Ando H, Fortin D, Varlamova O, Cheng HY, Marks D, Obrietan K,
+Soderling TR, Goodman RH, Impey S. An activity-regulated microRNA controls dendritic
+plasticity by down-regulating p250GAP. Proc Natl Acad Sci. U. S. A. 2008; 105:9093–9098.
+[PubMed: 18577589]
+21. Vo N, Klein ME, Varlamova O, Keller DM, Yamamoto T, Goodman RH, Impey S. A cAMPresponse element binding protein-induced microRNA regulates neuronal morphogenesis. Proc
+Natl Acad Sci. U. S. A. 2005; 102:16426–16431. [PubMed: 16260724]
+22. Impey S, Davare M, Lesiak A, Fortin D, Ando H, Varlamova O, Obrietan K, Soderling TR,
+Goodman RH, Wayman GA. An activity-induced microRNA controls dendritic spine formation by
+regulating Rac1-PAK signaling. Mol. Cell Neurosci. 2010; 43:146–156. [PubMed: 19850129]
+23. Peng J, Omran A, Ashhab MU, Kong H, Gan N, He F, Yin F. Expression patterns of miR-124,
+miR-134, miR-132, and miR-21 in an immature rat model and children with mesial temporal lobe
+epilepsy. J. Mol. Neurosci. 2013; 50:291–297. [PubMed: 23315173]
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 12
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+24. Jimenez-Mateos EM, Bray I, Sanz-Rodriguez A, Engel T, McKiernan RC, Mouri G, Tanaka K,
+Sano T, Saugstad JA, Simon RP, Stallings RL, Henshall DC. miRNA Expression profile after
+status epilepticus and hippocampal neuroprotection by targeting miR-132. Am. J. Pathol. 2011;
+179:2519–2532. [PubMed: 21945804]
+25. Wong HK, Veremeyko T, Patel N, Lemere CA, Walsh DM, Esau C, Vanderburg C, Krichevsky
+AM. De-repression of FOXO3a death axis by microRNA-132 and -212 causes neuronal apoptosis
+in Alzheimer's disease. Hum. Mol. Genet. 2013; 22:3077–3092. [PubMed: 23585551]
+26. Lau P, Bossers K, Janky R, Salta E, Frigerio CS, Barbash S, Rothman R, Sierksma AS, Thathiah
+A, Greenberg D, Papadopoulou AS, Achsel T, Ayoubi T, Soreq H, Verhaagen J, Swaab DF, Aerts
+S, De SB. Alteration of the microRNA network during the progression of Alzheimer's disease.
+EMBO Mol. Med. 2013; 5:1613–1634. [PubMed: 24014289]
+27. Lungu G, Stoica G, Ambrus A. MicroRNA profiling and the role of microRNA-132 in
+neurodegeneration using a rat model. Neurosci. Lett. 2013; 553:153–158. [PubMed: 23973300]
+28. Moskowitz MA, Lo EH, Iadecola C. The Science of Stroke: Mechanisms in Search of Treatments.
+Neuron. 2010; 67:181–198. [PubMed: 20670828]
+29. Liou AK, Clark RS, Henshall DC, Yin XM, Chen J. To die or not to die for neurons in ischemia,
+traumatic brain injury and epilepsy: a review on the stress-activated signaling pathways and
+apoptotic pathways. Prog. Neurobiol. 2003; 69:103–142. [PubMed: 12684068]
+30. Ofengeim, D.; Miyawaki, T.; Zukin, RS. Molecular and Cellular Mechanisms of Ischemia-induced
+Neuronal Death. In: Mohr, JP.; Wolf, P.; Grotta, JC.; Moskowitz, MA.; Mayberg, M.; von
+Kummer, R., editors. Stroke: Pathophysiology, Diagnosis and Management. Philadelphia:
+Churchill Livingstone Elsevier; 2011. p. 1-39.
+31. Lusardi TA, Farr CD, Faulkner CL, Pignataro G, Yang T, Lan J, Simon RP, Saugstad JA. Ischemic
+preconditioning regulates expression of microRNAs and a predicted target, MeCP2, in mouse
+cortex. J. Cereb. Blood Flow Metab. 2010; 30:744–756. [PubMed: 20010955]
+32. Borrelli E, Nestler EJ, Allis CD, Sassone-Corsi P. Decoding the epigenetic language of neuronal
+plasticity. Neuron. 2008; 60:961–974. [PubMed: 19109904]
+33. Andres ME, Burger C, Peral-Rubio MJ, Battaglioli E, Anderson ME, Grimes J, Dallman J, Ballas
+N, Mandel G. CoREST: a functional corepressor required for regulation of neural-specific gene
+expression. Proc. Natl. Acad. Sci. USA. 1999; 96:9873–9878. [PubMed: 10449787]
+34. Ballas N, Battaglioli E, Atouf F, Andres ME, Chenoweth J, Anderson ME, Burger C, Moniwa M,
+Davie JR, Bowers WJ, Federoff HJ, Rose DW, Rosenfeld MG, Brehm P, Mandel G. Regulation of
+neuronal traits by a novel transcriptional complex. Neuron. 2001; 31:353–365. [PubMed:
+11516394]
+35. Huang Y, Myers SJ, Dingledine R. Transcriptional repression by REST: recruitment of Sin3A and
+histone deacetylase to neuronal genes. Nat. Neurosci. 1999; 2:867–872. [PubMed: 10491605]
+36. Naruse Y, Aoki T, Kojima T, Mori N. Neural restrictive silencer factor recruits mSin3 and histone
+deacetylase complex to repress neuron-specific target genes. Proc Natl Acad Sci USA. 1999;
+96:13691–13696. [PubMed: 10570134]
+37. Grimes JA, Nielsen SJ, Battaglioli E, Miska EA, Speh JC, Berry DL, Atouf F, Holdener BC,
+Mandel G, Kouzarides T. The co-repressor mSin3A is a functional component of the RESTCoREST repressor complex. J. Biol. Chem. 2000; 275:9461–9467. [PubMed: 10734093]
+38. Roopra A, Huang Y, Dingledine R. Neurological disease: listening to gene silencers. Mol Interv.
+2001; 1:219–228. [PubMed: 14993344]
+39. Ballas N, Grunseich C, Lu DD, Speh JC, Mandel G. REST and its corepressors mediate plasticity
+of neuronal gene chromatin throughout neurogenesis. Cell. 2005; 121:645–657. [PubMed:
+15907476]
+40. Roopra A, Qazi R, Schoenike B, Daley TJ, Morrison JF. Localized domains of G9a-mediated
+histone methylation are required for silencing of neuronal genes. Mol. Cell. 2004; 14:727–738.
+[PubMed: 15200951]
+41. Lee MG, Wynder C, Cooch N, Shiekhattar R. An essential role for CoREST in nucleosomal
+histone 3 lysine 4 demethylation. Nature. 2005; 437:432–435. [PubMed: 16079794]
+42. Shi YJ. Regulation of LSD1 histone demethylase activity by its associated factors. Mol. Cell. 2005;
+19:1–8. [PubMed: 15989960]
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 13
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+43. Lunyak VV, Burgess R, Prefontaine GG, Nelson C, Sze SH, Chenoweth J, Schwartz P, Pevzner
+PA, Glass C, Mandel G, Rosenfeld MG. Corepressor-dependent silencing of chromosomal regions
+encoding neuronal genes. Science. 2002; 298:1747–1752. [PubMed: 12399542]
+44. Whitcomb SJ, Basu A, Allis CD, Bernstein E. Polycomb Group proteins: an evolutionary
+perspective. Trends Genet. 2007; 23:494–502. [PubMed: 17825942]
+45. Schwartz YB, Pirrotta V. Polycomb complexes and epigenetic states. Curr. Opin. Cell Biol. 2008;
+20:266–273. [PubMed: 18439810]
+46. Simon JA, Kingston RE. Mechanisms of polycomb gene silencing: knowns and unknowns. Nat.
+Rev. Mol. Cell Biol. 2009; 10:697–708. [PubMed: 19738629]
+47. Tsai MC, Manor O, Wan Y, Mosammaparast N, Wang JK, Lan F, Shi Y, Segal E, Chang HY.
+Long noncoding RNA as modular scaffold of histone modification complexes. Science. 2010;
+329:689–693. [PubMed: 20616235]
+48. Ren X, Kerppola TK. REST interacts with Cbx proteins and regulates polycomb repressive
+complex 1 occupancy at RE1 elements. Mol. Cell Biol. 2011
+49. Malumbres M. miRNAs and cancer: an epigenetics view. Mol. Aspects Med. 2013; 34:863–874.
+[PubMed: 22771542]
+50. Richardson BC, Patel DR. Epigenetics in 2013. DNA methylation and miRNA--key roles in
+systemic autoimmunity. Nat. Rev. Rheumatol. 2014; 10:72–74. [PubMed: 24418763]
+51. Sato F, Tsuchiya S, Meltzer SJ, Shimizu K. MicroRNAs and epigenetics. FEBS J. 2011;
+278:1598–1609. [PubMed: 21395977]
+52. Nudelman AS, DiRocco DP, Lambert TJ, Garelick MG, Le J, Nathanson NM, Storm DR.
+Neuronal activity rapidly induces transcription of the CREB-regulated microRNA-132, in vivo.
+Hippocampus. 2010; 20:492–498. [PubMed: 19557767]
+53. Hu K, Zhang C, Long L, Long X, Feng L, Li Y, Xiao B. Expression profile of microRNAs in rat
+hippocampus following lithium-pilocarpine-induced status epilepticus. Neurosci. Lett. 2011;
+488:252–257. [PubMed: 21094214]
+54. Song YJ, Tian XB, Zhang S, Zhang YX, Li X, Li D, Cheng Y, Zhang JN, Kang CS, Zhao W.
+Temporal lobe epilepsy induces differential expression of hippocampal miRNAs including let-7e
+and miR-23a/b. Brain Res. 2011; 1387:134–140. [PubMed: 21376023]
+55. Ofengeim D, Chen YB, Miyawaki T, Li H, Sacchetti S, Flannery RJ, Alavian KN, Pontarelli F,
+Roelofs BA, Hickman JA, Hardwick JM, Zukin RS, Jonas EA. N-terminally cleaved Bcl-xL
+mediates ischemia-induced neuronal death. Nat. Neurosci. 2012; 15:574–580. [PubMed:
+22366758]
+56. Rodenas-Ruano A, Chavez AE, Cossio MJ, Castillo PE, Zukin RS. REST-dependent epigenetic
+remodeling promotes the developmental switch in synaptic NMDA receptors. Nat. Neurosci. 2012;
+15:1382–1390. [PubMed: 22960932]
+57. Sehara Y, Sawicka K, Hwang JY, Latuszek-Barrantes A, Etgen AM, Zukin RS. Survivin Is a
+transcriptional target of STAT3 critical to estradiol neuroprotection in global ischemia. J.
+Neurosci. 2013; 33:12364–12374. [PubMed: 23884942]
+58. Livak KJ, Schmittgen TD. Analysis of relative gene expression data using real-time quantitative
+PCR and the 2(−Delta Delta C(T)) Method. Methods. 2001; 25:402–408. [PubMed: 11846609]
+59. Miyawaki T, Ofengeim D, Noh KM, Latuszek-Barrantes A, Hemmings BA, Follenzi A, Zukin RS.
+The endogenous inhibitor of Akt, CTMP, is critical to ischemia-induced neuronal death. Nat
+Neurosci. 2009; 12:618–626. [PubMed: 19349976]
+60. Pfaffl MW, Horgan GW, Dempfle L. Relative expression software tool (REST) for group-wise
+comparison and statistical analysis of relative expression results in real-time PCR. Nucleic Acids
+Res. 2002; 30:e36. [PubMed: 11972351]
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 14
+
+Author Manuscript
+
+Highlights
+•
+
+Global ischemia triggers a decrease in miR-132 expression in CA1 neurons
+destined to die.
+
+•
+
+REST orchestrates epigenetic remodeling and silencing of miR-132 in insulted
+CA1 neurons.
+
+•
+
+The gene silencing factor REST is critical to ischemia-induced loss of miR-132
+in CA1.
+
+•
+
+Loss of miR-132 is causally-related to neuronal death associated with global
+ischemia.
+
+•
+
+Overexpression of miR-132 protects against ischemia-induced neuronal death.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 15
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 1. Global ischemia activates and recruits REST to the miR-132 (but not miR-9 or
+miR-124a) promoter, and silences miR-132 in CA1
+
+(a) Upper, representative Western blot showing that ischemia increases REST in the CA1 at
+24 h and 48 h after insult. Lower, summary data. (b) Upper, REST profile at the miR-132
+promoter was assessed by ChIP-on-chip analysis in the postischemic CA1. Lower, singlelocus ChIP, followed by qPCR, shows that REST is enriched at the miR-132 promoter
+(technical validation). (c) qRT-PCR shows that miR-132 expression is decreased (biological
+validation). (d) Upper, REST profile at the miR-9 promoter was assessed by ChIP-on-chip
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 16
+
+Author Manuscript
+
+analysis in the postischemic CA1. Lower, single-locus ChIP, followed by qPCR, shows that
+the miR-9 promoter, which contains an RE1 site, does not exhibit enhanced REST
+association (technical validation). (e) qRT-PCR shows that miR-9 expression is not altered
+(biological validation). (f) Upper, REST profile at the miR-124a promoter was assessed by
+ChIP-on-chip analysis in the postischemic CA1. Lower, single-locus ChIP-qPCR, shows that
+the miR-124a promoter, which contains an RE1 site, does not exhibit enhanced REST
+association (technical validation). (g) qRT-PCR shows that miR-124a expression is not
+altered (biological validation). (h) qRT-PCR shows that miR-132, miR-9 and miR-124a
+expression is not altered in postischemic CA3. n = 3 per treatment group/ 3 independent
+experiments. Data represent mean ± SEMs. ***, p < 0.001, **, p < 0.01, *,p < 0.05.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 17
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 2. REST orchestrates epigenetic remodeling at the miR-132 promoter
+
+(a) Single-locus ChIP-qPCR showing that ischemia induced a decrease in H3K4me2 at the
+miR-132 promoter, but not at sites 8.5 kb upstream or 10 kb downstream from miR-132 in
+the CA1, evident at 24 h and 48 h. (b) Single locus ChIP-qPCR showing that ischemia
+induced a decrease in H3K9ac at the miR-132 promoter in CA1 at 48 h, but not at sites 8.5
+kb upstream or 10 kb downstream form miR-132. (c) Single locus ChIP-qPCR showing that
+ischemia did not alter trimethylation of H3K27 (H3K27me3) at the miR-132 promoters. n =
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 18
+
+Author Manuscript
+
+3 per treatment group/ 3 independent experiments. Data represent mean ± SEMs. **, p <
+0.01, *,p < 0.05.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 19
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 3. RNAi-mediated depletion of REST prevents the ischemia-induced decrease in miR-132
+
+(a) REST shRNA and non-targeting (NT) shRNA were cloned into the lentivirus expression
+system. (b) Upper, representative Western blots showing shRNAs targeting two different
+sequences in REST (REST shRNA-2, REST shRNA-3) knockdown REST in hippocampal
+neurons. Lower, summary data. (c) Upper, time line. Lower, qRT-PCR showing that REST
+shRNA rescues the ischemia-induced decrease in miR-132 expression level in CA1 at 48 h.
+(d) qRT-PCR showing that either ischemia or REST shRNA does not alter miR-124a
+expression level. n = 3~4 per treatment group/ 3 independent experiments. *, p < 0.05.
+
+Author Manuscript
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 20
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 4. Overexpression of miR-132 enables CA1 neurons to survive
+
+(a) Upper, representative Western blot showing that oxygen-glucose deprivation (OGD)
+increases REST in primary cultures of hippocampal neurons in vitro. Lower, summary data.
+(b) OGD decreases miR-132 expression in hippocampal neurons in vitro. (c) Left,
+representative GFP fluorescence images showing expression of miR-132 and negative
+control miR (miR-neg) in hippocampal neurons. Right, qRT-PCR showing that
+overexpression of miR-132 by means of the lentivirus expression system increases miR-132
+levels in hippocampal neurons. (d) Left, representative images showing that overexpression
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 21
+
+Author Manuscript
+
+of miR-132, but not miR-neg, rescues hippocampal neurons from OGD-induced death,
+assessed by propidium iodide uptake. Right, summary data. n = 3 per treatment group/ 3
+independent experiments. ###, p < 0.001, **, p < 0.01.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 22
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 5. Overexpression of miR-132 protects CA1 neurons from ischemia-induced cell death in
+vivo
+
+(a) Representative images of brain sections stained with toluidine blue from animals
+expressing miR-132 or miR-neg, and subjected to global ischemia or sham operation at 7 d
+after surgery. (b) Summary data showing the number of living CA1 pyramidal neurons, as
+assessed by toluidine blue. (c) Representative images of brain sections stained with FluoroJade (d) Summary data showing the number of degenerating CA1 pyramidal neurons, as
+
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+Hwang et al.
+
+Page 23
+
+Author Manuscript
+
+assessed by Fluoro-Jade (n = 4 − 6 animals). ***, p < 0.001. so, stratum oriens; sp, stratum
+pyramidale; sr, stratum radiatum.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+J Mol Biol. Author manuscript; available in PMC 2015 October 09.
+
+

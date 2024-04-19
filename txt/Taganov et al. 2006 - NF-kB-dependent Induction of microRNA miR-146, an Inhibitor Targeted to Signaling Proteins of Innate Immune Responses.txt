@@ -1,0 +1,571 @@
+NF-␬B-dependent induction of microRNA miR-146,
+an inhibitor targeted to signaling proteins of
+innate immune responses
+Konstantin D. Taganov*, Mark P. Boldin*, Kuang-Jung Chang, and David Baltimore†
+Division of Biology, California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125
+
+Activation of mammalian innate and acquired immune responses
+must be tightly regulated by elaborate mechanisms to control their
+onset and termination. MicroRNAs have been implicated as negative regulators controlling diverse biological processes at the level
+of posttranscriptional repression. Expression profiling of 200 microRNAs in human monocytes revealed that several of them
+(miR-146a兾b, miR-132, and miR-155) are endotoxin-responsive
+genes. Analysis of miR-146a and miR-146b gene expression unveiled a pattern of induction in response to a variety of microbial
+components and proinflammatory cytokines. By means of promoter analysis, miR-146a was found to be a NF-␬B-dependent
+gene. Importantly, miR-146a兾b were predicted to base-pair with
+sequences in the 3ⴕ UTRs of the TNF receptor-associated factor 6
+and IL-1 receptor-associated kinase 1 genes, and we found that
+these UTRs inhibit expression of a linked reporter gene. These
+genes encode two key adapter molecules downstream of Toll-like
+and cytokine receptors. Thus, we propose a role for miR-146 in
+control of Toll-like receptor and cytokine signaling through a
+negative feedback regulation loop involving down-regulation of
+IL-1 receptor-associated kinase 1 and TNF receptor-associated factor 6 protein levels.
+immunity 兩 microRNA 兩 LPS 兩 Toll-like receptor
+
+I
+
+nnate immunity is the first line of host defense, designed to
+recognize pathogen-associated molecular patterns represented by conserved components of microorganisms unique to
+the microbial world. The pathogen molecules are detected via a
+limited number of germ line-encoded receptors expressed in
+immune cells, such as macrophages and dendritic cells. In the last
+decade, members of the Toll-like receptor (TLR) family have
+emerged as the primary evolutionarily conserved sensors of
+pathogen-associated molecular patterns (1). Binding of the
+TLRs to their respective ligands initiates a wide spectrum of
+responses from phagocytosis to production of a variety of
+cytokines, which in turn shape and enhance the inflammatory
+and adaptive immune responses.
+All TLR receptors trigger signals in a similar fashion because of
+the presence of Toll and IL-1 receptor (TIR) domains in their
+cytoplasmic tails. The signaling cascade of TLR4, the founding
+member of the family and a sensor of LPS, is initiated when adaptor
+proteins MyD88 and TIR domain-containing adaptor-inducing
+IFN-␤ (TRIF) are recruited to the receptor, activating two independent branches of TLR signaling. MyD88 serves as a bridge
+between TLR4 and IL-1 receptor associated kinase (IRAK1) that
+then recruits into the complex TNF receptor-associated factor 6
+(TRAF6). This chain of events triggers activation of I␬B kinase and
+JNK and, in turn, the downstream NF-␬B and AP-1 transcription
+factors and results in up-regulation of immune-responsive genes (2).
+The TRIF-dependent branch of signaling leads to the activation of
+another group of transcription factors, the IRF family, and results
+in a boost of expression of IFNs and other genes.
+TLRs are double-edged swords because abnormal activation of
+their signaling can be deleterious. Thus, it is not surprising that a
+distinct group of TLR-activated genes is involved in modulation of
+www.pnas.org兾cgi兾doi兾10.1073兾pnas.0605298103
+
+TLR signal transduction by interfering with upstream signaling
+pathways. Several classes of negative regulators of the TLR system
+have been described in the past: soluble decoy receptors (sTLR2兾
+4), cell-surface transmembrane receptors (ST2, SIGRR, and
+TRAILR), and numerous intracellular proteins: IRAK-M, suppressor of cytokine signaling 1 (SOCS1), MyD88 short (MyD88s),
+inhibitor of NF-␬B (I␬B), and A20 (3).
+MicroRNAs (miRNAs) are an evolutionarily conserved class of
+endogenous ⬇22-nt noncoding RNAs involved in posttranscriptional gene repression (4–6). In animals, miRNAs are processed
+from long primary transcripts [pri-miRNAs (pri-miR)] through an
+⬇60-bp hairpin precursor step [pre-miRNAs (pre-miR)] into the
+mature forms by sequential cutting with two RNase III enzymes,
+Drosha and Dicer (7, 8). Mature miRNAs are then loaded onto the
+ribonucleoprotein complex dubbed RISC (RNA-induced silencing
+complex), where they guide the recognition and translational
+repression or degradation of target mRNAs. pri-miRNAs are
+transcribed by RNA polymerase II and thus are subject to regulation by the assortment of transcription factors in the cell (9–11).
+Whereas some miRNAs are widely expressed, others exhibit only
+limited developmental stage-, tissue-, or cell type-specific patterns
+(12). In mammals, miRNAs have been associated with diverse
+biological processes, such as cell differentiation (13–15), cancer
+(16–18), regulation of insulin secretion (19), and viral infection (20,
+21). Studies in plants have shown that miRNAs can be involved in
+responses to a variety of environmental stresses (22–25). However,
+understanding of the regulation and function of the bulk of miRNA
+genes await further investigation.
+To examine the potential involvement of miRNAs in regulation of the innate immune response, we analyzed expression of
+200 miRNAs after exposure of THP-1 cells to LPS. We show that
+production of mature forms for several of them (miR-146a兾b,
+miR-132, and miR-155) is induced, and we provide here a
+detailed profile of expression of one miRNA family from this
+group (miR-146a兾b) in response to various microbial components and proinflammatory mediators. Promoter analysis of the
+miR-146a gene revealed that NF-␬B plays a critical role in
+induction of its transcription by LPS, TNF␣, and IL-1␤. In
+addition, we have determined that TRAF6 and IRAK1 represent potential molecular targets of miR-146 through experiments
+with 3⬘ UTR luciferase reporters. These findings suggest that
+miR-146a兾b may function as novel negative regulators that help
+to fine-tune the immune response.
+Conflict of interest statement: No conflicts declared.
+Abbreviations: miRNA, microRNA; pre-miR, precursor miRNA; pri-miR, primary miRNA; TLR,
+Toll-like receptor; TRAF6, TNF receptor-associated factor 6; IRAK1, IL-1 receptor-associated
+kinase 1; qPCR, quantitative RT-PCR.
+Data deposition: The sequence reported in this paper has been deposited in the GenBank
+database (accession no. DQ658414).
+*K.D.T. and M.P.B. contributed equally to this work.
+†To whom correspondence may be addressed at: California Institute of Technology, 1200
+
+East California Boulevard, 204 Parsons-Gates, M兾C 204-31, Pasadena, CA 91125. E-mail:
+baltimo@caltech.edu.
+© 2006 by The National Academy of Sciences of the USA
+
+PNAS 兩 August 15, 2006 兩 vol. 103 兩 no. 33 兩 12481–12486
+
+IMMUNOLOGY
+
+Contributed by David Baltimore, June 23, 2006
+
+Fig. 1. miRNA miR-146a is an immediate early-response gene induced by various microbial components and proinflammatory mediators. (A) Microarray analysis
+of miRNA expression in THP-1 cells after stimulation with LPS (E. coli strain 055:B5). The scatter plot shows averaged (n ⫽ 4) background-subtracted raw intensities
+for each probe on both channels for Cy3-labeled control and Cy5-labeled 8-h LPS-treated samples. Each dot represents one miRNA probe. (B) Kinetics of miR-146a
+up-regulation by LPS. THP-1 cells were stimulated with LPS for the indicated times, and miR-146 expression was analyzed by qPCR and normalized by using 5S
+RNA levels. (C) Northern blot analysis of miR-146a兾b expression. Indicated human cell lines were treated with LPS (E. coli strain 055:B5) for 8 h and probed with
+DNA oligonucleotides complementary to mature miR-146a (Top) and miR-146b (Middle). To assess the specificity of the probes, we used total RNA from 293 cells
+transiently transfected with pcDNA3 vector or expression plasmids for either pre-miR-146a or pre-miR-146b (marked as C, A, and B, respectively). (The faint bands
+in the lanes probed for miR-146b are cross-reactions with mirR-146a bands; the dark band in lane 6 represents miR-146b.) The membrane was reprobed for miR-16
+as a loading control (Bottom). Radiolabeled RNA decade marker was used as a molecular weight reference. (D) Analysis of miR-146 expression in response to
+a panel of innate immunity ligands. THP-1 cells were stimulated with the indicated stimuli for 8 h. miR-146 expression was analyzed by qPCR and normalized
+by using 5S RNA levels.
+
+Results
+To identify miRNA genes whose expression might be regulated by
+innate immunity receptors, we analyzed the expression profile of
+the human acute monocytic leukemia cell line THP-1 using a DNA
+microarray containing 200 oligonucleotide probes complementary
+to mature forms of miRNAs of human, mouse, and rat origin. After
+an LPS challenge, the array revealed up-regulation in the expression
+of the miR-146, miR-155, and miR-132 genes (Fig. 1A). This result
+was validated by quantitative RT-PCR (qPCR) analysis of levels of
+miR-146, miR-155, and miR-132 in LPS-stimulated THP-1 cells
+using primers that recognize their respective mature forms (data
+not shown). miR-146 was chosen for detailed analysis in the present
+study.
+The rapid induction of miR-146 in response to LPS, as shown by
+qPCR, suggested that miR-146 might be an LPS primary-response
+gene (Fig. 1B). Its expression reached a plateau ⬇8 h after LPS
+challenge.
+12482 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0605298103
+
+The human genome contains two miR-146 genes [miR-146a (26)
+and miR-146b (27)] on chromosomes 5 and 10, respectively, and
+their mature products differ only by 2 nt in the 3⬘ region (Fig. 4,
+which is published as supporting information on the PNAS web
+site). To study them individually using qPCR proved difficult
+because primers were unable to distinguish between the mature
+species (data not shown). Thus, we resorted to Northern blot
+analysis using DNA oligonucleotide probes complementary to the
+mature sequences. Hybridization of total RNA from 293兾IL1R兾
+MD2兾TLR4 cells expressing either pre-miR-146a or pre-miR-146b
+under the control of the CMV promoter confirmed the ability of the
+probes to discriminate between the two miR-146 isoforms (Fig. 1C,
+lanes 5–7). Northern blot analysis of miR-146a expression in two
+human cell lines of myeloid origin (THP-1 and HL-60) has shown
+that it is strongly induced after 8 h of LPS treatment (Fig. 1C Top,
+lanes 1–4). By this method, miR-146b could not be detected before
+or after induction (Middle). As a control, miR-16 was not affected
+by LPS (Bottom). Levels of LPS-induced miR-146a comparable to
+Taganov et al.
+
+IMMUNOLOGY
+
+Fig. 2. miR-146a is an NF-␬B-dependent gene. (A) Schematic diagrams of miR-146a (Upper) and miR-146b (Lower) genomic loci on human chromosomes 5 and
+10, respectively. Putative binding sites of NF-␬B (black), IRF3兾7 (gray), and C兾EBP␤ (white, partially overlaps with IRF3兾7) transcriptional factors are shown as
+boxes. Genomic regions indicated by bars above the miR-146a locus were analyzed in promoter luciferase reporter assay (C). Mutations, disrupting transcription
+factor binding introduced in the A547 construct, are indicated by X, and the sequences of mutated sites are shown under the locus diagram. (B) Northern blot
+analysis of pri-miR-146a and pri-miR-146b expression in the THP-1 cell line. Cells were starved for 24 h and then stimulated with LPS for 8 h. Northern blots were
+hybridized with radiolabeled pre-miR-146a or pre-miR-146b probes, respectively. ␤-Actin (Northern blot) and 18S rRNA (methylene blue staining) levels are
+shown as loading controls. (C) miR-146a promoter analysis. Promoter constructs containing genomic fragments of miR-146a locus were transfected into the
+293兾IL-1R兾TLR4兾MD2 cell line. Cells were stimulated with TNF␣ (white bars), IL-1␤ (gray bars), or LPS (black bars) for 8 h and analyzed by luciferase reporter assay.
+Promoter regions used in this experiment are depicted schematically in A.
+
+that in THP-1 were observed in several other cell lines of myeloid
+origin, e.g., human U937, Mono-Mac-6, and mouse WEHI-3 (data
+not shown). At the same time, human B cell lines Ramos, Bjab, and
+Namalwa showed no increase in mature miR-146a levels in response to LPS (data not shown).
+LPS signals through TLR4 (28), a member of the Toll family of
+pattern-recognition receptors, which consists of 10 members in
+humans (29). We investigated whether miR-146a兾b expression
+might be regulated by other TLRs as well as the proinflammatory
+cytokines IL-1␤ and TNF␣. Ultrapure LPS (from Escherichia coli
+strain K12 and Salmonella minnesota) consistently produced lower
+levels of miR-146 up-regulation than did crude preparations of LPS
+(Fig. 1D), suggesting that other components of the bacterial cell wall
+in crude preparations of LPS might contribute to miR-146 induction. Indeed, we found that miR-146 expression was significantly
+induced after exposure of THP-1 cells to peptidoglycan and its
+synthetic analog, Pam3CSK4, both of which trigger TLR2 signaling
+Taganov et al.
+
+(Fig. 1D). Peptidoglycan is characteristic of both Gram-negative
+and Gram-positive bacteria but is highly enriched in the bacterial
+cell wall of the latter. Treatment of THP-1 cells with flagellin, a
+major component of the bacterial flagellar filament and agonist of
+the TLR5 receptor, also resulted in increased miR-146 expression
+(Fig. 1D). In contrast, stimulation of TLR3, TLR7, and TLR9 by
+their respective agonistic ligands did not affect miR-146 expression
+(Fig. 1D). Proinflammatory cytokines TNF␣ and IL-1␤ produced
+modest increases in miR-146 levels in THP-1 cells, whereas treatment with CD40L or with the phorbol myristyl acetate兾ionomycin
+combination showed no effect.
+Human miR-146a resides in the LOC285628 gene on human
+chromosome 5. Analysis of the two ESTs encompassing
+LOC285628 (GenBank accession nos. BQ430527 and BQ425371)
+suggests that the gene consists of two exons separated by ⬇16 kb of
+genomic sequence, with the mature miR-146a sequence situated in
+the second exon (Fig. 2A). Notably, the LOC285628 transcript
+PNAS 兩 August 15, 2006 兩 vol. 103 兩 no. 33 兩 12483
+
+Fig. 3. IRAK1 and TRAF6 may be molecular targets of
+miR-146 posttranscriptional repression. Shown is a sequence alignment of miR-146a and its target sites in 3⬘
+UTRs of TRAF6 (A) and IRAK1 (B). Also shown is an
+analysis of expression of TRAF6-UTR (A) and IRAK1UTR (B) luciferase reporters in the presence of miR146a兾b or the irrelevant control miR-21. Filled bars
+correspond to reporter constructs with wild-type miR146 targeting sites, and open bars correspond to constructs with 4-nt substitutions disrupting base-pairing
+with the ‘‘seed region’’ of miR-146. In IRAK1-UTR-mut
+both miR-146-binding sites were mutated as shown.
+
+contains no significant ORF, implying that it probably belongs to a
+class of noncoding RNAs. Using the 3⬘- and 5⬘-RACE technique we
+confirmed the two-exon structure of the miR-146a primary transcript (pri-miR146a). However, we noticed that its previous characterization was incomplete, and its full length is, in fact, 2,337 bp.
+Human miR-146b is located on chromosome 10, yet its sequence
+is not included in any of the previously cloned ESTs. Our 5⬘-RACE
+results indicate that its transcript consists of only one exon with the
+transcription start site located ⬇700 bp upstream of the mature
+miR-146b sequence (Fig. 2 A).
+To determine the effect of LPS on pri-miR-146a expression, we
+analyzed total RNA from LPS-stimulated and control THP-1 cells
+by Northern blot with a probe corresponding to pre-miR146a. We
+found that whereas the basal level of pri-miR-146a expression is
+undetectable in untreated cells, exposure of THP-1 cells to LPS for
+8 h resulted in the appearance of four distinct bands. Two of these
+bands were of high molecular weight (⬎9 kb), probably corresponding to unspliced miR-146a transcripts, whereas one of the lower
+bands with the calculated size of 2.3 kb exactly matched the size of
+pri-miR-146a determined by our RACE experiments (Fig. 2B).
+Analysis of the same RNAs from THP-1 cells with a pre-miR-146b
+probe revealed that the primary transcript of this miRNA is also
+inducible by LPS despite our inability to visualize its mature form.
+To understand the pathway by which pri-miR-146a was induced
+by LPS, we first characterized the miR-146a promoter region using
+the Genomatix MatInspector software package, focusing on those
+transcription factors that are common to TLR4, IL-1␤, and TNF␣
+signaling. A scan of 1.5 kb of genomic sequence located upstream
+of the predicted pri-miR-146a start site identified three putative
+NF-␬B (30) and two IRF3兾IRF7 consensus binding sites (31) (Fig.
+2 A). One of the identified IRF3兾7 sites overlaps with the site for
+C兾EBP␤ (NF-IL6) (32). We examined the role of the predicted
+transcriptional binding sites in induction of miR-146a expression by
+generating a series of miR-146a promoter constructs (Fig. 2 A) and
+testing them in a luciferase reporter assay. As shown in Fig. 2C, a
+miR-146a promoter is found in the upstream 550 bp, and its LPS
+responsiveness is totally dependent on the NF-␬B binding sites.
+Activation of the miR-146a promoter construct by TNF␣ and IL-1␤
+was also impaired by mutations in these sites (Fig. 2C). In contrast,
+we found no role for the IRF3兾7 site because mutations of the site
+had no effect on induction of the luciferase reporter (Fig. 2C).
+12484 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0605298103
+
+To study the functional consequences of miR-146 induction by
+LPS we searched for predicted mRNA target sites. 3⬘ UTRs of
+mRNAs encoding IRAK1, TRAF6, and COT兾Tpl2兾MAP3K8
+proteins were found to contain miR-146 target sequences by several
+prediction algorithms (33–36). Whereas COT兾Tpl2兾MAP3K8
+mRNA had only one miR-146 target sequence, TRAF6 and
+IRAK1 mRNAs contained multiple sites (Fig. 5, which is published
+as supporting information on the PNAS web site). IRAK1 and
+TRAF6 are key adapter molecules in TLR and IL-1 receptor
+signaling cascades, mediating activation of NF-␬B and AP-1 pathways. COT兾Tpl2 is a serine兾threonine protein kinase that is
+essential for ERK activation downstream of TLRs IL-1 and TNF
+receptors (37).
+To test the possibility that expression of these three miR-146a兾b
+target genes is regulated posttranscriptionally by miR-146, we
+generated reporter constructs that contain the firefly luciferase
+gene fused to ⬇500 bp of the 3⬘ UTRs from IRAK1, TRAF6, and
+COT1 mRNAs containing putative miR-146 target sites (IRAK1UTR, TRAF6-UTR, and COT1-UTR, respectively) (Fig. 5). These
+reporter constructs were transiently transfected into 293 cells
+together with an expression plasmid for either miR-146a or miR146b under the control of the CMV promoter. We observed a
+marked reduction in luciferase levels in cells coexpressing miR-146a
+together with IRAK1-UTR and TRAF6-UTR (Fig. 3A). In contrast, no changes in COT1-UTR reporter plasmid expression were
+observed in the presence of miR-146a. We also found that miR146b is capable of repressing the IRAK1-UTR and TRAF6-UTR
+reporter constructs despite having a 2-nt difference from miR-146a
+at its 3⬘ end. Specificity of the miR-146a兾b effect on IRAK1-UTR
+and TRAF6-UTR reporters was suggested by the lack of change of
+their levels of expression in the presence of an irrelevant miRNA,
+miR-21. Moreover, mutation of 4 nt in the miR-146a兾b target
+sequences led to a complete abrogation of the negative effect of
+these miRNAs on expression of IRAK1-UTR and TRAF6-UTR
+reporter constructs (Fig. 3). These data suggest that the IRAK1 and
+TRAF6 genes are targets for posttranscriptional repression by
+miR-146a兾b in vivo.
+Discussion
+An appropriate innate immune response is required to defend an
+organism against various pathogens, but if induced either too
+Taganov et al.
+
+Taganov et al.
+
+regulation of the miR-146 genes, which, upon processing, could
+down-regulate levels of IRAK1 and TRAF6 proteins, reducing the
+activity of the pathway. It is noteworthy that in this scenario the
+TRIF-dependent, antiviral pathway induced by TLR4 and others
+will remain intact. In agreement with current knowledge on the
+miRNA mode of inhibition, it seems likely that miR-146 regulatory
+circuit fine-tunes TLR and cytokine signaling, rather than totally
+abrogating the signal. Loss of function and overexpression studies
+in cell culture as well as in animal models will help to identify the
+exact role for miR-146 in immune and inflammatory responses.
+Thorough analysis of the regulatory mechanisms maintaining the
+balance of TLR signaling can identify key pathway molecules and
+contribute to rational target selection for therapeutic intervention.
+Materials and Methods
+Reagents. Peptidoglycan (E. coli strain 0111:B4), CpG oligonucleotide type C, synthetic bacterial lipoprotein Pam3CSK4,
+ultrapure LPS (S. minnesota and E. coli strain K12), poly(I:C),
+recombinant f lagellin (Salmonella typhimurium), and imiquimod-R837 were purchased from InvivoGen (San Diego, CA).
+LPS (E. coli 055:B5) and phorbol myristyl acetate were obtained
+from Sigma (St. Louis, MO), and ionomycin was from Calbiochem (La Jolla, CA). Recombinant human IL-1␤ was purchased
+from Cell Sciences (Canton, MA), human CD40L was from R &
+D Systems (Minneapolis, MN), and human TNF␣ was from
+Biosource International (Camarillo, CA).
+miRNA Microarray Analysis. THP-1 cells were stimulated with 1
+
+␮g兾ml LPS from E. coli strain 055:B5 for 8 h, and total RNA
+samples were isolated by using the mirVana RNA Isolation kit
+(Ambion, Austin, TX) according to the manufacturer’s protocol.
+Forty micrograms of total RNA was enriched for small RNA
+species, tailed by using the mirVana miRNA Labeling kit (Ambion), and fluorescently labeled by using amine-reactive Cy3 and
+Cy5 dyes (Amersham Pharmacia, Piscataway, NJ). The fluorescently labeled RNAs from control (Cy3-labeled) and LPS-treated
+(Cy5-labeled) cells were mixed and hybridized for 14 h with miRNA
+array slides. Microarrays were prepared by robotic spotting of DNA
+oligonucleotide probes complementary to 200 miR sequences
+(mirVana miRNA Probe Set, Ambion) on epoxy-coated slides
+(Schott Nexterion, Louisville, KY) in quadruplicate. The microarrays were washed as recommended by the manufacturer and
+scanned by using the GenePix 4200 fluorescent scanner.
+Cell Culture, RNA Isolation, and miRNA Quantitative PCR. THP-1,
+
+U937, HL-60, and WEHI-3 were obtained from American Type
+Culture Collection (Manassas, VA). 293兾IL-1R兾MD2兾TLR4 cells
+were a kind gift from X. Li (Cleveland Clinic Foundation, Cleveland, OH). BJAB cells were provided by E. Kieff (Harvard
+University, Boston, MA). Mono-Mac-6 cells were obtained from
+the German Collection of Microorganisms and Cell Cultures
+(Braunschweig, Germany). THP-1, U937, HL-60, BJAB, and
+WEHI-3 cells were grown in RPMI medium 1640 supplemented
+with 10% FBS, 1⫻ nonessential amino acids, 100 units兾ml penicillin, 100 units兾ml streptomycin, and 2 mM glutamine in a humidified incubator containing 5% CO2 at 37°C. 293 IL-1R兾MD2兾
+TLR4 cells were maintained in DMEM supplemented with 10%
+FBS, 100 units兾ml penicillin, 100 units兾ml streptomycin, and 2 mM
+glutamine. Twenty-four hours before stimulation, 1 ⫻ 106 cells were
+plated in RPMI medium 1640 containing 0.5% FBS. To analyze
+miRNA expression, cells were treated for 8 h with the following
+stimuli: 100 ng兾ml LPS (E. coli 055:B5), 100 ng兾ml Pam3CSK4, 10
+␮g兾ml peptidoglycan, 5 ␮M CpG oligonucleotide type C, 10 ␮g兾ml
+ultrapure LPS (from S. minnesota and E. coli strain K12), 25 ␮g兾ml
+poly(I:C), 100 ng兾ml recombinant flagellin (S. typhimurium), 5
+␮g兾ml imiquimod-R837, 10 ng兾ml human TNF␣, 10 ng兾ml human
+IL-1␤, 300 ng兾ml human CD-40L, and 50 ng兾ml phorbol myristyl
+acetate in combination with 1 ␮M ionomycin. Total RNA was
+PNAS 兩 August 15, 2006 兩 vol. 103 兩 no. 33 兩 12485
+
+IMMUNOLOGY
+
+strongly or for too long the response can be harmful, causing the
+pathological manifestations of both acute and chronic inflammatory disorders. Thus, cells of the immune system must employ a
+multilayered control system to keep innate immunity and inflammation in check. Although some of these negative regulation
+mechanisms have been uncovered in the past (3), we are probably
+far from unveiling the last of them. Here we report the discovery
+of a potentially new class of TLR and cytokine receptor signaling
+regulators: miRNAs.
+We have identified by means of expression profiling several
+miRNA genes, namely miR-146a兾b, miR-132, and miR-155, which
+are induced in the human monocytic cell line THP-1 by LPS, as well
+as other microbial components and proinflammatory mediators.
+Through promoter studies we have determined that LPS-mediated
+elevation of miR-146a expression occurs in an NF-␬B-dependent
+manner. Finally, we have identified IRAK1 and TRAF6 as target
+genes of miR-146 posttranslational repression, suggesting a novel
+mechanism of negative feedback regulation of TLR and cytokine
+receptor signaling.
+Induction of miR-146a兾b by the TLR system displays a suggestive
+pattern: TLRs that recognize bacterial constituents and reside on
+the cell surface (1, 38) (like TLR2, TLR4, and TLR5) trigger
+miR-146a兾b induction; those TLRs that mainly sense viral nucleic
+acids and localize intracellularly (1, 38) (TLR3, TLR7, and TLR9)
+have little effect on miR-146a兾b expression.
+The dual occurrence of miR-146 found in humans is not evolutionarily conserved. Search of the miRNA registry (release 7.1) (39)
+reveals that the chicken and fish genomes also have two copies of
+miR-146 but that rodents possess only one (Fig. 4). All miR-146
+species that have been cloned differ by only 1 or 2 nt at their 3⬘ end,
+a region that is believed to play only a compensatory role in the
+target recognition mechanism (33). It will be interesting to determine whether these minor variations in miR-146a and miR-146b
+sequences affect their target specificity and physiological role or
+whether these two genes have redundant functions and are only
+differentially regulated at the transcriptional and transcript processing levels.
+The results from computational miRNA target prediction algorithms included many more potential targets than we tested, but the
+TRAF6 and IRAK1 genes yielded particularly high scores. Thus,
+miR-146, like many mammalian miRNAs, may target a wide
+spectrum of gene targets, suggesting that it could be involved in
+regulation of multiple independent physiological processes. It is
+noteworthy that miR-146 already has been implicated in a number
+of cellular processes (14, 40, 41), and it will be important to
+determine whether all of them converge on TRAF6 and IRAK1
+and perhaps a few other targets.
+It has been reported that miR-146a expression might be involved
+in cell fate determination in mouse lymphocytes, because its level
+is substantially increased in T helper 1 cells and decreased in T
+helper 2 cells relative to its expression in naı̈ve T cells (14). T helper
+1 differentiation and secretion of IFN␥ by this T cell subset are
+controlled primarily by the synergistic action of the IL-12 and IL-18
+cytokines (42), thus suggesting a possible explanation for the
+elevated levels of miR-146a in T helper 1 cells. IL-18 receptor
+triggers NF-␬B signaling among other pathways and employs
+TRAF6 and IRAK1 for its activation (43). On the other hand,
+miR-146a transcription might also be regulated by the STAT family,
+which mediates IL-12 effects in T cells (42).
+Although the inflammatory response is valuable for dealing with
+pathogens, it takes a toll on the body and, if unregulated, can lead
+to serious disease. Thus, understanding the negative regulators of
+the response is critically important. Most of the studied attenuating
+mechanisms of inflammation involve negative transcriptional feedback loops, like the proteins I␬B and A20 (3). We can now add
+miRNAs to the list of potential negative regulators of inflammation.
+This is a feedback system whereby bacterial components induce
+NF-␬B through a MyD88-dependent pathway, resulting in up-
+
+isolated by using the mirVana miRNA Isolation kit (Ambion).
+miRNA expression was measured and quantified by using the
+mirVana qRT-PCR miRNA Detection Kit (Ambion) or by TaqMan MicroRNA Assays (Applied Biosystems, Foster City, CA)
+according to the manufacturers’ protocol and normalized by 5S
+rRNA levels.
+Northern Blot Analysis and Cloning of miR-146a兾b Primary Transcripts.
+
+Cells were starved for 24 h before stimulation in RPMI medium
+1640 containing 0.5% FBS and then stimulated with LPS for 8 h.
+Total RNA was isolated from cells by using the mirVana miRNA
+Isolation kit (Ambion) or TRI-reagent (Molecular Research Center, Cincinnati, OH). For detection of mature miRNA species, 20
+␮g of total RNA was loaded on 12% polyacrylamide denaturing gel
+along with ␥-32P-labeled Decade Marker (Ambion) and transferred
+to GeneScreenPlus membrane (PerkinElmer, Boston, MA) by
+electrotransfer using semidry Transblot apparatus (Bio-Rad, Hercules, CA). Membranes were hybridized in ULTRAhyb-Oligo
+solution (Ambion) as recommended by the manufacturer using
+␥-32P-labeled DNA oligonucleotide probes complementary to mature forms of tested miRNAs. For pri-miR-146a兾b detection, 15 ␮g
+of total RNA was separated on 1.2% formaldehyde-containing
+agarose gel and transferred to GeneScreenPlus membrane by
+capillary transfer. Hybridizations were performed in ULTRAhyb
+solution (Ambion) with probes corresponding to pre-miR-146a兾b.
+The probes were ␣-32P-labeled with the HexaLabel DNA Labeling
+Kit (Fermentas, Hanover, MD). To determine the sequence of
+pri-miR-146a兾b, we carried out 3⬘- and 5⬘-RACE using the
+SMART RACE cDNA amplification kit (CLONTECH, Mountain
+View, CA) according to the manufacturer’s instructions.
+
+bp) corresponding to pre-miR-146a兾b isoforms and pre-miR-21
+were amplified from human genomic DNA and cloned into expression vector pcDNA3 (Invitrogen, Carlsbad, CA). When transfected into 293兾IL-1R兾TLR4兾MD2 cells, these constructs produce
+mature miRNA, as assessed by Northern blot and qPCR. For
+promoter luciferase reporter assays, 293兾IL-1R兾TLR4兾MD2 cells
+were plated at 105 cells per well in 24-well dishes and transfected
+24 h later by the calcium phosphate method. Each transfection
+reaction contained 100 ng of miR-146a promoter fragment in
+pGL3-basic vector (Promega, Madison, WI) and 200 ng of pcDNA3
+as carrier. For normalization of transfection efficiency and extract
+recovery, all samples included 10 ng of the pCSK-lacZ vector, which
+constitutively expresses ␤-galactosidase and is unaffected by NF␬B. Luciferase and ␤-galactosidase activities were measured as
+described elsewhere (44). To create 3⬘ UTR luciferase reporter
+constructs, fragments (⬇500 bp) of 3⬘ UTRs of IRAK1, TRAF6,
+and COT1 genes were cloned downstream of CMV-driven firefly
+luciferase cassette in pMIR-REPORT vector (Ambion). Mutated
+versions of these constructs, carrying 4-bp substitutions in the
+miR-146 target sites, were obtained by site-directed mutagenesis.
+For miRNA target validation studies, 105 293兾IL-1R兾TLR4兾MD2
+cells in a 24-well dish were transiently transfected with 10 ng of each
+firefly luciferase reporter plasmid, 10 ng of pCSK-lacZ vector, and
+300 ng of cmv-146A, cmv-146B, or cmv-21.
+
+146A, cmv-146B, and cmv-21 vectors, genomic fragments (⬇300
+
+We thank Joel Pomerantz for the critical reading of the manuscript and
+Jose Luis Riechmann, Vijaya Rao, Jaclyn Shingara, and David Brown for
+help with microarray work. This work was supported by National
+Institutes of Health Grant GM039458 and by the Millard and Muriel
+Jacobs Genetics and Genomics Laboratory at the California Institute of
+Technology. K.-J.C. was supported by Taiwan Merit Scholarship TMS094-1-A-026.
+
+1. Akira, S., Uematsu, S. & Takeuchi, O. (2006) Cell 124, 783–801.
+2. Akira, S. & Takeda, K. (2004) Nat. Rev. Immunol. 4, 499–511.
+3. Liew, F. Y., Xu, D., Brint, E. K. & O’Neill, L. A. (2005) Nat. Rev. Immunol. 5,
+446–458.
+4. Bartel, D. P. (2004) Cell 116, 281–297.
+5. Ambros, V. (2004) Nature 431, 350–355.
+6. Farh, K. K., Grimson, A., Jan, C., Lewis, B. P., Johnston, W. K., Lim, L. P., Burge,
+C. B. & Bartel, D. P. (2005) Science 310, 1817–1821.
+7. Gregory, R. I., Yan, K. P., Amuthan, G., Chendrimada, T., Doratotaj, B., Cooch,
+N. & Shiekhattar, R. (2004) Nature 432, 235–240.
+8. Chendrimada, T. P., Gregory, R. I., Kumaraswamy, E., Norman, J., Cooch, N.,
+Nishikura, K. & Shiekhattar, R. (2005) Nature 436, 740–744.
+9. Lee, Y., Kim, M., Han, J., Yeom, K. H., Lee, S., Baek, S. H. & Kim, V. N. (2004)
+EMBO J. 23, 4051–4060.
+10. Fazi, F., Rosa, A., Fatica, A., Gelmetti, V., De Marchis, M. L., Nervi, C. &
+Bozzoni, I. (2005) Cell 123, 819–831.
+11. O’Donnell, K. A., Wentzel, E. A., Zeller, K. I., Dang, C. V. & Mendell, J. T. (2005)
+Nature 435, 839–843.
+12. Pasquinelli, A. E., Hunter, S. & Bracht, J. (2005) Curr. Opin. Genet. Dev. 15,
+200–205.
+13. Chen, C. Z., Li, L., Lodish, H. F. & Bartel, D. P. (2004) Science 303, 83–86.
+14. Monticelli, S., Ansel, K. M., Xiao, C., Socci, N. D., Krichevsky, A. M., Thai, T. H.,
+Rajewsky, N., Marks, D. S., Sander, C., Rajewsky, K., et al. (2005) Genome Biol.
+6, R71.
+15. Esau, C., Kang, X., Peralta, E., Hanson, E., Marcusson, E. G., Ravichandran,
+L. V., Sun, Y., Koo, S., Perera, R. J., Jain, R., et al. (2004) J. Biol. Chem. 279,
+52361–52365.
+16. Calin, G. A., Sevignani, C., Dumitru, C. D., Hyslop, T., Noch, E., Yendamuri, S.,
+Shimizu, M., Rattan, S., Bullrich, F., Negrini, M. & Croce, C. M. (2004) Proc. Natl.
+Acad. Sci. USA 101, 2999–3004.
+17. Lu, J., Getz, G., Miska, E. A., Alvarez-Saavedra, E., Lamb, J., Peck, D.,
+Sweet-Cordero, A., Ebert, B. L., Mak, R. H., Ferrando, A. A., et al. (2005) Nature
+435, 834–838.
+18. He, L., Thomson, J. M., Hemann, M. T., Hernando-Monge, E., Mu, D., Goodson,
+S., Powers, S., Cordon-Cardo, C., Lowe, S. W., Hannon, G. J. & Hammond, S. M.
+(2005) Nature 435, 828–833.
+19. Poy, M. N., Eliasson, L., Krutzfeldt, J., Kuwajima, S., Ma, X., Macdonald, P. E.,
+Pfeffer, S., Tuschl, T., Rajewsky, N., Rorsman, P. & Stoffel, M. (2004) Nature 432,
+226–230.
+20. Lecellier, C. H., Dunoyer, P., Arar, K., Lehmann-Che, J., Eyquem, S., Himber,
+C., Saib, A. & Voinnet, O. (2005) Science 308, 557–560.
+
+21. Sullivan, C. S. & Ganem, D. (2005) Mol. Cell 20, 3–7.
+22. Jones-Rhoades, M. W. & Bartel, D. P. (2004) Mol. Cell 14, 787–799.
+23. Sunkar, R. & Zhu, J. K. (2004) Plant Cell 16, 2001–2019.
+24. Achard, P., Herr, A., Baulcombe, D. C. & Harberd, N. P. (2004) Development
+(Cambridge, U.K.) 131, 3357–3365.
+25. Navarro, L., Dunoyer, P., Jay, F., Arnold, B., Dharmasiri, N., Estelle, M., Voinnet,
+O. & Jones, J. D. (2006) Science 312, 436–439.
+26. Cai, X., Lu, S., Zhang, Z., Gonzalez, C. M., Damania, B. & Cullen, B. R. (2005)
+Proc. Natl. Acad. Sci. USA 102, 5570–5575.
+27. Bentwich, I., Avniel, A., Karov, Y., Aharonov, R., Gilad, S., Barad, O., Barzilai,
+A., Einat, P., Einav, U., Meiri, E., et al. (2005) Nat. Genet. 37, 766–770.
+28. Poltorak, A., He, X., Smirnova, I., Liu, M. Y., Van Huffel, C., Du, X., Birdwell,
+D., Alejos, E., Silva, M., Galanos, C., et al. (1998) Science 282, 2085–2088.
+29. Takeda, K., Kaisho, T. & Akira, S. (2003) Annu. Rev. Immunol. 21, 335–376.
+30. Ghosh, S., May, M. J. & Kopp, E. B. (1998) Annu. Rev. Immunol. 16, 225–260.
+31. Lin, R., Genin, P., Mamane, Y. & Hiscott, J. (2000) Mol. Cell. Biol. 20, 6342–6353.
+32. Akira, S., Isshiki, H., Sugita, T., Tanabe, O., Kinoshita, S., Nishio, Y., Nakajima,
+T., Hirano, T. & Kishimoto, T. (1990) EMBO J. 9, 1897–1906.
+33. Lewis, B. P., Shih, I. H., Jones-Rhoades, M. W., Bartel, D. P. & Burge, C. B.
+(2003) Cell 115, 787–798.
+34. John, B., Enright, A. J., Aravin, A., Tuschl, T., Sander, C. & Marks, D. S. (2004)
+PLoS Biol. 2, e363.
+35. Griffiths-Jones, S., Grocock, R. J., van Dongen, S., Bateman, A. & Enright, A. J.
+(2006) Nucleic Acids Res. 34, D140–D144.
+36. Krek, A., Grun, D., Poy, M. N., Wolf, R., Rosenberg, L., Epstein, E. J.,
+MacMenamin, P., da Piedade, I., Gunsalus, K. C., Stoffel, M. & Rajewsky, N.
+(2005) Nat. Genet. 37, 495–500.
+37. Dumitru, C. D., Ceci, J. D., Tsatsanis, C., Kontoyiannis, D., Stamatakis, K., Lin,
+J. H., Patriotis, C., Jenkins, N. A., Copeland, N. G., Kollias, G. & Tsichlis, P. N.
+(2000) Cell 103, 1071–1083.
+38. Iwasaki, A. & Medzhitov, R. (2004) Nat. Immunol. 5, 987–995.
+39. Griffiths-Jones, S. (2004) Nucleic Acids Res. 32, D109–D111.
+40. He, H., Jazdzewski, K., Li, W., Liyanarachchi, S., Nagy, R., Volinia, S., Calin,
+G. A., Liu, C. G., Franssila, K., Suster, S., et al. (2005) Proc. Natl. Acad. Sci. USA
+102, 19075–19080.
+41. Calin, G. A., Ferracin, M., Cimmino, A., Di Leva, G., Shimizu, M., Wojcik, S. E.,
+Iorio, M. V., Visone, R., Sever, N. I., Fabbri, M., et al. (2005) N. Engl. J. Med. 353,
+1793–1801.
+42. Murphy, K. M. & Reiner, S. L. (2002) Nat. Rev. Immunol. 2, 933–944.
+43. Dinarello, C. A. & Fantuzzi, G. (2003) J. Infect. Dis. 187, Suppl. 2, S370–S384.
+44. Pomerantz, J. L., Denny, E. M. & Baltimore, D. (2002) EMBO J. 21, 5184–5194.
+
+Promoter and 3ⴕ UTR Luciferase Reporter Assays. To create cmv-
+
+12486 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0605298103
+
+Taganov et al.
+
+

@@ -1,0 +1,1059 @@
+Research Article
+
+1673
+
+miR-132 regulates the differentiation of dopamine
+neurons by directly targeting Nurr1 expression
+Dehua Yang1,2,*, Ting Li1,*, Yi Wang1, Yuanjia Tang1, Huijuan Cui1, Yu Tang1, Xiaojie Zhang1, Degui Chen3,
+Nan Shen1 and Weidong Le1,2,4,`
+1
+Key Laboratory of Stem Cell Biology, Institute of Health Sciences, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences,
+Shanghai Jiao Tong University School of Medicine, 225 South Chongqing Road, Shanghai, 200025, China
+2
+Institute of Neurology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, 197 Rui Jin Er Road, Shanghai 200025, China
+3
+Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 320 Yue Yang Road,
+Shanghai, 200031, China
+4
+Department of Neurology, Baylor College of Medicine, 6501 Fannin St., NB320, Houston, Texas 77030, USA
+
+*These authors contributed equally to this work
+`
+Author for correspondence (weidongl@bcm.edu)
+
+Journal of Cell Science
+
+Accepted 21 November 2011
+Journal of Cell Science 125, 1673–1682
+ 2012. Published by The Company of Biologists Ltd
+doi: 10.1242/jcs.086421
+
+Summary
+Although it is well established that embryonic stem (ES) cells have the potential to differentiate into dopamine neurons, the molecular
+basis of this process, particularly the role of microRNAs (miRNAs), remains largely unknown. Here we report that miR-132 plays a key
+role in the differentiation of dopamine neurons by directly regulating the expression of Nurr1 (also known as nuclear receptor subfamily
+4 group A member 2; Nr4a2). We constructed a mouse ES cell line CGR8, which stably expresses GFP under the tyrosine hydroxylase
+(TH) promoter, so the TH-positive neurons could be easily sorted using fluorescence-activated cell sorting (FACS). Then, we performed
+a miRNA array analysis on the purified TH-positive neurons and found that 45 of 585 miRNAs had more than a fivefold change in
+expression level during dopamine neuron differentiation. Among the 45 miRNAs, we were particularly interested in miR-132 because
+this miRNA has been reported to be highly expressed in neurons and to have a potential role in neurodegenerative diseases. We found
+that the direct downregulation of endogenous miR-132 induced by miR-132 antisense oligonucleotide (miR-132-ASO) promoted the
+differentiation of TH-positive neurons, whereas ectopic expression of miR-132 in ES cells reduced the number of differentiated THpositive neurons but did not change the total number of differentiated neurons. Furthermore, we identified that miR-132-ASO could
+substantially reverse the miR-132-mediated suppression of TH-positive neuron differentiation. Moreover, through a bioinformatics
+assay we identified the Nurr1 gene as a potential molecular target of miR-132. Using a luciferase-reporter assay and western blot
+analysis, we demonstrated that miR-132 could directly regulate the expression of Nurr1. Collectively, our data provide the first evidence
+that miR-132 is an important molecule regulating ES cell differentiation into dopamine neurons by directly targeting Nurr1 gene
+expression.
+Key words: Embryonic stem cell, MicroRNA, miR-132, Nurr1, Dopamine neuron
+
+Introduction
+Dopamine neurons are present in many regions in the central
+nervous system with the largest population in the midbrain, and
+they play important roles in motor function, emotional behavior,
+natural motivation and reward (Bjorklund and Dunnett, 2007).
+Midbrain dopamine neuron degeneration is a hallmark of
+Parkinson’s disease (PD) (Weidong et al., 2009). Thus, an indepth examination of the molecular pathways underlying
+dopamine neuron development is crucial for understanding the
+pathogenesis of PD and for testing the potential of stem cell
+therapy for this disease. Embryonic stem (ES) cells are
+pluripotent cells that can be induced to differentiate into all
+cell types of an organism and that have the potential to be used
+in cell replacement therapy (Roy et al., 2006). ES cell
+differentiation in vitro provides a powerful research tool for the
+genetic profiling of dopamine neuron development and cell
+biology. In recent years, several laboratories have investigated
+the mechanism of differentiation of ES cells to dopamine neurons
+and have identified a few regulatory factors that influence the
+emergence of dopamine neurons during ES cell differentiation
+
+(Prakash and Wurst, 2006). However, the molecular mechanisms
+underlying the dopamine neuron differentiation process are still
+largely unknown. Furthermore, emerging evidence shows that
+noncoding RNAs, including microRNAs (miRNAs), which form
+part of the post-transcriptional machinery, have an important role
+in modulating mRNA decay and translation rates in eukaryotes
+(Lim et al., 2003). The combination of these diverse regulatory
+processes on protein expression and activity allows for a wide
+range of cellular responses to changes in the local environment.
+miRNAs are a class of small, noncoding RNAs of 21–23
+nucleotides that regulate gene expression at the posttranscriptional level by binding to the mRNA of protein coding
+genes (Du and Zamore, 2007). Specifically, the ‘seed’ region
+of a miRNA (centered on nucleotides 2–7) binds to the 39
+untranslated region (UTR) or the open reading frame (ORF) of
+target mRNAs by Watson–Crick complementary base pairing
+(Yekta et al., 2004). Subsequently, these target mRNAs are most
+commonly repressed by Argonaute-catalyzed cleavage and/or
+destabilization. miRNAs play important roles in many cellular
+processes, including stem cell differentiation and maintenance,
+
+Journal of Cell Science
+
+1674
+
+Journal of Cell Science 125 (7)
+
+and neural lineage specification (Hatfield et al., 2005; Houbaviy
+et al., 2003; Judson et al., 2009). However, there have been only
+a few studies on the specific miRNAs expressed in ES-celldifferentiated dopamine neurons (Kim et al., 2007; Leucht et al.,
+2008). This information is crucial because miRNAs could be
+potential key regulators of dopamine neuron differentiation
+(Hebert and De Strooper, 2007; Leucht et al., 2008). In fact,
+miRNA-deficient mice, such as those with Dicer deletions, display
+considerable impairment in dopamine neuron differentiation,
+oligodendrocyte differentiation and myelin formation (Hebert
+and De Strooper, 2007; Kawase-Koga et al., 2009; Leucht et al.,
+2008; Shin et al., 2009).
+To identify miRNAs specifically expressed in dopamine
+neurons and determine their roles in neuronal differentiation, we
+stably transfected mouse ES cell line CGR8 with a tyrosine
+hydroxylase (TH)-promoter-driven GFP reporter, and purified THpositive cells from the stably transfected ES cells using
+fluorescence-activated cell sorting (FACS). We then examined
+the miRNA profiles of the FACS-purified TH-positive cells, the
+TH-negative cells and neural progenitors using an ABI TaqMan
+probe. The miRNAs with the largest changes in expression levels
+in the differentiated TH-positive cells as compared with THnegative cells and neuronal progenitor cells were selected, and
+among them we identified miR-132 as a previously unknown
+regulator in dopamine neuron differentiation. Using bioinformatics
+and molecular biological analysis, we demonstrated that miR-132
+can directly regulate the expression of Nurr1, which is one of the
+most important transcription factors in determining dopamine
+neuron development and differentiation (Jankovic et al., 2005;
+Saucedo-Cardenas et al., 1998). Furthermore, we documented the
+interaction between Nurr1, brain-derived neurotrophic factor
+(BDNF) and miR-132 in the differentiating dopamine neurons.
+Results
+Derivation of dopamine neurons from mouse ES cells
+stably transfected with TH-GFP reporter
+
+To better obtain stably differentiated dopamine neurons from ES
+cells, we modified the stromal cell-derived inducing activity
+(SDIA) method by plating the ES-cell-derived embryoid bodies
+
+(EBs) onto PA6 cells. Using our modified SDIA method we
+found that almost all the clones showed TH-positive dopamine
+neurons after 14 days of differentiation (Fig. 1A–D).
+For the selection of ES cells stably integrating the TH–GFP
+sequence, we used two steps to identify clones expressing both
+TH and GFP. First, after transiently transfecting the plasmids into
+CGR8 cells and culturing for 14 days with the antibiotic G418,
+we selected 50 G418-resistant clones for analysis of GFP
+integration by genomic DNA PCR. Of the 50 clones selected,
+31 clones integrated GFP, and of these, we selected the 10 clones
+with the highest GFP. We then expanded these 10 clones and
+differentiated them into dopamine neurons by co-culturing them
+with PA6 cells for 13 days. Using immunocytochemistry and
+GFP fluorescence, we selected clone no. 48 which had the
+highest level of TH–GFP co-expression (Fig. 2) for further study.
+miRNA profiles of GFP-positive cells, GFP-negative cells
+and neural progenitor cells
+
+FACS analysis was employed to further characterize clone no.
+48. Following in vitro differentiation for 13 days, the clone cells
+were sorted by FACS, and more than 90% of the resulting cells
+were GFP-positive (Fig. 3A). FACS analysis showed that the
+dopamine neuron differentiation from clone no. 48 contained a
+significantly higher number of GFP-positive cells [4.1%60.4%
+(n53)].
+To confirm the gene expression of dopamine-related markers
+in the GFP-positive dopamine neurons, GFP-negative cells and
+neural progenitor cells, we extracted total RNAs from these cells
+and analyzed the mRNA expression using real-time PCR. Fig. 3B
+shows that the TH gene expression was dramatically upregulated
+in the GFP-positive cells, confirming that TH is co-expressed
+with GFP. In addition to TH expression, the other important
+dopamine-related genes, including those for Nurr1, Pitx3, BDNF
+and GDNF, were all significantly (P,0.01) upregulated in GFPpositive cells by approximately 14-, 4-, 14- and 4-fold,
+respectively (Fig. 3C–F). Nurr1 protein expression also showed
+the same increase as the mRNA (supplementary material Fig.
+S5). We then detected the expression of nestin, a marker of neural
+stem cells, which was found to be highly expressed in neural
+
+Fig. 1. A schematic of the experimental procedure for dopamine neuronal differentiation and miRNA profiling, and phase-contrast and fluorescence
+images of cells at different stages of dopamine neuron differentiation in mouse ES cells. Top: experimental procedure. (A) Mouse ES cells (CGR8 cell line)
+maintained in the presence of LIF. (B) Day 0: ES cells were dissociated from a gelatin-coated dish. Initial differentiation was induced by the formation of EBs
+for 4 days, followed by neural induction by co-culturing with PA6 cells. (C) Days 4–8: nestin-positive (red) neural progenitors appeared. (D) Days 8–14:
+dopamine neurons developed that were stained with TH (red) and MAP2 (green). We selected the GFP-positive cells, GFP-negative cells and neural progenitors
+to analyze the miRNA profiles. Scale bars: 100 mm.
+
+miR-132 and dopamine neuron differentiation
+
+1675
+
+Journal of Cell Science
+
+Fig. 2. Evaluation of TH–GFP constructs in
+mouse ES cells during in vitro differentiation. We
+evaluated G418-resistant clones by in vitro
+differentiation and immunocytochemistry. The
+staining of the five 9-kb TH–GFP clones (12, 24, 30
+42 and 48) showed that TH–GFP 48 had the most
+overlap (,70% overlap) in GFP fluorescence (green)
+and TH staining (red). TH–GFP 48-1 showed
+dopamine neuron differentiation at higher cell
+density, whereas TH-GFP48-2 showed differentiation
+at lower cell density. All differentiation experiments
+were performed twice. Scale bar: 100 mm.
+
+progenitor cells (supplementary material Fig. S3). We also
+replated the sorted GFP-positive cells into cell culture flasks and
+observed the GFP expression using fluorescent microscopy,
+which showed that more than 90% of the cells were GFP positive
+(Fig. 3A).
+Using the TaqMan Low Density Assay v2.0 (Applied
+Biosystems), we assayed the miRNA expression profiles of the
+FACS sorted GFP-positive cells, GFP-negative cells and neural
+progenitor cells. Of the 585 mouse miRNAs, 45 showed a more
+than fivefold increase in expression in the GFP-positive cells
+compared with GFP-negative cells and/or neural progenitor cells.
+Among the 45 miRNAs, 17 miRNAs including miR-132 have
+been reported to be expressed in the central nervous system
+(Chen et al., 2010; Junn et al., 2009; Kim et al., 2007; Leucht
+
+et al., 2008; Schratt et al., 2006; Sempere et al., 2004; Shioya
+et al., 2010; Smrt et al., 2010; Zhao, C. et al., 2010) and they have
+been known to function in neural proliferation, differentiation or
+protection (Table 1). We then verified the change of miR-132
+expression by real-time PCR amplification and found that the
+miR-132 expression in TH-positive cells was approximately
+tenfold and fivefold greater than in GFP-negative cells and neural
+progenitor cells, respectively, which was consistent with the
+miRNA expression profiles determined by the TaqMan Low
+Density Assay (Fig. 4A). In addition, using the standard curve
+based on the chemical synthesis of miR-132 (supplementary
+material Fig. S1), we measured the absolute levels of the mature
+miR-132 in GFP-positive cells, GFP-negative cells and neural
+progenitor cells, which were 0.13 fmol, 0.034 fmol and 0.023
+
+Fig. 3. Identification of the FACS-sorted GFP-positive cells. TH-GFP48 cells were differentiated for 13 days, and then dissociated and sorted by FACS.
+(A) More than 90% of the sorted cells were GFP positive (GFP+) under the fluorescence microscope, following replating of cells in a 24-well plate. (B–F) We
+detected the expression of genes of dopamine neuron-related markers by real-time PCR. The gene expression of TH (B), Nurr1 (C), Pitx3 (D), BDNF (E) and
+GDNF (F) was significantly upregulated in the GFP-positive cells (GFP+) compared with neural progenitors (NP), GFP-negative cells (GFP–) and the unsorted
+cells (Mix) after 14 days of differentiation in vitro. All real-time PCR experiments were performed three times in duplicate. *P,0.01. Scale bar: 100 mm.
+
+1676
+
+Journal of Cell Science 125 (7)
+
+Table 1. The relative expression of a sample of miRNAs
+based on the miRNA profiles of the three different cell types
+microRNAs
+
+Journal of Cell Science
+
+mmu-let-7a*
+mmu-let-7b
+mmu-miR-10a
+mmu-miR-124
+mmu-miR-128a
+mmu-miR-132
+mmu-miR-133b
+mmu-miR-137
+mmu-miR-21
+mmu-miR-214
+mmu-miR-218
+mmu-miR-29a
+mmu-miR-29b
+mmu-miR-302a
+mmu-miR-302b
+mmu-miR-7a
+mmu-miR-9
+SnoRNA429
+SnoRNA202
+
+GFP positive
+
+GFP negative
+
+Neural progenitor
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+1.00
+0.84
+0.16
+0.15
+0.19
+0.09
+0.04
+0.02
+0.31
+1.22
+0.23
+0.64
+0.33
+0.86
+2.66
+1.62
+0.29
+1.00
+1.00
+
+10.00
+5.14
+0.04
+0.07
+0.13
+0.21
+0.07
+0.09
+5.59
+5.22
+0.09
+7.51
+7.00
+6.72
+11.69
+9.85
+0.13
+0.99
+1.01
+
+fmol per 2 mg total RNA, respectively. Therefore, the absolute
+levels of miR-132 in GFP-positive cells was more than fivefold
+higher than in neural progenitor cells. We therefore selected miR132 for further investigation.
+Examination of the roles of miR-132 in dopamine neuron
+differentiation
+
+To identify the function of miR-132 in dopamine neuron
+differentiation, we transiently transfected miR-132 mimics into
+the TH-GFP-expressing ES cells on day 5 of differentiation. Three
+days after transfection, we found that miR-132 mimics suppressed
+dopamine neuron differentiation, compared with control mimics
+(Fig. 4C; supplementary material Fig. S4B). The number of
+dopamine neurons in the miR-132-transfected cells was also
+significantly (P,0.05) lower than in control cells even after 14
+days of differentiation. We then transfected synthesized miR-132-
+
+ASO to further verify the effect of downregulation of endogenous
+miR-132 on the differentiation of dopamine neurons. The specific
+inhibition of miR-132-ASO on the expression of miR-132 is
+shown in (supplementary material Fig. S2). As shown in
+(Fig. 4B,C; supplementary material Fig. S4A), addition of miR132-ASO to the cultures significantly (P,0.05) promoted the
+differentiation of dopamine neurons from ES cells.
+Over-expressing miR-132 in ES cells reduces the
+differentiation of dopamine neurons whereas miR-132ASO partially reverses this effect
+
+To further determine the effect of miR-132 on the differentiation of
+dopamine neurons, we cloned the miR-132 precursor into
+pPyCAGIP and made stably transfected ES cells. By RT-PCR, we
+identified three clones that highly expressed miR-132 (Fig. 5A). We
+then induced differentiation of these three clones into dopamine
+neurons by co-culturing them with PA6 cells and detected the GFP
+fluorescence under a fluorescence microscope after 9 and 10 days of
+differentiation. As shown in (Fig. 5B), miR-132 strongly inhibited
+GFP expression compared with the stable clones expressing the
+empty vector. Furthermore, after the miR-132-expressing clones had
+differentiated for 13 days, the expression of TH and MAP2, detected
+by immunocytochemistry, showed a dramatic decrease in THpositive cells in miR-132-expressing clones compared with control
+clones; however, there was no difference in the total number of
+MAP2-positive neurons (Fig. 5C; supplementary material Fig.
+S4C). In addition, we transiently transfected miR-132-ASO into
+miR-132-expressing cells after 6 days of differentiation. We found
+that application of miR-132-ASO could significantly (P,0.05)
+rescue the TH expression in miR-132 cells compared with negative
+control (Fig. 5C; supplementary material Fig. S4C).
+miR-132 directly downregulates Nurr1 protein expression
+
+To determine how miR-132 affects differentiation of dopamine
+neurons, we tried to identify the potential targets of miR-132
+through a bioinformatics search. Notably, the bioinformatics
+search identified Nurr1, the key transcription factor in dopamine
+neuron development, as a potential target of miR-132, and we
+Fig. 4. Transiently transfected miR-132 suppressed
+the intensity of GFP fluorescence, indicating the
+expression of the TH gene. (A) Relative expression of
+miR-132 in cultured ES cells. The expression of miR132 in GFP-positive (GFP+) cells was significantly
+higher than in GFP-negative (GFP–) cells, neural
+progenitors (NP) and unsorted cells (Mix), which was
+consistent with the result of ABI TaqMan-based
+miRNA profiles (Table 1). (B) By transiently
+transfecting miR-132-ASO and NC-ASO, miR-132
+mimics (miR-132) and negative control (NC) on day 5
+of in vitro differentiation, we found that miR-132ASO, the inhibitor of endogenous miR-132, promoted
+the differentiation of dopamine neurons (determined by
+immunocytochemistry of TH). (C) Overexpression of
+miR-132 substantially suppressed the GFP+ cell
+differentiation on days 8 and 14, as compared with the
+NC overexpression control; whereas transient
+transfection of miR-132-ASO could upregulate the
+proportion of GFP+ cells. All real-time PCR
+experiments were repeated three times in duplicate.
+The experiments for differentiation were performed
+twice (*P,0.01). Scale bars: 100 mm.
+
+Journal of Cell Science
+
+miR-132 and dopamine neuron differentiation
+
+1677
+
+Fig. 5. The stable expression of miR-132
+dramatically inhibited the appearance of THpositive cells, whereas miR-132-ASO
+partially rescued this inhibition. We
+transfected miR-132-expressing plasmid into ES
+cell clone no. 48 and selected the puromycinresistant clones after 2 weeks. (A) RT-PCR
+showed that four clones (miR-132A, miR-132B,
+miR-132C and miR-132D) stably expressed
+miR-132. Then we selected miR-132B, miR132C and miR-132D for further studies.
+(B) Compared with the empty-vectortransfected control (control), miR-132B, C and
+D repressed GFP fluorescence when the ES cells
+were differentiated for 9 and 10 days in vitro.
+(C) After differentiation for 13 days, we stained
+the cells for TH and MAP2, which showed a
+substantial decrease in the number of THpositive cells (green), whereas the MAP2positive neurons (red) were not affected. In
+addition, we transiently transfected the miR132-ASO into miR-132 -expressing cells (miR132C) on day 6 of cell differentiation. miR-132ASO could partially rescue the suppression of
+the differentiation of dopamine neurons by miR132. All experiments for differentiation and
+staining were performed twice. Scale bars:
+100 mm.
+
+found that the binding site of Nurr1 was conserved in several
+species (Fig. 6A). To test whether miR-132 directly targets the
+binding site of Nurr1, we inserted the sequence containing the
+miR-132-binding site downstream of the luciferase reporter
+vector and co-transfected with miR-132 into HEK-293T cells.
+Our result demonstrated that miR-132 significantly (P,0.01)
+decreased the luciferase activity of pGL-Nurr1-expressing cells
+but had no effect on an empty pGL3 construct, which lacked a
+miR-132-binding site (Fig. 6C). To avoid the interference of
+endogenous expression of Nurr1 in HEK-293T cells, we repeated
+the experiment using SK-N-SH, a neuroblastoma cell line in
+which no Nurr1 expression has been documented. This effect of
+miR-132 on Nurr1 in a luciferase assay could be replicated in
+SK-N-SH cells (Fig. 6E). To confirm the predicted target
+sequence of miR-132 binding to Nurr1, we mutagenized the
+two sites of the ‘seed’ sequence by replacing C and T with G and
+A, respectively (Fig. 6A, bold type). Notably, miR-132 failed to
+inhibit the luciferase activity of the mutagenized Nurr1 construct
+(Fig. 6D,F), indicating that the predicted sequence is indeed
+the binding site for miR-132. Furthermore, to confirm the
+downregulation of Nurr1 expression by miR-132, we used a fulllength Nurr1 cDNA vector. Transient transfection of miR-132
+and Nurr1 into HEK-293T cells substantially inhibited the
+expression of Nurr1 protein (Fig. 6B), which is consistent with
+the result of the luciferase reporter assay (Fig. 6C–F).
+The homeostatic interaction of Nurr1, BDNF and miR-132
+controls TH expression and dopamine neuron
+differentiation
+
+Previous studies have demonstrated that Nurr1 directly regulates
+BDNF and TH expression (Kim et al., 2003; Volpicelli et al.,
+
+2007), and BDNF directly regulates miR-132 expression (Klein
+et al., 2007; Schratt et al., 2006). To further explore the roles and
+molecular pathways of Nurr1, BDNF and miR-132 in dopamine
+neuron differentiation, we established dopamine neuron
+differentiation in feeder-dependent ES cells (R1) using a fivestep method (Lee et al., 2000) that required 10–15 days for
+differentiation of neural progenitor cells into dopamine neurons
+(Fig. 7A). From day 2 to day 14 of differentiation the expression
+patterns of Nurr1 and miR-132 were inversely related (Fig. 7D),
+but the expression patterns of BDNF and miR-132 were similar
+(Fig. 7E). The dopamine neurons differentiation of miR-132infected ES cells was significantly (P,0.05) less than in the ES
+cells infected with pLVX empty vector (Fig. 7B; supplementary
+material Fig. S4D), which agreed with the results in feeder-free
+ES cells. Nurr1 expression was downregulated by miR-132 but
+upregulated by miR-132-ASO (Fig. 7C). The lower panel of
+(Fig. 7C) show that miR-132 downregulated Nurr1 expression by
+35.5% and miR-132-ASO upregulated Nurr1 expression by 24%.
+We also found that the addition of BDNF to the cultures from day
+4 to day 8 of differentiation days elevated the expression of miR132 (Fig. 7F), which is consistent with the result of previous
+studies (Klein et al., 2007; Schratt et al., 2006). However, longer
+exposure to BDNF resulted in less change in miR-132 (Fig. 7F).
+By contrast, Nurr1 expression was downregulated from day 4
+to day 8 of differentiation and upregulated at day 10 of
+differentiation (Fig. 7F). These results suggest a the
+homeostatic interaction between Nurr1, BDNF and miR-132.
+Discussion
+The conditional knockout of Dicer has shown that miRNAs play
+essential roles in dopamine neuron differentiation (Kim et al.,
+
+Journal of Cell Science
+
+1678
+
+Journal of Cell Science 125 (7)
+
+Fig. 6. Validation of Nurr1 as a direct target of miR-132
+by bioinformatics, luciferase and western blot assays.
+(A) The binding site of Nurr1 and miR-132 showed that the
+‘seed’ sequence (bold vertical bar) is conserved in the five
+species. The G and A shown in bold type are the binding
+site of the mutant form of Nurr1 for miR-132, which was
+cloned into a luciferase vector. (B) Co-transfection of miR132 or NC and full-length Nurr1 cDNA into HEK-239T cell
+and analysis of protein expression by western blot assay
+after 48 hours demonstrated that miR-132 inhibited the
+expression of Nurr1 protein. (C–F) Luciferase-reporter
+assay in HEK-293T (C,D) and SK-N-SH (E,F) cells.
+(C,E) There was significant downregulation of the relative
+luciferase activity by miR-132 compared with NC.
+(D,F) The mutant miR-132 binding site of Nurr1 could not
+inhibit the luciferase activity. All experiments were
+performed three times in duplicate (*P,0.01).
+
+2007). Several studies have identified a negative feedback
+circuit of miR-133b and Pitx3, a crucial transcription factor in
+dopamine neuron development (Hebert and De Strooper, 2007).
+These studies have also suggested that other miRNAs, in
+addition to miR-133b, have a function in dopamine neuron
+differentiation, but little is known about them (Hebert and De
+Strooper, 2007; Kawase-Koga et al., 2009). To document the
+newly identified miRNAs in dopamine neuron differentiation,
+we constructed a TH-promoter-derived reporter system to
+establish purified dopamine neurons differentiated from ES
+cells, and obtain their miRNA profile. To our knowledge this
+study is the first to establish a miRNA profile from purified
+dopamine neurons. The overlay of TH staining and GFP
+fluorescence showed that approximately 70% of the GFPpositive cells are TH-expressing dopamine neurons, which is
+consistent with previous studies (Hedlund et al., 2007;
+Yoshizaki et al., 2004). The 9-kb fragment of the rat TH
+promoter, including intron sequences and a poly(A) tail, could
+efficiently drive GFP expression in dopamine neurons
+differentiated from ES cells. The lack of complete overlap of
+TH and GFP expression could be attributed to the size of the
+promoter fragment or the different half-lives of TH and GFP
+(Hedlund et al., 2007). However, the gene expression analysis of
+different dopamine markers, in conjunction with previous
+studies, indicates that the vast majority of sorted cells are of
+the dopamine lineage (Yoshizaki et al., 2004; Hedlund et al.,
+2007).
+The relative miRNA expression profiles of GFP-positive, GFPnegative and neural progenitor cells during differentiation
+
+process identified by TaqMan Low Density Assay and then
+confirmed by real-time PCR in our study identified several
+miRNAs, including miR-133b, miR-9 and miR-7, that have been
+reported to play a role in the central neural system, dopamine
+neuron development and differentiation, and have possible links
+to PD (Junn et al., 2009; Kim et al., 2007; Leucht et al., 2008).
+These results suggest that using purified dopamine neurons is of
+great value in the search for new miRNAs involved in dopamine
+neuron differentiation. We selected miR-132 for further study on
+the basis of a bioinformatics prediction, showing Nurr1, a crucial
+transcription factor for midbrain dopamine neuron development
+and differentiation (Kim et al., 2002; Kim et al., 2006; Luo et al.,
+2008), is a potential target of miR-132. miR-132 is necessary for
+BDNF-stimulated dendritic outgrowth (Wayman et al., 2008).
+Further characterization of miR-132 revealed that it can be
+induced by BDNF and it is able to modulate dendritic
+morphology through suppression of p250GTPase-activating
+protein (p250GAP) (Edbauer et al., 2010; Magill et al., 2010;
+Nudelman et al., 2010; Wayman et al., 2008). Additionally, it
+has been shown that miR-132 can regulate the expression of
+the methyl-CpG-binding protein (MeCP2), a key factor in
+neurodevelopment and neurological disease (Klein et al., 2007).
+These results further suggest an association of miR-132 with
+neurodevelopment and neurodegenerative diseases, such as PD.
+In our study, miR-132-ASO, which can inhibit the endogenous
+miR-132, promoted the differentiation of dopamine neurons,
+whereas over-expression of miR-132 dramatically repressed
+dopamine neuron differentiation without changing the total
+number of neurons. In addition, miR-132-ASO could partially
+
+Journal of Cell Science
+
+miR-132 and dopamine neuron differentiation
+
+1679
+
+Fig. 7. The homeostatic interaction of Nurr1, BDNF, miR-132 and TH. (A) Five-step method for dopamine neuron differentiation. Mouse ES cells (R1 cell
+line) were maintained in the presence of LIF; initial differentiation was induced by the formation of EBs for 4 days followed by neural progenitor selection for
+6–10 days by replating EBs and withdrawing serum; after amplification of neural progenitor for 4–6 days in the presence of bFGF, Shh and FGF8 (red: nestin),
+dopamine neurons were grown for 10–15 days and stained with TH (red) and MAP2 (green). (B,C) Overexpression of miR-132 by lentivirus infection
+dramatically inhibited the appearance of TH-positive cells [TH (red) and MAP2 (green)] by downregulating Nurr1 expression, whereas miR-132-ASO could
+upregulate Nurr1 expression. The lower panel of C shows the Nurr1/actin ratio determined from the western blot. We set the Nurr1/actin ratio of control (pLVX
+and Con-ASO) as 1. (D) The expression profile (from real-time PCR) of Nurr1 and miR-132 during dopamine neuron differentiation from day 2 to day 14. We set
+the value at day 2 as 1. (E) The expression of miR-132 and BDNF during the differentiation of dopamine neurons. The value of NP cells was set as 1. (F) In the
+process of dopamine neuron differentiation, BDNF were added to the medium every other day from day 4 to day 8. The results of real-time PCR showed the
+relative expression of Nurr1 and miR-132. The ratio of relative expression of Nurr1 and miR-132 with BDNF treatment and without BDNF treatment on the day 4
+was set at 1. All experiments for differentiation and staining were performed twice and western blots were performed three times. NP, neural progenitor; ND,
+neuron differentiation. Scale bars: 100 mm. *P,0.05, **P,0.01 and ***P,0.001. compared with the control group; ##P,0.01 and ###P,0.001 in F show the
+value on day 10 of differentiation compared with the value on day 8.
+
+rescue the miR-132-induced suppression of dopamine neuron
+differentiation, further supporting the specific suppression effects
+of miR-132 on dopamine neuron differentiation.
+The direct regulatory effect of miR-132 on the expression of
+Nurr1 was further confirmed by genetic modification of the
+binding site of miR-132. We found that the mutation totally
+abolished the regulatory effect of miR-132 on Nurr1. It is well
+documented that Nurr1 can regulate the expression of BDNF and
+promote the development and maintenance of dopamine neurons
+(Kim et al., 2003; Volpicelli et al., 2007), whereas BDNF can
+induce miR-132 expression (Klein et al., 2007; Schratt et al.,
+2006), suggesting a potential feedback loop for Nurr1 and miR132. We also found that in the process of dopamine neuron
+differentiation, the expression of Nurr1, BDNF and miR-132
+continuously changed; Nurr1 and miR-132 expression patterns
+were inversely related, whereas that of BDNF and miR-132 were
+similar. The addition of BDNF caused upregulation of miR-132
+and downregulation of Nurr1. Moreover, suppressing Nurr1
+expression by miR-132 inhibited the expression of BDNF and
+further lead to the downregulation of miR-132. This lead to a new
+equilibrium between Nurr1 and miR-132. Together with the
+previous studies on the direct regulation of BDNF expression by
+
+Nurr1 and miR-132 expression by BDNF, we propose a possible
+homeostatic interaction between Nurr1, BDNF, miR-132 and TH,
+although further investigation is required to validate this finding.
+Nurr1 is an orphan member of the nuclear hormone receptor
+superfamily of transcription factors. It is highly expressed in
+the ventral mesencephalon, which includes the mesencephalic
+dopamine neurons (Jankovic et al., 2005; Saucedo-Cardenas et al.,
+1998). The onset of Nurr1 expression in mesencephalic dopamine
+neurons is at E10.5 in the mouse, just prior to the expression of the
+dopamine markers TH and Pitx3 (E11.5) (Smidt et al., 2000), and
+expression continues into the adult stage (Weidong et al., 1999).
+Nurr1 is known to be essential for induction of the mesencephalic
+dopamine phenotype and for the survival and/or maintenance of
+these neurons (Kim et al., 2002; Kim et al., 2006; Luo et al., 2008).
+Recent studies showed that Nurr1 works in conjunction with Pitx3 to
+enhance the differentiation of ES cells into dopamine neurons
+(Jacobs et al., 2009; Martinat et al., 2006). In addition, Nurr1 is
+found to play a previously unexpected role in protecting these
+neurons from inflammation-induced neurotoxicity induced by
+lipopolysaccharide stimulation (Saijo et al., 2009). Interestingly,
+miR-132 could also be induced by lipopolysaccharide stimulation
+(Shaked et al., 2009). The direct effect of miR-132 on the production
+
+1680
+
+Journal of Cell Science 125 (7)
+
+of Nurr1 protein raises the possibility that miR-132 might be
+involved in inflammatory process of dopamine neuron degeneration
+in addition of its effect on dopamine neuron differentiation.
+In conclusion, we report here the miRNA profiles of purified
+dopamine neurons using the TH-promoter-derived GFP reporter
+system, and we provide the first evidence that miR-132 is an
+important molecule that negatively regulates dopamine neuron
+differentiation in ES cells by directly suppressing Nurr1
+expression. This finding will greatly enhance our understanding
+of the molecular mechanisms involved in dopamine neuron
+differentiation and shed new light on the generation of ES cells to
+be used in cell replacement therapy for PD and other neurological
+diseases involving dopamine neuron degeneration.
+Materials and Methods
+
+Journal of Cell Science
+
+Cell culture, transfection and differentiation
+
+All cell culture reagents and culture plastics were obtained from Gibco (Rockville,
+MD) and BD Biosciences (San Diego, CA), respectively, unless otherwise
+specified.
+The mouse feeder-independent ES cell line (CGR8, early passages 19–30) was
+obtained from Austin Smith (Centre for Genome Research, University of
+Edinburgh, UK) (Ying et al., 2003) and Ying Jin (Institute of Health Sciences,
+Shanghai Institutes for Biological Sciences, Chinese Academy of Science) and was
+cultured in gelatin-coated Petri dishes without feeder cells in Glasgow minimal
+essential medium (GMEM) supplemented with nonessential amino acids, Lglutamine, 2-mercaptoethanol, 10% ES cell-qualified fetal bovine serum (FBS)
+and leukemia inhibitory factor (LIF; 1:10,000 dilution; Chemicon, Temecula, CA)
+in a humidified 5% CO2 atmosphere at 37 ˚C. Cultures were maintained at 70%
+confluency to maintain an undifferentiated phenotype. Cells were passaged every 2
+days. Embryoid bodies (EBs) were formed in floating cultures at 2.56105/ml or in
+hanging drop cultures at 1000 cells/20 ml for 4 days with GMEM medium without
+LIF. For transient transfection of miRNA mimics, negative control (NC), miR132-ASO and NC-ASO, 150 nM of each chemical compound was transfected into
+ES cells using Lipofectamine 2000 (Invitrogen, Carlsbad, CA), according to the
+manufacturer’s instructions. For stable transfection of a miR-132-expressing
+plasmid, the vector was transiently transfected with Lipofectamine 2000 for 24
+hours and then selected using 1.5 mg/ml puromycin (Roche, Switzerland) for 2
+weeks. The single clones were picked and cultured for confirmation and further
+experiments.
+R1 mouse ES cells were cultured on mitomycin-C-treated mouse embryonic
+fibroblasts in Dulbecco’s modified Eagle’s medium supplemented with 15% FBS,
+2 mM L-glutamine, 0.1 mM non-essential amino acids, 100 IU/ml penicillin and
+streptomycin, 55 mM b-mercaptoethanol and LIF. The five-step method for
+dopamine neuron differentiation was performed as described previously (Lee et al.,
+2000). The method for transient transfection in R1 cells was same as for CGR8
+cells, which was performed on day 3 when neural prognitor cells began
+amplification in the presence of basic fibroblast growth factor (bFGF; R&D
+Systems, Minneapolis, MN). BDNF (50 ng/ml; R&D Systems) was added to the
+medium on day 4 of dopamine neuron differentiation.
+PA6 is a stromal cell line derived from newborn mouse calvariae. PA6 cells
+were purchased from Riken (Tsukuba, Japan) and maintained in PA6 culture
+medium [a-MEM supplemented with 50 IU/ml penicillin and 50 mg/ml
+streptomycin (PEST) and 10% FBS (Hyclone, Logan, UT)].
+SK-N-SH is a neuroblastoma cell line, which was purchased from the Cell Bank
+of the Chinese Academy of Science; cells were routinely cultured in DMEM
+supplemented with 10% FBS (Hyclone) and penicillin and streptomycin (PEST) at
+37 ˚C in a humidified atmosphere of 95% air and 5% CO2. When the cells reached
+80–90% confluency, they were subdivided into 24-well plates with 16105 cells/
+well for luciferase-reporter transfection and assay.
+HEK-293T cells were obtained from the Cell Bank at the Chinese Academy of
+Science. The cells were cultured in DMEM supplemented with 10% FBS and
+PEST at 37 ˚C in a 5% CO2 atmosphere. At ,60% confluency HEK-293T cells
+were transfected using Lipofectamine 2000 with varying concentrations of
+synthetic miRNA mimics, NC-mimics (all from Genepharma, Shanghai, China)
+and plasmids, according to standard protocols. They were collected at different
+time points after transfection for luciferase and western blot assays.
+CGR8 cells were differentiated using the stromal cell-derived inducing activity
+(SDIA) method, in which the cells were co-cultured with PA6 cells (Kawasaki
+et al., 2000). The classic SDIA method of directly plating the ES cells on PA6
+feeder cells did not produce consistent dopamine differentiation. We improved this
+method by plating the ES-cell-derived EBs on PA6 cells, which established a more
+stable differentiation and constant efficiency, as compared with the classic SDIA
+method. To differentiate ES cells in vitro, PA6 cells were plated on gelatin-coated
+culture dishes to make a uniform feeder monolayer 1 day before the addition of
+
+CGR8-cell-derived EBs. ES differentiation medium [GMEM supplemented with
+10% knockout serum replacement (KSR), 0.1 mM nonessential amino acids,
+1 mM sodium pyruvate, 0.1 mM 2-mercaptoethanol and PEST] was used in place
+of ES cell medium, and cells differentiated for 10 days. The culture medium was
+changed every other day. The efficiency of differentiation was examined using
+immunocytochemistry.
+Plasmid construction
+
+A Nurr1 protein expression vector was created by PCR cloning of Nurr1 cDNA
+using a two fragment ligation processes. Two PCR reactions were performed with
+the following primer sets: fragment 1: 59-GGCAAGCTTTTTGTCCTTCGCTGAATTACGA-39, 59-AGAACTGCTGGATATGTTGGGT-39; fragment 2: 59GTTGGGATGGTTAAAGAAGTGG-39, 59-GGCTCTAGAAAAGGCAGTGACTCATCTCATG-39. Then the fragments were cloned into pcDNA3.1 at the HindIII
+and BglII sites (Takara, Dalian, China). The expression vector of pre-miR-132 was
+constructed by amplification of the mouse genomic cDNA, with the following
+primer set: 59- GGCAGATCTCTCGGGCACGCCTGTTCA-39 and 59-GGCCTCGAGTGCCACCT CCGCAGACAC-39, and ligated into pPyCAGIP at the BglII
+and XhoI sites (Takara).
+The luciferase reporter vector containing the wild-type sequence and the miR132 binding site was amplified by the primer set 59-GCGGAATTCCGACATTTCTGCCTTCTCC-39, 59-GGACTGCAGAGTTTGTCAATTATTGCTGGTG-39, using mouse midbrain cDNA as template. The PCR fragment was cloned
+into the EcoRI and PstI sites (Takara) in the pGL3 luciferase vector (Promega,
+Madison, WI). The mutant sequence had two mutations in the ‘seed’ sequence of
+the miR-132 binding site, which is indicated in (Fig. 6A). We designed the primers
+59-CTACCTGTCTAAAGTGTAGGGGAAGCTGCCA-39 and 59-TGGCAGCTTCCCCTACACTTTAGACAGGTAG-39 and amplified the pGL3-miR-132 plasmid.
+Following overnight digestion with DpnI (Fermentas), the PCR products were
+transformed into Escherichia coli DH10B.
+All constructs were confirmed by DNA sequencing using an ABI 3730xl DNA
+Analyzers (Applied Biosystems, Foster City, CA).
+Lentivirus preparation
+
+A mouse genomic DNA fragment comprising miR-132 was amplified by PCR using
+the following primers set: 59-GGCGAATTCCTCGGGCACGCCTGTTCA-39; and
+59-GGCGGATCCTGCCACCTCCGCAGACAC-39. The amplified fragment was
+inserted into EcoRI and BamHI restriction enzyme sites of lentiviral vector pLVXEF1a-IRES-ZsGreen1.
+Sequencing-verified plasmid was then transfected into 90% confluent HEK293FT cells together with packaging plasmid psPAX2 (Addgene, Cambridge, MA)
+and envelope plasmid pMD2.G (Addgene; addgene.org) using the calcium
+phosphate transfection method. The supernatants containing virus were collected
+after 48 hours, then filtered through a 0.45 mm filter. Filtered supernatants were
+concentrated 100-fold with a PEG Virus Precipitation Kit (BioVison, Mountain
+View, CA) and resuspended in PBS, using the method of Tiscornia et al. (Tiscornia
+et al., 2006). For ES cells infection, 100 ml concentrated virus supplemented with
+10 mg/ml polybrene was used to infect ES cells. After an overnight incubation,
+supernatants were replaced with fresh culture medium.
+TH promoter engineered GFP-reporter ES cells, FACS, RNA isolation and
+real-time PCR
+
+The pTH-GFP construct containing the GFP reporter expressed under the 9-kb 59flanking region of the rat TH gene was a kind gift of Kazuto Kobayashi (Jomphe
+et al., 2005; Sawamoto et al., 2001; Yoshizaki et al., 2004) (Fukushima Medical
+University School of Medicine, Japan). The CGR8 ES cells were co-transfected
+with the pTH-GFP plasmid and pCDNA3.1-neo plasmid containing antibiotic
+resistant gene to obtain the stable transfection line. Stably transfected cells were
+selected on ES medium containing 750 mg/ml G418 (Roche). We screened a large
+number of independent, drug-resistant colonies (50 of the smaller-sized colonies of
+each construct) to isolate those exhibiting a consistent coexpression pattern of TH
+and GFP following in vitro differentiation on PA6 cells. A few clones that were
+only transfected with pcDNA3.1 were selected as NCs for GFP expression. After
+differentiation for 13 days on PA6, the clone that had the most overlap of GFP and
+TH was selected for expansion.
+Cells were differentiated for 13–14 days, harvested using 0.05% Trypsin–
+EDTA, gently dissociated into a single-cell suspension, and resuspended in a
+Mg2+- and Ca2+-free phosphate buffered-saline (PBS) solution containing PEST
+and 2% FBS. Final cell density was 16107/ml. Samples were filtered with a
+40 mm cell filter (Becton Dickinson, Franklin Lakes, NJ) and sorted immediately
+by BD FACSAria.
+After differentiation and FACS sorting, total RNAs from ES cell-derived neural
+progenitors, GFP-positive neurons and GFP-negative neurons were extracted using
+Trizol Reagent (Invitrogen), followed by treatment with DNaseI (Promega). cDNA
+was obtained using 2 mg of RNA in the ReverTra Ace first-strand synthesis system for
+RT-PCR (Toyobo, Japan). The resulting cDNA was used as a template for the PCR
+reactions. To reduce non-specific signals, primers for each gene were designed using
+the Primer Premier software (Oxford Molecular Ltd., Oxford, UK). We selected
+
+Journal of Cell Science
+
+miR-132 and dopamine neuron differentiation
+primer sets that yielded specific products without the presence of non-specific bands,
+as evaluated by gel electrophoresis. The following primer sets were chosen for
+semiquantitative RT-PCR and real time PCR analyses. b-actin: 59-GGCATTGTGATGGACTCCGG-39; 59-TGCCACAGGATTCCATACCC-39. TH: 59-AGTACTTTGTGCGCTTCGAGGTG-39; 59-CTTGGGAACCAGGGAACCTTG9. Pitx3:
+59-CTCTCTGAAGAAGAAGCAGCG-39; 59-CCGAGGGCACCATGGAGGCAGC-39. Nurr1: 59-GTGTTCAGGCGCAGTATGG-39; 59-TGGCAG TAATTTCAGTGTTGGT-39. BDNF: 59-TGTGGACCCTGAGTTCCACCAG-39; 59-CTGCCCTGGGCCCATTCACG-39. GDNF: 59-TGTGGACCCTGAGTTCCACCAG-39; 59CTGCCCTGGGCCCATTCACG-39. Pre-miR-132: 59-ACCGTGGCTTTCGATTGTTA-39; 59-GGCGACCATGGCTGTAGACT-39.
+For semiquantitative RT-PCR, PCR reactions were carried out with 16
+reaction buffer, 0.8 mM of each primer and 2.5 IU Taq DNA polymerase
+(Fermentas, Lithuania). Samples were amplified in a Thermocycler (Bio-Rad,
+Hercules, CA) under the following conditions: denaturing step at 95 ˚C for
+40 seconds; annealing step at 56–60 ˚C for 30 seconds; and amplification step at
+72 ˚C for 1 minute for 26–39 cycles. cDNA templates were normalized on the
+basis of the actin-specific signal, and PCR cycling was adjusted so that each
+primer set amplified its corresponding gene product at its detection threshold, to
+avoid saturation effects.
+We performed real-time PCR to quantify expression levels. PCR amplification
+was performed in a mixture of 16 real-time PCR Master Mix and 0.8 mM of each
+primer in a final volume of 50 ml. Thermocycling was conducted with an Opticon
+DNA Engine (Bio-Rad). Cycle threshold (Ct) values were determined using the
+Opticon Monitor 2 software and a manual fluorescence threshold for all runs, and
+data were exported into an Excel workbook for analysis.
+The PCR reactions consisted of 45 cycles using the following temperature
+profile: 95 ˚C for 30 seconds, 56–60 ˚C for 30 seconds, 72 ˚C for 30 seconds and
+79 ˚C for 5 seconds. The purity of each PCR product (defined as the presence of a
+single, specific band) was confirmed by gel electrophoresis. A standard curve was
+constructed using b-actin and plasmid DNA (102–107 molecules). The fluorescent
+signals from specific PCR products were normalized against that of the b-actin
+gene, and then relative values were calculated by setting the normalized value as
+one for each gene. Two independent samples were analyzed for each gene, and all
+reactions were repeated more than twice.
+For the real-time PCR measurement of mature miR-132 expression in GFPpositive cells, we used the commercial reverse transcription and PCR primer kit
+(RiboBio, Guangzhou, China). First, we established the standard curve of miR-132
+using synthesized miR-132 (supplementary material Fig. S1). Then we measured
+the Ct value of GFP-positive cells, primary ventral mesencephalon (VM) cultures,
+GFP-negative cells and neural progenitor cells by real-time PCR, and calculated
+the absolute levels of miR-132 according to the standard curve.
+miRNA profiling using the ABI qPCR system
+
+Total RNA was isolated using Trizol reagent (Invitrogen). RNA quality was
+assessed with an Agilent 2100 bioanalyzer (Agilent, Palo Alto, CA), and only
+samples with an RNA integrity number greater than eight were used. For the
+miRNA expression analysis, TaqMan Low Density Assay v2.0 (Applied
+Biosystems) was used to detect up to 585 mouse miRNAs using an Applied
+Biosystems real-time instrument, according to the manufacturer’s protocol.
+Normalization was performed with snoRNA202 and snoRNA429 as endogenous
+controls. Relative expression was calculated with the comparative Ct method
+(Zhao, X. et al., 2010).
+Dual luciferase reporter assay
+
+The wild-type and mutant sequences, containing miR-132 binding sites, were
+amplified and cloned into the 39 UTR region of the luciferase gene in the pGL3
+luciferase vector (Promega), according to methods described previously. The
+obtained construct was co-transfected with PRLSV40 and miR-132 mimics or NC
+mimics (Genepharma) into HEK-293T and SK-N-SH cells, as previously
+described. After 48 hours, luciferase activity was determined as the average of
+three independent assays using the Dual-Luciferase Reporter system (Promega),
+according to the manufacturer’s instructions.
+Western blotting
+
+Cells were harvested at different time points according to the experimental
+treatments and lysed for 20 minutes in freshly prepared ice-cold RIPA lysis buffer
+[50 mM Tris-HCl, pH 7.4; NaCl 150 mM; 1% NP40; 0.25% sodium deoxycholate;
+1 mM EDTA; 1 mM Na2VO4; 1 mM NaF; 1 mM phenylmethylsulfonyl fluoride
+(PMSF); aprotinin and leupeptin 5 mg/ml each]. Lysates were then centrifuged
+for 20 minutes at 16,000 g at 4 ˚C. After protein concentrations were measured
+using the Bradford method, 40 mg protein from each sample was loaded onto a
+12% polyacrylamide gel, transferred to a polyvinylidene difluoride membrane,
+blocked for 1 hour in 5% non-fat milk and incubated with primary antibodies
+[anti-Nurr1 (Santa Cruz, CA), anti-b-actin (Sigma, St. Louis, MO)] overnight at
+4 ˚C. After being washed with Tris-buffered saline and Tween 20 (TBST),
+samples were incubated with peroxidase-conjugated secondary antibodies. The
+immunoreactions were developed using Super SignalH West Dura Extended
+
+1681
+
+Duration Substrate (Pierce Biotechnology, Pittsburgh, PA), and the signal was
+quantified by measuring the optical density of the bands.
+Immunocytochemistry
+
+Cells were fixed in 4% formaldehyde for 30 minutes, rinsed with PBS, and then
+incubated with blocking buffer [5% normal horse serum (Vector Labs,
+Burlingame, CA)] for 30 minutes. Cells for immunofluorescent staining were
+then incubated overnight at 4 ˚C with rabbit anti-TH antibody (1:1000, Chemicon),
+mouse anti-microtubule-associated protein 2 (MAP2) antibody (1:1000, Sigma)
+and mouse anti-nestin (1:800, Chemicon). After being rinsed three more times in
+PBS, cells were incubated with Cy3-conjugated anti-rabbit antibody (1:800) and
+Cy2-conjugated anti-mouse antibody (1:400; The Jackson Laboratory, Bar Harbor,
+ME) for 2 hours at room temperature. After being rinsed for 36 10 minutes in
+PBS, cells were incubated with Hoechst for 20 minutes and examined under a
+fluorescence or confocal microscope.
+TH-, GFP- and MAP2-positive cells were counted in a ‘blind’ fashion in five
+random optical fields per coverslip by an unrelated investigator. Experiments were
+performed on two independent cell cultures.
+Statistical analysis
+
+All values are shown as means 6 s.e.m. Data were analyzed using one-way
+ANOVA followed by post-hoc LSD multiple comparisons or independent-samples
+t-test with the SPSS 13.0 program (SPSS). A P-value of ,0.05 was considered
+significant.
+
+Acknowledgements
+
+We thank Austin Smith for CGR8 cells, Kazuto Kobayashi for the
+pTH-GFP construct, Guangrui Luo and Yunlan Du for their technical
+assistance.
+Funding
+
+This work was supported by the National Basic Research Program of
+China [grant number 2007CB947904 and 2010CB945200 to W.L.];
+Chinese National Nature Science Foundation [grant number
+30970925 and 30730096 to W.L.]; and by the Program of
+Knowledge Innovation, Chinese Academy of Sciences [grant
+number KSCX2-YW-R-242 to W.L.].
+Supplementary material available online at
+http://jcs.biologists.org/lookup/suppl/doi:10.1242/jcs.086421/-/DC1
+
+References
+Björklund, A. and Dunnett, S. B. (2007). Dopamine neuron systems in the brain: an
+update. Trends Neurosci. 30, 194-202.
+Chen, H., Shalom-Feuerstein, R., Riley, J., Zhang, S. D., Tucci, P., Agostini, M.,
+Aberdam, D., Knight, R. A., Genchi, G., Nicotera, P. et al. (2010). miR-7 and miR214 are specifically expressed during neuroblastoma differentiation, cortical
+development and embryonic stem cells differentiation, and control neurite outgrowth
+in vitro. Biochem. Biophys. Res. Commun. 394, 921-927.
+Du, T. and Zamore, P. D. (2007). Beginning to understand microRNA function. Cell
+Res. 17, 661-663.
+Edbauer, D., Neilson, J. R., Foster, K. A., Wang, C. F., Seeburg, D. P., Batterton,
+M. N., Tada, T., Dolan, B. M., Sharp, P. A. and Sheng, M. (2010). Regulation of
+synaptic structure and function by FMRP-associated microRNAs miR-125b and miR132. Neuron 65, 373-384.
+Hatfield, S. D., Shcherbata, H. R., Fischer, K. A., Nakahara, K., Carthew, R. W.
+and Ruohola-Baker, H. (2005). Stem cell division is regulated by the microRNA
+pathway. Nature 435, 974-978.
+Hébert, S. S. and De Strooper, B. (2007). Molecular biology. miRNAs in
+neurodegeneration. Science 317, 1179-1180.
+Hedlund, E., Pruszak, J., Ferree, A., Viñuela, A., Hong, S., Isacson, O. and Kim,
+K. S. (2007). Selection of embryonic stem cell-derived enhanced green fluorescent
+protein-positive dopamine neurons using the tyrosine hydroxylase promoter is
+confounded by reporter gene expression in immature cell populations. Stem Cells 25,
+1126-1135.
+Houbaviy, H. B., Murray, M. F. and Sharp, P. A. (2003). Embryonic stem cellspecific MicroRNAs. Dev. Cell 5, 351-358.
+Jacobs, F. M., van Erp, S., van der Linden, A. J., von Oerthel, L., Burbach, J. P. and
+Smidt, M. P. (2009). Pitx3 potentiates Nurr1 in dopamine neuron terminal
+differentiation through release of SMRT-mediated repression. Development 136,
+531-540.
+Jankovic, J., Chen, S. and Le, W. D. (2005). The role of Nurr1 in the development of
+dopaminergic neurons and Parkinson’s disease. Prog. Neurobiol. 77, 128-138.
+Jomphe, C., Bourque, M. J., Fortin, G. D., St-Gelais, F., Okano, H., Kobayashi, K.
+and Trudeau, L. E. (2005). Use of TH-EGFP transgenic mice as a source of
+
+Journal of Cell Science
+
+1682
+
+Journal of Cell Science 125 (7)
+
+identified dopaminergic neurons for physiological studies in postnatal cell culture.
+J. Neurosci. Methods 146, 1-12.
+Judson, R. L., Babiarz, J. E., Venere, M. and Blelloch, R. (2009). Embryonic stem
+cell-specific microRNAs promote induced pluripotency. Nat. Biotechnol. 27, 459461.
+Junn, E., Lee, K. W., Jeong, B. S., Chan, T. W., Im, J. Y. and Mouradian, M. M.
+(2009). Repression of alpha-synuclein expression and toxicity by microRNA-7. Proc.
+Natl. Acad. Sci. USA 106, 13052-13057.
+Kawasaki, H., Mizuseki, K., Nishikawa, S., Kaneko, S., Kuwana, Y., Nakanishi, S.,
+Nishikawa, S. I. and Sasai, Y. (2000). Induction of midbrain dopaminergic neurons
+from ES cells by stromal cell-derived inducing activity. Neuron 28, 31-40.
+Kawase-Koga, Y., Otaegi, G. and Sun, T. (2009). Different timings of Dicer deletion
+affect neurogenesis and gliogenesis in the developing mouse central nervous system.
+Dev. Dyn. 238, 2800-2812.
+Kim, D. W., Chung, S., Hwang, M., Ferree, A., Tsai, H. C., Park, J. J., Chung, S.,
+Nam, T. S., Kang, U. J., Isacson, O. et al. (2006). Stromal cell-derived inducing
+activity, Nurr1, and signaling molecules synergistically induce dopaminergic neurons
+from mouse embryonic stem cells. Stem Cells 24, 557-567.
+Kim, J., Inoue, K., Ishii, J., Vanti, W. B., Voronov, S. V., Murchison, E., Hannon, G.
+and Abeliovich, A. (2007). A MicroRNA feedback circuit in midbrain dopamine
+neurons. Science 317, 1220-1224.
+Kim, J. H., Auerbach, J. M., Rodrı́guez-Gómez, J. A., Velasco, I., Gavin, D.,
+Lumelsky, N., Lee, S. H., Nguyen, J., Sánchez-Pernaute, R., Bankiewicz, K. et al.
+(2002). Dopamine neurons derived from embryonic stem cells function in an animal
+model of Parkinson’s disease. Nature 418, 50-56.
+Kim, K. S., Kim, C. H., Hwang, D. Y., Seo, H., Chung, S., Hong, S. J., Lim, J. K.,
+Anderson, T. and Isacson, O. (2003). Orphan nuclear receptor Nurr1 directly
+transactivates the promoter activity of the tyrosine hydroxylase gene in a cell-specific
+manner. J. Neurochem. 85, 622-634.
+Klein, M. E., Lioy, D. T., Ma, L., Impey, S., Mandel, G. and Goodman, R. H. (2007).
+Homeostatic regulation of MeCP2 expression by a CREB-induced microRNA. Nat.
+Neurosci. 10, 1513-1514.
+Lee, S. H., Lumelsky, N., Studer, L., Auerbach, J. M. and McKay, R. D. (2000).
+Efficient generation of midbrain and hindbrain neurons from mouse embryonic stem
+cells. Nat. Biotechnol. 18, 675-679.
+Leucht, C., Stigloher, C., Wizenmann, A., Klafke, R., Folchert, A. and Bally-Cuif,
+L. (2008). MicroRNA-9 directs late organizer activity of the midbrain-hindbrain
+boundary. Nat. Neurosci. 11, 641-648.
+Lim, L. P., Glasner, M. E., Yekta, S., Burge, C. B. and Bartel, D. P. (2003).
+Vertebrate microRNA genes. Science 299, 1540.
+Luo, G. R., Chen, Y., Li, X. P., Liu, T. X. and Le, W. D. (2008). Nr4a2 is essential for
+the differentiation of dopaminergic neurons during zebrafish embryogenesis. Mol.
+Cell. Neurosci. 39, 202-210.
+Magill, S. T., Cambronne, X. A., Luikart, B. W., Lioy, D. T., Leighton, B. H.,
+Westbrook, G. L., Mandel, G. and Goodman, R. H. (2010). microRNA-132
+regulates dendritic growth and arborization of newborn neurons in the adult
+hippocampus. Proc. Natl. Acad. Sci. USA 107, 20382-20387.
+Martinat, C., Bacci, J. J., Leete, T., Kim, J., Vanti, W. B., Newman, A. H., Cha,
+J. H., Gether, U., Wang, H. and Abeliovich, A. (2006). Cooperative transcription
+activation by Nurr1 and Pitx3 induces embryonic stem cell maturation to the midbrain
+dopamine neuron phenotype. Proc. Natl. Acad. Sci. USA 103, 2874-2879.
+Nudelman, A. S., DiRocco, D. P., Lambert, T. J., Garelick, M. G., Le, J., Nathanson,
+N. M. and Storm, D. R. (2010). Neuronal activity rapidly induces transcription of the
+CREB-regulated microRNA-132, in vivo. Hippocampus 20, 492-498.
+Prakash, N. and Wurst, W. (2006). Genetic networks controlling the development of
+midbrain dopaminergic neurons. J. Physiol. 575, 403-410.
+Roy, N. S., Cleren, C., Singh, S. K., Yang, L., Beal, M. F. and Goldman, S. A. (2006).
+Functional engraftment of human ES cell-derived dopaminergic neurons enriched by
+coculture with telomerase-immortalized midbrain astrocytes. Nat. Med. 12, 12591268.
+Saijo, K., Winner, B., Carson, C. T., Collier, J. G., Boyer, L., Rosenfeld, M. G.,
+Gage, F. H. and Glass, C. K. (2009). A Nurr1/CoREST pathway in microglia and
+astrocytes protects dopaminergic neurons from inflammation-induced death. Cell 137,
+47-59.
+
+Saucedo-Cardenas, O., Quintana-Hau, J. D., Le, W. D., Smidt, M. P., Cox, J. J., De
+Mayo, F., Burbach, J. P. and Conneely, O. M. (1998). Nurr1 is essential for the
+induction of the dopaminergic phenotype and the survival of ventral mesencephalic
+late dopaminergic precursor neurons. Proc. Natl. Acad. Sci. USA 95, 4013-4018.
+Sawamoto, K., Nakao, N., Kobayashi, K., Matsushita, N., Takahashi, H., Kakishita,
+K., Yamamoto, A., Yoshizaki, T., Terashima, T., Murakami, F. et al. (2001).
+Visualization, direct isolation, and transplantation of midbrain dopaminergic neurons.
+Proc. Natl. Acad. Sci. USA 98, 6423-6428.
+Schratt, G. M., Tuebing, F., Nigh, E. A., Kane, C. G., Sabatini, M. E., Kiebler, M.
+and Greenberg, M. E. (2006). A brain-specific microRNA regulates dendritic spine
+development. Nature 439, 283-289.
+Sempere, L. F., Freemantle, S., Pitha-Rowe, I., Moss, E., Dmitrovsky, E. and
+Ambros, V. (2004). Expression profiling of mammalian microRNAs uncovers a
+subset of brain-expressed microRNAs with possible roles in murine and human
+neuronal differentiation. Genome Biol. 5, R13.
+Shaked, I., Meerson, A., Wolf, Y., Avni, R., Greenberg, D., Gilboa-Geffen, A. and
+Soreq, H. (2009). MicroRNA-132 potentiates cholinergic anti-inflammatory signaling by targeting acetylcholinesterase. Immunity 31, 965-973.
+Shin, D., Shin, J. Y., McManus, M. T., Ptácek, L. J. and Fu, Y. H. (2009). Dicer
+ablation in oligodendrocytes provokes neuronal impairment in mice. Ann. Neurol. 66,
+843-857.
+Shioya, M., Obayashi, S., Tabunoki, H., Arima, K., Saito, Y., Ishida, T. and Satoh,
+J. (2010). Aberrant microRNA expression in the brains of neurodegenerative
+diseases: miR-29a decreased in Alzheimer disease brains targets neurone navigator 3.
+Neuropathol. Appl. Neurobiol. 36, 320-330.
+Smidt, M. P., Asbreuk, C. H., Cox, J. J., Chen, H., Johnson, R. L. and Burbach, J. P.
+(2000). A second independent pathway for development of mesencephalic
+dopaminergic neurons requires Lmx1b. Nat. Neurosci. 3, 337-341.
+Smrt, R. D., Szulwach, K. E., Pfeiffer, R. L., Li, X., Guo, W., Pathania, M., Teng,
+Z. Q., Luo, Y., Peng, J., Bordey, A. et al. (2010). MicroRNA miR-137 regulates
+neuronal maturation by targeting ubiquitin ligase mind bomb-1. Stem Cells 28, 10601070.
+Tiscornia, G., Singer, O. and Verma, I. M. (2006). Production and purification of
+lentiviral vectors. Nat. Protoc. 1, 241-245.
+Volpicelli, F., Caiazzo, M., Greco, D., Consales, C., Leone, L., Perrone-Capano, C.,
+Colucci D’Amato, L. and di Porzio, U. (2007). Bdnf gene is a downstream target of
+Nurr1 transcription factor in rat midbrain neurons in vitro. J. Neurochem. 102, 441453.
+Wayman, G. A., Davare, M., Ando, H., Fortin, D., Varlamova, O., Cheng, H. Y.,
+Marks, D., Obrietan, K., Soderling, T. R., Goodman, R. H. et al. (2008). An
+activity-regulated microRNA controls dendritic plasticity by down-regulating
+p250GAP. Proc. Natl. Acad. Sci. USA 105, 9093-9098.
+Weidong, L., Conneely, O. M., He, Y., Jankovic, J. and Appel, S. H. (1999). Reduced
+Nurr1 expression increases the vulnerability of mesencephalic dopamine neurons to
+MPTP-induced injury. J. Neurochem. 73, 2218-2221.
+Weidong, L., Chen, S. and Jankovic, J. (2009). Etiopathogenesis of Parkinson disease:
+a new beginning? Neuroscientist 15, 28-35.
+Yekta, S., Shih, I. H. and Bartel, D. P. (2004). MicroRNA-directed cleavage of
+HOXB8 mRNA. Science 304, 594-596.
+Ying, Q. L., Stavridis, M., Griffiths, D., Li, M. and Smith, A. (2003). Conversion of
+embryonic stem cells into neuroectodermal precursors in adherent monoculture. Nat.
+Biotechnol. 21, 183-186.
+Yoshizaki, T., Inaji, M., Kouike, H., Shimazaki, T., Sawamoto, K., Ando, K., Date,
+I., Kobayashi, K., Suhara, T., Uchiyama, Y. et al. (2004). Isolation and
+transplantation of dopaminergic neurons generated from mouse embryonic stem
+cells. Neurosci. Lett. 363, 33-37.
+Zhao, C., Sun, G., Li, S., Lang, M. F., Yang, S., Li, W. and Shi, Y. (2010). MicroRNA
+let-7b regulates neural stem cell proliferation and differentiation by targeting nuclear
+receptor TLX signaling. Proc. Natl. Acad. Sci. USA 107, 1876-1881.
+Zhao, X., Tang, Y., Qu, B., Cui, H., Wang, S., Wang, L., Luo, X., Huang, X., Li, J.,
+Chen, S. et al. (2010). MicroRNA-125a contributes to elevated inflammatory
+chemokine RANTES levels via targeting KLF13 in systemic lupus erythematosus.
+Arthritis Rheum. 62, 3425-3435.
+
+

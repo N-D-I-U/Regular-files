@@ -1,0 +1,2423 @@
+ARTICLE
+Received 20 Dec 2013 | Accepted 13 Jun 2014 | Published 14 Jul 2014
+
+DOI: 10.1038/ncomms5386
+
+OPEN
+
+MiR-9 promotes microglial activation by
+targeting MCPIP1
+Honghong Yao1,*, Rong Ma2,*, Lu Yang2,*, Guoku Hu2, Xufeng Chen3, Ming Duan4, Yeonhee Kook2,
+Fang Niu2, Ke Liao2, Minggui Fu5, Gang Hu6, Pappachan Kolattukudy7 & Shilpa Buch2
+
+Microglia participate in innate inﬂammatory responses within the central nervous system.
+The highly conserved microRNA-9 (miR-9) plays critical roles in neurogenesis as well as
+axonal extension. Its role in microglial inﬂammatory responses, however, remains poorly
+understood. Here we identify a unique role of miR-9 in mediating the microglial inﬂammatory
+response via distinct signalling pathways. MiR-9-mediated regulation of cellular activation
+involved downregulated expression of the target protein, monocyte chemotactic proteininduced protein 1 (MCPIP1) that is crucial for controlling inﬂammation. Results indicate that
+miR-9-mediated cellular activation involved signalling via the NF-kB pathway, but not the
+b-catenin pathway.
+
+1 Department of Pharmacology, Medical School of Southeast University, Nanjing, Jiangsu 210009, China. 2 Department of Pharmacology and Experimental
+Neuroscience, University of Nebraska Medical Center, Omaha, Nebraska 68198-5880, USA. 3 The ﬁrst Afﬁliated Hospital of Nanjing Medical University,
+Nanjing 210029, China. 4 Key Laboratory for Zoonosis Research, Ministry of Education, Jilin University, Changchun 130062, China. 5 Department of Basic
+Medical Science, School of Medicine, University of Missouri-Kansas City, Kansas City, Missouri 64108, USA. 6 Jiangsu Key Laboratory of Neurodegeneration,
+Department of Pharmacology, Nanjing Medical University, Nanjing 210029, China. 7 Burnett School of Biomedical Science, College of Medicine, University of
+Central Florida, Orlando, Florida 32816, USA. * These authors contributed equally to the work. Correspondence and requests for materials should be
+addressed to S.B. (email: sbuch@unmc.edu).
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+1
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+M
+
+icroglia, cells of the myeloid lineage in the central
+nervous system (CNS), play an important role in
+immune surveillance and are known to be actively
+involved in various neurologic pathologies. Under normal CNS
+homeostasis, microglia manifest a ramiﬁed phenotype with highly
+branched, motile cell processes1,2. In response to pathological
+stimuli, these cells undergo phenotypic changes, elicit
+inﬂammatory responses and migrate towards the toxic stimuli.
+Paradoxically, these cells while crucial for host defence, can also
+contribute to neuropathology if the inﬂammatory response
+remains unchecked3. The role of the activated microglia in
+neuroinﬂammation is intrinsic in various neurodegenerative
+disorders such as multiple sclerosis4,5, Parkinson’s Disease6,
+Alzheimer’s disease7, NeuroAIDS8, stroke and traumatic brain
+injury9. Understanding the regulation of microglial activation is
+thus critical to comprehend the inﬂammatory processes extant in
+the CNS pathology.
+In keeping with the emerging interest in molecular mechanisms controlling the magnitude of microglia-mediated inﬂammatory responses in the CNS, a new and exciting aspect of gene
+regulation has gained attention in recent years with the discovery
+of mammalian microRNAs (miRNAs)10–12. MiRNAs are small,
+evolutionarily conserved noncoding RNAs that are derived
+from much larger primary transcripts. Recent studies have
+demonstrated that miRNAs expressed by immune cells can
+target proteins regulating inﬂammation, and consequently affect
+the magnitude of the immune response13. MiRNAs are becoming
+increasingly recognized as important regulators of cell functions
+including glial activation13–19. While microRNA-9 (miR-9) has a
+well-established role in proliferation/migration of neuronal
+precursors20–22 and axon extension/branching23, its role in
+mediating microglial activation remains poorly understood.
+In recent years, monocyte chemotactic protein-induced protein
+1 (MCPIP1) was reported to control inﬂammation24,25. It was
+shown that MCPIP1 was a negative regulator of macrophage
+activation25 and that this anti-inﬂammatory role was mediated
+via the inhibition of expression of key proinﬂammatory cytokines.
+MCPIP1 was also induced by various inﬂammatory stimuli
+including MCP-1 and lipopolysaccharide (LPS) in a variety of cell
+types26–29. Regulation of MCPIP1 expression by noncoding
+RNAs, however, has never been explored. To identify the
+miRNAs targeting evolutionary conserved sequences in the
+MCPIP1 gene (ZC3H12A), computational algorithm such as
+TargetScan was employed and it was found that miR-9 that is
+conserved among the vertebrates was predicted to target MCPIP1.
+In the present study, we report that miR-9 downregulates
+MCPIP1 expression and induces the activation of microglia.
+Results
+MiR-9 promotes microglial activation in in vitro and in vivo.
+We ﬁrst demonstrated the expression of miR-9 in primary rat
+microglia using ﬂuorescent in situ hybridization (FISH; Fig. 1a).
+To explore the role of miR-9 in microglial activation, primary
+mouse microglia were transduced with the lentivirus expressing
+miR-9 precursor (Supplementary Fig. 13) and assessed for
+upregulation of the activation marker CD11b by ﬂow cytometry
+analysis using anti-mouse CD11b antibody (Fig. 1b). MiR-9
+mediated activation skewed the cells to an M1 phenotype with the
+upregulation of inducible nitric oxide synthase and interleukin-1b
+(IL-1b) and a concomitant downregulation of the M2a phenotype
+(arginase I, transforming growth factor-b and Mrc). There was no
+change in the M2c phenotype (Supplementary Fig. 1a) in primary
+rat microglia. These ﬁndings were also validated at the protein
+level using western blots for representative proteins of the
+microglial phenotypes (Supplementary Fig. 1b). The effect of
+2
+
+miR-9 on microglial activation was further conﬁrmed using
+Luminex and Nitrite assays demonstrating increased expression
+of the proinﬂammatory cytokines (IL-1b, tumour-necrosis factora (TNF-a), IL-6 & MCP-1; Fig. 1c) and NO (Fig. 1d) in primary
+rat microglia. Reciprocally, transducing cells with the miRNA
+inhibitor, miR-9-5p-locker but not miR-9-3p-locker, had the
+opposing effects (Fig. 1e,f; Supplementary Fig. 1c). The extent of
+miR-9 overexpression and knockdown was assessed by Northern
+blot assay (Supplementary Fig. 2). Our ﬁndings demonstrated
+that miR-9 was critical for the activation of microglia. It must be
+stated that one of the unavoidable caveats of the in vitro study
+involving primary microglia is their inherent ability to become
+activated during culturing conditions. We therefore sought to
+validate in vivo the role of miR-9 by microinjecting lentivirus
+miR-9 into the substantia nigra (SNr) of CX3CR1-GFP mice,
+which resulted in an increased microglial activation compared
+with the miR-control injected group (Fig. 1g).
+MiR-9 regulates MCPIP1 expression in microglia. Having
+determined the role of miR-9 in microglial activation, we
+then sought to investigate the mechanism(s) underlying this
+effect. The next step was to predict the target of miR-9 using the
+TargetScan algorithm. MCPIP1, a CCCH zinc-ﬁnger ribonuclease
+(ZC3H12A) that has a conserved miR-9 binding site within its
+30 -untranslated region (UTR) in most species, was identiﬁed as
+the putative target of miR-9 (Fig. 2a). MCPIP1 is a novel protein
+that plays a fundamental role in immune regulation29,30.
+Intriguingly, co-transfecting miR-9 overexpressing vector and
+pmiR-GLO plasmid with the MCPIP1 wild-type 30 -UTR resulted
+in downregulation of luciferase activity, with amelioration of
+this effect in BV-2 cells transfected with mutated MCPIP1
+30 -UTR (Fig. 2b). In addition, the inhibition of endogenous
+miR-9 expression in cells transduced with anti-miR-9 resulted in
+an increased luciferase activity (Fig. 2c). In line with
+this ﬁnding, miR-9 regulated the expression of both MCPIP1
+mRNA (Fig. 2d) and protein (Fig. 2e) in primary rat microglia.
+To further conﬁrm whether the effect of miR-9 on MCPIP1 was a
+direct one, primary microglia were co-transfected with miR-9 in
+the presence of either a target protector oligo (TP-MCPIP1) that
+speciﬁcally protected the miR-9 binding site on the endogenous
+MCPIP 30 -UTR or a scramble target protector oligo. As shown
+in Fig. 2f, in the presence of a target protector oligo speciﬁc for
+miR-9 binding site, miR-9 failed to downregulate the expression
+of MCPIP1, a phenotype that was similar to cells transfected with
+the anti-miR-9 (Fig. 2e).
+MCPIP1 as a functional target of miR-9. To determine whether
+miR-9-mediated functional effects depend speciﬁcally on
+MCPIP1 suppression, an expression construct encoding the
+entire MCPIP1 coding sequence but lacking the 30 UTR, yielding
+an mRNA resistant to miRNA-mediated suppression, was generated. In primary rat microglia transfected with the MCPIP1
+construct lacking the UTRs (MCPIP1-D30 UTR), and therefore
+not targeted by miR-9, there was a failure of miR-9 to induce
+inﬂammatory cytokines associated with microglial activation
+(Fig. 3a) as well as the dominant M1 phenotype (Supplementary
+Fig. 3). Consistent with this ﬁnding, transfection of primary
+microglia with the TP-MCPIP1 speciﬁc for miR-9 binding site
+resulted in amelioration of miR-9 mediated induction of
+inﬂammatory cytokines (Fig. 3b).
+Involvement of NF-jB in miR-9-mediated microglial activation. The next step was to determine the intracellular signalling
+pathways involved in miR-9-induced microglial activation. The
+effect of miR-9 on activation of NF-kB, AP-1 and STAT-1 was
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+DAPI
+
+Counts
+
+CD11b (MFI)
+
+Isotype
+miR-Con
+miR-9
+
+14,000
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+0
+
+105
+
+0.1
+
+250
+200
+150
+
+m
+iR
+-C
+on
+m
+iR
+-9
+
+miR-Con
+
+**
+
+100
+50
+0
+
+0.0
+
+*
+* **
+
+100
+miR-Con
+
+miR-9
+
+0.4
+0.3
+
+*
+
+0.2
+0.1
+
+** *
+Con
+
+0.5
+
+0.0
+
+9-3P
+
+9-5P
+
+5P
+93P
+
+0.2
+
+200
+
+C
+on
+
+0.3
+
+300
+
+9-
+
+0.4
+
+**
+
+0.6
+
+IL-1β
+TNF-α
+IL-6
+MCP-1
+
+Nitrite (μM)
+
+300
+
+0.5
+
+IL-1β
+TNF-α
+IL-6
+MCP-1
+
+0.7
+
+**
+Level of cytokines
+(pg ml–1)
+
+Nitrite (μM)
+
+0.6
+
+400
+
+0
+
+Anti-miR
+
+Anti-miR
+miR-9
+
+6
+Number of processes
+per cell
+
+0.7
+
+Scamble
+
+500
+
+*
+
+m
+iR
+-C
+on
+m
+iR
+-9
+
+0
+
+Merged
+
+Level of cytokines
+(pg ml–1)
+
+miR-9
+
+5
+4
+
+*
+
+3
+2
+1
+0
+
+miR-Con miR-9
+
+Figure 1 | miR-9 regulates microglial activation. (a) In situ hybridization of mature miR-9 in primary rat microglia. Scale bar, 5mm. (b) Primary mouse
+microglia infected with miR-control or miR-9 lentivirus were assessed for CD11b expression by ﬂow cytometry using anti-mouse CD11b antibody. All the
+data are indicated as mean±s.d. of four individual experiments. *Po0.05 versus miR-control group using Student’s t-test. MiR-9-mediated effects on the
+expression of cytokines (c) and NO production (d) in primary rat microglia. Anti-miR-9-5p/9-3p mediated effects on cytokine expression (e) and NO
+production (f) in primary rat microglia. All the data are indicated as mean±s.d. of four individual experiments. *Po0.05; **Po0.01 versus miR-control
+group using Student’s t-test analysis. (g) MiR-9 induced microglial activation in vivo in CX3CR1-GFP mice. Representative images of GFP þ microglia (left
+panel) and the average number of processes per cell (right panel). Scale bar, 25 mm. All the data are indicated as mean±s.d. of four individual experiments.
+*Po0.05 versus miR-control group using Student’s t-test.
+
+examined. BV-2 cells were transiently co-transfected with luciferase reporter constructs NF-kB-TK-Luc, AP-1-TK-Luc, or
+GAS-TK-luc and miR-9. In the presence of miR-9, there was an
+increased activation of NF-kB but not AP-1 or STAT-1 (Fig. 4a),
+and this effect was ameliorated in cells overexpressing MCPIP1
+(Fig. 4b). Since miR-9 is known to target E-cadherin/b-catenin31,
+we next sought to examine whether overexpression with
+MCPIP1-D30 UTR could abrogate this effect. Primary rat
+microglia transfected with miR-9 exhibited increased the
+activity of b-catenin (Fig. 4c) and overexpression of MCPIP1
+abrogated this effect (Fig. 4d). Further validation of miR-9mediated nuclear translocation of NF-kB and b-catenin was
+demonstrated by western blot analysis (Fig. 4e). Reciprocally, cotransfection of primary microglia with the miR-9 construct and
+the TP-MCPIP1 oligo resulted in failure of miR-9 to induce
+activation of NF-kB and b-catenin (Fig. 4f). To further conﬁrm
+the role of NF-kB and b-catenin as miR-9 downstream target
+
+genes, primary rat microglia were transduced with anti-miR-9-5p
+followed by stimulation with LPS and assessed for nuclear
+translocation of NF-kB (Fig. 4g) and b-catenin (Fig. 4h). As
+shown in Supplementary Fig. 4, cells transduced with anti miR-95p, failed to exhibit LPS-mediated nuclear translocation of NF-kB
+and b-catenin, thereby underpinning their role as miR-9
+downstream target genes.
+We next validated the role of downstream transcription
+factors (NF-kB versus b-catenin) in miR-9-mediated microglial
+activation in the presence or absence of LPS stimulation. As
+shown in Fig. 5a, pretreatment of primary rat microglia with
+Ikk-2 inhibitor SC514 (5 mM) signiﬁcantly decreased miR-9mediated induction of proinﬂammatory cytokines. Intriguingly,
+miR-9 potentiated the LPS-mediated activation of microglial
+cells and, this effect was dampened in cells pretreated with the
+Ikk-2 inhibitor (Fig. 5b). This was further conﬁrmed by the fact
+that transfection of primary rat microglia with mutant IkB
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+3
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+a
+
+b
+
+miR-9
+
+3′ AGUAUGUCGAUCUAU UGGUUUC--U
+
+Human 5′-GUCGGGAAGGAAACCCACAA ACCAAAG--AUACUGUAG-3′
+Chimpanzee 5′-GUCGGGAAGGAAACCCACAA ACCAAAG--AUACUGUAG-3′
+Rhesus 5′-GUUGGGAAGGAAACCCACAA ACCAAAG--AUACUGUAG-3′
+Bushbaby 5′-GUAAGG-AGGGAACCCACAA ACCAAAG--AUACUGUAG-3′
+
+140
+
+Ratio of firefly/renilla
+(% of miR-con)
+
+miR-9 binding site
+
+MCPIP1 (ZC3H12A)
+3UTR
+
+Treeshew 5′-GUAGGGAAGAGAACCCACAA ACCAAAG--AUACCGUAG-3′
+
+120
+100
+80
+60
+20
+
+Mouse 5′-GCAGGCAAGGGAAUCCUCAA ACCAAAG--AUACCAUAG-3′
+Rat 5′-GGGGCAGGGUGAGCGACCUGGCCAAAG--AAAGGGCUG-3′
+
+**
+
+40
+0
+
+miR-Con miR-9 miR-Con miR-9
+
+MCPIP1 (ZC3H12A)
+Coding Region
+
+WT UTR
+
+Mut UTR
+
+MCPIP1 (ZC3H12A) 3′-UTR
+
+d
+
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+*
+
+Fold change
+
+1.5
+1.0
+
+*
+0.5
+
+WT UTR
+
+-9
+iR
+m
+
+tiAn
+
+An
+
+ti-
+
+m
+
+iR
+
+-C
+
+on
+
+m
+iR
+-C
+on
+m
+iR
+-9
+
+iR
+-C
+on
+An
+tim
+iR
+-9
+
+m
+tiAn
+
+iR
+-C
+on
+An
+tim
+iR
+-9
+
+0.0
+
+tiAn
+
+2.0
+
+*
+
+m
+
+Ratio of firefly/renilla
+(% of miR-con)
+
+c
+
+Mut UTR
+
+miR-con
+
+miR-9
+
+m
+
+MCPIP1
+
+66 kDa
+
+β-actin
+
+42 kDa
+3.5
+
+-C
+
+f
+Anti-miR Anti-con
+miR-9
+
+iR
+
+e
+
+on
+m
+iR
+-9
+m
+iR
+-C
+m on
+iR
+-9
+
+TP-Con TP-MCPIP1
+
+MCPIP1
+
+66 kDa
+
+β-actin
+
+42 kDa
+
+**
+
+1.4
+
+3.0
+Fold change
+
+Fold change
+
+1.2
+2.5
+2.0
+1.5
+1.0
+0.5
+
+**
+
+##
+
+1.0
+0.8
+
+*
+
+0.6
+0.4
+0.2
+0.0
+
+iR
+-C
+on
+An
+tim
+iR
+-9
+
+m
+
+miR-Con/TP-Con
+miR-9/TP-Con
+miR-Con/TP-MCPIP1
+miR-9/TP-MCPIP1
+
+An
+ti-
+
+m
+iR
+-C
+on
+m
+iR
+-9
+
+0.0
+
+Figure 2 | MiR-9 regulates MCPIP1 expression in microglia. (a) Putative miR-9 binding sites in MCPIP1 gene-ZC3H12A. The potential complementary
+residues are shown in red. Relative luciferase activity of WT/30 UTR mutant constructs of MCPIP co-transfected with miR-control/miR-9 (b); or anti-miRcontrol/anti-miR-9 (c) in BV-2 cells. (d,e) Quantitative reverse transcriptase–PCR analysis of MCPIP mRNA (d) and protein (e) in primary rat microglia
+following transduction of cells with miR-9/anti-miR-9 constructs. All the data are indicated as mean±s.d. of four independent experiments. *Po0.05,
+**Po0.01 versus microglial transfected with miR-control or anti-miR-control group by Student’s t-test. (f) Western blot of MCPIP1 in lysates of primary
+microglia co-transfected with miR-9/miR-control in the presence of either TP-MCPIP1 or scrambled oligo. Representative immunoblots (upper panel) and
+the densitometric analysis (lower panel) of MCPIP1/b-actin from four separate experiments. All the data are indicated as mean±s.d. of four independent
+experiments. *Po0.05 versus microglial transfected with miR-control and TP-control group; ##Po0.01 versus microglial transfected with miR-9 and
+TP-control group using one-way analysis of variance followed by Holm–Sidak test.
+
+resulted in amelioration of miR-9-mediated induction of
+proinﬂammatory cytokines (Fig. 5c). In contrast, knock down
+of b-catenin failed to exert signiﬁcant effect on miR-9-mediated
+induction of proinﬂammatory cytokines (Fig. 5d). Taken
+together, these data implied that MCPIP1/NF-kB, but not the
+MCPIP1/b-catenin pathway was involved in miR-9-mediated
+activation of microglia.
+4
+
+Kinetics of LPS-mediated regulation of miR-9 and MCPIP1.
+The next step was to determine whether LPS mediated its
+effects via induction of miR-9 and also to assess the kinetics of
+the LPS response. Primary rat microglial cells exposed to LPS
+resulted in a biphasic response leading to early but signiﬁcant
+and transient repression of miR-9 at 1 h (Fig. 6a), with a
+concomitant upregulation of MCPIP1. This was followed by
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+Level of cytokines (pg ml–1)
+
+350
+300
+250
+
+miR-Con/vector
+miR-9/vector
+miR-Con/MCPIP1 OE
+miR-9/MCPIP1 OE
+
+***
+
+200
+150
+100
+
+**
+
+**
+#
+
+###
+
+#
+
+50
+
+* ##
+
+0
+IL-1β
+
+TNF-α
+
+IL-6
+
+MCP-1
+
+Level of cytokines (pg ml–1)
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+400
+300
+
+miR-Con/TP-Con
+miR-9/TP-Con
+miR-Con/TP-MCPIP1
+miR-9/TP-MCPIP1
+
+200
+
+**
+
+##
+#
+
+*
+
+100
+
+##
+0
+
+**
+
+IL-1β
+
+** #
+TNF-α
+
+IL-6
+
+MCP-1
+
+Figure 3 | MCPIP1 is the target of miR-9. (a) MCPIP1 D30 UTR overexpression rescued miR-9-mediated expression of cytokines in primary rat
+microglia. (b) Microglia were co-transfected with either miR-9/miR-control and TP-MCPIP1/Scramble oligo and assessed for cytokines in the supernatant
+by Luminex assay. All the data are indicated as mean±s.d. of four independent experiments. Presence of TP-MCPIP1 resulted in abrogation of
+miR-9-mediated induction of cytokines. *Po0.05, **Po0.01, ***Po0.001 versus microglial transfected with miR-control and vector/TP-control group;
+#Po0.05, ##Po0.01, ###Po0.001 versus microglial transfected with miR-9 and vector/TP-control group using one-way analysis of variance followed by
+Holm–Sidak test.
+
+a sustained and signiﬁcant upregulation of miR-9 at 24 h
+(Fig. 6b). LPS-mediated regulation of miR-9 and MCPIP1 was
+further validated in primary rat microglial cells using Northern
+blotting (Fig. 6c), FISH (Fig. 6d) and immunoblot analyses,
+respectively (Fig. 6e).
+LPS-induced microglial activation involves miR-9/MCPIP1
+axis. To further assess whether miR-9 could further potentiate
+microglial activation induced by LPS, cells were exposed to LPS in
+the presence of miR-9 and assessed for proinﬂammatory cytokines. As shown in Fig. 7a,b, miR-9 potentiated the LPS-mediated
+induction of cytokines (TNF-a, IL-1b, IL-6, and MCP-1 and NO).
+Interestingly, and as expected, LPS-induced induction of cytokines and NO was ameliorated in cells transfected with the miR-9
+inhibitor, miR-9 5P, but not 3P (Fig. 7c,d). Further validation of
+these ﬁndings was carried out in cells transfected with the TPMCPIP1 oligo and exposed to LPS. As shown in Fig. 7e, the
+LPS-mediated activation of microglia was dampened in cells
+transfected with the target protector oligo speciﬁc for miR-9
+binding site (TP-MCPIP1) compared with cells transfected with
+the scrambled oligo. Reciprocally, cells transfected with the miR-9
+precursor demonstrated potentiation of the LPS-mediated activation of NF-kB/b-catenin pathways (Fig. 7f,g). Since LPS mediates translocation of NF-kB into the nucleus and since the
+promoter of miR-9-1 has a binding site for NF-kB17, we next
+sought to determine whether miR-9 mediated potentiation of
+LPS-induced microglial activation was regulated via a feedback
+loop between NF-kB p65 and miR-9 in primary rat microglia.
+Pharmacological blocking of NF-kB in microglial cells resulted in
+reduced ability of LPS to induce miR-9 (Supplementary Fig. 5a).
+Though NF-kB is a known downstream target of miR-9 (ref. 17),
+expression of p65 remained unaltered in the presence of miR-9
+(Supplementary Fig. 5b).
+Since microglial activation is a common deﬁning feature in
+various neurodegenerative diseases such as Parkinson’s
+disease and HAND, we also ascertained whether stimuli
+other than LPS such as the neurotoxins, HIV Tat or MPP þ
+could also induce miR-9 and downregulate the expression
+of MCPIP1. As shown in Supplementary Figs 6,7, both Tat
+and MPP þ induced the expression of miR-9 and downregulated
+the expression of MCPIP in primary rat microglia. In
+concordance with these ﬁndings, Tat and MPP þ also upregulated expression of proinﬂammatory cytokines, which was
+ameliorated in cells transduced with lentivirus expressing antimiR-9 (Supplementary Figs 6,7).
+
+Anti-miR-9 inhibited microglial activation in vivo. To investigate the role of miR-9 in the LPS-mediated microglial activation
+in vivo, C57/BL6 mice were microinjected with either the control
+GFP lentivirus or the GFP-lentivirus-anti-miR-9 5P in the SNr
+and monitored for microglial activation in response to LPS. It was
+however, important ﬁrst to determine the efﬁcacy of GFP-lentivirus-anti-miR-9 5P transduction in vivo. As shown in
+Supplementary Fig. 8, GFP expression was largely restricted
+within the SNr. Two weeks following lentivirus injections, mice
+were administered LPS daily for 4 days followed by assessment of
+Iba-1-positive cells in the SNr. As shown in Fig. 8a and as
+expected, GFP-lentivirus-microinjected mice exhibited increased
+microglial activation in the presence of LPS as evidenced by
+increased Iba-1-positive cells compared with saline-injected animals. Intriguingly, LPS-mediated increase in microglial activation
+was ameliorated in mice pre-treated with GFP-lentivirus-antimiR-9 5P (Fig. 8a).
+Further analysis of microglia in the healthy and LPS-treated
+brain was performed by injecting mice bilaterally with either anti
+miR-control or anti-miR-9 in the SNr followed by LPS injection
+(ip) 2 weeks later. Five days following LPS injection microglia
+were isolated by Percoll gradient method and assessed by ﬂow
+cytometry (CD11b þ /CD45dim population). As shown in
+Fig. 8b, anti-miR-9 treatment resulted in decreased percentage
+of CD11b þ /CD45dim population in the presence of LPS. The
+expression of miR-9 in microglia was further conﬁrmed by the
+fact that LPS treatment increased miR-9 expression in sorted
+CD11b þ /CD45dim cell population (Fig. 8c). Similar ﬁndings
+were also obtained in mice injected bilaterally with anti-miRcontrol or anti-miR-9 in the hippocampus (Supplementary
+Fig. 9). These ﬁndings thus underpin the role of miR-9 in
+regulating the LPS-mediated microglial activation in vivo.
+Discussion
+Our study provides new insights into the role of miR-9 in
+regulating microglial activation via the common suppression of
+MCPIP1 and the distinct downstream activation of NF-kB, but
+not the b-catenin pathway. Modulation of miR-9/MCPIP1 can be
+envisioned as a therapeutic intervention for dampening microglial activation in inﬂammatory neurodegenerative conditions.
+MicroRNAs (miRs) have emerged as key regulators of the posttranscriptional control of gene expression. Previous reviews have
+elegantly described the pathways by which mature miRs are
+produced from their respective pri-miRs via nuclear cleavage and
+cytoplamic processing32. Mature miRs can mediate regulation of
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+5
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+NF-κB
+
+50
+
+m
+iR
+-C
+on
+m
+iR
+-9
+
+m
+iR
+-C
+on
+m
+iR
+-9
+
+NF-κB
+
+AP-1
+
+STAT1
+
+**
+
+Flag
+
+Flag MCPIP1
+β-Catenin
+
+β-Catenin
+250
+Ratio of firefly/renilla
+(% of miR-con)
+
+150
+100
+50
+0
+
+*
+
+200
+150
+100
+50
+
+FOPFLASH
+
+TOPFLASH
+
+Flag
+
+Flag
+
+Flag MCPIP1
+
+m
+iR
+-9
+
+m
+iR
+-C
+on
+
+m
+iR
+-C
+on
+
+m
+iR
+-9
+
+m
+iR
+-C
+on
+
+m
+iR
+-9
+
+m
+iR
+-C
+on
+
+0
+m
+iR
+-9
+
+Ratio of firefly/renilla
+(% of miR-con)
+
+200
+
+m
+iR
+-C
+on
+
+m
+iR
+-C
+on
+m
+iR
+-9
+
+0
+
+m
+iR
+-9
+
+100
+
+*
+
+m
+iR
+-C
+on
+
+150
+
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+m
+iR
+-9
+
+**
+
+200
+
+Ratio of firefly/renilla
+(% of miR-con)
+
+Ratio of firefly/renilla
+(% of miR-con)
+
+250
+
+Flag MCPIP1
+
+TP-Con
+
+TP-MCPIP1
+
+miR-Con miR-9 miR-Con miR-9
+
+miR-Con miR-9 miR-Con miR-9
+NF-κB
+
+65 kDa
+
+NF-κB
+
+65 kDa
+
+LaminB
+
+67 kDa
+
+LaminB
+
+67 kDa
+
+β-Catenin
+
+92 kDa
+
+β-Catenin
+
+92 kDa
+
+LaminB
+
+67 kDa
+
+LaminB
+
+67 kDa
+
+6
+
+miR-Con/vector
+miR-9/vector
+miR-Con/MCPIP1 OE
+miR-9/MCPIP1 OE
+
+5
+
+6
+
+***
+
+5
+
+miR-Con/TP-Con
+miR-9/TP-Con
+miR-Con/RP-MCPIP1
+miR-9/TP-MCPIP1
+
+4
+
+**
+
+4
+
+Fold change
+
+Fold change
+
+**
+3
+2
+1
+
+**
+
+0
+NF-κB
+
+3
+2
+
+###
+
+##
+
+*
+β-Catenin
+
+**
+
+##
+
+1
+0
+NF-κB
+
+##
+
+β-Catenin
+
+Figure 4 | MiR-9-mediated activation of NF-jB and b-catenin involves suppression of MCPIP1. (a) BV-2 cells transfected with NF-kB-TK-Luc,
+AP-1-TK-Luc or GAS-TK-Luc constructs were cotransfected with miR-9 for 24 h followed by reporter gene activity analysis using Luciferase assay.
+(b) MCPIP1 D30 UTR overexpression inhibited NF-kB activation. (c) BV-2 cells transfected with Topﬂash or Fopﬂash constructs were co-transfected
+with miR-9 for 24 h followed by reporter gene activity analysis using Luciferase assay. (d) MCPIP1 D30 UTR overexpression inhibited activation b-catenin.
+All the data are indicated as mean±s.d. of four individual experiments. *Po0.05, **Po0.01 versus microglial transfected with miR-control using Student’s
+t-test. (e) Transfection of microglia with MCPIP1 D30 UTR construct resulted in inhibition of miR-9 mediated nuclear translocation of NF-kB and
+b-catenin. (f) Transfection of microglia with TP-MCPIP1 oligo resulted in inhibition of miR-9-mediated nuclear translocation of NF-kB and b-catenin.
+(g and h) Densitometric analysis of NFkB and beta catenin from four separate experiments. All the data are indicated as mean±s.d. of four individual
+experiments. *Po0.05, **Po0.01, ***Po0.001 versus microglial transfected with miR-control and vector group; ##Po0.01, ###Po0.001 versus microglial
+transfected with miR-9 and vector group using one-way analysis of variance followed by Holm–Sidak test.
+
+6
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+200
+
+##
+
+100
+##
+
+**
+** *
+
+0
+
+Level of cytokines (pg ml–1)
+
+c
+
+**
+
+500
+400
+
+IL-1β
+TNF-α
+IL-6
+MCP-1
+
+14,000
+12,000
+
+*
+
+10,000
+8,000
+
+#
+
+6,000
+4,000
+
+**
+* *
+
+2,000
+
+##
+
+#
+#
+
+0
+
+miR-Con miR-9
+
+miR-Con miR-9
+
+Control
+
+SC514
+
+IL-1β
+TNF-α
+IL-6
+MCP-1
+
+miR-Con miR-9
+Control
+
+250
+
+*
+#
+
+**
+
+#
+100
+
+*
+*
+
+miR-Con miR-9
+SC514
+
+d
+
+*
+
+300
+200
+
+#
+
+#
+
+LPS
+
+16,000
+
+Level of cytokines (pg ml )
+
+300
+
+b
+
+Control
+IL-1β
+TNF-α
+IL-6
+MCP-1
+
+Level of cytokines (pg ml–1)
+
+400
+
+–1
+
+Level of cytokines (pg ml–1)
+
+a
+
+###
+
+#
+#
+#
+
+200
+
+IL-1β
+TNF-α
+IL-6
+MCP-1
+
+**
+
+150
+
+**
+
+100
+50
+
+* **
+
+0
+
+0
+miR-Con miR-9
+Vector
+
+miR-Con
+
+miR-9
+
+Mut IκB
+
+miR-Con miR-9
+
+miR-Con miR-9
+
+Non
+
+siRNA β-catenin
+
+Figure 5 | NF-jB but not the b-catenin pathway plays a role in miR-9-mediated activation of microglia. (a,b) Primary rat microglia were transduced with
+miR-control or miR-9 lentivirus for 4 days and treated with Ikk-2 inhibitor-SC514 (5 mM) for 12 h. Supernatant ﬂuids were collected and assayed by Luminex
+Assay for production of cytokines. All the data are indicated as mean±s.d. of four independent experiments. *Po0.05, **Po0.01 versus microglial
+transfected with miR-Con group; #Po0.05, ##Po0.01 versus microglia transfected with miR-9 group using one-way analysis of variance (ANOVA)
+followed by Holm–Sidak test. (c,d) NF-kB but not b-catenin was involved in miR-9-induced microglial activation. Non: nonsense short interfering RNAs. All
+the data are indicated as mean±s.d. of four individual experiments. *Po0.05, **Po0.01 versus microglial transfected with miR-control and vector group;
+#Po0.05, ###Po0.001 versus microglia transfected with miR-9 and vector group using one-way ANOVA followed by Holm–Sidak test.
+
+gene expression at the post transcriptional level by binding to
+either the speciﬁc sites in the 30 UTR of target mRNAs or in the
+coding regions of their target mRNAs, resulting in degradation or
+translational block, depending on the complementarity between
+the miRNAs and their binding sites33,34.
+MiR-9, a highly conserved microRNA, is expressed predominantly in the CNS of the developing embryo35 exhibiting a prodifferentiation function20,21,36,37. MiR-9 is encoded by three
+distinct genomic loci miR-9-1,9-2 and 9-3 that give rise to mature
+miR-9 species with identical sequences. A recent study has
+implicated the role of mature miR-9 in controlling the stability of
+Hes1 mRNA and as an important player in the Hes1 ultradian
+oscillations38. MiR-9 is known to promote proliferation of
+neuronal progenitors by targeting stathimin, which increases
+microtubule instability20. Recent study has also reported the miR9-mediated regulation of axonal extension and branching via
+targeting Map1b in mouse cortical neurons23. In addition to its
+involvement in neurogenesis, miR-9 expression also plays a role
+in gastric adenocarcinoma39. While most cells of the CNS express
+miR-9, a recent study indicates the lack of miR-9 activity in
+murine microglia under basal conditions40. In agreement with the
+ﬁndings of Akerblom et al., our study also demonstrated no
+expression of miR-9 RNA in microglial cells in brain
+sections from control mice, however, following LPS injection,
+there was induction of mature miR-9 in Iba-1 positive
+microglia (Supplementary Fig. 10). Lending credence to LPSmediated induction of miR-9 is the ﬁnding by Bazzoni et. al.17,
+
+demonstrating upregulated expression of miR-9 in LPS-exposed
+monocytes. Consistent with this ﬁnding17, our study also
+demonstrated that exposure to LPS resulted in induced
+expression of pre-miR-9-1 at 6 and 12 h (2.55- and 3.85-fold),
+respectively (Supplementary Fig. 11). There was no change in
+pre-miR-9-2/3 following LPS treatment. On the basis of this, the
+focus of our study was on the mature miR-9. Our ﬁndings for the
+ﬁrst time demonstrate that LPS induced the expression of miR-9
+in primary cultured microglia and also regulated microglial
+activation, both in vitro and in vivo in response to inﬂammatory
+stimuli. One possible explanation for the expression of miR-9 in
+untreated, cultured microglial primary cells and cell lines could be
+attributed to the inherent ability of these cells to become activated
+during cultured conditions. Taken together, our ﬁndings
+implicate miR-9 as a regulator of microglial activation via its
+suppression of the target anti-inﬂammatory gene MCPIP1. In
+pathological events such as brain inﬂammation, when miR-9 is
+upregulated, treatment with anti-miR-9 may have a beneﬁcial
+effect by dampening microglial activation, thus leading to
+reduction of neuroinﬂammation. Indeed, we observed that
+microinjecting anti-miR-9 into the CNS resulted in deactivation
+and suppression of LPS-induced microglial activation.
+Another novel ﬁnding of this study was that MCPIP1, a novel
+anti-inﬂammatory molecule was a target of miR-9-mediated
+microglial activation, and these ﬁndings were conﬁrmed
+in primary microglia inhibited for miR-9 activity. Brieﬂy,
+knocking down of miR-9 activity via the miR-9 inhibitor or
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+7
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+5
+
+7
+
+***
+
+0.6
+0.4
+0.2
+
+0.0
+LPS (h)
+
+4
+miR-9 (fold change)
+
+*
+0.8
+
+MCPIP (fold change)
+
+miR-9 (fold change)
+
+1.0
+
+3
+2
+1
+
+1.0
+
+5
+4
+3
+2
+1
+
+0
+
+1
+
+0
+LPS (h)
+
+0
+
+1
+
+1.2
+
+**
+
+6
+MCPIP (fold change)
+
+1.2
+
+0
+LPS (h)
+
+0
+
+24
+
+Northern blot
+0.8
+
+Control
+
+**
+0.6
+
+miR-9
+
+23 nt
+
+0.4
+
+U6
+
+105 nt
+
+miR-9/U6
+
+0.2
+
+0.0
+LPS (h)
+
+0
+
+LPS (h)
+
+Iba-1
+
+DAPI
+
+Merged
+
+1
+
+4.12
+
+24
+LPS (h)
+
+1
+
+0
+miR-9
+
+LPS
+
+0
+
+24
+66 kDa
+
+MCPIP1
+β-actin
+
+Control
+
+42 kDa
+4
+
+*
+Fold change
+
+3
+LPS 1 h
+
+2
+
+1
+
+***
+
+LPS 24 h
+0
+0
+
+1
+
+0
+
+24
+
+LPS (h)
+
+Figure 6 | LPS-mediated regulation of miR-9 and MCPIP1 in vitro. Effect of 1 h (a) or 24 h (b) LPS stimulation (100 ng ml  1) on expression of miR-9 and
+MCPIP1 RNA in primary rat microglia. (c) LPS induced miR-9 expression by Northern blot in primary rat microglia (nt: nucleotides). (d) FISH of mature miR9 in primary rat microglia treated with LPS for 1 h or 24 h. Scale bar, 5 mm. (e) Western blotting analysis of MCPIP1 expression in primary rat microglia
+treated with LPS for 1 or 24 h. Representative immunoblots (upper panel) and the densitometric analysis (lower panel) of MCPIP1/b-actin from four
+separate experiments. All the data are indicated as mean±s.d. of four independent experiments. *Po0.05, **Po0.01, ***Po0.001 versus control group
+using Student’s t-test.
+
+MCPIP1-target protector oligo approaches, resulted in failure of
+miR-9 to activate the microglia, thereby underpinning MCPIP1
+as a downstream target of miR-9 mediated induction of
+inﬂammatory cytokines. These data lend credence to previous
+reports indicating the involvement of MCPIP1 signalling in
+regulating inﬂammatory responses via its functioning as an
+RNase to promote the degradation of inﬂammatory mRNAs
+such as IL-6 and IL-1b27 and owing to its ability to function as a
+deubiquitinase that negatively regulates JNK and NF-kB
+signalling by targeting TNF receptor-associated factors29.
+In addition, elegant studies by Liang et al.30 have
+also demonstrated that MCPIP1 can negatively regulate
+inﬂammatory responses as evidenced by the fact that there is
+increased microglial activation in MCPIP1 KO compared with
+the WT mice. In this study, MCPIP1 deﬁciency resulted in
+increased infarct size following ischaemic stroke30. Consistent
+with this study, our ﬁndings also suggest the role of MCPIP1 as
+an anti-inﬂammatory factor. While Liang et al.30 observed an
+increased expression of MCPIP1 that was time dependent
+following exposure to LPS, our ﬁndings indicated a biphasic
+response to LPS. This discrepancy could be attributed to the
+strain and concentration of LPS and the conditions used in the
+two studies. In our study, lower concentration of LPS
+(10 ng ml  1) demonstrated a sustained increase in the
+expression of MCPIP1 (Supplementary Fig. 12).
+8
+
+Our ﬁndings suggested that transduction of primary microglia
+with miR-9 resulted in the upregulation of microglial activation
+markers CD11b and proinﬂammatory cytokines/chemokines
+(IL-1b, TNF-a, IL-6 and MCP-1). Intriguingly, miR-9 further
+potentiated LPS-induced microglial activation as evidenced by
+increased cytokine production. Reciprocally, inhibition of miR-9
+activity via either the anti-miR-9 or the target protector oligo of
+MCPIP1 resulted in a dampened inﬂammatory response in the
+presence of LPS. These ﬁndings further underscore the role of
+miR-9/MCPIP1 axis in mediating LPS-induced generation of
+inﬂammatory cytokines. It must be noted that miR-9 was not the
+only pathway of LPS-mediated activation of microglia since
+blocking this signalling pathway did not fully abrogate the
+cytokine response. A possible explanation for this could be that
+activation of various other signalling pathways such as the TLRs
+could be functional in the presence of LPS. Another interesting
+ﬁnding of this study was that diverse activation stimuli such as
+HIV Tat or MPP þ also mediated microglial activation via the
+miR-9/MCPIP1 axis thereby underscoring the role of this
+pathway as a common mechanism of neuroinﬂammation
+involving microglia.
+Using both pharmacological and genetic approaches, we
+demonstrated that NF-kB activation was involved in miR-9mediated microglia activation since Ikk-2 inhibitor and transfection of microglia with mutant IkB ameliorated miR-9-mediated
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+2
+
+miR-9
+
+Con
+
+8,000
+
+***
+
+***
+
+4,000
+
+*** #
+
+2,000
+0
+
+*** #
+IL-1β
+
+NF-κB
+
+65 kDa
+
+LaminB
+
+67 kDa
+
+Lamin B
+
+#
+
+6,000
+
+4
+3
+
+miR-9
+0 15 30
+
+***
+**
+
+IL-6
+
+12
+
+#
+
+***
+
+2
+
+miR-9
+0 15 30
+92 kDa
+67 kDa
+
+14
+
+#
+
+0 min
+15 min
+30 min
+
+1
+TNF-α
+
+9-3P
+
+##
+
+Anti-miR
+
+5
+##
+
+9-5P
+
+miR-Con
+LPS (min) 0 15 30
+β-catenin
+
+Fold change
+
+Level of cytokines (pg ml–1)
+
+10,000
+
+##
+#
+
+Anti-miR
+
+miR-Con
+LPS (min) 0 15 30
+Con/TP-Con
+LPS/TP-Con
+Con/TP-MCPIP1
+LPS/TP-MCPIP1
+
+#
+
+0
+
+m
+iR
+-C
+o
+m n
+iR
+-9
+
+miR-Con
+
+#
+
+1,000
+
+0
+
+0
+
+12,000
+
+2,000
+
+7
+6
+5
+4
+3
+2
+1
+0
+
+C
+on
+95P
+93P
+
+#
+
+4
+
+3,000
+
+Nitrite (μM)
+
+#
+
+6
+
+LPS
+
+IL-1b
+TNF-a
+IL-6
+MCP-1
+
+Fold change
+
+##
+
+4,000
+
+##
+Level of cytokines
+(pg ml–1)
+
+8
+
+#
+
+IL-1b
+TNF-a
+IL-6
+MCP-1
+
+Nitrite (μM)
+
+Level of cytokines
+(pg ml–1)
+
+LPS
+
+LPS
+
+LPS
+16,000
+14,000
+12,000
+10,000
+8,000
+6,000
+
+0 min
+15 min
+30 min
+
+10
+
+#
+
+**
+
+8
+
+##
+
+6
+4
+
+**
+
+2
+
+MCP-1
+0
+
+0
+
+Figure 7 | Effect of miR-9 inhibitor on LPS-induced microglial activation in vitro. (a,b) miR-9 potentiated LPS-induced expression of cytokines (a) and
+NO (b) in primary rat microglia. (c,d) inhibition of miR-9 resulted in dampened expression of LPS-mediated induction of cytokines (c) and NO (d) in
+primary rat microglia. All the data are indicated as mean±s.d. of four independent experiments. #Po0.05, ##Po0.01 versus microglial transfected with
+miR-control or anti-miR-control in LPS-treated group using Student’s t-test analysis. (e) Transfection of TP-MCPIP1 dampened LPS-mediated induction of
+cytokines. All the data are indicated as mean±s.d. of four independent experiments. ***Po0.001 versus microglial transfected with TP-control in control
+group; #Po0.05, ##Po0.01 versus microglial transfected with TP-control in the LPS group using one-way analysis of variance (ANOVA) followed by
+Holm–Sidak test. (f,g) MiR-9 potentiates LPS-mediated nuclear translocation of NF-kB (f) and b-catenin (g) in primary rat microglia. Representative
+immunoblots (upper panel) and the densitometric analysis (lower panel) of NF-kB or b-catenin/Lamin B from four separate experiments. All the data are
+indicated as mean±s.d. of four independent experiments. **Po0.01, ***Po0.001 versus miR-control group at 0 min; #Po0.05, ##Po0.01 versus miRcontrol group at 15 or 30 min, respectively. This analysis was done using one-way ANOVA followed by Holm–Sidak test.
+
+microglial activation. Our results are in agreement with previous
+reports that NF-kB activation was involved in microglial
+activation. Another interesting ﬁnding herein was the observation
+that inhibition of NF-kB resulted in failure of LPS to induce miR9 expression. It can thus be postulated that there was a positive
+feedback loop between NF-kB activation and miR-9 expression
+since the pre-miR-9-1 promoter has a NF-kB binding site17.
+MCPIP1 is known to exert its action by inhibition of activation of
+NF-kB29. However, whether miR-9 regulates NF-kB p65
+activation is unclear though NF-kB1 (p50/105) was a direct
+target of miR-9 (ref. 17). Herein we report that transduction of
+microglial cells with miR-9 resulted in the downregulation of
+MCPIP1 levels and nuclear translocation of NF-kB leading to
+microglial activation.
+These ﬁndings were also validated in vivo wherein a genetic
+approach using the lenti-anti-miR-9 was employed. Microinjection of lenti-anti-miR-9 into the hippocampus/SNr of mice
+followed by LPS injection, resulted in restoration of microglial
+activation thus validating the role of miR-9 in microglial
+activation.
+In summary, miR-9 plays a crucial role in microglial
+activation via suppression of MCPIP1 expression and subsequent downstream activation of NF-kB but not the b-catenin
+pathway. MiR-9/MCPIP1 axis thus mediates a regulatory
+pathway critical for eliciting innate immune responses in
+microglia. Speciﬁc blocking of the miR-9 could be considered
+as a potential therapeutic target for treating neuroinﬂammatory
+conditions involving microgliosis.
+
+Methods
+Reagents. The miR-9 overexpression has-miR-9-1 and miR-control and miR-9
+inhibitor hsa-miR-9-5p-locker/hsa-miR-9-3p-locker and miR-locker-control plasmids and lentiviruses were purchased from Biosettia (San Diego). HIV-1 Tat1-72
+was ordered from the UK College of Medicine, Lexington, KY. LPS (Escherichia coli
+055:B5), MPP þ and Ikk-2 inhibitor-SC514 were purchased from Sigma Chemicals.
+Animals. C57BL/6N mice (male, 6–8 weeks) were purchased from Charles River
+Laboratories, Inc. (Wilmington, MA). CX3CR1-GFP homozygous mice were
+obtained from the Jackson Laboratory (Bar Harbour, Maine) and function by
+targeted deletion of CX3CR1 and GFP reporter insertion. These mice are known to
+exhibit a rapid microglial response injury as shown by Davalos et al.1,41 in response
+to ATP. All the animals were housed under conditions of constant temperature and
+humidity on a 12-h light, 12-h dark cycle, with lights on at 0700 h. Food and water
+were available ad libitum. Animals were deeply anaesthetized by overdose of
+isoﬂurane followed by pneumothorax before perfusion. All animal procedures were
+performed according to the protocols approved by the Institutional Animal Care
+and Use Committee of the University of Nebraska Medical Center.
+Cell cultures. Primary microglia cells were obtained from 1 to 3-day-old C57BL/
+6N or Sprague–Dawley newborn pups from Charles River Laboratories, Inc.. After
+digestion and dissociation of the dissected brain cortices in Hank’s buffered salt
+solution supplemented with trypsin (1 mg ml  1), mixed glial cultures were prepared by resuspending the cell suspension in Dulbecco’s Modiﬁed Eagle’s Medium,
+supplemented with 10% heated inactivated fetal bovine serum and 10 mg ml  1
+gentamicin. Cells were plated at 20  106 cells per ﬂask density onto 75 cm2 cell
+culture ﬂasks. The cell medium was replaced each 5 days and, after the ﬁrst
+medium change, M-CSF (0.25 ng ml  1, macrophage colony-stimulating factor;
+PeproTech, Rocky Hill, NJ) was added to the ﬂasks to promote microglial proliferation. After achieving 90% conﬂuency mixed glial cultures were subjected to
+shaking at 37 °C at 220 g for 2 h, to promote microglia detachment from the ﬂasks.
+The cell medium, containing the released microglia cells, was collected from each
+ﬂask and centrifuged at 100 g for 5 min to collect cells and plated cell culture plates.
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+9
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+LPS
+
+Saline
+Anti-miR-9
+
+Anti-miR-Con
+
+*
+
+16,000
+
+Anti-miR-9
+Iba-1-positive cell in SNr
+
+Anti-miR-Con
+
+18,000
+
+×2.5
+
+×10
+
+14,000
+12,000
+
+#
+
+10,000
+8,000
+6,000
+4,000
+2,000
+
+n
+
+9
+
+Co
+
+-m
+nti
+
+iR-
+
+A
+
+ti-m
+
+iR-
+
+An
+
+iR-
+
+A
+
+Anti-miR-9
+
+Anti-miR-Con
+CD11b-APC
+
+105
+104
+
+Anti-miR-9
+
+CD11b+/CD45dim
+
+105
+
+105
+
+2.4%
+CD11b+/CD45high
+
+104
+
+10.8%
+
+13.4%
+CD11b+/CD45high
+
+104
+
+103
+
+103
+
+103
+
+103
+
+102
+
+102
+
+102
+
+102
+
+102
+
+103
+
+104
+
+105
+
+102
+
+103
+
+CD11b+/CD45dim
+
+31.2%
+
+9.8%
+
+3.8%
+CD11b+/CD45high
+
+LPS
+
+Anti-miR-Con
+
+CD11b+/CD45dim
+
+10.0%
+
+104
+
+iR-
+
+LPS
+
+Saline
+
+CD11b+/CD45dim
+
+ti-m
+
+An
+
+Saline
+
+105
+
+9
+
+n
+
+Co
+
+-m
+nti
+
+104
+
+105
+
+102
+
+103
+
+104
+
+105
+
+11.9%
+CD11b+/CD45high
+
+102
+
+CD45-PE
+
+103
+
+104
+
+105
+
+miR-9 expression (fold change)
+
+0
+×40
+
+5
+
+*
+4
+3
+2
+1
+0
+
+Saline
+
+LPS
+
+Figure 8 | Effect of miR-9 inhibitor on LPS-induced microglial activation in vivo. (a) Effect of anti-miR-9 on microgliosis induced by LPS in the SNr.
+Representative immunostained image for Iba-1 in SNr of mice injected with saline/LPS. Scale bar, 200 mm (upper panel); 100 mm (middle panel); 50 mm
+(lower panel). Stereology of Iba-1-positive microglia in SNr. All the data are indicated as mean±s.d. N ¼ 4 animals per group. *Po0.05 versus anti-miR
+group treated with saline, #Po0.05 versus anti-miR-control treated with LPS using one-way analysis of variance followed by Holm–Sidak test. (b) Effect of
+anti-miR-9 on the CD11b þ /CD45 dim population of microglia isolated from mouse brain by Percoll gradient method and assessed by ﬂow cytometric
+analysis. (c) Effect of LPS on the expression of miR-9 in microglia isolated by Percoll gradient method. Mice were injected with LPS (1 mg kg  1, i.p.) for 5
+days. Total RNA isolated from microglia was subjected to real-time PCR analysis using primer sets speciﬁc for mature miR-9. All the data are indicated as
+mean±s.d. N ¼ 10 animals per group. *Po0.05 versus saline group using Student’s t-test.
+
+BV-2 immortalized cells (a kind gift from Dr Sanjay Maggirwar, University of
+Rochester, Medical Center, Rochester, NY) were grown and routinely maintained
+in Dulbecco’s Modiﬁed Eagle’s Medium (4.5 g l  1 glucose; 2% fetal bovine serum;
+50 mg ml  1 gentamycin) and incubated at 37 °C and 5% CO2. BV-2 cells were
+used up to passage 20. Both primary rat and mouse microglial cells were used to
+examine the role of miR-9 in microglial activation in vitro study. For in vivo
+assessment of microglial activation, primary mouse microglial cells were used. Only
+for the luciferase study, BV-2 cell line was used to examine the regulation of miR-9
+on the transcription factors.
+Flow cytometry. Primary mouse microglia were assayed for surface antigens by
+ﬂow cytometry according to a previous report42. Brieﬂy, Fc receptors were blocked
+with anti-mouse CD16/CD32 antibody (1:100, eBioscience). Microglial cells were
+stained with Alexa Fluor 488 Rat anti-mouse isotope IgG or CD11b (1:100, BD
+Pharmingen). LSR II (BD Biosciences) was used for ﬂuorescence acquisition and
+data were analysed with FACSDiva software (BD Biosciences). For each antibody,
+gating was determined based on the appropriate negative isotope stained controls.
+Cytokine and chemokine analysis by Luminex. Expression of cytokines/
+chemokines in supernatants collected from treated and untreated microglia was
+measured using MilliplexTM MAP kit (Rat Cytokine/Chemokine Magnetic Bead
+Panel) from Millipore as per the manufacturer’s instructions. Brieﬂy, this is a beadbased suspension array using the Luminex MAP technology in which ﬂuorescentcoded beads have cytokine capture antibodies on the bead surface to bind the
+proteins. Detailed information about the Nitrite assay can be found in
+Supplementary Information online.
+Nitrite assay. Nitrite levels, a stable end product resulting from the reaction of
+NO with molecular oxygen, were determined in rat primary microglia by adding
+50 ml of cell culture medium with 50 ml of Griess reagent (0.1% naphtyletylenediamine dihydrochloride, 1% sulphanilamide, 2.5% phosphoric acid, all from
+Sigma) in a 96-well plate. The absorbance at 550 nm was measured by Synergy Mx
+10
+
+ﬂuorescence plate reader (Bio-Tek Instruments) and nitrite concentrations were
+calculated using a standard curve with sodium nitrite (NaNO2, Sigma, level of
+sensitivity, 0.4 mM).
+Luciferase activity assays. The 804 bp human MCPIP1 30 UTR containing the
+putative miR-9 target site was PCR ampliﬁed from human genomic DNA by using
+the forward 50 -ctcgctagcctcgagtctaggctgcctgtggctggcaagggcagcacccc-30 and reverse
+50 -gcctgcaggtcgactctagagaaagggctcacaatgattgtactttattg-30 primers and the DNA
+fragment was cloned into the XhoI and XbaI sites on the 30 end of the luc2 gene on
+the pmirGLO vector. For pmirGLO-MCPIP1 30 UTR-miR-9-target-mutant vector,
+the miR-9 target site (accaaag) within the MCPIP1 30 UTR was changed to ctttgtt by
+PCR mutagenesis with primers MCPIP1-miR-9T-F, 50 -gtcgggaaggaaacccacaactttgttatactgtaggattggttctggcccatgcag-30 and MCPIP1-miR-9T-R, 50 -cagaaccaatcctacagtataacaaagttgtgggtttccttcccgacttgaatcctc-30 . Brieﬂy, the BV-2 cells were
+transfected with miR-9 overexpression pLV-(hsa-miR-9-1) vector and the target
+plasmid pmirGLO-MCPIP1-30 UTR or pmirGLO-MCPIP1 30 UTR-miR-9-targetmutant in a molar ratio 50:1. The miRNA control pLV-(miR-control) plasmid was
+used as a negative control. The luciferase activity was determined 24 h post
+transfection and the reporter assay was followed the manufacturer’s protocol
+(Promega). Renilla luciferase activity was normalized to ﬁreﬂy luciferase and
+expressed as a percentage of the control (n43, performed in ﬁve wells each time).
+Oligos and plasmid transfection. The LNA control (Scramble sequence:TAACACGTCTATACGCCCA; catalogue number480001-00) and custom-designed
+MCPIP1-Target Protector (TP-MCPIP1; sequence:TGGTATCTTTGGTTTGAG)
+were purchased from Exiqon (Woburn, MA). TP-MCPIP1 oligo selectively
+protects MCPIP from being targeted by miR-9, without affecting endogenous levels
+of miR-9 or its interaction with other mRNA targets. Microglia were transfected
+with 20 nmol l  1 short interfering RNAs speciﬁc for b-catenin (GAACAACGCC
+AGCGACAUU) were obtained from Thermo Scientiﬁc Dharmacon RNAi
+Technologies (Accell SMART Pool). Flag/Flag-MCPIP1, Vector/mutant IkB
+plasmids were transected using the SiIMPORTERTM (Millipore, Temecula, CS)
+according to the manufacturer’s protocol. The knockdown and transfect efﬁciency
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+of short interfering RNA was determined 2 days post transfection by reverse
+transcriptase–PCR and western blot analysis, respectively.
+
+week later, mice were perfused and sectioned followed by assessment of number of
+processes for GFP þ microglia from four mice per group.
+
+Western blotting. Treated cells were lysed using the Mammalian Cell Lysis kit
+(Sigma-Aldrich). Equal amounts of the proteins were electrophoresed in a sodium
+dodecyl sulphate-polyacrylamide gel (12%) under reducing conditions followed by
+transfer to polyvinylidene ﬂuoride membranes. The blots were blocked with 5%
+non-fat dry milk in PBS. The western blots were then probed with antibodies
+recognizing the MCPIP1 (1:1,000, Santa Cruz), b-actin (1:1,000, Sigma-Aldrich)
+p65 NF-kB (1:200, Cell Signalling), b-catenin (1:200, Cell Signalling), Lamin B
+(1:1,000, Santa Cruz) The secondary antibodies were horseradish peroxidaseconjugated to goat anti mouse/rabbit IgG (1:5,000) as described previously43.
+Full blots can be found in Supplementary Fig. 14.
+
+Anti-miR-9 ameliorated microglial activation in vivo. Eight-week-old C57BL/6N
+mice were divided into four groups of 20 mice with each group (n ¼ 5; male)
+treated with either: (1) Saline þ anti-miR-control lentivirus; (2) Saline þ anti-miR-9
+lentivirus; (3) LPS þ anti-miR-control lentivirus; (4) LPS þ anti-miR-9 lentivirus.
+The lentiviruses were microinjected into the SNr of mice (1 ml of 109 viral genomes
+per ml) using the microinjection parameters (coordinates 2.8 mm behind the
+bregma, 1.7 mm lateral from the sagittal midline at a depth of 4.5 mm to skull
+surface). Another set of animals were microinjected with lentiviruses into hippocampus of mice (1 ml of 109 viral genomes per ml) using the microinjection parameters (coordinates 2.06 mm behind the bregma, ±1.5 mm lateral from the
+sagittal midline at a depth of 1.7 mm to skull surface). To reduce the volume of
+inoculation and increase the precision, a 10-ml Hamilton syringe with a 33G needle
+was utilized for intra-SNr/hippocampus injections as described. Two weeks later,
+mice were injected with LPS (1 mg kg  1, i.p.) for 5 days. To evaluate the effect of
+miR-9-5p-locker on microglial activation-induced by LPS, groups of 20 mice were
+divided as described above, perfused and sections followed by Iba-1 staining for the
+assessment of microglial activation.
+
+Real-time PCR. For quantitative analysis of mRNA expression, comparative realtime PCR was performed with the use of the SYBR Green PCR Master Mix
+(Applied Biosystems). The sequences for the ampliﬁcation of rat MCPIP1 were:
+50 -TGCCTATCACAGACCAGCAC-30 (forward) and 50 -TGTCATTGGAC
+ACCACCACTC-30 (reverse). The primer sequences for the ampliﬁcation of
+GAPDH were as follows: 50 -GCCAAAAGGGTCATCATCTC-30 (forward); 50 -GG
+CATGGACTGTGGTCATGAG-30 (reverse). For the analysis of miR-9, total RNA
+was isolated from cells as described above. Comparative real-time PCR was performed using the Taqman Universal PCR Master Mix (Applied Biosystems).
+Speciﬁc primers and probes for mature miR-9 and snRNA RNU6B were obtained
+from Applied Biosystems. The primer sequences for the ampliﬁcation of different
+miR-9 were as follows: mouse miR-9-1: 50 -GGTCCTGGATCC CATCTTTT-30
+(forward) and 50 -GCGCAGTGTATGGGGTTATT-30 (reverse); mouse miR-9-2:
+50 -AAGCTTAAACGCGGCAAGTA-30 (forward) and 50 -TCGGTGACCTTGAAGGAGTT-30 (reverse); mouse miR-9-3: 50 -GGAGTCCGTGTGTCTGTGT
+G-30 (forward) and 50 -GCTTTATGA CGGCTCTGTGG-30 (reverse). All reactions
+were run in triplicate. The amount of miR-9 was obtained by normalizing to
+snRNA RNU6B and relative to control as previously reported44.
+In situ hybridization and immunostaining. Primary rat microglia (d12 in vitro) or
+mouse brain sections were ﬁxed and were prehybridized in hybridization buffer
+(50% formamide, 10 mM Tris-HCl, pH 8.0, 200 mg ml  1 yeast tRNA, 1  Denhardt’s solution, 600 mM NaCl, 0.25% SDS, 1 mM EDTA, 10% Dextran sulphate)
+at a concentration of 9 pM for the commercially available digoxigenin-labelled
+miR-9 probe (Exiqon). LNA-modiﬁed miR-9, labelled at both the 50 and 30 ends
+with digoxigenin (Exiqon), were diluted to a ﬁnal concentration of 2 pM in
+hybridization buffer, heated to 65 °C for 5 min and separately hybridized to the
+sections at 37 °C overnight. The slides were then washed twice in hybridization
+buffer (without probe) at 37 °C, followed by washing three times in 2  SSC and
+twice in 0.2  SSC at 42 °C. They were then blocked with 1% bovine serum
+albumin, 3% normal goat serum in 1  PBS for 1 h at room temperature and
+incubated with anti-digoxigenin conjugated with horseradish peroxidase (1:100,
+Roche Diagnostics, Mannheim, Germany) and anti-Iba-1 (1:250, Dako) antibodies
+overnight at 4 °C. The slides were washed twice with PBS and incubated with Alexa
+Fluor 488 goat anti-rabbit IgG (1:400, Invitrogen, Carlsbad, CA) antibody for 1 h at
+room temperature. This was followed by two PBS washes and signal ampliﬁcation
+(for the in situ, now labelled with horseradish peroxidase) using TSA Cy5 kit
+(PerkinElmer, Waltham, MA) according to the manufacturer’s protocol. The slides
+were mounted in Prolong gold anti-fade reagent with DAPI (Invitrogen). The
+speciﬁcity of the miR-9 signal in FISH experiments was conﬁrmed when compared
+with a scrambled control. Unlike the miR-9, the scramble probe showed no signal
+in microglia.
+Northern blots. Total RNA was extracted from primary rat microglia treated with
+LPS for 24 h using Trizol reagent (Invitrogen) and run on a 15% Tris/Borate/EDTA
+(90 mM Tris/64.6 mM boric acid/2.5 mM EDTA (pH8.3)) Urea gel (Invitrogen)
+and transferred to a Nytran nylon transfer membrane (Ambion, Austin, TX). The
+membranes were cross linked and prehybridized for at least 1h with Ultra-Hyb
+solution (Ambion), followed by hybridization to the LNA DIG-probe for miRNA-9
+(Exiqon, Vedbaek, Denmark) or the snRNA RNU6B probe according to the
+manufacturer’s instructions.
+Transduction of primary mouse microglia with miR-9 lentivirus. Primary
+mouse microglia were transduced with miR-Control, miR-9 lentivirus with multiplicity of infection of 100, followed by gentle swirling, incubation and replacement of fresh feed medium. The transduction efﬁciency was determined by
+detecting red ﬂuorescent protein-positive microglia at 4 days post transduction
+(Supplementary Fig. 13).
+MiR-9-induced microglial activation in vivo. MiR-control or miR-9 lentivirus
+were microinjected into SNr in CX3CR1-GFP mice (1 ml of 109 viral genomes per
+ml) using the microinjection parameters (coordinates 2.8 mm behind the bregma,
+1.7 mm lateral from the sagittal midline at a depth of 4.5 mm to skull surface). Two
+
+Mouse microglia isolation. Groups of mice were microinjected bilaterally either
+with miR-control or anti-miR-9 followed by LPS injection (described above). Five
+days post LPS injection, microglia were isolated from whole brain homogenates by
+Percoll gradient centrifugation according the previous reports45,46 with slight
+modiﬁcations. Brieﬂy, the brains were homogenized in PBS (pH 7.4) by passing
+through a 70-mm nylon cell strainer. Resulting homogenates were centrifuged at
+600g for 6 min. Supernatants were removed and cell pellets were resuspended in
+70% isotonicPercoll (GE-healthcare, Uppsala, Sweden) at room temperature. A
+discontinuous Percoll density gradient was layered as follows: 70, 50, 35 and 0%
+isotonic Percoll. The gradient was centrifuged for 20 min at 2,000 g and microglia
+were collected from the interphase between the 70 and 50% Percoll layers. Cells
+were washed and then resuspended in sterile PBS followed by Flow cytometry
+analysis by gating the myeloid cells for the CD11b þ /CD45dim population.
+Immunostaining and image analysis. For Iba-1 immunostaining, sections
+encompassing the entire midbrain were sectioned at 12 mm on a cryostat. Slides
+were ﬁxed with 4% paraformaldehyde for 45 min at room temperature followed by
+permeabilization with 0.3% Triton X-100 in PBS followed by incubation with H2O2
+for 10 min. Sections were incubated with a blocking buffer containing 10% NGS in
+PBS for 1 h at room temperature followed by addition of rabbit anti-Iba-1 (1:250;
+Wako) antibody and incubated overnight at 4 °C. Next day, sections were washed
+followed by incubation with biotinylated goat anti-rabbit immunoglobulin G
+(1:200) in immunoblocking buffer at RT for 1 h and incubated with an avidinbiotin-peroxidase kit for 1 h. Horseradish peroxidase reaction product was visualized with enhanced DAB peroxidase substrate kit. Every sixth section from each
+mouse was used to quantify Iba-1-positive cells in the midbrain and hippocampus.
+The immunostaining signals were quantitatively analysed using the Optical
+Fractionator method with Microbrightﬁeld Stereo-Investigator software (Stereo
+Investigator software, Microbrightﬁeld, VT, USA). The total number of Iba-1
+microglia in entire area of SNpc was counted from four or ﬁve samples per group.
+Statistical analysis. Statistical analysis was performed using Student’s t-test or
+one-way analysis of variance followed by Holm–Sidak test (SigmaPlot 11.0). The
+appropriate test was clariﬁed in the ﬁgure legends. Results were judged statistically
+signiﬁcant if Po0.05 by analysis of variance.
+
+References
+1. Davalos, D. et al. ATP mediates rapid microglial response to local brain injury
+in vivo. Nat. Neurosci. 8, 752–758 (2005).
+2. Nimmerjahn, A., Kirchhoff, F. & Helmchen, F. Resting microglial cells are
+highly dynamic surveillants of brain parenchyma in vivo. Science 308,
+1314–1318 (2005).
+3. Rostasy, K. M. Inﬂammation and neuroaxonal injury in multiple sclerosis and
+AIDS dementia complex: implications for neuroprotective treatment.
+Neuropediatrics 36, 230–239 (2005).
+4. Prineas, J. W. & Parratt, J. D. Oligodendrocytes and the early multiple sclerosis
+lesion. Ann. Neurol. 72, 18–31 (2012).
+5. Ransohoff, R. M. & Cardona, A. E. The myeloid cells of the central nervous
+system parenchyma. Nature 468, 253–262 (2010).
+6. Doorn, K. J. et al. Emerging roles of microglial activation and non-motor
+symptoms in Parkinson’s disease. Prog. Neurobiol. 98, 222–238 (2012).
+7. Varnum, M. M. & Ikezu, T. The classiﬁcation of microglial activation
+phenotypes on neurodegeneration and regeneration in Alzheimer’s disease
+brain. Arch. Immunol. Ther. Exp. (Warsz) 60, 251–266 (2012).
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+11
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms5386
+
+8. D’Aversa, T. G., Eugenin, E. A. & Berman, J. W. NeuroAIDS: contributions of
+the human immunodeﬁciency virus-1 proteins Tat and gp120 as well as CD40
+to microglial activation. J. Neurosci. Res. 81, 436–446 (2005).
+9. Yenari, M. A., Kauppinen, T. M. & Swanson, R. A. Microglial activation in
+stroke: therapeutic targets. Neurotherapeutics 7, 378–391 (2010).
+10. O’Connell, R. M., Rao, D. S. & Baltimore, D. MicroRNA regulation of
+inﬂammatory responses. Annu. Rev. Immunol. 30, 295–312 (2012).
+11. Bartel, D. P. & Chen, C. Z. Micromanagers of gene expression: the potentially
+widespread inﬂuence of metazoan microRNAs. Nat. Rev. Genet. 5, 396–400
+(2004).
+12. Calin, G. A. & Croce, C. M. MicroRNA signatures in human cancers. Nat. Rev.
+Cancer 6, 857–866 (2006).
+13. O’Neill, L. A., Sheedy, F. J. & McCoy, C. E. MicroRNAs: the ﬁne-tuners of
+Toll-like receptor signalling. Nat. Rev. Immunol. 11, 163–175 (2011).
+14. Johnnidis, J. B. et al. Regulation of progenitor cell proliferation and granulocyte
+function by microRNA-223. Nature 451, 1125–1129 (2008).
+15. Ponomarev, E. D. et al. MicroRNA-124 promotes microglia quiescence and
+suppresses EAE by deactivating macrophages via the C/EBP-alpha-PU.1
+pathway. Nat. Med. 17, 64–70 (2011).
+16. O’Connell, R. M. et al. Physiological and pathological roles for microRNAs in
+the immune system. Nat. Rev. Immunol. 10, 111–122 (2010).
+17. Bazzoni, F. et al. Induction and regulatory function of miR-9 in human
+monocytes and neutrophils exposed to proinﬂammatory signals. Proc. Natl
+Acad. Sci. USA 106, 5282–5287 (2009).
+18. Cardoso, A. L. et al. miR-155 modulates microglia-mediated immune response
+by down-regulating SOCS-1 and promoting cytokine and nitric oxide
+production. Immunology 135, 73–88 (2012).
+19. Ponomarev, E. D., Veremeyko, T. & Weiner, H. L. MicroRNAs are universal
+regulators of differentiation, activation, and polarization of microglia and
+macrophages in normal and diseased CNS. Glia 61, 91–103 (2013).
+20. Delaloy, C. et al. MicroRNA-9 coordinates proliferation and migration of
+human embryonic stem cell-derived neural progenitors. Cell Stem Cell 6,
+323–335 (2010).
+21. Zhao, C. et al. A feedback regulatory loop involving microRNA-9 and nuclear
+receptor TLX in neural stem cell fate determination. Nat. Struct. Mol. Biol. 16,
+365–371 (2009).
+22. Tan, S. L. et al. MicroRNA9 regulates neural stem cell differentiation by
+controlling Hes1 expression dynamics in the developing brain. Genes Cells 17,
+952–961 (2012).
+23. Dajas-Bailador, F. et al. microRNA-9 regulates axon extension and branching
+by targeting Map1b in mouse cortical neurons. Nat. Neurosci. 15, 697–699
+(2012).
+24. Zhou, L. et al. Monocyte chemoattractant protein-1 induces a novel
+transcription factor that causes cardiac myocyte apoptosis and ventricular
+dysfunction. Circ. Res. 98, 1177–1185 (2006).
+25. Liang, J. et al. A novel CCCH-zinc ﬁnger protein family regulates
+proinﬂammatory activation of macrophages. J. Biol. Chem. 283, 6337–6346
+(2008).
+26. Stevens, S. L. et al. Multiple preconditioning paradigms converge on interferon
+regulatory factor-dependent signaling to promote tolerance to ischemic brain
+injury. J. Neurosci. 31, 8456–8463 (2011).
+27. Matsushita, K. et al. Zc3h12a is an RNase essential for controlling immune
+responses by regulating mRNA decay. Nature 458, 1185–1190 (2009).
+28. Liang, J. et al. Genome-wide survey and expression proﬁling of CCCH-zinc
+ﬁnger family reveals a functional module in macrophage activation. PLoS ONE
+3, e2880 (2008).
+29. Liang, J. et al. MCP-induced protein 1 deubiquitinates TRAF proteins
+and negatively regulates JNK and NF-kappaB signaling. J. Exp. Med. 207,
+2959–2973 (2010).
+30. Liang, J. et al. Participation of MCP-induced protein 1 in lipopolysaccharide
+preconditioning-induced ischemic stroke tolerance by regulating the expression
+of proinﬂammatory cytokines. J. Neuroinﬂammation 8, 182 (2011).
+31. Ma, L. et al. miR-9, a MYC/MYCN-activated microRNA, regulates E-cadherin
+and cancer metastasis. Nat. Cell Biol. 12, 247–256 (2010).
+32. Winter, J. et al. Many roads to maturity: microRNA biogenesis pathways and
+their regulation. Nat. Cell Biol. 11, 228–234 (2009).
+33. Fang, Z. & Rajewsky, N. The impact of miRNA target sites in coding sequences
+and in 30 UTRs. PLoS ONE 6, e18067 (2011).
+
+12
+
+34. Hausser, J. et al. Analysis of CDS-located miRNA target sites suggests that they
+can effectively inhibit translation. Genome Res. 23, 604–615 (2013).
+35. Wienholds, E. et al. MicroRNA expression in zebraﬁsh embryonic
+development. Science 309, 310–311 (2005).
+36. Leucht, C. et al. MicroRNA-9 directs late organizer activity of the midbrainhindbrain boundary. Nat. Neurosci. 11, 641–648 (2008).
+37. Shibata, M. et al. MicroRNA-9 regulates neurogenesis in mouse telencephalon
+by targeting multiple transcription factors. J. Neurosci. 31, 3407–3422 (2011).
+38. Bonev, B., Stanley, P. & Papalopulu, N. MicroRNA-9 modulates Hes1 ultradian
+oscillations by forming a double-negative feedback loop. Cell Rep. 2, 10–18
+(2012).
+39. Wan, H. Y. et al. Regulation of the transcription factor NF-kappaB1 by
+microRNA-9 in human gastric adenocarcinoma. Mol. Cancer 9, 16 (2010).
+40. Akerblom, M. et al. Visualization and genetic modiﬁcation of resident brain
+microglia using lentiviral vectors regulated by microRNA-9. Nat. Commun. 4,
+1770 (2013).
+41. Jung, S. et al. Analysis of fractalkine receptor CX(3)CR1 function by targeted
+deletion and green ﬂuorescent protein reporter gene insertion. Mol. Cell Biol.
+20, 4106–4114 (2000).
+42. Fenn, A. M. et al. Lipopolysaccharide-induced interleukin (IL)-4 receptor-alpha
+expression and corresponding sensitivity to the M2 promoting effects of IL-4
+are impaired in microglia of aged mice. Brain Behav. Immun. 26, 766–777
+(2012).
+43. Yao, H. et al. Involvement of TRPC channels in CCL2-mediated
+neuroprotection against tat toxicity. J. Neurosci. 29, 1657–1669 (2009).
+44. Hu, G. et al. MicroRNA-98 and let-7 regulate expression of suppressor of
+cytokine signaling 4 in biliary epithelial cells in response to Cryptosporidium
+parvum infection. J. Infect. Dis. 202, 125–135 (2010).
+45. Wohleb, E. S. et al. beta-Adrenergic receptor antagonism prevents anxiety-like
+behavior and microglial reactivity induced by repeated social defeat. J. Neurosci.
+31, 6277–6288 (2011).
+46. Wynne, A. M. et al. Protracted downregulation of CX3CR1 on microglia
+of aged mice after lipopolysaccharide challenge. Brain Behav. Immun. 24,
+1190–1201 (2010).
+
+Acknowledgements
+The technical support of Qiao Chen, Ming Lu and Yaman Lu was highly appreciated.
+This work was supported by grants MH-068212, DA036157, DA020392, DA023397,
+DA024442 (S.B.) and DA030285 (H.Y.) from the National Institutes of Health.
+
+Author contributions
+S.B. planned and designed the research, and wrote the manuscript; H.Y. designed
+research, performed research and wrote the manuscript; R.M. performed experiments;
+L.Y. wrote the manuscript and performed experiments; Y.K. and X.C. performed western
+blot assays, real time reverse transcriptase–PCR and luciferase assays; F.N. and K.L.
+performed the microinjection and microglial isolation from the brain; Gu.H., M.F., M.D.,
+Ga.H. and P.K. discussed the project and provided the luciferase constructs.
+
+Additional information
+Supplementary Information accompanies this paper at http://www.nature.com/
+naturecommunications
+Competing ﬁnancial interests: The authors declare no competing ﬁnancial interests.
+Reprints and permission information is available online at http://npg.nature.com/
+reprintsandpermissions/
+How to cite this article: Yao, H. et al. MiR-9 promotes microglial activation by targeting
+MCPIP1. Nat. Commun. 5:4386 doi: 10.1038/ncomms5386 (2014).
+This work is licensed under a Creative Commons AttributionNonCommercial-NoDerivs 4.0 International License. The images or
+other third party material in this article are included in the article’s Creative Commons
+license, unless indicated otherwise in the credit line; if the material is not included under
+the Creative Commons license, users will need to obtain permission from the license
+holder to reproduce the material. To view a copy of this license, visit http://
+creativecommons.org/licenses/by-nc-nd/4.0/
+
+NATURE COMMUNICATIONS | 5:4386 | DOI: 10.1038/ncomms5386 | www.nature.com/naturecommunications
+
+& 2014 Macmillan Publishers Limited. All rights reserved.
+
+

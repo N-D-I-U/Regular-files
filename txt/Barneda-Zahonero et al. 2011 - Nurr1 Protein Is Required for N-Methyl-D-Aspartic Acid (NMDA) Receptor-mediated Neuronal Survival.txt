@@ -1,0 +1,978 @@
+THE JOURNAL OF BIOLOGICAL CHEMISTRY VOL. 287, NO. 14, pp. 11351–11362, March 30, 2012
+© 2012 by The American Society for Biochemistry and Molecular Biology, Inc. Published in the U.S.A.
+
+Nurr1 Protein Is Required for N-Methyl-D-aspartic Acid
+(NMDA) Receptor-mediated Neuronal Survival*□
+S
+
+Received for publication, June 25, 2011, and in revised form, November 26, 2011 Published, JBC Papers in Press, January 31, 2012, DOI 10.1074/jbc.M111.272427
+
+Bruna Barneda-Zahonero‡§1, Joan-Marc Servitja¶储, Nahuai Badiola‡§2, Alfredo J. Miñano-Molina‡§, Rut Fadó‡§3,
+Carlos A. Saura‡§, and José Rodríguez-Alvarez‡§4
+From the ‡Institut de Neurociencies and Departament de Bioquímica i Biología Molecular, Universitat Autònoma de Barcelona,
+08193 Barcelona, the §Centro de Investigación Biomédica en Red sobre Enfermedades Neurodegenerativas (CIBERNED),
+08193 Barcelona, the ¶Diabetes and Obesity Laboratory, Institut d’Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS),
+08036 Barcelona, and the 储CIBER de Diabetes y Enfermedades Metabólicas (CIBERDEM), 08036 Barcelona, Spain
+Background: The mechanism involved in activity-dependent survival of neurons in the central nervous system is not fully
+understood.
+Results: Nurr1 is involved in excitatory transmission-dependent survival of glutamatergic neurons by acting downstream CREB
+and upstream of BDNF.
+Conclusion: Nurr1 activation mediates activity-dependent survival of glutamatergic neurons.
+Significance: A novel function of Nurr1 in activity-dependent survival of glutamatergic neurons is reported.
+
+* This work was supported by grants from the Ministerio de Ciencia e Innovación (Grants SAF2008-01904, SAF2011-30281, and RENEVAS) and
+CIBERNED (Grant CB06/05/0042) (to J. R. A) and the Ministerio de Ciencia e
+Innovación (Grant SAF2010-20925) (to C. A. S.).
+□
+S
+This article contains supplemental Tables I–III and Figs. 1 and 2.
+1
+Recipient of a predoctoral fellowship from the Universitat Autònoma de
+Barcelona.
+2
+Recipient of a predoctoral fellowship from the Gobierno Vasco.
+3
+Recipient of a predoctoral fellowship from the Generalitat de Catalunya.
+4
+To whom correspondence should be addressed: Instituto de Neurociencias,
+Edificio M, Campus de Bellaterra, Universidad Autónoma de Barcelona,
+08193 Cerdanyola del Valles, 08193 Barcelona, Spain. Tel.: 34-935-811-525;
+Fax: 34-935-811-573; E-mail: jose.rodriguez@uab.es.
+
+MARCH 30, 2012 • VOLUME 287 • NUMBER 14
+
+During brain development, neuronal activity suppresses apoptosis and promotes survival of neurons, adjusting neuronal
+population to its connection patterns. The role of the NMDA
+subtype of glutamate receptors (NMDAR)5 supporting neuronal survival during CNS development is well documented, and
+it has been reported that basal NMDAR activity suppresses
+neuronal apoptosis in the somatosensory thalamus, the hypothalamus, and the dentate gyrus and in CA1 in the hippocampus, among other brain areas (1–3). The trophic effect of
+NMDAR stimulation is especially necessary for the survival and
+differentiation of cerebellar granule cells (CGCs) (4).
+CGCs are generated during the postnatal development of the
+cerebellum in the external granule layer and migrate to the
+internal granule layer to become mature CGCs (5, 6). During its
+migration, they need glutamatergic stimulation from the mossy
+fibers. The stimulation of NMDAR is necessary for the maintenance of these neurons during cerebellum development (7–9).
+Failure to receive mossy fiber inputs will drive CGCs to apoptotic death (10, 11). This scenario can be mimicked in vitro in
+primary cultures of CGCs. When these neurons are grown in
+low potassium concentration (5 mM KCl; K5), they undergo
+spontaneous apoptosis. Nevertheless, they will develop and
+survive in the presence of high potassium concentrations (25
+mM KCl; K25) or NMDA (4, 12, 13).
+It has been widely reported that the activation of survival
+signaling kinases, including Akt and ERK (14, 15), and the suppression of proapoptotic kinases, such as glycogen synthase
+kinase-3␤ (GSK-3␤) or JNK (16, 17), are involved in neuronal
+survival. The regulation of these kinases modulates the activity
+of some transcription factors that control the expression of proand antiapoptotic genes. In CGCs, NMDA-mediated prosur5
+
+The abbreviations used are: NMDAR, N-methyl-D-aspartate receptor; BDNF,
+brain-derived neurotrophic factor; CGC, cerebellar granule cells CREB,
+cAMP-response element-binding protein; VIP, vasoactive intestinal peptide; K5, 5 mM KCl; K25, 25 mM KCl; MTT, 3-[4,5-dimethylthiazol-2-yl]-2,5diphenyl tetrazolium bromide; DIV, days in vitro; Q-RT-PCR, quantitative
+real-time PCR; P, postnatal day.
+
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+11351
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+NMDA receptor (NMDAR) stimulation promotes neuronal survival during brain development. Cerebellar granule cells (CGCs)
+need NMDAR stimulation to survive and develop. These neurons
+differentiate and mature during its migration from the external
+granular layer to the internal granular layer, and lack of excitatory
+inputs triggers their apoptotic death. It is possible to mimic this
+process in vitro by culturing CGCs in low KCl concentrations (5
+mM) in the presence or absence of NMDA. Using this experimental
+approach, we have obtained whole genome expression profiles
+after 3 and 8 h of NMDA addition to identify genes involved in
+NMDA-mediated survival of CGCs. One of the identified genes was
+Nurr1, a member of the orphan nuclear receptor subfamily Nr4a.
+Our results report a direct regulation of Nurr1 by CREB after
+NMDAR stimulation. ChIP assay confirmed CREB binding to
+Nurr1 promoter, whereas CREB shRNA blocked NMDA-mediated
+increase in Nurr1 expression. Moreover, we show that Nurr1 is
+important for NMDAR survival effect. We show that Nurr1 binds
+to Bdnf promoter IV and that silencing Nurr1 by shRNA leads to a
+decrease in brain-derived neurotrophic factor (BDNF) protein levels and a reduction of NMDA neuroprotective effect. Also, we
+report that Nurr1 and BDNF show a similar expression pattern
+during postnatal cerebellar development. Thus, we conclude that
+Nurr1 is a downstream target of CREB and that it is responsible for
+the NMDA-mediated increase in BDNF, which is necessary for the
+NMDA-mediated prosurvival effect on neurons.
+
+Nurr1 Mediates CGCs Survival by NMDA
+vival effect seems to be dependent on the activation of the phosphatidylinositol 3-kinase (PI3K)/Akt pathway (13, 18) and the
+activation of CREB (19). Other transcription factors, for example MEF2, FKHRL1, DeltaNp73, or Sp1/3, have also been
+reported to be involved in neuronal survival (20 –23). However,
+whether these or other factors are involved in the signaling
+related to the NMDAR-mediated prosurvival effect is still
+poorly understood.
+In the present study, we have analyzed the expression
+changes in response to NMDA treatment in cultured CGCs. By
+comparative analysis, we have identified Nurr1 as a candidate
+to mediate the NMDAR prosurvival response. In fact, we report
+that NMDA induction of CREB activation promotes Nurr1
+expression and consequent up-regulation of its protein levels.
+In addition, silencing of Nurr1 results in a reduction in brainderived neurotrophic factor (BDNF) levels that correlates with
+the decrease in the NMDA-mediated neuroprotection in these
+cells.
+
+11352 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+VOLUME 287 • NUMBER 14 • MARCH 30, 2012
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+EXPERIMENTAL PROCEDURES
+Cell Culture—Granule cell cultures were prepared from dissociated cerebella of 8-day-old Wistar rats as described previously (4). Cells were plated (3 ⫻ 103 cells/mm2) in Eagle’s basal
+medium (Sigma-Aldrich) and 5 or 25 mM KCl (K5, K25) supplemented with 10% heat-inactivated fetal bovine serum (FBS,
+Sigma-Aldrich), 25,000 units of penicillin, and 25 mg of streptomycin (PAN Biotech Inc.). 10 ␮M cytosine-␤-D-arabinofuranoside was added to the cultures 24 h after plating to prevent proliferation of non-neuronal cells. Neurons were plated
+onto poly-L-lysine coated 48-well plates for measurement of
+cell viability and immunocytochemistry, on 35-mm culture
+dishes for RNA extraction and Western blotting, on 24-well
+plates for luciferase assays, and on 100-mm plates for ChIP
+assays. At 2 days in vitro (DIV), K5 neurons were treated or not
+with NMDA (100 ␮M, Sigma-Aldrich) or K25. The procedures
+followed were in accordance with guidelines of the Comissió
+d’Ètica en l’Experimentació Animal i Humana of the Universitat Autònoma de Barcelona.
+Cell Viability—Neuronal viability was assessed using the
+3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyl tetrazolium bromide (MTT) assay. Cells were incubated with MTT (0.2 mg/ml)
+for 45 min at 37 °C. The blue formazan derivative was solubilized in 100 ␮l of dimethyl sulfoxide, and the dual wavelength
+was measured at 560 and 620 nm in a Labsystems Multiskan
+plate reader. Data are presented as mean ⫾ S.E. of values
+obtained from three or four independent experiments performed in triplicates.
+Fluorescence Analysis of Apoptotic Nuclei—Apoptosis was
+assessed by nuclear DNA staining with Hoechst 33258. Cells
+were washed twice in Tris-buffered saline (TBS) 24 h after the
+treatment, fixed with 4% paraformaldehyde in phosphate-buffered saline (PBS) for 45 min at 4 °C, and stained with 1 ␮g/ml
+Hoechst 33258 (Molecular Probes) for 5 min after being washed
+again twice in TBS. Nuclear DNA staining was observed with an
+inverted microscope (Nikon eclipse TE-2000-E). In every
+experiment, more than 1000 cells were individually examined
+for each experimental condition. Condensed and/or fragmented nuclei were considered as apoptotic nuclei. Data are
+
+given as mean ⫾ S.E. of values obtained in three or four independent experiments performed in triplicate. Results are
+expressed as the percentage of apoptotic nuclei versus total
+nuclei.
+Immunoblotting—CGC cultures were washed with PBS, and
+total protein was extracted by incubating neurons in lysis buffer
+containing 20 mM Tris, pH 7.5, 1% Nonidet P-40, 150 mM NaCl,
+5 mM EDTA, 1 mM PMSF, 10 ␮g/ml aprotinin, 20 ␮g/ml leupeptin, 1 mM activated orthovanadate. Cell lysates were sonicated for 1 min. Proteins (25 ␮g) were resolved in 10% SDSPAGE gel and transferred to nitrocellulose membranes
+(Amersham Biosciences). Membranes were washed with PBS/
+Tween (PBS with 0.05% Tween 20) and incubated for 1 h in
+blocking buffer (5% of nonfat dry milk in PBS/Tween except
+10% of nonfat dry milk for Nurr1 and supplemented with 5%
+FBS for BDNF) at room temperature to block nonspecific binding. Blots were washed and incubated overnight at 4 °C with
+primary antibodies against CREB, phospho-Ser133-CREB, and
+Nur77 from Cell Signaling; Nurr1 and NOR-1 from Abcam;
+BDNF from Santa Cruz Biotechnology; GAPDH from Ambion
+Inc.; and actin from Sigma-Aldrich, diluted (1:1000 for all,
+except GAPDH and actin 1:40,000) in blocking buffer or PBS/
+Tween with 0.1% BSA and 2% nonfat dry milk for BDNF. Blots
+were then washed and incubated for 1 h at room temperature
+with horseradish peroxidase-conjugated secondary antibodies
+(BD Biosciences) diluted 1:3000 in blocking buffer. Immunoreactive bands were visualized using the ECLTM Western blotting
+detection reagent (Amersham Biosciences, Uppsala, Sweden)
+and quantified by a computer-assisted densitometer. Actin and
+GAPDH were used as loading controls.
+Immunohistochemistry—Cerebella of P9, P14, P26, and adult
+rats were fixed for 24 h with 4% paraformaldehyde in PBS at
+4 °C and embedded in paraffin. 5-␮m sections were processed
+for Nurr1 labeling. Briefly, sections were rehydrated and
+washed twice in TBS. Endogenous peroxidase activity was inactivated with 3% H2O2 in TBS. After extensive washes with TBS/
+Tween (TBS with 0.5% Tween), the sections were incubated in
+blocking solution (TBS/Tween with 10% FBS). Subsequently,
+the sections were exposed to Nurr1 antibody (1:200 in blocking
+solution; Abcam) for at least 12 h at 4 °C. The sections were
+again rinsed extensively in TBS/Tween and incubated with
+anti-mouse antibody coupled to biotin (1:200 in blocking solution; Vector Laboratories) for 1 h at room temperature. After
+rinsing, the sections were incubated with streptavidin-peroxidase in TBS (1:300; Vector laboratories). Peroxidase was developed with 0.05% diaminobenzidine in TBS and 0.035% H2O2
+solution. Nuclei were stained by incubation with hematoxylin
+for 1 min. Sections were dehydrated and covered with DPX
+medium. Pictures were obtained in a NIKON Eclipse 901
+microscope/Nikon digital sight camera, using 2⫻, 10⫻, 20⫻,
+and 40⫻ objective lens.
+Gene Expression Analysis—CGCs were plated in K5 and
+treated or not at 2 DIV with NMDA (100 ␮M). After 3 and 8 h,
+RNA extraction was done with the RNeasy威 Protect kit (Qiagen), and samples were sent to the genomic service of the
+Vall d’Hebron Hospital Research Institute to perform the
+Affymetrix Rat Genome 430 2.0 array. Expression data were
+obtained using the GCOS software and normalized with robust
+
+Nurr1 Mediates CGCs Survival by NMDA
+
+MARCH 30, 2012 • VOLUME 287 • NUMBER 14
+
+AAACTTTATCGGAtctcttgaaTCCGATAAAGTTTTTCGCTggg. Oligonucleotides were obtained from Invitrogen and were
+cloned between BglII/HindIII sites of pSUPER.retro.puro plasmid.
+Lentiviral constructs were achieved by digesting EcoRI-ClaI sites
+from pSUPER-sh to replace H1 promoter with H1-shRNA cassette in pLVTHM.
+Lentiviruses were propagated using methods described previously (24) (25). Briefly, human embryonic kidney 293T
+(HEK293T) cells were seeded at a density of 2.5 ⫻ 106 cells in
+100-mm dishes. The following day, cells were transfected with
+20 ␮g of pLVTHM-derived constructs, 15 ␮g of pSPAX2, and 8
+␮g of pMD2G. The transfection was routinely performed by the
+calcium phosphate transfection method (26). Cells were
+allowed to produce lentiviruses for 48 h. After 48 h, the medium
+was centrifuged at 1200 ⫻ g for 5 min, and the supernatant was
+concentrated at 141,000 ⫻ g for 120 min and then resuspended
+in 50 ␮l of PBS containing 1% BSA and stored at ⫺80 °C. Biological titers of the viral preparations expressed as a number of
+transducing units per milliliter were determined by transducing HEK293T cells in limiting dilutions. After 72 h of incubation, the percentage of green fluorescent protein (GFP)-positive
+cells was determined by cytometer, and viruses were used in the
+experiments at 1 ⫻ 106 transducing units/ml.
+Lentiviral infection was performed at the day of plating. Cells
+remained in contact with lentivirus for 5 h, and then medium
+was replaced with Eagle’s basal medium and 5 or 25 mM KCl
+supplemented with 10% FBS, 25,000 units of penicillin, and 25
+mg of streptomycin. More than 75% of neurons were infected.
+At 2 DIV, treatments were performed as described before, and
+chromatin condensation was assessed at 7 DIV, respectively.
+Cell lysates were obtained 30 h after treatment.
+Plasmid Constructs—Rat genomic DNA was used as the template for PCR to amplify the Nurr1 promoter fragment, containing the CREB-response element reported in Ref. 27, with
+the forward primer A (5⬘-AAGAGCTCGAGAGTTACAGTCACGGGA-3⬘) and the reverse primer B (5⬘-AACTCGAGGGCTTCAGCCGAGTGATTGG-3⬘). The fragment was cloned
+into the SacI and XhoI sites of pGL3-Basic luciferase reporter
+vector (pGL3-Basic) to generate plasmid pGL3-Nurr1promoter. The plasmids construct was confirmed by sequencing.
+Transfection and Luciferase Assay—CGCs were plated and
+infected with the indicated lentivirus, and at 1 DIV, they were
+transfected using Lipofectamine 2000 (Invitrogen) with pGL3Basic or pGL3-Nurr1promoter. For luciferase assays, 0.75 ␮g of
+each pGL3 vector and 0.25 ␮g of Renilla plasmid were transfected in each 24-well plate well.
+At 2 DIV, cells were treated with NMDA (100 ␮M). 6 h after
+treatment, cells were washed twice with cold PBS and were
+lysed with 100 ␮l of lysis buffer (Promega). 30 ␮l of cell extract
+were used for a luciferase reporter assay (Dual-Luciferase威
+reporter assay system, Promega). Data are given as mean ⫾ S.E.
+of values obtained in three independent experiments performed in duplicate.
+Chromatin Immunoprecipitation—CGCs were plated in K5
+and treated with NMDA (100 ␮M) or K25 at 2 DIV. After 90 min
+or 3 h, cells were washed with PBS and fixed with formaldehyde.
+Cells were then lysed and sonicated. 2.5 ␮g of soluble chromatin were co-immunoprecipitated with 0.5 ␮l of phosphoJOURNAL OF BIOLOGICAL CHEMISTRY
+
+11353
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+multichip average. The LIMMA package was used for statistical
+analysis to identify up- and down-regulated genes using a multiple test-adjusted p value ⬍0.2. For genes with multiple probes,
+we selected the most informative probe showing the lowest p
+value. The up-regulated genes at 8 h with an increase over
+2-fold and a p value ⬍0.05 were submitted to functional annotation analysis with the DAVID program (david.abcc.ncifcrf.gov). Filters used in the functional annotation cluster were:
+Similarity Term overlap 6; Similarity threshold 0.70, and Classification initial group membership 5. Hierarchical clustering of
+the Affymetrix data was performed with the Cluster software
+(version 3.0) and represented with TreeView software. The
+clustering algorithm (unweighted pair group method with
+arithmetic mean) was used in a centroid linkage fashion on the
+probes showing an at least 1-fold change, after being centered
+to the median.
+Reverse Transcription-Polymerase Chain Reaction (RTPCR)—Total RNA was extracted from CGCs at the indicated
+times after treatment with TRIzol (Invitrogen) according to the
+manufacturer’s instructions. 1 ␮g of total RNA was converted
+to first strand cDNA using the SuperScriptTM II reverse transcriptase protocol (Invitrogen) following the manufacturer’s
+instructions. The resulting cDNA was subjected to PCR analysis. PCR cycling parameters were as follows: 94 °C for 2 min for
+one cycle followed by 94 °C for 30 s, 60 °C for 30 s, and 72 °C for
+30 s for 35 cycles and 72 °C for 2 min. The PCR products were
+stained with SYBR SafeTM (Invitrogen). A sample without RNA
+was always negative; neonatal rat brain RNA was used as a positive control for the products (results not shown). The actual
+sequences of specific primers are as follows: Nr4a1/Nur77
+(sense) 5⬘-CAC CTT CCT ATA CCA GCT GC-3⬘; (antisense)
+5⬘-GAA GGA GAA GAA GGT TGG AG-3⬘; Nr4a2/Nurr1
+(sense) 5⬘-CCT TCA CAA CTT CCA CCA GA-3⬘; (antisense)
+5⬘-AAC ACC GTA ATG CTG ACA GG-3⬘; Nr4a3/Nor1
+(sense) 5⬘-CCT GAT TCT GGA GAG CAG TG-3⬘; (antisense)
+5⬘-GGC GGA GAC TGC TTG AAG TA-3⬘; 18s (sense) 5⬘-TCA
+AGA ACG AAA GTC GGA GG-3⬘ (antisense) 5⬘-GGA CAT
+CTA AGG GCA TCA CA-3⬘. They were used at a concentration of 0.5 ␮M.
+RNA Interference—Constructs for RNA interference experiments were obtained into the pSUPER.retro.puro plasmid
+(OligoEngine) using specific oligonucleotides of the Nurr1
+and Creb sequence and the scrambled sequence of the oligonucleotide of Nurr1_1, which was used as a control and does
+not recognize any rat coding sequence, indicated by capital
+letter, as follows: shRNA Nurr1_1 (forward) gatccccCCATTAAGGTAGAAGACATttcaagagaATGTCTTCTACCTTAATGGttttt, (reverse) agctaaaaaCCATTAAGGTAGAAGACATtctcttgaaATGTCTTCTACCTTAATGGggg; shRNA
+Creb_1 (forward) gatccccCTGAAGAAGCAGCACGAAAttcaagagaTTTCGTGCTGCTTCTTCAGttttt, (reverse) agctaaaaaCTGAAGAAGCAGCACGAAAtctcttgaaTTTCGTGCTGCTTCTTCAGggg; shRNA Creb_2 (forward) gatccccGCAAGAGAATGTCGTAGAAttcaagagaTTCTACGACATTCTCTTGCttttt, (reverse) agctaaaaaGCAAGAGAATGTCGTAGAAtctcttgaaTTCTACGACATTCTCTTGCggg; shRNA scNurr1
+(forward), gatccccAGCGAAAAACTTTATCGGAttcaagagaTCCGATAAAGTTTTTCGCTttttt, (reverse) agctaaaaaAGCGAA-
+
+Nurr1 Mediates CGCs Survival by NMDA
+
+Ser133-CREB antibody (Cell Signaling), Nurr1 antibody
+(Abcam), or rabbit IgG (Santa Cruz Biotechnology). After decross-linking of the DNA, samples were subjected to quantitative real-time PCR (Q-RT-PCR). Q-RT-PCR was performed on
+a LightCycler 480 II System using LightCycler 480 SYBR Green
+mix (Roche Applied Science). Reactions were carried out in
+triplicate, and Q-RT-PCR data were analyzed using the standard curve method. The primers used were: Nurr1 forward,
+5⬘-AAGTGGGCTACCAAGGTGAA-3⬘, reverse, 5⬘-CTGCCAACATGCACCTAAAG-3⬘; and Bdnf promoter IVa forward, 5⬘-CAAAGCATGCAATGCCCTGGAA-3⬘, and reverse,
+5⬘-CGGCAGCGCGAGCAGTCCTCT-3⬘, which amplify regions containing CREB binding sites, and Bdnf promoter
+III forward, 5⬘-GCCTGCCCTAGCCTTTACTT-3⬘, reverse,
+5⬘-GCCAAGCTGTCTACCTGGAT-3⬘; and Bdnf promoter
+IVb forward, 5⬘-CTCCCACAGAACTTGGGTGT-3⬘, reverse,
+5⬘-AGGAACCCTACTCCCCTCAA-3⬘, which amplify regions
+containing putative Nurr1 binding sites. Results are shown as
+the mean ⫾ S.E. of three independent experiments.
+Statistical Analysis—Statistical significance was determined
+by one-way analysis of variance followed by Tukey’s multiple
+comparison test. A value of p ⬍ 0.05 was considered as statistically significant.
+
+RESULTS
+NMDA-mediated Changes in Gene Expression—NMDA
+receptor stimulation rescues neurons from apoptosis through
+activation of several pathways that would finally modulate the
+activity of transcription factors (13, 28, 29). To analyze
+
+11354 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+changes in gene expression induced by NMDA in CGC cultures, we extracted RNA from K5 cultures treated or not
+with the glutamatergic agonist for 3 or 8 h at 2 DIV, and a
+gene expression analysis was performed with the Affymetrix
+platform rat genome 430 2.0 array. Expression data were
+obtained using GCOS software and normalized with robust
+multichip average. Statistical analysis was done with the
+LIMMA package to identify up- and down-regulated genes
+versus control conditions (K5). We considered that a gene
+was up-regulated or down-regulated if its expression was
+1.5⫻ larger or smaller than in control condition (false discovery rate ⬍0.2).
+After exposure to NMDA, we detected 44 up-regulated genes
+and 7 down-regulated genes at 3 h (Fig. 1A and supplemental
+Table I). 188 up-regulated genes and 112 down-regulated were
+detected at 8 h (Fig. 1A and supplemental Table II). Moreover,
+we observed that almost 50% of the genes up-regulated at 3 h
+were still up-regulated at 8 h and that six of the seven downregulated genes at 3 h had also a reduced expression at 8 h
+(supplemental Tables I and II).
+To determine the meaning of the expression changes, we
+performed a functional annotation analysis of the data
+obtained at 3 and 8 h using the DAVID program (data not
+shown, Fig. 1B and supplemental Table III). At 3 h, the most
+enriched functions and categories were related to transcriptional activity and nuclear localization. By contrast, at 8 h,
+the expression changes reflected a more complex situation,
+having an enrichment of functions such as neurogenesis,
+VOLUME 287 • NUMBER 14 • MARCH 30, 2012
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+FIGURE 1. Gene expression profiling of NMDA treatment in CGCs. CGCs were plated in KCl 5 mM (K5) and treated or not at 2 DIV with NMDA (100 ␮M). After 3 and
+8 h, RNA extraction was done, and samples were subjected to the Affymetrix Rat Genome 430 2.0 array. The LIMMA package was used for statistical analysis to identify
+up- and down-regulated genes using a multiple test (adjusted p value⬍0.2). A, table of the up- and down-regulated genes at 3 and 8 h classified by -fold change
+increase or decrease (FC ⫽ -fold change). B, pie charts representing the ontological analysis of the up-regulated genes at 8. The most enriched programs are detailed.
+C, heat map of the up- and down-regulated genes at 8 h. Representative genes of the synaptic transmission and antiapoptotic programs are shown.
+
+Nurr1 Mediates CGCs Survival by NMDA
+
+synaptic transmission, or development as well as ionic
+metabolism and antiapoptotic program (Fig. 1B and supplemental Table III). All of them were in agreement with the
+category of signal transduction and cell communication that
+got the higher enrichment scores (Fig. 1B and supplemental
+Table III).
+A deeper analysis of the changes in gene expression indicated
+that 4.8% of the up-regulated genes demonstrated at least an
+increase of 5-fold in their expression, 8.5% had an increase
+between 3- and 5-fold, and 86.7% were increased over 1-fold but
+under 3-fold. In the case of down-regulated genes, all of them
+were between 1- and 3-fold change (Fig. 1A and supplemental Table II). In the group of genes that changed their expression over 5-fold, we found protein convertase subtilisin/
+kexin type 1 (Pcsk1), Vgf, FBJ murine osteosarcoma viral
+oncogene homolog (Fos), Bdnf, protein kinase AMP-activated ␥2 noncatalytic subunit, phosphodiesterase 10A, and
+the components of the Nr4a family: Nr4a1/Nur77, Nr4a2/
+Nurr1, and Nr4a3/NOR-1 (supplemental Table II). In the
+group of genes up-regulated over 3-fold but under 5-fold, we
+found, for example, synaptotagmin V, stanniocalcin 1,
+cAMP-response element modulator (Crem), myocyte
+enhancer factor 2, polypeptide C (Mef2C), ␥-aminobutyric
+acid (Gaba-A) receptor, subunit ␣ 5 (Gabra5), potassium
+MARCH 30, 2012 • VOLUME 287 • NUMBER 14
+
+voltage-gated channel, shaker-related subfamily member 4
+(Kcna4), and metabotropic glutamate receptor 4 (see supplemental Table II for further details).
+Zhang et al. (30) performed an exhaustive study of the
+gene expression changes in response to NMDAR stimulation
+comparing the profile between the protective and the excitotoxic stimulation in hippocampal neurons. We compared
+their results with our list of genes up-regulated at 3 h, and we
+obtained a list of candidates to participate in the NMDA
+prosurvival effect in our experimental model (Table l). From
+this list, we chose the Nr4a subfamily members because of
+their higher increase in expression, their potential role in
+apoptosis, and their unknown function in NMDA-mediated
+neuronal survival during cerebellum development.
+Nurr1 Is Involved in NMDA-mediated Neuronal Survival—
+The observed increase in gene expression of the Nr4a subfamily members was further confirmed by RT-PCR. An
+increase in Nr4a1, Nr4a2, and Nr4a3 was detected from 1 to
+24 h after treatment with NMDA or K25 (Fig. 2A). However,
+when the protein levels of the different members of Nr4a
+family were determined, only Nr4a2/Nurr1 protein levels
+showed a clear and consistent increase in response to NMDA
+or K25. Nr4a1/Nur77 and Nr4a3/NOR-1 protein levels were
+not increased. In fact, a clear decrease in Nr4a1 and Nr4a3
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+11355
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+FIGURE 2. Nr4a Family members are up-regulated in response to NMDA, but only Nurr1 protein levels are increased. CGCs were plated in 25 mM KCl (NT)
+or K5. At 2 DIV, K5 cells were treated or not with NMDA (100 ␮M) (N) or K25 (K). A and B, at the indicated times, RNA and cell lysates were obtained. RT-PCR (A)
+and Western blot (B) analyses were performed. Representative experiments are shown. Similar results were obtained in three independent experiments.
+C, CGCs were plated in K5. At 1 DIV, CGCs were transfected with pGL3-Basic or pGL3-Nurr1-promoter vectors, and at 2 DIV, K5 neurons were treated or not with
+NMDA (100 ␮M) or K25. Luciferase assay was performed 6 h after the treatment. Results are the mean ⫾ S.E. of values from three independent experiments
+performed in duplicate. ⫹⫹⫹, p ⬍ 0.001 versus K5 pGL3-Basic; ###, p ⬍ 0.001 versus NMDA pGL3-Basic; xxx, versus K25 pGL3-Basic; ***, p ⬍ 0.001 versus K5
+pGL3-Nurr1-promoter; **, p ⬍ 0.01 versus K5 pGL3-Nurr1-promoter.
+
+Nurr1 Mediates CGCs Survival by NMDA
+
+FIGURE 3. Nurr1 participates in NMDA neuroprotective effect. CGCs were
+plated in the presence of shRNA against Nurr1 (Nurr1_1) or a scrambled
+shRNA (scNurr1) as described under ”Experimental Procedures.“ At 2 DIV, cells
+were treated (or non-treated; NT) with NMDA (100 ␮M) or K25. A, upper panel,
+30 h after treatment, cell lysates were obtained and subjected to Western blot
+with Nurr1 antibody. Lower panel, quantification of Nurr1 levels of three
+independent experiments are shown in the graph; *, p ⬍ 0.05 versus
+
+11356 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+scNurr1. B, cell viability was assessed 7 DIV after treatment by MTT assay.
+Results are shown as mean ⫾ S.E. of values from three independent experiments performed in triplicate *, p ⬍ 0.05 versus NMDA scNurr1. C, at 7 DIV,
+chromatin condensation was assayed by staining with Hoechst 33258. Condensed nuclei were counted and represented as percentage versus total
+nuclei. Results are the mean ⫾ S.E. from three independent experiments performed in triplicate; *, p ⬍ 0.05 versus NMDA scNurr1.
+
+VOLUME 287 • NUMBER 14 • MARCH 30, 2012
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+was observed between 8 and 24 h after NMDA or K25 treatment (Fig. 2B).
+To further confirm the observed induction of Nurr1 after
+NMDA treatment, we decided to analyze the activation of its
+promoter in response to NMDA or K25 treatment. After 6 h
+of being treated, CGCs were subjected to a luciferase assay
+with a plasmid containing the Nurr1 promoter (pGL3Nurr1promoter). Granule neurons presented an increase of
+Nurr1 promoter activity in the presence of NMDA and K25
+versus K5 (Fig. 2C).
+Next, we analyzed the participation of Nurr1 in the effect of
+NMDA on neuronal survival by silencing its expression by
+shRNA. CGCs were plated in the presence of lentivirus vectors
+containing the shRNA against Nurr1 (Nurr1_1) sequence or
+shRNA containing a scrambled Nurr1 sequence (scNurr1) as a
+control. As shown in Fig. 3A, the presence of Nurr1_1 shRNA
+reduces NMDA-mediated increase in Nurr1 protein levels.
+Moreover, the prosurvival effect of NMDA was reduced in the
+presence of Nurr1_1 shRNA when either cell viability or the
+number of apoptotic nuclei was determined (Fig. 3, B and C). By
+contrast, the presence of the Nurr1_1 shRNA did not block the
+prosurvival effect of K25 (Fig. 3C).
+CREB Regulates NMDA-mediated Induction of Nurr1—It is
+widely supported that CREB is an important transcription factor in neuronal survival signaling. Moreover, it is also known
+that NMDA activates CREB and that its activation is necessary
+for NMDA-mediated neuronal survival (28, 29). Our results
+confirmed that in our experimental system, NMDA activates
+CREB. As shown in Fig. 4A, treatment of CGC cultures with
+NMDA produced a time-dependent increase in the phosphorylation levels of phospho-Ser133-CREB. The increase was evident 1 h after NMDA treatment and reached its higher significance at 8 h (Fig. 4A). We analyzed whether this activation was
+accompanied with a higher activity of CREB on Nurr1 promoter by performing a chromatin immunoprecipitation assay.
+K5 cultures were treated at 2 DIV with NMDA or K25, and 90
+min after, cells were fixed to promote the cross-linking of DNA
+and proteins. A co-immunoprecipitation of the soluble chromatin was performed with phospho-Ser133-CREB antibody.
+The products of de-cross-linking were subjected to Q-RT-PCR
+with the primers flanking the Nurr1 promoter that contains the
+Cre binding site. We observed a clear increase in CREB binding
+to the Nurr1 promoter in the presence of NMDA. An increase
+in the binding was observed neither in K5 nor in K25 cultures
+(Fig. 4B). Moreover, we assessed the promoter activity in the
+presence of two CREB shRNA (creb_1 and creb_2). As shown in
+Fig. 4C, both shRNA were able to reduce CREB levels, with the
+creb_1 shRNA having a greater effect. Accordingly, both
+shRNA inhibited NMDA-mediated activation of Nurr1 promoter, with the creb_1 shRNA having a greater effect reducing
+the NMDA-mediated increase in Nurr1 protein levels than the
+
+Nurr1 Mediates CGCs Survival by NMDA
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+FIGURE 4. CREB regulates Nurr1 induction by NMDA. Neurons cultured in K5 were treated (or non-treated; NT) with NMDA (100 ␮M) or K25 at 2 DIV.
+A, phosphorylation of CREB (pCREB) and total CREB were determined by Western blot at the indicated times. Data are presented as mean ⫾ S.E. of three
+independent experiments; ⫹⫹, p ⬍ 0.01 versus K5. B, recruitment of phospho-CREB to nurr1-promoter was determined 90 min after treatment by ChIP assay
+(see ”Experimental Procedures“). Data represent -fold enrichment (mean ⫾ S.E.) versus K5 condition performed in three independent experiments; **, p ⬍ 0.01
+versus K5. C, D, and E, cells were plated in the presence of lentiviruses containing the indicated shRNAs and treated with NMDA at 2 DIV. Cell lysates where
+obtained 30 h after treatment to determine CREB (C) or Nurr1 (E) levels. A luciferase assay of Nurr1-promoter was performed as described under ”Experimental
+Procedures.“ D, 6 h after treatment. Data are shown as the mean ⫾ S.E. of three or four independent experiments. **, p ⬍ 0.01, and *, p ⬍ 0.05 versus scNurr1.
+
+creb_2 shRNA (Fig. 4, D and E). Blockade of Creb expression by
+CREB shRNA did not modify the activity associated with Nurr1
+promoter and Nurr1 protein levels in K5 cultures (data not
+shown).
+Bdnf Is Regulated by Nurr1 in Response to NMDA—Several
+genes have been reported to be regulated by the transcription
+factor Nurr1. Most of them are related to the maturation and
+MARCH 30, 2012 • VOLUME 287 • NUMBER 14
+
+maintenance of dopaminergic neurons. However, a few, such as
+BDNF, vasoactive intestinal peptide (VIP), or ␣-synuclein, have
+been described to be involved in CGC survival (31–33). Thus,
+we decided to explore whether one of these Nurr1 targeted
+genes was related to the prosurvival effect of NMDA on CGCs.
+First, we analyzed their protein levels in CGCs treated with
+NMDA or K25 in comparison with K5 conditions. We did not
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+11357
+
+Nurr1 Mediates CGCs Survival by NMDA
+
+FIGURE 5. Nurr1 regulates NMDA-mediated increase in BDNF levels and
+has similar expression pattern to neurotrophin during postnatal cerebellum development. A, CGCs were plated in the presence or absence of the
+indicated shRNA and treated (or non-treated; NT) at 2 DIV with NMDA (100
+␮M) or K25. BDNF protein levels were assessed by Western blot 30 h after
+treatment. Data are from a representative experiment. Three additional independent experiments showed similar results. B, recruitment of Nurr1 to Bdnf
+promoters III and IV was determined 90 min after treatment by ChIP assay (see
+”Experimental Procedures“). Data represent -fold enrichment (mean ⫾ S.E.)
+versus K5 condition performed in three independent experiments; **, p ⬍
+0.01 versus K5. C, protein extracts from different postnatal ages of rat cerebellum were subjected to Western blot analysis to determine Nurr1 and BDNF
+levels. A representative Western blot is shown. Three or four animals of each
+age were analyzed and gave similar results.
+
+find any differences in VIP and ␣-synuclein when their protein
+levels were compared in the presence or absence of NMDA
+(data not shown). However, we observed that although BDNF
+protein levels were barely detectable in K5, NMDA dramatically increased BDNF levels (Fig. 5A). This fact was in accordance with the NMDA-mediated increase in Bdnf expression
+observed at 3 and 8 h with the Affymetrix array platform (supplemental Tables I and II). Activity-dependent Bdnf up-regula-
+
+11358 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+DISCUSSION
+NMDAR stimulation is necessary for neuronal survival
+and development in different cerebral areas. One example of
+such NMDAR dependence is CGCs. Survival of these neurons during their postnatal migration from the external
+granule layer toward the internal granule layer (5, 6) requires
+excitatory inputs from the mossy fibers acting through the
+NMDARs of CGCs. Failure to receive mossy fibers inputs
+triggers apoptotic CGC death (10, 11, 36). In culture, CGCs
+are also sensitive to NMDAR stimulation for their survival.
+When CGCs are cultured in nondepolarized culture medium
+containing K5, the CGCs die by apoptosis (12). However, if
+NMDA is added to the medium, the CGCs will survive for
+several days (13).
+Some studies have shown that the prosurvival effect of
+NMDA is mediated by synaptic NMDAR (30, 37). It is
+believed that calcium entry through synaptic NMDAR triggers CREB activation (38) likely by stimulation of calmodulin
+kinases and/or MEK/ERK kinase pathways (14, 39). In CGCs,
+VOLUME 287 • NUMBER 14 • MARCH 30, 2012
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+tion has been attributed to CREB activity (34). To check
+whether CREB was involved in NMDA- and Nurr1-mediated
+increase in Bdnf expression, we decided to perform a ChIP assay
+with the Bdnf promoter IV (35), 90 min and 3 h after NMDA or
+K25 treatment. We were unable to detect any significant differences at 90 min in K25-treated cells. However, a robust increase
+in CREB binding to Bdnf promoter IV was observed in K25treated cells after 3 h. However, we did not find differences
+between NMDA and K5 either at 90 min or at 3 h (supplemental
+Fig. 1), suggesting that CREB is not the transcription factor
+directly involved in NMDA-mediated activation of Bdnf
+expression. Next, we assessed the levels of BDNF in the presence of Nurr1_1 shRNA to know whether NMDA-mediated
+BDNF induction could be due to Nurr1. As shown in Fig. 5A,
+reducing Nurr1 levels produced a reduction in BDNF protein
+levels, suggesting that Nurr1 is directly involved in NMDAmediated induction of Bdnf expression in CGC cultures. This
+suggestion was confirmed when we assessed Nurr1 binding to
+Bdnf promoter IV by ChIP assay. Our results show that Nurr1
+binding to Bdnf promoter IV is clearly increased in NMDAtreated cells. No changes in Nurr1 binding were observed in
+K25-treated cells (Fig. 5B). Moreover, NMDA-mediated Nurr1
+binding to Bdnf promoter seems to be selective because no
+binding was observed to other Bdnf promoters such as promoter III (Fig. 5B).
+Next, we performed a first approximation of the in vivo situation by determining the protein levels of Nurr1 and BDNF by
+Western blot in cerebellum lysates at different days after birth.
+We observed that both mature BDNF and Nurr1 protein levels
+increased in the cerebellum during the second postnatal week
+in a similar way (Fig. 5C). We went deeper in the expression
+analysis of Nurr1 by performing an immunohistochemistry
+analysis to know which cells were expressing Nurr1 and
+whether its expression was homogeneous in all lobes of the
+cerebellum. We detected Nurr1 mainly in the internal granule
+layer. Moreover, the expression of Nurr1 was more evident in
+the nodulus (lobe X) than in the other lobes of the cerebellum
+(Fig. 6 and supplemental Fig. 2).
+
+Nurr1 Mediates CGCs Survival by NMDA
+
+FIGURE 6. Nurr1 expression is mainly restricted to nodulus lobe. Sagittal sections of cerebellum from P9, P14, and P21 rats were obtained and subjected to
+Nurr1 immunohistochemistry. Nurr1-increased expression during the different postnatal days was clearly evident in the nodulus lobe. Representative pictures
+of each age are shown (10⫻, 20⫻, 40⫻, and a reconstruction of whole cerebellum of each age performed with 2⫻ photographs). The squares indicate the
+magnified area (nodulus), and the arrows indicate cells positive to Nurr1 staining.
+
+A comparative analysis between the up-regulated genes at 3 h after NMDA treatment in CGC culture and action potential-bursting stimulation for 2 h in hippocampal
+cultures (30) shows a list of CREB-dependent genes. The symbols indicate: 1 ⬎1-fold change and ⬍3-fold change; 11, ⬎3-fold change and ⬍5-fold change; 111,
+⬎5-fold change.
+Gene
+symbol
+
+Reference
+sequence
+
+Gene title
+
+FC at 3h
+
+Atf3
+Bdnf
+Cpd
+Crem
+Fos
+Homer1
+Nfil3
+Nr4a1
+Nr4a2
+Nr4a3
+Pcsk1
+Plagl1
+Rem2
+Snf1lk
+Vgf
+
+NM_012912
+NM_012513
+NM_012836
+NM_013086
+NM_022197
+NM_031707
+NM_053727
+NM_024388
+NM_019328
+NM_017352
+NM_017091
+NM_012760
+NM_022685
+NM_021693
+NM_030997
+
+Activating transcription factor 3
+Brain derived neurotrophic factor
+Carboxypeptidase D
+cAMP responsive element modulator
+FBJ murine osteosarcoma viral oncogene homolog
+Homer homolog 1 (Drosophila)
+Nuclear factor, interleukin 3 regulated
+Nuclear receptor subfamily 4, group A, member 1
+Nuclear receptor subfamily 4, group A, member 2
+Nuclear receptor subfamily 4, group A, member 3
+Proprotein convertase subtilisin/kexin type 1
+Pleomorphic adenoma gene-like 1
+Rad- and gem-related GTP-binding protein 2
+SNF1-like kinase
+VGF nerve growth factor-inducible
+
+11
+11
+1
+11
+111
+11
+1
+111
+111
+111
+11
+1
+1
+1
+11
+
+it has been suggested that the prosurvival effect of NMDAR
+stimulation also needs CREB activation (19), the release of
+the neurotrophin BDNF (13, 40, 41), the activation of the
+PI3K/Akt/PKB pathway (18, 42), and the inactivation of
+FOXO transcriptional activity (43). By contrast, the involvement of the MEK/ERK pathway is highly controversial (13,
+28, 40).
+Because the intracellular signaling triggered by synaptic
+NMDAR to promote neuronal survival is still only partially
+known, we have used DNA microarrays to have a complete
+picture of the NMDA-mediated differences in the transcriptome. This methodology has allowed us not only to identify
+single genes that could mediate the prosurvival effect of
+NMDAR stimulation, but also to identify which functional
+genetic modules are activated. Our ontological analysis
+revealed that functional clusters related to neuronal development as well as neurogenesis and antiapoptotic programs were
+enriched in NMDA-treated cells. Accordingly, we detected upregulation of the ␣1, ␥2, and ␦ subunits of the GABAA receptor
+and a reduction of the catalytic subunit of calcineurin, postuMARCH 30, 2012 • VOLUME 287 • NUMBER 14
+
+lated to be responsible for the maturation blockade of CGCs
+(44).6 Several genes, related to the development and/or survival
+of CGCs, were also up-regulated in NMDA-treated cells, such
+as Bdnf, neurocalcin, Vgf, and Pcsk1/3 (31, 45– 49). We decided
+to cross-check the list of genes that were up-regulated in
+NMDA-treated CGCs at 3 h with the list of up-regulated genes
+obtained by Zhang et al. (30) after an action potential-bursting
+condition. From all the genes up-regulated in both conditions
+(listed in Table 1), we focused our interest on the members of
+the Nr4a subfamily because their role in cerebellum development and NMDA-mediated neuroprotection was barely
+unknown. Only a previous study had suggested that Nur77 protects hippocampal neurons in culture from staurosporine and
+growth factor removal-induced toxicity in vitro and protects
+hippocampal neurons from kainate-induced toxicity in vivo
+(30). RT-PCR analysis confirmed the increase in the expression
+of all the Nr4a subfamily members. However, only Nurr1 pro-
+
+6
+
+B. Barneda-Zahonero and J. Rodríguez-Alvarez, unpublished data.
+
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+11359
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+TABLE 1
+Up-regulated genes in action potential bursting and at 3 h after NMDA treatment
+
+Nurr1 Mediates CGCs Survival by NMDA
+
+11360 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+increase in mature BDNF expression linked to NMDA prosurvival effect. Moreover, the histological analysis that
+revealed that Nurr1 restricted expression in the nodulus
+during cerebellum development opens a possibility to consider Nurr1 as a regulator of cerebellar lobe functional
+definition.
+REFERENCES
+1. Gould, E., Cameron, H. A., and McEwen, B. S. (1994) Blockade of NMDA
+receptors increases cell death and birth in the developing rat dentate
+gyrus. J. Comp. Neurol. 340, 551–565
+2. Ikonomidou, C., Bosch, F., Miksa, M., Bittigau, P., Vöckler, J., Dikranian,
+K., Tenkova, T. I., Stefovska, V., Turski, L., and Olney, J. W. (1999) Blockade of NMDA receptors and apoptotic neurodegeneration in the developing brain. Science 283, 70 –74
+3. Adams, S. M., de Rivero Vaccari, J. C., and Corriveau, R. A. (2004) Pronounced cell death in the absence of NMDA receptors in the developing
+somatosensory thalamus. J. Neurosci. 24, 9441–9450
+4. Balázs, R., Jørgensen, O. S., and Hack, N. (1988) N-Methyl-D-aspartate
+promotes the survival of cerebellar granule cells in culture. Neuroscience
+27, 437– 451
+5. Altman, J. (1972) Postnatal development of the cerebellar cortex in the rat.
+3: maturation of the components of the granular layer. J. Comp. Neurol.
+145, 465–513
+6. Komuro, H., Yacubova, E., Yacubova, E., and Rakic, P. (2001) Mode and
+tempo of tangential cell migration in the cerebellar external granular layer.
+J. Neurosci. 21, 527–540
+7. Tárnok, K., Czöndör, K., Jelitai, M., Czirók, A., and Schlett, K. (2008)
+NMDA receptor NR2B subunit overexpression increases cerebellar granule cell migratory activity. J. Neurochem. 104, 818 – 829
+8. Mancini, J. D., and Atchison, W. D. (2007) The NR2B subunit in NMDA
+receptors is functionally important during cerebellar granule cell migration. Neurosci. Lett. 429, 87–90
+9. Monti, B., and Contestabile, A. (2000) Blockade of the NMDA receptor
+increases developmental apoptotic elimination of granule neurons and
+activates caspases in the rat cerebellum. Eur. J. Neurosci. 12, 3117–3123
+10. Wood, K. A., Dipasquale, B., and Youle, R. J. (1993) In situ labeling of
+granule cells for apoptosis-associated DNA fragmentation reveals different mechanisms of cell loss in developing cerebellum. Neuron 11,
+621– 632
+11. Burgoyne, R. D., and Cambray-Deakin, M. A. (1988) The cellular neurobiology of neuronal development: the cerebellar granule cell. Brain Res.
+472, 77–101
+12. Gallo, V., Kingsbury, A., Balázs, R., and Jørgensen, O. S. (1987) The role of
+depolarization in the survival and differentiation of cerebellar granule cells
+in culture. J. Neurosci. 7, 2203–2213
+13. Xifro, X., Malagelada, C., Miñano, A., and Rodríguez-Alvarez, J. (2005)
+Brief exposure to NMDA produces long-term protection of cerebellar
+granule cells from apoptosis. Eur. J. Neurosci. 21, 827– 840
+14. Bonni, A., Brunet, A., West, A. E., Datta, S. R., Takasu, M. A., and Greenberg, M. E. (1999) Cell survival promoted by the Ras-MAPK signaling
+pathway by transcription-dependent and -independent mechanisms. Science 286, 1358 –1362
+15. Brunet, A., Datta, S. R., and Greenberg, M. E. (2001) Transcription-dependent and -independent control of neuronal survival by the PI3K-Akt signaling pathway. Curr. Opin. Neurobiol. 11, 297–305
+16. Estus, S., Zaks, W. J., Freeman, R. S., Gruda, M., Bravo, R., and Johnson,
+E. M., Jr. (1994) Altered gene expression in neurons during programmed
+cell death: identification of c-jun as necessary for neuronal apoptosis.
+J. Cell Biol. 127, 1717–1727
+17. Enguita, M., DeGregorio-Rocasolano, N., Abad, A., and Trullas, R. (2005)
+Glycogen synthase kinase 3 activity mediates neuronal pentraxin 1 expression and cell death induced by potassium deprivation in cerebellar granule
+cells. Mol. Pharmacol. 67, 1237–1246
+18. Zhang, F. X., Rubin, R., and Rooney, T. A. (1998) N-Methyl-D-aspartate
+inhibits apoptosis through activation of phosphatidylinositol 3-kinase in
+cerebellar granule neurons: a role for insulin receptor substrate-1 in the
+
+VOLUME 287 • NUMBER 14 • MARCH 30, 2012
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+tein levels were consistently increased after NMDA treatment.
+By contrast, Nur77 was down-regulated by NMDA in CGCs,
+precluding its effect as a prosurvival factor in these cells.
+Although Nurr1 is involved in the development and differentiation of the midbrain dopaminergic neurons (50) and regulates genes such as tyrosine hydroxylase and dopamine transporter (51), the fact is that some studies have also shown that it
+controls the transcription of proteins such as the VIP (52); ␣-synuclein, (53)); or BDNF (54), which have been related to CGC
+survival (31–33, 45). These evidences suggested to us that
+Nurr1 could be a putative candidate to mediate NMDA prosurvival action. Accordingly, Nurr1 shRNA reduced NMDA protective effect, showing that endogenous Nurr1 is involved in the
+prosurvival signaling triggered by NMDAR. By contrast, no
+reduction was observed in the prosurvival effect of K25. As
+mentioned above, Nurr1 expression is regulated by CREB in
+non-neuronal and in neuronal cells (27, 55, 56). Our data show
+for the first time that CREB binds to Nurr1 promoter in
+response to NMDA treatment. In addition, reducing CREB levels by shRNA leads to a reduction in the Nurr1 promoter activity as well as a decrease of Nurr1 protein levels in NMDAtreated neurons.
+Next, we became interested in identifying the substrate/
+substrates of Nurr1 that could be responsible for the prosurvival effect of NMDA. As mentioned above, Nurr1 has been
+described to regulate the expression of Bdnf in midbrain
+neurons (54), and it is known that BDNF is important in
+migration and maintenance of CGCs during cerebellum
+development (45, 57, 58). Moreover, BDNF has been suggested to mediate NMDA prosurvival effect on CGCs (13, 40,
+41). All these studies allowed us to hypothesize that Nurr1
+could be responsible for NMDA-mediated regulation of
+Bdnf. Our data support that possibility because: (a) silencing
+Nurr1 expression by shRNA produced a decrease in BDNF
+levels in NMDA-treated neurons and (b) NMDA increases
+the binding of Nurr1 to Bdnf promoter IV. This binding
+seems to be specific to certain Bdnf promoters because no
+binding of Nurr1 to Bdnf promoter III was observed. It has
+been also reported that CREB could interact with the Bdnf
+promoter in cortical neurons after KCl stimulation (34). Our
+results indicate that in CGCs, the interaction of CREB with
+the Bdnf promoter IV is enhanced by KCl stimulation (K25),
+whereas it is not enhanced by NMDA treatment (supplemental Fig. 1). Thus, we can conclude that in CGCs, NMDAR
+stimulation triggers CREB-dependent Nurr1 activation that
+results in a BDNF up-regulation. In this context, we have
+observed in vivo that Nurr1 and mature BDNF levels
+increase from P9 to P21, suggesting Nurr1 as a mediator of
+survival of CGCs during cerebellum development. Additionally, our immunohistochemistry analyses of Nurr1 localization during cerebellum development report for the first time
+a lobe-specific expression of Nurr1.
+In summary, we have identified by whole genome expression profiling which neuronal genes change their expression
+level when survival of CGCs is triggered by NMDAR stimulation. We have characterized Nurr1 as a key mediator factor
+in NMDA-dependent survival of CGCs. Nurr1 is a downstream target of CREB activation and is responsible of the
+
+Nurr1 Mediates CGCs Survival by NMDA
+
+MARCH 30, 2012 • VOLUME 287 • NUMBER 14
+
+NMDARs oppose synaptic NMDARs by triggering CREB shut-off and cell
+death pathways. Nat. Neurosci. 5, 405– 414
+38. Hardingham, G. E., Arnold, F. J., and Bading, H. (2001) Nuclear calcium
+signaling controls CREB-mediated gene expression triggered by synaptic
+activity. Nat. Neurosci. 4, 261–267
+39. Xia, Z., Dudek, H., Miranti, C. K., and Greenberg, M. E. (1996) Calcium
+influx via the NMDA receptor induces immediate early gene transcription
+by a MAP kinase/ERK-dependent mechanism. J. Neurosci. 16, 5425–5436
+40. Bhave, S. V., Ghoda, L., and Hoffman, P. L. (1999) Brain-derived neurotrophic factor mediates the antiapoptotic effect of NMDA in cerebellar
+granule neurons: signal transduction cascades and site of ethanol action.
+J. Neurosci. 19, 3277–3286
+41. Marini, A. M., Rabin, S. J., Lipsky, R. H., and Mocchetti, I. (1998) Activitydependent release of brain-derived neurotrophic factor underlies the neuroprotective effect of N-methyl-D-aspartate. J. Biol. Chem. 273,
+29394 –29399
+42. Dudek, H., Datta, S. R., Franke, T. F., Birnbaum, M. J., Yao, R., Cooper,
+G. M., Segal, R. A., Kaplan, D. R., and Greenberg, M. E. (1997) Regulation
+of neuronal survival by the serine-threonine protein kinase Akt. Science
+275, 661– 665
+43. Brunet, A., Bonni, A., Zigmond, M. J., Lin, M. Z., Juo, P., Hu, L. S., Anderson, M. J., Arden, K. C., Blenis, J., and Greenberg, M. E. (1999) Akt promotes cell survival by phosphorylating and inhibiting a Forkhead transcription factor. Cell 96, 857– 868
+44. Okazawa, M., Abe, H., Katsukawa, M., Iijima, K., Kiwada, T., and Nakanishi, S. (2009) Role of calcineurin signaling in membrane potentialregulated maturation of cerebellar granule cells. J. Neurosci. 29,
+2938 –2947
+45. Schwartz, P. M., Borghesani, P. R., Levy, R. L., Pomeroy, S. L., and Segal,
+R. A. (1997) Abnormal cerebellar development and foliation in BDNF⫺/⫺
+mice reveals a role for neurotrophins in CNS patterning. Neuron 19,
+269 –281
+46. Braunewell, K. H., Klein-Szanto, A. J. (2009) Visinin-like proteins
+(VSNLs): interaction partners and emerging functions in signal transduction of a subfamily of neuronal Ca2⫹ sensor proteins. Cell Tissue Res. 335,
+301–316
+47. Trani, E., Ciotti, T., Rinaldi, A. M., Canu, N., Ferri, G. L., Levi, A., and
+Possenti, R. (1995) Tissue-specific processing of the neuroendocrine protein VGF. J. Neurochem. 65, 2441–2449
+48. Severini, C., Ciotti, M. T., Biondini, L., Quaresima, S., Rinaldi, A. M., Levi,
+A., Frank, C., and Possenti, R. (2008) TLQP-21, a neuroendocrine VGFderived peptide, prevents cerebellar granule cells death induced by serum
+and potassium deprivation. J. Neurochem. 104, 534 –544
+49. Farioli-Vecchioli, S., Tanori, M., Micheli, L., Mancuso, M., Leonardi, L.,
+Saran, A., Ciotti, M. T., Ferretti, E., Gulino, A., Pazzaglia, S., and Tirone, F.
+(2007) Inhibition of medulloblastoma tumorigenesis by the antiproliferative and pro-differentiative gene PC3. FASEB J. 21, 2215–2225
+50. Saucedo-Cardenas, O., Quintana-Hau, J. D., Le, W. D., Smidt, M. P., Cox,
+J. J., De Mayo, F., Burbach, J. P., and Conneely, O. M. (1998) Nurr1 is
+essential for the induction of the dopaminergic phenotype and the survival
+of ventral mesencephalic late dopaminergic precursor neurons. Proc. Natl.
+Acad. Sci. U.S.A. 95, 4013– 4018
+51. Smits, S. M., Ponnio, T., Conneely, O. M., Burbach, J. P., and Smidt, M. P.
+(2003) Involvement of Nurr1 in specifying the neurotransmitter identity
+of ventral midbrain dopaminergic neurons. Eur. J. Neurosci. 18,
+1731–1738
+52. Luo, Y., Henricksen, L. A., Giuliano, R. E., Prifti, L., Callahan, L. M., and
+Federoff, H. J. (2007) VIP is a transcriptional target of Nurr1 in dopaminergic cells. Exp. Neurol. 203, 221–232
+53. Yang, Y. X., and Latchman, D. S. (2008) Nurr1 transcriptionally regulates
+the expression of ␣-synuclein. Neuroreport 19, 867– 871
+54. Volpicelli, F., Caiazzo, M., Greco, D., Consales, C., Leone, L., PerroneCapano, C., Colucci D’Amato, L., and di Porzio, U. (2007) Bdnf gene is a
+downstream target of Nurr1 transcription factor in rat midbrain neurons
+in vitro. J. Neurochem. 102, 441– 453
+55. Darragh, J., Soloaga, A., Beardmore, V. A., Wingate, A. D., Wiggin, G. R.,
+Peggie, M., and Arthur, J. S. (2005) MSKs are required for the transcription
+of the nuclear orphan receptors Nur77, Nurr1, and Nor1 downstream of
+
+JOURNAL OF BIOLOGICAL CHEMISTRY
+
+11361
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+neurotrophic action of N-methyl-D-aspartate and its inhibition by ethanol. J. Biol. Chem. 273, 26596 –26602
+19. Monti, B., Marri, L., and Contestabile, A. (2002) NMDA receptor-dependent CREB activation in survival of cerebellar granule cells during in vivo
+and in vitro development. Eur. J. Neurosci. 16, 1490 –1498
+20. Zheng, W. H., Kar, S., and Quirion, R. (2002) Insulin-like growth factor1-induced phosphorylation of transcription factor FKHRL1 is mediated
+by phosphatidylinositol 3-kinase/Akt kinase and role of this pathway in
+insulin-like growth factor-1-induced survival of cultured hippocampal
+neurons. Mol. Pharmacol. 62, 225–233
+21. Ryu, H., Lee, J., Zaman, K., Kubilis, J., Ferrante, R. J., Ross, B. D., Neve,
+R., and Ratan, R. R. (2003) Sp1 and Sp3 are oxidative stress-inducible,
+antideath transcription factors in cortical neurons. J. Neurosci. 23,
+3597–3606
+22. Wang, X., Tang, X., Li, M., Marshall, J., and Mao, Z. (2005) Regulation of
+neuroprotective activity of myocyte-enhancer factor 2 by cAMP-protein
+kinase A signaling pathway in neuronal survival. J. Biol. Chem. 280,
+16705–16713
+23. Tissir, F., Ravni, A., Achouri, Y., Riethmacher, D., Meyer, G., and Goffinet,
+A. M. (2009) DeltaNp73 regulates neuronal survival in vivo. Proc. Natl.
+Acad. Sci. U.S.A. 106, 16871–16876
+24. Naldini, L., Blömer, U., Gage, F. H., Trono, D., and Verma, I. M. (1996)
+Efficient transfer, integration, and sustained long-term expression of the
+transgene in adult rat brains injected with a lentiviral vector. Proc. Natl.
+Acad. Sci. U.S.A. 93, 11382–11388
+25. Zufferey, R., Dull, T., Mandel, R. J., Bukovsky, A., Quiroz, D., Naldini, L.,
+and Trono, D. (1998) Self-inactivating lentivirus vector for safe and efficient in vivo gene delivery. J. Virol. 72, 9873–9880
+26. Cullen, B. R. (1987) Use of eukaryotic expression technology in the functional analysis of cloned genes. Methods Enzymol. 152, 684 –704
+27. McEvoy, A. N., Murphy, E. A., Ponnio, T., Conneely, O. M., Bresnihan, B.,
+FitzGerald, O., and Murphy, E. P. (2002) Activation of nuclear orphan
+receptor NURR1 transcription by NF-␬B and cyclic adenosine 5⬘-monophosphate response element-binding protein in rheumatoid arthritis synovial tissue. J. Immunol. 168, 2979 –2987
+28. Lafon-Cazal, M., Perez, V., Bockaert, J., and Marin, P. (2002) Akt mediates
+the antiapoptotic effect of NMDA but not that induced by potassium
+depolarization in cultured cerebellar granule cells. Eur. J. Neurosci. 16,
+575–583
+29. Soriano, F. X., Papadia, S., Hofmann, F., Hardingham, N. R., Bading, H.,
+and Hardingham, G. E. (2006) Preconditioning doses of NMDA promote
+neuroprotection by enhancing neuronal excitability. J. Neurosci. 26,
+4509 – 4518
+30. Zhang, S. J., Steijaert, M. N., Lau, D., Schütz, G., Delucinge-Vivier, C.,
+Descombes, P., and Bading, H. (2007) Decoding NMDA receptor signaling: identification of genomic programs specifying neuronal survival and
+death. Neuron 53, 549 –562
+31. Kubo, T., Nonomura, T., Enokido, Y., and Hatanaka, H. (1995) Brainderived neurotrophic factor (BDNF) can prevent apoptosis of rat cerebellar granule neurons in culture. Brain Res. Dev. Brain Res. 85,
+249 –258
+32. Fukuchi, M., Sakuragawa, S., Tabuchi, A., and Tsuda, M. (2004) Calcium
+signal-mediated expression of the vasoactive intestinal polypeptide gene
+and its small contribution to activity-dependent survival of mouse cerebellar granule cells. J. Neurosci. Res. 77, 26 –34
+33. Monti, B., Polazzi, E., Batti, L., Crochemore, C., Virgili, M., and Contestabile, A. (2007) ␣-Synuclein protects cerebellar granule neurons against
+6-hydroxydopamine-induced death. J. Neurochem. 103, 518 –530
+34. Tao, X., Finkbeiner, S., Arnold, D. B., Shaywitz, A. J., and Greenberg, M. E.
+(1998) Ca2⫹ influx regulates BDNF transcription by a CREB family transcription factor-dependent mechanism. Neuron 20, 709 –726
+35. Aid, T., Kazantseva, A., Piirsoo, M., Palm, K., and Timmusk, T. (2007)
+Mouse and rat BDNF gene structure and expression revisited. J. Neurosci.
+Res. 85, 525–535
+36. Contestabile, A. (2002) Cerebellar granule cells as a model to study mechanisms of neuronal apoptosis or survival in vivo and in vitro. Cerebellum.
+1, 41–55
+37. Hardingham, G. E., Fukunaga, Y., and Bading, H. (2002) Extrasynaptic
+
+Nurr1 Mediates CGCs Survival by NMDA
+MAPK signaling. Biochem. J. 390, 749 –759
+56. Ravnskjaer, K., Kester, H., Liu, Y., Zhang, X., Lee, D., Yates, J. R., 3rd, and
+Montminy, M. (2007) Cooperative interactions between CBP and TORC2
+confer selectivity to CREB target gene expression. EMBO J. 26,
+2880 –2889
+57. Borghesani, P. R., Peyrin, J. M., Klein, R., Rubin, J., Carter, A. R., Schwartz,
+
+P. M., Luster, A., Corfas, G., and Segal, R. A. (2002) BDNF stimulates
+migration of cerebellar granule cells. Development 129, 1435–1442
+58. Zhou, P., Porcionatto, M., Pilapil, M., Chen, Y., Choi, Y., Tolias, K. F.,
+Bikoff, J. B., Hong, E. J., Greenberg, M. E., and Segal, R. A. (2007) Polarized
+signaling endosomes coordinate BDNF-induced chemotaxis of cerebellar
+precursors. Neuron 55, 53– 68
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+11362 JOURNAL OF BIOLOGICAL CHEMISTRY
+
+VOLUME 287 • NUMBER 14 • MARCH 30, 2012
+
+Nurr1 Protein Is Required for N-Methyl-d-aspartic Acid (NMDA)
+Receptor-mediated Neuronal Survival
+Bruna Barneda-Zahonero, Joan-Marc Servitja, Nahuai Badiola, Alfredo J.
+Miñano-Molina, Rut Fadó, Carlos A. Saura and José Rodríguez-Alvarez
+J. Biol. Chem. 2012, 287:11351-11362.
+doi: 10.1074/jbc.M111.272427 originally published online January 31, 2012
+
+Access the most updated version of this article at doi: 10.1074/jbc.M111.272427
+Alerts:
+• When this article is cited
+• When a correction for this article is posted
+
+Supplemental material:
+http://www.jbc.org/content/suppl/2012/01/31/M111.272427.DC1
+This article cites 58 references, 22 of which can be accessed free at
+http://www.jbc.org/content/287/14/11351.full.html#ref-list-1
+
+Downloaded from http://www.jbc.org/ by guest on August 3, 2018
+
+Click here to choose from all of JBC's e-mail alerts
+
+

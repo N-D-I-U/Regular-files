@@ -1,0 +1,1013 @@
+HIPPOCAMPUS 00:00–00 (2015)
+
+Dopamine D1/D5 Receptor Signaling Regulates Synaptic Cooperation
+and Competition in Hippocampal CA1 Pyramidal Neurons via
+Sustained ERK1/2 Activation
+Mahesh Shivarama Shetty,1,2 Suma Gopinadhan,1 and Sreedharan Sajikumar1,2*
+
+ABSTRACT: Synaptic cooperation and competition are important
+components of synaptic plasticity that tune synapses for the formation
+of associative long-term plasticity, a cellular correlate of associative
+long-term memory. We have recently reported that coincidental activation of weak synapses within the vicinity of potentiated synapses will
+alter the cooperative state of synapses to a competitive state thus leading to the slow decay of long-term plasticity, but the molecular mechanism underlying this is still unknown. Here, using acute hippocampal
+slices of rats, we have examined how increasing extracellular dopamine
+concentrations interact and/or affect electrically induced long-term
+potentiation (LTP) in the neighboring synapses. We demonstrate that
+D1/D5-receptor-mediated potentiation at the CA1 Schaffer collateral
+synapses differentially regulates synaptic co-operation and competition.
+Further investigating the molecular players involved, we reveal an
+important role for extracellular signal-regulated kinases-1 and 2 (ERK1/
+2) as signal integrators and dose-sensors. Interestingly, a sustained activation of ERK1/2 pathway seems to be involved in the differential regulation of synaptic associativity. The concentration-dependent effects of
+the modulatory transmitter, as demonstrated for dopaminergic signaling
+in the present study, might offer additional computational power by
+fine tuning synaptic associativity processes for establishing long-term
+C 2015 The Authors Hippocampus
+associative memory in neural networks. V
+Published by Wiley Periodicals, Inc.
+
+This is an open access article under the terms of the Creative Commons
+Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited, the
+use is non-commercial and no modifications or adaptations are made.
+1
+Department of Physiology, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore; 2 Neurobiology/Aging Program, Life
+Sciences Institute (LSI), National University of Singapore, Singapore
+Additional Supporting Information may be found in the online version of
+this article.
+S.S and M.S.S designed the work. M.S.S and S.G performed the experiments. M.S.S and S.S analyzed the data. M.S.S and S.S wrote the
+manuscript.
+Grant sponsor: National Medical Research Council; Grant number:
+NMRC-CBRG-0041/2013; Grant sponsor: Ministry of Education; Grant
+number: MOE AcRF-Tier 1-T1-2012 Oct-02.
+Abbreviations used: APB, 6-bromo-APB; CREB, cyclic-AMP response
+element-binding protein; DA, dopamine; ERK1/2, extracellular signalregulated kinases-1 and 2; LTP, long-term potentiation; MNK1, MAPkinase-interacting kinase-1; PI3 kinase, phosphatidylinositide-3-kinase;
+RSK2, ribosomal S6-kinase-2; STC, synaptic tagging and capture;
+WTET, weak tetanisation.
+*Correspondence to: Sreedharan Sajikumar, Neurobiology/Aging Program, #04-44, 28 Medical Drive, Life Sciences Institute (LSI), National
+University of Singapore, Singapore-117 456. E-mail: phssks@nus.edu.sg
+Accepted for publication 16 July 2015.
+DOI 10.1002/hipo.22497
+Published online 00 Month 2015 in Wiley Online Library
+(wileyonlinelibrary.com).
+
+KEY WORDS:
+long-term potentiation; D1/D5
+receptor; synaptic tagging; synaptic capture; ERK1/2
+
+INTRODUCTION
+The neurotransmitter dopamine (DA) is well recognized as a modulator of the plasticity processes underlying learning, memory, and emotional processing (Jay,
+2003; Laviolette, 2007; Rossato et al., 2009). The hippocampal formation receives dopaminergic innervation
+from both the substantia nigra pars compacta and the
+ventral tegmental area (VTA) (Scatton et al., 1980;
+Gasbarri et al., 1994). Among the dopamine receptor
+subtypes, the D1-like receptors (comprising D1 and
+D5; D1Rs) in the hippocampus are implicated in synaptic plasticity and memory as shown by a variety of
+pharmacological and genetic approaches (Frey et al.,
+1991, 1993; Matthies et al., 1997; Lemon and
+Manahan-Vaughan, 2006; Granado et al., 2008). Particularly, D1R-mediated mechanisms are crucial for
+the protein synthesis-dependent late phase of longterm potentiation (LTP) and long-term memory
+(LTM) (Frey and Schroeder, 1990; Matthies et al.,
+1997; Rossato et al., 2009) because of their involvement in inducing the plasticity-related products
+(PRPs)(Moncada et al., 2011; Redondo and Morris,
+2011). As demonstrated recently, the midbrain dopaminergic neuron activity also promotes hippocampal
+network dynamics associated with memory persistence
+(McNamara et al., 2014).
+The upregulation of PRPs is an essential component of
+the synaptic tagging and capture (STC) hypothesis (Frey
+and Morris, 1997, 1998), which provides a conceptual
+basis to account for late-associative interactions of plasticity events. It proposes that weak activation of synapses
+during LTP-induction results in instantaneous local ‘tagging’ of activated synapses, which later ‘captures’ the diffusely transports PRPs synthesized in the soma or local
+dendritic domains. This is supported by studies showing
+dopamine-dependent facilitation of CA1 LTP by spatial
+novelty (Li et al., 2003) and the behavioral tagging experiments in which dopaminergic activation, along with betaadrenergic activation, is shown to be involved in the synthesis of PRPs required to consolidate inhibitory avoidance LTM (Moncada et al., 2011).
+
+C 2015 THE AUTHORS HIPPOCAMPUS PUBLISHED BY WILEY PERIODICALS, INC.
+V
+
+2
+
+SHETTY ET AL.
+
+Hippocampal DA acting through D1Rs is proposed to
+mediate informational saliency and thus promote the persistence of long-term memories (Hansen and Manahan-Vaughan,
+2014). The hippocampus and VTA connections form a loop
+that modulates encoding and integration of motivationally relevant, novel, and reward-related information (Lisman and
+Grace, 2005). Additionally, hippocampal D1R activation modulates the locomotor activity and also dopamine efflux in the
+nucleus accumbens (Zornoza et al., 2005), thus extending its
+significance to addiction and reward-related mechanisms.
+Altered dopaminergic signaling and modulation has been
+implicated in the pathophysiology of many neuropsychiatric
+disorders and also in the age-associated memory deficits. Consequently, administration of dopamine agonists has been
+reported in many cases to alleviate or restore the alterations.
+However, dopaminergic signaling is known to exhibit dosedependent effects in many brain regions with linear or nonlinear profiles (Williams and Millar, 1990; Zheng et al., 1999;
+Chao et al., 2002). In prefrontal cortex, low levels of D1R
+activation is proposed to serve a role in sculpting neural selectivity by increasing neural signal-to-noise ratio (Puig and
+Miller, 2012). However, whether the functional response of
+dopaminergic signaling differs over a wide range of DA concentrations in hippocampus remains to be explored. Interestingly, bath application of D1R agonists or DA itself induces a
+slow-onset potentiation in acute hippocampal slices in vitro
+that occludes electrically induced LTP (Huang and Kandel,
+1995; Navakkode et al., 2012). This raises important concerns
+on how the changes in the extracellular dopamine concentrations influence the ongoing information processing and affect
+the encoding and maintenance of memories. Here, we have
+investigated whether different degrees of D1R activation could
+lead to differential outcomes in the context of late-associative
+mechanisms. Given that D1R-activation leads to robust activation of mitogen-activated protein kinases (MAPKs) in CA1
+region (Roberson et al., 1999), we have also explored their
+potential role in this context.
+
+METHODS
+
+the cold (2–48C) aCSF being continuously bubbled with carbogen. Transverse hippocampal slices of 400 lm thickness were
+prepared from the right hippocampus using a manual tissue
+chopper (Stoelting, Wood Dale, Illinois), transferred onto a
+nylon net in an interface chamber (Scientific Systems Design,
+Ontario, Canada) and incubated at 328C at an aCSF flow rate
+of 1 mL/min and carbogen consumption of 16 l/h. The whole
+process, from anaesthetization to the transfer of slices to the
+chamber, was carried out very quickly with an average duration
+of 5 minutes. The slices were incubated for at least 3 hours
+before starting the experiments.
+
+Field Potential Recordings
+Monopolar, lacquer-coated, stainless steel electrodes (5 MX;
+AM Systems, Sequim, Washington) were used as stimulating
+and recording electrodes. Stimulating electrodes were positioned within the stratum radiatum of the CA1 region to stimulate Schaffer collaterals and the field-EPSP responses were
+recorded with an electrode placed in the CA1 distal apical dendritic region. After the preincubation period of at least 3 h, an
+input–output curve (stimulus intensity vs. fEPSP slope) was
+plotted for each input and the test stimulus intensity was set to
+obtain a fEPSP slope 40% of the maximal response. The signals were amplified by a differential amplifier, digitized using a
+CED 1401 analog-to-digital converter (Cambridge Electronic
+Design, Cambridge, UK) and monitored online with custommade software.
+In all experiments, a stable baseline was recorded for at least
+30 minutes before chemical or electrical LTP induction. Four
+0.2-Hz biphasic, constant current pulses (spaced at 5s) given
+every five minutes were used for baseline and post-induction
+recording and the average slope value from the four sweeps was
+considered as one repeat while used for plotting. For two- and
+three-input synaptic tagging and capture experiments, the stimulating electrodes were placed on either side of the recording
+electrode so as to stimulate two or three independent set of
+synapses respectively. A paired-pulse facilitation protocol (Li
+et al., 2014; Sajikumar et al., 2014) was used to test the independence of the two inputs. Initial slopes of fEPSPs were
+expressed as percentages of baseline averages.
+
+Preparation of Hippocampal Slices
+
+Statistics
+
+A total of 181 acute hippocampal slices prepared from 125
+male Wistar rats (6–7 week old) were used in the study. All
+animal procedures were approved by the Institutional Animal
+Care and Use Committee (IACUC) of National University of
+Singapore. Briefly, after anaesthetization using CO2, the rats
+were decapitated and the brains were quickly removed to 48C
+artificial cerebrospinal fluid (aCSF)—a modified Krebs-Ringer
+solution containing the following (in mM): 124 NaCl, 3.7
+KCl, 1.2 KH2PO4, 1 MgSO47H2O, 2.5 CaCl22H2O, 24.6
+NaHCO3, and 10 D-glucose. The pH of aCSF was between
+7.3 and 7.4 when bubbled with 95% oxygen and 5% carbon
+dioxide (carbogen). Right hippocampus was dissected out in
+
+The time-matched, normalized data were averaged across
+replicate experiments and expressed as mean 6 SEM. The average percentage values of fEPSP slope per time point were subjected to statistical analysis with GraphPad Prism 6.0.
+Whenever the data did not conform to Gaussian distribution,
+nonparametric tests were used. Wilcoxon matched-pairs signed
+rank test was used when comparisons were made within group.
+Multiple, between group comparisons for specified time-points
+were performed with either one-way or two-way ANOVA with
+Tukey’s or Dunnet’s post-hoc tests. Statistical significance was
+assumed at P < 0.05. (*P < 0.05 **P < 0.01 ***P < 0.001,
+****P < 0.0001).
+
+Hippocampus
+
+DOPAMINERGIC REGULATION OF SYNAPTIC ASSOCIATIVITY
+
+LTP Induction Protocols
+For early-LTP induction, a weak tetanization protocol
+(WTET) consisting of a single high frequency stimulation (100
+Hz, 21 biphasic constant current pulses, single burst, 0.2 ms
+pulse duration) was used. For late-LTP induction, a strong tetanization protocol (STET) involving repeated high-frequency
+stimulation (three trains of 100 Hz, 100 pulses, single burst,
+0.2 ms pulse duration) was used with an intertrain interval of
+ten minutes.
+
+Drugs
+The D1/D5-receptor agonist SKF-38393 hydrochloride
+[(6)21-Phenyl-2,3,4,5-tetrahydro-(1H)23-benzazepine-7,8-diol
+hydrochloride] (SKF; #D047, Sigma-Aldrich, Singapore) was
+stored at 2208C as 15–50 mM stock in deionized water.
+Another agonist 6-Bromo-APB hydrobromide [R(1)26-Bromo7,8-dihydroxy-3-allyl-1-phenyl-2,3,4,5-tetrahydro-1H-3-benzazepine hydrobromide] (APB; #B135, Sigma-Aldrich, Singapore)
+was stored as 15–50 mM stock in DMSO at 2208C. The
+stocks were stored for not more than a week. Just before application, the stocks were diluted to the final concentration in aCSF,
+bubbled with carbogen, and bath applied for three 5-minute
+durations with 5-minute interval between each application. The
+drugs were protected from light during storage and bath application was carried out under dark conditions.
+The MEK inhibitor U0126 (#V1121, Promega, Madison,
+Wisconsin) was stored as 20 mM stock in DMSO. Other MEK
+inhibitor PD98059 (#9900L, Cell Signaling Technology, Beverly,
+Massachusetts) was stored as 50 mM stock in DMSO at 2208C
+and diluted in aCSF just before application. Both the MEK
+inhibitors were applied after one hour from the start of SKF
+application and kept throughout the rest of recording period.
+Whenever the drug stock was prepared in DMSO, the
+DMSO concentration in the final bath-application solution
+was kept below 0.1%, a concentration which has been shown
+to not affect basal synaptic responses (Navakkode et al., 2005).
+
+RESULTS
+Different Concentrations of D1/D5-Receptor
+Agonists Induce Slow-Onset Potentiation in CA1
+Pyramidal Neurons
+Dopamine or D1R agonists have been shown to induce a
+slow-onset potentiation of field-EPSP slopes in hippocampal
+CA1 region (Gribkoff and Ashe, 1984; Frey et al., 1993;
+Huang and Kandel, 1995). First series of experiments involved
+the application of a selective D1R agonist SKF-38393 (SKF) at
+a range of concentrations from 50 mM to 0.1 mM. We chose
+these concentrations as many of the studies have generally used
+a concentration of 50–100 mM (Huang and Kandel, 1995;
+Roberson et al., 1999; Navakkode et al., 2007; Navakkode
+et al., 2012) and we were interested to know whether lower
+
+3
+
+concentrations are also capable of inducing a persistent potentiation. As a control experiment, first we recorded stable baseline potentials by delivering low-frequency test stimulation
+every five minutes in synaptic input S1 (Fig. 1b). The baseline
+response remained stable over 3 hours. Though a small drift in
+the responses was observed between 120 and 140 minutes, it
+was not statistically significant at any time point (P > 0.05,
+n 5 6). In the next series of experiments, after a stable baseline
+recording of at least 30 minutes, SKF was applied in three 5minute durations with 5-minute interval between applications.
+This application paradigm is analogous to the spaced strong
+tetanization protocols used to induce late-LTP (Navakkode
+et al., 2007).
+Application of 50 mM SKF resulted in a slow-onset potentiation similar to earlier reports (Huang and Kandel, 1995; Navakkode et al., 2007). The potentiation became significantly
+different from the baseline 35 minutes after the first application (118.1 6 3.06%, P<0.05) and maintained over 4 hours.
+The mean potentiation at the end of 4 hours was
+(155.12 6 7.28)% (n 5 6, Fig. 1c). With 25 mM SKF application also a slow-onset potentiation was observed that became
+significantly different from baseline by 25 minutes
+[(116 6 2.84)% P < 0.01)]. The mean potentiation at the end
+of 4 hours was (148.77 6 5.52)% (P < 0.01, n 5 10, Fig. 1d).
+Similar was the result with 10 mM SKF application; the potentiation was significantly different after 20 minutes
+(114.2 6 5.78% P<0.01) and stayed significant for 4 hours
+(132.03 6 4.71%, P<0.01; n58, Fig. 1e). Interestingly, even
+with 5 mM SKF application, a late-onset potentiation was
+observed that became significantly different rather slowly by 90
+minutes (115.05 6 5.63%, P<0.05) and stayed significant
+thereafter till the end of recording [(126.30 6 8.20)%,
+P < 0.05, n 5 8, Fig. 1f )]. Application of further lower concentrations of SKF, 1 mM and 0.1 mM, failed to induce any significant potentiation; the mean potentiation at the end of 4 hours
+being (107.52 6 3.78)% (P > 0.05, n 5 8, Fig. 1g) and
+(98.71 6 8.23)% (P > 0.05, n 5 8, Fig. 1h) respectively.
+A plot of the mean potentiation induced by the different
+concentrations of SKF at the end of 4 hours revealed a
+concentration-dependent response (Fig. 1i). A one-way analysis
+of variance (ANOVA) comparing these normalized group
+means to baseline (100%) showed a significant difference
+between the mean values (F(6, 51) 5 16.02; P < 0.0001). Multiple comparisons with the Dunnett’s post-test showed that
+potentiation was significantly different from the baseline with 5
+mM (P < 0.01), 10 mM (P < 0.001), 25 mM (P < 0.0001) and
+50 mM (P < 0.0001) groups whereas not with 1 mM
+(P > 0.05) and 0.1 mM (P > 0.05) groups.
+We repeated these experiments with another structurally different D1R analogue, 6-bromo-APB (APB), and obtained similar concentration-dependent response (Supporting Information
+Fig. 1a–g).
+Taken together, these series of experiments showed that the
+D1R-mediated potentiation at the Schaffer collateral-CA1 synapses is concentration-dependent.
+Hippocampus
+
+4
+
+SHETTY ET AL.
+
+FIGURE 1.
+
+Hippocampus
+
+DOPAMINERGIC REGULATION OF SYNAPTIC ASSOCIATIVITY
+
+Dose-Dependent Regulation of Synaptic
+Cooperation and Competition by Dopaminergic
+Signaling
+Having observed the concentration-dependent response of
+the D1R-mediated potentiation, next we were interested to
+know whether such effects might have any significance during
+the associative information processing at the input level.
+To investigate this, we designed a series of two-pathway
+experiments based on the conceptual framework of STC
+model. Two-pathway experiments utilizing either a ‘strongbefore-weak’ or ‘weak-before-strong’ protocols, in which strong
+and weak activity are given sequentially to two independent
+but convergent inputs, have proven effective in addressing heterosynaptic and late-associative mechanisms (Frey and Morris,
+1997). We planned similar experiments reasoning that the
+potentiation induced by D1R agonists is analogous to strong
+tetanisation, and input specificity in this case can be achieved
+by selective silencing of the test stimulation in one input during agonist application (Navakkode et al., 2007). Two stimulating electrodes were positioned in the stratum radiatum of the
+CA1 region to stimulate two independent synaptic inputs converging onto a common population of neurons and a recoding
+electrode was located midway between the two stimulating
+electrodes to record the field-EPSP responses (Fig. 2a). SKF
+was bath applied in three, spaced applications. However, during drug application the baseline stimulation was silenced in
+one of the inputs (S2) for one hour from the point of drug
+application. Thus agonist-induced potentiation would be
+induced only in the active input (S1) but not in the silenced
+input (S2). After one hour, the test stimulation was resumed in
+the silenced input and upon 30 minutes of baseline recording,
+early-LTP (E-LTP) was induced by weak tetanisation (WTET)
+of S2.
+Twenty five micromolars of SKF-induced potentiation in
+input S1 became significantly different from its baseline after
+20 minutes and maintained for 4 hours (Fig. 2b. P < 0.05,
+n 5 7). However, input S2 in which the baseline stimulation
+was silenced for one hour showed no potentiation after resuming the recording (P > 0.05). Weak tetanisation of S2 resulted
+in significant potentiation (P < 0.05). Interestingly, the WTET,
+which normally induces only an E-LTP (data not shown),
+
+FIGURE 1.
+Concentration-dependent potentiation of fEPSP
+slope induced by SKF-38393. (a) Schematic representation of a
+hippocampal slice showing the location of electrodes in CA1
+region for field-EPSP recording. Stimulating electrode in stratum
+radiatum to stimulate a Schaffer collateral input onto CA1 distal
+dendrites where the recording electrode was positioned. (b) Time
+course of fEPSP slope with baseline stimulation every 5 minutes.
+The baseline response remained stable over 3 hours. (c)–(h)
+Concentration-dependent long-lasting potentiation induced by
+bath application of the D1/D5 receptor agonist SKF-38393. Following a 30-minute baseline, SKF was applied for three 5-minute
+durations with 5-minute interval between each application. In (c)
+(n 5 6), (d) (n 5 10), (e) (n 5 8), (f ) (n 5 8) 50, 25, 10 or 5 lM
+of SKF was used respectively and observed slow-onset potentiation
+
+5
+
+resulted in a late-LTP with a mean potentiation of
+(139.98 6 10.72)% after two hours that was significantly different from its baseline (Fig. 2b. P < 0.05, n 5 7).
+With 10 mM SKF application, input S1 showed significant
+potentiation by 20 minutes (P < 0.05) that sustained for 4
+hours (Fig. 2c. P < 0.05, n 5 7). Similar to the experiment
+with 25 mM SKF, the silenced input S2 did not show potentiation after resuming the baseline stimulation (P > 0.05). WTET
+in S2 resulted in significant potentiation from the baseline
+(P < 0.05). Strikingly, the WTET-induced potentiation did not
+get reinforced into late-LTP as with 25 mM SKF, but rather
+decayed to baseline gradually with the mean potentiation of
+(108.69 6 8.89)% after two hours that was not significantly
+different from its baseline (Fig. 2c. P > 0.05, n 5 7).
+The result was much more intriguing with 5 mM SKF
+wherein input S1 failed to show significant potentiation [mean
+potentiation after 100 minutes (109.78 6 7.26)%, P > 0.05;
+Fig. 2d, n 5 9)]. Input S2, upon WTET, showed a significant
+potentiation (P < 0.05, n 5 9) that rapidly decayed back to
+baseline becoming not significantly different by 160 minutes
+(P > 0.05).
+
+Late-Plasticity Within the Vicinity of Competing
+Synapses Prevents Synaptic Competition
+From the previous series of experiments, we hypothesized
+that the decay of both the E-LTP and D1R-mediated potentiation in 5 mM SKF experiments could be because of the competition between these two set of active synapses for a limited
+pool of PRPs. So, we reasoned that providing additional PRPs
+by means of strong stimulation within the temporal vicinity of
+weakly activated synapses should prevent decaying forms of
+LTP because synthesis of PRPs during late-LTP requires D1R
+activation (Frey and Schroeder, 1990; Sajikumar and Frey,
+2004). For this we designed the three-pathway experiments
+with three independent but convergent inputs S1, S2, and S3
+in the stratum radiatum of CA1 region and a recording electrode positioned in between to record the fEPSP responses
+(Fig. 3a). Similar to two-pathway experiments, before the
+application of SKF, the test stimulations in S2 and S3 inputs
+were silenced for the next one hour, so as to achieve inputspecific D1R-mediated potentiation in S1. After one hour, the
+
+that maintained for 4 hours. In (g), (h) 1lM SKF (n 5 8) and 0.1
+lM SKF (n 5 8) failed to induce significant potentiation. (i): Column graph showing differences in mean potentiation (percentage
+of baseline) 4 hour after the application of the different concentrations of the agonist SKF (one-way ANOVA, F 5 16.02,
+P < 0.0001). Error bars indicate 6SEM. Asterisks indicate significant deviations from baseline (100%; Dunnet’s post-hoc test,
+**P<0.01; ***P<0.001; ****P<0.0001). Data are expressed as mean
+6SEM. Three dotted arrows in all the figures indicate the application of the agonist in three pulses. Representative fEPSP traces
+shown in each case recorded at baseline (solid line, 215 min); 1 h
+(dotted line) and 4 h (hatched line) after SKF application. Scale
+bars for all the traces, vertical:3 mV; horizontal:5 ms
+
+Hippocampus
+
+6
+
+SHETTY ET AL.
+
+FIGURE 2.
+Synaptic co-operation and competition mediated
+by different concentrations of the D1/D5 receptor agonist SKF38393. (a) Schematic representation of a hippocampal slice showing the location of electrodes in CA1 region for the 2-input synaptic tagging and capture experiments. S1 and S2 are two
+stimulating electrodes in the stratum radiatum that stimulate two
+independent synaptic inputs to the same neuronal population; one
+recording electrode is positioned in between the two stimulating
+electrodes to record field-EPSP from the apical dendrites. S1 and
+S2 are two independent but convergent inputs. The test stimulation in S2 is silenced just before SKF application for one hour.
+After resumption and 30 minutes of baseline recording, early-LTP
+is induced in S2. (b) Twenty five micromolars of SKF induced a
+slow-onset potentiation in S1 (closed circles) and also transformed
+
+the transient form of LTP (early-LTP) induced in S2 (open triangles) into a persistent potentiation (n 5 7). (c) Ten micromolars of
+SKF induced a slow-onset potentiation in S1 (closed circles) but
+the weak tetanization in S2 (open triangles) resulted in early-LTP
+that was not reinforced (n 5 7). (d) Five micromolars of SKFinduced slow-onset potentiation in S1 (closed circles) failed to
+maintain after weak tetanization of S2 (open triangles) and both
+the responses decayed back to baseline within two hours of earlyLTP induction (n 5 9). Insets show representative fEPSP traces for
+each input recorded at baseline (solid line, 215 min), 120 min
+(dotted line), and 240 min (hatched line). Single arrow represents
+the time point of application of WTET for the induction of earlyLTP. Symbols and scale bar for traces as in Figure 1.
+
+recordings in S2 and S3 were resumed and a stable baseline of
+30 minutes was recorded. E-LTP was induced with a WTET
+in S2 and 15 minutes later late-LTP was induced in S3 by a
+strong tetanization protocol (STET).
+The D1R-LTP in S1 followed the similar time-course as in
+two-pathway experiments, and the potentiation was not significantly different from the baseline until 90 minutes (P > 0.05,
+n 57). Inputs S2 and S3 showed no significant deviation from
+baseline upon resuming the stimulation (P > 0.05). WTET in
+
+S2 resulted in significant potentiation (P < 0.05). Significant
+potentiation was observed in S3 upon STET (P < 0.05, n 5 7)
+that lasted till the end of the recording [mean potentiation at
+the end of 4 hours (149.25 6 7.76%), P<0.05]. Interestingly,
+the otherwise decaying potentiation was rescued in S1 [mean
+potentiation at 4 h (119.35 6 4.13)%, P < 0.05] and S2 [mean
+potentiation at 4 h (119.95 6 2.92)%, P < 0.05] clearly demonstrating the rescue because of the provision of extra PRPs
+from S3.
+
+Hippocampus
+
+DOPAMINERGIC REGULATION OF SYNAPTIC ASSOCIATIVITY
+
+7
+
+FIGURE 3.
+Late-plasticity within the vicinity of competing synapses prevents synaptic competition. (a) Schematic representation
+of a hippocampal slice showing the location of electrodes in CA1
+region for the 3-input, synaptic tagging and capture experiments.
+S1, S2, and S3 were three independent but convergent inputs. The
+test stimulation in S2 and S3 was silenced just before SKF application for one hour. After resumption and 30 minutes of baseline
+recording, early-LTP induced in S2 followed, after 15 minutes, by
+late-LTP induction in S3. (b) A schematic of a pyramidal neuron
+showing three forms of activity induced in three independent syn-
+
+aptic inputs S1, S2 and S3; 5 mM SKF stimulation in S1, weak tetanization (WTET) in S2, and repeated strong-tetanization (STET)
+in S3. (c) The otherwise decaying forms of LTP (see Fig. 2d) in S1
+(closed circles) and S2 (open triangles) were rescued by the
+strong-tetanization-induced late-LTP in S3 (closed inverted triangles); (n 5 7). Triplet of arrows represent the point of application
+of STET for the induction of late-LTP. Insets show representative
+fEPSP traces for each input recorded at baseline (solid line, 215
+min), 120 min (dotted line), and 240 min (hatched line). Symbols
+and scale bar for traces as in Figures 1 and 2.
+
+Sustained Activation of Extracellular SignalRegulated Kinases- 1 and 2 (ERK1/2) Mediates
+Differential Effects of D1/D5 receptorDependent Plasticity
+
+permanent adaptive changes (Papadeas et al., 2004). Here we
+investigated whether inhibition of the mitogen-activated protein kinases (MAPKs) ERK1/2 interferes with the maintenance
+of repeated D1R agonist-induced potentiation. We addressed
+this by using the specific inhibitors of the upstream kinases of
+ERK1/2 (MEKs), U0126, and PD98059. The inhibitor was
+applied one hour after the SKF application and kept throughout until the end of the recording so as to investigate the effect
+on the LTP maintenance mechanism.
+The potentiation induced by 5 mM SKF reached significance
+on a similar time-course as in the previous experiments.
+
+Application of dopamine to hippocampal slices has been
+shown to result in robust activation of p42 MAP kinase in
+CA1 region (Roberson et al., 1999). Sustained ERK phosphorylation has been reported in the medial prefrontal cortex of 6hydroxydopamine-lesioned rats following repeated D1R agonist
+administration which was proposed to play a pivotal role in
+
+Hippocampus
+
+8
+
+SHETTY ET AL.
+
+However, with the application of 5 mM U0126 from 60
+minutes onwards, the maintenance of potentiation was affected;
+the potentiation was only marginally significant by 120
+minutes (P < 0.05) and gradually decayed back to baseline
+becoming not significantly different from the baseline 145
+minutes onwards (P > 0.05, Fig. 4a, n 5 7). The mean potentiation at the end of 4 hours was (97.03 6 5.28)% (P > 0.05).
+Similar blockade of the LTP maintenance was observed also
+with the application of 15 mM PD98059; the mean potentiation at the end of 4 hours was (97.58 6 10.46)% (Supporting
+Information Fig. 2a. P > 0.999, n 5 6).
+Interestingly, the potentiation induced by 10 mM SKF was
+also disrupted by the application of 5 mM U0126 (Fig. 4b,
+n 5 7) or 15 mM PD98059 (Supporting Information Fig. 2b,
+n 5 6) during the maintenance phase. The potentiation followed the usual time-course and became significantly different
+by 20 minutes (P<0.01) and stayed significant until 130
+minutes with U0126 (P < 0.05) and until 100 minutes with
+PD98059 (P<0.05), later gradually decayed back to baseline.
+The mean values at the end of 4 hours were not significantly
+different from the baseline in both cases (P > 0.05).
+Surprisingly, 5 mM U0126 application showed no significant
+effect on the maintenance of potentiation induced by 25 mM
+SKF (Fig. 4c, n 5 6) as did 15 mM PD98059 (Supporting
+Information Fig. 2c, n 5 6). The potentiation became significantly different from the baseline by around 30 minutes in
+both cases (P < 0.05) and stayed significant throughout. The
+mean potentiation at the end of 4 hours was
+(147.99 6 11.11)% with U0126 treatment (P < 0.05) and
+(135.98 6 10.61)% with PD98059 treatment (P < 0.05). We
+gradually increased the concentration of the inhibitors applied
+and observed a significant disruption of the maintenance phase
+within the experimental time-frame with 10 mM U0126 (Fig.
+4d, n 5 6) and 30 mM PD98059 (Supporting Information Fig.
+2d, n 5 7) application. In these experiments, potentiation
+induced by 25 mM SKF was only significant up to 115
+minutes with U0126 treatment (Fig. 4d, P<0.05) and up to
+125 minutes with PD98059 treatment (Supporting Information Fig. 2d, P < 0.05) and decayed to baseline thereafter. At
+the end of 4 hours, the potentiation was not significantly different from the baseline in both groups (P>0.05).
+A two-way repeated measures ANOVA, comparing different
+SKF concentration groups and U0126-treatment groups with
+matched values (i.e., time points 60 min and 240 min compared to baseline) stacked into subcolumns (Fig. 4e), revealed a
+significant variation between time-points (F(2,92) 5 37.50;
+P < 0.0001) and between groups (F(6,46) 5 4.51; P < 0.001).
+Analysis of simple effects between groups with Tukey’s multiple
+comparisons test showed significant differences between the
+‘SKF-treated’ and ‘SKF1U0126 treated’ groups at 240
+minutes. Five micromolars of U0126 treatment significantly
+blocked potentiation by 240 minutes in 5 mM SKF-treated
+group, as compared with the 5 mM SKF group without U0126
+treatment (P < 0.05). The potentiation induced by 10 mM
+SKF was also brought back to baseline values by 240 minutes
+with 5 mM U0126 treatment as compared with the potentiaHippocampus
+
+tion in 10 mM SKF-treated group (P < 0.001). There was no
+statistically significant difference in the potentiation at 240
+minutes between the 25 mM SKF group and the ‘25 mM
+SKF15 mM U0126’ group (P > 0.05). Finally, 25 mM SKFinduced potentiation was significantly blocked by 10 mM
+U0126 treatment, as evident from the statistically significant
+difference as compared with 25 mM SKF group (P<0.0001)
+and also compared with 25 mM SKF group treated with 5 mM
+U0126 (P < 0.001).
+Similar results were also obtained when these experiments
+were repeated with another MEK inhibitor PD98059 (Supporting Information Fig. 2e). Though in these series of experiments the concentration of PD98059 required to disrupt the
+LTP maintenance was higher than that of U0126, it was
+expected as the potency of this inhibitor is low compared to
+U0126 (Favata et al., 1998; Levenson et al., 2004). Further,
+application of either of the MEK inhibitor at the concentrations used above had no significant effect on the baseline
+fEPSP responses (data not shown).
+
+DISCUSSION
+Our first series of experiments reveal that the D1R agonistevoked potentiation at the Schaffer collateral inputs to CA1
+apical dendrites exhibits concentration-dependence. With the
+growing appreciation of the importance of heterosynaptic
+dopaminergic activation in the induction and maintenance of
+late-LTP, in certain forms of hippocampus-dependent memory
+and also in certain neuropsychiatric disorders, these results
+present a significant aspect to consider both in physiological as
+well as pathological conditions.
+Huang and Kandel (1995) had observed that the D1R agonist application results in a potentiation that develops slowly
+and peaks by 3–4 hours, whereas in our study the development
+was comparatively faster. This could be attributed to the methodological differences such as extended preincubation periods
+and to the drug application paradigms; in that study the agonist was applied in a massed fashion continuously for 15
+minutes whereas in our study we used a spaced application
+protocol (Navakkode et al., 2007; Navakkode et al., 2012)
+The two-pathway experiments, designed on the synaptic tagging and capture framework, suggest that the concentrationdependence of dopaminergic modulation has significance during the processing of information from multiple inputs at the
+cellular level. Sufficiently strong dopaminergic activation might
+have resulted in the upregulation of a battery of PRPs, which
+could also be captured by an active weak learning tag. Thus
+the PRPs, upregulated in sufficiently large amounts, could be
+shared between both the active set of synapses resulting in a
+stable plasticity and associativity. These results are consistent
+with our earlier findings that if plasticity proteins and learning
+tags are available to interact, the synapses will co-operate with
+each other for forming stable memory traces (Sajikumar and
+
+DOPAMINERGIC REGULATION OF SYNAPTIC ASSOCIATIVITY
+
+9
+
+FIGURE 4.
+
+Hippocampus
+
+10
+
+SHETTY ET AL.
+
+Frey, 2004). The learning rules change when the concentration
+of the dopamine decreases. For instance, with lower concentration of D1R agonist, such as 10 mM in our study, the earlyLTP induced in the overlapping input was not consolidated.
+This represents a situation where only one input gets selectively
+benefitted from the PRPs while not sharing it with the other
+input active in the critical time-window for association; a situation similar to ‘winner-takes-it-all’ scenario reported recently by
+us and others (Kano and Hashimoto, 2009; Sajikumar et al.,
+2014). Thus there was no late-associativity or cooperation
+between these synapses. The intriguing observation with 5 lM
+D1R agonist application, wherein potentiation in both inputs
+decayed to baseline, possibly indicates a scenario similar to
+‘competitive maintenance’ (Fonseca et al., 2004) where both
+the activated set of synapses compete for PRPs from a limited
+pool which affects the LTP-maintenance in both. Thus the
+amount of PRPs upregulated at this concentration was not
+enough to be shared between synapses. This was further supported by the three-pathway experiment, where providing additional PRPs with a strong activity in a convergent input was
+able to rescue the synapses from competition. Thus it reveals
+two important aspects of the dynamic nature of the synapses
+involved in associative memory: (1) With limited availability of
+plasticity products, synapses will still try to establish a stable
+memory in the face of competition, sometimes in a winnertakes–all fashion, given that the active synaptic tags were set
+initially, (2) If enough plasticity products are provided within
+the vicinity of potentiated synapses, all the synapses will switch
+to a cooperative state to establish a stable long-term memory
+trace which would have decayed otherwise because of competition. Thus, we have identified a process in switching the synapses between co-operative to competitive states to deal with
+different needs of neural computation mediated by dopamine.
+Provoked by the interesting results from the co-operative and
+competitive aspect of synapses, we sought to understand the
+molecular players involved in the associative maintenance. Given
+the results, it was clear that the central molecular player in such a
+scenario should be able to integrate the signals from the D1Rs
+and the NMDA receptors and transduce the signals for the upregulation of PRPs in a concentration-dependent manner. The
+potential candidates are the ERK1/2, given their well-documented
+roles in the mammalian associative learning (Atkins et al., 1998),
+their capability to act as signal integrators (Roberson et al., 1999;
+Sweatt, 2001; Selcher et al., 2003; Davis and Laroche, 2006),
+
+and their ability to both upregulate translation and also translocate to nucleus and activate transcription (Sweatt, 2001). In hippocampus, a strong synergistic interaction between D1R and
+NMDAR has been reported (Navakkode et al., 2007), which
+then leads to a significant activation of ERK1/2 pathway (Sarantis
+et al., 2009). ERKs are involved in gating late-phase mechanisms
+of LTP and long-term memory in hippocampus (English and
+Sweatt, 1996; Blum et al., 1999; Roberson et al., 1999).
+A particularly interesting observation in our study is that a
+sustained ERK activation was involved in the maintenance of
+D1R-mediated long-lasting potentiation. We have also examined the role of other PRPs such as calcium/calmodulindependent kinases CaMKII and CaMKIV using different concentrations of the inhibitor KN-93 and our preliminary results
+show no significant role for these two kinases in the maintenance phase of D1R-mediated potentiation (Unpublished
+results). Several studies have suggested similar sustained ERK
+activation in response to a variety of stimuli such as repeated
+serotonin pulses in aplysia neurons (Sharma et al., 2003), LTPinducing high frequency stimulation (Ahmed and Frey, 2005),
+BDNF application (Wu et al., 2001) and in response to memory training in novel taste-learning task (Swank and Sweatt,
+2001). Such persistent activation can be the result of many
+possible scenarios as indicated by Wu et al., (2001). Maharana
+et al. (2013) found that sustained ERK activation observed in
+KCl-induced depolarization was dependent on BDNF synthesis
+and its subsequent activity on its receptor. A propagating ERK
+activation switch facilitated by feedback events has been proposed to form dendritic zones where plasticity is facilitated
+(Ajay and Bhalla, 2007). Many other positive-feedback loops
+may connect active ERK to Raf or MEK activity (Smolen
+et al., 2008). Bistability of MAPKs has been proposed as a
+plausible mechanism wherein persistent activity of the kinase
+and consequent upregulation of translation might contribute to
+maintenance of LTP and LTM (Smolen et al., 2008). PKMzeta, a persistently active atypical protein kinase C isoform, has
+been shown to be necessary for maintenance of late-LTP, and
+some forms of LTM (Serrano et al., 2005; Pastalkova et al.,
+2006; Sacktor, 2012) and MAPK activity promotes translation
+of PKM-zeta mRNA (Kelly et al., 2007). PKMzeta was
+reported to be essential for induction and maintenance of
+dopamine-LTP in CA1 region (Navakkode et al., 2010). So, it
+is possible that persistent ERK activity could contribute to LTP
+maintenance by increasing PKM-zeta synthesis.
+
+FIGURE 4.
+ERK1/2 inhibition concentration-dependently blocks the maintenance of D1/D5-agonist-induced potentiation: Following 30 minutes of baseline recoding, SKF was applied for three
+5-minute durations with 5-minute interval between each application. The MEK-inhibitor, U0126, at the specified concentration,
+was applied starting 1 h after SKF application till the end of 4 h
+(shown in rectangles on each graph) (a) 5 lM SKF-induced potentiation was disrupted from maintenance upon application of 5 lM
+U0126 (n 5 7). (b) Application of 5 lM U0126 also disrupted the
+maintenance of the potentiation induced by 10 lM SKF (n 5 7). (c)
+5 lM U0126 application had no significant effects on the potentia-
+
+tion induced by 25 lM SKF (n 5 6). (d) Maintenance of 25 lM
+SKF-induced potentiation was disrupted by 10 lM U0126 application causing the potentiation to gradually decay back to baseline
+(n56). (e) Histogram of mean fEPSP slope values recorded for SKF
+and ‘SKF1U0126’ treatment groups after 60 and 240 minutes of
+SKF application analyzed with two-way ANOVA. Asterisks indicate
+significant potentiation compared to a respective baseline group
+(Tukey’s post-test, *P<0.05, **P<0.01; ***P<0.001; ****P<0.0001).
+Significant differences between groups is shown with hashtags
+(Tukey’s post-test, #P<0.05, ###P<0.001; ####P<0.0001). Error bars
+indicate 6SEM. Symbols and traces as in Figure 1.
+
+Hippocampus
+
+DOPAMINERGIC REGULATION OF SYNAPTIC ASSOCIATIVITY
+Further, our results show that the ERK involvement in D1R
+agonist-induced potentiation also follows a concentrationdependent activation pattern. Much higher concentration of
+MEK inhibitors was required to completely block the LTP
+induced by stronger dopaminergic activation as compared with
+that required to block the LTP induced by weaker dopaminergic stimulation. This suggests that the level of ERK1/2 activation is more with stronger dopaminergic stimulation than with
+weaker stimulation. In consistent with our findings, similar
+dose-dependent activation of ERK1/2 by a D1R agonist has
+been reported earlier in the mouse prefrontal cortex and also in
+cultured cortical neurons (Nagai et al., 2007). In a Pavlovian
+fear conditioning study in amygdala, ERK/MAPK activation
+was shown to be peaking only by 60 minutes after conditioning and a MEK-inhibitor application impaired fear memory
+consolidation in a dose-dependent manner and rapidly disrupted the LTP in the slices (Schafe et al., 2000).
+The correlation between the activation patterns of the
+ERK1/2 with the level of potentiation observed at different
+agonist concentrations suggests a dose-sensor or signal integrator role for ERK1/2 in maintaining plasticity and associative
+plasticity. ERK activation upon synaptic activity has been proposed to occur in the calcium microdomains in the proximity
+of synaptic NMDA receptors (Hardingham et al., 2001). It is
+possible that the stronger dopaminergic activation might
+involve many such microdomains whereas weaker activation
+might involve fewer. It has been reported earlier that coactivation of NMDARs and D1/D5-receptors leads to the
+stimulation of ERK and phosphatidylinositide-3-kinase (PI3
+kinase) resulting in the dendritic synthesis of many proteins
+and also initiates the insertion of glutamate receptors to the
+synaptic surface (Pfeiffer and Huber, 2006). Active ERK has
+many downstream targets. ERK activation leads to upregulation of dendritic translation by acting through mTOR pathway
+(Tsokas et al., 2007; Schicknick et al., 2008) and capdependent local translation via MAP-kinase-interacting kinase1 (MNK1) and eIF4E (Banko et al., 2004; Kelleher et al.,
+2004). ERK can activate transcription factor cyclic-AMP
+response element-binding protein (CREB) by multiple routes:
+by activating the Ribosomal S6-Kinase-2 (RSK2) which can
+then translocate to nucleus or the phospho-ERK itself can
+translocate to nucleus (Davis et al., 2000) and directly phosphorylate CREB (Impey et al., 1998). CREB is one of the
+important plasticity proteins necessary for the establishment of
+associative plasticity (Barco et al., 2002). Through mediation
+of RSK2 activation, ERK can also activate the transcription
+factor Elk-1(Davis et al., 2000; Sweatt, 2001) which can lead
+to transcription of Serum-response-element (SRE)-dependent
+genes, important ones among them being c-fos (Janknecht
+et al., 1993; Xia et al., 1996) and arc (Waltereit et al., 2001).
+Though some studies have also shown a role for ERK in certain forms of long-term depression (Thiels et al., 2002; Gallagher et al., 2004) it has been suggested that the specificity of
+the response might be determined by the pattern of the synaptic activity and by the differential involvement of the many
+small GTPases (Gallagher et al., 2004).
+
+11
+
+Given the evidence that ERK-mediated effects on LTP maintenance involves its action both on local translation machinery
+and nuclear transcriptional events (Davis and Laroche, 2006),
+an interesting possibility is that the extent of contribution from
+both of these events might have differential outcomes. The
+exact feedback mechanisms involved in persistent ERK activation in our study, the signal integration mechanisms, and the
+downstream targets of ERKs involved in the regulation of synaptic cooperation and competition will be the focus of future
+studies. Also, it will be interesting to examine whether similar
+effects could be observed in behavioral studies. However,
+whether similar mechanisms of ERK activation could be
+observed in mice is warranted as ERK involvement in certain
+forms of LTP have been shown to differ between rats and mice
+(Selcher et al., 2003).
+Synaptic associative events such as synaptic tagging and capture have gained a lot of supportive evidence recently with
+studies demonstrating such mechanisms in anesthetized and
+freely moving animals, both from electrophysiological recordings and behavioral paradigms (Ballarini et al., 2009; Redondo
+and Morris, 2011; Shires et al., 2012). Behavioral tagging
+experiments demonstrating the reinforcement of a weak inhibitory avoidance memory into long-lasting one by the open-field
+exploration paradigm have indicated the involvement of dopaminergic signaling in such behavioral outcomes (Moncada and
+Viola, 2007). A similar facilitation has also been shown in a
+spatial memory task (Wang et al., 2010) Very recently, such a
+mechanism was also reported to operate in retroactive strengthening of emotional memories in humans (Dunsmoor et al.,
+2015). Concomitant recruitment of homosynaptic and heterosynaptic modulatory mechanisms can help tune the specificity
+of the plasticity and enhance the duration of the plastic change
+(Bailey et al., 2000)
+Taken together, our results present an interesting aspect of
+dopaminergic modulation of associative information processing
+in hippocampal CA1 neurons that the dopamine-mediated
+effects exhibit concentration-dependence leading to differential
+activation of intracellular mechanisms. Such effects can significantly influence the persistence or elimination of plasticity
+events occurring in specific dendritic compartments and thus
+convey different learning rules to same neurons. Given that the
+extracellular dopamine levels are affected by many drugs used
+to treat neuropsychiatric disorders and also some of the addictive drugs, our results indicate an important aspect to consider
+in studies aiming to understand and treat these conditions.
+The concentration-dependent effects of the modulatory transmitter, as demonstrated for dopamine in the present study,
+might offer additional computational power and fine-tuning
+for the cellular information processing mechanisms for longterm associative memory.
+
+Acknowledgments
+The authors are grateful to Prof. Ted Abel for his helpful
+suggestions and critical comments on the manuscript. They
+Hippocampus
+
+12
+
+SHETTY ET AL.
+
+also acknowledge Erdem Unsal for his help with certain experiments. M.S.S is supported by NUS Research Scholarship.
+
+REFERENCES
+Ahmed T, Frey JU. 2005. Plasticity-specific phosphorylation of CaMKII, MAP-kinases and CREB during late-LTP in rat hippocampal
+slices in vitro. Neuropharmacology 49:477–492.
+Ajay SM, Bhalla US. 2007. A propagating ERKII switch forms zones
+of elevated dendritic activation correlated with plasticity. HFSP J
+1:49–66.
+Atkins CM, Selcher JC, Petraitis JJ, Trzaskos JM, Sweatt JD. 1998.
+The MAPK cascade is required for mammalian associative learning. Nat Neurosci 1:602–609.
+Bailey CH, Giustetto M, Huang Y-Y, Hawkins RD, Kandel ER.
+2000. Is heterosynaptic modulation essential for stabilizing hebbian
+plasiticity and memory. Nat Rev Neurosci 1:11–20.
+Ballarini F, Moncada D, Martinez MC, Alen N, Viola H. 2009.
+Behavioral tagging is a general mechanism of long-term memory
+formation. Proc Natl Acad Sci U S A 106:14599–14604.
+Banko JL, Hou L, Klann E. 2004. NMDA receptor activation results in
+PKA-and ERK-dependent Mnk1 activation and increased eIF4E phosphorylation in hippocampal area CA1. J Neurochem 91:462–470.
+Barco A, Alarcon JM, Kandel ER. 2002. Expression of constitutively
+active CREB protein facilitates the late phase of long-term potentiation by enhancing synaptic capture. Cell 108:689–703.
+Blum S, Moore AN, Adams F, Dash PK. 1999. A mitogen-activated
+protein kinase cascade in the CA1/CA2 subfield of the dorsal hippocampus is essential for long-term spatial memory. J Neurosci 19:
+3535–3544.
+Chao SZ, Lu W, Lee HK, Huganir RL, Wolf ME. 2002. D1 dopamine receptor stimulation increases GluR1 phosphorylation in
+postnatal nucleus accumbens cultures. J Neurochem 81:984–992.
+Davis S, Vanhoutte P, Pages C, Caboche J, Laroche S. 2000. The
+MAPK/ERK cascade targets both Elk-1 and cAMP response
+element-binding protein to control long-term potentiation-dependent gene expression in the dentate gyrus in vivo. J Neurosci 20:
+4563–4572.
+Davis S, Laroche S. 2006. Mitogen-activated protein kinase/extracellular regulated kinase signalling and memory stabilization: A review.
+Genes Brain Behav 5:61–72.
+Dunsmoor JE, Murty VP, Davachi L, Phelps EA. 2015. Emotional
+learning selectively and retroactively strengthens memories for
+related events. Nature 520:345–348.
+English JD, Sweatt JD. 1996. Activation of p42 mitogen-activated
+protein kinase in hippocampal long term potentiation. J Biol
+Chem 271:24329–24332.
+Favata MF, Horiuchi KY, Manos EJ, Daulerio AJ, Stradley DA, Feeser
+WS, Van Dyk DE, Pitts WJ, Earl RA, Hobbs F. 1998. Identification of a novel inhibitor of mitogen-activated protein kinase
+kinase. J Biol Chem 273:18623–18632.
+Fonseca R, Nagerl UV, Morris RG, Bonhoeffer T. 2004. Competing
+for memory: Hippocampal LTP under regimes of reduced protein
+synthesis. Neuron 44:1011–1020.
+Frey U, Schroeder H. 1990. Dopaminergic antagonists prevent longterm maintenance of posttetanic LTP in the CA1 region of rat hippocampal slices. Brain Res 522:69–75.
+Frey U, Matthies H, Reymann KG, Matthies H. 1991. The effect of
+dopaminergic D 1 receptor blockade during tetanization on the
+expression of long-term potentiation in the rat CA1 region in
+vitro. Neurosci Lett 129:111–114.
+Frey U, Huang Y, Kandel E. 1993. Effects of cAMP simulate a late stage
+of LTP in hippocampal CA1 neurons. Science 260:1661–1664.
+Hippocampus
+
+Frey U, Morris RG. 1997. Synaptic tagging and long-term potentiation. Nature 385:533–536.
+Frey U, Morris RG. 1998. Synaptic tagging: Implications for late
+maintenance of hippocampal long-term potentiation. Trends Neurosci 21:181–188.
+Gallagher SM, Daly CA, Bear MF, Huber KM. 2004. Extracellular
+signal-regulated protein kinase activation is required for metabotropic glutamate receptor-dependent long-term depression in hippocampal area CA1. J Neurosci 24:4859–4864.
+Gasbarri A, Verney C, Innocenzi R, Campana E, Pacitti C. 1994.
+Mesolimbic dopaminergic neurons innervating the hippocampal
+formation in the rat: A combined retrograde tracing and immunohistochemical study. Brain Res 668:71–79.
+Granado N, Ortiz O, Suarez LM, Martin ED, Cena V, Solis JM,
+Moratalla R. 2008. D1 but not D5 dopamine receptors are critical
+for LTP, spatial learning, and LTP-Induced arc and zif268 expression in the hippocampus. Cereb Cortex 18:1–12.
+Gribkoff VK, Ashe JH. 1984. Modulation by dopamine of population
+spikes in area CA1 hippocampal neurons elicited by paired stimulus pulses. Cell Mol Neurobiol 4:177–183.
+Hansen N, Manahan-Vaughan D. 2014. Dopamine D1/D5 receptors
+mediate informational saliency that promotes persistent hippocampal long-term plasticity. Cereb Cortex 24:845–858.
+Hardingham GE, Arnold FJ, Bading H. 2001. A calcium microdomain near NMDA receptors: On switch for ERK-dependent synapse-to-nucleus communication. Nat Neurosci 4:565–566.
+Huang Y-Y, Kandel ER. 1995. D1/D5 receptor agonists induce a protein synthesis-dependent late potentiation in the CA1 region of the
+hippocampus. Proc Natl Acad Sci 92:2446–2450.
+Impey S, Obrietan K, Wong ST, Poser S, Yano S, Wayman G,
+Deloulme JC, Chan G, Storm DR. 1998. Cross talk between ERK
+and PKA is required for Ca 21 stimulation of CREB-dependent
+transcription and ERK nuclear translocation. Neuron 21:869–883.
+Janknecht R, Ernst WH, Pingoud V, Nordheim A. 1993. Activation
+of ternary complex factor Elk-1 by MAP kinases. EMBO J 12:
+5097.
+Jay TM. 2003. Dopamine: A potential substrate for synaptic plasticity
+and memory mechanisms. Prog Neurobiol 69:375–390.
+Kano M, Hashimoto K. 2009. Synapse elimination in the central
+nervous system. Curr Opin Neurobiol 19:154–161.
+Kelleher RJ, Govindarajan A, Jung H-Y, Kang H, Tonegawa S. 2004.
+Translational control by MAPK signaling in long-term synaptic
+plasticity and memory. Cell 116:467–479.
+Kelly MT, Crary JF, Sacktor TC. 2007. Regulation of protein kinase
+Mzeta synthesis by multiple kinases in long-term potentiation.
+J Neurosci 27:3439–3444.
+Laviolette SR. 2007. Dopamine modulation of emotional processing
+in cortical and subcortical neural circuits: evidence for a final common pathway in schizophrenia?. Schizophr Bull 33:971–981.
+Lemon N, Manahan-Vaughan D. 2006. Dopamine D1/D5 receptors
+gate the acquisition of novel information through hippocampal
+long-term potentiation and long-term depression. J Neurosci 26:
+7723–7729.
+Levenson JM, O’Riordan KJ, Brown KD, Trinh MA, Molfese DL,
+Sweatt JD. 2004. Regulation of histone acetylation during memory
+formation in the hippocampus. J Biol Chem 279:40545–40559.
+Li Q, Rothkegel M, Xiao ZC, Abraham WC, Korte M, Sajikumar S.
+2014. Making synapses strong: Metaplasticity prolongs associativity
+of long-term memory by switching synaptic tag mechanisms. Cerebral Cortex 24:353–363.
+Li S, Cullen WK, Anwyl R, Rowan MJ. 2003. Dopamine-dependent
+facilitation of LTP induction in hippocampal CA1 by exposure to
+spatial novelty. Nat Neurosci 6:526–531.
+Lisman JE, Grace AA. 2005. The hippocampal-VTA loop: Controlling
+the entry of information into long-term memory. Neuron 46:703–
+713.
+
+DOPAMINERGIC REGULATION OF SYNAPTIC ASSOCIATIVITY
+Maharana C, Sharma KP, Sharma SK. 2013. Feedback mechanism in
+depolarization-induced sustained activation of extracellular signalregulated kinase in the hippocampus. Sci Rep 3:1103
+Matthies H, Becker A, Schr€oeder H, Kraus J, H€ollt V, Krug M. 1997.
+Dopamine D1-deficient mutant mice do not express the late phase
+of hippocampal long-term potentiation. Neuroreport 8:3533–
+3535.
+McNamara CG, Tejero-Cantero A, Trouche S, Campo-Urriza N,
+Dupret D. 2014. Dopaminergic neurons promote hippocampal
+reactivation and spatial memory persistence. Nat Neurosci 17:
+1658–1660.
+Moncada D, Viola H. 2007. Induction of long-term memory by
+exposure to novelty requires protein synthesis: Evidence for a
+behavioral tagging. J Neurosci 27:7476–7481.
+Moncada D, Ballarini F, Martinez MC, Frey JU, Viola H. 2011. Identification of transmitter systems and learning tag molecules
+involved in behavioral tagging during memory formation. Proc
+Natl Acad Sci U S A 108:12931–12936.
+Nagai T, Takuma K, Kamei H, Ito Y, Nakamichi N, Ibi D, Nakanishi
+Y, Murai M, Mizoguchi H, Nabeshima T. 2007. Dopamine D1
+receptors regulate protein synthesis-dependent long-term recognition memory via extracellular signal-regulated kinase 1/2 in the
+prefrontal cortex. Learn Mem 14:117–125.
+Navakkode S, Sajikumar S, Frey JU. 2005. Mitogen-activated protein
+kinase-mediated reinforcement of hippocampal early long-term
+depression by the type IV-specific phosphodiesterase inhibitor rolipram and its effect on synaptic tagging. J Neurosci 25:10664–10670.
+Navakkode S, Sajikumar S, Frey JU. 2007. Synergistic requirements
+for the induction of dopaminergic D1/D5-receptor-mediated LTP
+in hippocampal slices of rat CA1 in vitro. Neuropharmacology 52:
+1547–1554.
+Navakkode S, Sajikumar S, Sacktor TC, Frey JU. 2010. Protein kinase
+Mzeta is essential for the induction and maintenance of dopamineinduced long-term potentiation in apical CA1 dendrites. Learn
+Mem 17:605–611.
+Navakkode S, Sajikumar S, Korte M, Soong TW. 2012. Dopamine
+induces LTP differentially in apical and basal dendrites through
+BDNF and voltage-dependent calcium channels. Learning &
+Memory 19:294–299.
+Papadeas ST, Blake BL, Knapp DJ, Breese GR. 2004. Sustained
+extracellular signal-regulated kinase 1/2 phosphorylation in neonate
+6-hydroxydopamine-lesioned rats after repeated D1-dopamine
+receptor agonist administration: implications for NMDA receptor
+involvement. J Neurosci 24:5863–5876.
+Pastalkova E, Serrano P, Pinkhasova D, Wallace E, Fenton AA,
+Sacktor TC. 2006. Storage of spatial information by the maintenance mechanism of LTP. Science 313:1141–1144.
+Pfeiffer BE, Huber KM. 2006. Current advances in local protein synthesis and synaptic plasticity. J Neurosci 26:7147–7150.
+Puig MV, Miller EK. 2012. The Role of prefrontal dopamine D1
+receptors in the neural mechanisms of associative learning. Neuron
+74:874–886.
+Redondo RL, Morris RG. 2011. Making memories last: The synaptic
+tagging and capture hypothesis. Nat Rev Neurosci 12:17–30.
+Roberson ED, English JD, Adams JP, Selcher JC, Kondratick C,
+Sweatt JD. 1999. The mitogen-activated protein kinase cascade
+couples PKA and PKC to cAMP response element binding protein
+phosphorylation in area CA1 of hippocampus. J Neurosci 19:
+4337–4348.
+Rossato JI, Bevilaqua LR, Izquierdo I, Medina JH, Cammarota M.
+2009. Dopamine controls persistence of long-term memory storage. Science 325:1017–1020.
+Sacktor TC. 2012. Memory maintenance by PKMzeta—An evolutionary perspective. Mol Brain 5:31.
+Sajikumar S, Frey JU. 2004. Late-associativity, synaptic tagging, and
+the role of dopamine during LTP and LTD. Neurobiol Learn
+Mem 82:12–25.
+
+13
+
+Sajikumar S, Morris RG, Korte M. 2014. Competition between
+recently potentiated synaptic inputs reveals a winner-take-all phase
+of synaptic tagging and capture. Proc Natl Acad Sci 111:12217–
+12221.
+Sarantis K, Matsokis N, Angelatou F. 2009. Synergistic interactions of
+dopamine D1 and glutamate NMDA receptors in rat hippocampus
+and prefrontal cortex: Involvement of ERK1/2 signaling. Neuroscience 163:1135–1145.
+Scatton B, Simon H, Le Moal M, Bischoff S. 1980. Origin of dopaminergic innervation of the rat hippocampal formation. Neuroscience Lett 18:125–131.
+Schafe GE, Atkins CM, Swank MW, Bauer EP, Sweatt JD, LeDoux
+JE. 2000. Activation of ERK/MAP kinase in the amygdala is
+required for memory consolidation of pavlovian fear conditioning.
+J Neurosci 20:8177–8187.
+Schicknick H, Schott BH, Budinger E, Smalla KH, Riedel A,
+Seidenbecher CI, Scheich H, Gundelfinger ED, Tischmeyer W.
+2008. Dopaminergic modulation of auditory cortex-dependent
+memory consolidation through mTOR. Cereb Cortex 18:2646–
+2658.
+Selcher JC, Weeber EJ, Christian J, Nekrasova T, Landreth GE,
+Sweatt JD. 2003. A role for ERK MAP kinase in physiologic temporal integration in hippocampal area CA1. Learn Mem 10:26–39.
+Serrano P, Yao Y, Sacktor TC. 2005. Persistent phosphorylation by
+protein kinase Mzeta maintains late-phase long-term potentiation.
+J Neurosci 25:1979–1984.
+Sharma SK, Sherff CM, Shobe J, Bagnall MW, Sutton MA, Carew
+TJ. 2003. Differential role of mitogen-activated protein kinase in
+three distinct phases of memory for sensitization in Aplysia.
+J Neurosci 23:3899–3907.
+Shires KL, Da Silva BM, Hawthorne JP, Morris RG, Martin SJ. 2012.
+Synaptic tagging and capture in the living rat. Nat Commun 3:
+1246Smolen P, Baxter DA, Byrne JH. 2008. Bistable MAP kinase activity:
+A plausible mechanism contributing to maintenance of late longterm potentiation. Am J Physiol Cell Physiol 294:C503–C515.
+Swank MW, Sweatt JD. 2001. Increased histone acetyltransferase and
+lysine acetyltransferase activity and biphasic activation of the ERK/
+RSK cascade in insular cortex during novel taste learning.
+J Neurosci 21:3383–3391.
+Sweatt JD. 2001. The neuronal MAP kinase cascade: A biochemical
+signal integration system subserving synaptic plasticity and memory. J Neurochem 76:1–10.
+Thiels E, Kanterewicz BI, Norman ED, Trzaskos JM, Klann E. 2002.
+Long-term depression in the adult hippocampus in vivo involves
+activation of extracellular signal-regulated kinase and phosphorylation of Elk-1. J Neurosci 22:2054–2062.
+Tsokas P, Ma T, Iyengar R, Landau EM, Blitzer RD. 2007. Mitogenactivated protein kinase upregulates the dendritic translation
+machinery in long-term potentiation by controlling the mammalian target of rapamycin pathway. J Neurosci 27:5885–5894.
+Waltereit R, Dammermann B, Wulff P, Scafidi J, Staubli U,
+Kauselmann G, Bundman M, Kuhl D. 2001. Arg3. 1/Arc mRNA
+induction by Ca21 and cAMP requires protein kinase A and
+mitogen-activated protein kinase/extracellular regulated kinase activation. J Neurosci 21:5484–5493.
+Wang SH, Redondo RL, Morris RG. 2010. Relevance of synaptic tagging and capture to the persistence of long-term potentiation and
+everyday spatial memory. Proc Natl Acad Sci U S A 107:19537–
+19542.
+Williams G, Millar J. 1990. Concentration-dependent actions of
+stimulated dopamine release on neuronal activity in rat striatum.
+Neuroscience 39:1–16.
+Wu G-Y, Deisseroth K, Tsien RW. 2001. Spaced stimuli stabilize
+MAPK pathway activation and its effects on dendritic morphology.
+Nat Neuroscience 4:151–158.
+Hippocampus
+
+14
+
+SHETTY ET AL.
+
+Xia Z, Dudek H, Miranti CK, Greenberg ME. 1996. Calcium influx via
+the NMDA receptor induces immediate early gene transcription by a
+MAP kinase/ERK-dependent mechanism. J Neurosci 16:5425–5436.
+Zheng P, Zhang X-X, Bunney B, Shi W-X. 1999. Opposite modulation
+of cortical N-methyl-d-aspartate receptor-mediated responses by low
+and high concentrations of dopamine. Neuroscience 91:527–535.
+
+Hippocampus
+
+Zornoza T, Cano-Cebrian MJ, Miquel M, Aragon C, Polache A,
+Granero L. 2005. Hippocampal dopamine receptors modulate
+the motor activation and the increase in dopamine levels in
+the rat nucleus accumbens evoked by chemical stimulation of
+the ventral hippocampus. Neuropsychopharmacology 30:843–
+852.
+
+

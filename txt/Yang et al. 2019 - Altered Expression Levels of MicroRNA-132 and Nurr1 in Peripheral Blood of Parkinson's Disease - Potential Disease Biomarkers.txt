@@ -1,0 +1,749 @@
+Research Article
+Cite This: ACS Chem. Neurosci. 2019, 10, 2243−2249
+
+pubs.acs.org/chemneuro
+
+Altered Expression Levels of MicroRNA-132 and Nurr1 in Peripheral
+Blood of Parkinson’s Disease: Potential Disease Biomarkers
+Zhaofei Yang,†,‡,§ Tianbai Li,‡,§ Song Li,‡,§ Min Wei,‡,§ Hongqian Qi,‡,§ Bairong Shen,∥
+Raymond Chuen-Chung Chang,⊥ Weidong Le,*,‡,§ and Fengyuan Piao*,†
+†
+
+Department of Occupational and Environmental Health, Dalian Medical University, Dalian 116044, China
+Center for Clinical Research on Neurological Diseases, the First Aﬃliated Hospital, Dalian Medical University, Dalian 116021,
+China
+§
+Liaoning Provincial Key Laboratory for Research on the Pathogenic Mechanisms of Neurological Diseases, the First Aﬃliated
+Hospital, Dalian Medical University, Dalian 116021, China
+∥
+Institute for Systems Genetics, West China Hospital, Sichuan University, Chengdu 610041, China
+⊥
+Laboratory of Neurodegenerative Diseases, LKS Faculty of Medicine, School of Biomedical Sciences, The University of Hong
+Kong, Hong Kong, China
+
+Downloaded via UNIV OF MARYLAND BALTIMORE on July 26, 2019 at 18:30:44 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+‡
+
+S Supporting Information
+*
+
+ABSTRACT: MicroRNAs (miRNAs) are small and evolutionary conserved noncoding RNAs that are involved in posttranscriptional gene regulation. Diﬀerential expression levels of miRNAs can be used as potential biomarkers of disease.
+Previous animal studies have indicated that the expression level of miR-132 is negatively correlated with its downstream
+molecule nuclear receptor related 1 protein (Nurr1), which is one of the key factors for the maintenance of dopaminergic
+function and is particularly vulnerable in Parkinson’s disease (PD). However, this correlation has not been conﬁrmed in human
+patients with PD. Moreover, the possible involvement of miR-132 during the pathogenesis and progression of PD is not fully
+investigated. Therefore, in the present study, we determined the peripheral circulation levels of miR-132 and Nurr1 in patients
+with PD, neurological disease controls (NDC) and healthy controls (HC) by reverse transcription real-time quantitative PCR
+(RT-qPCR). Our data clearly demonstrated that the plasma miR-132 level in PD was signiﬁcantly higher than those in HC
+(178%, p < 0.05) and NDC (188%, p < 0.001). When adjusted for gender and age, higher level of miR-132 expression was
+associated with the signiﬁcantly increased risk for PD in males and was closely related with the disease stages and disease
+severity. Furthermore, peripheral Nurr1 was signiﬁcantly decreased in PD compared with HC (56%, p < 0.001) and NDC
+(58%, p < 0.001). Much more interestingly, further analysis revealed a negative correlation between the decreased Nurr1 level
+and the elevated miR-132 level in PD. All these ﬁndings indicated that the combination of a high miR-132 level with the low
+level of its downstream Nurr1 might be a potential biomarker aiding in the diagnosis of PD and monitoring disease progression.
+KEYWORDS: Parkinson’s disease, miR-132, Nurr1, biomarker, peripheral blood
+
+■
+
+INTRODUCTION
+
+systematic understanding of this disease and the current
+treatments are mostly symptomatic.4 Moreover, the current
+diagnosis of PD is based primarily on subjective clinical rating
+of motor functions. By the time of diagnosis, over 60% of
+
+Parkinson’s disease (PD) is the second most common
+neurodegenerative disease in the world,1,2 pathologically
+characterized by the selective loss of dopaminergic (DAergic)
+neurons in substantia nigra (SN) and the formation of Lewy
+bodies (LB).3 Although great achievements have been made to
+clarify the disease pathogenesis and explore potent therapeutic
+strategies against PD for over 200 years, there is still no
+© 2019 American Chemical Society
+
+Received: September 4, 2018
+Accepted: February 28, 2019
+Published: February 28, 2019
+2243
+
+DOI: 10.1021/acschemneuro.8b00460
+ACS Chem. Neurosci. 2019, 10, 2243−2249
+
+Research Article
+
+ACS Chemical Neuroscience
+Table 1. Demographic Characteristics of Subjects Enrolled in the miR-132 Studya
+groups
+
+number (%)
+
+gender male/ female
+
+P value
+
+HC
+PD
+NDC
+
+222 (33.3)
+269 (40.3)
+176 (26.4)
+
+130:92
+157:112
+105:71
+
+ref
+NS
+NS
+
+P value
+
+age (years) (mean ± SEM)
+
+P value
+
+P value
+
+ref
+NS
+
+66.16 ± 0.61
+66.10 ± 0.61
+66.15 ± 0.74
+
+ref
+NS
+NS
+
+ref
+NS
+
+χ test and Kruskal−Wallis test. ref, reference; NS, not signiﬁcant; HC, healthy controls; PD, Parkinson’s disease; NDC, neurological disease
+control.
+
+a 2
+
+Table 2. Demographic Characteristics of Subjects Enrolled in the Nurr1/miR-132 Correlation Studya
+groups
+
+number (%)
+
+gender male/female
+
+P value
+
+HC
+PD
+NDC
+
+98 (28.4)
+142 (41.2)
+105 (30.4)
+
+54:44
+79:63
+56:49
+
+ref
+NS
+NS
+
+P value
+
+age (years) (mean ± SEM)
+
+P value
+
+P value
+
+ref
+NS
+
+66.87 ± 0.91
+67.19 ± 0.75
+67.44 ± 1.12
+
+ref
+NS
+NS
+
+ref
+NS
+
+a 2
+χ -square test and Kruskal−Wallis test. ref, reference; NS, not signiﬁcant; HC, healthy controls; PD, Parkinson’s disease; NDC, neurological
+disease control.
+
+DAergic neurons in the SN of PD patients are already lost.5
+Since there is no reliable quantitative diagnostic test for PD,
+the objective and measurable molecular biomarkers should be
+critical to serve as potential clinical tool to facilitate PD
+diagnosis and early intervention.
+MicroRNAs (miRNAs) are a class of ∼22 nt endogenous
+RNA molecules.6 Mature miRNAs recognize and bind to the
+3′ untranslated region of the message RNA (mRNA) by
+speciﬁc complementary sequence, and then aﬀect the
+expression of target genes.7 Several miRNAs have been
+found to play important roles in DAergic neuronal diﬀerentiation, apoptosis and protection of PD.8,9 For instance,
+miR-133b can regulate DAergic function negatively and aﬀect
+PD pathogenesis by repressing the expression of Pitx3 gene, a
+homeobox transcription factor required for the development
+and mature of DAergic neurons;8 miR-7 and miR-153 protect
+DAergic neurons from oxidative stress damage via altering αsynuclein expression;10,11 miR-433 induces overexpression of
+α-synuclein indirectly by binding to the promoter region of
+ﬁbroblast growth factor 20,12 while miR-128 suppresses the
+accumulation of α-synuclein by targeting to transcription factor
+EB;13 miR-132 dysregulation is associated with the changes of
+momoamine oxidase A (MAO-A), D1- and D2-dopamine
+receptor (DRD1 and DRD2) genes in dopamine receptor
+signaling in Toxoplasma gondii infected mice.14
+Among these above-mentioned miRNAs, we were particularly interested in miR-132, which have been reported to be
+highly expressed in neurons, and signiﬁcantly altered in various
+neurodegenerative disorders.15−18 The level of mesencephalon
+miR-132 was found to be signiﬁcantly increased in rat PD
+model, accompanied by a decreased Nurr1.19 Nurr1 is a
+transcription factor20−22 that plays crucial roles in the
+diﬀerentiation and functional maintenance of midbrain
+DAergic neurons and the microglia-mediated neuroinﬂammation.23,24 Our previous study demonstrated that overexpression
+of miR-132 repressed embryonic stem (ES) cells diﬀerentiation into DAergic neurons by directly targeting Nurr1
+gene,25 and Nurr1 expression level was decreased in the
+patients with PD compared to health individuals.26,27
+However, miR-132 expression level in PD patients and
+controls, and the possible correlation between peripheral
+levels of miR-132 and Nurr1 in PD patients has not been
+determined.
+In the present study, we recruited 269 patients with
+diagnosed PD, 222 healthy controls (HC), and 176 patients
+
+with various non-PD neurological disorder controls (NDC).
+The main aims of the present study were to determine (1)
+whether peripheral miR-132 expression level was signiﬁcantly
+altered in patients with PD as compared with controls; (2)
+whether age, gender, disease severity and medications aﬀect
+miR-132 expression; (3) whether peripheral miR-132 had a
+negative correlation with Nurr1 in PD patients.
+
+■
+
+RESULTS AND DISCUSSION
+
+In order to prove our hypothesis, we measured the relative
+expression level of miR-132 in human plasma from patients
+with PD, NDC, and HC by RT-qPCR. All 667 subjects
+enrolled in this study were Han ethnic Chinese with the male/
+female ratio at 392/275. Their ages ranged from 40 to 89 years
+with a mean of 66.14 ± 0.66 years. The demographic
+characteristics including age and gender of each group were
+summarized in Table 1. There was no signiﬁcant diﬀerence
+among PD, HC, and NDC groups for the distribution of age
+and gender in each group. In addition, total 345 available
+peripheral blood lymphocytes (PBL) samples (142 PD, 98
+HC, and 105 NDC) were used for the further determination of
+Nurr1 expression and evaluation the correlation between
+Nurr1 and miR-132. There was no signiﬁcant diﬀerence in
+both gender and age among all groups. The demographic
+characteristics of the cohort of subjects for the Nurr1 gene
+expression were summarized in Table 2.
+miRNAs have been proposed as putative noninvasive
+biomarkers in diagnosis, prognosis, and response to treatment
+for several diseases, including neurodegenerative disorders
+such as PD.28 In the present study, we aimed to measure the
+relative expression of miR-132 and Nurr1 in human peripheral
+blood from PD and controls. Our results showed that plasma
+miR-132 expression was signiﬁcantly higher in PD than that in
+HC (Figure 1, 0.32 ± 0.03 vs 0.18 ± 0.03, p < 0.05) and in
+NDC (Figure 1, 0.32 ± 0.03 vs 0.17 ± 0.03, p < 0.001),
+suggesting that plasma miR-132 expression level may be
+specially altered.
+In order to explore the possible impacts of age on the
+changes of plasma miR-132 expression level, we analyzed the
+correlation between miR-132 expression and age in both HC
+and PD groups using Spearman’s correlation analysis. As
+shown in Figure 2A, the coeﬃcient (R) results revealed no
+correlation between miR-132 and age in HC (r = 0.117, p =
+0.144) and PD groups (r = 0.048, p = 0.465), suggesting that
+age did not inﬂuence the expression of plasma miR-132.
+2244
+
+DOI: 10.1021/acschemneuro.8b00460
+ACS Chem. Neurosci. 2019, 10, 2243−2249
+
+Research Article
+
+ACS Chemical Neuroscience
+
+patients.29 Moreover, the expression levels of miR-132 were
+varied among diﬀerent regions of the brain and presented in a
+sex-dependent manner in mice with chronic Toxoplasma gondii
+infection.30 It is conceivable that the signiﬁcant higher miR132 expression in male PD than female in our study may
+suggest that gender inﬂuence might be involved in miR-132
+expression and might play a role in diﬀerent ratio of male/
+female PD.31
+We further analyzed disease duration and severity (H-Y
+score) in 269 patients with PD. We found that plasma miR-132
+expression was associated with the disease duration. The
+Spearman correlation analysis results revealed a positive
+correlation between the relative expression of miR-132 and
+duration in PD (r = 0.187, p = 0.006) (Figure 3A).
+Consistently, similar association was also found between
+miR-132 expression and H−Y scores (Figure 3B). In our
+study, we analyzed plasma miR-132 expression level of 67 PD
+patients who were of recent-onset and not yet been treated
+with anti-PD medications (“naı̈ve” PD), we found that the
+miR-132 expression in PD was signiﬁcantly increased in
+comparison to that in HC (Figure 3C). We also analyzed the
+miR-132 expression in 183 PD patients who were regularly
+treated with ﬁrst- or second-line anti-PD medications,
+including DA receptor agonists alone (DR, n = 16), levodopa
+alone (L-dopa) (n = 69), or the combination of L-dopa and
+DR (n = 98). Nineteen PD patients treated irregularly with
+several other medications were not included in the analysis.
+Interestingly, L-dopa treatment increased the miR-132
+expression level of PD patients compared to HC, but there
+was no signiﬁcant diﬀerence among the other four groups (PD,
+naı̈ve, DR, L-dopa+DR, Figure 3C). Alieva et al.32 reported
+that the level of miR-132 in PBL was increased in 18 L-dopatreated patients with PD compared with nontreated PD (H-Y
+
+Figure 1. Scatter plots of miR-132 relative expression in plasma in
+diﬀerent study groups. Fluorescent reading from real-time PCR
+reaction was quantitatively analyzed by determining the diﬀerence of
+Ct (ΔCt) between Ct of miR-132 and external control, and the miR132 expression was determined by the formation of 2−ΔCt. The level
+of miR-132 expression was signiﬁcantly increased in patients with PD
+(n = 269) as compared with healthy controls (HC, n = 222) and
+neurological disease controls (NDC, n = 176). Horizontal bar
+represent median value. The Kruskal−Wallis test was used to evaluate
+the diﬀerences in the relative miR-132 expression levels in individuals
+from each group. *p < 0.05 vs HC, ###p < 0.001 vs NDC.
+
+Interestingly, we found a signiﬁcantly higher plasma miR-132
+level in male PD than that in HC, while there was no diﬀerence
+between PD and NDC (Figure 2B). It was reported that
+miRNAs expression proﬁles were diﬀerentially expressed
+between male and female in SN DAergic neurons of PD
+
+Figure 2. Age and gender eﬀects on plasma miR-132 expression levels in PD and controls. (A) Correlation between plasma miR-132 and age in PD
+and HC groups. The Spearman correlation analysis results revealed no correlation between the relative expression of miR-132 and age in HC (r =
+0.117, p = 0.144) and PD group (r = 0.048, p = 0.465). (B) Expression levels of miR-132 in male and female of HC, PD, and NDC groups. The
+Kruskal−Wallis test was used to evaluate the diﬀerences in the gender distribution in individuals from each group. **p < 0.01 vs HC.
+2245
+
+DOI: 10.1021/acschemneuro.8b00460
+ACS Chem. Neurosci. 2019, 10, 2243−2249
+
+Research Article
+
+ACS Chemical Neuroscience
+
+Figure 3. Expression levels of miR-132 in PD and HC. Eﬀect of (A) disease course, (B) severity, and (C) anti-PD medications to the expression
+levels of miR-132. Spearman correlation analysis revealed a positive correlation between the relative expression of miR-132 and duration in PD (r =
+0.187, p = 0.006). The Kruskal−Wallis test was used to evaluate the diﬀerences in the relative miR-132 expression levels in individuals from each
+group. *p < 0.05 vs HC.
+
+Figure 4. PBL Nurr1 expression levels in PD and controls (HC, NDC). Kruskal−Wallis test was used to evaluate the diﬀerences in the relative
+Nurr1 expression levels in individuals from each group. *p < 0.05 vs HC, #p < 0.05 vs NDC, ***p < 0.001 vs HC, ###p < 0.001 vs NDC.
+
+correlation with the changes of plasma miR-132. Besides, in
+contrast to the higher plasma miR-132 expression level in male
+PD, we also found a signiﬁcantly lower level of Nurr1 in male
+PD, as compared to HC and NDC (Figure 4B). We further
+documented that Nurr1 was signiﬁcantly decreased in naı̈ve
+PD comparing to HC (Figure S1).
+Research on human peripheral blood is common in a clinic
+study to identify disease biomarkers and evaluate disease
+progression. miRNAs have been reported to be encapsulated in
+microvesicles, which are secreted by circulating blood cells and
+other cells from diﬀerent tissues.33,34 Kim and colleagues8
+determined pre-miR-132 by qPCR for a panel of 224 precursor
+miRNAs in RNAs samples from PD and normal brains. Their
+results showed that pre-miR-132 was enriched and high
+expressed in the midbrain of PD brains compared to HC.
+Moreover, it is known that Nurr1 is expressed predominantly
+in the central nervous system (CNS), especially in the
+midbrain and limbic areas.20 The decline of Nurr1-immunoreactive neuronal number and optical density have been
+observed in the SN neurons of PD midbrain.35 In addition
+
+scores 1−2). We considered that the expression level of miR132 were also aﬀected by other factors, such as gender,
+duration and severity of disease in addition of medications.
+Receiver operating characteristic (ROC) analysis revealed that
+the areas under the ROC curve (AUC) were 0.72 (95% CI,
+0.66−0.78; p < 0.0001) for miR-132 in plasma between PD
+and HC. The AUC of miR-132 were larger than 0.7, which
+means that miR-132 could be considered to have a
+discriminative value. Certainly, a larger population-based
+study is needed for the validation of this observation.
+To further explore how miR-132 worked in the occurrence
+and development of PD, we measured the PBL expression level
+of Nurr1, which has been reported to be a target gene of miR132.25 We previously found that Nurr1 gene expression was
+signiﬁcantly decreased in PBL of patients with PD as compared
+with both HC and NDC.26,27 Furthermore, Nurr1 mRNA level
+in PBL of PD was signiﬁcantly lower than that in HC (0.007 ±
+0.001 vs 0.017 ± 0.003, p < 0.001), and NDC (0.007 ± 0.001
+vs 0.017 ± 0.002, p < 0.001). There was no diﬀerence of Nurr1
+expression between HC and NDC (Figure 4A), which was in
+2246
+
+DOI: 10.1021/acschemneuro.8b00460
+ACS Chem. Neurosci. 2019, 10, 2243−2249
+
+Research Article
+
+ACS Chemical Neuroscience
+
+Figure 5. Correlation between plasma miR-132 and PBL Nurr1 levels in the peripheral blood of HC (n = 98), PD (n = 142), and NDC (n = 105).
+Spearman correlation analysis revealed a negative correlation between the relative expression of miR-132 and Nurr1. (A) HC group: r = −0.335, p
+< 0.001. (B) PD group: r = −0.579, p < 0.001. (C) NDC group: r = 0.082, p = 0.411. Values are displayed on a log102−ΔCT scale on the X- and Yaxes.
+
+to the biological eﬀects on CNS, Nurr1 has been reported to
+be associated with pro-inﬂammatory cytokines in peripheral
+blood mononuclear cell including PBL in patients with PD and
+type 2 diabetes.36,37 Here, we measured Nurr1 expression in
+PBL and analyzed the correlation between PBL Nurr1 and
+plasma miR-132, showing a negative correlation in PD patients
+(r = −0.579, p < 0.001) (Figure 5). Interestingly, no
+correlation was found in NDC patients (r = 0.082, p =
+0.411) (Figure 5), suggesting that miR-132/Nurr1 signaling
+was speciﬁcally involved in PD. Moreover, to explore the
+correlation of miR-132 and Nurr1 in blood, we determined if
+miR-132 can aﬀect the Nurr1 expression in PBL. We
+transfected with miR-132 mimic or normalized control (NC)
+mimic in cultured PBL for 24 h, and found that the Nurr1 level
+was signiﬁcantly decreased in PBL transfected with miR-132
+mimic (Figure S2), suggesting a regulative eﬀect of miR-132
+on Nurr1 expression in PBL. Our previous studies and others
+have documented that Nurr1 was critical not only in the
+midbrain DAergic neuron diﬀerentiation and functional
+maintenance, but also in regulating glia- and lymphocytemediated inﬂammation.24,36,37 Collectively, Nurr1 defect might
+play an important role in PD pathogenesis.
+Recently, growing evidence has shown that miR-132 may be
+one of the promising miRNAs in the diagnosis and prognosis
+of neurological disease. In AD, miR-132 was found to be
+downregulated in patients’ brains and cerebrospinal ﬂuid,38
+whereas it was upregulated in their serum39 and plasma.15
+However, these reports did not compare miR-132 expression
+to NDC. In this study, we found that miR-132 measurement in
+plasma may help in diﬀerentiating PD from various non-PD
+NDC, and the combination of Nurr1 with miR-132 may
+enhance the sensitivity and speciﬁcity for diﬀerential diagnosis
+of PD.
+Nevertheless, the results from our present study may merit
+the attention that miR-132 may be associated with PD, as
+evidenced by the progressive increasing of plasma miR-132
+level in PD patients in a disease stage- and disease severitydependent manner. In conclusion, our study may provide the
+following information: (1) miR-132 expression level was
+signiﬁcantly increased in patients with PD compared to both
+HC and NDC; (2) the changes in plasma miR-132 expression
+level were correlated with disease progression and severity; (3)
+the diﬀerence of miR-132 level in male PD vs controls was
+greater than that in female PD vs controls; (4) Nurr1 gene
+expression was signiﬁcantly decreased in PBL of PD as
+compared with HC and NDC, showing negative correlation
+with miR-132 expression level in PD patients. Collectively, the
+
+combined measurements of miR-132 and Nurr1 expression
+levels in blood may help the diagnosis and diﬀerential
+diagnosis of PD, and may also assist the monitoring of the
+disease progression.
+
+■
+
+METHODS
+
+Participants and Blood Sampling. In this study, we recruited a
+total of 667 participants including 269 patients with sporadic PD, 222
+HC, and 176 various non-PD NDC which consist of 38
+cerebrovascular disease, 38 epilepsy, 25 peripheral neuropathy, 20
+essential tremor, 16 myasthenia gravis, 15 migraine, 14 motor neuron
+disease, and 10 multiple sclerosis. PD patients were examined and
+diagnosed by at least two experienced neurologists from the First
+Aﬃliated Hospital of Dalian Medical University, according to the
+Movement Disorder Society Clinical Diagnostic Criteria for
+Parkinson’s disease.40 Subjects with secondary parkinsonism, neoplastic or metabolic disorders, alcoholism were excluded. PD disease
+severity was assessed by Modiﬁed Hoehn and Yahr (H-Y) staging.
+HC group were recruited from the Health Examination Center of the
+First Aﬃliated Hospital of Dalian Medical University, and were either
+diagnosed without a neurological disorder or with a systemic disease
+without neurological manifestations. All subjects (or their caregivers)
+recruited to our studies provided a written informed consent agreeing
+to participate the project. This study has been granted ethical
+approval by the Ethics Committee of the First Aﬃliated Hospital of
+Dalian Medical University (approval number: LCKY2014-29).
+Blood samples used in this study were collected by direct
+venipuncture at the First Aﬃliated Hospital of Dalian Medical
+University. Brieﬂy, two milliliters of peripheral blood was drawn from
+cubital vein into a vacuum blood tube with ethylenediaminetetraacetic
+acid (EDTA) and then the plasma was aliquoted (200 μL) into sterile
+tube and stored at −80 °C. PBL were separated from gradient Ficoll/
+Paque by centrifugation at 450 g for 20 min at room temperature (20
+± 2 °C), resuspended with Sample Protector of RNA/DNA
+(TaKaRa, Dalian, China) and stored at −80 °C until RNA extraction.
+Plasma miRNA and PBL RNA Extraction and Quantiﬁcation.
+Total miRNAs were extracted from plasma using miRNA isolation
+system (Tiangen Biotech (Beijing) Co., Ltd., Beijing, China). Five
+microliters of miRNA from plasma was reverse transcribed into ﬁrst
+strand cDNA by Tiangen miRCute miRNA cDNA synthesis kit
+(Tiangen Biotech (Beijing) Co., Ltd.). Total RNAs from PBL were
+extracted using the mirVana miRNA Isolation Kit (Ambion, Carlsbad,
+CA) following the manufacturer’s instructions, and 1 μg RNA from
+PBL was reverse transcribed into ﬁrst strand cDNA by PrimeScript
+RT reagent Kit with gDNA Eraser (TaKaRa, Dalian, China).
+The plasma miR-132 and PBL Nurr1 mRNA levels were
+determined by RT-qPCR. For plasma, considering the lack of suitable
+internal control for normalization, artiﬁcial synthetic external miRNA
+(Tiangen Biotech (Beijing) Co., Ltd., Beijing, China) was used for
+normalization. Besides, the reverse primer of miR-132 was provided
+by the miRcute miRNA qPCR Detection Kit (Tiangen Biotech
+2247
+
+DOI: 10.1021/acschemneuro.8b00460
+ACS Chem. Neurosci. 2019, 10, 2243−2249
+
+Research Article
+
+ACS Chemical Neuroscience
+(Beijing) Co., Ltd., Beijing, China). The up-primer targeting plasma
+miR-132-3p was as follows: 5′-GCT AAC AGT CTA CAG CCA
+TGG TCG-3′. For PBL, human GAPDH gene was used as an internal
+control. The speciﬁc primers targeting PBL Nurr1 and GAPDH as
+follows: Nurr1-forward: 5′-TCC AAC GAG GGG CTG TGC G-3′,
+Nurr1-reverse: 5′-CAC TGT GCG CTT AAA GAA GC-3′; GAPDHforward: 5′-GAA GGT GAA GGT CGG AGT C-3′, GAPDH-reverse:
+5′-GAA GAT GGT GAT GGG ATT TC-3′. Relative quantiﬁcation
+was performed using the 2−ΔCt method. PCR was carried out using
+ABI 7500 fast real-time PCR system (Applied Biosystems, Foster
+City, CA) in a total volume of 20 μL for each reaction.
+Statistical Analysis. Quantitative data were expressed as mean ±
+SEM, or median depending on the distribution of the data. The χ2 test
+was used to evaluate the statistical diﬀerences of gender distribution
+between PD patients and control subjects. The Kruskal−Wallis test
+followed by Dunn’s multiple comparison test as a post hoc test using
+the GraphPad Prism software version 4 (GraphPad Inc., San Diego,
+CA) was used to evaluate the diﬀerences in the age distribution and
+relative miRNA expression levels in individuals from each group.
+Exact 95% conﬁdence intervals (CIs) were reported for estimation of
+sensitivity and speciﬁcity. ROC analysis was performed using
+MedCalc software version 17.2 (MedCalc Software Inc., Mariakerke,
+Belgium), and predictive performance of the putative biomarker
+(miRNA-132 or Nurr1 or both) for the presence of PD was quantiﬁed
+by using AUC. Correlations were assessed using Spearman’s
+correlation coeﬃcient. The correlations were reported at á level of
+0.05. The other statistical analysis in this research was performed with
+the SPSS software version 13.0 (SPSS Inc., Chicago, IL). All statistical
+checks were carried out two-sided and a p-value < 0.05 was
+considered as statistical signiﬁcance.
+
+■
+
+(2018B030337001), and National Key Research and Development Program of China (2016YFC1306603).
+Notes
+
+The authors declare no competing ﬁnancial interest.
+
+■
+
+(1) Xie, Y., and Chen, Y. (2016) microRNAs: Emerging Targets
+Regulating Oxidative Stress in the Models of Parkinson’s Disease.
+Front. Neurosci. 10, 298.
+(2) Sarkar, S., Raymick, J., and Imam, S. (2016) Neuroprotective
+and Therapeutic Strategies against Parkinson’s Disease: Recent
+Perspectives. Int. J. Mol. Sci. 17 (pii), E904.
+(3) Kalia, L. V., and Lang, A. E. (2015) Parkinson’s disease. Lancet
+386, 896−912.
+(4) Li, S., and Le, W. (2017) Milestones of Parkinson’s Disease
+Research: 200 Years of History and Beyond. Neurosci. Bull. 33, 598−
+602.
+(5) Dauer, W., and Przedborski, S. (2003) Parkinson’s disease:
+mechanisms and models. Neuron 39, 889−909.
+(6) Bartel, D. P. (2004) MicroRNAs: genomics, biogenesis,
+mechanism, and function. Cell 116, 281−297.
+(7) Wang, Y., Yang, Z., and Le, W. (2017) Tiny But Mighty:
+Promising Roles of MicroRNAs in the Diagnosis and Treatment of
+Parkinson’s Disease. Neurosci. Bull. 33, 543−551.
+(8) Kim, J., Inoue, K., Ishii, J., Vanti, W. B., Voronov, S. V.,
+Murchison, E., Hannon, G., and Abeliovich, A. (2007) A MicroRNA
+feedback circuit in midbrain dopamine neurons. Science 317, 1220−
+1224.
+(9) Chmielarz, P., Konovalova, J., Najam, S. S., Alter, H., Piepponen,
+T. P., Erfle, H., Sonntag, K. C., Schütz, G., Vinnikov, I. A., and
+Domanskyi, A. (2017) Dicer and microRNAs protect adult dopamine
+neurons. Cell Death Dis. 8, No. e2813.
+(10) Junn, E., Lee, K. W., Jeong, B. S., Chan, T. W., Im, J. Y., and
+Mouradian, M. M. (2009) Repression of alpha-synuclein expression
+and toxicity by microRNA-7. Proc. Natl. Acad. Sci. U. S. A. 106,
+13052−13057.
+(11) Doxakis, E. (2010) Post-transcriptional regulation of alphasynuclein expression by mir-7 and mir-153. J. Biol. Chem. 285, 12726−
+12734.
+(12) Wang, G., van der Walt, J. M., Mayhew, G., Li, Y. J., Züchner,
+S., Scott, W. K., Martin, E. R., and Vance, J. M. (2008) Variation in
+the miRNA-433 binding site of FGF20 confers risk for Parkinson
+disease by overexpression of alphasynuclein. Am. J. Hum. Genet. 82,
+283−289.
+(13) Decressac, M., Mattsson, B., Weikop, P., Lundblad, M.,
+Jakobsson, J., and Björklund, A. (2013) TFEB-mediated autophagy
+rescues midbrain dopamine neurons from α-synuclein toxicity. Proc.
+Natl. Acad. Sci. U. S. A. 110, E1817−26.
+(14) Xiao, J., Li, Y., Prandovszky, E., Karuppagounder, S. S., Talbot,
+C. C., Jr., Dawson, V. L., Dawson, T. M., and Yolken, R. H. (2014)
+MicroRNA-132 dysregulation in Toxoplasma gondii infection has
+implications for dopamine signaling pathway. Neuroscience 268, 128−
+138.
+(15) Sheinerman, K. S., Tsivinsky, V. G., Abdullah, L., Crawford, F.,
+and Umansky, S. R. (2013) Plasma microRNA biomarkers for
+detection of mild cognitive impairment: biomarker validation study.
+Aging 5, 925−938.
+(16) Salta, E., and De Strooper, B. (2017) microRNA-132: a key
+noncoding RNA operating in the cellular phase of Alzheimer’s disease.
+FASEB J. 31, 424−433.
+(17) Sheinerman, K. S., Tsivinsky, V. G., Crawford, F., Mullan, M. J.,
+Abdullah, L., and Umansky, S. R. (2012) Plasma microRNA
+biomarkers for detection of mild cognitive impairment. Aging 4,
+590−605.
+(18) Kumar, S., and Reddy, P. H. (2016) Are circulating microRNAs
+peripheral biomarkers for Alzheimer’s disease? Biochim. Biophys. Acta,
+Mol. Basis Dis. 1862, 1617−27.
+
+ASSOCIATED CONTENT
+
+S Supporting Information
+*
+
+The Supporting Information is available free of charge on the
+ACS Publications website at DOI: 10.1021/acschemneuro.8b00460.
+Eﬀect of miR-132 on Nurr1 expression in cultured PBL
+and eﬀect of medications on the Nurr1 expression in
+PBL of PD patients (PDF)
+Special Issue Paper
+
+Part of the Alzheimer’s Disease and Parkinson’s Disease:
+Process and Progress special issue.
+
+■
+
+REFERENCES
+
+AUTHOR INFORMATION
+
+Corresponding Authors
+
+*E-mail: piaofengyuan353@163.com (F.P.).
+*E-mail: wdle@sibs.ac.cn (W.L.).
+ORCID
+
+Bairong Shen: 0000-0003-2899-1531
+Raymond Chuen-Chung Chang: 0000-0001-8538-7993
+Weidong Le: 0000-0001-7459-2705
+Author Contributions
+
+W.L. and F.P. designed the project. Z.Y. and T.L. carried out
+all the experiments. Z.Y., T.L., and B.S. contributed to
+statistical analyses and results interpretation. Z.Y., T.L., S.L.,
+M.W., and B.S. contributed to drafting of the manuscript. Z.Y.,
+T.L., S.L., M.W., H.Q., R.C.-C.C, W.L., and F.P. revised the
+paper. All authors edited and approved the ﬁnal version of the
+manuscript.
+Funding
+
+This work was supported by the National Basic Research
+Program of China (81370470), Key Filed Research and
+Development Program of Guangdong Province
+2248
+
+DOI: 10.1021/acschemneuro.8b00460
+ACS Chem. Neurosci. 2019, 10, 2243−2249
+
+Research Article
+
+ACS Chemical Neuroscience
+(19) Lungu, G., Stoica, G., and Ambrus, A. (2013) MicroRNA
+profiling and the role of microRNA-132 in neurodegeneration using a
+rat model. Neurosci. Lett. 553, 153−158.
+(20) Jankovic, J., Chen, S., and Le, W. D. (2005) The role of Nurr1
+in the development of dopaminergic neurons and Parkinson’s disease.
+Prog. Neurobiol. 77, 128−138.
+(21) Dong, J., Li, S., Mo, J. L., Cai, H. B., and Le, W. D. (2016)
+Nurr1-Based Therapies for Parkinson’s Disease. CNS Neurosci. Ther.
+22, 351−359.
+(22) Wang, Z., Benoit, G., Liu, J., Prasad, S., Aarnisalo, P., Liu, X.,
+Xu, H., Walker, N. P., and Perlmann, T. (2003) Structure and
+function of Nurr1 identifies a class of ligand-independent nuclear
+receptors. Nature 423, 555−560.
+(23) Decressac, M., Volakakis, N., Björklund, A., and Perlmann, T.
+(2013) NURR1 in Parkinson disease−from pathogenesis to
+therapeutic potential. Nat. Rev. Neurol. 9, 629−636.
+(24) Saijo, K., Winner, B., Carson, C. T., Collier, J. G., Boyer, L.,
+Rosenfeld, M. G., Gage, F. H., and Glass, C. K. (2009) A Nurr1/
+CoREST pathway in microglia and astrocytes protects dopaminergic
+neurons from inflammation-induced death. Cell 137, 47−59.
+(25) Yang, D., Li, T., Wang, Y., Tang, Y., Cui, H., Tang, Y., Zhang,
+X., Chen, D., Shen, N., and Le, W. (2012) miR-132 regulates the
+differentiation of dopamine neurons by directly targeting Nurr1
+expression. J. Cell Sci. 125, 1673−1682.
+(26) Le, W., Pan, T., Huang, M., Xu, P., Xie, W., Zhu, W., Zhang, X.,
+Deng, H., and Jankovic, J. (2008) Decreased NURR1 gene expression
+in patients with Parkinson’s disease. J. Neurol. Sci. 273, 29−33.
+(27) Liu, H., Wei, L., Tao, Q., Deng, H., Ming, M., Xu, P., and Le,
+W. (2012) Decreased NURR1 and PITX3 gene expression in Chinese
+patients with Parkinson’s disease. Eur. J. Neurol. 19, 870−875.
+(28) Batistela, M. S., Josviak, N. D., Sulzbach, C. D., and de Souza,
+R. L. (2017) An overview of circulating cell-free microRNAs as
+putative biomarkers in Alzheimer’s and Parkinson’s Diseases. Int. J.
+Neurosci. 127, 547−558.
+(29) Briggs, C. E., Wang, Y., Kong, B., Woo, T. U., Iyer, L. K., and
+Sonntag, K. C. (2015) Midbrain dopamine neurons in Parkinson’s
+disease exhibit a dysregulated miRNA and target-gene network. Brain
+Res. 1618, 111−21.
+(30) Li, Y. E., Kannan, G., Pletnikov, M. V., Yolken, R. H., and Xiao,
+J. (2015) Chronic infection of Toxoplasma gondii downregulates
+miR-132 expression in multiple brain regions in a sex-dependent
+manner. Parasitology 142, 623−32.
+(31) Taylor, K. S., Cook, J. A., and Counsell, C. E. (2007)
+Heterogeneity in male to female risk for Parkinson’s disease. J. Neurol.,
+Neurosurg. Psychiatry 78, 905−906.
+(32) Alieva, A., Filatova, E. V., Karabanov, A. V., Illarioshkin, S. N.,
+Limborska, S. A., Shadrina, M. I., and Slominsky, P. A. (2015) miRNA
+expression is highly sensitive to a drug therapy in Parkinson’s disease.
+Parkinsonism. Rrelat. Disord. 21, 72−74.
+(33) Ding, H., Huang, Z., Chen, M., Wang, C., Chen, X., Chen, J.,
+and Zhang, J. (2016) Identification of a panel of five serum miRNAs
+as a biomarker for Parkinson’s disease. Parkinsonism. Relat. Disord. 22,
+68−73.
+(34) Zhang, Y., Liu, D., Chen, X., Li, J., Li, L., Bian, Z., Sun, F., Lu, J.,
+Yin, Y., Cai, X., Sun, Q., Wang, K., Ba, Y., Wang, Q., Wang, D., Yang,
+J., Liu, P., Xu, T., Yan, Q., Zhang, J., Zen, K., and Zhang, C. Y. (2010)
+Secreted monocytic miR-150 enhances targeted endothelial cell
+migration. Mol. Cell 39, 133−144.
+(35) Chu, Y., Le, W., Kompoliti, K., Jankovic, J., Mufson, E. J., and
+Kordower, J. H. (2006) Nurr1 in Parkinson’s disease and related
+disorders. J. Comp. Neurol. 494, 495−514.
+(36) Li, T., Yang, Z., Li, S., Cheng, C., Shen, B., and Le, W. (2018)
+Alterations of NURR1 and cytokines in the peripheral blood
+mononuclear cells: combined biomarkers for Parkinson’s disease.
+Front. Aging Neurosci. 10, 392.
+(37) Xu, Y., Huang, Q., Zhang, W., Wang, Y., Zeng, Q., He, C., Xue,
+J., Chen, J., Hu, X., and Xu, Y. (2015) Decreased expression levels of
+Nurr1 are associated with chronic inflammation in patients with type
+2 diabetes. Mol. Med. Rep. 12, 5487−5493.
+
+(38) Cogswell, J. P., Ward, J., Taylor, I. A., Waters, M., Shi, Y.,
+Cannon, B., Kelnar, K., Kemppainen, J., Brown, D., Chen, C., Prinjha,
+R. K., Richardson, J. C., Saunders, A. M., Roses, A. D., and Richards,
+C. A. (2008) Identification of miRNA changes in Alzheimer’s disease
+brain and CSF yields putative biomarkers and insights into disease
+pathways. J. Alzheimer's Dis. 14, 27−41.
+(39) Xie, B., Zhou, H., Zhang, R., Song, M., Yu, L., Wang, L., Liu, Z.,
+Zhang, Q., Cui, D., Wang, X., and Xu, S. (2015) Serum miR-206 and
+miR-132 as potential circulating biomarkers for mild cognitive
+impairment. J. Alzheimer's Dis. 45, 721−731.
+(40) Postuma, R. B., Berg, D., Stern, M., Lewis, S., Lang, A. E.,
+Halliday, G., Goetz, C. G., Chan, P., Slow, E., Seppi, K., Schaffer, E.,
+Rios-Romenets, S., Mi, T., Maetzler, C., Li, Y., Heim, B., Bledsoe, I.
+O., and Berg, D. (2018) Validation of the MDS clinical diagnostic
+criteria for Parkinson’s disease. Mov. Disord. 33, 1601.
+
+2249
+
+DOI: 10.1021/acschemneuro.8b00460
+ACS Chem. Neurosci. 2019, 10, 2243−2249
+
+
