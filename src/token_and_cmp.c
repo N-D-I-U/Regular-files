@@ -1,4 +1,6 @@
 #include <string.h>
+#include <stdlib.h>
+#include <stdio.h>
 
 static size_t get_delim_nbr(char *str, char delim)
 {
@@ -23,11 +25,13 @@ size_t get_array_size(char **array)
 char **tokn_array(char *str, char delim)
 {
     size_t size = get_delim_nbr(str, delim);
-    char **tokns = malloc(sizeof(char *) * size + 1);
-
-    tokns[0] = strdup(strtok(str, delim));
+    char **tokns = malloc(sizeof(char *) * size + 2);
+    if (!tokns) {
+        perror("malloc");
+    }
+    tokns[0] = strdup(strtok(str, &delim));
     for (size_t i = 0; tokns[i]; i++) {
-        tokns[i] = strdup(strtok(NULL, delim));
+        tokns[i] = strdup(strtok(NULL, &delim));
     }
     return tokns;
 }
